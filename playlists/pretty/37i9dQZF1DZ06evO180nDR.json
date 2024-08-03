@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 29529,
+  "description": "This Is Los Dareyes De La Sierra. Los temas esenciales, todos en una lista.",
+  "num_followers": 29550,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABtjlXR85VlY7XtzJz3zap+",
+  "snapshot_id": "ZqrQAAAAAAAZxWklaKrk3SQ1wNh7kenk",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "30 Blindadas",
+        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
+      },
+      "artists": [
+        {
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 126293,
+      "name": "30 Blindadas",
+      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00e1cil Criticar (En Vivo)",
         "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
@@ -531,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Blindadas",
-        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
       "artists": [
-        {
-          "name": "Raul Vega",
-          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
-        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 126293,
-      "name": "30 Blindadas",
-      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
+      "duration_ms": 201533,
+      "name": "Adi\u00f3s Mi Amor",
+      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Adi\u00f3s Mi Amor",
-      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El \u00c1guila Real",
         "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
       },
@@ -599,6 +599,38 @@
       "duration_ms": 193613,
       "name": "El \u00c1guila Real (Nave 727)",
       "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "La Mas Bonita De Todas",
+      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "Que Te Entregues Hoy",
+      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
     },
     {
       "added_at": null,
@@ -643,38 +675,6 @@
       "duration_ms": 267151,
       "name": "Fue Un Placer",
       "url": "https://open.spotify.com/track/1xbJgNrATP9zyCKiM3o6NW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "La Mas Bonita De Todas",
-      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Que Te Entregues Hoy",
-      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T.H.C. (En Vivo)",
         "url": "https://open.spotify.com/album/4CUBg0rluTaV0pOooMoXsv"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 192906,
       "name": "T.H.C. - En Vivo",
       "url": "https://open.spotify.com/track/3VfePRz4mz0pAjRsQsVcrC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
     },
     {
       "added_at": null,
@@ -927,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre Guerrera",
-        "url": "https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR"
+        "name": "El Equipo del Terror",
+        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
         },
         {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 246026,
-      "name": "Sangre Guerrera",
-      "url": "https://open.spotify.com/track/54xui38HClfOPGWvn5ihxN"
+      "duration_ms": 204313,
+      "name": "El Equipo del Terror",
+      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
     },
     {
       "added_at": null,
@@ -963,22 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Equipo del Terror",
-        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
+        "name": "Sangre Guerrera",
+        "url": "https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR"
       },
       "artists": [
         {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        },
-        {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
         }
       ],
-      "duration_ms": 204313,
-      "name": "El Equipo del Terror",
-      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
+      "duration_ms": 246026,
+      "name": "Sangre Guerrera",
+      "url": "https://open.spotify.com/track/54xui38HClfOPGWvn5ihxN"
     },
     {
       "added_at": null,

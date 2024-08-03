@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Pt. II",
+        "url": "https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "ANIMAL SEEKING",
+      "url": "https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj"
+    },
+    {
+      "album": {
         "name": "Anthem For Those Who Know",
         "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
       },

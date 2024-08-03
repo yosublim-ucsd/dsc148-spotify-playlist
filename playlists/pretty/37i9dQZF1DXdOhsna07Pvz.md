@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,382 likes - 70 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,420 likes - 70 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 15 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
 | 16 | [Lucro \(Descomprimindo\)](https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 4:06 |
 | 17 | [Lilás](https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Lilás](https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX) | 4:43 |
-| 18 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
-| 19 | [Palco](https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Luar](https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L) | 4:26 |
+| 18 | [Palco](https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Luar](https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L) | 4:26 |
+| 19 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
 | 20 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
 | 21 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
 | 22 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |

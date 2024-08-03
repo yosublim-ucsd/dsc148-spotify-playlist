@@ -2,14 +2,14 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: Aimee Carty
+> New tunes from Ireland for your discovery\. Cover: Gurriers
 
-196 songs - 10 hr 45 min
+198 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 + Only](https://open.spotify.com/track/776vcQzhzWnK5wFVHxmQhC) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [1 + Only](https://open.spotify.com/album/5nsh8uGAthd6uhd775Ai9Z) | 3:19 | 2024-02-02 | 2024-03-15 |
-| [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 | 2024-02-02 |  |
+| [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 | 2024-02-02 | 2024-08-03 |
 | [2000SEVEN](https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [2000SEVEN](https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1) | 2:41 | 2024-07-19 |  |
 | [21](https://open.spotify.com/track/19DYo3z33u99Ic14HbqUDC) | [NAOMI JEREMIAH](https://open.spotify.com/artist/4mhXKME7vxoBUyjO7uIU5h) | [21](https://open.spotify.com/album/07fOd3xbSXCr0sd16Mtkk2) | 3:01 | 2024-02-02 | 2024-02-16 |
 | [25BAG](https://open.spotify.com/track/6gTr4jaNiIUCz8pwA4UrYN) | [Kurtis](https://open.spotify.com/artist/1ZV5RU7ViRwlv7vqWuOHRf) | [25BAG](https://open.spotify.com/album/79JXoGgUwWV1QnGO6B8rnc) | 2:13 | 2024-07-19 |  |
@@ -107,6 +107,7 @@
 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 | 2024-02-16 | 2024-07-19 |
 | [Love & Crisis](https://open.spotify.com/track/4pfQbrzANC8DuqbmRiVEJ3) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Love & Crisis](https://open.spotify.com/album/4hBD2h0Ky9M6xr8EJwtmLt) | 3:01 | 2024-02-02 | 2024-07-27 |
 | [Love Somebody](https://open.spotify.com/track/3ZvOClU4FkMqWU5ACbotsZ) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Love Somebody](https://open.spotify.com/album/2J7tYKElXD3sH6iqJVsMzm) | 2:57 | 2024-02-02 | 2024-02-16 |
+| [lovestruck](https://open.spotify.com/track/7n9D0wjerUgKgwRR6bT1k2) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [lovestruck](https://open.spotify.com/album/6tjeSCZtywuXOhqZpeW2sn) | 2:20 | 2024-08-02 |  |
 | [Madonna](https://open.spotify.com/track/3ULrypzl0UPwpNoToJoMJy) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Madonna](https://open.spotify.com/album/2qOO0fQwkuPCBVY1Owvdsj) | 3:52 | 2024-02-16 | 2024-05-17 |
 | [Magpie](https://open.spotify.com/track/2FnXW99ww6e0LREz0WN2hv) | [Evie](https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9) | [Shiny Things](https://open.spotify.com/album/6hhRN0unI6NqCwAcFK8A7H) | 4:38 | 2024-05-09 |  |
 | [Make Me Smile](https://open.spotify.com/track/6ozqkNSPFNjaAaqDgiJPXV) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Make Me Smile](https://open.spotify.com/album/0ZGLCy4MswnlYMzUYAEToR) | 3:18 | 2024-02-02 | 2024-02-16 |
@@ -125,7 +126,7 @@
 | [Nightmares](https://open.spotify.com/track/5sj7q2esW3Ri0SZDdk9zkW) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Nightmares](https://open.spotify.com/album/0RbyXbAchLRqDOa7a4cV8N) | 3:44 | 2024-02-02 | 2024-06-01 |
 | [Nobu](https://open.spotify.com/track/0t8lulg4WM4813ib0klR9S) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Nobu](https://open.spotify.com/album/3tF98Bm6QCkrYH4nhxz7nu) | 2:49 | 2024-05-16 |  |
 | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/track/5e5mWtx00orL2FTbRv4kr9) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/album/721N179Yxv1G8kqefWUc0A) | 2:50 | 2024-02-02 | 2024-04-12 |
-| [Of Land and Sea](https://open.spotify.com/track/2ms9xDLkNjDGVnDzqRYSiw) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Of Land and Sea](https://open.spotify.com/album/2aYqNP3fAvb5oGJTIa5voD) | 3:35 | 2024-02-16 |  |
+| [Of Land and Sea](https://open.spotify.com/track/2ms9xDLkNjDGVnDzqRYSiw) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Of Land and Sea](https://open.spotify.com/album/2aYqNP3fAvb5oGJTIa5voD) | 3:35 | 2024-02-16 | 2024-08-03 |
 | [OFTEN](https://open.spotify.com/track/1VdwrdjGYknOMvEsGvHjrP) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [OFTEN](https://open.spotify.com/album/4go3STJFOGSWcwPoty7qfG) | 2:47 | 2024-02-23 | 2024-05-17 |
 | [Old Friend](https://open.spotify.com/track/08PEMd5eezf6t55FXX7CSt) | [Lemoncello](https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6) | [Old Friend](https://open.spotify.com/album/2g4ZTUmr2X7gI7zVUmgVIu) | 5:13 | 2024-03-15 | 2024-05-17 |
 | [Only Human](https://open.spotify.com/track/7KRaAp2EwSxCLYAASWbbNV) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO) | [Only Human](https://open.spotify.com/album/0qvFjAc5SvaBExJ65LeWMr) | 2:34 | 2024-02-02 | 2024-03-15 |
@@ -179,6 +180,7 @@
 | [The State](https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF) | [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Youngfella](https://open.spotify.com/album/1RRioAfHKB6wujcoO1Zi3p) | 3:07 | 2024-03-01 | 2024-07-05 |
 | [there's a light](https://open.spotify.com/track/3IYbfszzTtDN1aTvQreFsE) | [peace](https://open.spotify.com/artist/5o4nlnlzin0Cc1GIRovq1Q) | [there's a light](https://open.spotify.com/album/5fdEADXcrVOns6lSt4oeon) | 2:01 | 2024-06-06 |  |
 | [They Called Her Something](https://open.spotify.com/track/0MuNwv9HUPJVqy1vLUSMKt) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9) | [Burning Flower](https://open.spotify.com/album/4meRsebzAu9jYAVhD5mWsQ) | 3:04 | 2024-03-01 | 2024-07-19 |
+| [Top Of The Bill](https://open.spotify.com/track/5Nk0fgUhD5DwwjCjN7erYh) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Top Of The Bill](https://open.spotify.com/album/30mkZmbGPyvicNPNjC8xyz) | 3:53 | 2024-08-02 |  |
 | [Travel Size](https://open.spotify.com/track/3Z3wrUVY4ct2PozNaPB5hv) | [Rachael Lavelle](https://open.spotify.com/artist/6fB2D85hn56JzRBTlCG0nw) | [Travel Size](https://open.spotify.com/album/2GU2ufSlyZx18xc6Ri3X5Y) | 3:30 | 2024-02-02 | 2024-02-23 |
 | [Tree Sap](https://open.spotify.com/track/1gE8YjNMyYbcuBpY6aIQrM) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [Tree Sap](https://open.spotify.com/album/3UEJYN35NOShY9pY7wyAvM) | 2:25 | 2024-02-02 | 2024-02-16 |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-02-02 | 2024-07-19 |

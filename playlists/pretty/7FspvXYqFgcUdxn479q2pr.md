@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Sjaak &amp; YONII
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Dillon Francis &amp; longstoryshort
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,567 likes - 9 songs - 26 min 31 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,571 likes - 10 songs - 30 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,5 +17,6 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 7 | [Voices \(with Naeleck\) \[Together We Will Rise\]](https://open.spotify.com/track/3rNeIZvZ9kqSuCNjsJw6Si) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Voices \(with Naeleck\)](https://open.spotify.com/album/33Z2pDursd7HXvWrjBU5hu) | 2:24 |
 | 8 | [Moonwalk Season](https://open.spotify.com/track/4VspZ79KeIv7Ls0QYPDMeS) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Moonwalk Season](https://open.spotify.com/album/6zFZhzZoz1Nn98xYJm0bFo) | 2:41 |
 | 9 | [Malfunction](https://open.spotify.com/track/5VurwBt2WaKjPGOagoVH92) | [JustLuke](https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh) | [Malfunction](https://open.spotify.com/album/5oAzm3nqxqr7lJp2TWPUWy) | 2:36 |
+| 10 | [Gonna Kill My Way](https://open.spotify.com/track/3IpWLISMLR0JMuLgXtm8nG) | [Eddy Black](https://open.spotify.com/artist/5XCoXE7RaDvuyMCghkdmxK) | [Gonna Kill My Way](https://open.spotify.com/album/0ZUeNzry9q22SNXQ88xIgD) | 3:50 |
 
-Snapshot ID: `AAAq40YNCJfMtGlgDuPByx8mJngSNkzP`
+Snapshot ID: `AAAq5bL2cLxsjhbkyr2jwomuweboIGxB`

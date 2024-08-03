@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-94 songs - 4 hr 34 min
+95 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dynamite](https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:17 | 2023-06-09 |  |
 | [Ella Baila Sola](https://open.spotify.com/track/6o23AeNrj2mfYAkuEcyz2B) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:18 | 2024-01-22 | 2024-07-16 |
 | [End of Beginning](https://open.spotify.com/track/1rrYeJowAbOZDC01qXuLHv) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [End of Beginning](https://open.spotify.com/album/1uS4K4InEf7LIC6uPcsB70) | 2:39 | 2024-06-28 |  |
+| [Espresso](https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Espresso](https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX) | 2:34 | 2024-08-02 |  |
 | [exes](https://open.spotify.com/track/5f2A8qXU1hKsIFvjB4oiQL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [exes](https://open.spotify.com/album/577IAxz4OQ4KsF0b4BKXYJ) | 2:40 | 2024-06-21 |  |
 | [Feather](https://open.spotify.com/track/69X59XTjCG6qqJG0KUQNaO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024 Vol\. 2](https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5) | 3:03 | 2024-07-15 |  |
 | [Feather](https://open.spotify.com/track/0xjD3CLCEyeZKucRLNMsPm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Feather](https://open.spotify.com/album/3YehBwXG43soeqs5u8VDZ6) | 3:04 | 2024-04-19 | 2024-07-16 |
@@ -56,7 +57,7 @@
 | [KIDZ BOP Shuffle](https://open.spotify.com/track/6hN5PPmt4wtsQAucSyny5t) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:07 | 2023-06-09 | 2024-07-16 |
 | [Kings & Queens](https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:26 | 2023-06-09 | 2024-07-16 |
 | [La Víctima](https://open.spotify.com/track/6Omf4raSatl9G1iYrSYYwp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [La Víctima](https://open.spotify.com/album/2jsvzGHPQXPVvHeNZ7jAXX) | 2:35 | 2024-04-05 | 2024-07-16 |
-| [Late Night Talking](https://open.spotify.com/track/60xkljg5VuJ2Syt0tq211j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:57 | 2023-06-09 |  |
+| [Late Night Talking](https://open.spotify.com/track/60xkljg5VuJ2Syt0tq211j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:57 | 2023-06-09 | 2024-08-03 |
 | [Lavender Haze](https://open.spotify.com/track/1fXodpaymaMZ3vZKYvzUBn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Lavender Haze](https://open.spotify.com/album/0TGFhWP72ROBZvFbzTIXuq) | 3:13 | 2023-06-30 | 2023-07-15 |
 | [Levitating](https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:04 | 2023-06-09 |  |
 | [Lil Boo Thang](https://open.spotify.com/track/7bsrdp1hsGI8M3zl1PDIkN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 1:56 | 2024-01-22 |  |

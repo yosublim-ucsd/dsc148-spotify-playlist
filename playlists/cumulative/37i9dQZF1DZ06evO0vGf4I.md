@@ -2,7 +2,7 @@
 
 ### [This Is Travis Scott](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vGf4I)
 
-> This is Travis Scott\. The essential tracks, all in one playlist.
+> This is Travis Scott\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 71 songs - 4 hr 16 min
 

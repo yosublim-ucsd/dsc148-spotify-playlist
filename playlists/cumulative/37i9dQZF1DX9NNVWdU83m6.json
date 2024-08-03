@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240315,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
+    },
+    {
+      "album": {
         "name": "Dirty Mindz (feat. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock)",
         "url": "https://open.spotify.com/album/2GfJbWrtq2pKRS8ugzi8or"
       },

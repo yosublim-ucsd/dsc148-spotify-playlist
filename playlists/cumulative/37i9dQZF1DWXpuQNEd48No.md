@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Badal & GD47
 
-263 songs - 13 hr 45 min
+264 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Mashooka](https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Mashooka](https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc) | 2:28 | 2023-09-27 |  |
 | [Matha Garam](https://open.spotify.com/track/6v4dEkFs3I2ImanEVok2cP) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Matha Garam](https://open.spotify.com/album/0rUPO4MVsnME1dyAmmgHm9) | 3:25 | 2024-05-24 |  |
 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 | 2023-03-28 | 2024-08-01 |
+| [Me & You](https://open.spotify.com/track/36aG9R2LXbBbBowd4Nehi4) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Me & You](https://open.spotify.com/album/1ecNMePGEUDvXMLOdLyvV4) | 3:46 | 2024-08-02 |  |
 | [Men In Black](https://open.spotify.com/track/4roeUS4FitfHH2TDf2qraX) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb), [Subtrax](https://open.spotify.com/artist/7M3N0IjvgrSOqFa3Byfgks) | [Men In Black](https://open.spotify.com/album/5muqfU3Iij0c2PV02gw01O) | 2:00 | 2023-07-11 | 2023-08-03 |
 | [MERCURY](https://open.spotify.com/track/6RbMiYrULpv1XVbXwipI9o) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [MERCURY](https://open.spotify.com/album/5wSwuPIraFkhnFyANEooT7) | 3:07 | 2023-03-28 | 2023-04-23 |
 | [Meter Khench](https://open.spotify.com/track/0VonGBdBy7i4gEXUwp9WhX) | [Arun Taank](https://open.spotify.com/artist/0uoMDF5nGJGZqZt7ZybJ0u), [Akhri Sultaan](https://open.spotify.com/artist/0Mw3EnmkxQQyWu4mI8r8L2), [Bigdee](https://open.spotify.com/artist/2Y8HUZ2z19r7fog9SuDprK) | [Meter Khench](https://open.spotify.com/album/71s6jogrwwclqzxXTeYH6h) | 3:11 | 2023-06-05 | 2023-06-17 |
@@ -214,7 +215,7 @@
 | [Ram Ram](https://open.spotify.com/track/06EgOhKj59Jk0AUSzly2Jn) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:33 | 2023-03-28 | 2023-07-05 |
 | [Ram Ram \(From "Mtv Hustle 2.0"\)](https://open.spotify.com/track/3tCaIt2Hi9XHlrwK0hQXiF) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Mtv Team](https://open.spotify.com/artist/0x4PRlY7pwZd6Er9vk9GX4) | [Ram Ram \(From "Mtv Hustle 2.0"\)](https://open.spotify.com/album/4lQSMBuJzNso8Osu2z5THu) | 3:29 | 2023-06-29 | 2023-07-16 |
 | [Rao Sahab](https://open.spotify.com/track/0DcgGCxSsVkjNcjUz8FyrJ) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/5QFr6gLagNVhYnLp48jD0m), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Rao Sahab](https://open.spotify.com/album/2XrTANhCjtrvTuGuQc83Pj) | 2:36 | 2023-07-27 |  |
-| [Rao Sahab](https://open.spotify.com/track/5b8fPlCEdsYNHpVXJFKGvo) | [Krrish Rao](https://open.spotify.com/artist/2VqJFtElDmZUSbTAgQhVVv), [Kriti Verma](https://open.spotify.com/artist/50k6SiiWTWIdifNRgXI64E), [Fateh Sandhu](https://open.spotify.com/artist/1CsrIsktvaa6Bv1yAACs4h) | [Rao Sahab](https://open.spotify.com/album/7bXQtOtyKCLppfhBdNJXIQ) | 3:12 | 2023-12-14 |  |
+| [Rao Sahab](https://open.spotify.com/track/5b8fPlCEdsYNHpVXJFKGvo) | [Krrish Rao](https://open.spotify.com/artist/2VqJFtElDmZUSbTAgQhVVv), [Kriti Verma](https://open.spotify.com/artist/50k6SiiWTWIdifNRgXI64E), [Fateh Sandhu](https://open.spotify.com/artist/1CsrIsktvaa6Bv1yAACs4h) | [Rao Sahab](https://open.spotify.com/album/7bXQtOtyKCLppfhBdNJXIQ) | 3:12 | 2023-12-14 | 2024-08-03 |
 | [Rao Sahab Drill](https://open.spotify.com/track/0iiX5o434i4xb49x4LluyR) | [Vkey](https://open.spotify.com/artist/1BY7PxVLvuV63Ds9iPVXss), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ) | [Rao Sahab Drill](https://open.spotify.com/album/2ojtH1aQvxc6UEiDzlHejo) | 3:31 | 2024-04-18 |  |
 | [Rao Sahab Drill](https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4) | [Vkey](https://open.spotify.com/artist/0xTf08e7MLw7TnnCNKXoBv), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ) | [Rao Sahab Drill](https://open.spotify.com/album/7rF3h3c0Eyj6xXMCZgQyvf) | 3:31 | 2023-08-30 | 2024-04-19 |
 | [Rao Sahab Rollin'](https://open.spotify.com/track/3xsksUfVvcXErZbNVNBUw4) | [Vkey](https://open.spotify.com/artist/1BY7PxVLvuV63Ds9iPVXss), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Rao Sahab Rollin'](https://open.spotify.com/album/587VNfg33gfvXuMV2YyYkO) | 3:53 | 2024-03-18 |  |

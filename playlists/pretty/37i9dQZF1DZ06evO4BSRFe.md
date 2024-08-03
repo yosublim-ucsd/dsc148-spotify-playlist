@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,741 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,764 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 31 | [La roncona](https://open.spotify.com/track/2Y5Um0Bzz2aZCOhzL50wr5) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Me llamo Raquel](https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu) | 3:07 |
 | 32 | [Motivos](https://open.spotify.com/track/65lfzguWycfHortBjpZAwr) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:08 |
 | 33 | [Besando borrachos](https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:40 |
-| 34 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 |
-| 35 | [No compro amores](https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:21 |
+| 34 | [No compro amores](https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:21 |
+| 35 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 |
 | 36 | [Tu otro dios \- Tu dios de poder](https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 3:01 |
 | 37 | [Esclavo y amo](https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:36 |
 | 38 | [El mandilon](https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 49 | [Mi guitarra y yo](https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las Estrellas de la Musica Mexicana \(USA\)](https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY) | 3:36 |
 | 50 | [A Capa Y Espada](https://open.spotify.com/track/2270JBx0iahesyJZAGzAuN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa Y Espada](https://open.spotify.com/album/1TvAyYwsIzIn1SNaYB2tTy) | 4:31 |
 
-Snapshot ID: `Zql+gAAAAAAFuTKy80KkZo+UFw+Ye/eC`
+Snapshot ID: `ZqrQAAAAAAC1UGgPAnZ5aDGwCrP+Dyuh`

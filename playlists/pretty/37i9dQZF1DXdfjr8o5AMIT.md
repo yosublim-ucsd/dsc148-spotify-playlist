@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfjr8o5AMIT.md) - [plain]
 
 > The quintessential list of songs to celebrate commencement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,219 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,237 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfjr8o5AMIT.md) - [plain]
 | 4 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 5 | [Closer](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Closer](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) | 4:04 |
 | 6 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 |
-| 7 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
-| 8 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
+| 7 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
+| 8 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 9 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
 | 10 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 |
 | 11 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfjr8o5AMIT.md) - [plain]
 | 36 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
 | 37 | [It's Time](https://open.spotify.com/track/6BtmXhTJMM9sBTHeYYASGz) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:57 |
 | 38 | [Hey Look Ma, I Made It](https://open.spotify.com/track/22oEJW6r2rMb9z4IntfyEa) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 2:49 |
-| 39 | [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 |
-| 40 | [Young Forever](https://open.spotify.com/track/35srNkJVToAzYiZzron1FY) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:13 |
+| 39 | [Young Forever](https://open.spotify.com/track/35srNkJVToAzYiZzron1FY) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:13 |
+| 40 | [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 |
 | 41 | [Wouldn't It Be Nice](https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:33 |
 | 42 | [Good as Hell](https://open.spotify.com/track/3Yh9lZcWyKrK9GjbhuS0hR) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Good as Hell](https://open.spotify.com/album/4CA8GvVF7swZafg0zYh9qq) | 2:39 |
 | 43 | [Right Back Where We Started From](https://open.spotify.com/track/00s8dO3RWrFkBqC9JIy6ag) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Right Back Where We Started From](https://open.spotify.com/album/3YXcrd6u44J13at4UmDKEX) | 3:12 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfjr8o5AMIT.md) - [plain]
 | 45 | [We're All In This Together \(Graduation Mix\)](https://open.spotify.com/track/5mGI9cWHzNHGZG8RhzorWT) | [High School Musical Cast](https://open.spotify.com/artist/2gUMs9PE8XZVQyzCDqaYmW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 3: Senior Year](https://open.spotify.com/album/6j8k5gIeWzXapGKTVaZzER) | 4:14 |
 | 46 | [No Goodbyes \(Friends Forever\)](https://open.spotify.com/track/3uuKAHoqaL1kZ3yOkvW8aA) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [No Goodbyes \(Friends Forever\)](https://open.spotify.com/album/662vSBGek0qU3hBIEpMuja) | 3:02 |
 | 47 | [Congratulations](https://open.spotify.com/track/14LOPYFegGakg50LJbVeai) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney](https://open.spotify.com/album/3zAcZrky4QNM28YS0tHSYQ) | 3:40 |
-| 48 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 |
-| 49 | [Mr\. Brightside](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:42 |
+| 48 | [Mr\. Brightside](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:42 |
+| 49 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 |
 | 50 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 |
 
 Snapshot ID: `ZlERcAAAAAANW2nlxZ34S2j7Ej16LCH5`

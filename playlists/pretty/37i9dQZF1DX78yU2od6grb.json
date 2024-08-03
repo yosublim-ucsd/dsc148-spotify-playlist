@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 554246,
+  "num_followers": 554231,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,26 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Higher (feat. iann dior)",
+        "url": "https://open.spotify.com/album/78MU91n8U1OTN0Co9OgQHw"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 203953,
+      "name": "Higher (feat. iann dior)",
+      "url": "https://open.spotify.com/track/4OoYfejHABzYe2mG8p5s8b"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "Forget About Me",
         "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 177637,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Higher (feat. iann dior)",
-        "url": "https://open.spotify.com/album/78MU91n8U1OTN0Co9OgQHw"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 203953,
-      "name": "Higher (feat. iann dior)",
-      "url": "https://open.spotify.com/track/4OoYfejHABzYe2mG8p5s8b"
     },
     {
       "added_at": "2024-06-26 02:03:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,877 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,876 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 24 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
 | 25 | [Alla flickor](https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 2:49 |
 | 26 | [Underbart](https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0) | [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW), [Orsa Spelmän](https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT) | [Underbart](https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ) | 3:08 |
-| 27 | [Cara mia](https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Stand By For...](https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV) | 3:04 |
-| 28 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
+| 27 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
+| 28 | [Cara mia](https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Stand By For...](https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV) | 3:04 |
 | 29 | [On My Way](https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [On My Way](https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc) | 3:05 |
 | 30 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
 | 31 | [Diggiloo Diggiley](https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj) | 3:07 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 36 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |
 | 37 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
 | 38 | [Kizunguzungu](https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g) | [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Kizunguzungu](https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj) | 3:04 |
-| 39 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
-| 40 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 |
+| 39 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 |
+| 40 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
 | 41 | [In i dimman](https://open.spotify.com/track/5v5cNnwvtntSGSDR3BSVwq) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/6S7FvJ1tWSh7rqo8wey1Tm) | 2:53 |
 | 42 | [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 |
 | 43 | [Mera mera mera](https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Mera mera mera](https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw) | 2:58 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 45 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 |
 | 46 | [Efter solsken](https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [Det blir vad du gör det till](https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs) | 3:10 |
 | 47 | [Live Forever](https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Live Forever \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x) | 3:02 |
-| 48 | [Groupie](https://open.spotify.com/track/4ldXgqnQ9jJ1mYRTmg9O9B) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Groupie](https://open.spotify.com/album/2sdkmXEk3QaSdwafuG5VQ5) | 3:01 |
-| 49 | [Michelangelo \(Men så svara då!\)](https://open.spotify.com/track/3qChO81Z9r3KDyIj4w1m4T) | [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Skifs Hits!](https://open.spotify.com/album/7eL1KLHKp4jJufO6wG6YsT) | 3:16 |
-| 50 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
-| 51 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
-| 52 | [Everyday](https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c) | [Mendez](https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL) | [Everyday](https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW) | 3:05 |
+| 48 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
+| 49 | [Groupie](https://open.spotify.com/track/4ldXgqnQ9jJ1mYRTmg9O9B) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Groupie](https://open.spotify.com/album/2sdkmXEk3QaSdwafuG5VQ5) | 3:01 |
+| 50 | [Michelangelo \(Men så svara då!\)](https://open.spotify.com/track/3qChO81Z9r3KDyIj4w1m4T) | [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Skifs Hits!](https://open.spotify.com/album/7eL1KLHKp4jJufO6wG6YsT) | 3:16 |
+| 51 | [Everyday](https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c) | [Mendez](https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL) | [Everyday](https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW) | 3:05 |
+| 52 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
 
 Snapshot ID: `ZlWjdAAAAACKu2StnsItLF9TPKk0lT4t`

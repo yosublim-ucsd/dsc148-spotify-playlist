@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,077 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,145 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 27 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
 | 28 | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 |
 | 29 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 |
-| 30 | [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 |
-| 31 | [Night Time](https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:36 |
+| 30 | [Night Time](https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:36 |
+| 31 | [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 |
 | 32 | [Come 2 Me](https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Voulez\-Vous](https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI) | 2:38 |
 | 33 | [Empty Stomach Space Cadet](https://open.spotify.com/track/3iMc9mplMBY32uAWGRbtWU) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/36tUlc8fGxaUTv4cLmC9UJ) | 2:07 |
 | 34 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 44 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
 | 45 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
 | 46 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
-| 47 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
-| 48 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 |
-| 49 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
+| 47 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 |
+| 48 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
+| 49 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
 | 50 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 |
 | 51 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
 | 52 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 55 | [It Was Gone](https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [It Was Gone](https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg) | 5:07 |
 | 56 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
 | 57 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 |
-| 58 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 |
-| 59 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
+| 58 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
+| 59 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 |
 | 60 | [Tastes Good With The Money](https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Serfs Up!](https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ) | 5:42 |
 | 61 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
 | 62 | [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 |

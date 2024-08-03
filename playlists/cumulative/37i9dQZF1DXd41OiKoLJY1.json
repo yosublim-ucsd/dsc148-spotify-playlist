@@ -35181,6 +35181,24 @@
     },
     {
       "album": {
+        "name": "Peaches",
+        "url": "https://open.spotify.com/album/0mV0LbwpbrUvehPNOEV1wa"
+      },
+      "artists": [
+        {
+          "name": "JONAVI",
+          "url": "https://open.spotify.com/artist/6zKX6Ksa6Yk5OZRG1Fk7vA"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147142,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/2s5AipH9QZ8ObIGEnbEeM7"
+    },
+    {
+      "album": {
         "name": "Peakin'",
         "url": "https://open.spotify.com/album/6B3WfyqFtDlYW8fhRWe497"
       },

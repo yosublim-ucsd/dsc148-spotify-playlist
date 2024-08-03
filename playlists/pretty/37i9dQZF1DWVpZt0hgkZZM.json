@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 32954,
+  "num_followers": 32982,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
-        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 288194,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "En Accion!",
         "url": "https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 295933,
       "name": "Un Hombre Busca Una Mujer",
       "url": "https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
+        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+        }
+      ],
+      "duration_ms": 288194,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k"
     },
     {
       "added_at": "2024-07-12 23:11:55",

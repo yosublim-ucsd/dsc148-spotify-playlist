@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The latest in pop. Cover: Madison Beer",
+  "description": "The latest in pop. Cover: Billianne",
   "name": "Pop All Day",
   "tracks": [
     {
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
@@ -6047,6 +6047,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP"
+    },
+    {
+      "album": {
         "name": "Crying in the Rain",
         "url": "https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U"
       },
@@ -6242,7 +6260,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 128164,
       "name": "cut! (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
@@ -7124,6 +7142,28 @@
       "duration_ms": 139241,
       "name": "Different People",
       "url": "https://open.spotify.com/track/58ZPzwfyTiaBHwwNEZkyhb"
+    },
+    {
+      "album": {
+        "name": "Dirty (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173361,
+      "name": "Dirty (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
     },
     {
       "album": {
@@ -8224,6 +8264,24 @@
       "duration_ms": 168668,
       "name": "Eras Of Us",
       "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
+    },
+    {
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149683,
+      "name": "Erase You",
+      "url": "https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5"
     },
     {
       "album": {
@@ -9822,7 +9880,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 163014,
       "name": "Found You First",
       "url": "https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg"
@@ -11137,6 +11195,28 @@
     },
     {
       "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -11892,6 +11972,24 @@
       "duration_ms": 260769,
       "name": "HEATED",
       "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
+    },
+    {
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
       "album": {
@@ -13240,6 +13338,24 @@
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
+    },
+    {
+      "album": {
+        "name": "I Can Do It With a Broken Heart",
+        "url": "https://open.spotify.com/album/3yVqF1TOg60hk9ehgMj3na"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/4n93SK7dQsQVu9BM5QzvAx"
     },
     {
       "album": {
@@ -14662,6 +14778,24 @@
       "duration_ms": 162146,
       "name": "if you only knew",
       "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
+    },
+    {
+      "album": {
+        "name": "If You Were My Girl",
+        "url": "https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187874,
+      "name": "If You Were My Girl",
+      "url": "https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU"
     },
     {
       "album": {
@@ -16539,6 +16673,24 @@
     },
     {
       "album": {
+        "name": "Missing Something",
+        "url": "https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y"
+      },
+      "artists": [
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134875,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk"
+    },
+    {
+      "album": {
         "name": "Life at First Sight",
         "url": "https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J"
       },
@@ -16984,6 +17136,24 @@
       "duration_ms": 174660,
       "name": "Look Who's Laughing Now",
       "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
+    },
+    {
+      "album": {
+        "name": "Loose Lips",
+        "url": "https://open.spotify.com/album/1NZgye6SL69oGb0mIQWvTM"
+      },
+      "artists": [
+        {
+          "name": "Cab'Ral",
+          "url": "https://open.spotify.com/artist/2CIdibKYdqFN9ivfLFA7hj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179404,
+      "name": "Loose Lips",
+      "url": "https://open.spotify.com/track/47x4QWCoTRo4Z1L2O0sviH"
     },
     {
       "album": {
@@ -19730,7 +19900,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 165900,
       "name": "Never Fall In Love Again",
       "url": "https://open.spotify.com/track/5kcrlw7MXLq8sY9Z4rn2oD"
@@ -21544,7 +21714,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 203716,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/2qF7DKXG3ULJJZ7QK1MZSH"
@@ -22368,7 +22538,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 203522,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
@@ -22674,6 +22844,24 @@
       "duration_ms": 235455,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg"
+    },
+    {
+      "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "push me over",
+      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
     },
     {
       "album": {
@@ -23506,7 +23694,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 214986,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
@@ -24462,7 +24650,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 143120,
       "name": "SHUT UP (feat. Big Sean)",
       "url": "https://open.spotify.com/track/3qfvE0wc0N6Rhu8pnW6Tss"
@@ -24658,7 +24846,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 165405,
       "name": "Situations",
       "url": "https://open.spotify.com/track/4Kx3VCXLvPHkyI0uoLD2Gt"
@@ -25536,7 +25724,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 217018,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx"
@@ -27206,7 +27394,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 205938,
       "name": "The girl, so confusing version with lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
@@ -27615,6 +27803,24 @@
     },
     {
       "album": {
+        "name": "The Way She Moves",
+        "url": "https://open.spotify.com/album/3gO9oRmrXL4IyBlaxGz7KO"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "The Way She Moves",
+      "url": "https://open.spotify.com/track/3ggpCMbp7276cdCaMj6A3q"
+    },
+    {
+      "album": {
         "name": "the way that we started (taylor)",
         "url": "https://open.spotify.com/album/4epDMTI9SL9TRfiuDpbwFO"
       },
@@ -28016,6 +28222,24 @@
       "duration_ms": 190800,
       "name": "tired of california",
       "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
+    },
+    {
+      "album": {
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
     },
     {
       "album": {
@@ -31018,7 +31242,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 177691,
       "name": "wish i was a robot",
       "url": "https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn"
@@ -31328,7 +31552,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 155000,
       "name": "WOULD YOU?",
       "url": "https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS"
@@ -31756,7 +31980,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 116266,
       "name": "you wore it better",
       "url": "https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z"

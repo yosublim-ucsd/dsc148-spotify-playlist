@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,037 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,045 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 47 | [We are the future](https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:40 |
 | 48 | [난 널 원해](https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:53 |
 | 49 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
-| 50 | [I Know \- '92 TV Edit](https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Seotaiji and Boys](https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr) | 3:24 |
-| 51 | [비몽](https://open.spotify.com/track/5Tfrww1bUFKgE7HjZFw7OG) | [KYT](https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9) | [필립](https://open.spotify.com/album/43lqh3WdojwCeQXuMXB0CG) | 3:20 |
+| 50 | [비몽](https://open.spotify.com/track/5Tfrww1bUFKgE7HjZFw7OG) | [KYT](https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9) | [필립](https://open.spotify.com/album/43lqh3WdojwCeQXuMXB0CG) | 3:20 |
+| 51 | [I Know \- '92 TV Edit](https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Seotaiji and Boys](https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr) | 3:24 |
 | 52 | [일과 이분의 일](https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi) | [황혜영](https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b), [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [투유 프로젝트 \- 슈가맨 Pt.33](https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL) | 3:57 |
 | 53 | [바꿔](https://open.spotify.com/track/3COMNgsSBF1Gs3TV2zlc0T) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [Let's Go To My Star](https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6) | 3:18 |
 | 54 | [Ruby](https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:11 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 65 | [운명](https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:45 |
 | 66 | [비상](https://open.spotify.com/track/5sYtwsZfkZg2e1fBEd54IX) | [KYT](https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9) | [비상](https://open.spotify.com/album/27v7cg2HKnJupI58mM5qjo) | 4:11 |
 | 67 | [A\-Yo](https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [The Reign](https://open.spotify.com/album/2mtlNInQJMycvTN1losasj) | 3:45 |
-| 68 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U \- The 5th Album](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 |
+| 68 | [Twilight Zone](https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [LOVE \- The 3rd Album](https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR) | 3:46 |
 | 69 | [White](https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Special](https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW) | 3:54 |
 | 70 | [a match made in heaven](https://open.spotify.com/track/2VYLSWoSgHcWTOoJIKr5t5) | [Solid](https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5) | [Light Camera Action!](https://open.spotify.com/album/3NbQoR0PIZQ0MxUuj6vl3M) | 3:47 |
 | 71 | [다짐](https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [Let Me Love](https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM) | 4:00 |
@@ -83,28 +83,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 73 | [아리아리](https://open.spotify.com/track/69LcwgtSsa6rPe42V1HatR) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [I Love Natural](https://open.spotify.com/album/5hliZRj6sFdXxLodgGVoHq) | 3:45 |
 | 74 | [내 얘길 들어봐](https://open.spotify.com/track/6N4WEHW6yiudpF05o8cb1F) | [Papaya](https://open.spotify.com/artist/4y739qehPAFewYCj2YILWs) | [Papaya 1st](https://open.spotify.com/album/1Glo0W3cv0WvAZbrlnX4Kf) | 3:34 |
 | 75 | [Dash](https://open.spotify.com/track/1dal60q6fDKWx4Y1Xtf6tC) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Rouge](https://open.spotify.com/album/6zVFnvhl88fdYTOQNBkySs) | 3:46 |
-| 76 | [One Flew over the Cuckoo's Nest](https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:23 |
-| 77 | [오빠](https://open.spotify.com/track/2BqE61QmxAj3ZKc0xt2mtx) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [엄마의 일기](https://open.spotify.com/album/4CtBSFdCGAiZ5GapzP9J3b) | 3:26 |
+| 76 | [오빠](https://open.spotify.com/track/2BqE61QmxAj3ZKc0xt2mtx) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [엄마의 일기](https://open.spotify.com/album/4CtBSFdCGAiZ5GapzP9J3b) | 3:26 |
+| 77 | [One Flew over the Cuckoo's Nest](https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:23 |
 | 78 | [나는 문제없어](https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x) | [황규영](https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ) | [끝없는 사랑을 꿈꾸며](https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR) | 4:19 |
 | 79 | [I Know \- Club Mix](https://open.spotify.com/track/5p0EAPiH5jFWsZRntqfsLg) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Seotaiji and Boys](https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr) | 3:47 |
 | 80 | [Love Alone](https://open.spotify.com/track/1yNtDvPOnCqZvYxTgKStB1) | [Kim Hyun Jung](https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO) | [Legend](https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2) | 4:03 |
 | 81 | [Passion](https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma) | [KYT](https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9) | [Passion](https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9) | 3:57 |
 | 82 | [반](https://open.spotify.com/track/3gEaYFqK3CGCn5Jmw37Xwd) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [Magic To Go To My Star](https://open.spotify.com/album/4b1Jifj9x7yNywv9euaeRH) | 3:40 |
-| 83 | [Speed](https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Exchange Kg\. M4](https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ) | 3:46 |
-| 84 | [붉은 노을](https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [독창회 Ⅱ 1981\~2002 \(Live\)](https://open.spotify.com/album/4GwoC91P9MEZfyuk3ObLBb) | 2:20 |
-| 85 | [Road Fighter](https://open.spotify.com/track/2xoCyFfFSJdsXgkKNF0eWF) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Road Fighter](https://open.spotify.com/album/08TW1bmGzSg172Db8C2Bde) | 3:20 |
-| 86 | [프로와 아마츄어](https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [날개 잃은 천사](https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO) | 3:46 |
+| 83 | [붉은 노을](https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [독창회 Ⅱ 1981\~2002 \(Live\)](https://open.spotify.com/album/4GwoC91P9MEZfyuk3ObLBb) | 2:20 |
+| 84 | [Road Fighter](https://open.spotify.com/track/2xoCyFfFSJdsXgkKNF0eWF) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Road Fighter](https://open.spotify.com/album/08TW1bmGzSg172Db8C2Bde) | 3:20 |
+| 85 | [프로와 아마츄어](https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [날개 잃은 천사](https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO) | 3:46 |
+| 86 | [Speed](https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Exchange Kg\. M4](https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ) | 3:46 |
 | 87 | [Let's Go to the Beach Pt\. 2](https://open.spotify.com/track/3rmrE59ZBjeJCPhFm6bSe6) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [DJ\. DOC 4th Album](https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv) | 3:22 |
 | 88 | [섹시한 남자](https://open.spotify.com/track/4KA4iwe4NeFptO6mnDfvbI) | [Space A](https://open.spotify.com/artist/5TMZPKsvsx21rtdMeTElUL) | [Re\-turn](https://open.spotify.com/album/3O8lIpghPdAcJ7RFkzdk15) | 3:49 |
 | 89 | [도 The Way](https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg) | [태사자 Taesaja](https://open.spotify.com/artist/18rjQLv66TaLhZSVYQu9Jh) | [太四子 Taesaja, Vol\. 1](https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz) | 3:42 |
 | 90 | [Tell Me, Tell Me](https://open.spotify.com/track/2bwetLLe8jn43ikuOfjF5v) | [S\#arp](https://open.spotify.com/artist/4IQMpwDgwfxBhZPhiBq3I4) | [Near](https://open.spotify.com/album/5kQUU3anzMorpejpvGKNgc) | 3:32 |
-| 91 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 |
+| 91 | [평생](https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [VOICE MAIL](https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz) | 3:37 |
 | 92 | [너 \- Bonus Track/Techno Version](https://open.spotify.com/track/7CAxCj3K1t3hQUOu4FQGNL) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [너](https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk) | 3:22 |
-| 93 | [평생](https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [VOICE MAIL](https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz) | 3:37 |
-| 94 | [그래](https://open.spotify.com/track/3z6VUjAfvYveNtr31Mxe4V) | [Diva](https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF) | [Funky Diva](https://open.spotify.com/album/4lRrvmz53grVtlVdRPU2UU) | 3:30 |
-| 95 | [타인](https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [2nd Album](https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC) | 4:10 |
-| 96 | [To Be Continued](https://open.spotify.com/track/7L4fxoCYiWzFWepXU3yv9m) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B](https://open.spotify.com/album/7Jt6i57qFtmBUeXFLZrMFF) | 4:02 |
-| 97 | [맨발의 청춘](https://open.spotify.com/track/0JytKNtWz1sBQIlB4qwKwL) | [벅](https://open.spotify.com/artist/6ZCegWpMqRwxCCXNVmunVq) | [맨발의 청춘](https://open.spotify.com/album/4ACjsPLOJaR6rLX9MQVHP1) | 3:42 |
+| 93 | [그래](https://open.spotify.com/track/3z6VUjAfvYveNtr31Mxe4V) | [Diva](https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF) | [Funky Diva](https://open.spotify.com/album/4lRrvmz53grVtlVdRPU2UU) | 3:30 |
+| 94 | [타인](https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [2nd Album](https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC) | 4:10 |
+| 95 | [맨발의 청춘](https://open.spotify.com/track/0JytKNtWz1sBQIlB4qwKwL) | [벅](https://open.spotify.com/artist/6ZCegWpMqRwxCCXNVmunVq) | [맨발의 청춘](https://open.spotify.com/album/4ACjsPLOJaR6rLX9MQVHP1) | 3:42 |
+| 96 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 |
+| 97 | [To Be Continued](https://open.spotify.com/track/7L4fxoCYiWzFWepXU3yv9m) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B](https://open.spotify.com/album/7Jt6i57qFtmBUeXFLZrMFF) | 4:02 |
 | 98 | [섹시한 남자](https://open.spotify.com/track/0Ss2xN0mwOnIpzWjG7gwf7) | [스페이스에이](https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y) | [Power Bit Techno Space A](https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S) | 3:54 |
 | 99 | [Returned Break up](https://open.spotify.com/track/20pRpdvWh7BLIKpRZVLhMF) | [Kim Hyun Jung](https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO) | [A Sea Gull Of Dream](https://open.spotify.com/album/4m1cpODfcEUc8u5btJgrSC) | 3:30 |
 | 100 | [사랑을 아직도 난 I Don't Know Love](https://open.spotify.com/track/1lilimwLEAWFlImqjke27f) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [The Life… DOC Blues](https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U) | 3:44 |

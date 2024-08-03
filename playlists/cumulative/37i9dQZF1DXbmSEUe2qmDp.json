@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "Aquela Boca",
+        "url": "https://open.spotify.com/album/3Ni1CNs60Ri6DKjMSBa2Bd"
+      },
+      "artists": [
+        {
+          "name": "Matheus Vargas",
+          "url": "https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl"
+        },
+        {
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164074,
+      "name": "Aquela Boca",
+      "url": "https://open.spotify.com/track/4Flipe2KvxKZIvXItpA2fh"
+    },
+    {
+      "album": {
         "name": "Rafaela Neves, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5QbWzMW9A9uQxmEOBr419m"
       },
@@ -246,6 +268,24 @@
       "duration_ms": 183449,
       "name": "Boca Reserva",
       "url": "https://open.spotify.com/track/4V5Dm16NqgpkCtbtG30Rmt"
+    },
+    {
+      "album": {
+        "name": "Boca Solta",
+        "url": "https://open.spotify.com/album/6gr9xMrDvKDtNH1xXAWnzK"
+      },
+      "artists": [
+        {
+          "name": "Douglas & Diego",
+          "url": "https://open.spotify.com/artist/44fMCOsl1bJ4IAOiUdYSpY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156218,
+      "name": "Boca Solta",
+      "url": "https://open.spotify.com/track/7HwFEByDQS8Xg9z7FW9Gh2"
     },
     {
       "album": {
@@ -494,7 +534,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 160933,
       "name": "Ela \u00c9 do Mato - Ao Vivo",
       "url": "https://open.spotify.com/track/1cKzr0faPk6PNXEcjhkGoV"
@@ -578,7 +618,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 144663,
       "name": "Eu Lembro",
       "url": "https://open.spotify.com/track/5phjsdS0pk8DQ1dfTtdLl2"
@@ -694,7 +734,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 170411,
       "name": "For\u00e7a Do \u00c1udio - Live",
       "url": "https://open.spotify.com/track/58dA8PHGZx8U1o27b1B2Un"
@@ -720,6 +760,28 @@
       "duration_ms": 154105,
       "name": "Fraquinha de Tudo",
       "url": "https://open.spotify.com/track/2i7xriYsqQqlacRv0vjdpL"
+    },
+    {
+      "album": {
+        "name": "Gemidinho de Transa",
+        "url": "https://open.spotify.com/album/4abhx1J0B2DijVPkWgt2Xf"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Luiz e Josiane",
+          "url": "https://open.spotify.com/artist/0yOql72zM4nxFJBzrIcJ6s"
+        },
+        {
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145397,
+      "name": "Gemidinho de Transa",
+      "url": "https://open.spotify.com/track/6KUU7ruDJ1KDBSfoHa6xX2"
     },
     {
       "album": {
@@ -814,7 +876,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 150263,
       "name": "GOSTA DE RODEIO",
       "url": "https://open.spotify.com/track/5dnMsbeQ9vBitIyE6X1Bes"
@@ -901,6 +963,28 @@
     },
     {
       "album": {
+        "name": "Largado Num Len\u00e7ol (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Be00wobiUm17cgFUxZQ5h"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Melo",
+          "url": "https://open.spotify.com/artist/6fRFG2Qzw5C06WRjB5EcUV"
+        },
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128688,
+      "name": "Largado Num Len\u00e7ol - Ao Vivo",
+      "url": "https://open.spotify.com/track/60q9EBzZtyMBSt9M2vkHpz"
+    },
+    {
+      "album": {
         "name": "menina durona",
         "url": "https://open.spotify.com/album/1PIQ7UHVnuXa0nYzxraT09"
       },
@@ -948,10 +1032,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 178070,
       "name": "Mete \u00c1lcool - Ao Vivo",
       "url": "https://open.spotify.com/track/5xmxlliSe6g7rJoAnrECQL"
+    },
+    {
+      "album": {
+        "name": "Meu Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2DfDy36EAJYiBA9F4Lvnrf"
+      },
+      "artists": [
+        {
+          "name": "Luiz Cl\u00e1udio & Giuliano",
+          "url": "https://open.spotify.com/artist/0OvmyLPHkGBqDsG4ciiZ1E"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218178,
+      "name": "Meu Segredo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6OkxbHTFbFGdSc7Is5tgzw"
     },
     {
       "album": {
@@ -1018,6 +1124,28 @@
       "duration_ms": 174000,
       "name": "Montanha Russa",
       "url": "https://open.spotify.com/track/6PtpDOdRNXaHyigjgvN43m"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Em Rio Preto (Ao Vivo / EP02)",
+        "url": "https://open.spotify.com/album/01Jnd6nzb4AIWvl91XUnmh"
+      },
+      "artists": [
+        {
+          "name": "Leo e Matheus",
+          "url": "https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma"
+        },
+        {
+          "name": "Workshow",
+          "url": "https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173539,
+      "name": "Mulheres Fortes - Ao Vivo",
+      "url": "https://open.spotify.com/track/3hw2YKjAWWuL9XU0u7n0Mr"
     },
     {
       "album": {
@@ -1327,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Vale A Pena Ouvir De Novo",
+        "url": "https://open.spotify.com/album/695xQ80LXPK2SyhEyB4PDT"
+      },
+      "artists": [
+        {
+          "name": "Bart\u00f4 e Regim",
+          "url": "https://open.spotify.com/artist/53Whk1xcazooDClFEm1HxT"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337125,
+      "name": "Playlist Aleat\u00f3ria",
+      "url": "https://open.spotify.com/track/3dYTq032KmmGfaUbAmo4TI"
+    },
+    {
+      "album": {
         "name": "Porteira Fechada",
         "url": "https://open.spotify.com/album/5HkI1qlhatLKxYYlG0K9LA"
       },
@@ -1360,6 +1506,24 @@
       "duration_ms": 163055,
       "name": "Pra Dan\u00e7ar Vaneira / Ajoelha e Chora - Batid\u00e3o & Terer\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/2DPMlOVcB5qwXtECsSYfsV"
+    },
+    {
+      "album": {
+        "name": "Pra Desbotar a Saudade / Um Dia de Domingo (Sem Edi\u00e7\u00e3o)",
+        "url": "https://open.spotify.com/album/3OJyLMqeKHvGGXBeryvUPE"
+      },
+      "artists": [
+        {
+          "name": "Matt\u00e3o e Monteiro",
+          "url": "https://open.spotify.com/artist/4fCsvWlGVsQTrqrJX3jc05"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257380,
+      "name": "Pra Desbotar a Saudade / Um Dia de Domingo - Sem Edi\u00e7\u00e3o, Ao Vivo",
+      "url": "https://open.spotify.com/track/3Tto4rwHGb8Exa15XRHSDn"
     },
     {
       "album": {
@@ -1600,10 +1764,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 345324,
       "name": "Set Sertanejo: Cada Mesa uma Hist\u00f3ria",
       "url": "https://open.spotify.com/track/03ezjItfSCMqY5pcKU7kwv"
+    },
+    {
+      "album": {
+        "name": "Sete Vidas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3QedI9N3cpiMPULClX1MYI"
+      },
+      "artists": [
+        {
+          "name": "Yule Rossi",
+          "url": "https://open.spotify.com/artist/4L84cDrvCezSuR0jwo0Dlo"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164011,
+      "name": "Sete Vidas - Ao Vivo",
+      "url": "https://open.spotify.com/track/37Wyl0UhTWcRwbf4RKHZMb"
     },
     {
       "album": {
@@ -1848,7 +2030,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 158296,
       "name": "T\u00e1 Foragida",
       "url": "https://open.spotify.com/track/7qIqvK4PUghMpqkrOquBwA"
@@ -1950,7 +2132,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 164938,
       "name": "V\u00edcios Rotineiros (Ao Vivo)",
       "url": "https://open.spotify.com/track/5Impwsywhyq6oeeMs78eNw"

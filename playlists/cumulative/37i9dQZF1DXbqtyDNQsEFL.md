@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=4xD\-kH0vQt2t8vcRGj963A>Theresa Phondo</a>
 
-369 songs - 1 day 13 hr 0 min
+370 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Have Your Way \- Extended Version](https://open.spotify.com/track/03eLLtNoCSQwYBRBqglw2p) | [Adzo Gordon](https://open.spotify.com/artist/60PXU18yxODtaQJFPKsB9W) | [Have Your Way](https://open.spotify.com/album/3IxSKjvMTojVMBhji8w5Jw) | 22:53 | 2022-07-14 | 2023-03-18 |
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-26 |  |
 | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/track/7vICvbajavcYKgm9xjLwnk) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/album/7hu9MzBVuIvzRcPeKRbPKf) | 6:04 | 2022-10-14 | 2022-11-05 |
+| [Higher](https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [GospelOnDeBeatz](https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe) | [Ghetto Gospel](https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2) | 3:00 | 2024-07-26 |  |
 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 | 2024-05-03 |  |
 | [Hold On](https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hold On](https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r) | 2:37 | 2024-04-05 | 2024-05-24 |
 | [Holy](https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Imani](https://open.spotify.com/artist/4nxuTuvnkmY0EYLe39Ycsf) | [Holy](https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr) | 3:30 | 2024-02-23 | 2024-06-01 |
@@ -306,7 +307,7 @@
 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 | 2022-08-12 | 2023-11-18 |
 | [The Name of Jesus \- Live in Concert](https://open.spotify.com/track/4KTSpi2D4uoHcwxcPvvt3v) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 8:10 | 2023-12-05 | 2023-12-11 |
 | [The Only God](https://open.spotify.com/track/6jriZl0MvIiURIS64fSqfO) | [Mairo Ese](https://open.spotify.com/artist/78QoE7x1Wt8whxsUItnwm9) | [The Only God](https://open.spotify.com/album/0oCDl8tXWW4izMRgXnTzNf) | 7:23 | 2022-10-14 | 2022-11-05 |
-| [The Way](https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Good To Go](https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf) | 3:25 | 2023-12-15 |  |
+| [The Way](https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Good To Go](https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf) | 3:25 | 2023-12-15 | 2024-08-03 |
 | [There's an Overflow](https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [There's an Overflow](https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm) | 8:10 | 2022-06-09 | 2023-10-06 |
 | [This Love](https://open.spotify.com/track/5RHUrCglxsMgs2xvo1wCh2) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [This Love](https://open.spotify.com/album/5jF6a0WvJ8zzO9a00lbP6I) | 5:00 | 2022-06-09 | 2023-01-26 |
 | [This New Year](https://open.spotify.com/track/5jhaDcY8Xbt2g4zj5Skj6N) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [This New Year](https://open.spotify.com/album/4KMbeo33myIfZ8Rp5rYxLh) | 4:11 | 2023-12-15 | 2024-01-26 |

@@ -4,7 +4,7 @@
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 37 min
+96 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Awesome \(feat\. Baby Tate\)](https://open.spotify.com/track/0aOFo1FPyMdgopCac1QMmc) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Awesome \(feat\. Baby Tate\)](https://open.spotify.com/album/0U31u16tUxLte3O7ghLpm6) | 2:25 | 2024-06-16 |  |
 | [B.O.M.B.S.](https://open.spotify.com/track/4D8KWoUe3oTaQSQq928X7B) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [B.O.M.B.S.](https://open.spotify.com/album/26Mu53kDQHQ5wIjUhpiMhY) | 3:13 | 2022-10-28 | 2023-02-09 |
 | [Bad Lil Bish \(feat\. Baby Tate & Black Boe\)](https://open.spotify.com/track/6pZFQmfGK8NnU0xrvK42ng) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Black Boe](https://open.spotify.com/artist/0H6CjdCp9GMNoFgMVALJOk) | [Better Than Drugs](https://open.spotify.com/album/1Z7KnOiOsVLzW2qkgYatxY) | 3:09 | 2022-10-28 | 2023-05-17 |
-| [Baecation](https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 3:02 | 2022-10-28 |  |
+| [Baecation](https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 3:02 | 2022-10-28 | 2024-08-03 |
 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 | 2022-10-28 |  |
 | [BIBI Vengeance \(feat\. Baby Tate & with Princesa Alba\) \- Remix](https://open.spotify.com/track/3912lxLhe5pgqJafrqrxK8) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [BIBI Vengeance \(feat\. Baby Tate & with Princesa Alba\) \[Remix\]](https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r) | 3:09 | 2023-03-04 |  |
 | [Billion Dollar Bitch \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/2ERxhNVMT1Fd5fNyX6CIcW) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O) | 3:08 | 2022-10-28 |  |
@@ -74,6 +74,7 @@
 | [Lollipop](https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:47 | 2023-11-10 |  |
 | [Look @ That \- Remix](https://open.spotify.com/track/1DRxLdcngzHguUjieZsCOB) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Lowkey Superstar \(Deluxe\)](https://open.spotify.com/album/6guuspL1X2589w70ng68Qk) | 2:42 | 2023-06-24 | 2024-07-10 |
 | [Look @ That \- Remix](https://open.spotify.com/track/6DsuRfvs19wzZ5Vp26mus1) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Lowkey Superstar \(Deluxe\)](https://open.spotify.com/album/3UGsdfFc2kZBLZhu3YbkF3) | 2:42 | 2022-10-28 | 2023-05-17 |
+| [Love Thing \(feat\. Yung Baby Tate \)](https://open.spotify.com/track/2O4FkPICvTd1c8pW3KiwwZ) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Flip](https://open.spotify.com/album/4Y4gWDCCetjIMn5dXTCPkG) | 3:07 | 2024-08-03 |  |
 | [Luv Everybody](https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 | 2023-11-10 |  |
 | [Me First](https://open.spotify.com/track/0LhgsQDr1TtG4e21NVn7tS) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:41 | 2022-10-28 |  |
 | [Mean Girl \(feat\. Queen Key & Asian Doll\)](https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 4:22 | 2022-10-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,704 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,735 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 40 | [Los Pollitos Dicen](https://open.spotify.com/track/41yJCVpmgWB3SVVPF8WZRA) | [Kids Music Box](https://open.spotify.com/artist/0syRfepwQdWHmbxLiOqMbC) | [Los Pollitos Dicen](https://open.spotify.com/album/6mMAInUWQTrXwNQUTxtlgH) | 1:39 |
 | 41 | [Five Cool Cats](https://open.spotify.com/track/3OSqJ1Ut599zQdarfWez4j) | [Brian Waite Band](https://open.spotify.com/artist/0IssdwELpOUhnpISuAXXXB) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 5:06 |
 | 42 | [Mi Chacra](https://open.spotify.com/track/5zP8jxoTuAudT8i8orZzIn) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer World Adventure](https://open.spotify.com/album/4tNe4BNIrslkswQP5Y26JG) | 3:11 |
-| 43 | [La Pequena Arana\-Bonus](https://open.spotify.com/track/5x7lPrav33GIfgBv2lVpQg) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:12 |
+| 43 | [Gato Astronauta](https://open.spotify.com/track/0pXuUFOxkbZjXrBCUWdAYH) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:01 |
 | 44 | [Animal Jam](https://open.spotify.com/track/1FQMwZpGCFXkrt8GbrBVG6) | [Diego, Dora & Friends](https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V) | [Diego, Dora & Friends' Animal Jamboree](https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD) | 3:17 |
 | 45 | [Foxy Fakeout](https://open.spotify.com/track/1WM4SmNvIdUrQmmeKazKu7) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 2:08 |
 | 46 | [El Cocodrilo y el Orangután](https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 |

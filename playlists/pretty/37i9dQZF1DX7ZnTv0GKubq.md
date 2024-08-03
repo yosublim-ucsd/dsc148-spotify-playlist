@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,012 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,047 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 13 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
 | 14 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 |
 | 15 | [Send Your Loving](https://open.spotify.com/track/78hvRuG5aqaFd6YDNNYLuN) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Send Your Loving](https://open.spotify.com/album/6mosxW2MvsBVCa8dpxDhyB) | 3:34 |
-| 16 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
-| 17 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
+| 16 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
+| 17 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
 | 18 | [Fight you](https://open.spotify.com/track/0ge1CEon7FR7RX78ZdZhDA) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Tell Jimmy](https://open.spotify.com/album/7qW0v91QqdcYVuu4sVMLVt) | 3:18 |
 | 19 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 |
 | 20 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 41 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
 | 42 | [Ride for Me](https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Ride for Me](https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg) | 3:14 |
 | 43 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
-| 44 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 |
-| 45 | [Speed Of Plight](https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:00 |
+| 44 | [Speed Of Plight](https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:00 |
+| 45 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 |
 | 46 | [Sunshine](https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:22 |
 | 47 | [17](https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17](https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq) | 2:40 |
 | 48 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |

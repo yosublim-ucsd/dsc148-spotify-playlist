@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,418 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,422 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 61 | [It's Impressive](https://open.spotify.com/track/7lQnGrQI7m1qzS9Z89GtTi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [It's Impressive](https://open.spotify.com/album/74vSgLGwSVRkDJQHGN4qLp) | 2:05 |
 | 62 | [Satellite](https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 3:30 |
 | 63 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 |
-| 64 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 |
+| 64 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 65 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
-| 66 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
+| 66 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 |
 | 67 | [Chillin' In The Dark](https://open.spotify.com/track/3D7W9qlaXDoC6PWVxnUB9k) | [Everyday is Sunday](https://open.spotify.com/artist/4ucm9OKtO5fac0lLRsngDW) | [Chillin' In The Dark](https://open.spotify.com/album/4JdMw6PQjcsIl3AjYxhhCo) | 2:42 |
 | 68 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 69 | [A Pervasive Awareness](https://open.spotify.com/track/4nwdHLEuVcK8b6vfEpWD5N) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [A Pervasive Awareness](https://open.spotify.com/album/0dfsOtFcCPaC78YrBBKmyF) | 3:26 |

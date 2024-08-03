@@ -4,12 +4,13 @@
 
 > This is imase\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 41 min
+31 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18](https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [18](https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7) | 3:35 | 2023-12-26 |  |
 | [BONSAI](https://open.spotify.com/track/4gv9id0HvLVhaQWp4jtfH7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:08 | 2024-05-17 |  |
+| [boy \- feat\. asmi & imase](https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [boy \(feat\. asmi & imase\)](https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps) | 3:14 | 2024-08-03 |  |
 | [Greedy Greedy \- feat.imase](https://open.spotify.com/track/6I3iulO4fB0hbsWV62CeK9) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Greedy Greedy \(feat.imase\)](https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1) | 3:10 | 2024-05-17 | 2024-07-04 |
 | [Happy Order?](https://open.spotify.com/track/42m2Tyvsx9DRuujxfeTjfi) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Happy Order?](https://open.spotify.com/album/0oGqRZnSSNtsbOfUeWTCAG) | 3:31 | 2024-04-04 | 2024-07-29 |
 | [Happy Order?](https://open.spotify.com/track/4xl4ZDZi9V5ZnWKUJyQzeW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 3:32 | 2024-07-29 |  |

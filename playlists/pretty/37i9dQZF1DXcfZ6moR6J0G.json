@@ -1,6 +1,6 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 1909705,
+  "num_followers": 1910097,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
-      },
-      "artists": [
-        {
-          "name": "Earshot",
-          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "The Fundamental Elements of Southtown",
         "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 247253,
       "name": "Southtown",
       "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
+      },
+      "artists": [
+        {
+          "name": "Earshot",
+          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Greatest Hits (The Atlantic Years)",
-        "url": "https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "Alive - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "L.D. 50",
         "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 291933,
       "name": "Death Blooms",
       "url": "https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "Greatest Hits (The Atlantic Years)",
+        "url": "https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "Alive - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET"
     },
     {
       "added_at": "2024-07-26 16:34:35",

@@ -2,7 +2,7 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: William Cloutier
+> De la musique québécoise pour tous les goûts\. Photo: Billie du Page
 
 82 songs - 4 hr 20 min
 

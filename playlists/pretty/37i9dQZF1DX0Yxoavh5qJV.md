@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,557,275 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,556,898 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 51 | [Do You Hear What I Hear? \- Remastered 2006](https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:45 |
 | 52 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
 | 53 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 |
-| 54 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
-| 55 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 |
+| 54 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 |
+| 55 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
 | 56 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:51 |
 | 57 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 |
 | 58 | [Jingle Bells](https://open.spotify.com/track/4KV9bM7a1KDc7b7OakFZic) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:02 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 88 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 |
 | 89 | [Someday At Christmas](https://open.spotify.com/track/0GMbNoVqoycx9qd9ggIP8V) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Jingle Bells](https://open.spotify.com/album/5NlA5cPHtHxIMOO9tqH7ar) | 2:49 |
 | 90 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 |
-| 91 | [Merry Christmas Everyone \- Remastered](https://open.spotify.com/track/23lpJkE7jJ4BVQhc3lj0VM) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone \(Remastered\)](https://open.spotify.com/album/0JBRnXybCvjEgoERinxmJa) | 3:40 |
-| 92 | [Santa's Coming for Us](https://open.spotify.com/track/3AlpkljBS1AU7HFVPms8K6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 3:26 |
+| 91 | [Santa's Coming for Us](https://open.spotify.com/track/3AlpkljBS1AU7HFVPms8K6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 3:26 |
+| 92 | [Merry Christmas Everyone \- Remastered](https://open.spotify.com/track/23lpJkE7jJ4BVQhc3lj0VM) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone \(Remastered\)](https://open.spotify.com/album/0JBRnXybCvjEgoERinxmJa) | 3:40 |
 | 93 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/5SyQ5OhqrkJGb35V7RBoL0) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [The Winter Album](https://open.spotify.com/album/4ouVWPI2PNjbd0zjXmfaOS) | 4:12 |
 | 94 | [Run Rudolph Run](https://open.spotify.com/track/30WHma5z5Sty54jbtoxYEy) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' Little Christmas](https://open.spotify.com/album/5hZivEHAxRLhYfsaNdPzkU) | 2:44 |
 | 95 | [Frosty The Snowman](https://open.spotify.com/track/6MPpnJDLk37GEIM0iGGITd) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Christmas](https://open.spotify.com/album/3cfRNKKs0by89V5C1uPDm3) | 2:13 |

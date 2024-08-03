@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 204351,
       "name": "Don't Care - Female Version",
       "url": "https://open.spotify.com/track/6zRJJRw3dX9xcXSHBQMeQf"
@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 157512,
       "name": "Hey Snehithe",
       "url": "https://open.spotify.com/track/1vy1wvjZnGRy2jmI05n3C2"
@@ -7518,6 +7518,24 @@
       "duration_ms": 87012,
       "name": "Usira Olage",
       "url": "https://open.spotify.com/track/5sgu4p23JIf0GGubV1SF5h"
+    },
+    {
+      "album": {
+        "name": "Usire My Breath",
+        "url": "https://open.spotify.com/album/03nWIcH5cuej4GGnzIk1xT"
+      },
+      "artists": [
+        {
+          "name": "Bhoomika Yellow B",
+          "url": "https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137411,
+      "name": "Usire My Breath",
+      "url": "https://open.spotify.com/track/2N1k2J1VX5ZqhuDw4kgVZg"
     },
     {
       "album": {

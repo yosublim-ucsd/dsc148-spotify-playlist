@@ -2,9 +2,9 @@
 
 ### [Hot Hits Tunisia](https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl)
 
-> Samara en tête de la playlist numéro un en Tunisie.
+> Adam Port & Stryv en tête de la playlist numéro un en Tunisie.
 
-224 songs - 13 hr 36 min
+225 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Kadhabin](https://open.spotify.com/track/03T7JF553K5pvxODKBsgVm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Kadhabin](https://open.spotify.com/album/5JYLLub4A1GNowDyy0XdeL) | 4:40 | 2022-09-01 | 2022-12-13 |
 | [Kafon GALBI](https://open.spotify.com/track/7HuPW3FTvf32teIRVdRGnt) | [Rap City](https://open.spotify.com/artist/2Bg8pjIGpTytyqqpkFZ9q0) | [Kafon GALBI](https://open.spotify.com/album/2C25uD29j9XKiApzQadZNu) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Kberna](https://open.spotify.com/track/3qPuUbEjX7fBcj4WPUkbh4) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:24 | 2022-11-26 | 2023-06-28 |
-| [Keema Ena](https://open.spotify.com/track/5WsYnPl5q3qNh3LuyGTuhR) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Keema Ena](https://open.spotify.com/album/1bHxBuCsEYnrYS9kOv21MO) | 3:53 | 2023-12-12 |  |
+| [Keema Ena](https://open.spotify.com/track/5WsYnPl5q3qNh3LuyGTuhR) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Keema Ena](https://open.spotify.com/album/1bHxBuCsEYnrYS9kOv21MO) | 3:53 | 2023-12-12 | 2024-08-03 |
 | [Khali Hazzar](https://open.spotify.com/track/4X8wfDqiJvoszsn08O7kBJ) | [Manel Amara](https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN) | [Khali Hazzar](https://open.spotify.com/album/3KtF6Ut396rlyNgVr71Dfi) | 3:16 | 2023-02-11 | 2023-02-21 |
 | [Khallini](https://open.spotify.com/track/0gJcpURgVWr1p0dCk5Si5i) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0), [Rana Zarrouk](https://open.spotify.com/artist/04tYosSfS1AAx5yM8vyJLF) | [Khallini](https://open.spotify.com/album/11s7SEvvNazLRiehoHaI3p) | 3:03 | 2023-03-30 | 2023-08-20 |
 | [Khamsa Wekhmis](https://open.spotify.com/track/1WfIwSm6R98vRKPvFol0hN) | [Master Sina](https://open.spotify.com/artist/50YiAJFQLuv0Ncrl9zuhZq), [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [Khamsa Wekhmis](https://open.spotify.com/album/2u0bXhsQ5cZgPLpYORW0F2) | 4:05 | 2022-01-24 | 2022-09-13 |
@@ -123,7 +123,7 @@
 | [Ma3Likesh Elloum](https://open.spotify.com/track/2BDStFDyWmfAKYw1Vz0LTA) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:12 | 2022-11-26 | 2023-05-02 |
 | [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 | 2023-01-06 | 2024-06-15 |
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 | 2022-07-12 |
-| [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2023-10-23 |  |
+| [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2023-10-23 | 2024-08-03 |
 | [Manansech \- مننساش](https://open.spotify.com/track/0ZHftCnY8Dlvpo8CFF2SBn) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Manansech \(مننساش\)](https://open.spotify.com/album/1uTvUDzsXMJlFuIbeNyvKp) | 2:56 | 2023-09-25 | 2023-12-13 |
 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 | 2023-08-15 | 2024-07-10 |
 | [Manetfergou](https://open.spotify.com/track/3cPaU2mPl07jFske7Oa6BM) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/3FSUMn0xQilIzfsPjyQptP) | 3:17 | 2024-07-16 |  |
@@ -174,6 +174,7 @@
 | [Sidi El Houwari](https://open.spotify.com/track/7ewNKUWihyy5DWQQESwjPc) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Sidi El Houwari](https://open.spotify.com/album/7MRuqMWZGwhuZ1417n7B1n) | 3:56 | 2022-02-07 | 2022-11-08 |
 | [Snini](https://open.spotify.com/track/0HfJiW1HlCPHwYhhHBstki) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Snini](https://open.spotify.com/album/3aL9zVG5FgHl8hAj5njI78) | 4:07 | 2024-05-07 |  |
 | [Sob Enta](https://open.spotify.com/track/2UuSF6Y0Q9UINkprnG48Xn) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Mista6012](https://open.spotify.com/artist/5PXOzFTQg0XX5f8uS20cY3), [MC Rai](https://open.spotify.com/artist/5FofUhu7YJLPwRP5I5xAKq), [Wiem Yahia](https://open.spotify.com/artist/4LOXLGzjdPXGPQbGwbQXxd) | [Sob Enta](https://open.spotify.com/album/0nxxlzddE6ODOSqiXPNJdK) | 3:31 | 2022-05-26 | 2022-07-12 |
+| [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2024-08-02 |  |
 | [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 | 2024-05-12 |  |
 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 | 2022-03-31 | 2024-02-13 |
 | [Sous tension](https://open.spotify.com/track/6h0sdTa2cXLsHuxjd29clN) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Sous tension](https://open.spotify.com/album/4q73ju7gYbEFuZCr8Ex5kq) | 3:55 | 2023-01-17 | 2023-06-28 |

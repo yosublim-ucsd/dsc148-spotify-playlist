@@ -720,7 +720,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 198549,
       "name": "ABOMINATION",
       "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 139354,
       "name": "apollo",
       "url": "https://open.spotify.com/track/0DoKEamrm3P13HItt9PTwM"
@@ -2078,7 +2078,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 220632,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
@@ -3040,7 +3040,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 162377,
       "name": "BLAME IT ON ME",
       "url": "https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI"
@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 170986,
       "name": "break me",
       "url": "https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 193527,
       "name": "Bring Back The Beat",
       "url": "https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O"
@@ -3633,6 +3633,28 @@
     },
     {
       "album": {
+        "name": "brudny moncler",
+        "url": "https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        },
+        {
+          "name": "luvpill",
+          "url": "https://open.spotify.com/artist/636Sh0pcePIBMfPNjVsNO8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105494,
+      "name": "brudny moncler",
+      "url": "https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq"
+    },
+    {
+      "album": {
         "name": "Bu Gece Son",
         "url": "https://open.spotify.com/album/2g9H0x9HQi68RoI0krAO8p"
       },
@@ -3644,7 +3666,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 164571,
       "name": "Bu Gece Son",
       "url": "https://open.spotify.com/track/1k2asRqf2pyMDc6Yh7Y3Ec"
@@ -3882,7 +3904,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 286107,
       "name": "California",
       "url": "https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9"
@@ -4056,7 +4078,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 124013,
       "name": "Cartwheels",
       "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
@@ -5351,6 +5373,32 @@
     },
     {
       "album": {
+        "name": "Dancing in the Dark",
+        "url": "https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Kelly",
+          "url": "https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr"
+        },
+        {
+          "name": "Lushroom",
+          "url": "https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu"
+        },
+        {
+          "name": "sanjay.",
+          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198640,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN"
+    },
+    {
+      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/36RBvUCtqxCicTxGnOqD2X"
       },
@@ -5596,7 +5644,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 197565,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
@@ -6096,7 +6144,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 219956,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE"
@@ -6584,7 +6632,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 141968,
       "name": "D\u00edas de mierda (Arial 3)",
       "url": "https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD"
@@ -7118,7 +7166,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 159960,
       "name": "en rosalie",
       "url": "https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV"
@@ -7534,7 +7582,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 139680,
       "name": "Excuse Me",
       "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
@@ -9470,7 +9518,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 197205,
       "name": "Happier",
       "url": "https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff"
@@ -9488,7 +9536,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 182428,
       "name": "Happy",
       "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
@@ -10036,7 +10084,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 198386,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0"
@@ -10200,7 +10248,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 136011,
       "name": "Home",
       "url": "https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp"
@@ -12548,7 +12596,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 177312,
       "name": "Khaali Khaali",
       "url": "https://open.spotify.com/track/3zwsBUs35djOOrXrOsgVoS"
@@ -12674,7 +12722,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 242822,
       "name": "Kisah Yang Lain",
       "url": "https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az"
@@ -12944,7 +12992,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 229549,
       "name": "la manera que me ves",
       "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
@@ -13852,7 +13900,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 154104,
       "name": "LOSTWITHOUTMARIA",
       "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
@@ -13906,7 +13954,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 220192,
       "name": "Love Me Like You Say You Do",
       "url": "https://open.spotify.com/track/4NO0f4NB6jmsmUT2hNtNE8"
@@ -14054,7 +14102,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 220165,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA"
@@ -15662,7 +15710,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 157029,
       "name": "My Drummer's Girlfriend",
       "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
@@ -15918,7 +15966,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 146086,
       "name": "NANA",
       "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
@@ -17816,7 +17864,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 176881,
       "name": "Palabra Prohibida",
       "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
@@ -18224,7 +18272,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 276292,
       "name": "People 365",
       "url": "https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk"
@@ -18380,7 +18428,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 218031,
       "name": "Piano Hands",
       "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
@@ -18604,7 +18652,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 165267,
       "name": "Polonia",
       "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
@@ -18886,7 +18934,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 181603,
       "name": "promenade",
       "url": "https://open.spotify.com/track/4oWNFzfbJgMkq9FUI4GAo0"
@@ -19636,7 +19684,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 177876,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD"
@@ -19770,7 +19818,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161213,
       "name": "Rome",
       "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
@@ -20108,7 +20156,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 229450,
       "name": "SAH - Acoustic Version",
       "url": "https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD"
@@ -20556,7 +20604,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 212451,
       "name": "Semesta - From \"X-Change\"",
       "url": "https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX"
@@ -20838,7 +20886,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 158170,
       "name": "Shiny New Thing",
       "url": "https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA"
@@ -21672,7 +21720,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 177310,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0gjg8NLYcdx5iSFE8HOgcR"
@@ -22058,7 +22106,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 120078,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr"
@@ -22300,7 +22348,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 218896,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3"
@@ -22426,7 +22474,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 172508,
       "name": "Teaser",
       "url": "https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX"
@@ -22700,7 +22748,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 166562,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/3rX4Wd80m9PSvse363wwKz"
@@ -22776,7 +22824,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 177904,
       "name": "The Girl Who Cried Love",
       "url": "https://open.spotify.com/track/35r2RTtVGguSzfGPJgoxLl"
@@ -22978,6 +23026,24 @@
       "duration_ms": 157714,
       "name": "Thi\u00ean H\u1ea1 H\u1eefu T\u00ecnh Nh\u00e2n",
       "url": "https://open.spotify.com/track/2AC0pwlMPaOY4gq5i16zzu"
+    },
+    {
+      "album": {
+        "name": "Thumb War",
+        "url": "https://open.spotify.com/album/4GzWCviDgvcDeWcCWj8ESS"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141406,
+      "name": "Thumb War",
+      "url": "https://open.spotify.com/track/4PCS43NMFxaBqSAocp67Ml"
     },
     {
       "album": {
@@ -24567,6 +24633,24 @@
     },
     {
       "album": {
+        "name": "W.O.W.Y.",
+        "url": "https://open.spotify.com/album/2fc71wTzm1Ddun26yslWG1"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "W.O.W.Y.",
+      "url": "https://open.spotify.com/track/0cPe1dk3g5AiNXmZ122sSF"
+    },
+    {
+      "album": {
         "name": "Wag Kang Umalis",
         "url": "https://open.spotify.com/album/3nGMv7k9vSWD0dqUKbOngY"
       },
@@ -25554,7 +25638,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 209054,
       "name": "Ya Hayati",
       "url": "https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA"
@@ -25824,7 +25908,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 163662,
       "name": "Zehirlenebilir Hayat\u0131m",
       "url": "https://open.spotify.com/track/238wbgbcWPejxUdxqKfKRS"

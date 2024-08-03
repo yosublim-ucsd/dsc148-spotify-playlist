@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-19",
-  "description": "This is Stefanie. The essential tracks, all in one playlist.",
+  "description": "This is Stefanie. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Stefanie",
   "tracks": [
     {
@@ -318,6 +318,32 @@
       "duration_ms": 262400,
       "name": "Fofoqueiro",
       "url": "https://open.spotify.com/track/1L32CFDyMZXNiJQg82t9rD"
+    },
+    {
+      "album": {
+        "name": "Pau-de-d\u00e1-em-Doido, Vol. 2",
+        "url": "https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "Indee",
+          "url": "https://open.spotify.com/artist/6F8T5BrVPsND7NOzCBLZu5"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "Ladies In tha House",
+      "url": "https://open.spotify.com/track/3EzALboYhTsi6r62EgyN4X"
     },
     {
       "album": {
@@ -737,6 +763,48 @@
     },
     {
       "album": {
+        "name": "Pau-de-d\u00e1-em-Doido, Vol. 2",
+        "url": "https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "En\u00e9zimo",
+          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
+        },
+        {
+          "name": "Eri Q.I.",
+          "url": "https://open.spotify.com/artist/1VCBqiaJjrdy4rXHtJoSkS"
+        },
+        {
+          "name": "Max Musicamente",
+          "url": "https://open.spotify.com/artist/0sSi17zwKrvUgQOZiiQZ5b"
+        },
+        {
+          "name": "Preto-R",
+          "url": "https://open.spotify.com/artist/1heNsKjqxFtnyaDLnXGASL"
+        },
+        {
+          "name": "Andr\u00e9 Sagat",
+          "url": "https://open.spotify.com/artist/754zM25AMHnld1i3GzvbUC"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/4PmQCWdTqSIXEUtxxrCsoC"
+    },
+    {
+      "album": {
         "name": "Sorry Drummer & Friends, Vol. 2",
         "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
       },
@@ -1028,7 +1096,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 170065,
       "name": "Rimas & Melodias",
       "url": "https://open.spotify.com/track/3DtKHlWMK0sQYaVLe8rkh9"
@@ -1112,7 +1180,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 146464,
       "name": "Sete Chaves",
       "url": "https://open.spotify.com/track/4tyFClSOVNRlOf0wrQNaBG"

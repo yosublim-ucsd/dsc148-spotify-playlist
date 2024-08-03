@@ -3868,8 +3868,8 @@
           "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
         },
         {
-          "name": "Lozeak",
-          "url": "https://open.spotify.com/artist/0gxlzfqDP4GzCPVsFKwFoS"
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
         }
       ],
       "date_added": "2024-07-26",
@@ -8073,6 +8073,28 @@
     },
     {
       "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
         "name": "HARDC0RE DR3AMZ",
         "url": "https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD"
       },
@@ -9188,6 +9210,28 @@
       "duration_ms": 176609,
       "name": "HISTORY",
       "url": "https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN"
+    },
+    {
+      "album": {
+        "name": "Hold My Love (feat. Piper Byers)",
+        "url": "https://open.spotify.com/album/5UtWnVXS5XFXJU8geS49K6"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Piper Byers",
+          "url": "https://open.spotify.com/artist/2m0Pc2TS4246t620Ut4Dk3"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Hold My Love (feat. Piper Byers)",
+      "url": "https://open.spotify.com/track/6DagmGXA13lYuPCI2ZUDRt"
     },
     {
       "album": {
@@ -10614,6 +10658,28 @@
       "duration_ms": 192685,
       "name": "idwtwya",
       "url": "https://open.spotify.com/track/0xYF2Wq1PPIPG0hhNPOcef"
+    },
+    {
+      "album": {
+        "name": "If I Stay",
+        "url": "https://open.spotify.com/album/08rgWv8wBhDJeg9Lso1awd"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        },
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170964,
+      "name": "If I Stay",
+      "url": "https://open.spotify.com/track/3bjL4dOZv3rXciUCcNknow"
     },
     {
       "album": {
@@ -16159,6 +16225,28 @@
     },
     {
       "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/7wrFawWVd9g2UeOuj0rOfU"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173274,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/3r7GgRegpst8F5jjDmfD6W"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl"
       },
@@ -21250,6 +21338,28 @@
       "duration_ms": 150825,
       "name": "The One",
       "url": "https://open.spotify.com/track/2HZNAqaeO3llxJReGhFhyX"
+    },
+    {
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197322,
+      "name": "THE REASON (feat. John Newman)",
+      "url": "https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o"
     },
     {
       "album": {

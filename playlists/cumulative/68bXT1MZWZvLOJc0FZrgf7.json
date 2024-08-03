@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 214838,
       "name": "BRING IT ON",
       "url": "https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa"
@@ -12466,6 +12466,28 @@
       "duration_ms": 134724,
       "name": "WET WHITE TEE SHIRT (SIDE A)",
       "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
+    },
+    {
+      "album": {
+        "name": "What Are You Waiting For",
+        "url": "https://open.spotify.com/album/7pvrnRpG4padmzh9iSpSkn"
+      },
+      "artists": [
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155998,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/2lpdT2hY7V5ghmHvi12B3j"
     },
     {
       "album": {

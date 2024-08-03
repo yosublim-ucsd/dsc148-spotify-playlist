@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Masala Coffee",
-  "num_followers": 32836,
+  "num_followers": 32863,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqjnpQAAAABFJq6NTxFzEicghvJyM1Os",
+  "snapshot_id": "ZqyEOQAAAAD1HqYE681LbGYtEZm+fZia",
   "tracks": [
     {
       "added_at": "2024-07-30 13:08:46",
@@ -61,32 +61,32 @@
       "url": "https://open.spotify.com/track/5ZyK3ukvDuLooLNY0ZHd0k"
     },
     {
-      "added_at": "2024-07-29 12:56:48",
+      "added_at": "2024-08-02 07:01:13",
       "album": {
-        "name": "Thi Thi Thara (Kuttanadan Dreams)",
-        "url": "https://open.spotify.com/album/3Xm0UCQtN6HV2AmTobKCEs"
+        "name": "Aa Thazhvarathil",
+        "url": "https://open.spotify.com/album/0HRQFfNaW3LzHTUggFdPNx"
       },
       "artists": [
         {
-          "name": "AOORA",
-          "url": "https://open.spotify.com/artist/7dmIgQslc6AmX193BneAsy"
+          "name": "Ashwin Syam",
+          "url": "https://open.spotify.com/artist/3GsJvJi4vFsIvMHkyfAgZx"
         },
         {
-          "name": "Sireesha Bhagavatula",
-          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+          "name": "Vimal Roy",
+          "url": "https://open.spotify.com/artist/2Ws5tRsVrkr9ti2yGT9wPC"
         },
         {
-          "name": "FRIDAYYY",
-          "url": "https://open.spotify.com/artist/0Dj7QmvQwwiUeZfCGZR7M1"
+          "name": "Nichole Ann Philip",
+          "url": "https://open.spotify.com/artist/2uPsICfNitnCJW4ae3WoTl"
         },
         {
-          "name": "Mellow Kitchen",
-          "url": "https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1"
+          "name": "Rafeeq Ahammed",
+          "url": "https://open.spotify.com/artist/6uKbk35bA6KTgIbKhPJImJ"
         }
       ],
-      "duration_ms": 174472,
-      "name": "Thi Thi Thara (Kuttanadan Dreams)",
-      "url": "https://open.spotify.com/track/3wglYnuFPhTCcQwaHir0h4"
+      "duration_ms": 194204,
+      "name": "Aa Thazhvarathil",
+      "url": "https://open.spotify.com/track/5lRxhdN93w5CfxQOS5tzNB"
     },
     {
       "added_at": "2024-07-30 13:02:17",
@@ -275,6 +275,34 @@
       "duration_ms": 236214,
       "name": "Mulchedi",
       "url": "https://open.spotify.com/track/1sHRRpWdvPmT1XQR3WEtMq"
+    },
+    {
+      "added_at": "2024-07-29 12:56:48",
+      "album": {
+        "name": "Thi Thi Thara (Kuttanadan Dreams)",
+        "url": "https://open.spotify.com/album/3Xm0UCQtN6HV2AmTobKCEs"
+      },
+      "artists": [
+        {
+          "name": "AOORA",
+          "url": "https://open.spotify.com/artist/7dmIgQslc6AmX193BneAsy"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        },
+        {
+          "name": "FRIDAYYY",
+          "url": "https://open.spotify.com/artist/0Dj7QmvQwwiUeZfCGZR7M1"
+        },
+        {
+          "name": "Mellow Kitchen",
+          "url": "https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1"
+        }
+      ],
+      "duration_ms": 174472,
+      "name": "Thi Thi Thara (Kuttanadan Dreams)",
+      "url": "https://open.spotify.com/track/3wglYnuFPhTCcQwaHir0h4"
     },
     {
       "added_at": "2024-07-05 07:00:01",

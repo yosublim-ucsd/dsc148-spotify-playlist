@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,175 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,122 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 2 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
 | 3 | [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 |
 | 4 | [Sound of Madness](https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:53 |
-| 5 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
-| 6 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
+| 5 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
+| 6 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
 | 7 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
 | 8 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
 | 9 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 24 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
 | 25 | [Bottoms Up](https://open.spotify.com/track/0FnugIN4Slm0weQqL8OXEM) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:37 |
 | 26 | [Hypnotize](https://open.spotify.com/track/16gpk3oHK8Ela7QbRNGjJd) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/1UeOoLhpWzpuM5cWQsbCXg) | 3:09 |
-| 27 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
-| 28 | [Comfortable Liar](https://open.spotify.com/track/412LyfktkgWKEn8kmKiyQe) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:43 |
+| 27 | [Comfortable Liar](https://open.spotify.com/track/412LyfktkgWKEn8kmKiyQe) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:43 |
+| 28 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 29 | [Heaven Knows](https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going to Hell](https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf) | 3:44 |
 | 30 | [Into The Fire](https://open.spotify.com/track/1DOJAC971RZsoIdyM5sB53) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 3:57 |
 | 31 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 38 | [I Remember](https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [I Remember](https://open.spotify.com/album/6hP42dqjbIWOS8gdHXWueK) | 3:08 |
 | 39 | [Calling](https://open.spotify.com/track/5OWHDcyCInbwVO0XXTIRj1) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Blue\-Sky Research \(U.S\. Version\)](https://open.spotify.com/album/0yf6tzIZPVtgozEkWhKsoO) | 3:52 |
 | 40 | [Crawl Back In](https://open.spotify.com/track/6eK6eWG03zxQFW8P4OE4Cb) | [Dead By Sunrise](https://open.spotify.com/artist/502ZZTWlqgS1Ht62ewubEJ) | [Out Of Ashes](https://open.spotify.com/album/34Zz8qH5QJgD2uTXDuZ2J9) | 3:02 |
-| 41 | [Live to Rise](https://open.spotify.com/track/579801BT5wkzD5IVwRLI8t) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Live to Rise](https://open.spotify.com/album/0AhVRxG0GqFP4yTZWhJaCm) | 4:40 |
-| 42 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 |
+| 41 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 |
+| 42 | [Live to Rise](https://open.spotify.com/track/579801BT5wkzD5IVwRLI8t) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Live to Rise](https://open.spotify.com/album/0AhVRxG0GqFP4yTZWhJaCm) | 4:40 |
 | 43 | [Death by Rock and Roll](https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death by Rock and Roll](https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX) | 3:54 |
 | 44 | [A Weak Ago](https://open.spotify.com/track/3rY98pNrVY2OOacnbxbI0E) | [letlive.](https://open.spotify.com/artist/5ACBALsFxT5Ab3gVe8yyPs) | [If I'm The Devil...](https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg) | 3:11 |
 | 45 | [Get out of My Head](https://open.spotify.com/track/3RZXQB6zCmH4isPCM5nY4n) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain](https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1) | 3:10 |

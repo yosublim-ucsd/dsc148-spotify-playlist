@@ -1,12 +1,12 @@
 {
-  "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1441,
+  "description": "This is Mac J\u00falia. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 1442,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABxcVjuYfDdiwaz0KkTezYe",
+  "snapshot_id": "ZqrQAAAAAACFunOxtMRt4+I+U/8dB5cF",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 205718,
-      "name": "Jogo Sujo",
-      "url": "https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 205718,
+      "name": "Jogo Sujo",
+      "url": "https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF"
     },
     {
       "added_at": null,
@@ -563,38 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoje Eu Vou Te Dar Trabalho",
-        "url": "https://open.spotify.com/album/4mdLcUIbFJcbcOf87U593M"
-      },
-      "artists": [
-        {
-          "name": "MC Sam Da PS",
-          "url": "https://open.spotify.com/artist/6xG8LkwYRoHw7wdM5UDebE"
-        },
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "dj guizim",
-          "url": "https://open.spotify.com/artist/44aXOyuJmtz9jqDVuEJiZk"
-        },
-        {
-          "name": "Caduzinho Sd",
-          "url": "https://open.spotify.com/artist/5aChPJcW5Lc6t5wRw5joiC"
-        }
-      ],
-      "duration_ms": 147284,
-      "name": "Hoje Eu Vou Te Dar Trabalho",
-      "url": "https://open.spotify.com/track/4b6e1r9jRoQaHfEHrB1w7x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ta na Hora",
         "url": "https://open.spotify.com/album/32wuBDeLvsJ1pvwmUmardT"
       },
@@ -631,94 +599,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/0kzkl5kB8rwy8D0jCpLopY"
+        "name": "Hoje Eu Vou Te Dar Trabalho",
+        "url": "https://open.spotify.com/album/4mdLcUIbFJcbcOf87U593M"
       },
       "artists": [
+        {
+          "name": "MC Sam Da PS",
+          "url": "https://open.spotify.com/artist/6xG8LkwYRoHw7wdM5UDebE"
+        },
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+          "name": "dj guizim",
+          "url": "https://open.spotify.com/artist/44aXOyuJmtz9jqDVuEJiZk"
         },
         {
-          "name": "Dj Leo Lg",
-          "url": "https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe"
-        },
-        {
-          "name": "DJ JOAO DA INESTAN",
-          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
+          "name": "Caduzinho Sd",
+          "url": "https://open.spotify.com/artist/5aChPJcW5Lc6t5wRw5joiC"
         }
       ],
-      "duration_ms": 121846,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/6vqr49lCwlODxmWEdb091P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        },
-        {
-          "name": "DJ 2w",
-          "url": "https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq"
-        }
-      ],
-      "duration_ms": 131374,
-      "name": "Minha Cara Metade",
-      "url": "https://open.spotify.com/track/4OJ3BZdgIUwAjx75SCi6wE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Sem Calcinha",
-      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gloss",
-        "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Weeze Cooker",
-          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
-        }
-      ],
-      "duration_ms": 134206,
-      "name": "Gloss",
-      "url": "https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr"
+      "duration_ms": 147284,
+      "name": "Hoje Eu Vou Te Dar Trabalho",
+      "url": "https://open.spotify.com/track/4b6e1r9jRoQaHfEHrB1w7x"
     },
     {
       "added_at": null,
@@ -752,6 +660,98 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        },
+        {
+          "name": "DJ 2w",
+          "url": "https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq"
+        }
+      ],
+      "duration_ms": 131374,
+      "name": "Minha Cara Metade",
+      "url": "https://open.spotify.com/track/4OJ3BZdgIUwAjx75SCi6wE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/0kzkl5kB8rwy8D0jCpLopY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "Dj Leo Lg",
+          "url": "https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe"
+        },
+        {
+          "name": "DJ JOAO DA INESTAN",
+          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/6vqr49lCwlODxmWEdb091P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+        }
+      ],
+      "duration_ms": 134206,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Sem Calcinha",
+      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
           "name": "MC Garoto",
           "url": "https://open.spotify.com/artist/69k2SvCVULrUSPe3ULz3hr"
         },
@@ -763,26 +763,6 @@
       "duration_ms": 108000,
       "name": "Eu Vou Te Levar pro C\u00e9u",
       "url": "https://open.spotify.com/track/7DS4Wlph55hKpYKHK5FDb1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Vida",
-        "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 165216,
-      "name": "Minha Vida",
-      "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
     },
     {
       "added_at": null,
@@ -803,6 +783,26 @@
       "duration_ms": 153545,
       "name": "Papo 10",
       "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minha Vida",
+        "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 165216,
+      "name": "Minha Vida",
+      "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
     },
     {
       "added_at": null,
@@ -1015,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil - Dread Session, Vol. 1",
-        "url": "https://open.spotify.com/album/2ucmr0dO5e7dszezzDnRd1"
-      },
-      "artists": [
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 142664,
-      "name": "Dif\u00edcil - Dread Session, Vol. 1",
-      "url": "https://open.spotify.com/track/5kU3UKJVfU48j729fW9oTd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$IMBIO$E",
         "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
       },
@@ -1055,26 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clap Clap",
-        "url": "https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D"
+        "name": "Dif\u00edcil - Dread Session, Vol. 1",
+        "url": "https://open.spotify.com/album/2ucmr0dO5e7dszezzDnRd1"
       },
       "artists": [
         {
-          "name": "Dj Hugo CS",
-          "url": "https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA"
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "DAL\u00c3MA",
-          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
         }
       ],
-      "duration_ms": 122307,
-      "name": "Clap Clap",
-      "url": "https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66"
+      "duration_ms": 142664,
+      "name": "Dif\u00edcil - Dread Session, Vol. 1",
+      "url": "https://open.spotify.com/track/5kU3UKJVfU48j729fW9oTd"
     },
     {
       "added_at": null,
@@ -1127,6 +1103,30 @@
       "duration_ms": 164850,
       "name": "Sainha",
       "url": "https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clap Clap",
+        "url": "https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D"
+      },
+      "artists": [
+        {
+          "name": "Dj Hugo CS",
+          "url": "https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "DAL\u00c3MA",
+          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
+        }
+      ],
+      "duration_ms": 122307,
+      "name": "Clap Clap",
+      "url": "https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66"
     },
     {
       "added_at": null,
@@ -1207,26 +1207,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu & Elas",
-        "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
+        "name": "Finge Ser Minha Crush",
+        "url": "https://open.spotify.com/album/0ObgKiwGBYsstTot9rQbrz"
       },
       "artists": [
         {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+          "name": "Dj Menor da Serra",
+          "url": "https://open.spotify.com/artist/4WjpAMYgT2248ECVy4jFEU"
+        },
+        {
+          "name": "Dj Tj Do Mdp",
+          "url": "https://open.spotify.com/artist/5apQBIZNBbj63Iw1zU87cz"
+        },
+        {
+          "name": "Mc Anjim",
+          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Dj Dudu Coupper",
-          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
+          "name": "MC LORIN DA ZL",
+          "url": "https://open.spotify.com/artist/24L3YrvlTuAzCPmZyiLTWS"
         }
       ],
-      "duration_ms": 130212,
-      "name": "Macetada Forte",
-      "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
+      "duration_ms": 142153,
+      "name": "Finge Ser Minha Crush",
+      "url": "https://open.spotify.com/track/1hBEOfMbwSCG4OGjiJbRDC"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

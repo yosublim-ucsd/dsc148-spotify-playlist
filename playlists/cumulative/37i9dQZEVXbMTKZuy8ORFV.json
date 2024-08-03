@@ -166,7 +166,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 118558,
       "name": "3 PECADOS DESPUES\u2026",
       "url": "https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB"
@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Angel Of The Morning",
+        "url": "https://open.spotify.com/album/3G5uBH4LITdtjt8TEarfp2"
+      },
+      "artists": [
+        {
+          "name": "Merrilee Rush & The Turnabouts",
+          "url": "https://open.spotify.com/artist/5TnMVQgTIbp6z3AydwnHW6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Angel of the Morning",
+      "url": "https://open.spotify.com/track/27QxL30kLR6RyIjLXCMFdU"
+    },
+    {
+      "album": {
         "name": "Apaga El Cel",
         "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
@@ -864,6 +882,24 @@
       "duration_ms": 66606,
       "name": "Au Au Au Au dj rj",
       "url": "https://open.spotify.com/track/7I0f441CayK2OU40ZymQym"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "album": {
@@ -1930,7 +1966,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 227000,
       "name": "Casi oficial",
       "url": "https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH"
@@ -4936,7 +4972,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -5316,7 +5352,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 163290,
       "name": "LET THE WORLD BURN",
       "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
@@ -5532,7 +5568,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 116869,
       "name": "Lobster",
       "url": "https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid"
@@ -6484,7 +6520,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 185972,
       "name": "miau",
       "url": "https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9"
@@ -8352,7 +8388,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 173530,
       "name": "Que tengo que hacer",
       "url": "https://open.spotify.com/track/5BddARjeQMLtSXRIU8WBCR"
@@ -8768,7 +8804,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
@@ -11444,7 +11480,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"

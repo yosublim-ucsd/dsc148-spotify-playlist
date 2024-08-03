@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 100664,
+  "num_followers": 100679,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -443,34 +443,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Tristan und Isolde",
-        "url": "https://open.spotify.com/album/2mnftFLsMflPnLLGTaGBgq"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Margaret Price",
-          "url": "https://open.spotify.com/artist/5pWhQJvszoZVnQASf6KrEt"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "duration_ms": 446133,
-      "name": "Tristan und Isolde, Act III: Mild und leise wie er l\u00e4chelt",
-      "url": "https://open.spotify.com/track/4SkJKfnGhQCikozqxyNXjP"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Overtures",
         "url": "https://open.spotify.com/album/4tpRDswjJDyUMCqXkwrHAM"
       },
@@ -515,6 +487,34 @@
       "duration_ms": 195753,
       "name": "Die Walk\u00fcre, WWV 86B / Act 1: Orchestervorspiel - Remastered 2012",
       "url": "https://open.spotify.com/track/2tn9Hf5ErsHvhDFKZFaqqm"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Tristan und Isolde",
+        "url": "https://open.spotify.com/album/2mnftFLsMflPnLLGTaGBgq"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Margaret Price",
+          "url": "https://open.spotify.com/artist/5pWhQJvszoZVnQASf6KrEt"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "duration_ms": 446133,
+      "name": "Tristan und Isolde, Act III: Mild und leise wie er l\u00e4chelt",
+      "url": "https://open.spotify.com/track/4SkJKfnGhQCikozqxyNXjP"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -811,6 +811,62 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "James King",
+          "url": "https://open.spotify.com/artist/5I2cYLH1KGi4ezFJ9X7JTI"
+        },
+        {
+          "name": "R\u00e9gine Crespin",
+          "url": "https://open.spotify.com/artist/1iVZJI0TTCU0bNewKZS0R1"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 242550,
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Wes Herd dies auch, hier mu\u00df ich rasten\" - Remastered 2012",
+      "url": "https://open.spotify.com/track/6f5EgLutvqBPnBOAFKhEjd"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        }
+      ],
+      "duration_ms": 345840,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: Prelude",
+      "url": "https://open.spotify.com/track/2pQdZKD3zuOfQKRYjMFjf3"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Lohengrin (Highlights)",
         "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
       },
@@ -856,38 +912,6 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "James King",
-          "url": "https://open.spotify.com/artist/5I2cYLH1KGi4ezFJ9X7JTI"
-        },
-        {
-          "name": "R\u00e9gine Crespin",
-          "url": "https://open.spotify.com/artist/1iVZJI0TTCU0bNewKZS0R1"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 242550,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Wes Herd dies auch, hier mu\u00df ich rasten\" - Remastered 2012",
-      "url": "https://open.spotify.com/track/6f5EgLutvqBPnBOAFKhEjd"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
           "name": "Hans Hotter",
           "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
         },
@@ -903,30 +927,6 @@
       "duration_ms": 138768,
       "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Leb wohl, du k\u00fchnes, herrliches Kind\" - Remastered 2012",
       "url": "https://open.spotify.com/track/3JjGDVzq9HKgDJhdf3V4nE"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        }
-      ],
-      "duration_ms": 345840,
-      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: Prelude",
-      "url": "https://open.spotify.com/track/2pQdZKD3zuOfQKRYjMFjf3"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1123,38 +1123,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Alessandra Marc",
-          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
-        },
-        {
-          "name": "Poul Elming",
-          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
-        },
-        {
-          "name": "The Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Christoph von Dohn\u00e1nyi",
-          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
-        }
-      ],
-      "duration_ms": 413466,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Du bist der Lenz\"",
-      "url": "https://open.spotify.com/track/3hWo1vRyTrkS1lI4BMdcv0"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Die Meistersinger",
         "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
       },
@@ -1183,6 +1151,38 @@
       "duration_ms": 322400,
       "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: \"Abendlich gl\u00fchend in himmlischer Pracht\" (Walther, Sachs)",
       "url": "https://open.spotify.com/track/4gwww7tibGdSESNCMtB30R"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Alessandra Marc",
+          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
+        },
+        {
+          "name": "Poul Elming",
+          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Christoph von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
+        }
+      ],
+      "duration_ms": 413466,
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Du bist der Lenz\"",
+      "url": "https://open.spotify.com/track/3hWo1vRyTrkS1lI4BMdcv0"
     },
     {
       "added_at": "2022-06-28 08:58:25",

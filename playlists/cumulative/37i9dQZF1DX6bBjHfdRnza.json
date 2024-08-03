@@ -12722,7 +12722,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 267025,
       "name": "F*ck Me Up",
       "url": "https://open.spotify.com/track/3tNDcctgStetfyUZQsaAPp"
@@ -23945,6 +23945,32 @@
     },
     {
       "album": {
+        "name": "Manu Mamu",
+        "url": "https://open.spotify.com/album/0UKYipd9HNVAuF2IeuqycR"
+      },
+      "artists": [
+        {
+          "name": "JAMZ",
+          "url": "https://open.spotify.com/artist/7kYh4aJ1wzORt9hqML1IWZ"
+        },
+        {
+          "name": "Costa Leon",
+          "url": "https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh"
+        },
+        {
+          "name": "All One",
+          "url": "https://open.spotify.com/artist/1YFqP7Bw1SBL1xjFCQM940"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206813,
+      "name": "Manu Mamu",
+      "url": "https://open.spotify.com/track/3VY2FgTTEM263GSpGAt7lt"
+    },
+    {
+      "album": {
         "name": "Mariana",
         "url": "https://open.spotify.com/album/0wrAJHLuKsrVzvCCXgaU4k"
       },
@@ -26771,6 +26797,24 @@
     },
     {
       "album": {
+        "name": "NOT ANGRY",
+        "url": "https://open.spotify.com/album/3JJC8SfFjR0yKGV2SEOWSF"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111483,
+      "name": "NOT ANGRY",
+      "url": "https://open.spotify.com/track/7h0ki5H7W4EUqrAiXm7nFJ"
+    },
+    {
+      "album": {
         "name": "Not Like Them",
         "url": "https://open.spotify.com/album/4hmJY5jHikwnnqhhwC7dVw"
       },
@@ -28874,7 +28918,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 321103,
       "name": "Passion Through My Mind",
       "url": "https://open.spotify.com/track/5hdENNfodo1kDj62oIcISk"
@@ -35320,7 +35364,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 247916,
       "name": "Still Outside",
       "url": "https://open.spotify.com/track/49L0b6fBU0MzvUOf264oqF"
@@ -37114,6 +37158,24 @@
       "duration_ms": 326232,
       "name": "Territory Day",
       "url": "https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78"
+    },
+    {
+      "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/06kpYtVBDrzzipOgmQGsLp"
+      },
+      "artists": [
+        {
+          "name": "FINNfm",
+          "url": "https://open.spotify.com/artist/0WRoMuHi5PCTTgFoW2BonE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214797,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/4duR82PBAYcWSfMXKe8B42"
     },
     {
       "album": {

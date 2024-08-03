@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "24hrs",
+        "url": "https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140727,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj"
+    },
+    {
+      "album": {
         "name": "A Firma \u00e9 Forte",
         "url": "https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk"
       },

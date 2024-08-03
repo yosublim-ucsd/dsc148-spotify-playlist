@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 
 > Roses are red, violet are blue, its been fun but i'm leaving you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,081 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,073 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 9 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
 | 10 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 |
 | 11 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
-| 12 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
-| 13 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
+| 12 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
+| 13 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 14 | [We Are Never Ever Getting Back Together \(Taylor's Version\)](https://open.spotify.com/track/31CdkzHnMbvJuKZvtCQfR6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:13 |
-| 15 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
-| 16 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
+| 15 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
+| 16 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
 | 17 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 |
 | 18 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 |
 | 19 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 45 | [Too Little Too Late](https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:41 |
 | 46 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
 | 47 | [Sue Me](https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:59 |
-| 48 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
-| 49 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
+| 48 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
+| 49 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
 | 50 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
 | 51 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
 | 52 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 |

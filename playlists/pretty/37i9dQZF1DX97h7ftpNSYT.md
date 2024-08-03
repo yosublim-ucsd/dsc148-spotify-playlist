@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,003 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,000 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

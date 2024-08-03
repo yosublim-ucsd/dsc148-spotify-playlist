@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 
 > the soundtrack to your girl dinner\. cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,623 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,627 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 22 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
 | 23 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
 | 24 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
-| 25 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
-| 26 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
+| 25 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
+| 26 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
 | 27 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
 | 28 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 29 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 70 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 |
 | 71 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 |
 | 72 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 |
-| 73 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 |
-| 74 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 |
-| 75 | [Freak](https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freak](https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r) | 4:44 |
-| 76 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 |
+| 73 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 |
+| 74 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 |
+| 75 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 |
+| 76 | [Freak](https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freak](https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r) | 4:44 |
 | 77 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
-| 78 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
-| 79 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
-| 80 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 |
+| 78 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
+| 79 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
+| 80 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
 
 Snapshot ID: `ZqZO4AAAAAD2tmUUIFHN/j/E76lClvMC`

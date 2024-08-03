@@ -2,7 +2,7 @@
 
 ### [This Is Big Mama Thornton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EuBHZ)
 
-> This is Big Mama Thornton\. The essential tracks, all in one playlist.
+> This is Big Mama Thornton\. Todos os maiores hits em uma só playlist.
 
 173 songs - 9 hr 52 min
 

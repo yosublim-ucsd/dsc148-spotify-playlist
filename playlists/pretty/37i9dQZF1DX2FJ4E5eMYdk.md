@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,214 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,290 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 37 | [Hanging On](https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Hanging On](https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba) | 3:11 |
 | 38 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
 | 39 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 |
-| 40 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |
-| 41 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
-| 42 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
-| 43 | [About a Stranger](https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1) | [Chris Robinson Brotherhood](https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A) | [Phosphorescent Harvest](https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL) | 5:07 |
+| 40 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
+| 41 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |
+| 42 | [About a Stranger](https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1) | [Chris Robinson Brotherhood](https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A) | [Phosphorescent Harvest](https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL) | 5:07 |
+| 43 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
 | 44 | [Cosmic American Blues](https://open.spotify.com/track/4S057bezdn8681JCxHCUfc) | [OJR](https://open.spotify.com/artist/3BxLJvBTizcXZfwkydW2oT) | [Cosmic American Blues](https://open.spotify.com/album/5QorcySCg1FnehS2GM7aHA) | 4:09 |
 | 45 | [Went for a Ride](https://open.spotify.com/track/4SmAxBuCEOJDx1mbPSq1Kg) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Went for a Ride](https://open.spotify.com/album/1qih4iADyuiyL7HzN38v1h) | 4:49 |
 | 46 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 50 | [The Last Dance](https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71) | 3:24 |
 | 51 | [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 |
 | 52 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
-| 53 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
-| 54 | [Hey Man](https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY) | 3:56 |
+| 53 | [Hey Man](https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY) | 3:56 |
+| 54 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
 | 55 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
 | 56 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 57 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |

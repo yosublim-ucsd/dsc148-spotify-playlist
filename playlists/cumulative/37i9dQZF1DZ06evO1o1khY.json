@@ -807,6 +807,28 @@
     },
     {
       "album": {
+        "name": "Loving U 2 Hard",
+        "url": "https://open.spotify.com/album/1mhv3iYPEraW7U5tqPofri"
+      },
+      "artists": [
+        {
+          "name": "Sencere",
+          "url": "https://open.spotify.com/artist/7wZVx30o6I4o3Ra6kE2Cvo"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205271,
+      "name": "Loving U 2 Hard",
+      "url": "https://open.spotify.com/track/6kEsXIEMmDsFzpSjCSriSf"
+    },
+    {
+      "album": {
         "name": "On Zai",
         "url": "https://open.spotify.com/album/0qXeIPzrKbNIJmZmu37Pp1"
       },

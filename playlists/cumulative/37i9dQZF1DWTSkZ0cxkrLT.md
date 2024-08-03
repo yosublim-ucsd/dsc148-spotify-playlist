@@ -4,7 +4,7 @@
 
 > Música ideal para tomar el té y relajar.
 
-158 songs - 9 hr 21 min
+159 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 | 2024-02-23 |  |
 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 | 2024-04-17 | 2024-06-17 |
 | [Dulcito e Coco \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 3:02 | 2023-08-18 |  |
-| [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 | 2024-04-17 |  |
+| [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 | 2024-04-17 | 2024-08-03 |
 | [El Amor en Mi Vida](https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [El Amor en Mi Vida](https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1) | 3:42 | 2023-10-20 |  |
 | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh) | 2:05 | 2024-04-17 |  |
 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD) | 2:49 | 2023-08-18 | 2023-08-27 |
@@ -83,6 +83,7 @@
 | [Je ne t'aime plus](https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 2:02 | 2023-08-18 | 2024-04-19 |
 | [La Luna de Neuquén](https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Destilar](https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh) | 4:20 | 2023-08-18 |  |
 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 | 2023-08-18 |  |
+| [La Playa](https://open.spotify.com/track/62WH3FoB4yFYTytPa7ewjP) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [La Playa](https://open.spotify.com/album/61Q7cv75xcaI9mlen23OWk) | 3:46 | 2024-08-02 |  |
 | [Las Cosas Tienen Movimiento](https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Modelo Para Armar](https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age) | 4:20 | 2024-04-25 |  |
 | [Leader Of The Landslide](https://open.spotify.com/track/4BzYMqZUzXpLz6TULBkAFI) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 5:54 | 2023-08-18 | 2023-10-21 |
 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2023-08-18 | 2023-10-21 |

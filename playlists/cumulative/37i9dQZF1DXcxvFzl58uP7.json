@@ -1469,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "best day ever",
+        "url": "https://open.spotify.com/album/6TMVATY5T9p1vFTrvYVvas"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "best day ever",
+      "url": "https://open.spotify.com/track/1dDxFfGse3z7OuWSM6ApL8"
+    },
+    {
+      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m"
       },
@@ -9794,7 +9812,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 230400,
       "name": "lovers",
       "url": "https://open.spotify.com/track/0nDPiOmDMOzUBBLdrpnqmM"
@@ -16621,6 +16639,24 @@
     },
     {
       "album": {
+        "name": "Your Day Will Come",
+        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119666,
+      "name": "Unifying Thought",
+      "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
+    },
+    {
+      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -17412,7 +17448,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183080,
       "name": "What Should I Do?",
       "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"

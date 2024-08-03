@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,181,075 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,181,013 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 59 | [Its A Winding Road](https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Oh Brother](https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4) | 4:35 |
 | 60 | [Belly of the Beast](https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:11 |
 | 61 | [Tin Man](https://open.spotify.com/track/6YgnWdREQM4gDccOYY1WpP) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [The Marfa Tapes](https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p) | 4:25 |
-| 62 | [Not a Number](https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Not a Number](https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT) | 3:32 |
-| 63 | [Friction](https://open.spotify.com/track/4qSyzCP52K8Sjbhrt4VmxZ) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Friction](https://open.spotify.com/album/1ZMSPI2WpZ8szQTnIupd76) | 3:29 |
+| 62 | [Friction](https://open.spotify.com/track/4qSyzCP52K8Sjbhrt4VmxZ) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Friction](https://open.spotify.com/album/1ZMSPI2WpZ8szQTnIupd76) | 3:29 |
+| 63 | [Not a Number](https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Not a Number](https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT) | 3:32 |
 | 64 | [Whippoorwill](https://open.spotify.com/track/1n0UUVUi4OzfjJEtuBKWfL) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Whippoorwill](https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW) | 4:38 |
 | 65 | [I Tried](https://open.spotify.com/track/2K90utpi9AUlGUrYDapNGB) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [I Tried](https://open.spotify.com/album/0m6Rqk4Dgy7D8XEvTbrVuZ) | 4:26 |
 | 66 | [No Peace In Quiet](https://open.spotify.com/track/1T83u9c36BtqxGjY1XGXBS) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [A Long And Happy Life EP](https://open.spotify.com/album/5XBDh8rCOnUNb1G4pTaLPQ) | 3:19 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 87 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
 | 88 | [Love Anyway](https://open.spotify.com/track/0swFW9sHhCVS892gh8ec2L) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Love Anyway](https://open.spotify.com/album/1rwvzuvmzRe7OFynMY7jDe) | 3:03 |
 | 89 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
-| 90 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
-| 91 | [Fall](https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 2:59 |
+| 90 | [Fall](https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 2:59 |
+| 91 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
 | 92 | [Lights Off](https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:52 |
 | 93 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
 | 94 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
-| 95 | [Hate the Way You Love Me](https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0) | 4:03 |
-| 96 | [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 |
-| 97 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 |
-| 98 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
-| 99 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
-| 100 | [Undertow](https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:24 |
+| 95 | [Undertow](https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:24 |
+| 96 | [Hate the Way You Love Me](https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0) | 4:03 |
+| 97 | [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 |
+| 98 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 |
+| 99 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
+| 100 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
 
 Snapshot ID: `ZJ5TQAAAAACop6HmrXmNyncyfaA37R+7`

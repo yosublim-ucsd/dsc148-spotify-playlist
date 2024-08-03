@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 210384,
       "name": "Can I Get It",
       "url": "https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN"
@@ -3527,6 +3527,28 @@
     },
     {
       "album": {
+        "name": "Guy For That",
+        "url": "https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164011,
+      "name": "Guy For That (Feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -4156,6 +4178,28 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "album": {
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
       "album": {
@@ -7014,6 +7058,24 @@
       "duration_ms": 156376,
       "name": "Present",
       "url": "https://open.spotify.com/track/6RBfz4bNLNzvt37HycN1Xf"
+    },
+    {
+      "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "push me over",
+      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
     },
     {
       "album": {
@@ -10186,7 +10248,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"

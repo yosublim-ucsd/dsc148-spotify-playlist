@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-862 songs - 2 day 3 hr 47 min
+863 songs - 2 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-28 | 2022-06-12 |
 | [How You Get The Girl \(Taylor's Version\)](https://open.spotify.com/track/75W3SngKzTuoQ94uLf3y82) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:07 | 2023-10-28 | 2023-11-01 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-09-01 | 2021-09-02 |
-| [Huwag Muna Tayong Umuwi](https://open.spotify.com/track/7haQq014RoahMX6spW4z1z) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/7H64wogfyQUcRqFZFbMV9S) | 4:57 | 2024-05-16 |  |
+| [Huwag Muna Tayong Umuwi](https://open.spotify.com/track/7haQq014RoahMX6spW4z1z) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/7H64wogfyQUcRqFZFbMV9S) | 4:57 | 2024-05-16 | 2024-08-03 |
 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:09 | 2024-02-26 | 2024-04-10 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-16 | 2023-03-18 |
 | [I Almost Do \(Taylor's Version\)](https://open.spotify.com/track/2r9CbjYgFhtAmcFv1cSquB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:04 | 2021-11-14 | 2021-11-20 |
@@ -600,6 +600,7 @@
 | [Raining In Manila](https://open.spotify.com/track/21LiJ0I7bH4IzhMdft5x0t) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Lola Amour](https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ) | 4:51 | 2024-05-27 | 2024-05-29 |
 | [Raining In Manila](https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Raining In Manila](https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy) | 4:51 | 2023-07-03 | 2024-04-03 |
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 | 2023-09-11 |
+| [Randomantic](https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Reid Alert](https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9) | 4:04 | 2024-08-02 |  |
 | [Rapstar](https://open.spotify.com/track/6Rv8Ltr2MuAIM3LHF4L8qs) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Rapstar](https://open.spotify.com/album/7IrCcwvtv03sTMD5PvHDkv) | 3:39 | 2023-05-18 | 2024-03-05 |
 | [Ready For Love](https://open.spotify.com/track/1Wwh6gmMeolwzbRzfZMY5b) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:04 | 2022-09-17 | 2022-09-27 |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2021-09-11 | 2021-11-14 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 ### [This Is Pabllo Vittar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3P9CWt)
 
-> This is Pabllo Vittar\. The essential tracks, all in one playlist.
+> This is Pabllo Vittar\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,127 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,161 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 13 | [AMEIANOITE](https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:46 |
 | 14 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
 | 15 | [Pra Te Esquecer](https://open.spotify.com/track/2XYjDjZLnRVLumfEmVh2K4) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 3:26 |
-| 16 | [BRUXARIA 3000](https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Mc Alleff](https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:54 |
-| 17 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 |
+| 16 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 |
+| 17 | [BRUXARIA 3000](https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Mc Alleff](https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:54 |
 | 18 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
 | 19 | [Me Usa](https://open.spotify.com/track/6MOYPvxZK3vkwZDLUcAunH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 4:00 |
 | 20 | [SAL](https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SAL](https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE) | 2:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 50 | [Cavalgada](https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Cavalgada](https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ) | 2:01 |
 | 51 | [Culpa do Cupido](https://open.spotify.com/track/1eWxOQgPVk1u26JycDcm6T) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 1:42 |
 
-Snapshot ID: `Zql+gAAAAAAgHH4CRXKuwGFA5YDCv9zl`
+Snapshot ID: `ZqrQAAAAAACd9plUJpn4Bex/aYDjWDQt`

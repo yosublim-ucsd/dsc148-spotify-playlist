@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183000,
       "name": "911 Porsche",
       "url": "https://open.spotify.com/track/05W6XiPHvftfTifU8PQ8mr"
@@ -539,6 +539,32 @@
     },
     {
       "album": {
+        "name": "Aur Ek",
+        "url": "https://open.spotify.com/album/2YnpMPluwetrvIjBawYbe2"
+      },
+      "artists": [
+        {
+          "name": "Kidshot",
+          "url": "https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy"
+        },
+        {
+          "name": "KALAM INK",
+          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
+        },
+        {
+          "name": "Loka",
+          "url": "https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229661,
+      "name": "Aur Ek",
+      "url": "https://open.spotify.com/track/5JPvzWUD2PAJlhrcfVEfA2"
+    },
+    {
+      "album": {
         "name": "Azhage (Fallin)",
         "url": "https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h"
       },
@@ -682,6 +708,24 @@
       "duration_ms": 174736,
       "name": "Badan",
       "url": "https://open.spotify.com/track/6HZVYWwSmbYJAnntaEgFQF"
+    },
+    {
+      "album": {
+        "name": "Badnaam",
+        "url": "https://open.spotify.com/album/3ey0jK99hkEw309scrBn9L"
+      },
+      "artists": [
+        {
+          "name": "Orpid",
+          "url": "https://open.spotify.com/artist/5sWClnM6tRlAcUNbb2qgRD"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102153,
+      "name": "Badnaam",
+      "url": "https://open.spotify.com/track/5M2A8a9A4eg3XGeM3VG72p"
     },
     {
       "album": {
@@ -956,7 +1000,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 223200,
       "name": "Bhidu",
       "url": "https://open.spotify.com/track/5HLTkwsJ95wQQWS1YI9zqL"
@@ -978,7 +1022,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 150156,
       "name": "Bhor",
       "url": "https://open.spotify.com/track/1nulgTR8DGe7JYo7aIBgXL"
@@ -1444,6 +1488,28 @@
       "duration_ms": 161100,
       "name": "California Blaze",
       "url": "https://open.spotify.com/track/0qsDLoN3Tvb3aOoa3h4TnP"
+    },
+    {
+      "album": {
+        "name": "MONOPOLY MOVES",
+        "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214062,
+      "name": "CAN'T AFFORD",
+      "url": "https://open.spotify.com/track/25PPQ5o1SB6pLGVcSsfxiV"
     },
     {
       "album": {
@@ -2238,6 +2304,46 @@
       "duration_ms": 211322,
       "name": "Ethe Rakh",
       "url": "https://open.spotify.com/track/0Y6ZBKtGC6YUo3ZAbU0tLL"
+    },
+    {
+      "album": {
+        "name": "sPEAK",
+        "url": "https://open.spotify.com/album/3quAHA3o8HZARSckuVJLoo"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "EVIL = EVIL",
+      "url": "https://open.spotify.com/track/3oXvjTjk8aevJNPgeMTFe1"
+    },
+    {
+      "album": {
+        "name": "MONOPOLY MOVES",
+        "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292439,
+      "name": "F*CK WHAT THEY SAY",
+      "url": "https://open.spotify.com/track/5FO0ye7LMqJPr4bjroUZ8i"
     },
     {
       "album": {
@@ -4557,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "LOVESEXDHOKA!!!",
+        "url": "https://open.spotify.com/album/7nkIdUMqhsS0EESkOimQwy"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192726,
+      "name": "LOVESEXDHOKA!!!",
+      "url": "https://open.spotify.com/track/1u3KTMxSOXMX0cbb5BKGdc"
+    },
+    {
+      "album": {
         "name": "THE BRIDGE",
         "url": "https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN"
       },
@@ -5806,7 +5930,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 191063,
       "name": "Pareshan",
       "url": "https://open.spotify.com/track/5zZw9o1mzzBLpXOACJ2RkV"
@@ -6712,7 +6836,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 165577,
       "name": "STILL THE SAME",
       "url": "https://open.spotify.com/track/7GcCYw4d5Z8akmEOBj4876"
@@ -6782,6 +6906,32 @@
       "duration_ms": 156000,
       "name": "Subz",
       "url": "https://open.spotify.com/track/3fF8CmtFnZSqeejn5ea1OC"
+    },
+    {
+      "album": {
+        "name": "MONOPOLY MOVES",
+        "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Gravity",
+          "url": "https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267187,
+      "name": "SUITS & STREETS",
+      "url": "https://open.spotify.com/track/2sW1pAXkFmSuALxQNthX5n"
     },
     {
       "album": {
@@ -7112,7 +7262,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 233691,
       "name": "Title Kya Doon?",
       "url": "https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80"
@@ -7616,7 +7766,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 146000,
       "name": "Wild",
       "url": "https://open.spotify.com/track/42vGPrrqp1iMNigqs1Aa9o"

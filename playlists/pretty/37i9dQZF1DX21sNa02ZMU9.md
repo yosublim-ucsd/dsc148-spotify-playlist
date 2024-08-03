@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,155 likes - 70 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,186 likes - 70 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 13 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 |
 | 14 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 |
 | 15 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 |
-| 16 | [Empire State Of Mind](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:36 |
-| 17 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 |
+| 16 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 |
+| 17 | [Empire State Of Mind](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:36 |
 | 18 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 |
 | 19 | [In Da Club](https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:13 |
 | 20 | [Baby](https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:34 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 57 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 |
 | 58 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 |
 | 59 | [Speed of Sound](https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:47 |
-| 60 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
-| 61 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 |
+| 60 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 |
+| 61 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
 | 62 | [Suga Suga](https://open.spotify.com/track/6Nq5lE0CeOAAAqN4qhkbZU) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Tha Smokin' Nephew](https://open.spotify.com/album/42LlDinsxjsByAqqpZXRp4) | 3:59 |
 | 63 | [If I Can't](https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:16 |
-| 64 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
-| 65 | [Don't Cha](https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 4:32 |
-| 66 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 |
+| 64 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 |
+| 65 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
+| 66 | [Don't Cha](https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 4:32 |
 | 67 | [Bubbly](https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb) | 3:16 |
 | 68 | [Banana Pancakes](https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:11 |
 | 69 | [Won't Go Home Without You](https://open.spotify.com/track/6WEBwvsmpaoGxka0tSh5a7) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long \(International Version\)](https://open.spotify.com/album/2RUHJZ3raiIDsR3yX4JXf5) | 3:51 |
-| 70 | [Grace Kelly](https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox) | 3:07 |
+| 70 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
 
 Snapshot ID: `ZpYc8gAAAABYQq7FKuxoTuIHX/OWwiJ1`

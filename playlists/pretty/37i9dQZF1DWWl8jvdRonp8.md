@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,270 likes - 125 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,420 likes - 125 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 81 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Si No Te Hubieras Ido](https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD) | 4:52 |
 | 82 | [Mi Rechazo](https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:34 |
 | 83 | [¿ A Dónde Vamos A Parar ?](https://open.spotify.com/track/139or2pGbQ3RQsFHEaFn6M) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:55 |
-| 84 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 5:00 |
-| 85 | [Mi Najayita](https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Después De Hoy](https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4) | 3:09 |
-| 86 | [Cómo Me Haces Falta](https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Colección de Covers, Vol\. 1](https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ) | 3:48 |
-| 87 | [Necesito una Compañera](https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Necesito una Compañera](https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l) | 3:06 |
+| 84 | [Mi Najayita](https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Después De Hoy](https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4) | 3:09 |
+| 85 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 5:00 |
+| 86 | [Necesito una Compañera](https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Necesito una Compañera](https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l) | 3:06 |
+| 87 | [Cómo Me Haces Falta](https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Colección de Covers, Vol\. 1](https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ) | 3:48 |
 | 88 | [Homenaje A Los Bukis](https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Homenaje A Los Bukis](https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K) | 10:19 |
 | 89 | [Presiento Que Voy A LLorar](https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 3:13 |
 | 90 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:03 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 107 | [Dios Bendiga Nuestro Amor](https://open.spotify.com/track/2YtY3R6kU28CBC9MLf1zaU) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Sin Él](https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK) | 3:08 |
 | 108 | [Quiéreme](https://open.spotify.com/track/6o9ODcGxMPFZDjdS7z3VpN) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:07 |
 | 109 | [Ladrón De Buena Suerte](https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:31 |
-| 110 | [Mi Mayor Necesidad](https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:05 |
-| 111 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:27 |
+| 110 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:27 |
+| 111 | [Mi Mayor Necesidad](https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:05 |
 | 112 | [Chiquilla Bonita](https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [A Traves De Tus Ojos](https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ) | 4:46 |
 | 113 | [Tu Ingratitud](https://open.spotify.com/track/2wdHaBjNttqV26lrI0rwoY) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:31 |
 | 114 | [Morenita](https://open.spotify.com/track/6qv1oi0j4lzQvxdWiL1apb) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 2:42 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 117 | [Tus Mentiras](https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 4:46 |
 | 118 | [Y Ahora Te Vas](https://open.spotify.com/track/5e62PInKsU8hyMTMwvSA1l) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 3:55 |
 | 119 | [Viéndolo Bien](https://open.spotify.com/track/4xz67gCRJvFPjYOWTwrquw) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 2:51 |
-| 120 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/62kDLRQwHua33e3fLrOVPJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [35 Aniversario](https://open.spotify.com/album/4WPfZE0Nv2FI3MtP6exBRB) | 3:51 |
-| 121 | [Encadenada A Mi \- Cumbia](https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:49 |
+| 120 | [Encadenada A Mi \- Cumbia](https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:49 |
+| 121 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/62kDLRQwHua33e3fLrOVPJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [35 Aniversario](https://open.spotify.com/album/4WPfZE0Nv2FI3MtP6exBRB) | 3:51 |
 | 122 | [Necesito Una Compañera](https://open.spotify.com/track/3C774e6E4KmqSFHk1b4GNY) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:51 |
 | 123 | [Mi Fantasia](https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:23 |
 | 124 | [Te Amo Mamá](https://open.spotify.com/track/5cUeyXKmaqNctvDDo3cftd) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:45 |

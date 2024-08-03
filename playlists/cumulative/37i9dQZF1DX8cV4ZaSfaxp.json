@@ -1241,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "EGO 90'S PART 3",
+        "url": "https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ"
+      },
+      "artists": [
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        },
+        {
+          "name": "Jisun",
+          "url": "https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220230,
+      "name": "City Night (feat. Jisun)",
+      "url": "https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J"
+    },
+    {
+      "album": {
         "name": "Coconut Love",
         "url": "https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx"
       },
@@ -4670,7 +4692,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 206583,
       "name": "Slide",
       "url": "https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4"

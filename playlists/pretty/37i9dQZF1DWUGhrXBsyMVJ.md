@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,402 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,463 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 23 | [Love Is Here To Stay \- Remastered 1998](https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:42 |
 | 24 | [Come Rain or Come Shine](https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:42 |
 | 25 | [My Prayer](https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji) | 2:47 |
-| 26 | [You Mean Everything to Me](https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:37 |
-| 27 | [Devoted to You](https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:21 |
+| 26 | [Devoted to You](https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:21 |
+| 27 | [You Mean Everything to Me](https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:37 |
 | 28 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 |
 | 29 | [A Teenager's Romance](https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:20 |
 | 30 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |

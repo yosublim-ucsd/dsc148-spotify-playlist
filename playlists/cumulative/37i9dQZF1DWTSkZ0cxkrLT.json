@@ -874,7 +874,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182764,
       "name": "D\u00cdA DEL AMOR",
       "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
@@ -1428,6 +1428,28 @@
       "duration_ms": 269196,
       "name": "La Noche Sin Ti",
       "url": "https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG"
+    },
+    {
+      "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/61Q7cv75xcaI9mlen23OWk"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226027,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/62WH3FoB4yFYTytPa7ewjP"
     },
     {
       "album": {

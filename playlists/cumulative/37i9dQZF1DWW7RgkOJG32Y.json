@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top trending country tracks from the last few months. Cover: Riley Green and Ella Langley",
+  "description": "Top trending country tracks from the last few months. Cover: Gavin Adcock",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 179882,
       "name": "A Cigarette",
       "url": "https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 192444,
       "name": "Buckle Bunny",
       "url": "https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 181621,
       "name": "Cowgirls (feat. ERNEST)",
       "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 209076,
       "name": "Hell is a Dance Floor",
       "url": "https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL"
@@ -3244,6 +3244,24 @@
       "duration_ms": 213733,
       "name": "I Hate Alabama",
       "url": "https://open.spotify.com/track/2j0rISwZE6tichIrU5SZ78"
+    },
+    {
+      "album": {
+        "name": "Cold Beer & Country Music",
+        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "I Never Lie",
+      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
     },
     {
       "album": {
@@ -3934,6 +3952,28 @@
       "duration_ms": 198068,
       "name": "Lies Lies Lies",
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+    },
+    {
+      "album": {
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
       "album": {
@@ -5970,7 +6010,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 218867,
       "name": "Sounds Like the Radio",
       "url": "https://open.spotify.com/track/5wCUOa3jSe5ZM3oXEutCdO"
@@ -6700,6 +6740,24 @@
       "duration_ms": 170474,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS"
+    },
+    {
+      "album": {
+        "name": "There\u2019s Your Trouble - Spotify Singles",
+        "url": "https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191949,
+      "name": "There\u2019s Your Trouble - Spotify Singles (Live from Spotify House)",
+      "url": "https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ"
     },
     {
       "album": {

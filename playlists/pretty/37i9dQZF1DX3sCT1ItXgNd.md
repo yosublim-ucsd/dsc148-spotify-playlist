@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,915 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,913 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 22 | [FICHAJE DEL AÑO](https://open.spotify.com/track/4zOvp2BysciDInodYHUtOJ) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [FICHAJE DEL AÑO](https://open.spotify.com/album/3ti3UTU7nuhuAZfO27lz2q) | 3:13 |
 | 23 | [Hermosa Casualidad](https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Hermosa Casualidad](https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj) | 3:25 |
 | 24 | [La Razón](https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Razón](https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg) | 2:42 |
-| 25 | [Cupido](https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Cupido](https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E) | 2:44 |
+| 25 | [LA MARINA STA MORENA](https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA MARINA STA MORENA](https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw) | 2:11 |
 | 26 | [Dime Solo Si Has Pensao](https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Dime Solo Si Has Pensao](https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX) | 2:55 |
-| 27 | [LA MARINA STA MORENA](https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA MARINA STA MORENA](https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw) | 2:11 |
+| 27 | [Cupido](https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Cupido](https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E) | 2:44 |
 | 28 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 29 | [La Reina Del Baile](https://open.spotify.com/track/4YYp45N7TiPexvtzKZrFDm) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [La Reina Del Baile](https://open.spotify.com/album/69YDziXEfsmXefMiiZWwf7) | 3:11 |
 | 30 | [Mil preguntas](https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Mil preguntas](https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq) | 3:19 |

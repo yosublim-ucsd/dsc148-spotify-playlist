@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 
 > me quiero mucho
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,360 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,375 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 | 12 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
 | 13 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
 | 14 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
-| 15 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
+| 15 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 16 | [Unwritten](https://open.spotify.com/track/7hhAwcMTdCHxuYkCHCfzw7) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/4LOqtdV9dCY7NX7iNK1lBe) | 4:19 |
 | 17 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 | 18 | [Bejeweled](https://open.spotify.com/track/0jvo9CjnbR0lYUDTSNTMiu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:14 |
-| 19 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
+| 19 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
 | 20 | [El Disfraz](https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Disfraz](https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb) | 2:48 |
 | 21 | [Unstoppable](https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:37 |
 | 22 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 | 50 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |
 | 51 | [Solo de Mi](https://open.spotify.com/track/4uP3pUP18ennmz0tb3GphR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:17 |
 | 52 | [Creo en Mi](https://open.spotify.com/track/4fSar1liXyxCK3lOcWHUE1) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Creo en Mi](https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1) | 3:49 |
-| 53 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
-| 54 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
+| 53 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
+| 54 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
 | 55 | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/album/3aZthZKHMbbleXcilISjha) | 2:51 |
 | 56 | [Hotter Than Hell](https://open.spotify.com/track/5eTNdkstwKaNahHf41fJ9u) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:07 |
 | 57 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 |

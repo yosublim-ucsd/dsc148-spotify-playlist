@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1287,
+  "num_followers": 1288,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAA5oUGPrb+HmMXHDqGOrkc2",
+  "snapshot_id": "ZqrQAAAAAACnrxHS0zDAPh2PL+vk10qD",
   "tracks": [
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
-        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 66933,
-      "name": "A Rich Community Of Life",
-      "url": "https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq"
+      "duration_ms": 229733,
+      "name": "All at Sea",
+      "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 229733,
-      "name": "All at Sea",
-      "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
+      "duration_ms": 66933,
+      "name": "A Rich Community Of Life",
+      "url": "https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 289320,
-      "name": "We Took To The Skies",
-      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
+      "duration_ms": 66280,
+      "name": "Beauty Turns Men to Beasts",
+      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
     },
     {
       "added_at": null,
@@ -672,9 +672,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 132013,
-      "name": "Nothing To Stop Us",
-      "url": "https://open.spotify.com/track/6OBrG19AuVOmrFonog79re"
+      "duration_ms": 142360,
+      "name": "To Have Adventures",
+      "url": "https://open.spotify.com/track/0r4qZ9FMUuzn7D2fv9IPDp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "We Took To The Skies",
+      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
     },
     {
       "added_at": null,
@@ -704,9 +720,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 66280,
-      "name": "Beauty Turns Men to Beasts",
-      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
+      "duration_ms": 102080,
+      "name": "Who Are You Greeting My Love?",
+      "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "Nothing To Stop Us",
+      "url": "https://open.spotify.com/track/6OBrG19AuVOmrFonog79re"
     },
     {
       "added_at": null,
@@ -727,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 142360,
-      "name": "To Have Adventures",
-      "url": "https://open.spotify.com/track/0r4qZ9FMUuzn7D2fv9IPDp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunt",
         "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 191480,
       "name": "Fueled Up and Headed South",
       "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 102080,
-      "name": "Who Are You Greeting My Love?",
-      "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Assassin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 273720,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Night In Soho (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 138373,
       "name": "You're My World - Soho Version",
       "url": "https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Assassin (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 273720,
-      "name": "Katrina",
-      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
     }
   ],
   "unique_name": "This Is Steven Price",

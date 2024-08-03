@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Charli xcx, Billie Eilish
 
-11,666 songs - 26 day 15 hr 25 min
+11,668 songs - 26 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1386,7 +1386,7 @@
 | [Bukalah Hati](https://open.spotify.com/track/7ioIogPwtZjnGxkV03AAQh) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc), [Idris Brown](https://open.spotify.com/artist/1X9AHPIbcJuEsRsT5gJhRo), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Bukalah Hati](https://open.spotify.com/album/4MuEj3afQSipEnUUVworMG) | 2:56 | 2023-04-06 | 2023-04-14 |
 | [Bukan Dengan Kita](https://open.spotify.com/track/33wlhlxa8yY7NUtdJi2AI6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg), [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Bukan Dengan Kita](https://open.spotify.com/album/1xOjV9DAO2qgx1lk0DZBmy) | 4:33 | 2023-03-30 | 2023-04-07 |
 | [Bukan Milikku](https://open.spotify.com/track/1yavbHLRJuSRdfZGKcztfn) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD) | [Bukan Milikku](https://open.spotify.com/album/1uYOd8vzHaaDO0ZN8c0NC7) | 4:46 | 2024-05-09 | 2024-05-17 |
-| [Bukan Sendiri](https://open.spotify.com/track/2cdHUFkH7E69WTac9boTPc) | [Hazama](https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI) | [Bukan Sendiri](https://open.spotify.com/album/3hsTPqZBMYwyPSUTRbLGsD) | 4:28 | 2024-08-01 |  |
+| [Bukan Sendiri \- From "Harimau Malaya: The Untold Journey"](https://open.spotify.com/track/2cdHUFkH7E69WTac9boTPc) | [Hazama](https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI) | [Bukan Sendiri \(From "Harimau Malaya: The Untold Journey"\)](https://open.spotify.com/album/3hsTPqZBMYwyPSUTRbLGsD) | 4:28 | 2024-08-01 |  |
 | [Bukan Wanita Sempurna](https://open.spotify.com/track/5WnNCNWBzcFyAg2PtIDGK1) | [Ayda Jebat](https://open.spotify.com/artist/6Rn72M0IKflDApCt0UMhfR), [Meet Uncle Hussain](https://open.spotify.com/artist/6DsEf5tVXFxGqG3on83Bm3) | [Bukan Wanita Sempurna](https://open.spotify.com/album/46yTg87xutoGiy6Xm63WdV) | 3:10 | 2023-07-27 | 2023-08-04 |
 | [BULLET](https://open.spotify.com/track/1jHSRIGQXYb126dtXq9Dl7) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 3:15 | 2023-11-02 | 2023-11-10 |
 | [Bullet of Dignity](https://open.spotify.com/track/0bd1oHZdvi2DHUGPVhdOAI) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Bullet of Dignity](https://open.spotify.com/album/40gq5eFnNQbQ7EEvO6V2ja) | 2:59 | 2024-01-25 | 2024-02-02 |
@@ -4732,6 +4732,7 @@
 | [IC+B](https://open.spotify.com/track/0o82x213k6duiSdEPIyxJF) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [IC+B](https://open.spotify.com/album/4CerIlLRMQsrlr9S5EvYlS) | 2:25 | 2023-11-09 | 2023-11-17 |
 | [ICE](https://open.spotify.com/track/0zqZJ7iBj9Jpoy1pdyPnqV) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [ICE](https://open.spotify.com/album/1CfMEQLm2odm1spSvQas9W) | 3:05 | 2024-07-18 | 2024-07-27 |
 | [ICE AND FIRE \- 「冰箱打开时」音乐特别企划](https://open.spotify.com/track/1P5Ty8Lugfcfj7WwITjWvg) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [ICE AND FIRE \(「冰箱打开时」音乐特别企划\)](https://open.spotify.com/album/5JFVly1VtCSgvgeceRLjd0) | 2:23 | 2024-04-25 | 2024-05-03 |
+| [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 | 2024-08-01 |  |
 | [Ice Cream Man.](https://open.spotify.com/track/4p5xgTJofLgL4A3trgk7EQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Ice Cream Man.](https://open.spotify.com/album/0aU6C7aErcXKwpQAdTmmrY) | 4:08 | 2023-02-02 | 2023-02-04 |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-02 | 2023-02-10 |
 | [ice lemon tea freestyle](https://open.spotify.com/track/3KDtIiPkUvi8ByTSdJhERR) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [ice lemon tea freestyle](https://open.spotify.com/album/150xerEonlyZpb9WPXSph9) | 2:04 | 2023-02-09 | 2023-02-17 |
@@ -6503,6 +6504,7 @@
 | [My Baby](https://open.spotify.com/track/4kI3qKG3ayGFk7slU9hQbr) | [Jonah White](https://open.spotify.com/artist/14RkpLafO9gxWnSQubnjUP), [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [My Baby](https://open.spotify.com/album/0D67Q0EGnwQBGGXbR8JXQJ) | 2:36 | 2023-08-24 | 2023-09-01 |
 | [My Bad](https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [My Bad](https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b) | 2:27 | 2023-07-27 | 2023-08-04 |
 | [My Beloved](https://open.spotify.com/track/2o8qsTLDQ17QWeozcwKFoF) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [My Beloved](https://open.spotify.com/album/2EngEc311hXov3f6KQ6h8D) | 4:04 | 2024-01-18 | 2024-01-26 |
+| [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-01 |  |
 | [MY BEST](https://open.spotify.com/track/2sYjGMRMMg4o0p0IYLCafl) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [MY BEST](https://open.spotify.com/album/4J5aiB9seZIjro3cG6xE4Q) | 3:54 | 2023-01-26 | 2023-02-03 |
 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 | 2023-06-15 | 2023-06-23 |
 | [My Body](https://open.spotify.com/track/4mLoA8TNI6j5eb2YbpoCaz) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Zz\-Sides](https://open.spotify.com/album/4PHuRajmQJaW2c36QQbUHU) | 2:42 | 2023-11-23 | 2023-12-01 |

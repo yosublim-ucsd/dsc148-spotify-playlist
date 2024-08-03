@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 ### [This Is Generación 12](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q9BpF)
 
-> This is Generación 12\. The essential tracks, all in one playlist.
+> This Is Generación 12\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,369 likes - 48 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,389 likes - 48 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 12 | [Dios Conmigo Estás](https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Dios Conmigo Estás](https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm) | 5:52 |
 | 13 | [Tu Reino Está Aquí](https://open.spotify.com/track/26oaPbdYRvDFEddhi6ApAu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 5:33 |
 | 14 | [Obra de Tu Amor \- \(Alfarero\)](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 |
-| 15 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Unidos Somos Más Fuertes](https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8) | 4:16 |
-| 16 | [Nunca Me Avergonzaré](https://open.spotify.com/track/41Gfod2bIjsuHysuwIuJme) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 4:10 |
+| 15 | [Nunca Me Avergonzaré](https://open.spotify.com/track/41Gfod2bIjsuHysuwIuJme) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 4:10 |
+| 16 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Unidos Somos Más Fuertes](https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8) | 4:16 |
 | 17 | [Blanco y Negro](https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 |
 | 18 | [Eres Todo Para Mi \(feat\. Alex Campos\)\)](https://open.spotify.com/track/3vAnKEiuCiAMhrCTHrVB28) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 4:40 |
 | 19 | [Dios Incomparable 1.2 \(feat\. Marco Barrientos\)](https://open.spotify.com/track/2obGra074oqYXQTg9eEtJE) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Remix 1.2](https://open.spotify.com/album/5wWH3xxakgFaCjK3oa8dr3) | 3:41 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 47 | [Cantar de Tu Amor](https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 4:36 |
 | 48 | [Sonido de Amor \- \(Espontáneo\)](https://open.spotify.com/track/5Hy5SnsgoJiSseiNZL3TjR) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Anthony Catacoli](https://open.spotify.com/artist/56t1x0Jm7IiTEqpKvtY6Q7), [Antonio & Allison](https://open.spotify.com/artist/25zvOZBB4XlEB4R4xwqjD9) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 2:31 |
 
-Snapshot ID: `Zql+gAAAAAApRJb6c8HUKzeHiIG0hdFd`
+Snapshot ID: `ZqrQAAAAAAB4xSLqo/a4G/SkPt8N8yH7`

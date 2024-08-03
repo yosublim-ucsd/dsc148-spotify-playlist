@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 30694,
+  "num_followers": 30699,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAwUO3zBwpmO/5hL7pyF3rt",
+  "snapshot_id": "ZqrQAAAAAAB66bgEf3IAdRBXBvpqhkNo",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 167960,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 167960,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
     },
     {
       "added_at": null,
@@ -431,6 +431,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "la vida viene y va",
+        "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        }
+      ],
+      "duration_ms": 215872,
+      "name": "la vida viene y va",
+      "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 148666,
       "name": "Volver A Verte",
       "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "la vida viene y va",
-        "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Marcos Menchaca",
-          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
-        }
-      ],
-      "duration_ms": 215872,
-      "name": "la vida viene y va",
-      "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00f3rrame",
-        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "B\u00f3rrame",
-      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1al",
         "url": "https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 245600,
       "name": "Se\u00f1al",
       "url": "https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B\u00f3rrame",
+        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "B\u00f3rrame",
+      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm"
-      },
-      "artists": [
-        {
-          "name": "Lucah",
-          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 252285,
-      "name": "Leyenda",
-      "url": "https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
         "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 173720,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm"
+      },
+      "artists": [
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 252285,
+      "name": "Leyenda",
+      "url": "https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r"
     },
     {
       "added_at": null,

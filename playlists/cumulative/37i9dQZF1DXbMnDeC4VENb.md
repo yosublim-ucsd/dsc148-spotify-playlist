@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-273 songs - 15 hr 26 min
+275 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Ella es](https://open.spotify.com/track/1W3izj7yjPvRh6vZg5EZiR) | [Dani Machine](https://open.spotify.com/artist/6TeuImCe2URuzZG1GoETm3) | [Ella es](https://open.spotify.com/album/6vnbQXwWrfMaW5cCt256t3) | 3:01 | 2023-02-08 | 2023-07-29 |
 | [Ella Es](https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Ella Es](https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P) | 3:49 | 2022-10-28 |  |
 | [Ella Lo Sabe](https://open.spotify.com/track/67QJixbJX8M7Z4iVz7TJpR) | [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Ella Lo Sabe](https://open.spotify.com/album/7d2FJNpM4qaEg5fS5d9ulx) | 4:06 | 2024-01-19 |  |
+| [En una Nube](https://open.spotify.com/track/5qpiI7NRnRm49JFXAbQNfN) | [Carlos Luengo](https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [En una Nube](https://open.spotify.com/album/3fODLYocKVu9M1SWXnpGbF) | 3:46 | 2024-08-02 |  |
 | [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 | 2022-05-25 |  |
 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 | 2022-05-25 |  |
 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 | 2022-05-25 |  |
@@ -123,6 +124,7 @@
 | [Maga](https://open.spotify.com/track/20tll86TUuZaHCOfIshRQJ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Gramos](https://open.spotify.com/album/3DEQ1tSMRPfZVvISxjK0q9) | 2:46 | 2024-06-07 | 2024-06-22 |
 | [Maldito Romántico](https://open.spotify.com/track/00Lz6oOMNjlCthAaiQLsfr) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [444 Paradise "Encerrado, No Enterrado"](https://open.spotify.com/album/0SJjqErbyJDc46YKzV4ein) | 4:32 | 2022-10-17 | 2023-10-23 |
 | [Maldito Romántico](https://open.spotify.com/track/05xcn7HwKbSOVSCtO8i3Vl) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [444 Paradise "Encerrado, No Enterrado"](https://open.spotify.com/album/1mdbJt88iwqkl0zEMGA8XH) | 4:34 | 2022-05-25 |  |
+| [Mamasita](https://open.spotify.com/track/5KD6klQ0iFE8Xw5oCsAvg6) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Mamasita](https://open.spotify.com/album/3b1aU0zMLb1tiiHJf4Ijt3) | 3:02 | 2024-08-02 |  |
 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 | 2022-06-27 | 2024-04-19 |
 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/4pXW6ZAHBz7ODXTRKklWrM) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB) | 3:39 | 2022-05-25 |  |
 | [Maquiavélico](https://open.spotify.com/track/447r2keRxpkINmWYp83MlH) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 4:44 | 2024-06-07 | 2024-06-22 |

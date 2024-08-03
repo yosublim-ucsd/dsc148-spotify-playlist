@@ -6,7 +6,7 @@
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAHu9/WwfJ1ZADMGq3pEGUEowbFb0Hy",
+  "snapshot_id": "AAAHvB7HyiR+9ldfxIQiyM1PFjIQ7Doe",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1205,26 +1205,6 @@
       "url": "https://open.spotify.com/track/37107dPB28NderX4Tpbirg"
     },
     {
-      "added_at": "2024-01-19 11:28:03",
-      "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/5cWfIUWnJ3skaZah58Jag3"
-      },
-      "artists": [
-        {
-          "name": "Alvin Anthony",
-          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
-        },
-        {
-          "name": "BLUTH",
-          "url": "https://open.spotify.com/artist/0gemmZ2Ruimn75T84xdjlq"
-        }
-      ],
-      "duration_ms": 143527,
-      "name": "Missing",
-      "url": "https://open.spotify.com/track/76NaifBaniFGCEFSbvwiMz"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Are You Sure? (feat. Ty Dolla $ign)",
@@ -1247,6 +1227,26 @@
       "duration_ms": 194693,
       "name": "Are You Sure? (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/0fH86zQcE2CmATQju6WpXv"
+    },
+    {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/2JNfsYjNImbagCSb4CCbW1"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "KimLima",
+          "url": "https://open.spotify.com/artist/6BcOUkfXKhuqCvTx1Vo8Us"
+        }
+      ],
+      "duration_ms": 190403,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/2WjxSe0iEAF18pON4KeWcx"
     },
     {
       "added_at": "2024-07-19 00:44:03",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2023-06-12 09:23:03",
       "album": {
-        "name": "Angelina",
-        "url": "https://open.spotify.com/album/2JNfsYjNImbagCSb4CCbW1"
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/4wt8xueNgt2Eiq2UcSswjA"
       },
       "artists": [
         {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
         },
         {
-          "name": "KimLima",
-          "url": "https://open.spotify.com/artist/6BcOUkfXKhuqCvTx1Vo8Us"
+          "name": "MILLENNIAL",
+          "url": "https://open.spotify.com/artist/5IpsdReCfjh5hLsJBpf3Lp"
         }
       ],
-      "duration_ms": 190403,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/2WjxSe0iEAF18pON4KeWcx"
+      "duration_ms": 209076,
+      "name": "Erase You",
+      "url": "https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b"
     },
     {
       "added_at": "2024-06-14 00:41:07",
@@ -1321,24 +1321,20 @@
       "url": "https://open.spotify.com/track/1TQ130SgtsfPbyvq4o31Og"
     },
     {
-      "added_at": "2023-06-12 09:23:03",
+      "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/4wt8xueNgt2Eiq2UcSswjA"
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
       },
       "artists": [
         {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "MILLENNIAL",
-          "url": "https://open.spotify.com/artist/5IpsdReCfjh5hLsJBpf3Lp"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 209076,
-      "name": "Erase You",
-      "url": "https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b"
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
       "added_at": "2024-05-10 00:41:06",
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5h6gjwZYluJ0h4miC4Re5K"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Harley Bird",
+          "url": "https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu"
         }
       ],
-      "duration_ms": 198625,
-      "name": "Firefly",
-      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
+      "duration_ms": 167440,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3PEOQwIjl63hKEc67hyYSY"
     },
     {
       "added_at": "2024-07-12 00:40:05",
@@ -1401,24 +1401,24 @@
       "url": "https://open.spotify.com/track/5WnVIimnmVHsElmQI2vIzY"
     },
     {
-      "added_at": "2023-06-13 09:44:03",
+      "added_at": "2023-06-12 09:23:03",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/5h6gjwZYluJ0h4miC4Re5K"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6aCu2u1Xdwf1bBr69gBRPM"
       },
       "artists": [
         {
-          "name": "Deep Chills",
-          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "Harley Bird",
-          "url": "https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu"
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
         }
       ],
-      "duration_ms": 167440,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3PEOQwIjl63hKEc67hyYSY"
+      "duration_ms": 230318,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1QKR9U1OnjOHXLKAEzRcN8"
     },
     {
       "added_at": "2024-05-24 00:41:06",
@@ -1439,26 +1439,6 @@
       "duration_ms": 150520,
       "name": "Oops",
       "url": "https://open.spotify.com/track/5jLKiyce5UhfI0siP2uRoE"
-    },
-    {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/6aCu2u1Xdwf1bBr69gBRPM"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        }
-      ],
-      "duration_ms": 230318,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/1QKR9U1OnjOHXLKAEzRcN8"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1557,30 +1537,6 @@
       "url": "https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb"
     },
     {
-      "added_at": "2024-06-07 00:41:05",
-      "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/33faDdsC76mgbWQGBTAw7Z"
-      },
-      "artists": [
-        {
-          "name": "Ocean Roses",
-          "url": "https://open.spotify.com/artist/2Dob1DefkZcQ8G2rNQ4bT4"
-        },
-        {
-          "name": "L.A",
-          "url": "https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2"
-        },
-        {
-          "name": "XiVi",
-          "url": "https://open.spotify.com/artist/5kSQyE24NUXlYItBS7vSTv"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/1LPMktEFTcExqYm2x4D0Rf"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Voices (feat. TZAR)",
@@ -1603,6 +1559,30 @@
       "duration_ms": 192197,
       "name": "Voices (feat. TZAR)",
       "url": "https://open.spotify.com/track/7aAWrDRy3T52A95bDNfdlO"
+    },
+    {
+      "added_at": "2024-06-07 00:41:05",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/33faDdsC76mgbWQGBTAw7Z"
+      },
+      "artists": [
+        {
+          "name": "Ocean Roses",
+          "url": "https://open.spotify.com/artist/2Dob1DefkZcQ8G2rNQ4bT4"
+        },
+        {
+          "name": "L.A",
+          "url": "https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2"
+        },
+        {
+          "name": "XiVi",
+          "url": "https://open.spotify.com/artist/5kSQyE24NUXlYItBS7vSTv"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/1LPMktEFTcExqYm2x4D0Rf"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1685,6 +1665,22 @@
       "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
     },
     {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "Turn On the Bass",
+        "url": "https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o"
+      },
+      "artists": [
+        {
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Turn On the Bass",
+      "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
+    },
+    {
       "added_at": "2024-05-24 00:41:06",
       "album": {
         "name": "Forever",
@@ -1707,22 +1703,6 @@
       "duration_ms": 214000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1wr89veeTymkZ5aj1iYd3u"
-    },
-    {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "Turn On the Bass",
-        "url": "https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o"
-      },
-      "artists": [
-        {
-          "name": "Sheeqo Beat",
-          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Turn On the Bass",
-      "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1765,6 +1745,26 @@
       "url": "https://open.spotify.com/track/6pCXsuImno3nrSrop3BPMd"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "All That Really Matters",
+        "url": "https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 244235,
+      "name": "All That Really Matters",
+      "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
+    },
+    {
       "added_at": "2024-03-29 11:27:06",
       "album": {
         "name": "Lucky Ones (Farzin Salehi Remix)",
@@ -1787,26 +1787,6 @@
       "duration_ms": 166000,
       "name": "Lucky Ones - Farzin Salehi Remix",
       "url": "https://open.spotify.com/track/7jw9iJIXkNYkDA0KW1LyT0"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "All That Really Matters",
-        "url": "https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 244235,
-      "name": "All That Really Matters",
-      "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1893,22 +1873,6 @@
       "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
     },
     {
-      "added_at": "2024-05-24 00:41:06",
-      "album": {
-        "name": "So Bad",
-        "url": "https://open.spotify.com/album/7IDqsWjCn6DGTr9k0Y3P1I"
-      },
-      "artists": [
-        {
-          "name": "YNKKX",
-          "url": "https://open.spotify.com/artist/7klhTKzoyunogGr1Gij4v3"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "So Bad",
-      "url": "https://open.spotify.com/track/4cLlOI9NR6J9VDpEPZeviH"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Stay the Night",
@@ -1927,6 +1891,22 @@
       "duration_ms": 171954,
       "name": "Stay the Night",
       "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
+    },
+    {
+      "added_at": "2024-05-24 00:41:06",
+      "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/7IDqsWjCn6DGTr9k0Y3P1I"
+      },
+      "artists": [
+        {
+          "name": "YNKKX",
+          "url": "https://open.spotify.com/artist/7klhTKzoyunogGr1Gij4v3"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/4cLlOI9NR6J9VDpEPZeviH"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -2009,26 +1989,6 @@
       "url": "https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL"
     },
     {
-      "added_at": "2024-03-08 11:28:03",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/6bI1fZTRhAksKESoFrwK2N"
-      },
-      "artists": [
-        {
-          "name": "Luxor",
-          "url": "https://open.spotify.com/artist/2sGP16uyA0hFA8Q3bGLhAU"
-        },
-        {
-          "name": "UnderWater Project",
-          "url": "https://open.spotify.com/artist/3GT3gnZ90UuW5Cs0AJopzb"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/21Hx7LnM8oN6cwTdZiw7bd"
-    },
-    {
       "added_at": "2023-12-13 11:28:03",
       "album": {
         "name": "Life Goes On (feat. Alex Hosking)",
@@ -2049,20 +2009,24 @@
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
     },
     {
-      "added_at": "2024-05-08 00:38:06",
+      "added_at": "2024-03-08 11:28:03",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/5XXS1AeuX563jVZQaudTXA"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/6bI1fZTRhAksKESoFrwK2N"
       },
       "artists": [
         {
-          "name": "Dj Aaron Kennedy",
-          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
+          "name": "Luxor",
+          "url": "https://open.spotify.com/artist/2sGP16uyA0hFA8Q3bGLhAU"
+        },
+        {
+          "name": "UnderWater Project",
+          "url": "https://open.spotify.com/artist/3GT3gnZ90UuW5Cs0AJopzb"
         }
       ],
-      "duration_ms": 174720,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1A4w0HHmTE1kzIjNH51D3O"
+      "duration_ms": 178064,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/21Hx7LnM8oN6cwTdZiw7bd"
     },
     {
       "added_at": "2024-06-17 00:41:06",
@@ -2083,6 +2047,42 @@
       "duration_ms": 225813,
       "name": "Roses (feat. ROZES)",
       "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
+    },
+    {
+      "added_at": "2024-05-08 00:38:06",
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/5XXS1AeuX563jVZQaudTXA"
+      },
+      "artists": [
+        {
+          "name": "Dj Aaron Kennedy",
+          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1A4w0HHmTE1kzIjNH51D3O"
+    },
+    {
+      "added_at": "2024-08-03 00:46:04",
+      "album": {
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     }
   ],
   "unique_name": "EDM Top 100",

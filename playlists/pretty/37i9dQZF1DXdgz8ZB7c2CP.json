@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Killen. & Oaks",
-  "num_followers": 778758,
+  "num_followers": 778770,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -1511,38 +1511,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "SENESCENCE 03 + 04",
-        "url": "https://open.spotify.com/album/43YlByO8C1Fh1E9ziG1BbW"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 195751,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2VhiDHhgFx6hKhgGB6sRLH"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "library",
-        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
-      },
-      "artists": [
-        {
-          "name": "Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "library",
-      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "See Me",
         "url": "https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O"
       },
@@ -1567,18 +1535,34 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+        "name": "library",
+        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
       },
       "artists": [
         {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+          "name": "Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
         }
       ],
-      "duration_ms": 246315,
-      "name": "I Love You.",
-      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
+      "duration_ms": 166153,
+      "name": "library",
+      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "SENESCENCE 03 + 04",
+        "url": "https://open.spotify.com/album/43YlByO8C1Fh1E9ziG1BbW"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 195751,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2VhiDHhgFx6hKhgGB6sRLH"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1595,6 +1579,22 @@
       "duration_ms": 131612,
       "name": "anywhere but here",
       "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "I Love You.",
+      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "STEALTH BOMBER (feat. Flowdan)",
-        "url": "https://open.spotify.com/album/5Zcig8EL8Fk0ND5riw8EU1"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 137016,
-      "name": "STEALTH BOMBER (feat. Flowdan)",
-      "url": "https://open.spotify.com/track/5ufcSQog3pRDAHl2FEwYoH"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Swing King",
         "url": "https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo"
       },
@@ -1727,22 +1707,6 @@
       "duration_ms": 269286,
       "name": "Swing King",
       "url": "https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Before Me",
-        "url": "https://open.spotify.com/album/7oFKLQrShF4RIBYvrwMFlR"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 173946,
-      "name": "Before Me",
-      "url": "https://open.spotify.com/track/6DdAVeZFL7bsuL37B40nQR"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1767,6 +1731,42 @@
       "duration_ms": 176516,
       "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
       "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Before Me",
+        "url": "https://open.spotify.com/album/7oFKLQrShF4RIBYvrwMFlR"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 173946,
+      "name": "Before Me",
+      "url": "https://open.spotify.com/track/6DdAVeZFL7bsuL37B40nQR"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "STEALTH BOMBER (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/5Zcig8EL8Fk0ND5riw8EU1"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 137016,
+      "name": "STEALTH BOMBER (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/5ufcSQog3pRDAHl2FEwYoH"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1879,6 +1879,30 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/39rUd9drR7qfnOBdueS0yb"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "Black Water",
+      "url": "https://open.spotify.com/track/5CUTZzYgjZ9ndkvnAnesqA"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/1CBz4aX5jZADVuCmPbVUfb"
       },
@@ -1899,46 +1923,6 @@
       "duration_ms": 205620,
       "name": "Collide",
       "url": "https://open.spotify.com/track/2rtJDlbOWQG1zuzhEXhl5t"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Spinback Remixes",
-        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Darby",
-          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
-        },
-        {
-          "name": "Zyra",
-          "url": "https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa"
-        }
-      ],
-      "duration_ms": 172038,
-      "name": "Say My Name - Darby Remix",
-      "url": "https://open.spotify.com/track/11AcRxwmwJOweiDffcvVo8"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "iwaly",
-        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "iwaly",
-      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1967,38 +1951,42 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "MORE!",
-        "url": "https://open.spotify.com/album/1oOYnstxgv9e0cJRbbWSd7"
+        "name": "iwaly",
+        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 200283,
-      "name": "MORE!",
-      "url": "https://open.spotify.com/track/63UgfCqOUjxybXd5T878eP"
+      "duration_ms": 201866,
+      "name": "iwaly",
+      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
     },
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng"
+        "name": "Spinback Remixes",
+        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
       },
       "artists": [
         {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        },
+        {
+          "name": "Zyra",
+          "url": "https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa"
         }
       ],
-      "duration_ms": 164451,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
+      "duration_ms": 172038,
+      "name": "Say My Name - Darby Remix",
+      "url": "https://open.spotify.com/track/11AcRxwmwJOweiDffcvVo8"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2015,6 +2003,22 @@
       "duration_ms": 156004,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "MORE!",
+        "url": "https://open.spotify.com/album/1oOYnstxgv9e0cJRbbWSd7"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200283,
+      "name": "MORE!",
+      "url": "https://open.spotify.com/track/63UgfCqOUjxybXd5T878eP"
     }
   ],
   "unique_name": "creamy",

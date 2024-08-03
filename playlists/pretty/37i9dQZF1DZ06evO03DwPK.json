@@ -1,12 +1,12 @@
 {
-  "description": "This is Bruno Mars. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 3880653,
+  "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
+  "num_followers": 3881088,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABYJX0czNB8pixXDuixm6Gt",
+  "snapshot_id": "ZqrQAAAAAACX7X4dg63ffvHfKtD1sVml",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 210606,
+      "name": "Catch a Grenade - The Hooligans Remix",
+      "url": "https://open.spotify.com/track/1EOWf8bsePF6QtiDUAclrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leave The Door Open (Live)",
         "url": "https://open.spotify.com/album/4rRB9bAIwawVcrdLXuq9Qu"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 260269,
       "name": "Leave The Door Open - Live",
       "url": "https://open.spotify.com/track/1Ffw1qFqCw2IaozOJ5mL2O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Grenade Sessions",
-        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 210606,
-      "name": "Catch a Grenade - The Hooligans Remix",
-      "url": "https://open.spotify.com/track/1EOWf8bsePF6QtiDUAclrJ"
     },
     {
       "added_at": null,

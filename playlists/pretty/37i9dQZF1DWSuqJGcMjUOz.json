@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6293,
+  "num_followers": 6305,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Fluxus",
+        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
+      },
+      "artists": [
+        {
+          "name": "Bobo Ono",
+          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
+        }
+      ],
+      "duration_ms": 156904,
+      "name": "OnO Song",
+      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Fleur de cactus (Face A)",
         "url": "https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R"
       },
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Fluxus",
-        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
-      },
-      "artists": [
-        {
-          "name": "Bobo Ono",
-          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
-        }
-      ],
-      "duration_ms": 156904,
-      "name": "OnO Song",
-      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Monstre",
         "url": "https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0"
       },
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Elle \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
-      },
-      "artists": [
-        {
-          "name": "Parazar",
-          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
-        },
-        {
-          "name": "Salimo",
-          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Ailleurs",
-      "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "J'en raffole",
         "url": "https://open.spotify.com/album/0v7UTiuZ76VyAJaAuCiYJa"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 225230,
       "name": "J'en raffole",
       "url": "https://open.spotify.com/track/3Gs8MG6EVQTfqTs1fw4A8d"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Elle \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        },
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "D\u00e9sol\u00e9 mouvement geste",
-        "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
-      },
-      "artists": [
-        {
-          "name": "Navet Confit",
-          "url": "https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D"
-        },
-        {
-          "name": "Douance",
-          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Il a plu il a neig\u00e9",
-      "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/2uAzgEvhRjbA9sL9boeVNl"
       },
@@ -2123,6 +2103,26 @@
       "duration_ms": 194400,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/2yM8hnByWMOLVRxuUmOuT5"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "D\u00e9sol\u00e9 mouvement geste",
+        "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
+      },
+      "artists": [
+        {
+          "name": "Navet Confit",
+          "url": "https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D"
+        },
+        {
+          "name": "Douance",
+          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Il a plu il a neig\u00e9",
+      "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
     },
     {
       "added_at": "2024-06-19 20:38:05",

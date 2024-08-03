@@ -1,12 +1,12 @@
 {
-  "description": "This is: Dharius. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 108611,
+  "description": "This is Dharius. The essential tracks, all in one playlist.",
+  "num_followers": 108679,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAACi2MiJNrMwS3WhYrxL7Pyt",
+  "snapshot_id": "ZqrQAAAAAACSqi8Bafb6tK5yfovSjYWw",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA PARRANDHA",
-        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 238792,
-      "name": "LA PARRANDHA",
-      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estrafalario",
         "url": "https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA PARRANDHA",
+        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 238792,
+      "name": "LA PARRANDHA",
+      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
     },
     {
       "added_at": null,
@@ -503,22 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mecha Corta",
-        "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
+        "name": "Sin Escapatoria",
+        "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
       },
       "artists": [
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 210645,
-      "name": "Mecha Corta",
-      "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
+      "duration_ms": 205060,
+      "name": "Sin Escapatoria",
+      "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
     },
     {
       "added_at": null,
@@ -539,22 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Escapatoria",
-        "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
+        "name": "Mecha Corta",
+        "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
       },
       "artists": [
         {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 205060,
-      "name": "Sin Escapatoria",
-      "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
+      "duration_ms": 210645,
+      "name": "Mecha Corta",
+      "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
     },
     {
       "added_at": null,
@@ -979,18 +979,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
       },
       "artists": [
         {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         }
       ],
-      "duration_ms": 226533,
-      "name": "Mala Vibra",
-      "url": "https://open.spotify.com/track/5iP4QSHomTFVp1GFA80KfQ"
+      "duration_ms": 169761,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
     },
     {
       "added_at": null,
@@ -1031,6 +1039,22 @@
       "duration_ms": 269714,
       "name": "Polvo Blanco",
       "url": "https://open.spotify.com/track/0pLOQYM1WMrlNtQedapWTM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Mala Vibra",
+      "url": "https://open.spotify.com/track/5iP4QSHomTFVp1GFA80KfQ"
     },
     {
       "added_at": null,
@@ -1087,30 +1111,6 @@
       "duration_ms": 503613,
       "name": "Poco a Poco (feat. Lunatic, Z-Xperimento & Beliko)",
       "url": "https://open.spotify.com/track/4fuAlhVNKYCxDnU0MzXoFD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 169761,
-      "name": "Porque La Demora",
-      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
     }
   ],
   "unique_name": "This Is Dharius",

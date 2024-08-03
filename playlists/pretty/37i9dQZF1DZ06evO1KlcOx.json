@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 6756,
+  "num_followers": 6759,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAADuWyKLCFPhRkj22uvIVXl",
+  "snapshot_id": "ZqrQAAAAAABH5fZMwTbfyMvZfJesXV4J",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 322146,
-      "name": "Opened Space",
-      "url": "https://open.spotify.com/track/4qL78jNDOxMqRhjH5nKf1Z"
+      "duration_ms": 231125,
+      "name": "Unclean mind",
+      "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 231125,
-      "name": "Unclean mind",
-      "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
+      "duration_ms": 322146,
+      "name": "Opened Space",
+      "url": "https://open.spotify.com/track/4qL78jNDOxMqRhjH5nKf1Z"
     },
     {
       "added_at": null,

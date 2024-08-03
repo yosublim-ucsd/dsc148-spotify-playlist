@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Mid Spiral",
+        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326240,
+      "name": "Best Left Unsolved - Bonus Track",
+      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
+    },
+    {
+      "album": {
         "name": "French Kiwi Juice",
         "url": "https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi"
       },
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 200725,
       "name": "Five Feet Tall",
       "url": "https://open.spotify.com/track/3Td12QdISvxCc924l70f8n"
@@ -1568,6 +1586,24 @@
       "duration_ms": 382560,
       "name": "Hangmat",
       "url": "https://open.spotify.com/track/4Fe4a65JErIRywwlm2x5ob"
+    },
+    {
+      "album": {
+        "name": "Hardest Part",
+        "url": "https://open.spotify.com/album/0WqJtWa0g9UOfNTrf6ZCnO"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Fro",
+          "url": "https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "Hardest Part - Single Edit",
+      "url": "https://open.spotify.com/track/3dX71ItEWpeEZxy7IgJ2RB"
     },
     {
       "album": {
@@ -2700,7 +2736,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 177653,
       "name": "No Reply",
       "url": "https://open.spotify.com/track/2VbNBhOi7n7WX1yCVfy77I"
@@ -2998,6 +3034,24 @@
       "duration_ms": 139764,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183668,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz"
     },
     {
       "album": {
@@ -3406,7 +3460,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 201656,
       "name": "Spread My Wings And Fly",
       "url": "https://open.spotify.com/track/4NmTVL0stZjEh3O8bqXdoH"

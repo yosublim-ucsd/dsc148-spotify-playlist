@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-19",
-  "description": "This is Zudizilla. The essential tracks, all in one playlist.",
+  "description": "This is Zudizilla. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Zudizilla",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 137266,
       "name": "Febre",
       "url": "https://open.spotify.com/track/6S30GnSKCDEQ7uC7Hy40zo"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 313020,
       "name": "Pref\u00e1cio",
       "url": "https://open.spotify.com/track/6P96YNjXwQKdQ5pCHE1uuE"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 217120,
       "name": "Prisma",
       "url": "https://open.spotify.com/track/28azbjBNeQAUv060KuGomn"
@@ -919,6 +919,40 @@
     },
     {
       "album": {
+        "name": "M\u00fasicas pra Sair na M\u00e3o, Vol. 1",
+        "url": "https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby"
+      },
+      "artists": [
+        {
+          "name": "RAP, falando",
+          "url": "https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Nic Dias",
+          "url": "https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191753,
+      "name": "Ratatat\u00e1!",
+      "url": "https://open.spotify.com/track/7tOnR9C4BSirSpiWWsSqjv"
+    },
+    {
+      "album": {
         "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
         "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
       },
@@ -1000,7 +1034,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 248213,
       "name": "SALVE",
       "url": "https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2"
@@ -1318,7 +1352,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 290498,
       "name": "TUDO AGORA",
       "url": "https://open.spotify.com/track/3pvuUaDvth5vD8GdvXK0x5"
@@ -1522,6 +1556,36 @@
       "duration_ms": 197571,
       "name": "Vista",
       "url": "https://open.spotify.com/track/56oUBxmhZ7qREYWrFUOao7"
+    },
+    {
+      "album": {
+        "name": "Zara",
+        "url": "https://open.spotify.com/album/2Qai1BNR4Xn6Hl9NuA66wD"
+      },
+      "artists": [
+        {
+          "name": "Melvin Santhana",
+          "url": "https://open.spotify.com/artist/5x9bR21HvAYoXdqby0L73G"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Melifona",
+          "url": "https://open.spotify.com/artist/3Qs2ORfABK6Fmm64zdJ1lU"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167344,
+      "name": "Zara",
+      "url": "https://open.spotify.com/track/2tcjnmQJAhx3uyObrami7w"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ"

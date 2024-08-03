@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,081 likes - 95 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,090 likes - 95 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 40 | [PARA AFUERA](https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PARA AFUERA](https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9) | 2:34 |
 | 41 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 |
 | 42 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 |
-| 43 | [PARAISO](https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [TODO SOBRE LA NADA](https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9) | 3:32 |
-| 44 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 |
+| 43 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 |
+| 44 | [PARAISO](https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [TODO SOBRE LA NADA](https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9) | 3:32 |
 | 45 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 |
 | 46 | [Caribbean](https://open.spotify.com/track/6etFpoM9bw0PU094PMLGvL) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Chicos de la Luz](https://open.spotify.com/album/6Mh5DKubjomT2XxaSMCILY) | 4:39 |
 | 47 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 56 | [SUBTE LÍNEA B REWORK](https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [SUBTE LÍNEA B REWORK](https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s) | 4:03 |
 | 57 | [MAL NECESARIO](https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MAL NECESARIO](https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB) | 2:54 |
 | 58 | [TRIP](https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [TRIP](https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh) | 2:55 |
-| 59 | [Arriba](https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp) | [Un Planeta](https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE) | [Des](https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX) | 3:45 |
-| 60 | [Bajo Cero](https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Bajo Cero](https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7) | 4:03 |
-| 61 | [Flashback](https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Flashback](https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm) | 3:02 |
+| 59 | [Flashback](https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Flashback](https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm) | 3:02 |
+| 60 | [Arriba](https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp) | [Un Planeta](https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE) | [Des](https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX) | 3:45 |
+| 61 | [Bajo Cero](https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Bajo Cero](https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7) | 4:03 |
 | 62 | [Emocionalmente Tuya](https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Emocionalmente Tuya](https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni) | 4:10 |
 | 63 | [blablablablabla](https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [blablablablabla](https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp) | 3:21 |
 | 64 | [PACTO](https://open.spotify.com/track/0CIRCBcH8KbFrRxYQPQR9v) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Criss J.](https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe) | [PACTO](https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S) | 2:54 |

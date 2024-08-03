@@ -1,12 +1,12 @@
 {
   "description": "This is Lonely The Brave. The essential tracks, all in one playlist.",
-  "num_followers": 1091,
+  "num_followers": 1090,
   "original_name": "This Is Lonely The Brave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAFO6fGZlt2JEGSxfzMFPqJ",
+  "snapshot_id": "ZqrQAAAAAACgl1sJt1PmYBOHF91OHiOU",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter (Redux)",
-        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Radar - Redux",
-      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
+      "duration_ms": 252253,
+      "name": "Black Mire",
+      "url": "https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 252253,
-      "name": "Black Mire",
-      "url": "https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What We Do To Feel",
         "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 206605,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Radar - Redux",
+      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hope List",
-        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": "Your Heavy Heart",
-      "url": "https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 228093,
       "name": "Diamond Days",
       "url": "https://open.spotify.com/track/49b0ahtMJNiQXNjIvMbwKX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hope List",
+        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 224306,
+      "name": "Your Heavy Heart",
+      "url": "https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hope List",
-        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Things Will Matter (Redux)",
         "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 174729,
       "name": "Things Will Matter",
       "url": "https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hope List",
+        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hope List",
-        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 177080,
-      "name": "Bright Eyes",
-      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rat",
         "url": "https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5"
       },
@@ -327,38 +311,6 @@
       "duration_ms": 260120,
       "name": "The Rat",
       "url": "https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What We Do To Feel",
-        "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "Victim",
-      "url": "https://open.spotify.com/track/71IEx6h2nr0zQBn4zkPuua"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/1bUEiRDcKTPSVhqVUtZyiP"
     },
     {
       "added_at": null,
@@ -379,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Dust & Bones",
-      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What We Do To Feel",
         "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
       },
@@ -411,6 +347,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/1bUEiRDcKTPSVhqVUtZyiP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Dust & Bones",
+      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hope List",
+        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 177080,
+      "name": "Bright Eyes",
+      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What We Do To Feel",
+        "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/71IEx6h2nr0zQBn4zkPuua"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only You Say It",
         "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 200932,
       "name": "Only You Say It",
       "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comfortably Numb",
-        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 379103,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 218533,
       "name": "Two Heads",
       "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comfortably Numb",
+        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 379103,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
     },
     {
       "added_at": null,

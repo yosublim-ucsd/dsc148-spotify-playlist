@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-166 songs - 15 hr 10 min
+167 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Cygnus \- Edit](https://open.spotify.com/track/1s5lu50Sv82NsKfS2iY2YF) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Cygnus](https://open.spotify.com/album/63FraZzI2PuLEms20LPQTB) | 4:17 | 2021-01-27 | 2024-04-19 |
 | [Cygnus \- Edit](https://open.spotify.com/track/3GmaX8Rq12cmCbckxSYdOO) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Cygnus](https://open.spotify.com/album/1D3iPGr8efICqZvw0iGDzX) | 4:17 | 2021-01-27 |  |
 | [Deadly Nightshade](https://open.spotify.com/track/6Ws4jPs9nJuXkrD7Nv3gLW) | [Brand X](https://open.spotify.com/artist/4DngluvBNHm2Q0rLW1yEqy) | [Masques](https://open.spotify.com/album/0D80cZvlVfODsYHhFmygO5) | 11:22 | 2021-01-27 |  |
+| [Deep Inside](https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Deep Inside](https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR) | 4:00 | 2024-08-02 |  |
 | [Dirty Mindz \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock\)](https://open.spotify.com/track/2LPvgbWHHy7evKFvqGh1yI) | [Zach Brock](https://open.spotify.com/artist/2gP7EdtXx1CWc3gLco3B1C), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jonathan Maron](https://open.spotify.com/artist/5c2waqtgYO4U0hSvVzxSXe), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5), [Chris Bullock](https://open.spotify.com/artist/38SvOojqE9VsTpoodD0N5g) | [Dirty Mindz \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock\)](https://open.spotify.com/album/2GfJbWrtq2pKRS8ugzi8or) | 9:05 | 2022-05-06 |  |
 | [Dormammu \(Featuring the Shady Horns\)](https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O), [The Shady Horns](https://open.spotify.com/artist/5JF9I2tmWTyj8fKyF6tdnM) | [Chaos Companion](https://open.spotify.com/album/73yzdyUJj6gVJNzjbiFazy) | 5:00 | 2021-09-24 |  |
 | [Dub Jazz](https://open.spotify.com/track/6KU9SIPUvSFlMaPnZbZ7S0) | [Piotr Paluch Trio](https://open.spotify.com/artist/1RXzItscykTYMEXOWhFJbi) | [Dub Jazz](https://open.spotify.com/album/4qeeyhWEVRhadD1WoOeULu) | 6:19 | 2021-07-30 |  |

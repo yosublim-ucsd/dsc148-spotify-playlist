@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 277320,
+  "num_followers": 277523,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "Cars (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 275640,
       "name": "Life is a Highway",
       "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 211893,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Haywire",
-        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Why Don't We Just Dance",
-      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 287266,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Haywire",
+        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Why Don't We Just Dance",
+      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Would You Go With Me",
-      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 158626,
       "name": "Little Bitty",
       "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Would You Go With Me",
+      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+      "duration_ms": 214106,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 214106,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "The Boys Are Back",
-        "url": "https://open.spotify.com/album/0kTRamepqCsedBSwPvaWJz"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Brown",
-          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "The Race Is On",
-      "url": "https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 199040,
       "name": "I'm Alright",
       "url": "https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "The Boys Are Back",
+        "url": "https://open.spotify.com/album/0kTRamepqCsedBSwPvaWJz"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Brown",
+          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "The Race Is On",
+      "url": "https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "You Do Your Thing",
-        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Something to Be Proud Of",
-      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "The Incredible Machine",
         "url": "https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 247586,
       "name": "Stuck Like Glue",
       "url": "https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "You Do Your Thing",
+        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Something to Be Proud Of",
+      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Good Hearted Woman",
-        "url": "https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Good Hearted Woman",
-      "url": "https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "Living Hard",
         "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 242946,
       "name": "Watching Airplanes",
       "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Good Hearted Woman",
+        "url": "https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Good Hearted Woman",
+      "url": "https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53"
     },
     {
       "added_at": "2024-06-01 02:04:50",

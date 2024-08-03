@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 5622,
+  "num_followers": 5624,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "My God Can",
         "url": "https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 193253,
       "name": "My God Can",
       "url": "https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -925,20 +925,24 @@
       "url": "https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C"
     },
     {
-      "added_at": "2024-01-19 00:01:00",
+      "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Jesus Is",
-        "url": "https://open.spotify.com/album/6eKcDzviRHeDhUTnI3jCUC"
+        "name": "Moy\u2019 Oyingcwele (Live)",
+        "url": "https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu"
       },
       "artists": [
         {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Ayanda Ntanzi",
+          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
         }
       ],
-      "duration_ms": 183589,
-      "name": "Jesus Is",
-      "url": "https://open.spotify.com/track/2vuIs8YqeRgOOcguBucO1e"
+      "duration_ms": 500087,
+      "name": "Moy\u2019 Oyingcwele (Live)",
+      "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
     }
   ],
   "unique_name": "Sunday Service",

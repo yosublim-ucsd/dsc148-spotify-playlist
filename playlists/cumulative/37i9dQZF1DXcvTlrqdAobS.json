@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP"
+    },
+    {
+      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
       },
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 113720,
       "name": "HEHEHE",
       "url": "https://open.spotify.com/track/5oUDNEJSEjsVT7LeWya4Gv"
@@ -4727,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "W.O.W.Y.",
+        "url": "https://open.spotify.com/album/2fc71wTzm1Ddun26yslWG1"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "W.O.W.Y.",
+      "url": "https://open.spotify.com/track/0cPe1dk3g5AiNXmZ122sSF"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -5014,7 +5050,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 116266,
       "name": "you wore it better",
       "url": "https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z"

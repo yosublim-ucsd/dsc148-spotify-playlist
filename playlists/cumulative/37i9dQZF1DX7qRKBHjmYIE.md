@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con stivijoes.
 
-777 songs - 1 day 17 hr 56 min
+778 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [For Gerard](https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Lost in Paradïse, Pt\. 2](https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7) | 3:23 | 2021-12-02 | 2022-10-13 |
 | [for good \(with RENEE\)](https://open.spotify.com/track/1UJq7v4489TZLWiLSQ6k3U) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Hasta La Dorada](https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1) | 3:02 | 2022-10-28 | 2022-12-31 |
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-01-28 | 2022-06-04 |
+| [FRANCISCA](https://open.spotify.com/track/4GtX9rw0N1IhW3XCy1THqv) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Francisca](https://open.spotify.com/album/15No0LplLrXtuAd2DjqO0D) | 3:37 | 2024-08-02 |  |
 | [Frankies](https://open.spotify.com/track/3kiD3rIZcfyYHIAdjwSkm3) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [Purista](https://open.spotify.com/album/76rg0ChnCtwxKWjKKPozIM) | 4:01 | 2024-07-12 |  |
 | [Frekes](https://open.spotify.com/track/1bmc5LVO2Bo2zWXQY9wV7A) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Frekes](https://open.spotify.com/album/55NHIcm8F6nBjXnILMX6h8) | 3:22 | 2023-01-10 | 2023-02-17 |
 | [Frenos](https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Frenos](https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG) | 3:09 | 2024-06-21 |  |
@@ -415,7 +416,7 @@
 | [mala maña](https://open.spotify.com/track/1YXvGPJqEL11QY7Lg2yM31) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [mala maña](https://open.spotify.com/album/6Cp3h4pPq3SUbVzQlFmr20) | 2:32 | 2021-12-02 | 2022-01-25 |
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 | 2022-01-24 | 2023-02-17 |
 | [Maldita Distancia](https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Maldita Distancia](https://open.spotify.com/album/0COlLwIKoLkM0CObynJaBj) | 2:15 | 2024-03-15 | 2024-07-27 |
-| [Malditos Celos](https://open.spotify.com/track/6Lc8Jnu0TJFFCmlfCITvfA) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Malditos Celos](https://open.spotify.com/album/4mIPWiTqtPgBVcaFSJsmHY) | 2:37 | 2024-04-26 |  |
+| [Malditos Celos](https://open.spotify.com/track/6Lc8Jnu0TJFFCmlfCITvfA) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Malditos Celos](https://open.spotify.com/album/4mIPWiTqtPgBVcaFSJsmHY) | 2:37 | 2024-04-26 | 2024-08-03 |
 | [Mama Guela](https://open.spotify.com/track/7KuMbaHElNFVt7Lw4aHFOZ) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [15 Inolvidables Exitos](https://open.spotify.com/album/3IVWzxhlPX3gqR1B4734en) | 2:36 | 2023-09-29 | 2023-10-14 |
 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/35rRaw5fX2QGUqhmpAmfor) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/album/02U7QUnz3HGzH2NRSsfUUt) | 2:17 | 2024-06-07 |  |
 | [mangata](https://open.spotify.com/track/6M3BYtzp1WLov2NDM5nsaI) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [mangata](https://open.spotify.com/album/1DS6sekds9PYqX9M80abUq) | 3:03 | 2024-04-12 | 2024-07-27 |

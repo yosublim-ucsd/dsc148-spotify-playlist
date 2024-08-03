@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 
 > This is Central Cee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,310 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,597 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 25 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 |
 | 26 | [Chapters](https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 1:54 |
 | 27 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 |
-| 28 | [Mrs](https://open.spotify.com/track/0yRsHuqDYOeug4ACp38Rjt) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 2:28 |
+| 28 | [Khabib](https://open.spotify.com/track/2ZVSjes0VFYg9uJu4olsi4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:21 |
 | 29 | [Ruby](https://open.spotify.com/track/107TX4vj1U8We3uqDmb9oO) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:25 |
 | 30 | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/track/1JeLx7sGn3LzHLwCzd6swY) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/album/1FBhWfdHQnqphA5Dk1KFhx) | 4:38 |
 | 31 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 |
-| 32 | [Khabib](https://open.spotify.com/track/2ZVSjes0VFYg9uJu4olsi4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:21 |
+| 32 | [Mrs](https://open.spotify.com/track/0yRsHuqDYOeug4ACp38Rjt) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 2:28 |
 | 33 | [Little Bit of This](https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Little Bit of This](https://open.spotify.com/album/1bHjBmGf7FPGudZFhT83GN) | 3:00 |
 | 34 | [Tension](https://open.spotify.com/track/1s2NSYZLIkUPhca8P5u1Vm) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:08 |
 | 35 | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/track/5fgB7wylIDMSqJ8Z5s7FlJ) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [City Of God](https://open.spotify.com/album/1iTe0WOidFXuSNpfhWX4lT) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 49 | [Don’t Like Drill \(feat\. Central Cee\)](https://open.spotify.com/track/6LIwF5yxLwnNfVohAwSWdC) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Respect The Come Up](https://open.spotify.com/album/1MLRMDDQlOdUPBUcpc7XmB) | 3:50 |
 | 50 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 |
 
-Snapshot ID: `Zql+gAAAAADPPB1MURTEb5DlW31UceSm`
+Snapshot ID: `ZqrQAAAAAABqZwEhGVQtwb+aiabmwsPV`

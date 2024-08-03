@@ -699,6 +699,28 @@
     },
     {
       "album": {
+        "name": "Heart of Thunder",
+        "url": "https://open.spotify.com/album/2NrrkmuqKwy5j0C5gIxeNX"
+      },
+      "artists": [
+        {
+          "name": "We The Lion",
+          "url": "https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z"
+        },
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211434,
+      "name": "Heart of Thunder",
+      "url": "https://open.spotify.com/track/6KcNnnPEEEpAThFNN6DYZl"
+    },
+    {
+      "album": {
         "name": "Historia de Amor",
         "url": "https://open.spotify.com/album/4KvZm9XQDc0pYe94UHOtLT"
       },
@@ -870,7 +892,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 135573,
       "name": "LAS FURIAS // NOS MIRAN",
       "url": "https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh"
@@ -1007,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "mil procedimientos",
+        "url": "https://open.spotify.com/album/228lIoPGjFuFxEUAh4vjOO"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "mil procedimientos",
+      "url": "https://open.spotify.com/track/3GbGWkO0fqOGKvDGQle35s"
+    },
+    {
+      "album": {
         "name": "Milanoche",
         "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
       },
@@ -1123,6 +1163,46 @@
     },
     {
       "album": {
+        "name": "No es culpa tuya",
+        "url": "https://open.spotify.com/album/5Gm2ELl1iV8Jk1Il4Zk1QV"
+      },
+      "artists": [
+        {
+          "name": "yumhji",
+          "url": "https://open.spotify.com/artist/1kZW1tP8aoEp0iWuMVbCqx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "No es culpa tuya",
+      "url": "https://open.spotify.com/track/0vHeN8JovVFOOSta12kaQM"
+    },
+    {
+      "album": {
+        "name": "No Me Dan Las Cuentas",
+        "url": "https://open.spotify.com/album/5D2lSTtk0P7OTtg4WuzJaE"
+      },
+      "artists": [
+        {
+          "name": "Ceci Juno",
+          "url": "https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu"
+        },
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235760,
+      "name": "No Me Dan Las Cuentas",
+      "url": "https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw"
+    },
+    {
+      "album": {
         "name": "No Te Vayas Nunca",
         "url": "https://open.spotify.com/album/1UvWnU9UKjbxzKbLxk8Njx"
       },
@@ -1152,7 +1232,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 170769,
       "name": "No Tengo Tiempo",
       "url": "https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX"
@@ -1232,7 +1312,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 171133,
       "name": "Nunca Nunca",
       "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
@@ -1526,7 +1606,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 121621,
       "name": "Te Vi Llegar",
       "url": "https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu"

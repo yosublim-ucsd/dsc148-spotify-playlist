@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 16779,
+  "num_followers": 16797,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -409,26 +409,6 @@
       "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
     },
     {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
-      },
-      "artists": [
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 176822,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
-    },
-    {
       "added_at": "2024-07-19 00:01:00",
       "album": {
         "name": "All Over The World",
@@ -451,6 +431,26 @@
       "duration_ms": 186666,
       "name": "All Over The World",
       "url": "https://open.spotify.com/track/0QQXbuDmrGBcxVSNjCbAjs"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 176822,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -801,6 +801,26 @@
       "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
     },
     {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "duration_ms": 162223,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
       "added_at": "2024-06-07 00:01:00",
       "album": {
         "name": "Congratulations",
@@ -823,26 +843,6 @@
       "duration_ms": 186909,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
-      },
-      "artists": [
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        }
-      ],
-      "duration_ms": 162223,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -937,20 +937,20 @@
       "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
     },
     {
-      "added_at": "2024-05-10 00:01:00",
+      "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Amen (Live)",
-        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
+        "name": "En Toi",
+        "url": "https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh"
       },
       "artists": [
         {
-          "name": "FRA!",
-          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+          "name": "Morijah",
+          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
         }
       ],
-      "duration_ms": 200161,
-      "name": "Amen - Live",
-      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
+      "duration_ms": 193417,
+      "name": "En Toi",
+      "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -993,20 +993,20 @@
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
+      "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "En Toi",
-        "url": "https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh"
+        "name": "Amen (Live)",
+        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
       },
       "artists": [
         {
-          "name": "Morijah",
-          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
+          "name": "FRA!",
+          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
         }
       ],
-      "duration_ms": 193417,
-      "name": "En Toi",
-      "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
+      "duration_ms": 200161,
+      "name": "Amen - Live",
+      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
     }
   ],
   "unique_name": "Higher",

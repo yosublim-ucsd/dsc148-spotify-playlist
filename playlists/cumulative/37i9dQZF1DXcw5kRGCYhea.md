@@ -2,9 +2,9 @@
 
 ### [SEHD](https://open.spotify.com/playlist/37i9dQZF1DXcw5kRGCYhea)
 
-> Vibrez au rythme des hits urbains et Afro en feu 🎶
+> Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-109 songs - 5 hr 31 min
+110 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-23 |  |
 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-03-26 | 2024-04-19 |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-10 |  |
+| [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 | 2024-08-02 |  |
 | [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 | 2024-07-04 |  |
 | [DAMIRI](https://open.spotify.com/track/6hHjWLmwwZhXc50vdyPGN9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [DAMIRI](https://open.spotify.com/album/6kyrZ4AE8kkJ4wTPRWg6uA) | 3:58 | 2024-03-26 | 2024-06-14 |
 | [Dawk Lya](https://open.spotify.com/track/4JaAz4mEXpAdO8CKjCDjVx) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4lL3CmSYMLjPq3c2nF9sZL) | 2:28 | 2024-03-26 | 2024-04-19 |
@@ -104,7 +105,7 @@
 | [TAGHAZOUT](https://open.spotify.com/track/7yEsnGST85zjPEbDGEoMaJ) | [Sarah & Ismael](https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt), [Aziz Ozouss](https://open.spotify.com/artist/5F8YjfBPMkIBUjeYByzC1K) | [TAGHAZOUT](https://open.spotify.com/album/41GRsxsRdLnlhN06bTH2VM) | 3:28 | 2024-05-10 | 2024-05-18 |
 | [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-03-26 |  |
 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 | 2024-06-07 |  |
-| [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 | 2024-06-16 |  |
+| [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 | 2024-06-16 | 2024-08-03 |
 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-03-26 | 2024-07-09 |
 | [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 | 2024-07-03 |  |
 | [Wahala \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Wahala \(feat\. Olamide\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 | 2024-04-18 | 2024-08-02 |

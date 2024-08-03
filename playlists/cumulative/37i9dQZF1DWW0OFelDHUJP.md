@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-94 songs - 6 hr 10 min
+95 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Tu Bata](https://open.spotify.com/track/4T3vh1KcGAOKewcCj8A1uj) | [Roney Guha](https://open.spotify.com/artist/3IK0Y8r68JB2VykGqVVuvM) | [Tu Bata](https://open.spotify.com/album/7aiZE6N1LmgeJLn7iQ2VrB) | 3:29 | 2023-05-09 | 2023-12-26 |
 | [Tu Bata](https://open.spotify.com/track/6jlwgIaV4hQTf92LS2pWk1) | [Roney Guha](https://open.spotify.com/artist/3IK0Y8r68JB2VykGqVVuvM) | [Tu Bata](https://open.spotify.com/album/6RdKELZRjvmMjdBKHzx1VN) | 3:30 | 2024-03-28 |  |
 | [Tum Ho Yahaan](https://open.spotify.com/track/0B7FbDb0GQxMX5KSXGv3sg) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Tum Ho Yahaan](https://open.spotify.com/album/15rUYK7QOg6qIpXbdqmghS) | 3:16 | 2023-05-09 |  |
+| [Varsaad](https://open.spotify.com/track/5okCpEGwcQqGBrX3EFCuba) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T), [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Varsaad](https://open.spotify.com/album/5wHm3iHIQQd9ztInP60m20) | 5:11 | 2024-08-02 |  |
 | [Waqt Ki Baatein](https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein](https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO) | 4:03 | 2023-05-09 |  |
 | [When You Smile](https://open.spotify.com/track/7drZ27Wes5FgldRmanF50m) | [Aniirban Saha](https://open.spotify.com/artist/4UTFMGL1wJ8jFvapqEXdJH) | [When You Smile](https://open.spotify.com/album/2qhnGMvs8Tk9QLEdwhVQ1B) | 3:38 | 2024-06-14 |  |
 

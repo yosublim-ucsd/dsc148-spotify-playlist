@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9YJxYnhkr3.md) - [plain]
 
 > The best tracks for Prom 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,110 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,104 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
-| 2 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
+| 2 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 3 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 |
-| 4 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
+| 4 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 | 5 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 | 6 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
 | 7 | [Prom](https://open.spotify.com/track/5yvhdo8FXbBsIllxv2Rr94) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:16 |

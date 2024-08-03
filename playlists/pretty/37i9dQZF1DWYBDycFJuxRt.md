@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: BUMP OF CHICKEN \*👉 <a href="https://spice.eplus.jp/articles/330796?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,818 likes - 89 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,838 likes - 89 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 45 | [New Dimension](https://open.spotify.com/track/7jOyrWPwfvnhFColQ0vzlz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [New Dimension](https://open.spotify.com/album/4C3TI4WoooKAYb9ccEXdGR) | 3:30 |
 | 46 | [キミと××××したいだけ](https://open.spotify.com/track/6laW0Ja9JaNcWWN4JoXUOU) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [キミと××××したいだけ](https://open.spotify.com/album/0hWgyaL282fsT7sS3M5obg) | 3:25 |
 | 47 | [DISCO de DISCO](https://open.spotify.com/track/6B9LgmbNd03iVVVdUiUeaE) | [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [DISCO de DISCO](https://open.spotify.com/album/3Swvxt0q49yvXl1GfsKjOr) | 2:58 |
-| 48 | [乙 \(feat\. NENE\)](https://open.spotify.com/track/4S0kTyodr1Ajr4VwgCl8V7) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [NENE](https://open.spotify.com/artist/0GWd1nAGTQBkliv0zhbaqo) | [乙 \(feat\. NENE\)](https://open.spotify.com/album/4oBeNXrvD0bKUdVLBtNo5A) | 3:51 |
+| 48 | [乙 \(feat\. NENE\)](https://open.spotify.com/track/4S0kTyodr1Ajr4VwgCl8V7) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [乙 \(feat\. NENE\)](https://open.spotify.com/album/4oBeNXrvD0bKUdVLBtNo5A) | 3:51 |
 | 49 | [Can't stop](https://open.spotify.com/track/2WeNY2fPswb6XmHEAfJ5cr) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Can't stop](https://open.spotify.com/album/7bL71df5LKdOuE0vShAnwZ) | 2:11 |
 | 50 | [Everyday](https://open.spotify.com/track/4sfa6MYsdHWsrEiyWUdmEM) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Everyday](https://open.spotify.com/album/2bFnTVa4oY9RvlPTrpLBGe) | 3:43 |
 | 51 | [Mother Land](https://open.spotify.com/track/2Esmx1ZnMvdmVVHU7Kxmum) | [Blue Vintage](https://open.spotify.com/artist/106REdDEgMBskjfbOqWOqn), [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [Mother Land](https://open.spotify.com/album/4Ww9ai9gWGJkZj8WxogrMy) | 3:16 |

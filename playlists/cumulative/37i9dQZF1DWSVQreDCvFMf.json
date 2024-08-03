@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Over October",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Dilaw",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 208283,
       "name": "edsa",
       "url": "https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 230000,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/5VqFa9E5BNTBsDd7uKE5R0"
@@ -482,6 +482,24 @@
       "duration_ms": 281565,
       "name": "Fruitcake - From \"Fruitcake\"",
       "url": "https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH"
+    },
+    {
+      "album": {
+        "name": "Gitna",
+        "url": "https://open.spotify.com/album/052lYoydf0M5IFm6I7dkn8"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282031,
+      "name": "Gitna",
+      "url": "https://open.spotify.com/track/673iq8PwHzUQCSlbCtzPcq"
     },
     {
       "album": {
@@ -630,7 +648,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 250093,
       "name": "Ikot",
       "url": "https://open.spotify.com/track/3u1zzx0i2JTAWID3QniB24"
@@ -670,6 +688,24 @@
       "duration_ms": 246522,
       "name": "Kaakit-akit",
       "url": "https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G"
+    },
+    {
+      "album": {
+        "name": "Kahit Saglit",
+        "url": "https://open.spotify.com/album/7rMoGXai8iHlLPxzyvAGW5"
+      },
+      "artists": [
+        {
+          "name": "Similar Sky",
+          "url": "https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213409,
+      "name": "Kahit Saglit",
+      "url": "https://open.spotify.com/track/7GtJ65ONCbbcDYizn9T4lE"
     },
     {
       "album": {
@@ -882,7 +918,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 314566,
       "name": "Limang Taon",
       "url": "https://open.spotify.com/track/7d4sWEXBTj6qShMbMWpEd3"
@@ -1092,7 +1128,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 221641,
       "name": "Misteryoso",
       "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
@@ -1140,6 +1176,24 @@
       "duration_ms": 270400,
       "name": "Museo",
       "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
+    },
+    {
+      "album": {
+        "name": "Naliligaw",
+        "url": "https://open.spotify.com/album/4UvTQn49HBc2Y2JWqRbhLn"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178250,
+      "name": "Naliligaw",
+      "url": "https://open.spotify.com/track/5NtXzPfin1HBrIp8gsCxnn"
     },
     {
       "album": {
@@ -1342,7 +1396,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 222857,
       "name": "Panaginip Ko",
       "url": "https://open.spotify.com/track/1xZwIbyfN6WXouzprW4CqR"
@@ -1584,7 +1638,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 230218,
       "name": "Salamin, Salamin",
       "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
@@ -1722,7 +1776,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 281707,
       "name": "Sikulo",
       "url": "https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv"
@@ -2120,7 +2174,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 268085,
       "name": "Yakap",
       "url": "https://open.spotify.com/track/6dlW7m78wKau9ZRqPLAUJA"
@@ -2164,6 +2218,24 @@
       "duration_ms": 225453,
       "name": "Your Universe - GG Official Soundtrack",
       "url": "https://open.spotify.com/track/2jfU598QxlKwKwTaiPZhzp"
+    },
+    {
+      "album": {
+        "name": "Room",
+        "url": "https://open.spotify.com/album/2JPO2CrZXbL0LR92Z91KUt"
+      },
+      "artists": [
+        {
+          "name": "Stell",
+          "url": "https://open.spotify.com/artist/4bpUKZGsImgabgDABbThr0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258359,
+      "name": "\u2018Di Ko Masabi",
+      "url": "https://open.spotify.com/track/3JEE0hhTI6u9CEZCZWalKe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSVQreDCvFMf"

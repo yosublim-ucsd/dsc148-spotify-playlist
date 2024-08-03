@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 
 ### [This Is Mr\. Big](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qhOHj)
 
-> This Is Mr\. Big\. Los temas esenciales, todos en una lista.
+> This is Mr\. Big\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,600 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,607 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 21 | [Alive and Kickin' \- 2010 Remastered Version](https://open.spotify.com/track/6pA0ZXLhjIVeo6rDQIHzHm) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 5:29 |
 | 22 | [Sunday Morning Kinda Girl](https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:16 |
 | 23 | [Seven Impossible Days \- Live at Koseinenkin Hall, Tokyo, October 29, 1993](https://open.spotify.com/track/2jw4ehHRuwjNiD7fF6U05P) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Big, Bigger, Biggest! The Best Of Mr\. Big](https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc) | 2:37 |
-| 24 | [Arrow](https://open.spotify.com/track/6GvfNtsfika3NY9dJeJ8WI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:42 |
-| 25 | [The Whole World's Gonna Know \- 2009 Remastered Version](https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:52 |
+| 24 | [The Whole World's Gonna Know \- 2009 Remastered Version](https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:52 |
+| 25 | [Arrow](https://open.spotify.com/track/6GvfNtsfika3NY9dJeJ8WI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:42 |
 | 26 | [Who We Are](https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:52 |
-| 27 | [If That's What It Takes](https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:48 |
-| 28 | [Just Take My Heart \[Acoustic\] \- 2021 Remastered](https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:49 |
+| 27 | [Just Take My Heart \[Acoustic\] \- 2021 Remastered](https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:49 |
+| 28 | [If That's What It Takes](https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:48 |
 | 29 | [Anything For You \- 2009 Remastered Version](https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:38 |
 | 30 | [As Good As It Gets](https://open.spotify.com/track/17AdKvkNwCHuSPmTn6l4aA) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:11 |
 | 31 | [CDFF\-Lucky This Time \- 2010 Remastered Version](https://open.spotify.com/track/0HVMgdDyhr4pwNqrVh1TWB) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:13 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 51 | [A Little Too Loose \- 2010 Remastered Version](https://open.spotify.com/track/59VVs4joFeFmciCU9psuBE) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 5:20 |
 | 52 | [Lost In America](https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 4:52 |
 
-Snapshot ID: `Zql+gAAAAAD5ceHNFGGuzGI5TUs0uMb1`
+Snapshot ID: `ZqrQAAAAAAAOb/aEc9RNJer+W3urq4IQ`

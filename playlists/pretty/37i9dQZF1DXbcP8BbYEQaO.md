@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,172 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,432 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Overglow \- Jade's Version](https://open.spotify.com/track/7GaiFXhUML7c5n6dSpCQme) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow \- Jade's Version](https://open.spotify.com/album/1SaS2ssPPvz59jfrn7vx2e) | 3:12 |
 | 2 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 |
-| 3 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
-| 4 | [Taste for Blood](https://open.spotify.com/track/41ltW0Hdn3S0PehBaTz7Rw) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Taste for Blood](https://open.spotify.com/album/17fd6rhrdDDZCx2TB4pdCD) | 3:06 |
-| 5 | [Ponytail](https://open.spotify.com/track/4y2KeXbvKEjalxsElqq9Ze) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Ponytail](https://open.spotify.com/album/3og4eBQKRVoMIPJAArPD4X) | 3:39 |
-| 6 | [Kissing In the Cold](https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Kissing In the Cold](https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA) | 3:54 |
-| 7 | [Kiss Me](https://open.spotify.com/track/2UYNxBhod7KpjKEFlmHm2b) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kiss Me](https://open.spotify.com/album/1RLqpCyfOigWVl2ufmXNGP) | 3:55 |
-| 8 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
-| 9 | [I Wanna Be Loved \(Just A Little Better\)](https://open.spotify.com/track/1KwZQmJ03PN3hye7NF4iiA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [I Wanna Be Loved \(Just A Little Better\)](https://open.spotify.com/album/57QKPE7R7BYQ29aX0npMIg) | 3:08 |
-| 10 | [Up At Night](https://open.spotify.com/track/6azR5gSOWDFB6pDVYMndYv) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/0aNGi98a44M6mUInTYCSPF) | 2:42 |
-| 11 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
-| 12 | [Nothing Compares 2 U](https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Nothing Compares 2 U](https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb) | 4:13 |
-| 13 | [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 |
-| 14 | [Stuff I Don't Need](https://open.spotify.com/track/58nQiapDkRiWzqncAAhUYq) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Stuff I Don't Need](https://open.spotify.com/album/2zpoawbfmqKewTBC9KYRYe) | 2:54 |
-| 15 | [The Reaper](https://open.spotify.com/track/4B8N1c0C7nbC8bx9Ji6DyO) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Reaper](https://open.spotify.com/album/3frmBizhbh3gg79cqmwIpV) | 2:40 |
-| 16 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 |
-| 17 | [Everything She Wants](https://open.spotify.com/track/1akuYztpg4VfZT8Lg4N1w9) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Tunes For Late Spring](https://open.spotify.com/album/0iNFxICphzHpMqus7PiS0U) | 4:02 |
-| 18 | [Bourgeoisieses](https://open.spotify.com/track/056bKm6W5j9QodOftRznUV) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:31 |
-| 19 | [Stand Back](https://open.spotify.com/track/3MZexS7gY85ivYKaW6Lahf) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Stand Back](https://open.spotify.com/album/4WISihDJet0G4fl0mekEzI) | 4:33 |
+| 3 | [Labyrinth](https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Labyrinth](https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy) | 3:08 |
+| 4 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
+| 5 | [Taste for Blood](https://open.spotify.com/track/41ltW0Hdn3S0PehBaTz7Rw) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Taste for Blood](https://open.spotify.com/album/17fd6rhrdDDZCx2TB4pdCD) | 3:06 |
+| 6 | [Ponytail](https://open.spotify.com/track/4y2KeXbvKEjalxsElqq9Ze) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Ponytail](https://open.spotify.com/album/3og4eBQKRVoMIPJAArPD4X) | 3:39 |
+| 7 | [Kissing In the Cold](https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Kissing In the Cold](https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA) | 3:54 |
+| 8 | [Kiss Me](https://open.spotify.com/track/2UYNxBhod7KpjKEFlmHm2b) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kiss Me](https://open.spotify.com/album/1RLqpCyfOigWVl2ufmXNGP) | 3:55 |
+| 9 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
+| 10 | [I Wanna Be Loved \(Just A Little Better\)](https://open.spotify.com/track/1KwZQmJ03PN3hye7NF4iiA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [I Wanna Be Loved \(Just A Little Better\)](https://open.spotify.com/album/57QKPE7R7BYQ29aX0npMIg) | 3:08 |
+| 11 | [Up At Night](https://open.spotify.com/track/6azR5gSOWDFB6pDVYMndYv) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/0aNGi98a44M6mUInTYCSPF) | 2:42 |
+| 12 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
+| 13 | [Nothing Compares 2 U](https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Nothing Compares 2 U](https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb) | 4:13 |
+| 14 | [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 |
+| 15 | [Stuff I Don't Need](https://open.spotify.com/track/58nQiapDkRiWzqncAAhUYq) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Stuff I Don't Need](https://open.spotify.com/album/2zpoawbfmqKewTBC9KYRYe) | 2:54 |
+| 16 | [The Reaper](https://open.spotify.com/track/4B8N1c0C7nbC8bx9Ji6DyO) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Reaper](https://open.spotify.com/album/3frmBizhbh3gg79cqmwIpV) | 2:40 |
+| 17 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 |
+| 18 | [Everything She Wants](https://open.spotify.com/track/1akuYztpg4VfZT8Lg4N1w9) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Tunes For Late Spring](https://open.spotify.com/album/0iNFxICphzHpMqus7PiS0U) | 4:02 |
+| 19 | [Bourgeoisieses](https://open.spotify.com/track/056bKm6W5j9QodOftRznUV) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:31 |
 | 20 | [Smalltown Boy](https://open.spotify.com/track/0FrCX7P2C2hcRTcuhjEvK4) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age Of Consent](https://open.spotify.com/album/7sJwidjwY9gt44I1AioyKm) | 5:03 |
 | 21 | [Shut Up And Dance](https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Shut Up And Dance](https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G) | 2:57 |
 | 22 | [Twisted](https://open.spotify.com/track/6DQpObWUkXqPF1HpzaD750) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Twisted](https://open.spotify.com/album/5mDgmqn3lIxFvdsa9aJVVm) | 5:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 79 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
 | 80 | [Treat Me Right](https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/03hafzXxELqD67fD1siVhS) | 3:08 |
 
-Snapshot ID: `ZqoeRgAAAAAJpoT+YDRPO//2C189DDAy`
+Snapshot ID: `ZqxZwAAAAACcwDnuGWi+cjI5UB8MpQsx`

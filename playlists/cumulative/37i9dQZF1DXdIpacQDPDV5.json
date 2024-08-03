@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Tommy Genesis & Austin Millz",
+  "description": "The best of today's dance hits. Cover: BLOND:ISH",
   "name": "mint Canada",
   "tracks": [
     {
@@ -204,6 +204,36 @@
       "duration_ms": 153138,
       "name": "40 Days & 40 Nights (feat. Olivia Sebastianelli)",
       "url": "https://open.spotify.com/track/6jV1ordhBJJeEjCW04XJCx"
+    },
+    {
+      "album": {
+        "name": "4EVR",
+        "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
+      },
+      "artists": [
+        {
+          "name": "ISOKNOCK",
+          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "4EVR",
+      "url": "https://open.spotify.com/track/2A3eCsmsW5ztqItagBLCVP"
     },
     {
       "album": {
@@ -2106,7 +2136,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
@@ -7761,6 +7791,28 @@
     },
     {
       "album": {
+        "name": "Feel Your Love",
+        "url": "https://open.spotify.com/album/7x2MzLbEtRrQZ8qfbfaeMR"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Digital Youth",
+          "url": "https://open.spotify.com/artist/1WQ3wjjb2E0bkwwnt2310s"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246093,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/4DnB00FZV87InpyIip2sN6"
+    },
+    {
+      "album": {
         "name": "feeling",
         "url": "https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W"
       },
@@ -9481,6 +9533,28 @@
     },
     {
       "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
         "name": "Gyrate (ft. Wreckno)",
         "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
       },
@@ -11024,7 +11098,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 169614,
       "name": "How You Move - Edit",
       "url": "https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x"
@@ -12648,7 +12722,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 227200,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/6lAYlIYhPgHw6cXkxAmiJg"
@@ -12666,7 +12740,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 145846,
       "name": "it boy",
       "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
@@ -13640,6 +13714,24 @@
       "duration_ms": 185853,
       "name": "Lasting Luv",
       "url": "https://open.spotify.com/track/36iYdxDLgTk96AasxJaUXv"
+    },
+    {
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249560,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
     },
     {
       "album": {
@@ -14656,7 +14748,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 168750,
       "name": "LOOKING FOR JOY",
       "url": "https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu"
@@ -16736,7 +16828,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 236098,
       "name": "Music is Better",
       "url": "https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw"
@@ -17230,6 +17322,28 @@
       "duration_ms": 169057,
       "name": "never thought it'd be over",
       "url": "https://open.spotify.com/track/6olWEI7Q14CZxU6bezFU2Z"
+    },
+    {
+      "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188360,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
     },
     {
       "album": {
@@ -17902,6 +18016,28 @@
       "duration_ms": 228407,
       "name": "O Retha",
       "url": "https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW"
+    },
+    {
+      "album": {
+        "name": "Obsessed (Grimes DJ Edit)",
+        "url": "https://open.spotify.com/album/6mVmPcTGpmdk1Gtu7qPtaT"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247619,
+      "name": "Obsessed (Grimes DJ Edit)",
+      "url": "https://open.spotify.com/track/3e5zzhT10KW2fRWNmJwBvD"
     },
     {
       "album": {
@@ -25230,7 +25366,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 234312,
       "name": "The Cure (feat. Chloe Paige)",
       "url": "https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc"
@@ -25656,6 +25792,28 @@
       "duration_ms": 381639,
       "name": "The Parallel",
       "url": "https://open.spotify.com/track/3S6ERTq20ccTF2Sr5xNsfI"
+    },
+    {
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197322,
+      "name": "THE REASON (feat. John Newman)",
+      "url": "https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o"
     },
     {
       "album": {
@@ -27185,6 +27343,24 @@
     },
     {
       "album": {
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/1XTC9tnCxGb2iMX2rdr1Pc"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238027,
+      "name": "Volume",
+      "url": "https://open.spotify.com/track/3FTjdr8D814YDBWxsD1V54"
+    },
+    {
+      "album": {
         "name": "Von dutch",
         "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
       },
@@ -27866,7 +28042,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 525000,
       "name": "Wet",
       "url": "https://open.spotify.com/track/5zrAR15AflURH6qd9QhLra"

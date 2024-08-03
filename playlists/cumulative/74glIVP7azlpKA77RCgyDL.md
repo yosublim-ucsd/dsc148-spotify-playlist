@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Jerry Cantrell
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Better Lovers
 
-752 songs - 1 day 23 hr 30 min
+758 songs - 1 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 | 2023-02-03 | 2024-02-03 |
 | [A Love Letter](https://open.spotify.com/track/00tjbl5vqZ1STRSkj0PJ6R) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [A Love Letter](https://open.spotify.com/album/0I8Yv6gRPKHeRZzBIB2mXf) | 5:47 | 2022-06-10 | 2023-07-15 |
 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 | 2022-04-08 | 2023-07-15 |
+| [A White Horse Covered In Blood](https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [A White Horse Covered In Blood](https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY) | 3:18 | 2024-08-02 |  |
 | [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 |  |
 | [A6 \- Meteora\|20 Demo](https://open.spotify.com/track/6xOULyOGGvUDqSNgi73CRe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:54 | 2023-04-07 | 2024-02-03 |
 | [Acid Black Mass](https://open.spotify.com/track/03kl2tU3JM4MOqpyYjm3xF) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Acid Black Mass](https://open.spotify.com/album/5KUi9nDTrL8nLH3xoE413z) | 4:23 | 2022-03-11 | 2023-07-15 |
@@ -184,6 +185,7 @@
 | [Drag Me Down](https://open.spotify.com/track/7wKMu791rHrzACbWJsWUBF) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Krewe D'Amour, Vol II](https://open.spotify.com/album/0OwiJiLrtRsf99XRl2atFA) | 4:32 | 2022-02-11 | 2023-07-15 |
 | [Dragon](https://open.spotify.com/track/52qhXwLTCCCkwUTlQYxNRR) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Dragon](https://open.spotify.com/album/4MUC8QXONbx7lkgp6MO3f5) | 9:44 | 2023-06-09 | 2024-02-03 |
 | [Dreamkiller](https://open.spotify.com/track/5z0Y6jwTDwH6YbhH0DLWRR) | [Sumerlands](https://open.spotify.com/artist/5rASExwQQilVMuKmaOV2eW) | [Dreamkiller](https://open.spotify.com/album/7p3f8b0cCBnrHmP7VpGZgw) | 5:11 | 2022-07-22 | 2023-07-15 |
+| [Dreamless Error](https://open.spotify.com/track/6A0SzjxLOVvYkOfcOmgqEa) | [Collapsed Skull](https://open.spotify.com/artist/4U7G6juzid1EvmQDCSehhM), [Brody King](https://open.spotify.com/artist/00kwyTyFLJgTFcT4o5jaA4) | [Dreamless Error](https://open.spotify.com/album/6Gz6dpMOlMJkxk44VB4zsx) | 1:15 | 2024-08-02 |  |
 | [Drift](https://open.spotify.com/track/5ErepV2f7SUReTdqOzG0Qk) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [Drift](https://open.spotify.com/album/2jMchpUyuxd5Px65MxKeZT) | 4:05 | 2023-07-28 | 2024-02-03 |
 | [Driponomics](https://open.spotify.com/track/7yRrhhWwU9tOYYVKHiHpZD) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Mother Maryrose](https://open.spotify.com/artist/2nCvXCwODRmVexITlXalio) | [Driponomics](https://open.spotify.com/album/1H60jal6uXilRIsgZDwhJM) | 2:49 | 2022-03-04 | 2023-07-15 |
 | [DSM\-V](https://open.spotify.com/track/31JoCS9r2IzGp13ENm3Cvd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 4:23 | 2023-12-08 | 2024-02-03 |
@@ -303,6 +305,7 @@
 | [Hologram](https://open.spotify.com/track/53rJNKpgW6d7G7EJENCffP) | [Venera](https://open.spotify.com/artist/7d7z7BjNTjkZdFN29WqfL2), [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb) | [Hologram](https://open.spotify.com/album/1LIuXxps9vPNKc4Pcws75I) | 3:32 | 2023-08-18 | 2024-02-03 |
 | [Honed Blade](https://open.spotify.com/track/5cLTEtlFjIhQynuwfngPwp) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Honed Blade](https://open.spotify.com/album/12U9KgMnYLJHd1UkZzdOJN) | 1:40 | 2023-02-24 | 2024-02-03 |
 | [Hostage](https://open.spotify.com/track/7qHbY5PvQVGYRiQKE2Qojx) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Hostage](https://open.spotify.com/album/31ABP3oxNXYvlIGdnzxf36) | 4:39 | 2024-07-26 |  |
+| [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr) | 4:21 | 2024-08-02 |  |
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-07-29 | 2023-07-15 |
 | [Human](https://open.spotify.com/track/042GkzRN9bEVHPUqLqk5vi) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Human](https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb) | 3:44 | 2024-06-21 |  |
 | [Human Condition Above Human Opinion](https://open.spotify.com/track/1cmk1UlPbRIyrIThQudaLa) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Human Condition Above Human Opinion](https://open.spotify.com/album/7s4krYYgyLUIl6m4lxWI3t) | 2:39 | 2022-05-06 | 2023-07-15 |
@@ -336,6 +339,7 @@
 | [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-08-04 | 2024-02-03 |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 | 2023-07-15 |
 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-08-25 | 2024-02-03 |
+| [Jawbreaker](https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Jawbreaker](https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd) | 2:09 | 2024-08-02 |  |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-13 | 2024-02-03 |
 | [Jesus is God](https://open.spotify.com/track/2CnfignhSXZI0gLCxASRlv) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [Jesus is God](https://open.spotify.com/album/3oaYa6fAwAcCOKtk2f8Sj9) | 2:03 | 2022-12-16 | 2023-07-15 |
 | [Jesus Wept](https://open.spotify.com/track/7GVFOmpSPzqqKWgOQvFwd1) | [Apex Predator](https://open.spotify.com/artist/53qLVEhC45AQjy3ThTRmlW) | [Jesus Wept](https://open.spotify.com/album/7yo0JKIvSz1GBozApXNs4J) | 2:16 | 2023-12-15 | 2024-02-03 |
@@ -543,6 +547,7 @@
 | [Shine](https://open.spotify.com/track/5tugLgpnElGexPQ81JkFcu) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Shine](https://open.spotify.com/album/7pYrK9tSuaE8uDEz3CR04p) | 6:31 | 2023-08-18 | 2024-02-03 |
 | [Shot Down](https://open.spotify.com/track/6rvlbf5Rle9exopdtBY3cL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB) | 1:49 | 2023-03-03 | 2024-02-03 |
 | [Shroud of Gnarled Tongues](https://open.spotify.com/track/2VQEOgF0v5eNcvmKsX89pA) | [Serration](https://open.spotify.com/artist/5y0AgqzUHo3RjOYVCTmyRD) | [Shroud of Gnarled Tongues](https://open.spotify.com/album/3WIsfcmJPmhu4ovDl4MLzD) | 1:46 | 2023-07-28 | 2024-02-03 |
+| [Sicarus](https://open.spotify.com/track/0LhOyuMZBY5GSlMVElIA3k) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 4:15 | 2024-08-02 |  |
 | [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-03 |  |
 | [Siege Warfare](https://open.spotify.com/track/6dfqQ2QZgTXEPbABSmuNpg) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Siege Warfare](https://open.spotify.com/album/3DTP3aMHIYQjsKV3om1lXl) | 3:32 | 2022-09-30 | 2023-07-15 |
 | [Silana](https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Errors](https://open.spotify.com/album/3fCRAPxbNpZP9qzDXiblCI) | 3:00 | 2023-10-06 | 2024-02-03 |
@@ -561,6 +566,7 @@
 | [Social Grace](https://open.spotify.com/track/7aOPJzvWO4RrUOpEemI15I) | [BRAT](https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF) | [Social Grace](https://open.spotify.com/album/6T0UIDL3VPU5byHMcV19jV) | 3:01 | 2023-10-20 | 2024-02-03 |
 | [Societal Bile](https://open.spotify.com/track/0caF9S71yIZl43EbGCn85u) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Societal Bile](https://open.spotify.com/album/6Huux7HHfhFuKtTAd1zL5v) | 3:00 | 2024-01-12 |  |
 | [Society of Spectres](https://open.spotify.com/track/1elp1yGhshhtbkCYLY7lQj) | [Grave Pleasures](https://open.spotify.com/artist/7Gbgr3pNct3IvdhQLO8wPU) | [Society of Spectres](https://open.spotify.com/album/1fAyzRm8MazuxTW1dE90Ui) | 4:10 | 2023-01-13 | 2024-02-03 |
+| [Someone's Daughter](https://open.spotify.com/track/2ZGrOclH0r6CFvlVGNVUlO) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Someone's Daughter](https://open.spotify.com/album/43QTCpdlaIKgAVnCmaA0hh) | 4:17 | 2024-08-02 |  |
 | [Something I'm Not](https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Something I'm Not](https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB) | 3:25 | 2024-05-24 |  |
 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 | 2023-11-17 | 2024-02-03 |
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 | 2023-07-15 |

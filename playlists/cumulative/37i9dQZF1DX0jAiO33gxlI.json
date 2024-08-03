@@ -1063,6 +1063,32 @@
     },
     {
       "album": {
+        "name": "Sankofa",
+        "url": "https://open.spotify.com/album/4EjAbxHIbLUFjGm74w9f6a"
+      },
+      "artists": [
+        {
+          "name": "Thiago Elni\u00f1o",
+          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
+        },
+        {
+          "name": "GOG",
+          "url": "https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e"
+        },
+        {
+          "name": "Renato Matos",
+          "url": "https://open.spotify.com/artist/0F0GzVvB2Rt8EfZkKiX9P9"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175933,
+      "name": "Andei, Andei!",
+      "url": "https://open.spotify.com/track/6hck9XPeNiWA3IoJIAM9mC"
+    },
+    {
+      "album": {
         "name": "Anjos E Ancestrais",
         "url": "https://open.spotify.com/album/7hIG0UDU2dWiObYml5ZNxz"
       },
@@ -4649,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "DissAposta",
+        "url": "https://open.spotify.com/album/4sSviVVd2CfJYjCanKzGOR"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187283,
+      "name": "DissAposta",
+      "url": "https://open.spotify.com/track/0826YXDvd2ZnTohSHsiGGB"
+    },
+    {
+      "album": {
         "name": "Dissconectados",
         "url": "https://open.spotify.com/album/0xUSeQaWPyxiaU6D7aiNzH"
       },
@@ -6095,6 +6139,24 @@
     },
     {
       "album": {
+        "name": "Flow Shakur",
+        "url": "https://open.spotify.com/album/6tNHYavWlwsGzTkyZA8QNJ"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204638,
+      "name": "Flow Shakur",
+      "url": "https://open.spotify.com/track/6WMDa7YXZWCqhMXAAT71N6"
+    },
+    {
+      "album": {
         "name": "FOCONOQUE\u00c9",
         "url": "https://open.spotify.com/album/06847imwV0V5MJiV7Ef8hZ"
       },
@@ -6706,6 +6768,28 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
+    },
+    {
+      "album": {
+        "name": "Gol",
+        "url": "https://open.spotify.com/album/40IBu1xoXmKlmrWU8dPvKJ"
+      },
+      "artists": [
+        {
+          "name": "Tito JV",
+          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
+        },
+        {
+          "name": "Dj Leopoldo",
+          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139775,
+      "name": "Gol",
+      "url": "https://open.spotify.com/track/3cpIcEX18CkeWr3A9De7n8"
     },
     {
       "album": {
@@ -8126,7 +8210,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 260487,
       "name": "Legalizou",
       "url": "https://open.spotify.com/track/43KndzCDO5I3uIijhdYFdP"
@@ -9230,7 +9314,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 168000,
       "name": "Melhor Momento, Pt. 2",
       "url": "https://open.spotify.com/track/6mvFYL3LZ1XjS6daT9Hjdi"
@@ -10098,7 +10182,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 168946,
       "name": "NADA ME PARA",
       "url": "https://open.spotify.com/track/25gS7sSYVIuIdTTd9rsMog"
@@ -13024,7 +13108,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 117600,
       "name": "Preta em Movimento",
       "url": "https://open.spotify.com/track/1vAxUjGyC7jEycSHYDDXyt"
@@ -13160,6 +13244,24 @@
       "duration_ms": 183450,
       "name": "PUXUTRIUH",
       "url": "https://open.spotify.com/track/6Omfxuqf0PIvpT4GXhL7cb"
+    },
+    {
+      "album": {
+        "name": "P\u00e1lido Ponto Azul",
+        "url": "https://open.spotify.com/album/6kphMjktmEsiP1Lqxn8qZ5"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372499,
+      "name": "P\u00e1lido Ponto Azul",
+      "url": "https://open.spotify.com/track/1s8w1cmbyBvcaZmyMk0tvW"
     },
     {
       "album": {
@@ -14309,6 +14411,28 @@
     },
     {
       "album": {
+        "name": "Se Perder \u00c9 Um Dois",
+        "url": "https://open.spotify.com/album/3d6NoJjYkxedIJSNhcUNp7"
+      },
+      "artists": [
+        {
+          "name": "Dow Raiz",
+          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180384,
+      "name": "Se Perder \u00c9 Um Dois",
+      "url": "https://open.spotify.com/track/6Y2DTeHzIZqJZG5G01A7su"
+    },
+    {
+      "album": {
         "name": "Se T\u00e1 Solteira (BADZILLA Remix)",
         "url": "https://open.spotify.com/album/7k5plhx0MWhaHKaKb910lU"
       },
@@ -14936,7 +15060,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 298772,
       "name": "SET HERvolution",
       "url": "https://open.spotify.com/track/5YRd54Pv9CzKINRKslW2Fy"
@@ -16506,7 +16630,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 284168,
       "name": "Trajet\u00f3ria de Gl\u00f3ria",
       "url": "https://open.spotify.com/track/6BVjFdR7BBsGQBwXK1xsG7"

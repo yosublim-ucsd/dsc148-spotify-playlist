@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,191 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,211 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 13 | [More Love \- Rampa &ME Remix](https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [More Love \(Rampa &ME Remix\)](https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC) | 6:11 |
 | 14 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 |
 | 15 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
-| 16 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
-| 17 | [Concorde](https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Concorde](https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK) | 3:56 |
+| 16 | [Concorde](https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Concorde](https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK) | 3:56 |
+| 17 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 18 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(George Daniel & Charli XCX Remix\)](https://open.spotify.com/album/59dB0tQKHfwA837bRXuId4) | 3:22 |
 | 19 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 |
 | 20 | [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 |

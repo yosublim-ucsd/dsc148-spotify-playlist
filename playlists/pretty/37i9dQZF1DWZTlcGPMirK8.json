@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 68707,
+  "num_followers": 68708,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "The Secret Life Of...",
+        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 228000,
       "name": "High ft. Nicole Millar",
       "url": "https://open.spotify.com/track/74ciVAMC3GuSkEVTLIIqBS"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "The Secret Life Of...",
-        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Live By The Words",
+        "url": "https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq"
+      },
+      "artists": [
+        {
+          "name": "Justice Crew",
+          "url": "https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Whispering Jack",
         "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 201773,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Live By The Words",
-        "url": "https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq"
-      },
-      "artists": [
-        {
-          "name": "Justice Crew",
-          "url": "https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Innocent Eyes",
-        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
+        "name": "Watching Angels Mend",
+        "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
       },
       "artists": [
         {
-          "name": "Delta Goodrem",
-          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+          "name": "Alex Lloyd",
+          "url": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
         }
       ],
-      "duration_ms": 251280,
-      "name": "Born to Try",
-      "url": "https://open.spotify.com/track/2iWyrSHvs6qhFzfpiLAK0z"
+      "duration_ms": 203213,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
     }
   ],
   "unique_name": "Aussie Pop Classics",

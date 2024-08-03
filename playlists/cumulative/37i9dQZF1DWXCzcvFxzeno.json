@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-11",
-  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry",
+  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Indira Paganotto",
   "name": "Hard Techno",
   "tracks": [
     {
@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "DONGRHYTHM",
+        "url": "https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146867,
+      "name": "Let's go",
+      "url": "https://open.spotify.com/track/64o22Tm6YLaHqEwXbWYqZp"
+    },
+    {
+      "album": {
         "name": "Levada",
         "url": "https://open.spotify.com/album/79rTwf4jIYHIRhLmat4q7Y"
       },
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 370519,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/0rCCdYPJO7N2vYWQihflBh"
@@ -1956,6 +1974,28 @@
       "duration_ms": 326197,
       "name": "Posh & Scary",
       "url": "https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259023,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
     },
     {
       "album": {
@@ -2184,7 +2224,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 353022,
       "name": "Rock & Roll And More Techno",
       "url": "https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf"

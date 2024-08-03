@@ -4,7 +4,7 @@
 
 > Hits con sabor\. Cover: KAROL G
 
-328 songs - 21 hr 4 min
+329 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Insensatez](https://open.spotify.com/track/2YROs8P1p8hMpWcpxxdJ8A) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Insensatez](https://open.spotify.com/album/47ocRQzs2mzWlpLN8FUQEs) | 3:40 | 2022-02-14 | 2022-07-29 |
 | [Jugaste a Perderme \- Versión Salsa](https://open.spotify.com/track/3bHlMbwYuPG2Hvw5LnceSI) | [R.K.M.](https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu), [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q), [Peter Nieto](https://open.spotify.com/artist/3awr6bI2IAMghTMbzv4Pi6) | [Jugaste a Perderme \(Versión Salsa\)](https://open.spotify.com/album/2c4FBeiL5Mzh3ieoV0H5dj) | 4:02 | 2022-02-14 | 2022-07-28 |
 | [Kitipun](https://open.spotify.com/track/04elniHFWwwFHxi3SZlGI6) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Kitipun](https://open.spotify.com/album/7Hp43M9ZedO6dhIOa3O3fN) | 3:36 | 2021-12-03 | 2024-05-22 |
+| [Kruela](https://open.spotify.com/track/6CdC51KG7NyeL77OSIYT3e) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP) | [Kruela](https://open.spotify.com/album/5KCs98xl6Gn8ZRnhfID3rN) | 4:07 | 2024-08-02 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-05-27 |  |
 | [La Bendición](https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:14 | 2022-02-14 | 2024-02-17 |
 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 | 2023-12-07 |  |

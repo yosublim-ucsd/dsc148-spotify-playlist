@@ -1,12 +1,12 @@
 {
-  "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 143266,
+  "description": "This is MC Cabelinho. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 143322,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABHT8ThiOi27CYORk0xCz+V",
+  "snapshot_id": "ZqrQAAAAAACWU4bp4usHdVatzQu4I4f7",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 262258,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica #6 Era uma Vez",
         "url": "https://open.spotify.com/album/4gQwNkMPadHDhe8yFfJbca"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 577819,
       "name": "Poesia Ac\u00fastica #6 Era uma Vez",
       "url": "https://open.spotify.com/track/6ZnVSNNryDmF0w1j73Fndd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 262258,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
     },
     {
       "added_at": null,
@@ -255,6 +255,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paz Terr\u00edvel",
+        "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "De Marola",
+      "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -271,30 +299,6 @@
       "duration_ms": 188852,
       "name": "X1",
       "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00c9 SEGREDO",
-        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Bairro 13",
-          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
-        }
-      ],
-      "duration_ms": 155771,
-      "name": "N\u00c9 SEGREDO",
-      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
     },
     {
       "added_at": null,
@@ -327,6 +331,30 @@
       "duration_ms": 226784,
       "name": "INTEN\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00c9 SEGREDO",
+        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Bairro 13",
+          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
+        }
+      ],
+      "duration_ms": 155771,
+      "name": "N\u00c9 SEGREDO",
+      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
     },
     {
       "added_at": null,
@@ -387,6 +415,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Cyclope Beatz",
+          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
+        },
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 181767,
+      "name": "FOGO E GASOLINA",
+      "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica 15",
         "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
       },
@@ -439,34 +495,6 @@
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Cyclope Beatz",
-          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
-        },
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 181767,
-      "name": "FOGO E GASOLINA",
-      "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
     },
     {
       "added_at": null,
@@ -559,6 +587,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 154694,
+      "name": "MINHA CURA",
+      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quebradas",
         "url": "https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH"
       },
@@ -583,30 +635,6 @@
       "duration_ms": 250588,
       "name": "Quebradas",
       "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 154694,
-      "name": "MINHA CURA",
-      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
     },
     {
       "added_at": null,
@@ -1283,26 +1311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vetin",
-        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
-      },
-      "artists": [
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 202451,
-      "name": "Sem Compaix\u00e3o",
-      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
       },
@@ -1327,6 +1335,26 @@
       "duration_ms": 247701,
       "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
       "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vetin",
+        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 202451,
+      "name": "Sem Compaix\u00e3o",
+      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
     },
     {
       "added_at": null,
@@ -1463,50 +1491,6 @@
       "duration_ms": 229830,
       "name": "Pesad\u00e3o",
       "url": "https://open.spotify.com/track/5X4PNc9g7KIQSRk4crioOO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dia de Opera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2of77xllwOV4R21J3v4t20"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "A.R",
-          "url": "https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc"
-        },
-        {
-          "name": "Amorim",
-          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
-        },
-        {
-          "name": "Brutos",
-          "url": "https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6"
-        },
-        {
-          "name": "Vinicin",
-          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5M5Fa00P9Ur9hh3MnqHUQC"
-        },
-        {
-          "name": "MANO R7",
-          "url": "https://open.spotify.com/artist/6RruMIOL9mfFjnNfZfsXhB"
-        }
-      ],
-      "duration_ms": 232014,
-      "name": "Dia de Opera\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0g3giA9of1DgXUYjqrNhgQ"
     }
   ],
   "unique_name": "This Is MC Cabelinho",

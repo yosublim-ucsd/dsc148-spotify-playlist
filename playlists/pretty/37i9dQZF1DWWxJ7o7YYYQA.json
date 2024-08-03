@@ -1,6 +1,6 @@
 {
   "description": "Celebrate SAHM with a vibrant playlist by The Juggernaut, dedicated to powerful South Asian women. Cover: Joy Crookes",
-  "num_followers": 388,
+  "num_followers": 390,
   "original_name": "Spotlight: The Juggernaut",
   "owner": {
     "name": "Spotify",
@@ -487,17 +487,25 @@
     {
       "added_at": "2024-07-19 04:21:50",
       "album": {
-        "name": "Pushpa - The Rise",
+        "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
       },
       "artists": [
         {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
           "name": "Indravathi Chauhan",
           "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
       "duration_ms": 223325,
-      "name": "Oo Antava Oo Oo Antava",
+      "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
     },
     {

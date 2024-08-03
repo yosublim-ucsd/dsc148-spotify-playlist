@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-96 songs - 8 hr 1 min
+97 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,11 @@
 | [Aku Ikhlas](https://open.spotify.com/track/1dZjGhHlaCFHQuSIQrRxJv) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Aku Ikhlas](https://open.spotify.com/album/2jYDJuEDD143eZxnYzL1Q5) | 4:38 | 2021-09-08 |  |
 | [Aku Sing Lungo](https://open.spotify.com/track/2xk7P9Y2bzsCblzrXnOkBa) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Aku Sing Lungo](https://open.spotify.com/album/2yTxYLV1Z4QMZYjEX6ctHO) | 5:56 | 2024-04-04 |  |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2021-09-08 |  |
-| [Apa Kabar Mantan](https://open.spotify.com/track/36hZ4BvcFwJqpmQDO2vFq0) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Apa Kabar Mantan](https://open.spotify.com/album/1tuqgVSI8gcoUb4fCsqLn1) | 4:06 | 2024-08-01 |  |
+| [Apa Kabar Mantan](https://open.spotify.com/track/36hZ4BvcFwJqpmQDO2vFq0) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Apa Kabar Mantan](https://open.spotify.com/album/1tuqgVSI8gcoUb4fCsqLn1) | 4:06 | 2024-08-01 | 2024-08-03 |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-09-08 | 2023-02-04 |
 | [Banyu Langit](https://open.spotify.com/track/5hqpDFoA8j4T3MkXEd4UNk) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Banyu Langit](https://open.spotify.com/album/200eVqfp0zNFdQMbmPaRZQ) | 4:53 | 2021-09-08 |  |
 | [Bubrah](https://open.spotify.com/track/25RJ8ELZpDxxqYewIesAXY) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/5Nkut8ikqRpSbTAplNoMat) | 5:46 | 2024-01-11 |  |
-| [Bubrah](https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0) | 5:46 | 2023-08-09 |  |
+| [Bubrah](https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0) | 5:46 | 2023-08-09 | 2024-08-03 |
 | [Cerito Loro](https://open.spotify.com/track/57egBaCTBOuAs7ErKxyYjN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/46KkX8tvr0ANum32q8SX8F) | 6:17 | 2021-09-08 | 2024-04-19 |
 | [Cerito Loro](https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k) | 6:17 | 2024-04-04 |  |
 | [Cidro 2](https://open.spotify.com/track/17yog0bsFVvumvOuux03wM) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Cidro 2](https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA) | 4:02 | 2021-09-08 |  |
@@ -35,6 +35,7 @@
 | [Gak Pernah Cukup](https://open.spotify.com/track/3nmsic2kCWqzDTPHVLXVcn) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Gak Pernah Cukup](https://open.spotify.com/album/41Xs0KpcT1GoIZrWahujKJ) | 4:58 | 2021-09-08 |  |
 | [Gampil](https://open.spotify.com/track/6T03CN5UVnCGPz3muqvpOz) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Gampil](https://open.spotify.com/album/0UjiKUCJA3xHzSfhjlqqVk) | 4:51 | 2024-01-11 |  |
 | [Gede Roso](https://open.spotify.com/track/3WdcGNxJHzyjZdu6Y15E6G) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Gede Roso](https://open.spotify.com/album/5CnwfcvfEAJyAImoXTPJtu) | 3:53 | 2021-09-08 |  |
+| [HTS](https://open.spotify.com/track/04RtfxsXh0VDrEKfnvpXFI) | [Nayla Fardila](https://open.spotify.com/artist/3j0qZWmFuvRwN6OcG4m4Fh) | [HTS](https://open.spotify.com/album/1ZZMNuAJlEXBfcKL7kGOkl) | 4:43 | 2024-08-02 |  |
 | [Jajal Kowe Dadi Aku](https://open.spotify.com/track/0VSNH5XtyjQL8qCurq31Cf) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Jajal Kowe Dadi Aku](https://open.spotify.com/album/37qGCmUzMc4OH6sO15s4cM) | 3:52 | 2021-09-08 |  |
 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 | 2024-05-27 |  |
 | [Kalah](https://open.spotify.com/track/0KeuJeDhAHnD0nCgbym7vL) | [Shinta Arsinta](https://open.spotify.com/artist/1NrPlp7STfCyPAoJgc2ZJg), [Arya Galih](https://open.spotify.com/artist/0Wj9YjGnGFIrD6lyThCeZQ) | [Kalah](https://open.spotify.com/album/5BZM4S3KOuVxOr3cfehJaX) | 7:46 | 2024-04-04 |  |
@@ -99,7 +100,7 @@
 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 | 2021-09-08 |  |
 | [Tewas Tertimbun Masa Lalu \(TTM\)](https://open.spotify.com/track/1ohxeVZ0pg6PJThlvgUAVN) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 4:04 | 2024-05-27 |  |
 | [Tresno liyane](https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno liyane](https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE) | 4:50 | 2024-01-11 |  |
-| [Tresno Liyane](https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno Liyane](https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ) | 4:50 | 2023-03-31 |  |
+| [Tresno Liyane](https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno Liyane](https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ) | 4:50 | 2023-03-31 | 2024-08-03 |
 | [Tresnomu Ora Tenanan](https://open.spotify.com/track/5jrAalCzbIZ5q6BsYdXcNo) | [Arry Harmoko](https://open.spotify.com/artist/3EdYNfDh7k5d0sl4R7OXCf) | [Tresnomu Ora Tenanan](https://open.spotify.com/album/2Ce6hsEKnpg4yhaGeW8wmh) | 4:17 | 2024-04-04 |  |
 | [Wegah Pisah](https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Wegah Pisah](https://open.spotify.com/album/2BJBjYSdy3bqsvBn6mWlUl) | 5:46 | 2024-04-04 |  |
 | [Wirang](https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Wirang](https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc) | 4:54 | 2024-02-01 |  |

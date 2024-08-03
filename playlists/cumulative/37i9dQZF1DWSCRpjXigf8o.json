@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP"
+    },
+    {
+      "album": {
         "name": "Cubic Zirconia",
         "url": "https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT"
       },
@@ -3290,7 +3308,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 230533,
       "name": "Haven't You Ever Been In Love Before?",
       "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
@@ -6394,7 +6412,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 208517,
       "name": "Running",
       "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
@@ -7886,6 +7904,24 @@
       "duration_ms": 249733,
       "name": "There's No Mountain",
       "url": "https://open.spotify.com/track/4ynFaUX7qRKXhkXh0fFtPz"
+    },
+    {
+      "album": {
+        "name": "Thing I Desire",
+        "url": "https://open.spotify.com/album/3X175TeVLuIdBCfd61jSDm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231253,
+      "name": "Thing I Desire",
+      "url": "https://open.spotify.com/track/6xiR9KifftI2POJ091SlIw"
     },
     {
       "album": {

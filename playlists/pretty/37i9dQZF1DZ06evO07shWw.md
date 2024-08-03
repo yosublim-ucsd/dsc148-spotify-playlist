@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 
 ### [This Is Ingrid Andress](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07shWw)
 
-> This Is Ingrid Andress\. Los temas esenciales, todos en una lista.
+> This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,571 likes - 32 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,572 likes - 32 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 6 | [Waste of Lime](https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Waste of Lime](https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B) | 3:08 |
 | 7 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
 | 8 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
-| 9 | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 |
-| 10 | [Good As Gone](https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good As Gone](https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB) | 3:07 |
+| 9 | [Good As Gone](https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good As Gone](https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB) | 3:07 |
+| 10 | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 |
 | 11 | [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 |
 | 12 | [Any Day Now](https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 3:13 |
 | 13 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 31 | [Wish You Would](https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 4:18 |
 | 32 | [All The Love](https://open.spotify.com/track/6Ux1OziwTqAns38d7CfdWG) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:45 |
 
-Snapshot ID: `Zql+gAAAAABP4f+FDV39s8xoDdesLkRQ`
+Snapshot ID: `ZqrQAAAAAAD00wDweSp21ydZXeEjXNS+`

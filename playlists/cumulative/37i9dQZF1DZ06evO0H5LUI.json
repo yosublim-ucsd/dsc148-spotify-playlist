@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 134786,
       "name": "Chocolate Cake",
       "url": "https://open.spotify.com/track/1Gb8s9MrVlWv0OhQXqrhu3"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 170666,
       "name": "COMOSINADA",
       "url": "https://open.spotify.com/track/2v4RtwYOiTbvtQUueyU9Bz"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 130280,
       "name": "Embassy",
       "url": "https://open.spotify.com/track/0UFfGjyqll9cg23Kg689rd"
@@ -1190,6 +1190,36 @@
       "duration_ms": 195726,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ"
+    },
+    {
+      "album": {
+        "name": "Relajao (Remix)",
+        "url": "https://open.spotify.com/album/5JyoT7eO9b18qFm5qoMJz3"
+      },
+      "artists": [
+        {
+          "name": "Zaucy",
+          "url": "https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv"
+        },
+        {
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
+        },
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302868,
+      "name": "Relajao (Remix)",
+      "url": "https://open.spotify.com/track/55TiEVu9ycpq4tuA51MIoa"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 ### [This Is Banda Los Recoditos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rRImQ)
 
-> This is Banda Los Recoditos\. The essential tracks, all in one playlist.
+> This Is Banda Los Recoditos\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,961 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,981 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 7 | [Pistearé](https://open.spotify.com/track/0LCMFLgIISg4Mab1YL5shU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:24 |
 | 8 | [Mientras Tú Jugabas](https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:10 |
 | 9 | [En Resumen](https://open.spotify.com/track/7DbS4AzvjmJPeJP3Uwovs6) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 2:35 |
-| 10 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
-| 11 | [La Escuelita](https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:05 |
+| 10 | [La Escuelita](https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:05 |
+| 11 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
 | 12 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 |
 | 13 | [S Cool...ito](https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [S Cool...ito](https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1) | 2:28 |
 | 14 | [Hasta Que Salga El Sol](https://open.spotify.com/track/5jezNmDvHt6ecvWeMfwW0v) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:23 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 37 | [Una Noche Cualquiera](https://open.spotify.com/track/2szSSBPaBH6skMDz6IQxUW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:30 |
 | 38 | [Esta Va Por Ti](https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:20 |
 | 39 | [Vivir La Vida](https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 2:57 |
-| 40 | [Y ¿Qué Tiene?](https://open.spotify.com/track/6V0i3tXv6askzWc2BiPoKi) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Y ¿Qué Tiene?](https://open.spotify.com/album/4zYI2PJ7ptO9JMklxWdLVJ) | 2:52 |
+| 40 | [La Baraja](https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [La Baraja](https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR) | 2:55 |
 | 41 | [Ya No Vuelvo A Molestarte](https://open.spotify.com/track/01qhVZmKIqoL5Gj2SdWOmn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:00 |
-| 42 | [La Baraja](https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [La Baraja](https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR) | 2:55 |
+| 42 | [Y ¿Qué Tiene?](https://open.spotify.com/track/6V0i3tXv6askzWc2BiPoKi) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Y ¿Qué Tiene?](https://open.spotify.com/album/4zYI2PJ7ptO9JMklxWdLVJ) | 2:52 |
 | 43 | [Vas A Querer Volver](https://open.spotify.com/track/7dNvYibEFTGRvNi8hBzs4f) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vas A Querer Volver](https://open.spotify.com/album/2qWqD6MErYIzVs3Kby8Hlf) | 2:40 |
 | 44 | [Al Ver Que Te Vas](https://open.spotify.com/track/4JSZYFKUFdGSvsru6tuQOU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tu Abandono, Vol\. 4](https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz) | 3:05 |
 | 45 | [Ya No Tiene Caso](https://open.spotify.com/track/4NSisaKfhQhg14T4T088oW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 49 | [Arráncame La Vida](https://open.spotify.com/track/0ARvjCTMqNKUmfUJb2ABoM) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Arráncame La Vida](https://open.spotify.com/album/1jzozIch3Y7mGHgZP3Kjj5) | 2:33 |
 | 50 | [Volver A Volar](https://open.spotify.com/track/1UTax2cvw1ehp87jkxbCXF) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Banda La Ejecutiva](https://open.spotify.com/artist/1ROmrzMDt3ZdBSwtNGBaSy), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Emir Pabón](https://open.spotify.com/artist/2WLxRZFk4tyKg9CCp5m7lB), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn), [Grupo Sigma](https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [José Manuel Figueroa](https://open.spotify.com/artist/6eCPnXDJLqK9EKAjlxK5WF), [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Volver A Volar](https://open.spotify.com/album/5AcdviRjHFjsErdiU3RtWg) | 3:11 |
 
-Snapshot ID: `Zql+gAAAAACSAyXHE/YPpwq+TeYOGqve`
+Snapshot ID: `ZqrQAAAAAAAKLHuVcrO+HobUhuRcPmcz`

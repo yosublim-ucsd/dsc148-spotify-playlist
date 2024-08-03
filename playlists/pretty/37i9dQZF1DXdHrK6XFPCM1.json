@@ -1,6 +1,6 @@
 {
   "description": "Waktu Indonesia bagian mager dan dengar lagu-lagu enak.",
-  "num_followers": 361289,
+  "num_followers": 361273,
   "original_name": "Mager Parah",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-07-31 05:26:12",
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2024-07-31 05:26:12",
+      "album": {
         "name": "Meteora",
         "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
-    },
-    {
-      "added_at": "2024-07-31 05:26:12",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2024-07-31 05:26:12",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-31 05:26:12",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "happier",
-      "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl"
-    },
-    {
-      "added_at": "2024-07-31 05:26:12",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 244506,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
+    },
+    {
+      "added_at": "2024-07-31 05:26:12",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "happier",
+      "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl"
     },
     {
       "added_at": "2024-07-31 05:26:12",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-31 05:26:12",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2024-07-31 05:26:12",
-      "album": {
         "name": "Guitar Songs",
         "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2024-07-31 05:26:12",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2024-07-31 05:26:12",

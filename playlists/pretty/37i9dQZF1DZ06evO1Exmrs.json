@@ -1,12 +1,12 @@
 {
-  "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 270319,
+  "description": "This is Noah Kahan. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 270709,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABm3D6qRw8G8gbLeRPQHWlL",
+  "snapshot_id": "ZqrQAAAAAAC5GYrNtByS/0g0wEXlmojw",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
       },
       "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 213313,
-      "name": "Paul Revere",
-      "url": "https://open.spotify.com/track/1dHtMSJ1Ozg2Ja6GX4McAO"
+      "duration_ms": 203689,
+      "name": "Up All Night (with The Lumineers & Noah Kahan)",
+      "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
     },
     {
       "added_at": null,
@@ -299,26 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
       },
       "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        },
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 203689,
-      "name": "Up All Night (with The Lumineers & Noah Kahan)",
-      "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
+      "duration_ms": 213313,
+      "name": "Paul Revere",
+      "url": "https://open.spotify.com/track/1dHtMSJ1Ozg2Ja6GX4McAO"
     },
     {
       "added_at": null,

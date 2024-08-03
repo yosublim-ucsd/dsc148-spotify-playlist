@@ -4,7 +4,7 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 15 min
+86 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Dimensions](https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dimensions](https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM) | 3:52 | 2024-01-24 | 2024-07-18 |
 | [Dip](https://open.spotify.com/track/3PGf14hxHUHQR38Yqxd80m) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 4:21 | 2024-01-07 | 2024-01-09 |
 | [Dollar Stack](https://open.spotify.com/track/2KE6SIDlHjWBdKrnfZ3e9B) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dollar Stack](https://open.spotify.com/album/23jIIMZiOL1ajReCPEYvMe) | 2:31 | 2024-04-21 |  |
-| [Don't Stop](https://open.spotify.com/track/3SJNXg8LaOLTbIbSXofFcM) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 3:54 | 2024-01-03 |  |
+| [Don't Stop](https://open.spotify.com/track/3SJNXg8LaOLTbIbSXofFcM) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 3:54 | 2024-01-03 | 2024-08-03 |
 | [Drip](https://open.spotify.com/track/67fa0QW9YqkasFEzzDRf04) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 3:50 | 2024-01-27 | 2024-06-19 |
 | [Drunk](https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 4:03 | 2024-01-03 |  |
 | [Elise](https://open.spotify.com/track/7aoPqIaW8W1hwsiaSrNFks) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Elise](https://open.spotify.com/album/1l4tCggsaDZ8s0bjSymMz8) | 3:05 | 2024-01-03 |  |
@@ -49,6 +49,7 @@
 | [Higher](https://open.spotify.com/track/0Lz7iCYjituzyqrZardCyy) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Paradise](https://open.spotify.com/album/222D7CUNZUVg7QhXJa9MEl) | 3:50 | 2024-01-03 |  |
 | [Hollow](https://open.spotify.com/track/3LLalA2rYOcoRDrFgYf971) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Hollow](https://open.spotify.com/album/4rSYBJ5iW2boVHgqR2bm2V) | 4:27 | 2024-03-16 |  |
 | [I Got](https://open.spotify.com/track/4hrOYN8z9kfg4KTTbhvAIX) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dimensions](https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM) | 3:52 | 2024-01-03 |  |
+| [I Want Your Love](https://open.spotify.com/track/5gtBHjBPfN3x7XAhtmIsDP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Boss EP](https://open.spotify.com/album/3ntS4eh1rFf6YpmfwYyRQ6) | 3:52 | 2024-08-03 |  |
 | [I.T.F.](https://open.spotify.com/track/24mY4mnlCxyG7eiECUzSfQ) | [DirtyFun](https://open.spotify.com/artist/34COAQQm9sxxuIiNYyIClG), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [I.T.F.](https://open.spotify.com/album/12lYckaf6NkpInMraeArdz) | 4:46 | 2024-04-30 | 2024-05-17 |
 | [Issues](https://open.spotify.com/track/6PtSpfhNRiutpXoGeINIfn) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Alien](https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa) | 4:07 | 2024-01-03 | 2024-07-17 |
 | [Jack's House](https://open.spotify.com/track/2dr4JgwrPI9BVuuBsRzO5v) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Machine EP](https://open.spotify.com/album/3GphtxLMyfK9FDcxoh8c53) | 3:53 | 2024-01-03 | 2024-07-15 |

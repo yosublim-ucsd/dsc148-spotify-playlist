@@ -1,6 +1,6 @@
 {
   "description": "soundtrack those long, dark days with warm indie favourites",
-  "num_followers": 20805,
+  "num_followers": 20803,
   "original_name": "midwinter",
   "owner": {
     "name": "Spotify",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Three. Two. One.",
+        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 181160,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/45KIvymezcVSStboODBQWX"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "The Parting Glass",
         "url": "https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 251000,
       "name": "The Parting Glass",
       "url": "https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Three. Two. One.",
-        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 181160,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/45KIvymezcVSStboODBQWX"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Slack Jaw",
+      "url": "https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 186292,
       "name": "paper thin",
       "url": "https://open.spotify.com/track/4NevvmFYtCLxRvhAcNVhOB"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Slack Jaw",
-      "url": "https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 299733,
+      "name": "Buddy's Rendezvous",
+      "url": "https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 299733,
-      "name": "Buddy's Rendezvous",
-      "url": "https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5"
     },
     {
       "added_at": "2024-07-12 04:00:00",

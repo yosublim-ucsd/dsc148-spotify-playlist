@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > La banda de sonido de tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,822 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,829 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 8 | [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 |
 | 9 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
 | 10 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 |
-| 11 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
+| 11 | [Loco](https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 3:37 |
 | 12 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 |
 | 13 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
-| 14 | [Loco](https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 3:37 |
+| 14 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 15 | [La Kaguama](https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [La Kaguama](https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV) | 3:13 |
 | 16 | [Creo](https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 4:49 |
 | 17 | [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 62 | [El Tiempo No Para \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 5:21 |
 | 63 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 |
 | 64 | [Hablar de Flores](https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Hablar de Flores](https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7) | 3:09 |
-| 65 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
-| 66 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
+| 65 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
+| 66 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
 | 67 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 |
 | 68 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 |
 | 69 | [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 |

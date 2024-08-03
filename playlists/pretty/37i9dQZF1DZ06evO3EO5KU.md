@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 ### [This Is Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EO5KU)
 
-> This Is Los Plebes del Rancho de Ariel Camacho\. Los temas esenciales, todos en una lista.
+> This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,010 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,022 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 26 | [Dado A La Vida](https://open.spotify.com/track/2w71YxGnV0kmCv8gDLFznm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Dado A La Vida](https://open.spotify.com/album/5ln6P33V70X2v2l4tFW6Ex) | 2:47 |
 | 27 | [El Doble R \- En Vivo](https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Doble R \(En Vivo\)](https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv) | 2:24 |
 | 28 | [Buscabamos Lo Mismo](https://open.spotify.com/track/5idaKAt6CqMd3zucTHG4hP) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscabamos Lo Mismo](https://open.spotify.com/album/1U7Ysy02ORDvHGG1FVQoaU) | 2:49 |
-| 29 | [En Un Día Como Hoy](https://open.spotify.com/track/3G6PfDCnFqx6eM2Qzr8Plm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:21 |
+| 29 | [Tres Botellas](https://open.spotify.com/track/01UgSQkOsZH7fnBhgqjOaN) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:19 |
 | 30 | [Duren](https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Duren](https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx) | 3:10 |
 | 31 | [Luces, Cámara y Acción](https://open.spotify.com/track/2Olwh5dazDuJLNMPxAszab) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Luces, Cámara y Acción](https://open.spotify.com/album/5NfTz4lFMYJDEWISZVrs6U) | 2:59 |
 | 32 | [Vida Truncada](https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:37 |
-| 33 | [Tres Botellas](https://open.spotify.com/track/01UgSQkOsZH7fnBhgqjOaN) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:19 |
+| 33 | [En Un Día Como Hoy](https://open.spotify.com/track/3G6PfDCnFqx6eM2Qzr8Plm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:21 |
 | 34 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
 | 35 | [Jugar a Los Besos](https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Jugar a Los Besos](https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD) | 2:48 |
 | 36 | [11 + 11](https://open.spotify.com/track/3p7kSQp2lX5fKjwohrSzmm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6) | [11 + 11](https://open.spotify.com/album/6BqC4MqGmu438gIvuCw00Y) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Bien Guerrero \- En Vivo](https://open.spotify.com/track/7aziBsfabYtlNX5XPadsmc) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Bien Guerrero \(En Vivo\)](https://open.spotify.com/album/4HpzGThC6vKZyF6oa8b9JF) | 3:36 |
 | 50 | [Mañanitas A Mi Madre](https://open.spotify.com/track/6R5e0QiFWqgeMBPVmm9op0) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mañanitas A Mi Madre](https://open.spotify.com/album/0KMNAPi9uLg4FgJ5ujU3e0) | 2:11 |
 
-Snapshot ID: `Zql+gAAAAABTsxmlUgTtgOjBM9Dd3LXQ`
+Snapshot ID: `ZqrQAAAAAAAYd0AAP919BpLW+zadUYnF`

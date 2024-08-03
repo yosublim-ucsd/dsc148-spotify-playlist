@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Bauch Beine Po",
+        "url": "https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133932,
+      "name": "Bauch Beine Po",
+      "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
+    },
+    {
+      "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 144966,
       "name": "DENK ZU VIEL NACH",
       "url": "https://open.spotify.com/track/1ctq4FdMatfR9ZNCY8WKbM"
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -1504,6 +1522,24 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
+    },
+    {
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226706,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
     },
     {
       "album": {
@@ -2377,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "LET'S GO",
+        "url": "https://open.spotify.com/album/5jgGbUAAJE2s8OFiWryF7N"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193091,
+      "name": "LET'S GO",
+      "url": "https://open.spotify.com/track/5YU6E3o8PGh6MoqVIyOBih"
+    },
+    {
+      "album": {
         "name": "Lieb mich",
         "url": "https://open.spotify.com/album/4274V2AE7IA8tSkhpEGNip"
       },
@@ -2716,7 +2770,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -3876,7 +3930,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 166000,
       "name": "Si Ai",
       "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
@@ -4716,7 +4770,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"

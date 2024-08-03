@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 128719,
+  "num_followers": 128725,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAA0lKGCsg53usWLLSwy9Hz+",
+  "snapshot_id": "ZqrQAAAAAAC47GrNW7nlWrv7LaDPUYIE",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 107026,
+      "name": "Come On - Stereo Version",
+      "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
         "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
       },
@@ -587,54 +603,6 @@
       "duration_ms": 158560,
       "name": "Swanee River",
       "url": "https://open.spotify.com/track/0wkqsHA4zsWoY5y4EKLfoO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 107026,
-      "name": "Come On - Stereo Version",
-      "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 122480,
-      "name": "Viva Viva Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 129840,
-      "name": "You Two",
-      "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
     },
     {
       "added_at": null,
@@ -671,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bio",
-        "url": "https://open.spotify.com/album/1xp040eLv4xv5lP1JOOeFU"
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
       "artists": [
         {
@@ -680,9 +648,41 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 264386,
-      "name": "Bio",
-      "url": "https://open.spotify.com/track/0bfxTlDQs6QGfwGNCiXVWE"
+      "duration_ms": 129840,
+      "name": "You Two",
+      "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 122480,
+      "name": "Viva Viva Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 122533,
+      "name": "Bye Bye Johnny",
+      "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+        "name": "Bio",
+        "url": "https://open.spotify.com/album/1xp040eLv4xv5lP1JOOeFU"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 122533,
-      "name": "Bye Bye Johnny",
-      "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
+      "duration_ms": 264386,
+      "name": "Bio",
+      "url": "https://open.spotify.com/track/0bfxTlDQs6QGfwGNCiXVWE"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry In London",
-        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 157320,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
+      "duration_ms": 139520,
+      "name": "Guitar Boogie",
+      "url": "https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q"
     }
   ],
   "unique_name": "This Is Chuck Berry",

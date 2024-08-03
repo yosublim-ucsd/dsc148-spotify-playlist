@@ -1,35 +1,31 @@
 {
   "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
-  "num_followers": 3161089,
+  "num_followers": 3161371,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqPe8AAAAABcyK3VmDKjih40ENL/wDY+",
+  "snapshot_id": "ZqxZwAAAAAC7waycrcVU8+EfVRmkhMbJ",
   "tracks": [
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Y2K!",
-        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+        "name": "NISSAN ALTIMA",
+        "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 161119,
-      "name": "Oh Shhh...(with Travis Scott)",
-      "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
+      "duration_ms": 128132,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "TGIF",
         "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
@@ -45,7 +41,23 @@
       "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Y2K! (Bonus)",
+        "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 114437,
+      "name": "GYAT",
+      "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -65,23 +77,39 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Wanna Be (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C"
@@ -101,43 +129,7 @@
       "url": "https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Did It First (with Central Cee)",
-        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 118002,
-      "name": "Did It First (with Central Cee)",
-      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
         "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
@@ -161,7 +153,27 @@
       "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Big One (feat. Monaleo)",
+        "url": "https://open.spotify.com/album/1DNP6WXtCNKaF6OFfHotiX"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 156832,
+      "name": "Big One (feat. Monaleo)",
+      "url": "https://open.spotify.com/track/7vWU5bYJk7uHulIfbQrGZK"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "OKAY",
         "url": "https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL"
@@ -177,7 +189,91 @@
       "url": "https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Did It First (with Central Cee)",
+        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 118002,
+      "name": "Did It First (with Central Cee)",
+      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 202414,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "PRINCESS POP THAT",
         "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
@@ -197,71 +293,7 @@
       "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Enough (Miami)",
-        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Y2K!",
-        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "BB Belt",
-      "url": "https://open.spotify.com/track/3oLlS8NTMdePBohjgPZKk1"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Never Lose Me",
-        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Yeah Glo!",
-        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "BOA",
         "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
@@ -277,39 +309,23 @@
       "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
+        "name": "Yeah Glo!",
+        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 202414,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
@@ -325,23 +341,7 @@
       "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
@@ -357,67 +357,7 @@
       "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Suki Suki",
-        "url": "https://open.spotify.com/album/0PboUdl2xp7PebjNhLTITI"
-      },
-      "artists": [
-        {
-          "name": "Sukihana",
-          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
-        }
-      ],
-      "duration_ms": 128207,
-      "name": "Suki Suki",
-      "url": "https://open.spotify.com/track/5Kfn1mWqzS1lDsZEzfVH3p"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Now You See Me",
-        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 115725,
-      "name": "Ick",
-      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
-        "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
-      },
-      "artists": [
-        {
-          "name": "Culture Jam",
-          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Flau'jae",
-          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
-      "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Don Who Leo",
         "url": "https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK"
@@ -433,7 +373,7 @@
       "url": "https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -449,43 +389,59 @@
       "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "City Cinderella",
-        "url": "https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI"
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
       "artists": [
         {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         },
         {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 216986,
-      "name": "Lemon Pepper (feat. Stunna Girl)",
-      "url": "https://open.spotify.com/track/0YSunN721SC5IeuOuklmci"
+      "duration_ms": 161119,
+      "name": "Oh Shhh...(with Travis Scott)",
+      "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+        "name": "Now You See Me",
+        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 130707,
-      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
-      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
+      "duration_ms": 115725,
+      "name": "Ick",
+      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
@@ -501,43 +457,7 @@
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Like What (Freestyle)",
-        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Like What (Freestyle)",
-      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Extra",
-        "url": "https://open.spotify.com/album/2TALbqpMCkY81EYSlzO3xo"
-      },
-      "artists": [
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
-        },
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        }
-      ],
-      "duration_ms": 171290,
-      "name": "Extra",
-      "url": "https://open.spotify.com/track/4QoR7gJ9h4TAhkgCsK8pfK"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "City Cinderella",
         "url": "https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI"
@@ -548,148 +468,12 @@
           "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
         }
       ],
-      "duration_ms": 127228,
-      "name": "90's Baby",
-      "url": "https://open.spotify.com/track/44qD9IskeQr9Qnm6wlIM60"
+      "duration_ms": 107788,
+      "name": "JT Coming",
+      "url": "https://open.spotify.com/track/3Ur9zMHlzsCTnuEW9vXNyT"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Alter Ego (with JT)",
-        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Alter Ego (with JT)",
-      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Tell Ur Girlfriend",
-        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 124444,
-      "name": "Tell Ur Girlfriend",
-      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 180869,
-      "name": "Everybody (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 140400,
-      "name": "Bow Bow Bow (F My Baby Dad)",
-      "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "NANi",
-        "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 154991,
-      "name": "NANi",
-      "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Paint The Town Red",
-        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
@@ -713,7 +497,243 @@
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Extra",
+        "url": "https://open.spotify.com/album/2TALbqpMCkY81EYSlzO3xo"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "duration_ms": 171290,
+      "name": "Extra",
+      "url": "https://open.spotify.com/track/4QoR7gJ9h4TAhkgCsK8pfK"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "City Cinderella",
+        "url": "https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 127228,
+      "name": "90's Baby",
+      "url": "https://open.spotify.com/track/44qD9IskeQr9Qnm6wlIM60"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "Bow Bow Bow (F My Baby Dad)",
+      "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "NANi",
+        "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 154991,
+      "name": "NANi",
+      "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Suki Suki",
+        "url": "https://open.spotify.com/album/0PboUdl2xp7PebjNhLTITI"
+      },
+      "artists": [
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "duration_ms": 128207,
+      "name": "Suki Suki",
+      "url": "https://open.spotify.com/track/5Kfn1mWqzS1lDsZEzfVH3p"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Bad Boys: Ride Or Die Soundtrack",
         "url": "https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Put It On Da Floor Again (feat. Cardi B)",
         "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
@@ -749,39 +769,7 @@
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "ROCKET",
-        "url": "https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 166315,
-      "name": "ROCKET",
-      "url": "https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
-      "album": {
-        "name": "Freshman Grad.",
-        "url": "https://open.spotify.com/album/44TpQtfROIJvYF4bwYxoPn"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "AND DID",
-      "url": "https://open.spotify.com/track/4xmGq65jOFzNna5hfTqrJw"
-    },
-    {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Like That!",
         "url": "https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g"
@@ -797,7 +785,7 @@
       "url": "https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "IT GIRL",
         "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
@@ -813,7 +801,7 @@
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "WOKE UP",
         "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
@@ -829,7 +817,7 @@
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Scarlet 2 CLAUDE",
         "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
@@ -845,7 +833,7 @@
       "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Lemon Cars",
         "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
@@ -865,7 +853,7 @@
       "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
     },
     {
-      "added_at": "2024-07-26 17:37:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Ice Me",
         "url": "https://open.spotify.com/album/7DcjUsuRBzr5K3lxOsFCFm"

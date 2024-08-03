@@ -4,7 +4,7 @@
 
 > Canciones que te pondrán en el mejor mood ever\. JIMIN en portada.
 
-385 songs - 20 hr 45 min
+387 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,12 +146,14 @@
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-09-29 | 2023-12-09 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-27 | 2024-06-29 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-30 | 2023-08-05 |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Halley's Comet](https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:54 | 2023-04-03 | 2023-05-20 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-01-07 | 2023-07-22 |
 | [Hate Me If It Helps](https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Hate Me If It Helps](https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk) | 3:14 | 2022-03-02 | 2022-04-01 |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-10 | 2024-06-01 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-13 | 2023-07-22 |
 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 | 2022-10-03 | 2022-11-01 |
+| [Heatstroke](https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Heatstroke](https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL) | 3:54 | 2024-08-02 |  |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-22 | 2023-05-27 |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-26 | 2023-11-11 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-12-02 | 2023-06-02 |

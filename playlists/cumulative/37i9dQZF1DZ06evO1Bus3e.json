@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
+        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130470,
+      "name": "Cartel De Reyes",
+      "url": "https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK"
+    },
+    {
+      "album": {
         "name": "DDM Anthem",
         "url": "https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c"
       },

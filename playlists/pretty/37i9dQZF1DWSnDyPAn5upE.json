@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 58835,
+  "num_followers": 58895,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Theories",
-      "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Blue Hills",
         "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 160000,
       "name": "The Tides Do That with Me",
       "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Theories",
+      "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -515,6 +515,26 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Dawn of Awakening",
+        "url": "https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd"
+      },
+      "artists": [
+        {
+          "name": "faintface",
+          "url": "https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        }
+      ],
+      "duration_ms": 240850,
+      "name": "Dawn of Awakening",
+      "url": "https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "SOUL VOICES",
         "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
       },
@@ -547,42 +567,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Dawn of Awakening",
-        "url": "https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd"
-      },
-      "artists": [
-        {
-          "name": "faintface",
-          "url": "https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs"
-        },
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        }
-      ],
-      "duration_ms": 240850,
-      "name": "Dawn of Awakening",
-      "url": "https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Saturna",
-        "url": "https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw"
-      },
-      "artists": [
-        {
-          "name": "Nordic Hymn",
-          "url": "https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV"
-        }
-      ],
-      "duration_ms": 126187,
-      "name": "Saturna",
-      "url": "https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Northwest & Southeast",
         "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 406000,
       "name": "Thursday Night, Friday Morning",
       "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Saturna",
+        "url": "https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw"
+      },
+      "artists": [
+        {
+          "name": "Nordic Hymn",
+          "url": "https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV"
+        }
+      ],
+      "duration_ms": 126187,
+      "name": "Saturna",
+      "url": "https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Out of Time",
-        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
-      },
-      "artists": [
-        {
-          "name": "Halgrath",
-          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
-        }
-      ],
-      "duration_ms": 338834,
-      "name": "Horoathea Mass of Aegorath",
-      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "LP.8",
         "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 182485,
       "name": "Olga",
       "url": "https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
+      },
+      "artists": [
+        {
+          "name": "Halgrath",
+          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
+        }
+      ],
+      "duration_ms": 338834,
+      "name": "Horoathea Mass of Aegorath",
+      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -919,30 +919,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/7e5yAIEwr3t3FIPXyrJJc6"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Tyler Rix",
-          "url": "https://open.spotify.com/artist/5SmwqKkm1DQP8T40E773lQ"
-        },
-        {
-          "name": "Tolga Kashif",
-          "url": "https://open.spotify.com/artist/6iaocfPn29e76BwbJc5qVW"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "An Ending (Ascent)",
-      "url": "https://open.spotify.com/track/5vXobsCw0NvtXequNTTEM5"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Honest Labour",
         "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 194706,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/7e5yAIEwr3t3FIPXyrJJc6"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Tyler Rix",
+          "url": "https://open.spotify.com/artist/5SmwqKkm1DQP8T40E773lQ"
+        },
+        {
+          "name": "Tolga Kashif",
+          "url": "https://open.spotify.com/artist/6iaocfPn29e76BwbJc5qVW"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "An Ending (Ascent)",
+      "url": "https://open.spotify.com/track/5vXobsCw0NvtXequNTTEM5"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Ode to the blue",
+        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Ode to the blue",
-        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173625,
-      "name": "Ode to the blue",
-      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Respite",
         "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 227631,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Japanese Summer Lost",
-        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
-      },
-      "artists": [
-        {
-          "name": "Nao'ymt",
-          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
-        }
-      ],
-      "duration_ms": 211942,
-      "name": "Japanese Summer Lost",
-      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1151,6 +1135,22 @@
       "duration_ms": 460892,
       "name": "Fantas Variation for Voices",
       "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Japanese Summer Lost",
+        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
+      },
+      "artists": [
+        {
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+        }
+      ],
+      "duration_ms": 211942,
+      "name": "Japanese Summer Lost",
+      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Inori (William Basinski Rework)",
         "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 744162,
       "name": "Abiogenesis",
       "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "A Map With No Memory",
+        "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
+      },
+      "artists": [
+        {
+          "name": "Jay Chakravorty",
+          "url": "https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY"
+        }
+      ],
+      "duration_ms": 193644,
+      "name": "Hannah",
+      "url": "https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "And You Know I Care",
         "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
       },
@@ -1523,6 +1539,22 @@
       "duration_ms": 289293,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Rare Backwards",
+        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
+      },
+      "artists": [
+        {
+          "name": "Spivak",
+          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
+        }
+      ],
+      "duration_ms": 219196,
+      "name": "18:00",
+      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1547,22 +1579,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "A Map With No Memory",
-        "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
-      },
-      "artists": [
-        {
-          "name": "Jay Chakravorty",
-          "url": "https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY"
-        }
-      ],
-      "duration_ms": 193644,
-      "name": "Hannah",
-      "url": "https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Forward / Wreck Dive",
         "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 196129,
       "name": "Forward",
       "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Rare Backwards",
-        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
-      },
-      "artists": [
-        {
-          "name": "Spivak",
-          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "18:00",
-      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Penelope Three",
-        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Aquarius/Pisces",
         "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 298000,
       "name": "Pisces",
       "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Penelope Three",
+        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
     },
     {
       "added_at": "2023-10-12 18:05:50",

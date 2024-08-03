@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 164342,
       "name": "963 Hz Conscious Care",
       "url": "https://open.spotify.com/track/5E57Zw3EzEqgXH3nfbXkBL"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 206896,
       "name": "A View of the World",
       "url": "https://open.spotify.com/track/0HdY6r6dTWZqWpBCDYsGz1"
@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 187538,
       "name": "Heart Of The Keys",
       "url": "https://open.spotify.com/track/1Kdz8NQ38hoV1X258mG7Ek"
@@ -4136,8 +4136,8 @@
       },
       "artists": [
         {
-          "name": "Natural Space",
-          "url": "https://open.spotify.com/artist/6kBh9KP21Uw1fbnq1oY9Nz"
+          "name": "Nisli",
+          "url": "https://open.spotify.com/artist/5VYMquDgNccyHZ4EWTFxHp"
         },
         {
           "name": "Nazibrola",
@@ -4636,7 +4636,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195143,
       "name": "Serenade of the Stars 528Hz",
       "url": "https://open.spotify.com/track/1RR3lD7yIpiE77aGGig6ba"
@@ -5450,6 +5450,24 @@
       "duration_ms": 175999,
       "name": "Torpid",
       "url": "https://open.spotify.com/track/3YR3JfeREWuoI1jc6dPiT7"
+    },
+    {
+      "album": {
+        "name": "Tranquil Peace",
+        "url": "https://open.spotify.com/album/6aFGahoS1LavDGknMxJS17"
+      },
+      "artists": [
+        {
+          "name": "Lyra Roman",
+          "url": "https://open.spotify.com/artist/1f5idQf5kPjM5oYjXDHEGh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225642,
+      "name": "Tranquil Peace",
+      "url": "https://open.spotify.com/track/73NrNjXvnFMVLZzTJBtnaQ"
     },
     {
       "album": {

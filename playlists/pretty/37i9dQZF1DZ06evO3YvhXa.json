@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 391769,
+  "num_followers": 391848,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADeb7cfKzIDd198V5OCFh72",
+  "snapshot_id": "ZqrQAAAAAAA/VD8YiceN0J3DAbfcsXqp",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "White Knuckle Ride",
-      "url": "https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 236946,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "White Knuckle Ride",
+      "url": "https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 286212,
-      "name": "Deeper Underground - Full Version",
-      "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 314493,
       "name": "Shake It On",
       "url": "https://open.spotify.com/track/4bL5GNTF2zw5WyEle7irMf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 286212,
+      "name": "Deeper Underground - Full Version",
+      "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency on Planet Earth (Remastered)",
-        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 292666,
-      "name": "If I Like It, I Do It",
-      "url": "https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 331800,
       "name": "Summer Girl",
       "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency on Planet Earth (Remastered)",
+        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "If I Like It, I Do It",
+      "url": "https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency on Planet Earth (Remastered)",
-        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Emergency on Planet Earth",
-      "url": "https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 287960,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency on Planet Earth (Remastered)",
+        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Emergency on Planet Earth",
+      "url": "https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "Black Capricorn Day",
-      "url": "https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 238533,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 341560,
+      "name": "Black Capricorn Day",
+      "url": "https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 271986,
       "name": "Hot Property",
       "url": "https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "King for a Day",
-      "url": "https://open.spotify.com/track/4klPQOLiUPgwZ3YIWgGJrK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 279213,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/0BUL18qo9Br1PhG1n6vEJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "King for a Day",
+      "url": "https://open.spotify.com/track/4klPQOLiUPgwZ3YIWgGJrK"
     },
     {
       "added_at": null,

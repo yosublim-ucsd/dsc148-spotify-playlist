@@ -2,7 +2,7 @@
 
 ### [Faithful Melodies](https://open.spotify.com/playlist/37i9dQZF1DWW37fHr0rhOh)
 
-> Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: <a href="spotify:artist:4B43yyRlfQgDEhDPq35wUc">The Collingsworth Family</a>
+> Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: <a href="spotify:artist:4B43yyRlfQgDEhDPq35wUc">The Nelons</a>
 
 154 songs - 9 hr 44 min
 

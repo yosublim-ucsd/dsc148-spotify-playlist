@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,428 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,494 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 45 | [Run My Mouth](https://open.spotify.com/track/3gfIiIN9ZrFgfI9eZDI831) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 2:35 |
 | 46 | [Sip](https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 3:17 |
 | 47 | [We Can Make Love](https://open.spotify.com/track/0GprcPh962hOBopHNuUsLV) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [SoMo](https://open.spotify.com/album/3C1R7nVZwUrvb6RG4Bod5U) | 4:29 |
-| 48 | [Right Now](https://open.spotify.com/track/0b4FXtGKqER9amOifVngHm) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [Rough Drafts, Pt\. 1](https://open.spotify.com/album/2YM0TUs9WDl0abwVQ5xlYP) | 4:49 |
+| 48 | [Lights On](https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 2](https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX) | 3:39 |
 | 49 | [Alone](https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Alone](https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig) | 2:49 |
-| 50 | [Lights On](https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 2](https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX) | 3:39 |
+| 50 | [Right Now](https://open.spotify.com/track/0b4FXtGKqER9amOifVngHm) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [Rough Drafts, Pt\. 1](https://open.spotify.com/album/2YM0TUs9WDl0abwVQ5xlYP) | 4:49 |
 | 51 | [Needs](https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [All Have Fallen](https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9) | 3:25 |
 | 52 | [Made Love First](https://open.spotify.com/track/21csDNj3WqMPYDzW996UHL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Gossip Columns](https://open.spotify.com/album/4OmqJXPhD5FOqwdg5tBsnu) | 3:45 |
 | 53 | [get me started \(feat\. syd\)](https://open.spotify.com/track/0jeCoIGrGhw8lnkd5YF0qB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 2:49 |

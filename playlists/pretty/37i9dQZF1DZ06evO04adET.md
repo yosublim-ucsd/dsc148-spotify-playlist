@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,219 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,743 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 49 | [Ninguna Como Ella](https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:20 |
 | 50 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 |
 
-Snapshot ID: `Zql+gAAAAADH3v0vp65YB9PGhIt1isid`
+Snapshot ID: `ZqrQAAAAAADzJCLgcZ46R6rAb1W6PJxv`

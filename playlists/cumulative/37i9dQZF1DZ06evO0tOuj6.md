@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 49 min
+74 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [めくれたオレンジ](https://open.spotify.com/track/2UC9VOUmqjHeUd2fnZpxbG) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 5:15 | 2023-01-14 |  |
 | [めでたしソング feat.ムロツヨシ](https://open.spotify.com/track/61aXifFjpzPth7uaCPUjEx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ムロツヨシ](https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr) | [めでたしソング feat.ムロツヨシ](https://open.spotify.com/album/4jQPR3IaxMJkH8e8gCwZoH) | 4:42 | 2023-01-14 |  |
 | [るろうの形代](https://open.spotify.com/track/5CIkjGfSK8B46So8gmbwCV) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [るろうの形代](https://open.spotify.com/album/1z3z4NyD2ZqalZB8HsumO4) | 3:24 | 2023-10-10 |  |
-| [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 | 2023-11-10 |  |
+| [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 | 2023-11-10 | 2024-08-03 |
+| [オモイダマ jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/3RtcU6Ytb0vOoJ9SrsD8Le) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:58 | 2024-08-03 |  |
 | [カナリヤ鳴く空](https://open.spotify.com/track/6xGoSgYLZ1oSBmCdVlqxnn) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Stompin' On DOWN BEAT ALLEY](https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ) | 3:58 | 2023-01-14 |  |
 | [カルぺ・ディエム～今日がその日さ](https://open.spotify.com/track/30gSJf2EyyXKij3fvQUjsi) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 4:56 | 2023-03-19 |  |
 | [クリスマスカ \(諸人こぞりて\)](https://open.spotify.com/track/1iXpI5zNsSCg9dih1n9l6g) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [東京スカパラダイスオーケストラ](https://open.spotify.com/album/7gKRUkx9rEts3ITxoXj5qP) | 2:12 | 2023-12-23 | 2024-01-12 |

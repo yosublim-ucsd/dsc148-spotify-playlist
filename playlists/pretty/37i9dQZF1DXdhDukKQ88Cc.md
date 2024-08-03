@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største danske rap lige nu..\. Anton Westerlin x Kundo <a href="spotify:album:1WzzRG4FdwNgBPxiVuhdT7">Bellingham Freestyle</a> 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,441 likes - 76 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,452 likes - 76 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

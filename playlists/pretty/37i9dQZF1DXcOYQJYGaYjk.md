@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,368 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,363 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 44 | [Raise Your Horns](https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy) | 4:23 |
 | 45 | [Low](https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Pressure](https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP) | 3:47 |
 | 46 | [Beyond](https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:17 |
-| 47 | [Castaway](https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Tether](https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR) | 3:31 |
-| 48 | [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 |
+| 47 | [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 |
+| 48 | [Castaway](https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Tether](https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR) | 3:31 |
 | 49 | [Psycho](https://open.spotify.com/track/2oeD1y0HnIBhHW5pPtyE0w) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:56 |
 | 50 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 51 | [Death](https://open.spotify.com/track/2e9HC16cEYxDnj4QAmsYi4) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Lost in the Waves \(The Complete Edition\)](https://open.spotify.com/album/6N1zjfchsRYKmiqyQZSudl) | 3:43 |

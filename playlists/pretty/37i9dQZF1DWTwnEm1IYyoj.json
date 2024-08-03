@@ -1,6 +1,6 @@
 {
   "description": "Warm familiar pop you know and love. Cover: Adele",
-  "num_followers": 7256627,
+  "num_followers": 7257038,
   "original_name": "Soft Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-06-28 05:00:00",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2024-06-28 05:00:00",
-      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "added_at": "2024-06-28 05:00:00",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "added_at": "2024-06-28 05:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-06-28 05:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
-    },
-    {
-      "added_at": "2024-06-28 05:00:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 244506,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
+    },
+    {
+      "added_at": "2024-06-28 05:00:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
     },
     {
       "added_at": "2024-06-28 05:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-06-28 05:00:00",
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2024-06-28 05:00:00",
-      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-06-28 05:00:00",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
       "added_at": "2024-06-28 05:00:00",
@@ -1051,6 +1035,22 @@
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
+    },
+    {
+      "added_at": "2024-06-28 05:00:00",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2024-06-28 05:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-28 05:00:00",
       "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 262466,
-      "name": "Bleeding Love",
-      "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
-    },
-    {
-      "added_at": "2024-06-28 05:00:00",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2024-06-28 05:00:00",
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "duration_ms": 262466,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
     },
     {
       "added_at": "2024-06-28 05:00:00",

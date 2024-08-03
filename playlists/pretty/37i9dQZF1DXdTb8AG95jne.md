@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Meaningful Stone\(김뜻돌\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,921 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,100 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 15 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 16 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 17 | [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 |
-| 18 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 |
-| 19 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 |
+| 18 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 |
+| 19 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 |
 | 20 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
 | 21 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 |
 | 22 | [고백](https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV) | [DELISPICE](https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf) | [Espresso](https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb) | 5:23 |
@@ -38,24 +38,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 28 | [I Know Where The Rainbow has Fallen](https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:42 |
 | 29 | [Everlasting Love](https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [HOWEVER](https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx) | 5:32 |
 | 30 | [Medicine \(feat\. 10CM\)](https://open.spotify.com/track/4nBguHEdWhaWYhw5bOpXLh) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Medicine \(feat\. 10CM\)](https://open.spotify.com/album/2WoDp3yDQZOoCH9qVQlKFn) | 2:57 |
-| 31 | [Velvet Glove](https://open.spotify.com/track/2sw4palAKf0wKtopLjDLSi) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 2:44 |
-| 32 | [POKZOOK TIME](https://open.spotify.com/track/7ok3LoeV3VwL4PKU24bMpv) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:18 |
+| 31 | [POKZOOK TIME](https://open.spotify.com/track/7ok3LoeV3VwL4PKU24bMpv) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:18 |
+| 32 | [Velvet Glove](https://open.spotify.com/track/2sw4palAKf0wKtopLjDLSi) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 2:44 |
 | 33 | [Peanut butter Sandwich](https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [pool vol\. 2 \- Peanut Butter Sandwich](https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV) | 3:51 |
 | 34 | [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 |
-| 35 | [MIMI](https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4) | 3:27 |
-| 36 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
-| 37 | [SOLD OUT](https://open.spotify.com/track/68gLrav5zc6pR4gHr4aD9S) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:59 |
-| 38 | [Pasadena](https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Pasadena](https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG) | 2:43 |
-| 39 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 |
+| 35 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
+| 36 | [MIMI](https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4) | 3:27 |
+| 37 | [Psycho](https://open.spotify.com/track/1Qyg8gMMatJyPIi8da7Pc2) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:02 |
+| 38 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 |
+| 39 | [Pasadena](https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Pasadena](https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG) | 2:43 |
 | 40 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 |
-| 41 | [Psycho](https://open.spotify.com/track/1Qyg8gMMatJyPIi8da7Pc2) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:02 |
+| 41 | [SOLD OUT](https://open.spotify.com/track/68gLrav5zc6pR4gHr4aD9S) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:59 |
 | 42 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
 | 43 | [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 |
 | 44 | [Let's Meet In Spring](https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Again, Spring Days](https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL) | 3:46 |
 | 45 | [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 |
 | 46 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
-| 47 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 |
-| 48 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 |
+| 47 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 |
+| 48 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 |
 | 49 | [BAPPI](https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [BAPPI](https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG) | 2:54 |
 | 50 | [Go Back](https://open.spotify.com/track/4GhDaROSZ1HHh6qGHxBR0O) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Go Back](https://open.spotify.com/album/5nrTyyRN42maHoTsNt5veZ) | 4:13 |
 

@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 586691,
+  "num_followers": 586701,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 269560,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Double Life (From \"Despicable Me 4\")",
         "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 190782,
       "name": "Double Life - From \"Despicable Me 4\"",
       "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Nothing Was The Same",
         "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 227880,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "One Thing Right",
-        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "One Thing Right",
-      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Better Place (From TROLLS Band Together)",
         "url": "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8"
       },
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "One Thing Right",
+        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "One Thing Right",
+      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
-      },
-      "artists": [
-        {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "...Baby One More Time (from Kung Fu Panda 4)",
-      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "finding it hard to smile",
         "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
         }
       ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+      "duration_ms": 192600,
+      "name": "...Baby One More Time (from Kung Fu Panda 4)",
+      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 196786,
       "name": "La Da Dee",
       "url": "https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1247,6 +1247,46 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Descendants 3 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Jadah Marie",
+          "url": "https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz"
+        },
+        {
+          "name": "Anna Cathcart",
+          "url": "https://open.spotify.com/artist/0QFetakbVZD86mLaPGJy9Z"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 189868,
+      "name": "Good to Be Bad",
+      "url": "https://open.spotify.com/track/1RIYF8NDIIWBvJe4vhQr6y"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -1295,46 +1335,6 @@
       "duration_ms": 237400,
       "name": "CAN'T STOP THE FEELING! - Film Version",
       "url": "https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Descendants 3 (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        },
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        },
-        {
-          "name": "Booboo Stewart",
-          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
-        },
-        {
-          "name": "Cameron Boyce",
-          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
-        },
-        {
-          "name": "Jadah Marie",
-          "url": "https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz"
-        },
-        {
-          "name": "Anna Cathcart",
-          "url": "https://open.spotify.com/artist/0QFetakbVZD86mLaPGJy9Z"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 189868,
-      "name": "Good to Be Bad",
-      "url": "https://open.spotify.com/track/1RIYF8NDIIWBvJe4vhQr6y"
     },
     {
       "added_at": "2024-07-12 04:00:00",

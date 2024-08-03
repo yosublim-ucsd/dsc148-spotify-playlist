@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,138 likes - 110 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,181 likes - 110 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 11 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
 | 12 | [THE REASON \(feat\. John Newman\)](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 3:17 |
 | 13 | [KOMPLICERAD](https://open.spotify.com/track/349aKbQCECEPrTbqIX6KY4) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [KOMPLICERAD](https://open.spotify.com/album/3zdWPYriAEofO8dgqK1nMt) | 2:27 |
-| 14 | [Wild Heart](https://open.spotify.com/track/133gMbnHFdb5stViV7Bepf) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Wild Heart](https://open.spotify.com/album/6uVJObcq28mcUHXLoFDOaF) | 2:39 |
-| 15 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 |
-| 16 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 |
-| 17 | [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \(10th Anniversary Edition\)](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 |
+| 14 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 |
+| 15 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 |
+| 16 | [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \(10th Anniversary Edition\)](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 |
+| 17 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 |
 | 18 | [Oåtkomlig](https://open.spotify.com/track/2jMcE2JbjtUsU5J5Nyxfvx) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Sommarlungor // Oåtkomlig](https://open.spotify.com/album/6n1YwxfTpmzee4ysrIWIkO) | 3:34 |
-| 19 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 |
-| 20 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 |
-| 21 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 |
-| 22 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 |
-| 23 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 |
+| 19 | [Wild Heart](https://open.spotify.com/track/133gMbnHFdb5stViV7Bepf) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Wild Heart](https://open.spotify.com/album/6uVJObcq28mcUHXLoFDOaF) | 2:39 |
+| 20 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 |
+| 21 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 |
+| 22 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 |
+| 23 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 |
 | 24 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 |
 | 25 | [Immortal Queen \(feat\. Chaka Khan & Eve\)](https://open.spotify.com/track/4Dr0ZwcgQbj9Sqna43GBes) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Immortal Queen \(feat\. Chaka Khan & Eve\)](https://open.spotify.com/album/3bIMMjzboZD5thhPhRZ8Sn) | 3:32 |
 | 26 | [Rivers Don't Speak](https://open.spotify.com/track/1qf3auAlvL3BNTTgvBistk) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Rivers Don't Speak](https://open.spotify.com/album/7bmD1ZPyifBcTIbpxgufq1) | 3:35 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 109 | [Violets are Blue](https://open.spotify.com/track/6UknqK1dHb4ksmcLGY6Kia) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Violets are Blue](https://open.spotify.com/album/5gpXGu94SSkIQq9c5QdOim) | 3:11 |
 | 110 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 |
 
-Snapshot ID: `ZqwFYAAAAACIxR5Urk0WchVbLaN3zx6n`
+Snapshot ID: `ZqyfrQAAAABysSpv/LpGDGbkmISbKReF`

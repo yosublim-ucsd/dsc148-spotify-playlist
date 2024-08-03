@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: URBOYTJ",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Lipta, Mirrr",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 242181,
       "name": "9 \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32",
       "url": "https://open.spotify.com/track/1RIcNj56JKuH0WB9AyNARB"
+    },
+    {
+      "album": {
+        "name": "Aftercry",
+        "url": "https://open.spotify.com/album/0EzeQWsY83xRG35HMF1wsG"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "Aftercry",
+      "url": "https://open.spotify.com/track/0lWlgVOKrCpa1AQfvlIZqM"
     },
     {
       "album": {
@@ -56,6 +74,46 @@
       "duration_ms": 298392,
       "name": "April",
       "url": "https://open.spotify.com/track/1HcNxQxyvT4Jg2c1A9FxjS"
+    },
+    {
+      "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/1LLHRg01Vb5my1oq6FCQVc"
+      },
+      "artists": [
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123680,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/7vMTgmx2xtN0yUWf47fjEI"
+    },
+    {
+      "album": {
+        "name": "BF",
+        "url": "https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        },
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216494,
+      "name": "BF",
+      "url": "https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM"
     },
     {
       "album": {
@@ -485,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Smash or Pass (Original Soundtrack From Out of the nest)",
+        "url": "https://open.spotify.com/album/0Fkt3VKyuPCTXNOLDMjLGE"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Smash or Pass - Original Soundtrack From Out of the nest",
+      "url": "https://open.spotify.com/track/442Za23vtvJthRqBVBkSc5"
+    },
+    {
+      "album": {
         "name": "DREAMGALS",
         "url": "https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB"
       },
@@ -558,7 +634,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
@@ -854,7 +930,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195238,
       "name": "\u0e09\u0e31\u0e19\u0e21\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/5zezY6510hgk7oO7jHGR0s"
@@ -1392,7 +1468,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 285584,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
       "url": "https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK"
@@ -1500,7 +1576,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 216136,
       "name": "\u0e23\u0e39\u0e49\u0e01\u0e31\u0e19\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49 - mint",
       "url": "https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD"
@@ -1674,6 +1750,28 @@
       "duration_ms": 208741,
       "name": "\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e44\u0e14\u0e49\u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e23\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/467XT84TTQHkdifhD7eUgQ"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253421,
+      "name": "\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC"
     },
     {
       "album": {
@@ -1858,7 +1956,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 277961,
       "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e2d\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
       "url": "https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ"
@@ -1966,7 +2064,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 271567,
       "name": "\u0e40\u0e2a\u0e49\u0e19\u0e1a\u0e32\u0e07\u0e46",
       "url": "https://open.spotify.com/track/5n3UhHQI7SHKkhI69u69Yq"

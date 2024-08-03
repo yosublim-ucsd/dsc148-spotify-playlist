@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Liniker
 
-307 songs - 14 hr 30 min
+308 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [ATENÇÃO](https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ATENÇÃO](https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93) | 2:15 | 2022-01-14 | 2022-12-24 |
 | [Atrás Do Meu Amor](https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Mais Uma Vez](https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs) | 2:11 | 2022-07-22 | 2022-09-03 |
 | [Atura o Baile \(The World Is Yours To Take\) \- Funk Remix / Budweiser Anthem Of The FIFA World Cup 2022](https://open.spotify.com/track/1QjVcycdvef8b4azmcEdfe) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Atura o Baile \(The World Is Yours To Take\) \[Funk Remix / Budweiser Anthem Of The FIFA World Cup 2022\]](https://open.spotify.com/album/393QpUdoGU8jMCJgF4s99B) | 2:35 | 2022-11-11 | 2022-12-10 |
+| [Até o Topo do Mundo](https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF) | [Gabriela](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM) | [Gabriela](https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9) | 2:45 | 2024-08-02 |  |
 | [Avisa Lá \(feat\. Rebecca\)](https://open.spotify.com/track/058t1LUDIQuWs44iagnUlO) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Avisa Lá \(feat\. Rebecca\)](https://open.spotify.com/album/1PjqEdDTxIKyujzgdLG4K8) | 2:03 | 2022-12-02 | 2023-08-16 |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-15 | 2023-11-04 |
 | [BAGUNÇA](https://open.spotify.com/track/0w4eRv2fCerS49SgrStS1V) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:08 | 2022-02-04 | 2023-02-11 |
@@ -234,7 +235,7 @@
 | [Quebrar Seu Coração \(feat\. Luísa Sonza\)](https://open.spotify.com/track/707X30zRZYb1HYe1BtiY69) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Quebrar Seu Coração \(feat\. Luísa Sonza\)](https://open.spotify.com/album/3mX5V5Jbliy12mrafRMzfs) | 2:20 | 2022-01-14 | 2022-08-13 |
 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 | 2024-07-12 |  |
 | [QUER DANÇAR](https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Bonde do Tigrão](https://open.spotify.com/artist/1VQMltQ5m8iFvRCpW2n5HR) | [QUER DANÇAR](https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451) | 2:10 | 2023-11-10 | 2024-03-02 |
-| [Quero Te Ver Pelada](https://open.spotify.com/track/5a5YuCUYrM8yNowoHilHQh) | [Angela Destro](https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6) | [Quero Te Ver Pelada](https://open.spotify.com/album/0N3w2AOuJDkuulEilRJ1qg) | 1:10 | 2024-07-05 |  |
+| [Quero Te Ver Pelada](https://open.spotify.com/track/5a5YuCUYrM8yNowoHilHQh) | [Angela Destro](https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6) | [Quero Te Ver Pelada](https://open.spotify.com/album/0N3w2AOuJDkuulEilRJ1qg) | 1:10 | 2024-07-05 | 2024-08-03 |
 | [Radar](https://open.spotify.com/track/0V4LaOkdQm1sJwNerXcxMl) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90) | 3:02 | 2022-01-14 | 2022-07-29 |
 | [Radar](https://open.spotify.com/track/5l4GTT4tLccGiZE3KGjlg4) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/1uyLEC5sd3Mdyvu0iCvirh) | 3:02 | 2022-07-22 | 2022-12-24 |
 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 | 2023-08-11 | 2024-03-23 |

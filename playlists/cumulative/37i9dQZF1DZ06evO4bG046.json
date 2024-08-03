@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Los Jaivas\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "This Is Los Jaivas. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Jaivas",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 280000,
       "name": "Ma\u00f1ana Me Voy Pa'l Norte",
       "url": "https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4"
@@ -1346,6 +1346,28 @@
       "duration_ms": 192986,
       "name": "Vamos por Ancho Camino",
       "url": "https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1"
+    },
+    {
+      "album": {
+        "name": "Macha y el Bloque Depresivo",
+        "url": "https://open.spotify.com/album/0xgXqrSz4tx4uapKr46R5J"
+      },
+      "artists": [
+        {
+          "name": "Macha Y El Bloque Depresivo",
+          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
+        },
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158640,
+      "name": "Verguenza Ajena",
+      "url": "https://open.spotify.com/track/6ljLiWQXbJjPElG0p6U1s4"
     },
     {
       "album": {

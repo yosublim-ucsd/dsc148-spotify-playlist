@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,596 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,077 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 41 | [Limbo](https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Prestige](https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg) | 3:44 |
 | 42 | [Tengo Un Plan](https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Tengo Un Plan](https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6) | 3:09 |
 | 43 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
-| 44 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
-| 45 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 |
+| 44 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 |
+| 45 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
 | 46 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
 | 47 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 |
 | 48 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |

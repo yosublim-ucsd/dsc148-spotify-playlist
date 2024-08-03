@@ -2,7 +2,7 @@
 
 ### [This Is Charles Ans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y)
 
-> This is: Charles Ans\. Alle wichtigen Tracks in einer Playlist.
+> This Is Charles Ans\. Los temas esenciales, todos en una lista.
 
 65 songs - 3 hr 58 min
 

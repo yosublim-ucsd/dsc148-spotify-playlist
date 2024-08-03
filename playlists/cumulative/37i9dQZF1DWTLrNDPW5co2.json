@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+    },
+    {
+      "album": {
         "name": "slash 010 - 5 Mins Of Acid",
         "url": "https://open.spotify.com/album/6pRDiTc1Sc31lLpITNIh0j"
       },
@@ -1959,6 +1977,28 @@
     },
     {
       "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
         "name": "Hands (DJ-Kicks)",
         "url": "https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38"
       },
@@ -1992,7 +2032,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 170358,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
@@ -2339,6 +2379,28 @@
     },
     {
       "album": {
+        "name": "I'm Free (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "I'm Free (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI"
+    },
+    {
+      "album": {
         "name": "Late Night People",
         "url": "https://open.spotify.com/album/2b970bvbXGO47YGGNmAauW"
       },
@@ -2394,7 +2456,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186280,
       "name": "ID ID ID",
       "url": "https://open.spotify.com/track/4ryHYwy7CflZcdSz8txTff"
@@ -2826,7 +2888,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 206616,
       "name": "Looking For Loving",
       "url": "https://open.spotify.com/track/4C7iQhNkgLRKGngGen5g23"
@@ -3108,7 +3170,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 247896,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
@@ -3240,9 +3302,35 @@
           "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
         }
       ],
-      "date_added": "2024-06-14",
+      "date_added": "2024-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149506,
+      "name": "mr useless",
+      "url": "https://open.spotify.com/track/1Ar2McJ98hNvgsHlxLTPQc"
+    },
+    {
+      "album": {
+        "name": "Club Shy (extended)",
+        "url": "https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-08-03",
       "duration_ms": 209346,
       "name": "mr useless - extended",
       "url": "https://open.spotify.com/track/19VejRf86Fmrdj7HZyAQ3U"
@@ -3904,6 +3992,28 @@
       "duration_ms": 203267,
       "name": "Reclaim Me (feat. Nimmo) - Maya Jane Coles Remix [Edit]",
       "url": "https://open.spotify.com/track/7DLxRocVGAXVaq63ZuuIby"
+    },
+    {
+      "album": {
+        "name": "Records",
+        "url": "https://open.spotify.com/album/5bdP826dbsN19WFnDrZPWA"
+      },
+      "artists": [
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        },
+        {
+          "name": "Chase Icon",
+          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180773,
+      "name": "Records",
+      "url": "https://open.spotify.com/track/0uLev2G8kxK1PH8Fsb9BHl"
     },
     {
       "album": {
@@ -4606,7 +4716,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 129761,
       "name": "The 360 remix with robyn and yung lean",
       "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,750,365 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,750,281 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 53 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 |
 | 54 | [Wicked Games](https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:01 |
 | 55 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
-| 56 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 |
-| 57 | [None Of Your Concern \(feat\. Big Sean\)](https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:19 |
+| 56 | [None Of Your Concern \(feat\. Big Sean\)](https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:19 |
+| 57 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 |
 | 58 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:10 |
 | 59 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
 | 60 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 |

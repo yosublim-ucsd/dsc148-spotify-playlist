@@ -210,7 +210,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182709,
       "name": "Baecation",
       "url": "https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x"
@@ -1414,6 +1414,28 @@
       "duration_ms": 162554,
       "name": "Look @ That - Remix",
       "url": "https://open.spotify.com/track/6DsuRfvs19wzZ5Vp26mus1"
+    },
+    {
+      "album": {
+        "name": "The Flip",
+        "url": "https://open.spotify.com/album/4Y4gWDCCetjIMn5dXTCPkG"
+      },
+      "artists": [
+        {
+          "name": "Malia Civetz",
+          "url": "https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Love Thing (feat. Yung Baby Tate )",
+      "url": "https://open.spotify.com/track/2O4FkPICvTd1c8pW3KiwwZ"
     },
     {
       "album": {

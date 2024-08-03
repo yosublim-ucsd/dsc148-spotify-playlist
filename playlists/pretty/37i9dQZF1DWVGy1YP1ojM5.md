@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,435,108 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,434,962 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 22 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 |
 | 23 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
 | 24 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 |
-| 25 | [Superstar](https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:11 |
-| 26 | [living room flow \- Bonus](https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:22 |
+| 25 | [living room flow \- Bonus](https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:22 |
+| 26 | [Superstar](https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:11 |
 | 27 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
 | 28 | [Get It Together](https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:51 |
 | 29 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 49 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |
 | 50 | [Damage](https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Damage](https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII) | 3:43 |
 | 51 | [Caretaker \(feat\. SZA\)](https://open.spotify.com/track/4XQQovRSltOGWevTCgacXY) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Gahdamn!](https://open.spotify.com/album/0L6cXKn2whkvu2xJisMrI2) | 2:51 |
-| 52 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
-| 53 | [Moan](https://open.spotify.com/track/3xRue8c0zDkTWZ9fdDdz0u) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 2:11 |
+| 52 | [Moan](https://open.spotify.com/track/3xRue8c0zDkTWZ9fdDdz0u) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 2:11 |
+| 53 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 | 54 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 |
 | 55 | [Makin' Good Love](https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Ecstasy](https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG) | 4:31 |
 | 56 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |

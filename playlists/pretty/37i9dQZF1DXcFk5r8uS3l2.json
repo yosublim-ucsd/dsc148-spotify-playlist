@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 447216,
+  "num_followers": 447259,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAACiICnYiBxBRwr3EDLLrm1J",
+  "snapshot_id": "ZqxZwAAAAACRTn3TwVFlyX3qLmybzQ8e",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Flash-A-Magic",
+        "url": "https://open.spotify.com/album/21SDAsPqwgYGKerUlgjpNB"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 197645,
+      "name": "Flash-A-Magic",
+      "url": "https://open.spotify.com/track/7ornB0tNXeHMuVscygsTOB"
+    },
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/53bgRTz4YRHfTkVAwfYWDc"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "13 Years",
+        "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
+      },
+      "artists": [
+        {
+          "name": "Marc A Ridge",
+          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
+        }
+      ],
+      "duration_ms": 402240,
+      "name": "13 Years",
+      "url": "https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1"
+    },
+    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Monsoon Lightning",
@@ -59,6 +91,22 @@
       "duration_ms": 263277,
       "name": "Monsoon Lightning",
       "url": "https://open.spotify.com/track/2amxmJp83GsKX3tS3GkBFo"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Mortality Blues",
+        "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 195490,
+      "name": "Mortality Blues",
+      "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -91,22 +139,6 @@
       "duration_ms": 292786,
       "name": "Let's Walk",
       "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Peaches",
-        "url": "https://open.spotify.com/album/6dv2y76f9gdKEfbfXJKMGU"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 305033,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/2lnnBOiuEgoVpvHx5enMTe"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -583,22 +615,6 @@
       "duration_ms": 188796,
       "name": "Underestimate Me",
       "url": "https://open.spotify.com/track/4Aekbv712FflNiu4ldLkQF"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Put Your Hand Up",
-        "url": "https://open.spotify.com/album/0AXruhIxdOMJnMuivekJ4c"
-      },
-      "artists": [
-        {
-          "name": "The Bacon Brothers",
-          "url": "https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Put Your Hand Up",
-      "url": "https://open.spotify.com/track/7wsNOaMLXYcJXSrKJupSEB"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 190176,
       "name": "So Much Fun",
       "url": "https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "L'hotel Serein",
-        "url": "https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 252363,
-      "name": "L'hotel Serein",
-      "url": "https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik! <a href=\"spotify:artist:6J9AFauvtJJ8brNaiWwWat\">Sira Jovina</a> p\u00e5 forsiden\ud83d\udd2a",
-  "num_followers": 23328,
+  "num_followers": 23332,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Storeb\u00e6ltsbroen",
-        "url": "https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 179034,
-      "name": "Storeb\u00e6ltsbroen",
-      "url": "https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Nye Tider",
         "url": "https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 194660,
       "name": "Hun",
       "url": "https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Storeb\u00e6ltsbroen",
+        "url": "https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 179034,
+      "name": "Storeb\u00e6ltsbroen",
+      "url": "https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Sytten",
-        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Hvad Nu Hvis",
-      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Dans I Morgen",
         "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 192783,
       "name": "Dans I Morgen (feat. Wads.png)",
       "url": "https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Sytten",
+        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Hvad Nu Hvis",
+      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "SAMBA",
+        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Under Vand",
+      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Berlin (feat. Marcus.wav)",
         "url": "https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 172079,
       "name": "Berlin (feat. Marcus.wav)",
       "url": "https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "SAMBA",
-        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Under Vand",
-      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "ENGLE & BLAA MAERKER",
-        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 174017,
-      "name": "oslo til k\u00f8benhavn",
-      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -659,22 +643,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Din Sang",
-        "url": "https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD"
-      },
-      "artists": [
-        {
-          "name": "PIND",
-          "url": "https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "Din Sang",
-      "url": "https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
       },
@@ -687,6 +655,38 @@
       "duration_ms": 185729,
       "name": "The Game",
       "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "ENGLE & BLAA MAERKER",
+        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "duration_ms": 174017,
+      "name": "oslo til k\u00f8benhavn",
+      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Din Sang",
+        "url": "https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD"
+      },
+      "artists": [
+        {
+          "name": "PIND",
+          "url": "https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q"
+        }
+      ],
+      "duration_ms": 176528,
+      "name": "Din Sang",
+      "url": "https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "grib mig hvis jeg falder",
+        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "duration_ms": 193981,
+      "name": "Gennemsku Mig Nu",
+      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Sunshine In Atalaya",
         "url": "https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 262071,
       "name": "Sunshine In Atalaya",
       "url": "https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "grib mig hvis jeg falder",
-        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
-      },
-      "artists": [
-        {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
-        }
-      ],
-      "duration_ms": 193981,
-      "name": "Gennemsku Mig Nu",
-      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
-        }
-      ],
-      "duration_ms": 169783,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Sol Gennem Regn",
         "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 173450,
       "name": "Sol Gennem Regn",
       "url": "https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
+        }
+      ],
+      "duration_ms": 169783,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Klubben (i Klubben)",
-        "url": "https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j"
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
       },
       "artists": [
         {
-          "name": "Ganger",
-          "url": "https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT"
-        },
-        {
-          "name": "Choir Of Young Believers",
-          "url": "https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7"
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
         }
       ],
-      "duration_ms": 171918,
-      "name": "Klubben (i Klubben) (feat. Choir Of Young Believers)",
-      "url": "https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG"
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1119,22 +1115,6 @@
       "duration_ms": 204000,
       "name": "Noget For Nogen",
       "url": "https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "GENSTART",
-        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
-      },
-      "artists": [
-        {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
-        }
-      ],
-      "duration_ms": 280244,
-      "name": "Genstart",
-      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1167,6 +1147,26 @@
       "duration_ms": 168750,
       "name": "Kemisk",
       "url": "https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Klubben (i Klubben)",
+        "url": "https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j"
+      },
+      "artists": [
+        {
+          "name": "Ganger",
+          "url": "https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT"
+        },
+        {
+          "name": "Choir Of Young Believers",
+          "url": "https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7"
+        }
+      ],
+      "duration_ms": 171918,
+      "name": "Klubben (i Klubben) (feat. Choir Of Young Believers)",
+      "url": "https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG"
     }
   ],
   "unique_name": "ung kniv ",

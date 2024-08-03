@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 17516,
+  "num_followers": 17523,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAyLBcwFj4wcikc6d7CRz3W",
+  "snapshot_id": "ZqrQAAAAAAD4GoJTtrumK9ViEYP8Ixkf",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "Raining On The Inside",
+      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
       },
@@ -675,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
       },
       "artists": [
         {
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 252333,
-      "name": "Raining On The Inside",
-      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
+      "duration_ms": 194986,
+      "name": "Doubly Good To You - Remastered",
+      "url": "https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead (Remastered)",
-        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Doubly Good To You - Remastered",
-      "url": "https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Still And Know... Hymns & Faith",
         "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 231706,
       "name": "Power In The Blood",
       "url": "https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "My Jesus, I Love Thee",
-      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 198546,
       "name": "Could I Have This Dance",
       "url": "https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "My Jesus, I Love Thee",
+      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Father's Eyes",
-        "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Father's Eyes",
-      "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Alone (Remastered)",
         "url": "https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 156346,
       "name": "All I Ever Have To Be",
       "url": "https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Father's Eyes",
+        "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "Father's Eyes",
+      "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
     },
     {
       "added_at": null,

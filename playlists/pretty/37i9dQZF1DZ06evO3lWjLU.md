@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 ### [This Is Danny Ocean](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lWjLU)
 
-> This is Danny Ocean\. The essential tracks, all in one playlist.
+> This Is Danny Ocean\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,593 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,678 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 9 | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC) | 3:29 |
 | 10 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 11 | [Swing](https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 2:35 |
-| 12 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
-| 13 | [escala en Panamá](https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:12 |
+| 12 | [escala en Panamá](https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:12 |
+| 13 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
 | 14 | [AMOR](https://open.spotify.com/track/58UCQZoSDprVXVLgcCVBHt) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:00 |
 | 15 | [Vuelve](https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:14 |
 | 16 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 45 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
 | 46 | [amor tonight](https://open.spotify.com/track/6jmjb6lF1vRv6lHIrdGFAI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [amor tonight](https://open.spotify.com/album/5IDYpetjP1jw3MboyXqoDc) | 3:30 |
 | 47 | [báilame en los besos \(with Danny Ocean & Daramola\)](https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [báilame en los besos \(with Danny Ocean & Daramola\)](https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX) | 3:27 |
-| 48 | [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 |
-| 49 | [Fino](https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:25 |
+| 48 | [Fino](https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:25 |
+| 49 | [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 |
 
-Snapshot ID: `Zql+gAAAAAAf8EBUhWgyvNXBKtJh2cN6`
+Snapshot ID: `ZqrQAAAAAAC5RByexruBlYxzuCHfkQZM`

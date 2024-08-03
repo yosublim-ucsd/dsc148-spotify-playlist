@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304 likes - 136 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 136 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 12 | [Prairies \(with mxmtoon\)](https://open.spotify.com/track/7w2iqaRxQgAGnkOdMhsiqu) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 3:11 |
 | 13 | [parachute](https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 2:36 |
 | 14 | [Everybody Wants You](https://open.spotify.com/track/48EDM7iimVXiKEOdo4AJk6) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It’s Never Really Over \(Expanded\)](https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm) | 3:20 |
-| 15 | [Hands On You](https://open.spotify.com/track/1c03f9YZmO792D7hRjZMYi) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Hands On You](https://open.spotify.com/album/7AwODiyS5ghh0uhXt4v2tj) | 2:35 |
+| 15 | [Hands On You](https://open.spotify.com/track/5IWFDIRqqjKPlzzGTpVRoA) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Hands On You](https://open.spotify.com/album/0Rg4eBaxjPnrnBH3JcD7rK) | 2:35 |
 | 16 | [mr\. sunshine](https://open.spotify.com/track/2NJefEQeqDKUdyiy38GFoV) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:57 |
 | 17 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 |
 | 18 | [IMPRINT](https://open.spotify.com/track/0nFenpZcQjGiEcy4y0EZKT) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [EMOTIONS](https://open.spotify.com/album/5SJtQAJHiRPgXfkp9PrOUN) | 3:00 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 26 | [Baddest](https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Baddest](https://open.spotify.com/album/0ayLG9HLt07N00Ycl60y5J) | 2:31 |
 | 27 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
 | 28 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 |
-| 29 | [Freak Like That](https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Freak Like That](https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE) | 2:15 |
+| 29 | [Freak Like That](https://open.spotify.com/track/2Pe1BR1o0uRKzPizuQIZg9) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Freak Like That](https://open.spotify.com/album/2pF4mstJq6V5FVYVYDohyn) | 2:15 |
 | 30 | [Happy](https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Happy](https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9) | 2:13 |
 | 31 | [ur special to me](https://open.spotify.com/track/2rYXXYRrP3qOOPkUsUTsal) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 1:54 |
 | 32 | [Cannon Beach](https://open.spotify.com/track/4HnVzg7n6aIPV7TCGRMR6k) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Footprints I Found](https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf) | 2:52 |
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 48 | [We Never Die \(Acoustic\)](https://open.spotify.com/track/0xhVjg2f5tGSn7vypwKVRa) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:16 |
 | 49 | [Farther We Go](https://open.spotify.com/track/2Eid72JKMi73JQI2WC2aRy) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Meet You There](https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e) | 2:56 |
 | 50 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 |
-| 51 | [Off Season](https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5tuM41hpJ7kDZo5Twts4TE) | 3:10 |
+| 51 | [Off Season](https://open.spotify.com/track/3VVrZApVwCvTEZNwrZgXI5) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5kqLqGGPZGTavifOSOVDcr) | 3:10 |
 | 52 | [happy for you](https://open.spotify.com/track/3f7FcNZs3eNL0TJNXM5hgl) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [MISS SICK WORLD](https://open.spotify.com/album/79oS6Ri5JCrY40hGDgCdAS) | 3:00 |
 | 53 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 |
 | 54 | [ORAL HEX \(spell on you\)](https://open.spotify.com/track/6SpUnFjNfyFgyLRm65b2G6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [ORAL HEX \(spell on you\)](https://open.spotify.com/album/3Z6ZQizuBnh4w78dlm6HZ1) | 3:14 |
 | 55 | [coming of age](https://open.spotify.com/track/44J3plqT5zMSpaa6bkGfhZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:38 |
-| 56 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 |
+| 56 | [Grey Lines](https://open.spotify.com/track/31wd3JOLQpdDMkTAr1TkbM) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/4HnuaXBXjcgF6vHANPLMAc) | 2:48 |
 | 57 | [Love Language](https://open.spotify.com/track/2hn11FTEwM9YrJyz3XnU5M) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/5N8NVRBbCenIoCO2QMjdNT) | 3:28 |
 | 58 | [virtual reality](https://open.spotify.com/track/18WaQZeWkZ9Yy0QZtxoW50) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:41 |
 | 59 | [idc](https://open.spotify.com/track/0VuxsFoM1f6LLEaGnJgwPy) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:33 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 73 | [All Because of You](https://open.spotify.com/track/12vl4hGCWCw2JR36kj7rrk) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:33 |
 | 74 | [Trading Places](https://open.spotify.com/track/7w32L6hgnvFY53No8A3Vlg) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:43 |
 | 75 | [Yesterday](https://open.spotify.com/track/1vQJGXJpX4vTwmhWgjQDUB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Yesterday](https://open.spotify.com/album/1eyG6MhcCjpAvbQ8NCHCHj) | 3:11 |
-| 76 | [Same Streets](https://open.spotify.com/track/7cUhsSkqpWI8JMrlRKdEGI) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Same Streets](https://open.spotify.com/album/32bbFhtMy0OhYcE4UolJAB) | 2:33 |
+| 76 | [Same Streets](https://open.spotify.com/track/1ElVku2RbiCwpIHTtVH62l) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Same Streets](https://open.spotify.com/album/4VnYNeCLopXgVXa5btmJlc) | 2:33 |
 | 77 | [Dead Inside](https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Dead Inside](https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt) | 1:55 |
 | 78 | [Guidelines](https://open.spotify.com/track/0uJ8jnAFiiMOBsZcDQC9sn) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Guidelines](https://open.spotify.com/album/3uWRX7uAwJcolHlUW2Fr3O) | 2:34 |
-| 79 | [Manners](https://open.spotify.com/track/4YnKb0qfI6j56S0UiaewIC) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/2C4Q3GT9PHp3UYIgSNJSVq) | 3:06 |
+| 79 | [Manners](https://open.spotify.com/track/4EaISYr58EZ2YzBi3WRLxG) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/0ZP6B7PFgIorIya2y5bwQY) | 3:06 |
 | 80 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 |
 | 81 | [How it is](https://open.spotify.com/track/6mnntj1xL8zEk5iiEcJGjk) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Meet You There](https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e) | 2:41 |
 | 82 | [All Damn Day!](https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [All Damn Day!](https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy) | 2:48 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 135 | [Freakshow](https://open.spotify.com/track/4WceOz4GIcG7FyYvkpcNQj) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/1JfiOjHXTPhks1hpToVbLX) | 2:24 |
 | 136 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 
-Snapshot ID: `AbYSLAAAAAAs0Fn+da8Oo6hkEpO112Id`
+Snapshot ID: `AbYXzAAAAADw9J/gK2BrbFLa4TCIgji/`

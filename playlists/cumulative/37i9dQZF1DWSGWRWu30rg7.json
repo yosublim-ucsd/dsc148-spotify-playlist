@@ -2329,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "Aku Rindu",
+        "url": "https://open.spotify.com/album/4RE7vFWWz5cokuGkByu1qz"
+      },
+      "artists": [
+        {
+          "name": "Nouraz Kkhan",
+          "url": "https://open.spotify.com/artist/3j1vbpljQsKdIedWNpMr4n"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311641,
+      "name": "Aku Rindu",
+      "url": "https://open.spotify.com/track/1ZYFY7V6tlcIZC9ILv3KGx"
+    },
+    {
+      "album": {
         "name": "Aku Salah",
         "url": "https://open.spotify.com/album/2FTwB3rn7NL1jmNCpuNlOm"
       },
@@ -46851,7 +46869,7 @@
       "artists": [
         {
           "name": "Bahtera",
-          "url": "https://open.spotify.com/artist/28a3YGz0pW3DZb5Dvr9M0d"
+          "url": "https://open.spotify.com/artist/2WDrCD9s0OofV19aGzNbib"
         }
       ],
       "date_added": "2024-07-25",

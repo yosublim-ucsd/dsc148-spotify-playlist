@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: BLK ODYSSY
 
-1,427 songs - 3 day 8 hr 55 min
+1,428 songs - 3 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Again](https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Again](https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82) | 2:53 | 2024-05-09 |  |
 | [Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Stranger](https://open.spotify.com/album/10iGXFl7sNkUDjIPLRA8Ym) | 3:34 | 2023-04-06 | 2023-04-14 |
 | [Air](https://open.spotify.com/track/3bJJu6tjuKlSGD8vbwJ7FB) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Air](https://open.spotify.com/album/4Fz2th3B672VGj7wm7904J) | 3:48 | 2021-12-28 | 2022-02-01 |
-| [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 | 2024-05-09 |  |
+| [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 | 2024-05-09 | 2024-08-03 |
 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 | 2023-06-23 | 2023-09-22 |
 | [All Dressed Up](https://open.spotify.com/track/5T9Uzxpmywt6ZLwiVNCFJn) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [All Dressed Up](https://open.spotify.com/album/5QrnzKsCOjYUFSMoBp67aD) | 2:54 | 2022-05-26 | 2022-07-22 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-10 | 2022-06-15 |
@@ -520,6 +520,7 @@
 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 | 2023-02-09 | 2023-07-07 |
 | [GTFO](https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y) | 3:20 | 2022-07-21 | 2022-09-09 |
 | [Guard My Heart](https://open.spotify.com/track/3FMgKNOeL9mCQkZQb55siA) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Guard My Heart](https://open.spotify.com/album/3IQpUNq1c1zSE9q4WjkMkR) | 4:07 | 2024-02-01 | 2024-03-01 |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 | 2023-08-31 | 2023-12-01 |
 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 | 2023-08-31 | 2023-09-02 |
 | [Gummy](https://open.spotify.com/track/6c9ua26MdggFqHs5le1cTE) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 3:01 | 2022-06-09 | 2022-07-08 |

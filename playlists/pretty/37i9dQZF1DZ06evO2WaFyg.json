@@ -1,12 +1,12 @@
 {
-  "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 235564,
+  "description": "This Is Young Thug. Los temas esenciales, todos en una lista.",
+  "num_followers": 235609,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAC8yrDxbEdqCJ5h0UpJYaUG",
+  "snapshot_id": "ZqrQAAAAAACjKRq1WMlzVmQumN+0XavH",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 366592,
       "name": "SKITZO (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 220888,
-      "name": "Just Like Me (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 212658,
       "name": "Paranoia (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 220888,
+      "name": "Just Like Me (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Jonesboro",
+      "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 250271,
       "name": "ON GOD (feat. Young Thug)",
       "url": "https://open.spotify.com/track/5euYMGygjq2IAfpzOD08Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Jonesboro",
-      "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
     },
     {
       "added_at": null,
@@ -1091,8 +1091,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Diablo: Floor 13 Edition",
-        "url": "https://open.spotify.com/album/0qy27pEGeF1grFdsnK27w4"
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
       "artists": [
         {
@@ -1100,21 +1100,21 @@
           "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         },
         {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "RJMrLA",
-          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
-        },
-        {
-          "name": "Lil Duke",
-          "url": "https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY"
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
         }
       ],
-      "duration_ms": 169047,
-      "name": "Bullets With Names",
-      "url": "https://open.spotify.com/track/2S0dqPAIIUJ1osKEjI3zMN"
+      "duration_ms": 207007,
+      "name": "die in california (feat. Gunna, Young Thug & Landon Barker)",
+      "url": "https://open.spotify.com/track/28ZGbkz2MDnpvHhSRQw4f1"
     }
   ],
   "unique_name": "This Is Young Thug",

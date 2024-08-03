@@ -1,6 +1,6 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 70626,
+  "num_followers": 70716,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "21 Psalm",
-        "url": "https://open.spotify.com/album/0J3Ilvx9rIi0aHvgmiIy31"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "21 Psalm",
-      "url": "https://open.spotify.com/track/5omLQJya4umViap9GwViw8"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Stay Clean",
         "url": "https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 159022,
       "name": "Stay Clean",
       "url": "https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "21 Psalm",
+        "url": "https://open.spotify.com/album/0J3Ilvx9rIi0aHvgmiIy31"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "21 Psalm",
+      "url": "https://open.spotify.com/track/5omLQJya4umViap9GwViw8"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Dior Kicks",
         "url": "https://open.spotify.com/album/3LUDwZHFWsZSn9s23RKUNt"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Big Chune",
         "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
       },
@@ -1355,42 +1355,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Middle",
-        "url": "https://open.spotify.com/album/0NlJ1pz17KDONwsqbubpTz"
-      },
-      "artists": [
-        {
-          "name": "Moyann",
-          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
-        },
-        {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "Middle",
-      "url": "https://open.spotify.com/track/171oqBowIpiDoow5uGqgg0"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Another Dolla",
-        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 163526,
-      "name": "Another Dolla",
-      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "TOKYO",
         "url": "https://open.spotify.com/album/2iVF7QXXbh7M1AdLmkAvv4"
       },
@@ -1411,34 +1375,38 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "1Matik",
-        "url": "https://open.spotify.com/album/59gIceHJs6XstV3vX2jooB"
+        "name": "Another Dolla",
+        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
       },
       "artists": [
         {
-          "name": "Govana",
-          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
         }
       ],
-      "duration_ms": 204000,
-      "name": "1Matik",
-      "url": "https://open.spotify.com/track/1PZplUw7AKK4p6ch8aoK1d"
+      "duration_ms": 163526,
+      "name": "Another Dolla",
+      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
     },
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Foot",
-        "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
+        "name": "Middle",
+        "url": "https://open.spotify.com/album/0NlJ1pz17KDONwsqbubpTz"
       },
       "artists": [
         {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+          "name": "Moyann",
+          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+        },
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
         }
       ],
-      "duration_ms": 167021,
-      "name": "Foot",
-      "url": "https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ"
+      "duration_ms": 126315,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/171oqBowIpiDoow5uGqgg0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1459,6 +1427,38 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Foot",
+        "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 167021,
+      "name": "Foot",
+      "url": "https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "1Matik",
+        "url": "https://open.spotify.com/album/59gIceHJs6XstV3vX2jooB"
+      },
+      "artists": [
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "1Matik",
+      "url": "https://open.spotify.com/track/1PZplUw7AKK4p6ch8aoK1d"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Ride (Remix)",
         "url": "https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5"
       },
@@ -1475,6 +1475,26 @@
       "duration_ms": 185730,
       "name": "Ride - Remix",
       "url": "https://open.spotify.com/track/3SEfX0PJAkE9mqFVMSO4QO"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Statistic",
+        "url": "https://open.spotify.com/album/2o96kaWezr20piyF7LRqne"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        },
+        {
+          "name": "Lone Don",
+          "url": "https://open.spotify.com/artist/6hajGWsMkjIa0l8vemo3H2"
+        }
+      ],
+      "duration_ms": 182909,
+      "name": "Statistic",
+      "url": "https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1555,46 +1575,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Leggo Mi Ears (Remix)",
-        "url": "https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse"
-      },
-      "artists": [
-        {
-          "name": "Tatik",
-          "url": "https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ"
-        },
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Leggo Mi Ears - Remix",
-      "url": "https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Statistic",
-        "url": "https://open.spotify.com/album/2o96kaWezr20piyF7LRqne"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        },
-        {
-          "name": "Lone Don",
-          "url": "https://open.spotify.com/artist/6hajGWsMkjIa0l8vemo3H2"
-        }
-      ],
-      "duration_ms": 182909,
-      "name": "Statistic",
-      "url": "https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "I Am Great",
         "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 187711,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Leggo Mi Ears (Remix)",
+        "url": "https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse"
+      },
+      "artists": [
+        {
+          "name": "Tatik",
+          "url": "https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ"
+        },
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Leggo Mi Ears - Remix",
+      "url": "https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1667,6 +1667,26 @@
       "duration_ms": 160528,
       "name": "Money & Done - Remix",
       "url": "https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "She Like It (Remix)",
+        "url": "https://open.spotify.com/album/6hVZ2HnEngQycSLXY1Ljgn"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 139440,
+      "name": "She Like It - Remix",
+      "url": "https://open.spotify.com/track/1yCjvhIGFqctLZ6JflOH9n"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1763,26 +1783,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "She Like It (Remix)",
-        "url": "https://open.spotify.com/album/6hVZ2HnEngQycSLXY1Ljgn"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 139440,
-      "name": "She Like It - Remix",
-      "url": "https://open.spotify.com/track/1yCjvhIGFqctLZ6JflOH9n"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Live Large",
         "url": "https://open.spotify.com/album/5PV3MP50VUf19Bqe5Rloy9"
       },
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Pro-Gress",
-        "url": "https://open.spotify.com/album/2XGhRJbTjrxFH1EWaNl7CH"
-      },
-      "artists": [
-        {
-          "name": "Jahvillani",
-          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Pro-Gress",
-      "url": "https://open.spotify.com/track/6uZsoeimrQQH86DVe5DwIn"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/2ddLiPnq33pYj3V7Kfmo9u"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 137872,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/2DqiAl1qCPnOkx6EHDt12R"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Pro-Gress",
+        "url": "https://open.spotify.com/album/2XGhRJbTjrxFH1EWaNl7CH"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "Pro-Gress",
+      "url": "https://open.spotify.com/track/6uZsoeimrQQH86DVe5DwIn"
     },
     {
       "added_at": "2023-05-24 08:21:37",

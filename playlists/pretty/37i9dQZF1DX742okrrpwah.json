@@ -1,6 +1,6 @@
 {
   "description": "Charli xcx, Billie Eilish au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 349850,
+  "num_followers": 349994,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,30 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "6AM Thoughts",
+        "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
+      "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Jr Vini",
         "url": "https://open.spotify.com/album/1OWiyg19gXGmwGgMRDL0Fy"
       },
@@ -892,7 +916,7 @@
           "url": "https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg"
         }
       ],
-      "duration_ms": 162797,
+      "duration_ms": 177902,
       "name": "Jr Vini",
       "url": "https://open.spotify.com/track/01Kk6uiaKZJp9Kd6m9HdcP"
     },

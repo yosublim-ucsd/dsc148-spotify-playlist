@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,290 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,320 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 25 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 |
 | 26 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
 | 27 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 |
-| 28 | [Lucy Rider](https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Lucy Rider](https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve) | 3:17 |
-| 29 | [The State of the World](https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The State of the World](https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39) | 4:18 |
+| 28 | [The State of the World](https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The State of the World](https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39) | 4:18 |
+| 29 | [Lucy Rider](https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Lucy Rider](https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve) | 3:17 |
 | 30 | [This Year's Love](https://open.spotify.com/track/1kK9VfP8KJcfDH5j3wahvd) | [Alejandro Fuentes](https://open.spotify.com/artist/43uURL7UXIZoVIsTTrLe7d) | [This Year's Love](https://open.spotify.com/album/4ITEQe7tM7OAYqICzWepTC) | 3:57 |
 | 31 | [The Sun of the Island](https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W), [Marie Modiano](https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R) | [The Sun of the Island](https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl) | 4:18 |
 | 32 | [All for You](https://open.spotify.com/track/2AvJ8tgkykPP8gwd80ZA8P) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [All for You](https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb) | 3:57 |
-| 33 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
-| 34 | [Both Sides Now](https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities 2](https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH) | 3:52 |
+| 33 | [Both Sides Now](https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities 2](https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH) | 3:52 |
+| 34 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 | 35 | [homebound](https://open.spotify.com/track/2390QtVcsiBd50QbKd2s6x) | [SATRE](https://open.spotify.com/artist/0KMIpYnQZYg0rEYMgDd4Hm) | [homebound](https://open.spotify.com/album/2pwEWAxrNUJ9xWqVifLw4C) | 3:24 |
 | 36 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
 | 37 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 50 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
 | 51 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
 | 52 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
-| 53 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
+| 53 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
 | 54 | [Innocent](https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Innocent](https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u) | 2:36 |
 | 55 | [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 |
-| 56 | [Asymmetry](https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Asymmetry](https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq) | 4:04 |
-| 57 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
-| 58 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
-| 59 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 |
+| 56 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
+| 57 | [Asymmetry](https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Asymmetry](https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq) | 4:04 |
+| 58 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 |
+| 59 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
 | 60 | [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 |
 
 Snapshot ID: `ZqwFYAAAAAD50s0pXqUKmbBI1vxKPxJf`

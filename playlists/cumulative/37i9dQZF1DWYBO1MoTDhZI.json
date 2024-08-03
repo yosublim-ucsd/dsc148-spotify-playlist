@@ -6309,6 +6309,24 @@
     },
     {
       "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -6830,6 +6848,24 @@
       "duration_ms": 163043,
       "name": "How Far Is Your Love (with Los Lonely Boys)",
       "url": "https://open.spotify.com/track/2ZrioVBvBpKZXOd8tWcmzR"
+    },
+    {
+      "album": {
+        "name": "Humble",
+        "url": "https://open.spotify.com/album/3Joy3iFF57gPJkonUmWPg4"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235294,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/2bGbWQwWJ6EjLUas1tCWTK"
     },
     {
       "album": {
@@ -14782,7 +14818,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 213064,
       "name": "Tears (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/0A0MTURTbuUgZNvS9tbh1g"

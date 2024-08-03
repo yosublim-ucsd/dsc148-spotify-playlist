@@ -2,14 +2,15 @@
 
 ### [This Is Ebony](https://open.spotify.com/playlist/37i9dQZF1DZ06evO14TklP)
 
-> This is Ebony\. The essential tracks, all in one playlist.
+> This is Ebony\. Todos os maiores hits em uma só playlist.
 
-58 songs - 2 hr 54 min
+60 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Mili](https://open.spotify.com/track/2faP6QUfGN94HI1FTSrpsm) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:18 | 2024-04-04 |  |
 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 | 2023-12-30 | 2024-04-04 |
+| [24hrs](https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [24hrs](https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91) | 2:20 | 2024-08-03 |  |
 | [5min](https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [5min](https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b) | 2:08 | 2023-12-30 |  |
 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 | 2023-12-30 | 2024-04-07 |
 | [8KG](https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c) | 2:12 | 2024-04-07 |  |
@@ -19,6 +20,7 @@
 | [Bratz](https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Bratz](https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh) | 2:48 | 2023-12-30 |  |
 | [Bugatti](https://open.spotify.com/track/6BxOt3jbyRt1Jvqkqx806a) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 1:55 | 2023-12-30 | 2024-04-19 |
 | [Bugatti](https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 1:55 | 2024-04-19 |  |
+| [Ca$h Ca$h](https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD) | [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Ca$h Ca$h](https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1) | 3:04 | 2024-08-03 |  |
 | [Camarim](https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 3:14 | 2024-04-14 |  |
 | [Canceriana Nata](https://open.spotify.com/track/2Vt28AiNmO2Y4HpIpY7AxZ) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Dj Js da Bl](https://open.spotify.com/artist/4WsJ6J8ULT2wveR7ZdYdf4) | [Quem Não Erra em 2024](https://open.spotify.com/album/4ecWpUTm8kB4ZRHgrzl9Sn) | 2:12 | 2024-07-19 | 2024-07-24 |
 | [Caneta](https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 3:08 | 2023-12-30 |  |

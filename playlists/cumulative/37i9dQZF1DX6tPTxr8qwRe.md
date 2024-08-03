@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Sarah Defne Gray
+> Dark, hard hitting pop\. Cover: McKenna Grace
 
-732 songs - 1 day 9 hr 42 min
+735 songs - 1 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 | 2022-07-23 |
 | [Dream Girl](https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Chapter One](https://open.spotify.com/album/0UY2iRcHONUFNMkfd6zLtA) | 2:21 | 2022-11-18 | 2023-05-13 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-09-03 |
+| [Dynasty](https://open.spotify.com/track/5SubmdO0aLjNlF8B1u43DE) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Dynasty](https://open.spotify.com/album/5GHzMc06bOz6aWPNBfaaXX) | 2:24 | 2024-08-02 |  |
 | [Easier than Lying](https://open.spotify.com/track/7N1TIml2jRQRgXUrpXgXrk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:26 | 2022-03-18 | 2022-04-02 |
 | [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 | 2024-04-26 | 2024-06-29 |
 | [EGO!](https://open.spotify.com/track/0laq7DfW9YtPdvQsePTveK) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [EGO!](https://open.spotify.com/album/7ISSf6pMnWSMrpF1AjZqpM) | 2:28 | 2024-04-26 | 2024-06-29 |
@@ -361,7 +362,7 @@
 | [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 | 2024-04-24 | 2024-07-06 |
 | [JET LIKE BENNIE](https://open.spotify.com/track/772rV8Rld38jaLEZSCdFmO) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JET LIKE BENNIE](https://open.spotify.com/album/7DZkZFkkc6ssSsmGuZgrML) | 1:52 | 2024-01-12 | 2024-04-24 |
 | [JUICE BOX](https://open.spotify.com/track/6oZafL1or65dWK6OwYSM0u) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JUICE BOX](https://open.spotify.com/album/2XChtb4PHji5kdYRaEHY4n) | 1:54 | 2024-04-24 | 2024-06-29 |
-| [Jump Rope](https://open.spotify.com/track/2HOn21FfcrL8e2QHWc9e96) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Jump Rope](https://open.spotify.com/album/68mSmcOTx03AiQZH6MPzt3) | 3:06 | 2024-06-28 |  |
+| [Jump Rope](https://open.spotify.com/track/2HOn21FfcrL8e2QHWc9e96) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Jump Rope](https://open.spotify.com/album/68mSmcOTx03AiQZH6MPzt3) | 3:06 | 2024-06-28 | 2024-08-03 |
 | [jupiter](https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [jupiter](https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn) | 2:30 | 2023-09-22 | 2024-01-13 |
 | [Just A Girl](https://open.spotify.com/track/7IVLMNg2pZfPLdHkGUy3PM) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf), [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL) | [Just A Girl](https://open.spotify.com/album/1MQ4j779aERTz80VuaX4jr) | 2:45 | 2024-04-24 | 2024-07-27 |
 | [Just Kidding](https://open.spotify.com/track/67PEFHPYzlrzRiI3VWYbbR) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [Just Kidding](https://open.spotify.com/album/1Hqk9uklD979FtyJcMQNBK) | 2:26 | 2022-05-13 | 2022-06-18 |
@@ -431,7 +432,7 @@
 | [menace](https://open.spotify.com/track/1MiieWsKWwMrnwPK0NelAW) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [menace](https://open.spotify.com/album/1OTLjnsSxB7IbzpSg435jc) | 2:05 | 2022-09-23 | 2023-02-04 |
 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 | 2022-07-15 | 2022-10-08 |
 | [mess & a half](https://open.spotify.com/track/0YMBYW5r3mTJ4WwaKLKVkf) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [mess & a half](https://open.spotify.com/album/5fYJXrMRovW3O0ePPDApwX) | 2:31 | 2023-06-16 | 2023-10-21 |
-| [Metrohead](https://open.spotify.com/track/5a3Gh1ibupzmJndIsbNKx5) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Metrohead](https://open.spotify.com/album/5B2qOc1z9Sthk1ObBBEt3h) | 2:59 | 2024-06-07 |  |
+| [Metrohead](https://open.spotify.com/track/5a3Gh1ibupzmJndIsbNKx5) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Metrohead](https://open.spotify.com/album/5B2qOc1z9Sthk1ObBBEt3h) | 2:59 | 2024-06-07 | 2024-08-03 |
 | [MF Diamond](https://open.spotify.com/track/0IrKiuLgqn0OKgpc946yWG) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [MF Diamond](https://open.spotify.com/album/5ADnPZHWItRHANWoJRRcZl) | 2:47 | 2024-03-15 | 2024-06-29 |
 | [Midas](https://open.spotify.com/track/54hhLiIkQmKvoF3WtakcQk) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Midas](https://open.spotify.com/album/0ZVinMifIaIicM53K91vs7) | 2:35 | 2022-09-16 | 2022-10-22 |
 | [Midnight Killer](https://open.spotify.com/track/1ac6wfuv0ZUVV8SxKzO7YW) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Midnight Killer](https://open.spotify.com/album/2qTMUapzKkso71HfS6I1kD) | 2:36 | 2024-02-09 | 2024-03-23 |
@@ -597,6 +598,7 @@
 | [Soul Sucker, Pt\. 2](https://open.spotify.com/track/7lSRoGGERYMfi5mDotavru) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Soul Sucker, Pt\. 2](https://open.spotify.com/album/5DkmK3sQcBanrRg1lFHlMs) | 2:41 | 2021-11-12 | 2022-03-12 |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-08 | 2024-04-24 |
 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 | 2023-10-13 | 2023-10-21 |
+| [Spinning](https://open.spotify.com/track/0konGKeICsTN7QNanNxQ5O) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Spinning](https://open.spotify.com/album/7IwA96mZthwarmei8ZThJF) | 2:46 | 2024-08-02 |  |
 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-26 | 2024-06-15 |
 | [SPOOKED](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [SPOOKED](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 | 2023-10-27 | 2024-04-27 |
 | [STEPHEN KING](https://open.spotify.com/track/0G5VxInG6PoZuSnBisMXei) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:59 | 2024-02-02 | 2024-04-27 |
@@ -619,7 +621,8 @@
 | [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-26 |  |
 | [Sweatshirt \- Pettier](https://open.spotify.com/track/1lHd7db3a79MPI02e3xblS) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Sweatshirt \(Pettier\)](https://open.spotify.com/album/7rNzMil2oHfLYjeZnaU2ca) | 2:27 | 2022-05-27 | 2022-07-09 |
 | [sweet and sour](https://open.spotify.com/track/6HxDuyJRMGCTogdIjzZTNl) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [sweet and sour](https://open.spotify.com/album/2iajLyL99sPi81AaxMR6SJ) | 2:58 | 2021-12-10 | 2022-03-18 |
-| [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 | 2024-05-31 |  |
+| [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 | 2024-05-31 | 2024-08-03 |
+| [Swim Team](https://open.spotify.com/track/02bspHTO5nyWnlC57g6N2K) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Swim Team](https://open.spotify.com/album/3cXWNfufTSW2A552Wv3WAY) | 3:11 | 2024-08-02 |  |
 | [swimming pools](https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [swimming pools](https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN) | 2:32 | 2024-01-12 | 2024-02-17 |
 | [Take Me To Hell](https://open.spotify.com/track/2rmTtv5xWuqHiKzM4i0QjQ) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Take Me To Hell](https://open.spotify.com/album/0T4WcR1wyRD7om6x7scVvY) | 2:12 | 2022-10-28 | 2023-05-06 |
 | [Tangled Up In Me](https://open.spotify.com/track/0Z7NAD9A7qQS9WpYvMh5gL) | [Skye Sweetnam](https://open.spotify.com/artist/6GmanMVkSuu0Dsn86ZW9lK) | [Tangled Up In Me](https://open.spotify.com/album/7f0Az4nWIf7sRvBPyooafw) | 2:52 | 2022-02-04 | 2022-02-12 |

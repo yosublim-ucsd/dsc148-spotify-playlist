@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,736 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,755 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 38 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 |
 | 39 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/15k7Cy2QyZYV9getS22KXI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/2S7QuTmHNJKy4HIebRADEx) | 3:52 |
 | 40 | [I Wish I Was](https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 4:00 |
-| 41 | [Way Too Pretty for Prison \(with Maren Morris\)](https://open.spotify.com/track/6ZShReTf4SiT7LYXnRCks0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:14 |
+| 41 | [Nervous](https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Nervous](https://open.spotify.com/album/460txPWcdGTABVidLLDuiW) | 2:55 |
 | 42 | [Background Music](https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:34 |
-| 43 | [Nervous](https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Nervous](https://open.spotify.com/album/460txPWcdGTABVidLLDuiW) | 2:55 |
-| 44 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 |
+| 43 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 |
+| 44 | [Way Too Pretty for Prison \(with Maren Morris\)](https://open.spotify.com/track/6ZShReTf4SiT7LYXnRCks0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:14 |
 | 45 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
 | 46 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 |
 | 47 | [Get The Hell Out Of Here](https://open.spotify.com/track/6mRkXi6waYNaJTo7g4yDl6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 50 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
 | 51 | [Hummingbird](https://open.spotify.com/track/5RtZ4ebQFkCa6TGQjQshdd) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:19 |
 
-Snapshot ID: `Zql+gAAAAABevqq/wmLw8M+fZaOr5TEE`
+Snapshot ID: `ZqrQAAAAAAAn5ZfrdCrrdLDL3viPNR3n`

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24081,
+  "num_followers": 24090,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Mosaicos",
+        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 146791,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "TODO SOBRE LA NADA",
         "url": "https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 212867,
       "name": "PARAISO",
       "url": "https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Mosaicos",
-        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 146791,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 182291,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "Des",
         "url": "https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 243762,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 182291,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
     },
     {
       "added_at": "2024-05-31 12:45:40",

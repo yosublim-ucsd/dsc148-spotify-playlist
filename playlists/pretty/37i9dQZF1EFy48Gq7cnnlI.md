@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 83 | [Burnt Letters](https://open.spotify.com/track/43LKbeJBFLXlShCcfvwhOz) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:54 |
 | 84 | [Drink the World Dry](https://open.spotify.com/track/36FjsJeZkpMnzZ92JoQeFw) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Postcards from the Shell House](https://open.spotify.com/album/7kqk8Kpo0gf5Yzx9fOQuE1) | 3:00 |
 | 85 | [All American Queen](https://open.spotify.com/track/7oV6XYXTKqVdViwzzoJR70) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:40 |
-| 86 | [Only Lonely](https://open.spotify.com/track/0zOzQxA9fFCtZ2DP7yPRs9) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:22 |
-| 87 | [Positive Spin](https://open.spotify.com/track/6ywWV1XI3mWogQALI07rWB) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/6MrSPNedgZaHfO4KFzerPj) | 3:22 |
+| 86 | [Positive Spin](https://open.spotify.com/track/6ywWV1XI3mWogQALI07rWB) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/6MrSPNedgZaHfO4KFzerPj) | 3:22 |
+| 87 | [Only Lonely](https://open.spotify.com/track/0zOzQxA9fFCtZ2DP7yPRs9) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:22 |
 | 88 | [Full Moon](https://open.spotify.com/track/4nes2cElxP6FFb8LMwKI6a) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Postcards from the Shell House](https://open.spotify.com/album/7kqk8Kpo0gf5Yzx9fOQuE1) | 3:01 |
 | 89 | [Gentleman](https://open.spotify.com/track/7KoLPLKiPCuiJ1lXzOW7v4) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:48 |
 | 90 | [Let You Down](https://open.spotify.com/track/3RfCrI6Mmteu7Tp4xGndWd) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:15 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 111 | [Love Again](https://open.spotify.com/track/5a1gRWJqyuvuH9jfknO4yd) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Love Again](https://open.spotify.com/album/7ir4YDxoF1JGzuRvaYSZhF) | 3:05 |
 | 112 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 
-Snapshot ID: `AbYSXgAAAACy20BPt5c/iErl8AAMGT5s`
+Snapshot ID: `AbYX/gAAAAAbBEAb02Hrc1RIQoX2N+Qt`

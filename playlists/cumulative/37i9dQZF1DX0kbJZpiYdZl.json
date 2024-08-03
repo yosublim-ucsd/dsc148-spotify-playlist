@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest tracks in the United States. Cover: Shaboozey",
+  "description": "The hottest tracks in the United States. Cover: Sabrina Carpenter",
   "name": "Hot Hits USA",
   "tracks": [
     {
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
@@ -4017,6 +4017,28 @@
     },
     {
       "album": {
+        "name": "Guy For That",
+        "url": "https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164011,
+      "name": "Guy For That (Feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
+    },
+    {
+      "album": {
         "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
         "url": "https://open.spotify.com/album/5EMb5JomVavgkhB6ce0xfS"
       },
@@ -4808,6 +4830,24 @@
       "duration_ms": 160239,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "album": {
@@ -5996,6 +6036,28 @@
       "duration_ms": 179320,
       "name": "Lithonia",
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
+    },
+    {
+      "album": {
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
       "album": {
@@ -7222,7 +7284,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161119,
       "name": "Oh Shhh...(with Travis Scott)",
       "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
@@ -9090,7 +9152,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 230199,
       "name": "Somebody Save Me",
       "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"

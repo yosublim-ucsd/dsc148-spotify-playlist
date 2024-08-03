@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-119 songs - 5 hr 35 min
+120 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 | 2024-02-02 |  |
 | [Love Sick](https://open.spotify.com/track/1G6NXKZ8hslD7ATqhIGZKJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Love Sick](https://open.spotify.com/album/7MggIppKYSPlh6TLQeLFjN) | 1:52 | 2024-06-28 |  |
 | [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2024-03-29 |  |
-| [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2024-02-02 |  |
+| [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2024-02-02 | 2024-08-03 |
 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 | 2024-06-07 |  |
 | [neck & earz](https://open.spotify.com/track/2HyaJcJaVju393PK4LvFD8) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Tell It Like It Is](https://open.spotify.com/album/1u1VNFkQpO5UsTdes7cIv4) | 3:04 | 2024-05-10 |  |
 | [Need U Tonite \(with Genia\)](https://open.spotify.com/track/0DFrS6DTGOH3CEWFuPDKtk) | [Breez Kennedy](https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p), [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [Need U Tonite](https://open.spotify.com/album/1fosbY1jCipe3rYvEU8S8V) | 2:25 | 2024-02-02 |  |
@@ -86,13 +86,14 @@
 | [Peppermint](https://open.spotify.com/track/5bUx64o8X8FB15A7gk9x0G) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [I CANT FOCUS](https://open.spotify.com/album/0oZVxKfC4LSENpYNbOZbYQ) | 2:53 | 2024-02-02 |  |
 | [perfect timing](https://open.spotify.com/track/646HOaBSY3LfpbuIAnMrot) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [kame 'n left](https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7) | 3:12 | 2024-06-21 |  |
 | [Pray For You](https://open.spotify.com/track/7LzSqk3OR3tsphAFlQOdXE) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [Leave You Have My Blessing](https://open.spotify.com/album/68rBZiD0gpBzLIE7P8Zgv7) | 3:00 | 2024-03-29 |  |
-| [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 | 2024-02-02 |  |
+| [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 | 2024-02-02 | 2024-08-03 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 |  |
 | [Receipts](https://open.spotify.com/track/2xOjybeL1vGxDldY7IDnsw) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Receipts](https://open.spotify.com/album/5ReTSrbMWIIW8UN8ZCD7IP) | 3:24 | 2024-07-05 |  |
 | [RESET](https://open.spotify.com/track/5cxsqpBAzhPvityPDEFA7u) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU STILL MISS ME](https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl) | 2:43 | 2024-03-29 |  |
 | [Ridin' Shotgun](https://open.spotify.com/track/3V0AIBseDcSsxm8B5yVhBm) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [Ridin' Shotgun](https://open.spotify.com/album/4db6EzTNxSHtDKdaZMXJLh) | 1:53 | 2024-05-03 |  |
 | [Right My Wrongs](https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 4:09 | 2024-02-02 |  |
 | [S t u c k I n M y W a y s](https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:59 | 2024-04-26 |  |
+| [Selfie](https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Selfie](https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK) | 2:44 | 2024-08-02 |  |
 | [Sin on Purpose](https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Sin on Purpose](https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G) | 2:23 | 2024-02-02 |  |
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2024-02-02 |  |
 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2024-02-02 |  |
@@ -107,8 +108,8 @@
 | [today](https://open.spotify.com/track/3CeObtgyBu5kGWo3T8QDxn) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [today](https://open.spotify.com/album/0PKvX5TqcrWwadnfGDWe2r) | 1:35 | 2024-07-13 |  |
 | [Too Deep](https://open.spotify.com/track/27SWMXDonOi2apKXgj5EYM) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Too Deep](https://open.spotify.com/album/0HfOaaQirIIiwkcJWkLfBN) | 2:19 | 2024-03-15 |  |
 | [Too Much](https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Too Much](https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc) | 3:50 | 2024-06-21 |  |
-| [Toxic](https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Toxic](https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN) | 2:20 | 2024-02-02 |  |
-| [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 | 2024-02-02 |  |
+| [Toxic](https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Toxic](https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN) | 2:20 | 2024-02-02 | 2024-08-03 |
+| [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 | 2024-02-02 | 2024-08-03 |
 | [ttuctmd](https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [ttuctmd](https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u) | 2:00 | 2024-02-02 |  |
 | [TWENTY NIGHTS](https://open.spotify.com/track/2luxd3WEcEACrORUnXvITr) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 3:16 | 2024-02-02 |  |
 | [Unsettling \(feat\. Vory\)](https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:44 | 2024-02-23 |  |

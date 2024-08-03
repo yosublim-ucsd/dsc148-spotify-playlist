@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 102149,
+  "num_followers": 102161,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABVYTHqnj2ZpEVt3C/FkPuf",
+  "snapshot_id": "ZqrQAAAAAACMVXFULUs/coh4/mECzg0N",
   "tracks": [
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Hollywood Bowl With Orchestra",
-        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 515226,
-      "name": "Prisoner (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC"
+      "duration_ms": 174560,
+      "name": "Well, I Done Got Over It",
+      "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+        "name": "Live At The Hollywood Bowl With Orchestra",
+        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Well, I Done Got Over It",
-      "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
+      "duration_ms": 515226,
+      "name": "Prisoner (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 343906,
+      "name": "Mountain Climbing",
+      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S.O.S. 4: Blues For Your Soul",
         "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 343906,
-      "name": "Mountain Climbing",
-      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At The Hollywood Bowl With Orchestra",
         "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
       },
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 237400,
-      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/04zlD4XLqclgxmRmjHPzm4"
+      "duration_ms": 508400,
+      "name": "No Good Place For The Lonely (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/4hLXcBEmTbvhEJpAafXV2O"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 508400,
-      "name": "No Good Place For The Lonely (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/4hLXcBEmTbvhEJpAafXV2O"
+      "duration_ms": 237400,
+      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/04zlD4XLqclgxmRmjHPzm4"
     },
     {
       "added_at": null,
@@ -631,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Hollywood Bowl With Orchestra",
-        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
       "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 542546,
-      "name": "Curtain Call (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/3j6b3qvPatlN1wfFtoxxnP"
+      "duration_ms": 213826,
+      "name": "Driving Wheel",
+      "url": "https://open.spotify.com/track/4Lvby06863caCqrmISPYp3"
     },
     {
       "added_at": null,
@@ -663,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.O.S. 4: Blues For Your Soul",
-        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+        "name": "Live At The Hollywood Bowl With Orchestra",
+        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
       },
       "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 213826,
-      "name": "Driving Wheel",
-      "url": "https://open.spotify.com/track/4Lvby06863caCqrmISPYp3"
+      "duration_ms": 542546,
+      "name": "Curtain Call (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/3j6b3qvPatlN1wfFtoxxnP"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 250960,
+      "name": "Man of Many Words",
+      "url": "https://open.spotify.com/track/6hhe7LQXLdkzHx3wShTsau"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 412333,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Man of Many Words",
-      "url": "https://open.spotify.com/track/6hhe7LQXLdkzHx3wShTsau"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,526 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,521 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 49 | [Thinking out Loud](https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:41 |
 | 50 | [Haunted](https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:20 |
 | 51 | [This Is How It Feels \(with Laufey\)](https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:44 |
-| 52 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 |
+| 52 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
 | 53 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
-| 54 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
+| 54 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 |
 | 55 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 |
 | 56 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
 | 57 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 |

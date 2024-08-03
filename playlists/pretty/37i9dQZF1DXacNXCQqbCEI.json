@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 353091,
+  "num_followers": 353103,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "B\u00faho",
+        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bleat",
+          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
+        }
+      ],
+      "duration_ms": 300338,
+      "name": "B\u00faho",
+      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/2Fqn3yj8vWJKUK6fXaLd3w"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 286000,
       "name": "Jardines",
       "url": "https://open.spotify.com/track/0mtF7aTcgLR6uhx28ovali"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "B\u00faho",
-        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bleat",
-          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
-        }
-      ],
-      "duration_ms": 300338,
-      "name": "B\u00faho",
-      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -479,22 +479,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+        "name": "Desierto",
+        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
       },
       "artists": [
         {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+          "name": "Simah",
+          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
         }
       ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+      "duration_ms": 173043,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -519,34 +515,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Desierto",
-        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
       "artists": [
         {
-          "name": "Simah",
-          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
-        }
-      ],
-      "duration_ms": 173043,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Cumbias Imaquinarias - EP",
-        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
-      },
-      "artists": [
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
         }
       ],
-      "duration_ms": 300000,
-      "name": "La Cumbia De La Ansiedad",
-      "url": "https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7"
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -563,6 +547,22 @@
       "duration_ms": 319169,
       "name": "Mu\u00ed\u00f1o",
       "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Cumbias Imaquinarias - EP",
+        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "La Cumbia De La Ansiedad",
+      "url": "https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Fuego Nuevo",
-        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Levanta Muertos",
-      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Misturas",
         "url": "https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 263299,
       "name": "Mi Naturaleza - Montoya Remix",
       "url": "https://open.spotify.com/track/0FTv9c0vGeq5fMTI1Wz8Ko"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Fuego Nuevo",
+        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Levanta Muertos",
+      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
     },
     {
       "added_at": "2024-07-12 22:50:04",

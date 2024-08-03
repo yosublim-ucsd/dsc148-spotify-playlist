@@ -4,7 +4,7 @@
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! クレヨンしんちゃんのテレビアニメ主題歌、映画シリーズ歴代主題歌などを辿る公式プレイリスト！©︎臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2024
 
-40 songs - 2 hr 36 min
+41 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [SUPER SHIRO](https://open.spotify.com/track/4I06IqH4OPB6Ah1OXlBBZD) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [SUPER SHIRO](https://open.spotify.com/album/6EWm97Xd7mrZWSXFQ1dX02) | 2:23 | 2023-07-30 |  |
 | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/track/2kKVUTLDGmE8l8Vn9tdQLq) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/album/20D0DFc7SZvfqyFG3h1Eu3) | 0:27 | 2023-07-30 | 2023-08-05 |
 | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/track/07ez3b5FLN4HmXOeRkBnjO) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/album/3UBd09f4vBZnKGaB2O4Zpu) | 0:35 | 2023-08-03 | 2024-08-02 |
+| [『映画クレヨンしんちゃん オラたちの恐竜日記』まもなく公開](https://open.spotify.com/track/1BAOUzRIDTpKpHIlPN6cRW) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『映画クレヨンしんちゃん オラたちの恐竜日記』まもなく公開](https://open.spotify.com/album/41rYSLyAovZPf6ImIh8ltn) | 0:42 | 2024-08-01 |  |
 | [ありの歌](https://open.spotify.com/track/5AoL1SV17GvfEpXrhxaGbb) | [Yanawaraba](https://open.spotify.com/artist/26fgUj6cT6YrmPCc4Ey3e3) | [結\~ベスト&コラボレーション\~/ベスト盤](https://open.spotify.com/album/33QyXOCv3TF3N9o6gaLain) | 2:27 | 2023-08-03 |  |
 | [うたをうたおう](https://open.spotify.com/track/4HVzTENSxdLPwbvnX5acod) | [Daijiman Brothers Band](https://open.spotify.com/artist/3XA6oxaRzxYNoLwDeOTu36) | [ゴールデン★ベスト 大事MANブラザーズバンド](https://open.spotify.com/album/0ivMGCmbCGMG3WeDLjUayS) | 4:40 | 2023-08-03 |  |
 | [うたをうたおう](https://open.spotify.com/track/4yM0EWM14ST6g7rmuOfWue) | [Daijiman Brothers Band](https://open.spotify.com/artist/3XA6oxaRzxYNoLwDeOTu36) | [ゴールデン★ベスト 大事MANブラザーズバンド](https://open.spotify.com/album/34uGoAPw10Krk7VV1sQ2Qt) | 4:40 | 2023-07-30 | 2024-04-19 |

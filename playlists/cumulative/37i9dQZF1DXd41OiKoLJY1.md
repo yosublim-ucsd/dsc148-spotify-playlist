@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Calista Artwork: Isu Kim
 
-2,591 songs - 6 day 8 hr 21 min
+2,592 songs - 6 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1840,6 +1840,7 @@
 | [Paulit\-ulit Na Lang Ba](https://open.spotify.com/track/12zI241KaESL6nCPrMJU1Z) | [Zync](https://open.spotify.com/artist/0VysruqTAcxwoltfSK7Yoc), [Crisler](https://open.spotify.com/artist/3XbB6blW4xZM2EPCj74KAV) | [Paulit\-ulit Na Lang Ba](https://open.spotify.com/album/0adtmvhZkQEjhzmCZS6Qbf) | 4:36 | 2023-06-01 | 2023-06-23 |
 | [Payapa](https://open.spotify.com/track/53yTYyTDCnRNor844jPGWu) | [Soulution Worship](https://open.spotify.com/artist/4BC2CPGkM5dwH7sqiaoXmi) | [Payapa](https://open.spotify.com/album/01Lpq5JeTKSShjXiepCfPg) | 4:47 | 2023-04-06 | 2023-04-28 |
 | [PEACE OF MIND](https://open.spotify.com/track/0JAV00XM5K9ve3pKCkn7QJ) | [WLFTOWN](https://open.spotify.com/artist/65PIGJ98oayXEVcBnzZg9M) | [PEACE OF MIND](https://open.spotify.com/album/6mJOhS9OLDTCZdWTQhRnUA) | 3:46 | 2022-09-08 | 2022-12-01 |
+| [Peaches](https://open.spotify.com/track/2s5AipH9QZ8ObIGEnbEeM7) | [JONAVI](https://open.spotify.com/artist/6zKX6Ksa6Yk5OZRG1Fk7vA) | [Peaches](https://open.spotify.com/album/0mV0LbwpbrUvehPNOEV1wa) | 2:27 | 2024-08-01 |  |
 | [Peakin'](https://open.spotify.com/track/6cqLnnOGudbQwDkuZmnUOj) | [jaueh](https://open.spotify.com/artist/55tELptGSIO8ZgfxMNtnXW), [Young MLV](https://open.spotify.com/artist/0Mn6idUPno7XCcZzHPvQuv) | [Peakin'](https://open.spotify.com/album/6B3WfyqFtDlYW8fhRWe497) | 3:40 | 2023-09-21 | 2023-10-13 |
 | [Pedro Gil](https://open.spotify.com/track/2bBErqAITbqQxR7BeVSr4T) | [Magic Strawberry](https://open.spotify.com/artist/3zGhjRCQkEWQ1LFkCq9VP7) | [Pedro Gil](https://open.spotify.com/album/1uE7DedunGJV6tL0u1IuRa) | 2:58 | 2023-03-09 | 2023-03-31 |
 | [Peligro](https://open.spotify.com/track/2L5YHlxNGuKmAQ6J8LE1up) | [Sound](https://open.spotify.com/artist/4fon6I2F4biN5OAfOs40Iy) | [Peligro](https://open.spotify.com/album/4HW2YszsF6BbfTprUBCZ8R) | 4:17 | 2023-08-10 | 2023-09-01 |

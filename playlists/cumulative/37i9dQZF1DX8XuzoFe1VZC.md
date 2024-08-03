@@ -4,7 +4,7 @@
 
 > ¡Una inyección de alegría para tus mañanas!
 
-320 songs - 16 hr 18 min
+321 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2023-04-07 | 2024-01-14 |
 | [Me Aburro](https://open.spotify.com/track/6k57RYJS2ccMw0irLZS6yo) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Me Aburro](https://open.spotify.com/album/2C2mX0sRaCgs9ZM5Mcmo5j) | 3:06 | 2023-07-21 | 2023-08-16 |
 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 | 2023-05-19 |  |
+| [MENTE EN BLANCO](https://open.spotify.com/track/50OckWpSCDhxhaxMeGxjlN) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [MENTE EN BLANCO](https://open.spotify.com/album/0ikLej2WXj8Ttgl5Bc0xeb) | 2:34 | 2024-08-02 |  |
 | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/album/1adrM169dtUitpsQomXsX3) | 2:48 | 2024-01-08 |  |
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-03-31 |  |
 | [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-03-31 | 2023-08-12 |
@@ -271,7 +272,7 @@
 | [Sálvame](https://open.spotify.com/track/3oZtDXfUZdj3h9hDo0g0YZ) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Sálvame](https://open.spotify.com/album/0vheFjclGyohQQ8SXHKzrP) | 3:20 | 2023-07-07 | 2023-08-16 |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2023-03-31 | 2023-08-12 |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-07 |  |
-| [Tas Texteandome](https://open.spotify.com/track/7spAR93xvPOfkxIeTGbpPf) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Tas Texteandome](https://open.spotify.com/album/4lcpQOkpFBp3qGV0jR8N6v) | 2:56 | 2023-12-06 |  |
+| [Tas Texteandome](https://open.spotify.com/track/7spAR93xvPOfkxIeTGbpPf) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Tas Texteandome](https://open.spotify.com/album/4lcpQOkpFBp3qGV0jR8N6v) | 2:56 | 2023-12-06 | 2024-08-03 |
 | [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 | 2023-05-19 | 2023-08-12 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2023-03-31 | 2023-12-08 |
 | [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2023-10-06 | 2023-12-07 |

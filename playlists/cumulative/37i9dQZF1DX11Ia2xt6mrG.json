@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "ALBA (AZATT Rework)",
+        "url": "https://open.spotify.com/album/6Hf4ULUFSCCscyeufkvmIW"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        },
+        {
+          "name": "AZATT",
+          "url": "https://open.spotify.com/artist/4TlGcTtJmScOBh0WpOZNfc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322773,
+      "name": "ALBA - AZATT Rework",
+      "url": "https://open.spotify.com/track/5Mkqw9EMao4EHDI9jRfYLW"
+    },
+    {
+      "album": {
         "name": "All Nite",
         "url": "https://open.spotify.com/album/3Vo5jZyPTCs1iBW9eZhetu"
       },
@@ -374,7 +396,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 243762,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
@@ -657,6 +679,28 @@
     },
     {
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/32vAw1g4NN3FuJNwXYzJIf"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225714,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/40BbwFN1fxhaD9kWK8fFWc"
+    },
+    {
+      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj"
       },
@@ -748,7 +792,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 151680,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
@@ -916,7 +960,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 259306,
       "name": "CLI CLI Clan Clan",
       "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
@@ -2244,6 +2288,28 @@
       "duration_ms": 140820,
       "name": "GPI - Remix",
       "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
+    },
+    {
+      "album": {
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "album": {
@@ -6061,6 +6127,28 @@
     },
     {
       "album": {
+        "name": "Thought About It",
+        "url": "https://open.spotify.com/album/1lQc57gdELWV3cUKZFLIbD"
+      },
+      "artists": [
+        {
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
+        },
+        {
+          "name": "Coco Bevan",
+          "url": "https://open.spotify.com/artist/61DCCdxVPQhC6aghew5S8f"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179441,
+      "name": "Thought About It",
+      "url": "https://open.spotify.com/track/3P98TNuqIg7Up3fTvPBzcP"
+    },
+    {
+      "album": {
         "name": "Thousand Drums",
         "url": "https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd"
       },
@@ -6824,7 +6912,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 167666,
       "name": "\u00a1Bang Bang!",
       "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"

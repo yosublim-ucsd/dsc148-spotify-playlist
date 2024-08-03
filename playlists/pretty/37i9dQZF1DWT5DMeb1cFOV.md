@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 
 > La colonna sonora perfetta per le giornate di lavoro da casa, alla scrivania o sul divano! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,233 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,237 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 | 25 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [FRIENDS KEEP SECRETS](https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ) | 2:50 |
 | 26 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 |
 | 27 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
-| 28 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
-| 29 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
+| 28 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
+| 29 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
 | 30 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 |
 | 31 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
 | 32 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 |

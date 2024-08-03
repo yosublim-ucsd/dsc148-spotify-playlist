@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
-      "added_at": "2024-07-18 14:00:00",
-      "album": {
-        "name": "Nack Nostalgia",
-        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 187433,
-      "name": "Nack Nostalgia",
-      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
-    },
-    {
       "added_at": "2024-07-25 14:00:00",
       "album": {
         "name": "Ask That God",
@@ -279,6 +263,22 @@
       "duration_ms": 256381,
       "name": "The Feeling You Get",
       "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
+    },
+    {
+      "added_at": "2024-07-18 14:00:00",
+      "album": {
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Claw Foot",
-      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Next Exit",
         "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 201000,
       "name": "Next Exit",
       "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 166973,
+      "name": "Claw Foot",
+      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Touchy Subject",
-        "url": "https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Touchy Subject",
-      "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
-    },
-    {
       "added_at": "2024-07-11 14:00:00",
       "album": {
         "name": "All Your Life",
@@ -687,6 +671,22 @@
       "duration_ms": 192103,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Touchy Subject",
+        "url": "https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Touchy Subject",
+      "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Still Have Room",
-        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
-      },
-      "artists": [
-        {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
-        }
-      ],
-      "duration_ms": 142584,
-      "name": "Still Have Room",
-      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Don't Know",
         "url": "https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 132941,
       "name": "Don't Know",
       "url": "https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Still Have Room",
+        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 142584,
+      "name": "Still Have Room",
+      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1005,6 +1005,22 @@
       "url": "https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO"
     },
     {
+      "added_at": "2024-06-13 14:00:00",
+      "album": {
+        "name": "Rebuild Repeat",
+        "url": "https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 145197,
+      "name": "Wreck & Ruin",
+      "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
+    },
+    {
       "added_at": "2024-07-11 14:00:00",
       "album": {
         "name": "Boyfriend",
@@ -1021,20 +1037,20 @@
       "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
     },
     {
-      "added_at": "2024-06-13 14:00:00",
+      "added_at": "2024-06-06 14:00:00",
       "album": {
-        "name": "Rebuild Repeat",
-        "url": "https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox"
+        "name": "24 Hours in Paris",
+        "url": "https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha"
       },
       "artists": [
         {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
         }
       ],
-      "duration_ms": 145197,
-      "name": "Wreck & Ruin",
-      "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
+      "duration_ms": 180673,
+      "name": "24 Hours in Paris",
+      "url": "https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1067,22 +1083,6 @@
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo"
-    },
-    {
-      "added_at": "2024-06-06 14:00:00",
-      "album": {
-        "name": "24 Hours in Paris",
-        "url": "https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 180673,
-      "name": "24 Hours in Paris",
-      "url": "https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1153,38 +1153,6 @@
       "url": "https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Caught in a Reverie",
-        "url": "https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Train Left The Station",
-      "url": "https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 199682,
-      "name": "Down To The Sea",
-      "url": "https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2"
-    },
-    {
       "added_at": "2024-07-11 14:00:00",
       "album": {
         "name": "Discoth\u00e8que Inside My Head",
@@ -1199,6 +1167,22 @@
       "duration_ms": 214346,
       "name": "Discoth\u00e8que Inside My Head",
       "url": "https://open.spotify.com/track/7vytqQKZBdWwpfA3aYPRGJ"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Caught in a Reverie",
+        "url": "https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Train Left The Station",
+      "url": "https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Pedestal",
-        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn"
       },
       "artists": [
         {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 261798,
-      "name": "Pedestal",
-      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
+      "duration_ms": 199682,
+      "name": "Down To The Sea",
+      "url": "https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1263,6 +1247,22 @@
       "duration_ms": 190851,
       "name": "Fingerprints",
       "url": "https://open.spotify.com/track/4kAlUfeHA7oxVKPs823Goj"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 261798,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
     },
     {
       "added_at": "2024-05-31 03:34:39",

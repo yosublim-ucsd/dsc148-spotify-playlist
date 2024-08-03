@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDafB3skWPN.md) - [plain]
 
 > Celebrate yourself with a fun pop & hip hop mix
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,410 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,436 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDafB3skWPN.md) - [plain]
 | 45 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 |
 | 46 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
 | 47 | [Tia Tamera \(feat\. Rico Nasty\)](https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Amala \(Deluxe Version\)](https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU) | 3:31 |
-| 48 | [Money](https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Money](https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P) | 3:03 |
+| 48 | [I'm Sprung](https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:51 |
 | 49 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 |
-| 50 | [I'm Sprung](https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:51 |
+| 50 | [Money](https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Money](https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P) | 3:03 |
 
 Snapshot ID: `ZpAKcwAAAADW2WJCsI0kMOJV4lpbuTcV`

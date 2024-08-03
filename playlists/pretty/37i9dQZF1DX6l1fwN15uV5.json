@@ -1,6 +1,6 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1469293,
+  "num_followers": 1469331,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "The Works (2011 Remaster)",
         "url": "https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 198773,
       "name": "I Want To Break Free - Remastered 2011",
       "url": "https://open.spotify.com/track/1MsBRSbt5dqJSw3RxXtvCM"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "So (Remastered)",
-        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 394826,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 224320,
       "name": "Crazy for You",
       "url": "https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "So (Remastered)",
+        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 394826,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Big Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 266200,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223733,
+      "name": "Big Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
     }
   ],
   "unique_name": "Easy 80s",

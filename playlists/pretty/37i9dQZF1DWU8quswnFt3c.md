@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Céline Dion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,809 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,464 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

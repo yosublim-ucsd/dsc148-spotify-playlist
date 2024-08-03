@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,668 likes - 80 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,878 likes - 80 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 36 | [The Great Commandment](https://open.spotify.com/track/6As51KsSXmA7SUmM32t8UZ) | [Camouflage](https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN) | [Westside 25th Anniversary](https://open.spotify.com/album/5vLIUQ71BxikOdHqpBcpG2) | 5:28 |
 | 37 | [The Sun Always Shines on T.V\. \- Extended Version](https://open.spotify.com/track/1naErYuUEfrmNcwn2EQWBU) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low \(Deluxe Edition\)](https://open.spotify.com/album/5CpGnl4MhdAMDqPQadQrWj) | 8:25 |
 | 38 | [True Blue \- The Color Mix](https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 6:36 |
-| 39 | [I'm So Excited \(12" Extended Mix\)](https://open.spotify.com/track/2oCCGj7l4QVmamyoyPh4CR) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Dance Vault Remixes](https://open.spotify.com/album/3zGFU1Eq1SCPkmYGmuCCxB) | 5:43 |
-| 40 | [West End Girls \- Disco Mix](https://open.spotify.com/track/56JlUxlgZS1ZFgjopdgdBt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Disco](https://open.spotify.com/album/69uM5D9lGcA0ODQ8yTXfaj) | 9:03 |
+| 39 | [West End Girls \- Disco Mix](https://open.spotify.com/track/56JlUxlgZS1ZFgjopdgdBt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Disco](https://open.spotify.com/album/69uM5D9lGcA0ODQ8yTXfaj) | 9:03 |
+| 40 | [I'm So Excited \(12" Extended Mix\)](https://open.spotify.com/track/2oCCGj7l4QVmamyoyPh4CR) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Dance Vault Remixes](https://open.spotify.com/album/3zGFU1Eq1SCPkmYGmuCCxB) | 5:43 |
 | 41 | [The Riddle \- Extended Riddle](https://open.spotify.com/track/0igY0kvEQIEyvC9Uj9DYY1) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [The Riddle \(Expanded Edition\)](https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq) | 5:10 |
 | 42 | [Sunshine Reggae \- 12" Version](https://open.spotify.com/track/5t1IKim2yq7cZ3H4FPYly7) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 6:37 |
 | 43 | [\(I Wanna Give You\) Devotion \- Original Club Mix](https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A) | [Nomad](https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM) | [\(I Wanna Give You\) Devotion](https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC) | 6:49 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 70 | [Jump \(For My Love\) \- 12" Long Version](https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Goldmine: The Best Of The Pointer Sisters](https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7) | 6:24 |
 | 71 | [Ain't Nothin' Goin' On But The Rent \- 12" Club Mix](https://open.spotify.com/track/1i0az2pG8teXklaM7jYy1j) | [Gwen Guthrie](https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 3:26 |
 | 72 | [High Energy \(Extended Version\)](https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ) | [Evelyn Thomas](https://open.spotify.com/artist/2YLxwK8ceDNaG8RHhtkcQh) | [High Energy](https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn) | 7:51 |
-| 73 | [Vamos a la Playa \- 1983 Maxi](https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 5:06 |
-| 74 | [Back To Life \(However Do You Want Me\) \- One World Remix](https://open.spotify.com/track/41k3TdCIcig3faspsOEtt9) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 6:34 |
+| 73 | [Back To Life \(However Do You Want Me\) \- One World Remix](https://open.spotify.com/track/41k3TdCIcig3faspsOEtt9) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 6:34 |
+| 74 | [Vamos a la Playa \- 1983 Maxi](https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 5:06 |
 | 75 | [The Reflex \- Dance Mix](https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [The Singles 81\-85](https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a) | 6:34 |
 | 76 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF) | 6:18 |
 | 77 | [Never Let Me Down Again \- Aggro Mix](https://open.spotify.com/track/0s7024HpwRg7dJjGy2gE3P) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses](https://open.spotify.com/album/5Yyx661Ksxl2pmRUuGLzw3) | 4:56 |

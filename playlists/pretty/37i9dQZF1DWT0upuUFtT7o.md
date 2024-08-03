@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,850 likes - 102 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,905 likes - 102 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 5 | [Burden](https://open.spotify.com/track/2E91EijEIcTjgtkalnrAov) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Burden](https://open.spotify.com/album/1l0qgjiQmZzFDox4zaGg4E) | 3:19 |
 | 6 | [Girlfriend](https://open.spotify.com/track/0mbBHDQu78jWP1rETou65s) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Girlfriend](https://open.spotify.com/album/0PnfeZqipy9CZF9FzDAx4v) | 3:17 |
 | 7 | [Bug Bite](https://open.spotify.com/track/3n6GIJKukJcU0z2PLR4AgV) | [Polami Roko](https://open.spotify.com/artist/0wBE7qOeJzcyqHaOgMdzhr) | [Bug Bite](https://open.spotify.com/album/542jUay4Kn3Z34rZXc56ez) | 2:58 |
-| 8 | [Presence](https://open.spotify.com/track/0sC050Ym8TNMuBNSn0ilYW) | [Bobby Peppermint](https://open.spotify.com/artist/52sLlXe0RySIpfuhTtsvDo) | [Presence](https://open.spotify.com/album/6UZ2Htk0SMwcpLjXfS33f4) | 2:17 |
+| 8 | [Presence](https://open.spotify.com/track/0sC050Ym8TNMuBNSn0ilYW) | [Bobby Peppermint](https://open.spotify.com/artist/52sLlXe0RySIpfuhTtsvDo), [Heaven Slight](https://open.spotify.com/artist/32LEcsG3biRsMzdU6VVoMd) | [Presence](https://open.spotify.com/album/6UZ2Htk0SMwcpLjXfS33f4) | 2:17 |
 | 9 | [Drivel](https://open.spotify.com/track/4K3J6PsyLCtw8alooROF91) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Splat](https://open.spotify.com/album/7c6W2rxT4siItwaGpGIDbn) | 2:45 |
 | 10 | [chaperone](https://open.spotify.com/track/1vclWLEoykWDgSAUvubukb) | [Mermaid Chunky](https://open.spotify.com/artist/5IVLihKRLMZ5RHzSPa7cAI) | [chaperone](https://open.spotify.com/album/74mSBOPwTrTxW5ACmmIp4a) | 7:43 |
 | 11 | [Can't Be Replaced](https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Can't Be Replaced](https://open.spotify.com/album/7xJIMVxZethRdgC4RR2XLV) | 3:39 |

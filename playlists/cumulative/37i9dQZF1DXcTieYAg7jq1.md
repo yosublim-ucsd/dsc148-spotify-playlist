@@ -2,14 +2,15 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: Lake Street Dive
+> Featuring that new vintage\. Cover: Stephen Day
 
-412 songs - 23 hr 38 min
+413 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4321](https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [4321](https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo) | 3:52 | 2023-11-17 | 2024-05-03 |
 | [9](https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [9](https://open.spotify.com/album/52Of3CIb4EXdoyldUFg7An) | 4:31 | 2021-12-03 | 2022-07-11 |
+| [A Bar on the West Side of Town](https://open.spotify.com/track/1TR6uCeeDkDrWEZ2utFySv) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Gold Mine](https://open.spotify.com/album/352Ay6TGW4fg3hRshekgbV) | 2:35 | 2024-08-02 |  |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2022-07-01 | 2023-02-16 |
 | [Addiction](https://open.spotify.com/track/5zzN7Dvt8eJI8m7egpKRdM) | [Nina Tonji](https://open.spotify.com/artist/4tDdvHgJos0AlSU3sptU1q), [Jay Adams](https://open.spotify.com/artist/6MUJd2wLr0VB7SXy9kPgJ8), [Ben Molinaro](https://open.spotify.com/artist/3DYu0keMqdZnNJ3QezVFMG) | [Don't Try](https://open.spotify.com/album/53qLFnHCxA1bDGGSyxfkAk) | 2:55 | 2022-09-09 | 2023-02-16 |
 | [ADULTHOOD](https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:43 | 2021-12-03 | 2023-01-08 |
@@ -196,7 +197,7 @@
 | [In Water](https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [In Water](https://open.spotify.com/album/6oADPnUSjOQjUEl4FffwHU) | 3:47 | 2022-04-22 | 2024-03-16 |
 | [Infinite Love](https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u) | [Lane Brothers](https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN) | [Lane Brothers](https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9) | 3:25 | 2024-02-23 |  |
 | [It Don't Matter](https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc) | [Elise Azkoul](https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE) | [It Don't Matter](https://open.spotify.com/album/5CSe4p4wJpggsELemioCqj) | 3:33 | 2022-05-06 |  |
-| [It Was You](https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [It Was You](https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh) | 3:16 | 2024-05-03 |  |
+| [It Was You](https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [It Was You](https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh) | 3:16 | 2024-05-03 | 2024-08-03 |
 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-04-29 | 2023-05-13 |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-09-09 | 2024-02-17 |
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2022-01-28 | 2023-02-16 |

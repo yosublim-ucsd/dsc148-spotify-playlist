@@ -1,12 +1,12 @@
 {
-  "description": "This is Luca Brasi. The essential tracks, all in one playlist.",
-  "num_followers": 868,
+  "description": "This is Luca Brasi. Tutti i brani in un'unica playlist.",
+  "num_followers": 867,
   "original_name": "This Is Luca Brasi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADd0Kp7fJHyiR8RS6HDRzpa",
+  "snapshot_id": "ZqrQAAAAAAB8z4CcS9bSS/ErqUd9yHrH",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 220440,
-      "name": "Sonny",
-      "url": "https://open.spotify.com/track/5JLEFymt4B4AvtQvx0G4VO"
+      "duration_ms": 98493,
+      "name": "The Entry Ramp",
+      "url": "https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 98493,
-      "name": "The Entry Ramp",
-      "url": "https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ"
+      "duration_ms": 220440,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/5JLEFymt4B4AvtQvx0G4VO"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 131542,
-      "name": "Drop Out",
-      "url": "https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo"
+      "duration_ms": 180888,
+      "name": "Overwhelmed / Ill Prepared",
+      "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 180888,
-      "name": "Overwhelmed / Ill Prepared",
-      "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
+      "duration_ms": 131542,
+      "name": "Drop Out",
+      "url": "https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo"
     },
     {
       "added_at": null,

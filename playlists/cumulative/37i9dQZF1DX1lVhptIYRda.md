@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Luke Combs and Post Malone
+> Today's top country hits\. Cover: Kacey Musgraves
 
-796 songs - 1 day 18 hr 59 min
+799 songs - 1 day 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [7 Summers](https://open.spotify.com/track/0Z0kNthq0sS4lvGz9SSlBF) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [7 Summers](https://open.spotify.com/album/35zHXkjCkrJFy7x2C2zUvn) | 3:30 | 2020-08-15 | 2021-02-03 |
 | [7500 OBO](https://open.spotify.com/track/7A4WmJcWx6KrVRfQ2CP8e7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 3:41 | 2021-11-13 | 2022-04-23 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-19 |  |
+| [A Cigarette](https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [A Cigarette](https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u) | 2:59 | 2024-08-02 |  |
 | [A Song to Remember](https://open.spotify.com/track/62Ovt2av0MlBvorjVeINQP) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [A Song to Remember](https://open.spotify.com/album/4KGKWE4V71HwOH7hCfuR79) | 3:11 | 2020-09-05 | 2020-12-12 |
 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 | 2023-02-17 | 2023-06-17 |
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2022-01-21 | 2022-07-16 |
@@ -31,7 +32,7 @@
 | [Ain't Missin' You](https://open.spotify.com/track/7tthSTXf5hvLdzW8fb2Kzy) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/023kFfJCSir9ZO6PjS13UB) | 2:56 | 2023-11-03 | 2024-01-27 |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-05-17 |  |
 | [Alcohol You Later](https://open.spotify.com/track/16HAr3eu7TCbeJ0IOJLQxY) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Mitchell Tenpenny \- EP](https://open.spotify.com/album/36Hros61c2dlrO3A5ZapaW) | 3:07 | 2019-05-26\* | 2019-09-08 |
-| [All Again](https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 3:48 | 2024-03-01 |  |
+| [All Again](https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 3:48 | 2024-03-01 | 2024-08-03 |
 | [All American](https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [All American](https://open.spotify.com/album/6lhrfOe8aN6TVyl1cynFmV) | 3:02 | 2021-09-18 | 2022-01-22 |
 | [All I Need Is You](https://open.spotify.com/track/02FAxAwzApe6pAqfAL3dLr) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All I Need Is You](https://open.spotify.com/album/1tc6XshhetHi2jagwM3UhS) | 2:42 | 2023-06-16 | 2023-10-14 |
 | [All Night](https://open.spotify.com/track/0gv4JVcgmb8HihoucEXVxh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:48 | 2020-10-09 | 2020-10-18 |
@@ -51,6 +52,7 @@
 | [Anything but Yellow](https://open.spotify.com/track/7HDpJlJj7OSJKsKXjllJeV) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Anything but Yellow](https://open.spotify.com/album/0sXFSZWJgiIheiygxFhnXv) | 3:00 | 2019-07-13 | 2019-08-10 |
 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2019-08-24 | 2020-06-21 |
 | [Arkansas Diamond](https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond](https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa) | 3:03 | 2024-07-19 |  |
+| [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 | 2024-08-02 |  |
 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 | 2021-08-07 | 2022-02-19 |
 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-29 | 2024-04-19 |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-08 |  |
@@ -262,7 +264,7 @@
 | [Good Enough](https://open.spotify.com/track/5j9PFsp0AceyYNc9lkmC42) | [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf) | [Good Enough \- Single](https://open.spotify.com/album/2579Sar9YIRlQQFbfiALX0) | 2:48 | 2019-10-26 | 2020-01-26 |
 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 | 2022-06-10 | 2022-09-17 |
 | [Good Ol' Man](https://open.spotify.com/track/106WZMD4t61E3WIBPtXTDK) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Good Ol' Man](https://open.spotify.com/album/1AUKevdHLZT2YYJqv3mf2s) | 3:22 | 2022-06-03 | 2022-09-17 |
-| [Good On You](https://open.spotify.com/track/4rgtVCZ85aJHX0MVPM6fjw) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Good On You](https://open.spotify.com/album/4FgGirHiQSaQS5BApIploW) | 3:07 | 2024-04-19 |  |
+| [Good On You](https://open.spotify.com/track/4rgtVCZ85aJHX0MVPM6fjw) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Good On You](https://open.spotify.com/album/4FgGirHiQSaQS5BApIploW) | 3:07 | 2024-04-19 | 2024-08-03 |
 | [Good Taste](https://open.spotify.com/track/127BD1zjmo6iCRqZgh3wxR) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Good Taste](https://open.spotify.com/album/3eF1VvxJ9ItkALsgJcyx7V) | 2:37 | 2020-09-11 | 2020-11-22 |
 | [GOOD TIME](https://open.spotify.com/track/5Kpg1A7BOHpBbaT3H3xqd3) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME \- EP](https://open.spotify.com/album/2jqg5j8kjADgqkFSDoTylY) | 3:34 | 2020-12-06 | 2021-03-14 |
 | [Good Times Roll](https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:38 | 2020-07-12 | 2020-07-19 |
@@ -417,6 +419,7 @@
 | [Living](https://open.spotify.com/track/54K7AZoGpQklpygKrxZlKN) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:42 | 2019-05-26\* | 2019-12-14 |
 | [Livin’ The Dream](https://open.spotify.com/track/2L4YgbxxwmwafMqLIjSx8q) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Livin’ The Dream](https://open.spotify.com/album/6HALwpatS8fPZ62DgZbttt) | 3:59 | 2020-12-12 | 2021-01-23 |
 | [Lonely If You Are](https://open.spotify.com/track/1Ut1A8UaNqGuwsHgWq75PW) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lonely If You Are](https://open.spotify.com/album/5oTMku8FuJiOES9xZ5Vvwb) | 2:55 | 2019-06-22 | 2020-09-26 |
+| [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww) | 3:09 | 2024-08-02 |  |
 | [Long Haul](https://open.spotify.com/track/4q6L3Ca4YuLHWg8YZqfMvE) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul](https://open.spotify.com/album/6hv9rSMxLukAg8nYVegpYL) | 3:51 | 2021-01-27 | 2021-08-14 |
 | [Long Live](https://open.spotify.com/track/1OTX8FOeKJt1v9mIxuF8sc) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Long Live](https://open.spotify.com/album/2pl9wFZJHfPJIVuHw5WYl3) | 2:32 | 2020-09-19 | 2021-04-17 |
 | [Long Time Comin'](https://open.spotify.com/track/5xMxyWRoe37nUlHDk72cSW) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:14 | 2021-03-14 | 2021-03-27 |
@@ -666,7 +669,7 @@
 | [That's What Tequila Does](https://open.spotify.com/track/6kCFt2ATuMIE5H9zVEJXei) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:09 | 2022-08-05 | 2023-04-01 |
 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 | 2019-12-08 | 2020-03-14 |
 | [The Bones](https://open.spotify.com/track/7g9YrTuImvIkpS9uveKdCO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL...The Bones](https://open.spotify.com/album/3wRyo249Hi01jeaxnkJ49m) | 3:17 | 2019-05-26\* | 2019-12-11 |
-| [The Devil I Know](https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 3:07 | 2024-05-31 |  |
+| [The Devil I Know](https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 3:07 | 2024-05-31 | 2024-08-03 |
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2021-01-30 | 2021-07-04 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-17 | 2022-11-26 |
 | [The Man Who Loves You The Most](https://open.spotify.com/track/58DvikiJcEjow3Skg80yxX) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Man Who Loves You The Most](https://open.spotify.com/album/0Iu8r7hmiTYiiKbUteZWVZ) | 3:44 | 2020-06-14 | 2020-08-15 |

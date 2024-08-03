@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 202120,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/48gsLPdOUEDjr7P8Wvykne"
@@ -1480,6 +1480,24 @@
       "duration_ms": 259186,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
+    },
+    {
+      "album": {
+        "name": "Chrome Cowgirl (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/0Mij9SmUrhfN45IFiNUXWZ"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148791,
+      "name": "Chrome Cowgirl (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/1uP3EFUgPrvaIRfA9yepA6"
     },
     {
       "album": {
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182890,
       "name": "Dia de Sorte",
       "url": "https://open.spotify.com/track/0bJ5Pa8GqcyC4PNYcHQDeN"
@@ -3065,6 +3083,24 @@
     },
     {
       "album": {
+        "name": "Harpy Hare",
+        "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180922,
+      "name": "Harpy Hare",
+      "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
+    },
+    {
+      "album": {
         "name": "Harvest Moon",
         "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
       },
@@ -3502,6 +3538,24 @@
       "duration_ms": 200693,
       "name": "Jorge De Capadocia",
       "url": "https://open.spotify.com/track/0kYpoESyBbEqd74Ie8elca"
+    },
+    {
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
       "album": {
@@ -5498,7 +5552,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 206693,
       "name": "Princess of China - Acoustic",
       "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"

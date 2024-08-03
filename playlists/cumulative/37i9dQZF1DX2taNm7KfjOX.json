@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/6OyLz1K6f82RCgcbsQ6jwv"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192266,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3cPWXpjXPPW8LIs27Bxv5c"
+    },
+    {
+      "album": {
         "name": "Ain't That The Way",
         "url": "https://open.spotify.com/album/1s1n8hW8oWLzTlj2w2nGLn"
       },
@@ -622,7 +640,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 236000,
       "name": "Are You Here For The Festival",
       "url": "https://open.spotify.com/track/0C91J60J0Z3kT2UmsZJges"
@@ -4708,7 +4726,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 210421,
       "name": "Hypochondriac - acoustic",
       "url": "https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl"
@@ -5048,7 +5066,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 194160,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe"
@@ -5110,7 +5128,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 257417,
       "name": "If It's Time",
       "url": "https://open.spotify.com/track/0heiWLMaIUmgWkbY41eBI3"
@@ -5776,6 +5794,24 @@
       "duration_ms": 246986,
       "name": "Life Crisis",
       "url": "https://open.spotify.com/track/0IqmtYOYMRIAPxyAQ0YdOD"
+    },
+    {
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
     },
     {
       "album": {
@@ -6720,7 +6756,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 270923,
       "name": "My Beloved",
       "url": "https://open.spotify.com/track/4zmRB0EP0QgUBY0sEh6OZy"
@@ -6786,6 +6822,24 @@
       "duration_ms": 143560,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
+    },
+    {
+      "album": {
+        "name": "Never, No Not Once",
+        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298864,
+      "name": "Never, No Not Once",
+      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
     },
     {
       "album": {
@@ -7041,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
+    },
+    {
+      "album": {
         "name": "On the Other Side",
         "url": "https://open.spotify.com/album/5MXz23mZjMutPdhGGb9jc7"
       },
@@ -7237,6 +7309,24 @@
     },
     {
       "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260509,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+    },
+    {
+      "album": {
         "name": "L\u00e9g\u00e8rement",
         "url": "https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r"
       },
@@ -7274,6 +7364,24 @@
       "duration_ms": 227160,
       "name": "Pelican Canyon",
       "url": "https://open.spotify.com/track/49qJvUShIV2XKLvp4KvcBa"
+    },
+    {
+      "album": {
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256245,
+      "name": "People Always Change",
+      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
     },
     {
       "album": {
@@ -8500,7 +8608,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 218017,
       "name": "Solid Heart",
       "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
@@ -8870,7 +8978,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 225354,
       "name": "Strange",
       "url": "https://open.spotify.com/track/4O354RXGtWktEKC6fMM1CM"
@@ -10644,6 +10752,24 @@
       "duration_ms": 225154,
       "name": "Whatever Fits Together",
       "url": "https://open.spotify.com/track/7E9xLaEn82sboW3CLJCO9X"
+    },
+    {
+      "album": {
+        "name": "What\u2019s This About (La La La La)",
+        "url": "https://open.spotify.com/album/6HBrgJUaDMbHlDtCjK7K5d"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130621,
+      "name": "What\u2019s This About (La La La La)",
+      "url": "https://open.spotify.com/track/5JHKt7k6aKdfRs2flAT4je"
     },
     {
       "album": {

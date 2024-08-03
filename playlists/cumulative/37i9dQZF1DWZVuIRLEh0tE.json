@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 311770,
       "name": "3 X 1",
       "url": "https://open.spotify.com/track/7lBnqp8VXTtvC1nSsIO1nb"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 139200,
       "name": "Caretu",
       "url": "https://open.spotify.com/track/0qGVGmlwgTSZtoUXr1TM3i"
@@ -1550,6 +1550,28 @@
       "duration_ms": 172584,
       "name": "Celebramos",
       "url": "https://open.spotify.com/track/1Aa24SkSU6gUvqjzOcLkya"
+    },
+    {
+      "album": {
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/3hxPoGmqQO9iVxthYnIhY0"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195658,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/54SxKnMV1na7LvI5xVoA5e"
     },
     {
       "album": {
@@ -2024,6 +2046,36 @@
       "duration_ms": 120476,
       "name": "Cual Es La Para",
       "url": "https://open.spotify.com/track/24UYSpjlIpdEn8tVKJhP3Y"
+    },
+    {
+      "album": {
+        "name": "Cualto Y La Pistola Remix",
+        "url": "https://open.spotify.com/album/7LZVHEaSZ4DlRG86zOVwXz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        },
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        },
+        {
+          "name": "Eli Fross",
+          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227767,
+      "name": "Cualto Y La Pistola Remix",
+      "url": "https://open.spotify.com/track/27Ibh3TC55sAwzzIqUCgth"
     },
     {
       "album": {
@@ -2684,6 +2736,24 @@
     {
       "album": {
         "name": "Diferente",
+        "url": "https://open.spotify.com/album/6KX02CSspsaKId41ZQI65u"
+      },
+      "artists": [
+        {
+          "name": "lejazzy",
+          "url": "https://open.spotify.com/artist/6Xjmpnt9WtUHfeBRBD9aER"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155688,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/4gSCux1nBQmZWR9SUL0XIe"
+    },
+    {
+      "album": {
+        "name": "Diferente",
         "url": "https://open.spotify.com/album/6ktYpvMBy06liW00kKUxNB"
       },
       "artists": [
@@ -3020,6 +3090,32 @@
       "duration_ms": 159477,
       "name": "EBRIO",
       "url": "https://open.spotify.com/track/0c1ctKLU6NrzBXYJBz8z4p"
+    },
+    {
+      "album": {
+        "name": "Eh Un Bobo",
+        "url": "https://open.spotify.com/album/6A7BR9X999JhWyYPoVPQQH"
+      },
+      "artists": [
+        {
+          "name": "Daya La Del Bobo",
+          "url": "https://open.spotify.com/artist/2elF27bcdzvdrkrwqq3fqb"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "Moncholo La Vainilla",
+          "url": "https://open.spotify.com/artist/11QRlEwbooxjVZNRQHH1KX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Eh Un Bobo",
+      "url": "https://open.spotify.com/track/0T3KM5rHrIGc9vXMgLrdpi"
     },
     {
       "album": {
@@ -3706,7 +3802,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 210170,
       "name": "Enchulao",
       "url": "https://open.spotify.com/track/66hbvQhKgCeI0oYE3diZiN"
@@ -3732,6 +3828,24 @@
       "duration_ms": 151916,
       "name": "Endiablada",
       "url": "https://open.spotify.com/track/5vjUBnAZsE422WOT0EBbaf"
+    },
+    {
+      "album": {
+        "name": "ENEMIGOS",
+        "url": "https://open.spotify.com/album/3zMTA6YZOi3ewJoZk3FCtO"
+      },
+      "artists": [
+        {
+          "name": "Don Forty Five",
+          "url": "https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "ENEMIGOS",
+      "url": "https://open.spotify.com/track/6uaGI50aeUZiDi9wG5pyS7"
     },
     {
       "album": {
@@ -6240,7 +6354,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 194387,
       "name": "Mi Chico",
       "url": "https://open.spotify.com/track/3EOzK14fWquSyJ5gOH2vl1"
@@ -7440,7 +7554,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 199601,
       "name": "Not Like Us (Spanish Remix)",
       "url": "https://open.spotify.com/track/52pYQKgN23DDPh4ELW9UJC"
@@ -8428,6 +8542,28 @@
       "duration_ms": 151875,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/3UCGlKuPc94uSRHFRLYDOB"
+    },
+    {
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4IAsIJScSYsen7jq7KjNRK"
+      },
+      "artists": [
+        {
+          "name": "Eklectico Diablo",
+          "url": "https://open.spotify.com/artist/2i81dh40yW90vNCpJYOunK"
+        },
+        {
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/43nliT1KgLI88OmHRSqstJ"
     },
     {
       "album": {
@@ -9931,6 +10067,24 @@
     },
     {
       "album": {
+        "name": "Tu Va Dobla",
+        "url": "https://open.spotify.com/album/7KoHMmeRMnEc4BvPgqRtpV"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225045,
+      "name": "Tu Va Dobla",
+      "url": "https://open.spotify.com/track/1MdRheKsZwj6sAbjaIJh2R"
+    },
+    {
+      "album": {
         "name": "Tu Va Dobla ?",
         "url": "https://open.spotify.com/album/6Kow2FcIp5CNwLqZ2QIy2r"
       },
@@ -10030,7 +10184,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 162580,
       "name": "Un Dato",
       "url": "https://open.spotify.com/track/7Ms17wvMbuIgyBYpJFYWAx"
@@ -10494,7 +10648,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 110769,
       "name": "Yo Enfocado",
       "url": "https://open.spotify.com/track/3Oi5p52ULUtCgeAsbIBRJg"

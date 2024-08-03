@@ -1,12 +1,12 @@
 {
   "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Luis Alfonso",
-  "num_followers": 224421,
+  "num_followers": 224488,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpomnAAAAACWnjc7nWjC5JLlyfns/Y4s",
+  "snapshot_id": "Zq0NeAAAAADGlWuLRXdXCIBiBK53QEca",
   "tracks": [
     {
       "added_at": "2024-07-19 08:41:00",
@@ -157,6 +157,30 @@
       "url": "https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h"
     },
     {
+      "added_at": "2024-08-02 16:46:48",
+      "album": {
+        "name": "Me Llam\u00f3 Mi Ex (Remix)",
+        "url": "https://open.spotify.com/album/0Whs8AXifgHtgXauwndBLe"
+      },
+      "artists": [
+        {
+          "name": "Dany Cardona",
+          "url": "https://open.spotify.com/artist/3JgApvKfEl4tdErCKQEhIv"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "Me Llam\u00f3 Mi Ex - Remix",
+      "url": "https://open.spotify.com/track/0FcAVXegYuB0UTAQOdhBoZ"
+    },
+    {
       "added_at": "2024-07-19 08:41:00",
       "album": {
         "name": "L\u00e1grimas De Amor",
@@ -187,22 +211,6 @@
       "duration_ms": 213000,
       "name": "El atrevimiento",
       "url": "https://open.spotify.com/track/1OMjCkMpT8xdjIacSUq4lL"
-    },
-    {
-      "added_at": "2024-07-19 08:41:00",
-      "album": {
-        "name": "El Provinciano",
-        "url": "https://open.spotify.com/album/6QsYzYrVwGxP0YtqsXbjNy"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
-        }
-      ],
-      "duration_ms": 188642,
-      "name": "El Provinciano",
-      "url": "https://open.spotify.com/track/0Bm7IA6LFnU5KwlT3A8emi"
     },
     {
       "added_at": "2024-07-19 08:41:00",

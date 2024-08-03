@@ -474,7 +474,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 255789,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 268179,
       "name": "Evaporate ft. PaulWetz - Edit",
       "url": "https://open.spotify.com/track/6NWAAl3Awelh8I7cs4ud2w"
@@ -2554,6 +2554,24 @@
       "duration_ms": 254015,
       "name": "Faded Memory",
       "url": "https://open.spotify.com/track/30sWK9of3ll8689n12qV0b"
+    },
+    {
+      "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA"
     },
     {
       "album": {
@@ -6723,6 +6741,28 @@
     },
     {
       "album": {
+        "name": "Palermo / Fractals",
+        "url": "https://open.spotify.com/album/2yfg6aVt4CCtc8AH3YuRqM"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "PROFF",
+          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195898,
+      "name": "Palermo",
+      "url": "https://open.spotify.com/track/3rtPfogqDQQB392GBadZ3C"
+    },
+    {
+      "album": {
         "name": "Palms",
         "url": "https://open.spotify.com/album/5Vg9jiIWY631aVuRy2GVA9"
       },
@@ -7784,6 +7824,24 @@
       "duration_ms": 216500,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR"
+    },
+    {
+      "album": {
+        "name": "Save Us",
+        "url": "https://open.spotify.com/album/2Ias0xFLvCVO6MQd31vzyy"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312892,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/1jBoW8YIgtkXowgc3RPxnq"
     },
     {
       "album": {
@@ -9110,7 +9168,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 527618,
       "name": "Tears",
       "url": "https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k"
@@ -9234,7 +9292,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 492899,
       "name": "The Observer",
       "url": "https://open.spotify.com/track/6QoVPPIRdkiNCVcCUJOzbI"
@@ -9346,6 +9404,24 @@
       "duration_ms": 328678,
       "name": "The Sound of Neptune",
       "url": "https://open.spotify.com/track/1uZHI2rWg7wHGIti4aYqdr"
+    },
+    {
+      "album": {
+        "name": "The Telepath",
+        "url": "https://open.spotify.com/album/7MKlDCqLisacqJ2ynQ9FVQ"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216495,
+      "name": "The Telepath",
+      "url": "https://open.spotify.com/track/56rfbVxwhyZ8ru7uo1BJrJ"
     },
     {
       "album": {

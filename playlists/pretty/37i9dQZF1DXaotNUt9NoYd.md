@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,052 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,057 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 5 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 |
 | 6 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
 | 7 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
-| 8 | [The Tower of Embellion](https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 |
-| 9 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 |
+| 8 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 |
+| 9 | [The Tower of Embellion](https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 |
 | 10 | [Surrender](https://open.spotify.com/track/5EJQuBhBqG7VU2Fi6y5btW) | [K](https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d) | [Surrender](https://open.spotify.com/album/033FoV2z84edQ98JTUxFIl) | 3:16 |
 | 11 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 |
 | 12 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 63 | [Ajna \(Third Eye/Pineal Gland\) \[Chakra\]](https://open.spotify.com/track/5mnLT8Ze4ugZxUSt4FkDeq) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 5:40 |
 | 64 | [Spa Music](https://open.spotify.com/track/0Lh7IIcgWIA11OcfEstcko) | [Ayurveda](https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv) | [Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise](https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ) | 3:36 |
 | 65 | [Zen Garden](https://open.spotify.com/track/1m9lSJzYaZWGrdtLil18hN) | [Wellness](https://open.spotify.com/artist/1EbHNLhZfVqNhmthBWUdLg) | [Relaxing Spa Sounds](https://open.spotify.com/album/0N6rcJzbzNXIUvGPQMxm2u) | 4:55 |
-| 66 | [Blue Aurora](https://open.spotify.com/track/32VnVQtjXPZfUSp5kHtMbz) | [The Art of Quiet Living](https://open.spotify.com/artist/0qpdyOYWA6WGS0DgWAhC5y) | [Piano Soundscapes & Nature Sounds for Meditation, Relaxation, Massage & Sleep](https://open.spotify.com/album/4ZxoQmUBik7bA5zSA5Qruf) | 3:19 |
-| 67 | [Mindstiller](https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 3:36 |
+| 66 | [Mindstiller](https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 3:36 |
+| 67 | [Blue Aurora](https://open.spotify.com/track/32VnVQtjXPZfUSp5kHtMbz) | [The Art of Quiet Living](https://open.spotify.com/artist/0qpdyOYWA6WGS0DgWAhC5y) | [Piano Soundscapes & Nature Sounds for Meditation, Relaxation, Massage & Sleep](https://open.spotify.com/album/4ZxoQmUBik7bA5zSA5Qruf) | 3:19 |
 | 68 | [Om Zone 2.0 \- XIV](https://open.spotify.com/track/3tOpCsBzhi5I2ZyZpk1Ven) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [In the Om Zone 2.0](https://open.spotify.com/album/5GHnyBPAznBKbWccswmDKb) | 4:07 |
 | 69 | [Bageshri](https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:58 |
 | 70 | [Samadhi](https://open.spotify.com/track/1WJdUxC0wACrNH5IlqfL2f) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Meditation Spa](https://open.spotify.com/album/6C6ZOAschwGsGWhFYH8Xwe) | 3:52 |

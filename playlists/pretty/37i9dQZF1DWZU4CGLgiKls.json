@@ -1,6 +1,6 @@
 {
   "description": "Se viene el partido, la previa es con m\u00fasica!",
-  "num_followers": 555437,
+  "num_followers": 555412,
   "original_name": "Previa Futbolera",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "Signos (Remastered)",
         "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
       },
@@ -811,6 +811,34 @@
       "duration_ms": 292266,
       "name": "Persiana Americana - Remasterizado 2007",
       "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
+        "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+        "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+      "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -879,34 +907,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
-        "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
-      "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "El Calor Del Pleno Invierno",
-        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Ese Maldito Momento",
-      "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 171986,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
+        "name": "El Calor Del Pleno Invierno",
+        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Ese Maldito Momento",
+      "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
+        "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+        "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+      "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 240733,
       "name": "More",
       "url": "https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
-        "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
-        "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
-      "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "El Camino M\u00e1s Largo",
         "url": "https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX"
       },
@@ -1191,18 +1171,38 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
       },
       "artists": [
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 304091,
-      "name": "Zun Da Da",
-      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
+      "duration_ms": 243226,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
+        "name": "El Le\u00f3n",
+        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 291973,
+      "name": "Siguiendo la Luna - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/1orgfjGJoycODSItcGVatE"
     }
   ],
   "unique_name": "Previa Futbolera",

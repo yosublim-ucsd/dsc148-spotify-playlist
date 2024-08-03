@@ -1,6 +1,6 @@
 {
   "description": "Intimate, including selections from Claire Cottrill. Cover: Clairo",
-  "num_followers": 37355,
+  "num_followers": 37705,
   "original_name": "sexy indie",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,18 @@
     {
       "added_at": "2024-05-23 16:00:00",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 111640,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
     },
     {
       "added_at": "2024-05-23 16:00:00",
@@ -183,18 +179,22 @@
     {
       "added_at": "2024-05-23 16:00:00",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
         {
           "name": "Lana Del Rey",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 180902,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
+      "duration_ms": 111640,
+      "name": "Stargirl Interlude",
+      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
     },
     {
       "added_at": "2024-05-23 16:00:00",
@@ -211,6 +211,22 @@
       "duration_ms": 292110,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
+    },
+    {
+      "added_at": "2024-05-23 16:00:00",
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 180902,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
     },
     {
       "added_at": "2024-05-23 16:00:00",
@@ -299,38 +315,6 @@
     {
       "added_at": "2024-05-23 16:00:00",
       "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 193031,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
-    },
-    {
-      "added_at": "2024-05-23 16:00:00",
-      "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
-    },
-    {
-      "added_at": "2024-05-23 16:00:00",
-      "album": {
         "name": "I.",
         "url": "https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 286293,
       "name": "Nothing's Gonna Hurt You Baby",
       "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
+    },
+    {
+      "added_at": "2024-05-23 16:00:00",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 193031,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
     },
     {
       "added_at": "2024-05-23 16:00:00",
@@ -395,18 +395,22 @@
     {
       "added_at": "2024-05-23 16:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+        "name": "diary 001",
+        "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
         }
       ],
-      "duration_ms": 178569,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
+      "duration_ms": 135016,
+      "name": "Hello?",
+      "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
     },
     {
       "added_at": "2024-05-23 16:00:00",
@@ -443,18 +447,18 @@
     {
       "added_at": "2024-05-23 16:00:00",
       "album": {
-        "name": "Tejano Blue",
-        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 234453,
-      "name": "Tejano Blue",
-      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "added_at": "2024-05-23 16:00:00",
@@ -475,22 +479,18 @@
     {
       "added_at": "2024-05-23 16:00:00",
       "album": {
-        "name": "diary 001",
-        "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        },
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 135016,
-      "name": "Hello?",
-      "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "added_at": "2024-05-23 16:00:00",

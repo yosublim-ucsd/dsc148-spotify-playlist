@@ -2,7 +2,7 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Hudson Westbrook
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Silverada
 
 639 songs - 1 day 14 hr 8 min
 
@@ -424,7 +424,7 @@
 | [Priorities](https://open.spotify.com/track/6uUehOfuEUy1vQmkL8AwaE) | [Seth Ward](https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt) | [Priorities](https://open.spotify.com/album/6DFYfdqLixWqjs3JN23YgC) | 3:57 | 2022-10-14 | 2023-01-06 |
 | [Psycho](https://open.spotify.com/track/1ZdUYbLbavoymKh89vrQQ6) | [Holly Beth](https://open.spotify.com/artist/2HAdIEMUdYvHfSlWVmGexv) | [Psycho](https://open.spotify.com/album/49oLXMPHyB2lA89QvN3pI0) | 3:30 | 2022-02-18 | 2022-07-17 |
 | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/track/6mPpuNKf0wPSoOCD3rFbdz) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/album/3r9sGBc6fpTs96wv1eXkwG) | 3:15 | 2023-09-01 |  |
-| [Radio Wave](https://open.spotify.com/track/7vITJOjR7emNaKVadPQZ0N) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [Radio Wave](https://open.spotify.com/album/4VkuvviTPG2MUXRJ6iJGEQ) | 5:50 | 2024-06-14 | 2024-07-27 |
+| [Radio Wave](https://open.spotify.com/track/7vITJOjR7emNaKVadPQZ0N) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [Radio Wave](https://open.spotify.com/album/4VkuvviTPG2MUXRJ6iJGEQ) | 5:50 | 2024-06-14 |  |
 | [Rainin On Me](https://open.spotify.com/track/4YmqhdQ3DJ3W6aK7Y1VBtP) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Rainin On Me](https://open.spotify.com/album/4nExf5XzwhQFltAYmBUfbt) | 4:12 | 2024-03-29 | 2024-05-23 |
 | [Raised On Shotgun](https://open.spotify.com/track/2rAqSJk5tc42whU5nwnXZ1) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Raised On Shotgun](https://open.spotify.com/album/1mH6Gu1iYPpGQagJAAVLqT) | 3:36 | 2022-01-21 | 2022-03-19 |
 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2021-12-17 | 2022-03-19 |
@@ -639,7 +639,7 @@
 | [Wishin' on an Airplane](https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Wishin' on an Airplane](https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf) | 3:30 | 2022-09-09 | 2022-10-15 |
 | [With You](https://open.spotify.com/track/1hx6d28pvkstw3plMK6AnG) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/5RSKBMC7PnUwY4BUibWNEX) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [With You](https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6) | 4:26 | 2022-08-12 | 2023-03-11 |
-| [Woman Outta Love](https://open.spotify.com/track/3nyPmeaOu3z4nzrBulMe5p) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Woman Outta Love](https://open.spotify.com/album/2KwOQM2jpMnCuO1P0oBIKT) | 3:08 | 2024-04-26 |  |
+| [Woman Outta Love](https://open.spotify.com/track/3nyPmeaOu3z4nzrBulMe5p) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Woman Outta Love](https://open.spotify.com/album/2KwOQM2jpMnCuO1P0oBIKT) | 3:08 | 2024-04-26 | 2024-08-03 |
 | [Work Boots](https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Work Boots and More from Leather](https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0) | 2:49 | 2023-09-22 |  |
 | [You Ain't No Cowboy](https://open.spotify.com/track/6JVlshaVI7xO3C9o57eMOj) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [You Ain't No Cowboy](https://open.spotify.com/album/6hNyzOd9PDGjkzooGPJRXd) | 3:28 | 2023-02-01 | 2023-03-04 |
 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 | 2021-12-17 | 2023-09-02 |

@@ -10093,6 +10093,24 @@
     },
     {
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/3dgkgNxN8MH8wFfgSO4TMR"
+      },
+      "artists": [
+        {
+          "name": "Stefany",
+          "url": "https://open.spotify.com/artist/6bfhI8OUv54wrI4BgmjPAU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116087,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3B71EqCgrKLbTjH5T6aVYg"
+    },
+    {
+      "album": {
         "name": "Canon",
         "url": "https://open.spotify.com/album/6wbAlUm8bo3IwXDmtlDs1q"
       },
@@ -19589,6 +19607,24 @@
     },
     {
       "album": {
+        "name": "Mismatch",
+        "url": "https://open.spotify.com/album/2TgPPyHwGLV0RkKtucGWSh"
+      },
+      "artists": [
+        {
+          "name": "Emily Sara",
+          "url": "https://open.spotify.com/artist/2cjIQ0NleHwnYD5T72EI1r"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272238,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5C6fcO5KbllZChqzSgbPYs"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -26664,7 +26700,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 238048,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/6dwta667maSuiyLLMcNG3f"
@@ -27026,6 +27062,24 @@
       "duration_ms": 167149,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4p8t0bIsXlaEna1GgPOhRt"
+    },
+    {
+      "album": {
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/6slkHjs2L4SjUfuNsf58Nt"
+      },
+      "artists": [
+        {
+          "name": "Ann Weberg",
+          "url": "https://open.spotify.com/artist/5Juk5AwsPsXNGYYuBEGXWO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207470,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/3YIQj3CgeO2wZHSHBIoi4N"
     },
     {
       "album": {
@@ -35715,6 +35769,24 @@
     },
     {
       "album": {
+        "name": "LIVING IN THE MOMENT",
+        "url": "https://open.spotify.com/album/3UDMPJFbfs47bqF9Jy0FbT"
+      },
+      "artists": [
+        {
+          "name": "Carissa Summer Rose",
+          "url": "https://open.spotify.com/artist/2rw8lgSVIjZOR62vd3slYB"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229367,
+      "name": "LIVING IN THE MOMENT",
+      "url": "https://open.spotify.com/track/3Aaoe3zgY7N0dAdyryL71i"
+    },
+    {
+      "album": {
         "name": "LMAMW<3",
         "url": "https://open.spotify.com/album/77b35L9SgNMVK8GfQPlzZ3"
       },
@@ -43111,6 +43183,24 @@
     },
     {
       "album": {
+        "name": "NO VOY A VOLVER",
+        "url": "https://open.spotify.com/album/0cGQjmACf6ARIFHTeAsIx1"
+      },
+      "artists": [
+        {
+          "name": "J. Justicia",
+          "url": "https://open.spotify.com/artist/50xEVPzoePDU7Xd91Rt2nY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "NO VOY A VOLVER",
+      "url": "https://open.spotify.com/track/5nqkxSiHQ2htY8G963gDnI"
+    },
+    {
+      "album": {
         "name": "No WiFi",
         "url": "https://open.spotify.com/album/5R6efGpOXqSz7KrOQLoGUK"
       },
@@ -44780,6 +44870,24 @@
       "duration_ms": 175542,
       "name": "One by One",
       "url": "https://open.spotify.com/track/3HJLTTtvVFq6rQBYpc5e7T"
+    },
+    {
+      "album": {
+        "name": "one day",
+        "url": "https://open.spotify.com/album/3FG5fxzagdfTH2E9p4yncq"
+      },
+      "artists": [
+        {
+          "name": "Dylan Isaac",
+          "url": "https://open.spotify.com/artist/3tO8mEQqCAKC25A73DCkjU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111291,
+      "name": "one day",
+      "url": "https://open.spotify.com/track/6Q4jwRWHtHqFG9YxlyvFMV"
     },
     {
       "album": {
@@ -52356,7 +52464,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183954,
       "name": "Second Best",
       "url": "https://open.spotify.com/track/6Yktumd09nQDPk0a0sqjg1"
@@ -55213,6 +55321,24 @@
     },
     {
       "album": {
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/6yHgdmrJ0ebFFeOzqOI6p0"
+      },
+      "artists": [
+        {
+          "name": "Ryan McCormick",
+          "url": "https://open.spotify.com/artist/4lE2IuobiiBcdtX15YrEhH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Sonic Boom",
+      "url": "https://open.spotify.com/track/6FY8QIgWzVEVB5YL2lk2lz"
+    },
+    {
+      "album": {
         "name": "Sonic Lullaby",
         "url": "https://open.spotify.com/album/0iowqfrgrsVkYNHv1zl77F"
       },
@@ -55586,6 +55712,24 @@
       "duration_ms": 162407,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/1Tbt8OaAnOyIK9IJ189rNm"
+    },
+    {
+      "album": {
+        "name": "Spells Me Under",
+        "url": "https://open.spotify.com/album/5MBthw34DHiOyOloVIZksC"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Widding",
+          "url": "https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Spells Me Under",
+      "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
     },
     {
       "album": {
@@ -56826,6 +56970,24 @@
       "duration_ms": 247230,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/0Ng667EptlsKLfPHXkMmLt"
+    },
+    {
+      "album": {
+        "name": "Stuck With Me",
+        "url": "https://open.spotify.com/album/3nKC5inEvqPOUmWUtahMF4"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150153,
+      "name": "Stuck With Me",
+      "url": "https://open.spotify.com/track/00l7tkFvUtKtmNEK4crGuI"
     },
     {
       "album": {
@@ -61503,6 +61665,24 @@
     },
     {
       "album": {
+        "name": "this will probably change",
+        "url": "https://open.spotify.com/album/56abfCTSNJrtHdyzrIuwff"
+      },
+      "artists": [
+        {
+          "name": "Anderson Hao",
+          "url": "https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "this will probably change",
+      "url": "https://open.spotify.com/track/1XJmsWetiXGomYo0muxAPw"
+    },
+    {
+      "album": {
         "name": "Thought Of You",
         "url": "https://open.spotify.com/album/0RNMNzakXS5dDklfZGvtjG"
       },
@@ -65743,6 +65923,24 @@
     },
     {
       "album": {
+        "name": "Wassup",
+        "url": "https://open.spotify.com/album/1NM7jztkvOT5BNuO4V8VbH"
+      },
+      "artists": [
+        {
+          "name": "James Garlimah",
+          "url": "https://open.spotify.com/artist/3HLsTsKFzqEf626S5Rtvsg"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121920,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/6E4BNcnpK36EwnydEH8vSG"
+    },
+    {
+      "album": {
         "name": "Wasted Feelings",
         "url": "https://open.spotify.com/album/7j6RLPV17rFRZDO8R7FKZu"
       },
@@ -67324,6 +67522,24 @@
       "duration_ms": 226045,
       "name": "where did u go?",
       "url": "https://open.spotify.com/track/0feoAoDhBeSuBLAHuyWGq9"
+    },
+    {
+      "album": {
+        "name": "Where did you go?",
+        "url": "https://open.spotify.com/album/6vDEJabAIsSDNRvMVWEp8L"
+      },
+      "artists": [
+        {
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171737,
+      "name": "Where did you go?",
+      "url": "https://open.spotify.com/track/1IxwJzvASAi2VOXvzdwE1A"
     },
     {
       "album": {

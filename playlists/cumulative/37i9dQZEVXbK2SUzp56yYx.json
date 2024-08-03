@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
       },
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 64629,
       "name": "first bebra",
       "url": "https://open.spotify.com/track/69FVWCAdCWFaI36gSBadoN"
@@ -9101,6 +9119,28 @@
     },
     {
       "album": {
+        "name": "\u041a\u0430\u043a \u0431\u044b\u0442\u044c",
+        "url": "https://open.spotify.com/album/2EG9ACx7W4diEGrEHTvCTY"
+      },
+      "artists": [
+        {
+          "name": "Bittuev",
+          "url": "https://open.spotify.com/artist/4TWo6kH1Sasrm5NTkJwonR"
+        },
+        {
+          "name": "NANSI & SIDOROV",
+          "url": "https://open.spotify.com/artist/5TgPlgzIuyPLCw2CI8lIs1"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155936,
+      "name": "\u041a\u0430\u043a \u0431\u044b\u0442\u044c",
+      "url": "https://open.spotify.com/track/3wUcmVfILxXFdCH9c5qtyQ"
+    },
+    {
+      "album": {
         "name": "\u041a\u0430\u043a\u0430\u044f?",
         "url": "https://open.spotify.com/album/4l5vDIyg4iFAIQ050QMGXc"
       },
@@ -9218,7 +9258,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 260693,
       "name": "\u041a\u043b\u0438\u0442\u043e\u0440",
       "url": "https://open.spotify.com/track/4gXLyzyKegOJQDNzmEwr6f"
@@ -9454,6 +9494,24 @@
       "duration_ms": 184258,
       "name": "\u041b\u0435\u0442\u0435\u0442\u044c",
       "url": "https://open.spotify.com/track/6yrRd97Lo9ODRuzUlfVfuK"
+    },
+    {
+      "album": {
+        "name": "DAKOOKA",
+        "url": "https://open.spotify.com/album/2LlzQp7InqUtyCuVfMcfvV"
+      },
+      "artists": [
+        {
+          "name": "DAKOOKA",
+          "url": "https://open.spotify.com/artist/763SuGjtCI9H4bCNOPFyrp"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196754,
+      "name": "\u041b\u044e\u0431\u0438 \u043c\u0435\u043d\u044f",
+      "url": "https://open.spotify.com/track/3GDFS7SxiT3k52OrS8MCrt"
     },
     {
       "album": {
@@ -10078,7 +10136,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 221160,
       "name": "\u041d\u043e\u0432\u043e\u0435 \u041f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u0435 - Original soundtrack \"\u041d\u043e\u0432\u043e\u0435 \u041f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u0435\"",
       "url": "https://open.spotify.com/track/0wsJZFyklmgeIbmgUN5oap"
@@ -10860,7 +10918,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 173500,
       "name": "\u0421\u0430\u043c\u043e\u043b\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/4gkQh8gUuxTpzQeJYRIpvb"
@@ -12118,7 +12176,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179076,
       "name": "\u042f \u0432\u044b\u0442\u0430\u0449\u0443 \u0442\u0435\u0431\u044f \u0441\u043e \u0434\u043d\u0430",
       "url": "https://open.spotify.com/track/4ukskauc87Gtgg63wEd6Zs"

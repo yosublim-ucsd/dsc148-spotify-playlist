@@ -1,6 +1,6 @@
 {
   "description": "Enjoy mysterious and dreamy music as if walking in a dream. (\uafc8 \uc18d\uc744 \uac70\ub2d0\ub4ef \uc2e0\ube44\ub86d\uace0 \ubabd\ud658\uc801\uc778 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 79518,
+  "num_followers": 79540,
   "original_name": "d r e a m l i k e \u3132 \u315c \u3141",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,22 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
-        "name": "ntmc",
-        "url": "https://open.spotify.com/album/0fX3WUSEfcnVU3zXir9iLz"
+        "name": "Akita",
+        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
       },
       "artists": [
         {
-          "name": "Night Off",
-          "url": "https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88"
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
         }
       ],
-      "duration_ms": 210118,
-      "name": "ntmc",
-      "url": "https://open.spotify.com/track/0ATN8hZmrvnWEes18dsdJZ"
+      "duration_ms": 224293,
+      "name": "Akita (Feat. hartts) (Prod. OBSN)",
+      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
     },
     {
       "added_at": "2024-07-23 02:39:49",
@@ -591,38 +595,18 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
-        "name": "Akita",
-        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
+        "name": "ntmc",
+        "url": "https://open.spotify.com/album/0fX3WUSEfcnVU3zXir9iLz"
       },
       "artists": [
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "hartts",
-          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+          "name": "Night Off",
+          "url": "https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88"
         }
       ],
-      "duration_ms": 224293,
-      "name": "Akita (Feat. hartts) (Prod. OBSN)",
-      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
-        "name": "DAYDREAM",
-        "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
-      },
-      "artists": [
-        {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "Night Fog",
-      "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
+      "duration_ms": 210118,
+      "name": "ntmc",
+      "url": "https://open.spotify.com/track/0ATN8hZmrvnWEes18dsdJZ"
     },
     {
       "added_at": "2024-07-23 02:39:49",
@@ -639,6 +623,22 @@
       "duration_ms": 220214,
       "name": "Garden State Dreamers",
       "url": "https://open.spotify.com/track/4rhU6LPPCcCC9IGOI26Tmw"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
+        "name": "DAYDREAM",
+        "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Night Fog",
+      "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
     },
     {
       "added_at": "2024-07-23 02:39:49",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
+        "name": "can't",
+        "url": "https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI"
+      },
+      "artists": [
+        {
+          "name": "OurR",
+          "url": "https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "MUNG",
+      "url": "https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
         "name": "CLAASSIC",
         "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 226841,
       "name": "CIRCLE",
       "url": "https://open.spotify.com/track/2aOk5X66c3YwRLp0wuKkUC"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
-        "name": "can't",
-        "url": "https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI"
-      },
-      "artists": [
-        {
-          "name": "OurR",
-          "url": "https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "MUNG",
-      "url": "https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m"
     },
     {
       "added_at": "2024-07-23 02:39:49",

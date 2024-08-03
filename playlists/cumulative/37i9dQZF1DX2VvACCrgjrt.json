@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Apes",
+        "url": "https://open.spotify.com/album/6WLKZ5yo6Zio6uKxXhGXj8"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "MOR3L",
+          "url": "https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "Apes",
+      "url": "https://open.spotify.com/track/7qIks2ZDbGiSZw4XNTKzWy"
+    },
+    {
+      "album": {
         "name": "Are You Feeling This? / Stay Focused",
         "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
       },
@@ -744,6 +766,24 @@
       "duration_ms": 131000,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1RhRsbMl9eYpt6GbkJj0Y0"
+    },
+    {
+      "album": {
+        "name": "AUTOMATIC",
+        "url": "https://open.spotify.com/album/7xCjJcGKQkpZuwEP0svxQw"
+      },
+      "artists": [
+        {
+          "name": "Typo",
+          "url": "https://open.spotify.com/artist/0aUArZHfdqnFPj0ASdHAoa"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "AUTOMATIC",
+      "url": "https://open.spotify.com/track/1geATcpIabznNvS0GSTFEm"
     },
     {
       "album": {
@@ -2030,7 +2070,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 139687,
       "name": "Body To The Beat",
       "url": "https://open.spotify.com/track/01a8kndu3BGQOBvMJk9HHK"
@@ -4636,7 +4676,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 151384,
       "name": "DUST",
       "url": "https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4"
@@ -4759,6 +4799,36 @@
     },
     {
       "album": {
+        "name": "4EVR",
+        "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
+      },
+      "artists": [
+        {
+          "name": "ISOKNOCK",
+          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209785,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/6GbhVYLX4gDu3v5Tx2cnIH"
+    },
+    {
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
@@ -4840,7 +4910,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 154693,
       "name": "Ex Machina",
       "url": "https://open.spotify.com/track/2N8JtBoyevbxQFe7XdaCKJ"
@@ -7788,7 +7858,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 165000,
       "name": "IRONIC",
       "url": "https://open.spotify.com/track/36CNs7ICeyb1D8m6qlm4nf"
@@ -7876,7 +7946,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 156190,
       "name": "I\u2019m A Freak (feat. Kazhi)",
       "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
@@ -8004,7 +8074,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 156960,
       "name": "Juice",
       "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
@@ -9236,6 +9306,24 @@
       "duration_ms": 185709,
       "name": "Matha",
       "url": "https://open.spotify.com/track/6IUUBF1FgcO7oBLFs8xvj3"
+    },
+    {
+      "album": {
+        "name": "Max Out!",
+        "url": "https://open.spotify.com/album/4DIv1Q2xgy0SqqGcR4EXk9"
+      },
+      "artists": [
+        {
+          "name": "LittGloss",
+          "url": "https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152343,
+      "name": "Max Out!",
+      "url": "https://open.spotify.com/track/5MwRdodoq0DF1soaDBA4ZG"
     },
     {
       "album": {

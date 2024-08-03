@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:0289SkqAn0iOohwm0pIHv3\">Pat Barrett</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:6y7frW1RUq3XBBXbYowVpk\">Chandler Moore</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 335918,
       "name": "Abandoned (with Mosaic MSC)",
       "url": "https://open.spotify.com/track/66AamXEDw8g4p4db4BSMVg"
@@ -3950,7 +3950,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 347587,
       "name": "Great Is (feat. Jenna Barrientes)",
       "url": "https://open.spotify.com/track/1Z07de4JfEV5lk8cNaNvn3"
@@ -4388,6 +4388,24 @@
       "duration_ms": 441746,
       "name": "Highest One - Live",
       "url": "https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza"
+    },
+    {
+      "album": {
+        "name": "His Glory and My Good (Acoustic) [Live]",
+        "url": "https://open.spotify.com/album/14Ole7fkfb4f6bJtBoT41C"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312159,
+      "name": "His Glory and My Good (Acoustic) - Live",
+      "url": "https://open.spotify.com/track/3aLgQMVeLIUjl1O5YEbsZh"
     },
     {
       "album": {
@@ -5138,7 +5156,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 459430,
       "name": "I Have A Father - Live",
       "url": "https://open.spotify.com/track/6WoDQJKSSelqLgDlFMtvcR"
@@ -7228,7 +7246,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 317831,
       "name": "Love Me Back To Life - Live",
       "url": "https://open.spotify.com/track/4whO8Lsvth4qxAHoxXZWtp"
@@ -8086,7 +8104,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 367489,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/0Mhbrm9AQQ4qjFqT8PqaKY"
@@ -8309,6 +8327,32 @@
     },
     {
       "album": {
+        "name": "Sing Together - Now Until Forever",
+        "url": "https://open.spotify.com/album/1MzrXaD9qJxOl9j6lpOXHH"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Kyle Howard",
+          "url": "https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo"
+        },
+        {
+          "name": "Kyrie Varieur",
+          "url": "https://open.spotify.com/artist/1t2fAzXPJXcejQmDD7pgEq"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367914,
+      "name": "Now Until Forever",
+      "url": "https://open.spotify.com/track/3EA4msZn5hJ0RTpUsRBRTl"
+    },
+    {
+      "album": {
         "name": "O for a Thousand Tongues to Sing",
         "url": "https://open.spotify.com/album/0pulAd7U6v0q0uUsXjcqYx"
       },
@@ -8372,6 +8416,24 @@
       "duration_ms": 215523,
       "name": "O Praise The Lord",
       "url": "https://open.spotify.com/track/76sle2ncvhtdKXa2c37U2T"
+    },
+    {
+      "album": {
+        "name": "Chandler Moore: Live in Los Angeles",
+        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 685340,
+      "name": "Omemma - Live",
+      "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
     },
     {
       "album": {
@@ -10835,6 +10897,28 @@
     },
     {
       "album": {
+        "name": "Live From Europe",
+        "url": "https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489875,
+      "name": "The Blessing - Live From Europe",
+      "url": "https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM"
+    },
+    {
+      "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
@@ -11196,6 +11280,24 @@
       "duration_ms": 184883,
       "name": "The Love Of Jesus",
       "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
+    },
+    {
+      "album": {
+        "name": "The Middle (Live)",
+        "url": "https://open.spotify.com/album/0E6e7mcCjykO6LkQ2mJfqf"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251562,
+      "name": "The Middle - Live",
+      "url": "https://open.spotify.com/track/0WDGD8LSl9peE4cMrYn54i"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 54386,
+  "num_followers": 54397,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAACmVOSNqxL0Gu5AM5Dy3j0P",
+  "snapshot_id": "ZqrQAAAAAADmlHAF6t8Qh3pqzaepl59b",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friend For Life (with Medium Build)",
-        "url": "https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Friend For Life (with Medium Build)",
-      "url": "https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 287893,
       "name": "Bad Husband (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friend For Life (with Medium Build)",
+        "url": "https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Friend For Life (with Medium Build)",
+      "url": "https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Sunoco",
-      "url": "https://open.spotify.com/track/4y5lApjfksaQ35CdhVjvL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Easy",
         "url": "https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 245572,
       "name": "Not Easy",
       "url": "https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "Sunoco",
+      "url": "https://open.spotify.com/track/4y5lApjfksaQ35CdhVjvL5"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS 2.0",
-        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Kerosene Dreams",
-      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Townie",
         "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 198026,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS 2.0",
+        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Kerosene Dreams",
+      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "I'm Not Really Here",
+      "url": "https://open.spotify.com/track/0Np34uzd2oP17sO73NTLM3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "could've been you",
         "url": "https://open.spotify.com/album/2zz2EbtweE5Msv4Af94UQA"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 187826,
       "name": "could've been you",
       "url": "https://open.spotify.com/track/5yPf9XMC1O1VG7IQ6O6jhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "I'm Not Really Here",
-      "url": "https://open.spotify.com/track/0Np34uzd2oP17sO73NTLM3"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 242213,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Jamie N Commons",
-          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Low Life",
-      "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
     },
     {
       "added_at": null,

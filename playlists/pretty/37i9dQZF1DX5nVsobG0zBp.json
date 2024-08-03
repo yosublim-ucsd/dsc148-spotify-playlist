@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Dillaz",
-  "num_followers": 65730,
+  "num_followers": 65782,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "Seguran\u00e7a",
-        "url": "https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 177464,
-      "name": "Seguran\u00e7a",
-      "url": "https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ"
-    },
-    {
-      "added_at": "2024-07-05 14:22:48",
-      "album": {
         "name": "Galileu",
         "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 182362,
       "name": "Galileu",
       "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
+    },
+    {
+      "added_at": "2024-07-05 14:22:48",
+      "album": {
+        "name": "Seguran\u00e7a",
+        "url": "https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 177464,
+      "name": "Seguran\u00e7a",
+      "url": "https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
+        "name": "Lingerie",
+        "url": "https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 214530,
+      "name": "Lingerie",
+      "url": "https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP"
+    },
+    {
+      "added_at": "2024-07-05 14:22:48",
+      "album": {
         "name": "Essa Saia",
         "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "NUVENS",
-        "url": "https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb"
-      },
-      "artists": [
-        {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
-        }
-      ],
-      "duration_ms": 157664,
-      "name": "NUVENS",
-      "url": "https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G"
-    },
-    {
-      "added_at": "2024-07-05 14:22:48",
-      "album": {
         "name": "Desconfinamento",
         "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
       },
@@ -739,38 +739,18 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "CARO",
-        "url": "https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP"
+        "name": "NUVENS",
+        "url": "https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
         }
       ],
-      "duration_ms": 237722,
-      "name": "CARO",
-      "url": "https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD"
-    },
-    {
-      "added_at": "2024-07-05 14:22:48",
-      "album": {
-        "name": "Lingerie",
-        "url": "https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 214530,
-      "name": "Lingerie",
-      "url": "https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP"
+      "duration_ms": 157664,
+      "name": "NUVENS",
+      "url": "https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -791,6 +771,26 @@
       "duration_ms": 246368,
       "name": "TRIBUNAL",
       "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
+    },
+    {
+      "added_at": "2024-07-05 14:22:48",
+      "album": {
+        "name": "CARO",
+        "url": "https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 237722,
+      "name": "CARO",
+      "url": "https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
+        "name": "Stunka",
+        "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Stunka",
+      "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
+    },
+    {
+      "added_at": "2024-07-05 14:22:48",
+      "album": {
         "name": "Marselha",
         "url": "https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj"
       },
@@ -863,26 +879,6 @@
       "duration_ms": 263131,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
-    },
-    {
-      "added_at": "2024-07-05 14:22:48",
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Los Cavakitos",
-          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
-        }
-      ],
-      "duration_ms": 260301,
-      "name": "Bolero",
-      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -919,6 +915,26 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Los Cavakitos",
+          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
+        }
+      ],
+      "duration_ms": 260301,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
+    },
+    {
+      "added_at": "2024-07-05 14:22:48",
+      "album": {
         "name": "#FFFFFF",
         "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 336528,
       "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
       "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
-    },
-    {
-      "added_at": "2024-07-05 14:22:48",
-      "album": {
-        "name": "Stunka",
-        "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Stunka",
-      "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -979,6 +979,22 @@
       "duration_ms": 209882,
       "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
       "url": "https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i"
+    },
+    {
+      "added_at": "2024-07-05 14:22:48",
+      "album": {
+        "name": "Hoji N'ka ta Rola",
+        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 236526,
+      "name": "Hoji N'ka ta Rola",
+      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -1015,6 +1031,22 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
+        "name": "Tropa do Madruga",
+        "url": "https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "duration_ms": 180574,
+      "name": "Tropa do Madruga",
+      "url": "https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS"
+    },
+    {
+      "added_at": "2024-07-05 14:22:48",
+      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -1031,8 +1063,8 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "Hoji N'ka ta Rola",
-        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
       },
       "artists": [
         {
@@ -1040,25 +1072,9 @@
           "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 236526,
-      "name": "Hoji N'ka ta Rola",
-      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
-    },
-    {
-      "added_at": "2024-07-05 14:22:48",
-      "album": {
-        "name": "Tropa do Madruga",
-        "url": "https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        }
-      ],
-      "duration_ms": 180574,
-      "name": "Tropa do Madruga",
-      "url": "https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS"
+      "duration_ms": 147820,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -1115,58 +1131,6 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "Caixa Azul",
-        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Lidar",
-      "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
-    },
-    {
-      "added_at": "2024-07-05 14:22:48",
-      "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
-    },
-    {
-      "added_at": "2024-07-05 14:22:48",
-      "album": {
-        "name": "Conclus\u00e3o",
-        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 147820,
-      "name": "Conclus\u00e3o",
-      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
-    },
-    {
-      "added_at": "2024-07-05 14:22:48",
-      "album": {
         "name": "Chauffeur",
         "url": "https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK"
       },
@@ -1203,6 +1167,26 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
+        "name": "Caixa Azul",
+        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Lidar",
+      "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
+    },
+    {
+      "added_at": "2024-07-05 14:22:48",
+      "album": {
         "name": "PRA MIM",
         "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
+    },
+    {
+      "added_at": "2024-07-05 14:22:48",
+      "album": {
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "O Re$To",
-        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "DJ HYPE MYKE",
-          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "O Re$To",
-      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
-    },
-    {
-      "added_at": "2024-07-05 14:22:48",
-      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 222642,
       "name": "S\u00f3 Queria Sorrir",
       "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
+    },
+    {
+      "added_at": "2024-07-05 14:22:48",
+      "album": {
+        "name": "O Re$To",
+        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "DJ HYPE MYKE",
+          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "O Re$To",
+      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
     },
     {
       "added_at": "2024-07-05 14:22:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,216 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,250 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 14 | [Mil Cosas](https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R) | [Boleros De Siempre](https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK) | 2:51 |
 | 15 | [El Contragolpe](https://open.spotify.com/track/0AhVIj5X2xmVf1I7MCoFzz) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv) | 2:33 |
 | 16 | [La Mentira](https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Esencial Ana y Victor](https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn) | 3:05 |
-| 17 | [Mañanas de Carnaval](https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Inolvidable \(Boleros\)](https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv) | 3:35 |
-| 18 | [Únicamente Tu](https://open.spotify.com/track/4DTfQauneAY5cjuTMTfSMQ) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:35 |
+| 17 | [Únicamente Tu](https://open.spotify.com/track/4DTfQauneAY5cjuTMTfSMQ) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:35 |
+| 18 | [Mañanas de Carnaval](https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Inolvidable \(Boleros\)](https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv) | 3:35 |
 | 19 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 |
 | 20 | [Amor De Pobre](https://open.spotify.com/track/4PLLtuqgi3gTNcbmgT8MIN) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Antología](https://open.spotify.com/album/1xUT9Xa1dalKLayLcX2HkO) | 2:14 |
 | 21 | [Aunque Me Cueste la Vida](https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Aunque Me Cueste la Vida](https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2) | 2:58 |

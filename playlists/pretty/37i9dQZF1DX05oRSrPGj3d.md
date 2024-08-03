@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,480 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,518 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 51 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:07 |
 | 52 | [Wicked Twisted Road](https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Wicked Twisted Road](https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC) | 3:25 |
 | 53 | [Texas Rain](https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k) | [Seven Miles South](https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd) | [Resurrection EP](https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx) | 3:31 |
-| 54 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
-| 55 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
+| 54 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
+| 55 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
 | 56 | [A Life Where We Work Out](https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:10 |
 | 57 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
 | 58 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |

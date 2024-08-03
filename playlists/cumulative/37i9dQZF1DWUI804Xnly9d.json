@@ -1683,6 +1683,28 @@
     },
     {
       "album": {
+        "name": "Dost Banke (Reprise Version)",
+        "url": "https://open.spotify.com/album/44v1rcaB4o1pgbfIAh1YTo"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275294,
+      "name": "Dost Banke (Reprise Version)",
+      "url": "https://open.spotify.com/track/6zd5z2VCfuj1N8ymbNoISZ"
+    },
+    {
+      "album": {
         "name": "Duniya Meri",
         "url": "https://open.spotify.com/album/5n5400vwsPBlI9ZZuA6prg"
       },
@@ -2804,6 +2826,24 @@
       "duration_ms": 176222,
       "name": "Jhoothi Chai",
       "url": "https://open.spotify.com/track/5ISTUCwZ9SzLgoY0wdwYLN"
+    },
+    {
+      "album": {
+        "name": "Jo Tum Mere Ho",
+        "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251813,
+      "name": "Jo Tum Mere Ho",
+      "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
     },
     {
       "album": {
@@ -4021,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "Laazmi",
+        "url": "https://open.spotify.com/album/6To7c9IW2w6NbXKLxRDFQg"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Vishwakarma",
+          "url": "https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174378,
+      "name": "Laazmi",
+      "url": "https://open.spotify.com/track/3tT3fyLD98cL19jyPbzn77"
+    },
+    {
+      "album": {
         "name": "Lamha Ye",
         "url": "https://open.spotify.com/album/4taFbFCbTnAlujGwi92UVN"
       },
@@ -5036,7 +5094,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 193200,
       "name": "Parchayi",
       "url": "https://open.spotify.com/track/7pbJeC3SaRg7M5K5UeiH4S"
@@ -5226,7 +5284,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 216062,
       "name": "Pehli Sharam",
       "url": "https://open.spotify.com/track/5VqWH46kP3CM1B6goFqOSU"
@@ -7464,7 +7522,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 211152,
       "name": "Yahi",
       "url": "https://open.spotify.com/track/6iiHvnhqvtXuE364OiHPDY"

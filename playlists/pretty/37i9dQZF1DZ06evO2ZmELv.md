@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 200 likes - 41 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 | 13 | [Acá Entre Nos \- En Vivo](https://open.spotify.com/track/4oX6dB6XekjdF63marhlLo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:29 |
 | 14 | [Laurita Garza \- Versión Banda En Vivo](https://open.spotify.com/track/4eGrp5JWRFZc2j5Zsho9Ge) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:17 |
 | 15 | [Lo de Anoche](https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Lo de Anoche](https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL) | 3:07 |
-| 16 | [Llegas](https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:22 |
-| 17 | [Un Día 27](https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Un Día 27](https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU) | 3:11 |
+| 16 | [Un Día 27](https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Un Día 27](https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU) | 3:11 |
+| 17 | [Llegas](https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:22 |
 | 18 | [No Volveré \- Versión Banda En Vivo](https://open.spotify.com/track/0eH7x7An9XOPCeDsIYnY5R) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:22 |
 | 19 | [Me Traes Loquito \- En Vivo](https://open.spotify.com/track/33CrmjCt84VBCwbwYDHpdp) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [DEL Records Presenta \- En Vivo Desde La Finca El Cielo](https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq) | 3:10 |
 | 20 | [Me Convences](https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Me Convences](https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb) | 3:25 |
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 | 29 | [La Lámpara \- En Vivo](https://open.spotify.com/track/2PM1Kgq4zH5xu0or4GCUB0) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:06 |
 | 30 | [Cariñito de Mi Vida \- Versión Norteño En Vivo](https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:18 |
 | 31 | [Hoy Que Te Vas](https://open.spotify.com/track/0O6zTZ5GqM9MPNgwXYt6Vb) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Hoy Que Te Vas](https://open.spotify.com/album/4JfKXEJo0tqcyDTcWRT0Sj) | 3:06 |
-| 32 | [Tu Nuevo Cariñito \- En Vivo](https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:01 |
+| 32 | [Extraña Manera \- En Vivo](https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:20 |
 | 33 | [Destino Cruel \- En Vivo](https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 2:53 |
-| 34 | [Para Morir Iguales \- Versión Banda En Vivo](https://open.spotify.com/track/5JPZL1qwDXOnYt6w4Rg7gy) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 4:06 |
+| 34 | [El Desquite \- Versión Banda En Vivo](https://open.spotify.com/track/1MJNZUII5gFa69fJhmAcyC) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:09 |
 | 35 | [Causa Perdida](https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Causa Perdida](https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2) | 3:14 |
-| 36 | [Extraña Manera \- En Vivo](https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:20 |
+| 36 | [Tu Nuevo Cariñito \- En Vivo](https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:01 |
 | 37 | [Haré de Cuenta](https://open.spotify.com/track/28JoiRZEHQRpYC1ofiOYpO) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:29 |
 | 38 | [Amor Ranchero](https://open.spotify.com/track/1trn4GJEVc1fUJ6QPt47Q8) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Herencia de Reyes](https://open.spotify.com/album/41jebnJTjXLJUPccmutiXa) | 3:18 |
 | 39 | [Besos de Papel \- En Vivo](https://open.spotify.com/track/6ILt8LHVCRGAhf1HFeZVty) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:26 |
 | 40 | [Con Rumbo Al Sur \- En Vivo](https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:55 |
 | 41 | [Leña De Pirul \- En Vivo](https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:16 |
 
-Snapshot ID: `Zql+gAAAAAA4s+G8viUTCP1ersaTs/J2`
+Snapshot ID: `ZqrQAAAAAAC8BNafHaOGN6ef7WOAB8Gl`

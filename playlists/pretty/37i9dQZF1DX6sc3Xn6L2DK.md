@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,234 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,239 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 58 | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X) | [Jeremy Fetzer](https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r) | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX) | 3:58 |
 | 59 | [Denim & Diamonds](https://open.spotify.com/track/7fHUqBn0fIdmVjBLq0ofbx) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Shooter](https://open.spotify.com/album/7aETyhIwmu3PpDFu2o12MG) | 3:26 |
 | 60 | [Things to Burn](https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Southern Galactic](https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy) | 3:18 |
-| 61 | [Rodeo](https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd) | [Charlie Marie](https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj) | [Charlie Marie](https://open.spotify.com/album/1Z0wb6vPJo4TlSQs3YU9sp) | 3:41 |
-| 62 | [The Wolf](https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg) | [Gill Landry](https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh) | [Skeleton at the Banquet](https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV) | 4:54 |
+| 61 | [The Wolf](https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg) | [Gill Landry](https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh) | [Skeleton at the Banquet](https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV) | 4:54 |
+| 62 | [Rodeo](https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd) | [Charlie Marie](https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj) | [Charlie Marie](https://open.spotify.com/album/1Z0wb6vPJo4TlSQs3YU9sp) | 3:41 |
 | 63 | [Fruits Of My Labour](https://open.spotify.com/track/1I82ICxLwXvTWHR09ReWC2) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Cuntry Covers Vol\. 1](https://open.spotify.com/album/6z56QWKJpMuTMPF3eLA3hu) | 4:44 |
 | 64 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 |
 | 65 | [Justice](https://open.spotify.com/track/1EOGdbnAjCYFo2NGHy2Yki) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Justice](https://open.spotify.com/album/54zCCRilHLhxkA0Moy7Jnz) | 3:44 |

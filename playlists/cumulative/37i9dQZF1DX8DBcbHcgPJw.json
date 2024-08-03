@@ -3982,7 +3982,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 178695,
       "name": "Imaginate que soy yo",
       "url": "https://open.spotify.com/track/0piCjuFlGx5KLaALEVU3NI"
@@ -4256,7 +4256,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 123600,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/1TQ97PNnqsgVPnt6tjY46L"
@@ -5994,6 +5994,32 @@
       "duration_ms": 189473,
       "name": "Miradas - Remix",
       "url": "https://open.spotify.com/track/5IhVxfhY81aRjLHddjnDnK"
+    },
+    {
+      "album": {
+        "name": "Mirame - Versi\u00f3n Cumbia (feat. Blessd & Ovy On The Drums)",
+        "url": "https://open.spotify.com/album/3O3fWgAROveGez4t8Ui8xB"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127244,
+      "name": "Mirame - Versi\u00f3n Cumbia",
+      "url": "https://open.spotify.com/track/6UVw3cOnIQ0XqCYaeVKGGI"
     },
     {
       "album": {
@@ -9244,6 +9270,24 @@
       "duration_ms": 193320,
       "name": "Te Burlaste de Mi",
       "url": "https://open.spotify.com/track/2YCaTaj5GdDjb7iujE6Lfi"
+    },
+    {
+      "album": {
+        "name": "Te conoc\u00ed / Ni\u00f1a / No hablen mal de ella (En Vivo)",
+        "url": "https://open.spotify.com/album/1FIic3ytw1Pq5pv2szi802"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592992,
+      "name": "Te conoc\u00ed / Ni\u00f1a / No hablen mal de ella - En Vivo",
+      "url": "https://open.spotify.com/track/62pDGH8V2kqqQCQ1W6q5un"
     },
     {
       "album": {

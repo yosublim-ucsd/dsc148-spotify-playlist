@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 30 | [Last Fall](https://open.spotify.com/track/17EdWmpQM7VMrJaYA7BJi3) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Last Fall](https://open.spotify.com/album/746cIlVvOicxEAG96F4ZPW) | 3:45 |
 | 31 | [Somebody Else's Somebody](https://open.spotify.com/track/2kI1DffKDMBuq5R0MTI2S6) | [ALISSA GRIFFITH](https://open.spotify.com/artist/4sH2uBwia6cdHvnvdsA1jX) | [Somebody Else's Somebody](https://open.spotify.com/album/0EEFDFAx0cFS7zV5WGhTdk) | 3:05 |
 | 32 | [Ghost Of My Past](https://open.spotify.com/track/0zDftqIhxEhl9AfGiCvgGh) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Legacy](https://open.spotify.com/album/6NnwmqK1adZp3yXObpoD0W) | 3:36 |
-| 33 | [8 Months](https://open.spotify.com/track/0T5l2AP5TL84CK1KQ499B7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:40 |
-| 34 | [Count Me Out](https://open.spotify.com/track/3jPYaAlI795e7rOxuWhrSi) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Count Me Out](https://open.spotify.com/album/2UUU9AMOEP4g21JA6WlPaA) | 3:13 |
+| 33 | [Count Me Out](https://open.spotify.com/track/3jPYaAlI795e7rOxuWhrSi) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Count Me Out](https://open.spotify.com/album/2UUU9AMOEP4g21JA6WlPaA) | 3:13 |
+| 34 | [8 Months](https://open.spotify.com/track/0T5l2AP5TL84CK1KQ499B7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:40 |
 | 35 | [Mean To Me](https://open.spotify.com/track/0UzuBW8HXoez3hmI1AoN3J) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:01 |
 | 36 | [Both/And](https://open.spotify.com/track/3MyHVOLCrWtItxITiaJvAy) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Goodbye To All Of That, 2023](https://open.spotify.com/album/5rJqKtbGfVUH8glGRtPVic) | 2:54 |
 | 37 | [New Town](https://open.spotify.com/track/2znEJ1xEQdOnXJB44jRoSB) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5UHON4pVvrXgn9DIPUNPq0) | 3:12 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 98 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 99 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AbYSLAAAAAA5xaDcf2yH65CqLS27LOCb`
+Snapshot ID: `AbYXzAAAAABVA49HACfQ5eigO3S9WvNA`

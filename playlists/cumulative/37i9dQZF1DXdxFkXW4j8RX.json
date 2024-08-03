@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa de lxs MC's. Foto: EnSecreto",
+  "description": "La casa de lxs MC's. Foto: Portavoz.",
   "name": "Rap Chileno",
   "tracks": [
     {
@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 139228,
       "name": "Kenjutsu",
       "url": "https://open.spotify.com/track/5NqtOukKoItpEW9R5p5tlf"
@@ -4296,6 +4296,32 @@
       "duration_ms": 243561,
       "name": "Toca Perder",
       "url": "https://open.spotify.com/track/5RlTpFB3fE7hxlIKCV8bQm"
+    },
+    {
+      "album": {
+        "name": "SHAKA ZOO",
+        "url": "https://open.spotify.com/album/61NlEAapMPi8QUApSv1LzT"
+      },
+      "artists": [
+        {
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+        },
+        {
+          "name": "Otreum",
+          "url": "https://open.spotify.com/artist/4CKnkWYzE1wO4tcogBNb2M"
+        },
+        {
+          "name": "Zoneto'Zen",
+          "url": "https://open.spotify.com/artist/4dd4SBMGI87lhyFSRG1T7z"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161791,
+      "name": "TODXS MIS VECINXS",
+      "url": "https://open.spotify.com/track/01qkeLxbyewZTSlL1gGl2l"
     },
     {
       "album": {

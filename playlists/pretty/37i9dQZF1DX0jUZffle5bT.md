@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jUZffle5bT.md) - [plain]
 
 > The Latin soundtrack of the 2020s! Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,028 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,083 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jUZffle5bT.md) - [plain]
 | 46 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 |
 | 47 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 |
 | 48 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 |
-| 49 | [La Jeepeta \- Remix](https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Jeepeta \(Remix\)](https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4) | 5:45 |
-| 50 | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i) | 2:09 |
+| 49 | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i) | 2:09 |
+| 50 | [La Jeepeta \- Remix](https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Jeepeta \(Remix\)](https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4) | 5:45 |
 
 Snapshot ID: `ZkOdiwAAAABWutaA2zxEZXX+wDLpkmbc`

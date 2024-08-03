@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "21 DE ENERo",
+        "url": "https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174954,
+      "name": "21 DE ENERo",
+      "url": "https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/07lKXcTObjoJTSbZ3ja38O"
       },
@@ -6219,6 +6241,24 @@
     },
     {
       "album": {
+        "name": "Llegas t\u00fa",
+        "url": "https://open.spotify.com/album/1Yl5dq5EX3iweirK4qub8c"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160452,
+      "name": "Llegas t\u00fa",
+      "url": "https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W"
+    },
+    {
+      "album": {
         "name": "Lo que hay afuera",
         "url": "https://open.spotify.com/album/7xmlhbWss64Cozcucei7Ys"
       },
@@ -6878,7 +6918,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 204533,
       "name": "Me Presento",
       "url": "https://open.spotify.com/track/5whdmVRrXZ1dU2DWkNc5vn"
@@ -7245,6 +7285,32 @@
     },
     {
       "album": {
+        "name": "Milaka Lore - Miles de Flores",
+        "url": "https://open.spotify.com/album/5dp5d1ANJoFfuV3lRUGN2X"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        },
+        {
+          "name": "S\u00dcNE",
+          "url": "https://open.spotify.com/artist/57e70Po12Ltmf2tg0cKYka"
+        },
+        {
+          "name": "GRETA CH'ASKA",
+          "url": "https://open.spotify.com/artist/4n1sa8DtFCm0AZ67GBfxoh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160310,
+      "name": "Milaka Lore - Miles de Flores",
+      "url": "https://open.spotify.com/track/3cMG8a9pwc7ZK34hDLUT9X"
+    },
+    {
+      "album": {
         "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
         "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
       },
@@ -7536,7 +7602,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 108237,
       "name": "Nariz",
       "url": "https://open.spotify.com/track/7mns5SaMZBKrJiCSlDpcD1"
@@ -8166,7 +8232,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 197346,
       "name": "Orquesta natural",
       "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
@@ -9150,6 +9216,24 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0PR1QIMk7rQlm8hVPc1spT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Lebr\u00f3n",
+          "url": "https://open.spotify.com/artist/1LX6bLRTvP6V8hSVdWXbC7"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179968,
+      "name": "Que Bonito",
+      "url": "https://open.spotify.com/track/3lbaXRttgLyDAQtH9L4Ctl"
     },
     {
       "album": {
@@ -12336,7 +12420,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 246402,
       "name": "Volver a casa",
       "url": "https://open.spotify.com/track/02XlIv06zKn3hCrQUDILgq"

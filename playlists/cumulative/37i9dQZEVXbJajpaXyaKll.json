@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
@@ -2037,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "Chihiro",
+        "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128575,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
+    },
+    {
+      "album": {
         "name": "Cierre Rkt",
         "url": "https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd"
       },
@@ -3215,6 +3251,28 @@
     },
     {
       "album": {
+        "name": "Encantadora (Turreo Edit)",
+        "url": "https://open.spotify.com/album/3gbadDCo8XM9ElgS1UPquR"
+      },
+      "artists": [
+        {
+          "name": "EZE!",
+          "url": "https://open.spotify.com/artist/34tvDSOvKb0GLGzySCSgnS"
+        },
+        {
+          "name": "BlackRiver",
+          "url": "https://open.spotify.com/artist/4NSvxdJFO86q8t1keTjWzU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243416,
+      "name": "Encantadora - Turreo Edit",
+      "url": "https://open.spotify.com/track/3tE6qqQ9XOJjtlu9Y6Wq98"
+    },
+    {
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -3344,7 +3402,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 127255,
       "name": "ES NORMAL (GUARACHA)",
       "url": "https://open.spotify.com/track/2i3uPNxpI2I1bfQvSXYoDy"
@@ -10218,7 +10276,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 215448,
       "name": "Tengo Un Plan - Remix",
       "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"
@@ -10662,7 +10720,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180385,
       "name": "Tu Foto - En Vivo",
       "url": "https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH"

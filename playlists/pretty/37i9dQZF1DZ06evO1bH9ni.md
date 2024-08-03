@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 ### [This Is Los Dos Carnales](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bH9ni)
 
-> This is Los Dos Carnales\. The essential tracks, all in one playlist.
+> This Is Los Dos Carnales\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,900 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,939 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 7 | [El Envidioso](https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:11 |
 | 8 | [La Tóxica](https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:32 |
 | 9 | [Moños Negros](https://open.spotify.com/track/6Pwu0EIITS21ajW5y9VvcE) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/4yCjvIrgpUESwejh6AIt3j) | 3:23 |
-| 10 | [El Borracho](https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:04 |
+| 10 | [Te Vas a Arrepentir](https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:51 |
 | 11 | [Al Estilo Rancheron](https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:18 |
 | 12 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
 | 13 | [Me Vale Madre](https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tragedias de Mi Pueblo \(Con Banda\)](https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg) | 4:13 |
-| 14 | [Te Vas a Arrepentir](https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:51 |
+| 14 | [El Borracho](https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:04 |
 | 15 | [Tuyo y Mío](https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:20 |
 | 16 | [Aka Entre el Humo](https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Aka Entre el Humo](https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K) | 3:19 |
 | 17 | [El Corrido de Panchito](https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:22 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 43 | [Termino Con Lo Nuestro](https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Termino Con Lo Nuestro](https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6) | 3:37 |
 | 44 | [Cuadra los Parientes \- En Vivo](https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:55 |
 | 45 | [Mi Profesión](https://open.spotify.com/track/6vZnpaBquxZQzTZqJrap1B) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:43 |
-| 46 | [100pre](https://open.spotify.com/track/2BM8X3VWHBvPJW0f3FiU77) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los de 100pre](https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW) | 2:32 |
-| 47 | [En Fin](https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:46 |
+| 46 | [En Fin](https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:46 |
+| 47 | [100pre](https://open.spotify.com/track/2BM8X3VWHBvPJW0f3FiU77) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los de 100pre](https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW) | 2:32 |
 | 48 | [El Ranchero \- En Vivo](https://open.spotify.com/track/3GRAmRiwbmyTYhzzBtUTuU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:57 |
 | 49 | [El Doble R](https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [6 Tragos](https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt) | 2:33 |
 | 50 | [Mi Jefe](https://open.spotify.com/track/0UUz5GRn15I8839GPyxlfU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mi Jefe](https://open.spotify.com/album/64Ea7fAv31mvQ47PTQFeUN) | 3:34 |
 
-Snapshot ID: `Zql+gAAAAABAd3iWl+uNl9hOigB0cGFN`
+Snapshot ID: `ZqrQAAAAAAA6Od4DXVryVX8FZGCRdBjd`

@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/6cnadGskko2D3kOJsro8Wb"
+      },
+      "artists": [
+        {
+          "name": "Grace Bowers & The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224106,
+      "name": "Dance To The Music",
+      "url": "https://open.spotify.com/track/4CBDFhxrhcop3lRIMPpNGJ"
+    },
+    {
+      "album": {
         "name": "Dead Eyes",
         "url": "https://open.spotify.com/album/3DkZKoCTBT3ruS9To8hi9N"
       },

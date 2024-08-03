@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC?si=\_oqzWiQgQomo6FjTBILUbA">Lainey Wilson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,978 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,009 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

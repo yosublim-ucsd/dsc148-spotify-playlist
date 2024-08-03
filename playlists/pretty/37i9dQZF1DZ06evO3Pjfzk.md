@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 ### [This Is Lainey Wilson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk)
 
-> This is Lainey Wilson\. The essential tracks, all in one playlist.
+> This is Lainey Wilson\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,401 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,503 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 14 | [Country's Cool Again](https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Country's Cool Again](https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92) | 3:38 |
 | 15 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 |
 | 16 | [Atta Girl](https://open.spotify.com/track/5yDmKWFlzwTRU4LPyD9MCi) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:26 |
-| 17 | [Would If I Could \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0RNSabq5rdLoXc2Gjwjk1f) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:22 |
-| 18 | [Dreamcatcher](https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 3:24 |
+| 17 | [Dreamcatcher](https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 3:24 |
+| 18 | [Would If I Could \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0RNSabq5rdLoXc2Gjwjk1f) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:22 |
 | 19 | [Praying Woman](https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:51 |
 | 20 | [Weak\-End](https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 |
 | 21 | [Workin' Overtime](https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Workin' Overtime](https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O) | 3:17 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 48 | [I Make Myself](https://open.spotify.com/track/4lY4XM0j4EwIwm4cFoQyNs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:34 |
 | 49 | [Gravel](https://open.spotify.com/track/2W08wJxwvaM5k9bjV2cEEI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:22 |
 
-Snapshot ID: `Zql+gAAAAAAAYQtGi35k8m+oOWQAjl4P`
+Snapshot ID: `ZqrQAAAAAABryiZO0jCG2RuFXNCsZyzv`

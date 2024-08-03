@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,246 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,245 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 36 | [Lo/Hi](https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Lo/Hi](https://open.spotify.com/album/3sRZoykfSZpEtVngmJDply) | 2:57 |
 | 37 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |
 | 38 | [What Feels Like Eternity](https://open.spotify.com/track/4JmXokIIxfoS3XdhkHUBDw) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 3:37 |
-| 39 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
-| 40 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
+| 39 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
+| 40 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
 | 41 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
 | 42 | [I Come from the Mountain](https://open.spotify.com/track/2eKcMyjRqXwVh8OeR9wZKt) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:28 |
 | 43 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 69 | [Analogía de una Laguna](https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Analogía de una Laguna](https://open.spotify.com/album/723DfEBve0LRScRimGdq9c) | 3:30 |
 | 70 | [Loaded](https://open.spotify.com/track/7eKUG8l9jlGeZ7hh0DA036) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Loaded](https://open.spotify.com/album/7zhP9dkXyi10UUv4YGosEs) | 3:18 |
 | 71 | [Fukushima](https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 5:44 |
-| 72 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 |
-| 73 | [Why Must A Building Burn?](https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Nature Always Wins](https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4) | 3:02 |
+| 72 | [Why Must A Building Burn?](https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Nature Always Wins](https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4) | 3:02 |
+| 73 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 |
 | 74 | [Cosas que probablemente no van a pasar](https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Cosas Que Probablemente No Van a Pasar](https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw) | 2:40 |
 | 75 | [Prisoners](https://open.spotify.com/track/6U8ShBOpMZRz4g5yia9Uo0) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Prisoners](https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7) | 4:26 |
 

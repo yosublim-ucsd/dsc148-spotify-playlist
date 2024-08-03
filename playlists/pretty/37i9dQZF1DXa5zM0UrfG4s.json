@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 110982,
+  "num_followers": 111013,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,26 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Dunka",
-        "url": "https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7"
+        "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
+        "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
       },
       "artists": [
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+          "name": "DJ Anton",
+          "url": "https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8"
         },
         {
-          "name": "Emil Asserg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
         }
       ],
-      "duration_ms": 133800,
-      "name": "Dunka",
-      "url": "https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL"
+      "duration_ms": 172272,
+      "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
+      "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -427,26 +431,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
-        "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
+        "name": "Dunka",
+        "url": "https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7"
       },
       "artists": [
         {
-          "name": "DJ Anton",
-          "url": "https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
         },
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+          "name": "Emil Asserg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
         }
       ],
-      "duration_ms": 172272,
-      "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
-      "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
+      "duration_ms": 133800,
+      "name": "Dunka",
+      "url": "https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Ja likav\u00e4l",
-        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 161917,
-      "name": "Ja likav\u00e4l",
-      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Gamlehjem",
         "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 181648,
       "name": "Gamlehjem",
       "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Ja likav\u00e4l",
+        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 161917,
+      "name": "Ja likav\u00e4l",
+      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Kompis",
-        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Kompis",
-      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "\u00d8l i kantina",
         "url": "https://open.spotify.com/album/3Ba89F7pVLtwkcxEqt5gMj"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Kompis",
+        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Kompis",
+      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 167543,
       "name": "Jag Vill Vara Din Margareta",
       "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+      },
+      "artists": [
+        {
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+        }
+      ],
+      "duration_ms": 172613,
+      "name": "Kainn \u00c6 F\u00e5 Lov",
+      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -951,22 +967,6 @@
       "duration_ms": 191142,
       "name": "Kj\u00f8rer Som En Bestemor",
       "url": "https://open.spotify.com/track/1V9wDqSJ9GuOKQSx2lOV00"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
-      },
-      "artists": [
-        {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
-        }
-      ],
-      "duration_ms": 172613,
-      "name": "Kainn \u00c6 F\u00e5 Lov",
-      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Svensk i kv\u00e4ll",
-        "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
-      },
-      "artists": [
-        {
-          "name": "Helene Olafsen",
-          "url": "https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN"
-        },
-        {
-          "name": "Norges Nye Megahit",
-          "url": "https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5"
-        }
-      ],
-      "duration_ms": 124661,
-      "name": "Svensk i kv\u00e4ll",
-      "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Ei tid (Akustisk versjon)",
         "url": "https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 242906,
       "name": "Ei tid - Akustisk versjon",
       "url": "https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Svensk i kv\u00e4ll",
+        "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
+      },
+      "artists": [
+        {
+          "name": "Helene Olafsen",
+          "url": "https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN"
+        },
+        {
+          "name": "Norges Nye Megahit",
+          "url": "https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5"
+        }
+      ],
+      "duration_ms": 124661,
+      "name": "Svensk i kv\u00e4ll",
+      "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
     },
     {
       "added_at": "2024-07-18 22:00:00",

@@ -407,22 +407,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 184906,
       "name": "Dandelion Wine",
       "url": "https://open.spotify.com/track/5AeoHJUx0PJXAzN425xryh"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "(i would have followed you)",
-        "url": "https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 289040,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/3g62EjDXLltUvmgEFDn9eN"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 207048,
       "name": "Lover / / Over the Moon",
       "url": "https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "(i would have followed you)",
+        "url": "https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 289040,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/3g62EjDXLltUvmgEFDn9eN"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Build Me Up From Bones",
         "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1131,18 +1131,34 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i"
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 230773,
-      "name": "I Like to Be With Me When I'm With You",
-      "url": "https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB"
+      "duration_ms": 235418,
+      "name": "Sunflower, Vol. 6",
+      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Venus (Acoustic)",
+        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Till Forever (Acoustic)",
+      "url": "https://open.spotify.com/track/3bELVNyQDvjRqJiMiFoohe"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1167,34 +1183,18 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Venus (Acoustic)",
-        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 235986,
-      "name": "Till Forever (Acoustic)",
-      "url": "https://open.spotify.com/track/3bELVNyQDvjRqJiMiFoohe"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 235418,
-      "name": "Sunflower, Vol. 6",
-      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
+      "duration_ms": 230773,
+      "name": "I Like to Be With Me When I'm With You",
+      "url": "https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1227,26 +1227,6 @@
       "duration_ms": 227493,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "Sea Of Love",
-        "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 203190,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1299,18 +1279,38 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ"
+        "name": "Sea Of Love",
+        "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
       },
       "artists": [
         {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Everything's Fine",
-      "url": "https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C"
+      "duration_ms": 203190,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Augusta",
+        "url": "https://open.spotify.com/album/0f76y2SetY65asEqyesJed"
+      },
+      "artists": [
+        {
+          "name": "Scott Helman",
+          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/5bd7amccz6nBtODT3TgAZE"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Augusta",
-        "url": "https://open.spotify.com/album/0f76y2SetY65asEqyesJed"
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ"
       },
       "artists": [
         {
-          "name": "Scott Helman",
-          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
         }
       ],
-      "duration_ms": 173906,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/5bd7amccz6nBtODT3TgAZE"
+      "duration_ms": 209160,
+      "name": "Everything's Fine",
+      "url": "https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 155690,
-      "name": "Wondrous Love",
-      "url": "https://open.spotify.com/track/1XxBNS8YE8bSpzXjXYpQCY"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Shoreline",
         "url": "https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 252013,
       "name": "I Can't Keep from Loving You",
       "url": "https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 155690,
+      "name": "Wondrous Love",
+      "url": "https://open.spotify.com/track/1XxBNS8YE8bSpzXjXYpQCY"
     },
     {
       "added_at": "2024-07-05 22:35:53",

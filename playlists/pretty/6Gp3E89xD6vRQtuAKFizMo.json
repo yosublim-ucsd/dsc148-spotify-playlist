@@ -1,13 +1,73 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44232,
+  "num_followers": 44235,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZiLJ+qyF0A8ir2XR0d5dnsp2GmuEW",
+  "snapshot_id": "AAAZlA4cQUr9hYttM+oaodCxy98VXpGO",
   "tracks": [
+    {
+      "added_at": "2024-08-02 16:46:39",
+      "album": {
+        "name": "Hold My Love (feat. Piper Byers)",
+        "url": "https://open.spotify.com/album/5UtWnVXS5XFXJU8geS49K6"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Piper Byers",
+          "url": "https://open.spotify.com/artist/2m0Pc2TS4246t620Ut4Dk3"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Hold My Love (feat. Piper Byers)",
+      "url": "https://open.spotify.com/track/6DagmGXA13lYuPCI2ZUDRt"
+    },
+    {
+      "added_at": "2024-08-02 16:43:54",
+      "album": {
+        "name": "Trip To Roma (feat. Loubna)",
+        "url": "https://open.spotify.com/album/19psBNUTIkl6KyFJe7qAa6"
+      },
+      "artists": [
+        {
+          "name": "Softest Hard",
+          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
+        },
+        {
+          "name": "Loubna",
+          "url": "https://open.spotify.com/artist/0kUyt4y4iqxMqLs9a0Cs9R"
+        }
+      ],
+      "duration_ms": 201906,
+      "name": "Trip To Roma (feat. Loubna)",
+      "url": "https://open.spotify.com/track/0lNQhhSOt8fFtk9PhOt2kF"
+    },
+    {
+      "added_at": "2024-08-02 16:49:47",
+      "album": {
+        "name": "Lost Cause",
+        "url": "https://open.spotify.com/album/0ZelRbO1gxg9Qw8s55vohG"
+      },
+      "artists": [
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        },
+        {
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        }
+      ],
+      "duration_ms": 206068,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/0T1avwj6YeeUZAAw2s26tQ"
+    },
     {
       "added_at": "2024-07-26 17:00:26",
       "album": {

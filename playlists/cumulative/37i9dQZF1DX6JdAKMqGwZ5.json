@@ -153,7 +153,7 @@
     },
     {
       "album": {
-        "name": "Amargura (Cover para 'Perrea, perrea' de Movistar Plus+)",
+        "name": "Amargura (Cover para Movistar Plus+)",
         "url": "https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL"
       },
       "artists": [
@@ -170,7 +170,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184666,
-      "name": "Amargura (Cover para 'Perrea, perrea' de Movistar Plus+)",
+      "name": "Amargura (Cover para Movistar Plus+)",
       "url": "https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8"
     },
     {
@@ -266,6 +266,28 @@
       "duration_ms": 148650,
       "name": "BLU",
       "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
+    },
+    {
+      "album": {
+        "name": "Braille",
+        "url": "https://open.spotify.com/album/7wMwfQcUeM2yPRQRDNV0Ft"
+      },
+      "artists": [
+        {
+          "name": "Juan Belda",
+          "url": "https://open.spotify.com/artist/3qQqgaRyTvxL3ybDEFHNnn"
+        },
+        {
+          "name": "Chica Sobresalto",
+          "url": "https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204421,
+      "name": "Braille",
+      "url": "https://open.spotify.com/track/0GzcQHr6Ecz0kVjWccfOmY"
     },
     {
       "album": {
@@ -2544,7 +2566,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 217333,
       "name": "Un Mill\u00f3n de A\u00f1os",
       "url": "https://open.spotify.com/track/1FwNzcMOscVkseCTpW6aey"

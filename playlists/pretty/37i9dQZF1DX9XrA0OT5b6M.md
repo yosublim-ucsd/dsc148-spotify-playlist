@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,882 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,890 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 |
-| 2 | [TVアニメ『ONE PIECE』25周年！ 【きただにひろし×田中公平】あーーっす！スペシャル対談](https://open.spotify.com/episode/4YdvgzkkZPAnA0ntN176Bm) | [Spotify ANIZONE \- アニゾーン 【FAIRY TAIL 100年クエスト】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【FAIRY TAIL 100年クエスト】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 41:44 |
+| 2 | [TVアニメ『ONE PIECE』25周年！ 【きただにひろし×田中公平】あーーっす！スペシャル対談](https://open.spotify.com/episode/4YdvgzkkZPAnA0ntN176Bm) | [Spotify ANIZONE \- アニゾーン 【君に届け 3RD SEASON】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【君に届け 3RD SEASON】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 41:44 |
 | 3 | [Dear sunrise](https://open.spotify.com/track/25EjH8afEtEVAo545MsfOi) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [Dear sunrise](https://open.spotify.com/album/5oi9Tau6QtV499bgMOEDZo) | 3:39 |
 | 4 | [おれの最高地点](https://open.spotify.com/track/0chKjPMdnbJ1KXiSjbb267) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG), [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE Original Soundtrack"GEAR5"](https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0) | 3:03 |
 | 5 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |

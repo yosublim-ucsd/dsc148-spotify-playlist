@@ -4,7 +4,7 @@
 
 > Various sounds, various decades, but with one thing in common.
 
-377 songs - 1 day 0 hr 29 min
+378 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bad Moon Rising](https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(40th Anniversary Edition\)](https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI) | 2:21 | 2021-12-09 | 2022-07-29 |
 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 | 2021-12-09 |  |
 | [Beat The Bastards](https://open.spotify.com/track/0AyDd6zoOYCIcXKauYzquH) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Blood Of The Nations](https://open.spotify.com/album/70gEplvmKUXn50LfDh1GIO) | 5:24 | 2022-04-08 | 2022-04-21 |
+| [Black Haired Girl](https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML) | [Jesse Malin](https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls), [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG) | [Black Haired Girl](https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7) | 2:57 | 2024-07-31 |  |
 | [Black Smoke Rising](https://open.spotify.com/track/32BEasyNQgqXQJKoVa0fUw) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 4:19 | 2022-02-04 | 2024-05-09 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 |  |
 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 | 2022-04-08 |  |
@@ -341,7 +342,7 @@
 | [The Wire](https://open.spotify.com/track/2jDgvn31FTHSYgTMavDv3v) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/0vyPTdAxmOLpOHHAkWJAa0) | 3:05 | 2021-12-09 | 2024-07-31 |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2024-04-12 |  |
 | [This is Our Life](https://open.spotify.com/track/5T38ywOoK6b29fpbTrhwx3) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/0dQPaO9I1hRzDwe2RePxFR) | 3:44 | 2022-04-08 | 2022-04-21 |
-| [This Land](https://open.spotify.com/track/0Jxl1PdSbiQPYRPVdzBdES) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 5:41 | 2022-04-08 |  |
+| [This Land](https://open.spotify.com/track/0Jxl1PdSbiQPYRPVdzBdES) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 5:41 | 2022-04-08 | 2024-08-03 |
 | [Three Chords](https://open.spotify.com/track/5UZS4MsPlUYmdPTh7wQVSD) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 3:47 | 2022-03-11 | 2024-05-09 |
 | [Thunderstruck](https://open.spotify.com/track/52UWtKlYjZO3dHoRlWuz9S) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Iron Man 2](https://open.spotify.com/album/4ydl8Ci7OsndhI2ALnrpIv) | 4:52 | 2021-12-09 |  |
 | [TK421](https://open.spotify.com/track/1yrk5j7MegvbBqXnsQgw1I) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/61cdO9Uj40jzlDGuzrO7Lv) | 3:15 | 2023-10-13 | 2024-04-13 |

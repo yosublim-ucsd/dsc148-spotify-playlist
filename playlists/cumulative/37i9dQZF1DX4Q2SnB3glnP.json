@@ -410,7 +410,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196000,
       "name": "As Seen In Silver Halide",
       "url": "https://open.spotify.com/track/4lanwDkWGgvJMgrdfomThw"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 147808,
       "name": "Astral",
       "url": "https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 133000,
       "name": "Austral Tides",
       "url": "https://open.spotify.com/track/18D6L0H2p25BgTQSjMAqrH"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 166000,
       "name": "Away",
       "url": "https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 166500,
       "name": "Breezy Blossoms",
       "url": "https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 156000,
       "name": "Calm Waters",
       "url": "https://open.spotify.com/track/1do75y51oMqjESmgbegWfy"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 171876,
       "name": "Dharana Focus",
       "url": "https://open.spotify.com/track/5OpOdnNT8P4aMvYFsmidPN"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 245204,
       "name": "Duerme",
       "url": "https://open.spotify.com/track/0yYcH4WBishYhqLUQFdBFu"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 151200,
       "name": "Elba",
       "url": "https://open.spotify.com/track/5snLmzdl7l5t4vSwG19sYG"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 167436,
       "name": "Energetic Waves",
       "url": "https://open.spotify.com/track/6ALP8q5geZi3Y6agRNKsA1"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 246857,
       "name": "Entering the Sacred Room (Temple pt. I)",
       "url": "https://open.spotify.com/track/7Dz2O45BvScxRo5zUGA21K"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183225,
       "name": "Explorer",
       "url": "https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj"
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 139271,
       "name": "From Above",
       "url": "https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP"
@@ -2401,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "In Memory Of",
+        "url": "https://open.spotify.com/album/2OLoHeaHiV2qR2F4P5KhZh"
+      },
+      "artists": [
+        {
+          "name": "Arius Feva",
+          "url": "https://open.spotify.com/artist/2zzSS4EXRzuGsXFfYlDfI5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "In Memory Of",
+      "url": "https://open.spotify.com/track/7wQEt80PnEREInl68vpMB6"
+    },
+    {
+      "album": {
         "name": "In Motion",
         "url": "https://open.spotify.com/album/7KT7qSRx14RqiDEnJLpmzH"
       },
@@ -2560,6 +2578,24 @@
       "duration_ms": 152142,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/7CgocZ2k4lgtCl1aPW9fEi"
+    },
+    {
+      "album": {
+        "name": "intuition",
+        "url": "https://open.spotify.com/album/5ym6jEojVf051TGZOt1y3p"
+      },
+      "artists": [
+        {
+          "name": "Fourth Eye",
+          "url": "https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152083,
+      "name": "intuition",
+      "url": "https://open.spotify.com/track/293EmGMdMHc1OQxNxW5olu"
     },
     {
       "album": {
@@ -2880,7 +2916,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 204447,
       "name": "Lost in the Clouds",
       "url": "https://open.spotify.com/track/199TOFLcLwoW2knx6OTC0l"
@@ -2916,7 +2952,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 177894,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0ieNtAr6lpIRu6MkyRgiq7"
@@ -3064,6 +3100,24 @@
       "duration_ms": 152624,
       "name": "Meaning",
       "url": "https://open.spotify.com/track/1AH5Pxh6hVzhNo4O33oBYt"
+    },
+    {
+      "album": {
+        "name": "Meditatio Lux",
+        "url": "https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO"
+      },
+      "artists": [
+        {
+          "name": "Maurie",
+          "url": "https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Meditatio Lux",
+      "url": "https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1"
     },
     {
       "album": {
@@ -3510,7 +3564,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 216000,
       "name": "Nuit Paisible",
       "url": "https://open.spotify.com/track/3YdxtdF8xoDObT8184XS8V"
@@ -3636,7 +3690,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 223707,
       "name": "One With You",
       "url": "https://open.spotify.com/track/6uFDXRgHLOWuzn8ulRJ2XW"
@@ -4014,7 +4068,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 175643,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv"
@@ -4212,7 +4266,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 228693,
       "name": "Resident",
       "url": "https://open.spotify.com/track/1Y38ppiNHGNSO9r4UrbkL0"
@@ -4356,7 +4410,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 211982,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/1tGkoTAHqcFeJ8jqgRzMXJ"
@@ -4698,7 +4752,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186500,
       "name": "Shaman Dreams",
       "url": "https://open.spotify.com/track/3O9i7hYrsLU99msJcjPOCL"
@@ -4752,7 +4806,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195500,
       "name": "She\u2019ll be right",
       "url": "https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr"
@@ -4986,7 +5040,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 181683,
       "name": "Submerged",
       "url": "https://open.spotify.com/track/0FaCS30JAXH9ntYh3TcF31"
@@ -5400,7 +5454,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 192793,
       "name": "Threads",
       "url": "https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U"
@@ -5634,7 +5688,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186000,
       "name": "Tomorrow Will Save Us",
       "url": "https://open.spotify.com/track/1veAhdOE3JSQIAFfXlPHa6"
@@ -6084,7 +6138,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 170369,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/5aadCHkKtIIAwkUAQRiiv9"

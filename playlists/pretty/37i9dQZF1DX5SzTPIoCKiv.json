@@ -1,6 +1,6 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a>",
-  "num_followers": 621799,
+  "num_followers": 621895,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
         "name": "Raise a Hallelujah (Studio Version)",
         "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 244040,
       "name": "Raise a Hallelujah - Studio Version",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "High Up",
-        "url": "https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "High Up",
-      "url": "https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
         "name": "Brighter Days / Tin Roof",
         "url": "https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "My Foundation",
-        "url": "https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q"
+        "name": "High Up",
+        "url": "https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz"
       },
       "artists": [
         {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 200596,
-      "name": "To Save My Life",
-      "url": "https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P"
+      "duration_ms": 180986,
+      "name": "High Up",
+      "url": "https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -723,6 +707,22 @@
       "duration_ms": 156199,
       "name": "Come Forth",
       "url": "https://open.spotify.com/track/7G9od7QNw1snBdtiyBE5Eu"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "My Foundation",
+        "url": "https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 200596,
+      "name": "To Save My Life",
+      "url": "https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
         "name": "Same God",
         "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 253653,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/2nMSJZPh1zhYl4nQqAV6Kz"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 212618,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/1ChWLfZppNHE101YA0QFgT"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
         "name": "You Got This",
         "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 194680,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/2nMSJZPh1zhYl4nQqAV6Kz"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 212618,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/1ChWLfZppNHE101YA0QFgT"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
+        "name": "Let The Ground Rest",
+        "url": "https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
         "name": "Church (Take Me Back) / Grave",
         "url": "https://open.spotify.com/album/0pGJxxpEZ6Vgq9Vd6GNyHE"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "Let The Ground Rest",
-        "url": "https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/7ARtMK1EgWMgh3rwdmEylb"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 284422,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/4HCsfA9kLHCG1Modb1RzQD"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/0WXK1Cn2WFzxoPv1USlIbR"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 203070,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/5pTpq4JWJHkZtcO2BjBN4V"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/7ARtMK1EgWMgh3rwdmEylb"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 284422,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/4HCsfA9kLHCG1Modb1RzQD"
     }
   ],
   "unique_name": "Christian Mix",

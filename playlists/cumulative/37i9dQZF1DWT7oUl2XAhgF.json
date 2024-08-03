@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Artemis",
+        "url": "https://open.spotify.com/album/0qMNhyWAWmsREWJz9mdZIV"
+      },
+      "artists": [
+        {
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173203,
+      "name": "Artemis",
+      "url": "https://open.spotify.com/track/5dYRCwE5R03NLKF5VpSccp"
+    },
+    {
+      "album": {
         "name": "The Dip Delivers",
         "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
       },
@@ -3836,10 +3854,28 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 162029,
       "name": "Let Me Feel Your Charm - Spotify Singles",
       "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
+    },
+    {
+      "album": {
+        "name": "Let Not (Your Heart Be Troubled)",
+        "url": "https://open.spotify.com/album/4Hx7ymGXKFN2rd8bMVNOxG"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266333,
+      "name": "Let Not (Your Heart Be Troubled)",
+      "url": "https://open.spotify.com/track/4WovYmHVAw2WliG6Es3kRQ"
     },
     {
       "album": {
@@ -3988,6 +4024,24 @@
       "duration_ms": 159120,
       "name": "Little by Little",
       "url": "https://open.spotify.com/track/2b5RJXQYweJKXgcfQaokKX"
+    },
+    {
+      "album": {
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
       "album": {
@@ -6548,7 +6602,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 228220,
       "name": "Spaceships",
       "url": "https://open.spotify.com/track/31bc2FenRg2KVCoIeSPg7E"
@@ -8054,7 +8108,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182821,
       "name": "Woman - Single Edit",
       "url": "https://open.spotify.com/track/4ba1UPL7mNQbU2G2qkDAQF"

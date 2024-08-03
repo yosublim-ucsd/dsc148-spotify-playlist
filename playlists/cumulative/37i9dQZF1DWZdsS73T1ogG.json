@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Hozwal & Pirlo",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Omar Courtz & Anuel AA",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 253962,
       "name": "BADGYAL",
       "url": "https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6"
@@ -3936,7 +3936,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 181258,
       "name": "BRICKELL",
       "url": "https://open.spotify.com/track/4S5KwSntvkT6bbUnfltXQl"
@@ -4156,7 +4156,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 170000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
@@ -7190,7 +7190,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 141692,
       "name": "Dreams & Love",
       "url": "https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN"
@@ -7792,7 +7792,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 148576,
       "name": "El Lloron",
       "url": "https://open.spotify.com/track/1XTlW25te9RA9JlwOeRaZy"
@@ -8092,7 +8092,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 159273,
       "name": "Embuste",
       "url": "https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86"
@@ -10154,7 +10154,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180906,
       "name": "Gistro",
       "url": "https://open.spotify.com/track/1OgJ6aaqAP4PdYdzdyPacH"
@@ -10678,6 +10678,32 @@
       "duration_ms": 148695,
       "name": "Hagale Pues",
       "url": "https://open.spotify.com/track/6Tah0tpInGpXOnYvPcwrCc"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana II",
+        "url": "https://open.spotify.com/album/5m5ZO91MvpYvzjmnF4GgfR"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Eduardo Soto",
+          "url": "https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR"
+        },
+        {
+          "name": "Mikeb\u00f8i",
+          "url": "https://open.spotify.com/artist/0lVNQEG85cu3cc6J3hAE3c"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114871,
+      "name": "Hannah Montana II",
+      "url": "https://open.spotify.com/track/5WU9zJ2jJD4BR1yUBByMkh"
     },
     {
       "album": {
@@ -12570,7 +12596,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 154501,
       "name": "La Mercedes",
       "url": "https://open.spotify.com/track/5zBO9yiJmpzEmQ2bUGYFVY"
@@ -14531,6 +14557,24 @@
     },
     {
       "album": {
+        "name": "Marquesa",
+        "url": "https://open.spotify.com/album/2JHbMQv2WaD8M9NMx65YH7"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "Marquesa",
+      "url": "https://open.spotify.com/track/5fgBtNJLOwvjJsc410ZTkq"
+    },
+    {
+      "album": {
         "name": "Marquesina - Spotify Singles",
         "url": "https://open.spotify.com/album/66kMhD2bCMzhwgAtaEzhLM"
       },
@@ -14966,6 +15010,28 @@
       "duration_ms": 242696,
       "name": "Mejor Que Yo",
       "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
+    },
+    {
+      "album": {
+        "name": "Mejores Jordans",
+        "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234077,
+      "name": "Mejores Jordans",
+      "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
     },
     {
       "album": {
@@ -15458,6 +15524,28 @@
       "duration_ms": 185600,
       "name": "Mia Na' Mas",
       "url": "https://open.spotify.com/track/4s6y1Ca36L1lxKR2nXgDD8"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/6Ylmj2i770pMUjEnwGd456"
+      },
+      "artists": [
+        {
+          "name": "Elena Vargas",
+          "url": "https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188597,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/0fksS3HI1cLlWCUbLqeXqB"
     },
     {
       "album": {
@@ -18470,7 +18558,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182242,
       "name": "PAGANI",
       "url": "https://open.spotify.com/track/0iVAHT7bsXiwLuB5eaWMqK"
@@ -18522,6 +18610,28 @@
       "duration_ms": 288053,
       "name": "PALABRAS SOBRAN - REMIX",
       "url": "https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml"
+    },
+    {
+      "album": {
+        "name": "Palo De Amigos",
+        "url": "https://open.spotify.com/album/1zbXamrDZJjEbKv1iKkwIF"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Palo De Amigos",
+      "url": "https://open.spotify.com/track/5VAoTOvZ1cJFeZG3M16h0z"
     },
     {
       "album": {
@@ -21666,7 +21776,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 189411,
       "name": "ROMA",
       "url": "https://open.spotify.com/track/4IEKfXckU8DNCmL7d56upY"
@@ -23377,6 +23487,28 @@
     },
     {
       "album": {
+        "name": "Sport+ RMX",
+        "url": "https://open.spotify.com/album/1BtoYJ33HGhv3x5Sn8hg3L"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Sport+ RMX",
+      "url": "https://open.spotify.com/track/52IODvPwFf6LEzNOGKMSrZ"
+    },
+    {
+      "album": {
         "name": "Stripper",
         "url": "https://open.spotify.com/album/1Ip8ywDTWKAZudr0yw6En9"
       },
@@ -23784,6 +23916,32 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
+    },
+    {
+      "album": {
+        "name": "Tacha$ & Tu$$i",
+        "url": "https://open.spotify.com/album/6kYaYO9RIX9hsseMbdOA1f"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Kevin Santin",
+          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Tacha$ & Tu$$i",
+      "url": "https://open.spotify.com/track/5jKRqn4TAi6ASvRYI5AqJV"
     },
     {
       "album": {
@@ -24425,6 +24583,32 @@
     },
     {
       "album": {
+        "name": "Thal\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/1pp1JiTZQM7mRDtn4jCVwN"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230857,
+      "name": "Thal\u00eda - Remix",
+      "url": "https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1"
+    },
+    {
+      "album": {
         "name": "THE ROOF IS ON FIRE",
         "url": "https://open.spotify.com/album/5Lh6deL25P04PXzmG4UJT4"
       },
@@ -25027,6 +25211,32 @@
     },
     {
       "album": {
+        "name": "Tremenda",
+        "url": "https://open.spotify.com/album/5ITVpjGfYE3N2KuHeilDBt"
+      },
+      "artists": [
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213255,
+      "name": "Tremenda",
+      "url": "https://open.spotify.com/track/5Wxdk7jhKAgPIuUZ0CFjO6"
+    },
+    {
+      "album": {
         "name": "Tremendo Cul\u00f3n",
         "url": "https://open.spotify.com/album/6tbSlpWCnjq57F93UsBKFP"
       },
@@ -25502,7 +25712,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 156521,
       "name": "TURRA & BANDIDA",
       "url": "https://open.spotify.com/track/68RJWlNTd1cj61yBYGJVOJ"
@@ -25880,6 +26090,32 @@
       "duration_ms": 285746,
       "name": "Un Viaje",
       "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
+    },
+    {
+      "album": {
+        "name": "Un Zippy",
+        "url": "https://open.spotify.com/album/3QKqJXrCiDTPqeJ9gFO3tz"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "Un Zippy",
+      "url": "https://open.spotify.com/track/0sIcCQxN1yOUSXyRZ1FPGY"
     },
     {
       "album": {
@@ -26964,7 +27200,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 87926,
       "name": "www.Polim\u00e1Westcoast",
       "url": "https://open.spotify.com/track/7v97B2A6GIkunZHNq5AXRZ"

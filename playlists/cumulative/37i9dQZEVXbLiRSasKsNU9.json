@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -11372,7 +11372,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 129153,
       "name": "CRF - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
@@ -45625,6 +45625,24 @@
     },
     {
       "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167291,
+      "name": "SIN MIEDO",
+      "url": "https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o"
+    },
+    {
+      "album": {
         "name": "Sin Querer",
         "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
       },
@@ -50486,7 +50504,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 146384,
       "name": "The Spark",
       "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
@@ -53086,6 +53104,24 @@
       "duration_ms": 183080,
       "name": "untitled",
       "url": "https://open.spotify.com/track/5qxHtOVLh3aR5kGUErwwt4"
+    },
+    {
+      "album": {
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182903,
+      "name": "Untungnya, Hidup Harus Tetap Berjalan",
+      "url": "https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO"
     },
     {
       "album": {
@@ -57068,7 +57104,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 164691,
       "name": "zosta\u0144, prosz\u0119",
       "url": "https://open.spotify.com/track/5i0KjwixfbjGyD1Dxa6vxS"

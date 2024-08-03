@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "At Your Altar (Live)",
+        "url": "https://open.spotify.com/album/2pGaldHi85JOIntXkUHZkK"
+      },
+      "artists": [
+        {
+          "name": "SarahBeth Smith",
+          "url": "https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452810,
+      "name": "At Your Altar - Live",
+      "url": "https://open.spotify.com/track/1pLHop5cU0LDbiWdPvtxBo"
+    },
+    {
+      "album": {
         "name": "Basic Faith",
         "url": "https://open.spotify.com/album/3oF2qmQFZTHzuVbSvOJ6CI"
       },
@@ -1460,6 +1478,24 @@
       "duration_ms": 302013,
       "name": "Christ Be Magnified",
       "url": "https://open.spotify.com/track/4N2SVgJkVmn4sgS7s2410F"
+    },
+    {
+      "album": {
+        "name": "Christ Has Overcome (Live)",
+        "url": "https://open.spotify.com/album/6yNrGP3SoOq7HSfAqIEXSb"
+      },
+      "artists": [
+        {
+          "name": "Jesus Image",
+          "url": "https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589994,
+      "name": "Christ Has Overcome - Live",
+      "url": "https://open.spotify.com/track/4LwFQtVz2ZTuHBuCD67ky0"
     },
     {
       "album": {
@@ -8153,6 +8189,32 @@
     },
     {
       "album": {
+        "name": "Steady Love (Live)",
+        "url": "https://open.spotify.com/album/0VbGmQpx6M8O2E1S4RC2cu"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Jessie-Rose Rayner",
+          "url": "https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291458,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/0QqGfCym00XMpy30MtdPKO"
+    },
+    {
+      "album": {
         "name": "Steady Love",
         "url": "https://open.spotify.com/album/5spOPiSus1L36TXEUkLwzo"
       },
@@ -8303,6 +8365,28 @@
     },
     {
       "album": {
+        "name": "All Broken Things (Live)",
+        "url": "https://open.spotify.com/album/6vyQ0XVY1AimYETRheLgY9"
+      },
+      "artists": [
+        {
+          "name": "29:11 Worship",
+          "url": "https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX"
+        },
+        {
+          "name": "Zion Rempel",
+          "url": "https://open.spotify.com/artist/05Z69sozelP8QXh3nS5Aop"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 645711,
+      "name": "Surely (All Of My Days / Better Is One Day) - Live",
+      "url": "https://open.spotify.com/track/4p3F1KOc08z1hdO1s1Gciq"
+    },
+    {
+      "album": {
         "name": "Surely (All Of My Days / Better Is One Day) [Live]",
         "url": "https://open.spotify.com/album/38ByoWmhGof7Lzoy3NiWtB"
       },
@@ -8318,7 +8402,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 645711,
       "name": "Surely (All Of My Days / Better Is One Day) - Live",
       "url": "https://open.spotify.com/track/5983iJsJLCuGJKAFmIaCUn"
@@ -8638,6 +8722,28 @@
       "duration_ms": 507306,
       "name": "The Blessing (Live)",
       "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
+    },
+    {
+      "album": {
+        "name": "Live From Europe",
+        "url": "https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489875,
+      "name": "The Blessing - Live From Europe",
+      "url": "https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM"
     },
     {
       "album": {

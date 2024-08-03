@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Pat Metheny",
+  "description": "New jazz for open minds. Cover: Walter Smith III",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -3209,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Mid Spiral",
+        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326240,
+      "name": "Best Left Unsolved - Bonus Track",
+      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
+    },
+    {
+      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/0q5E0UO6D1M6vGT4LPB1Xd"
       },
@@ -3316,6 +3334,32 @@
       "duration_ms": 292210,
       "name": "Beyond the Redemption",
       "url": "https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni"
+    },
+    {
+      "album": {
+        "name": "Beyond Words",
+        "url": "https://open.spotify.com/album/0ZHbluQZTz6pEofcJvHPnz"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133237,
+      "name": "Beyond Words",
+      "url": "https://open.spotify.com/track/07VMAsCpF4AWhReyFS5FgK"
     },
     {
       "album": {
@@ -6153,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "C\u00e9zanne",
+        "url": "https://open.spotify.com/album/6dTSBUnaH5hPKTkp0VKYbD"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276680,
+      "name": "C\u00e9zanne",
+      "url": "https://open.spotify.com/track/0JERQpFXjfbK8pWqKGiMXF"
+    },
+    {
+      "album": {
         "name": "D'un feu secret",
         "url": "https://open.spotify.com/album/3MrKWyqdWqKqvNtl3xt4kP"
       },
@@ -6698,6 +6760,24 @@
       "duration_ms": 447053,
       "name": "Deep Dive Down",
       "url": "https://open.spotify.com/track/7JI4thi0ETxiNzVPlBAZXg"
+    },
+    {
+      "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240315,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
     },
     {
       "album": {
@@ -12760,7 +12840,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 259444,
       "name": "Impulse",
       "url": "https://open.spotify.com/track/3MxGr232aSJIzlObNN5Kw7"
@@ -13268,7 +13348,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 219317,
       "name": "Is This Real?",
       "url": "https://open.spotify.com/track/4o4WxLBporwDoHkPF9II2Y"
@@ -14566,7 +14646,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 193460,
       "name": "Laelia Orchid",
       "url": "https://open.spotify.com/track/1cOlbCzEtqgWNsetAfPLTK"
@@ -15342,7 +15422,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 327099,
       "name": "Little Dog",
       "url": "https://open.spotify.com/track/0V7eXwwm7q23gycADH4CZA"
@@ -20816,7 +20896,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 415372,
       "name": "Playgroup",
       "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
@@ -24592,6 +24672,24 @@
       "duration_ms": 312093,
       "name": "Something's Going On",
       "url": "https://open.spotify.com/track/3bRqljHPbtPEDaM2bL1JML"
+    },
+    {
+      "album": {
+        "name": "SONG OF DAVID",
+        "url": "https://open.spotify.com/album/2AHuhWOqzF3wyNatC4n3WN"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202176,
+      "name": "SONG OF DAVID",
+      "url": "https://open.spotify.com/track/5BlEMYKC354aD0OgscSJpo"
     },
     {
       "album": {
@@ -28788,7 +28886,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 342946,
       "name": "Three Over Steel",
       "url": "https://open.spotify.com/track/3zZUxAQoeucHTg8XUonl1W"
@@ -28862,7 +28960,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 340480,
       "name": "Thus Sayeth The Lorde",
       "url": "https://open.spotify.com/track/0kdcmJEooaMWWtkYhX6hLP"
@@ -28944,6 +29042,24 @@
       "duration_ms": 267535,
       "name": "Time Gets Wasted",
       "url": "https://open.spotify.com/track/4vHwavFIoLoCpIF8sU3xCq"
+    },
+    {
+      "album": {
+        "name": "Timekeepers",
+        "url": "https://open.spotify.com/album/0RLhXDmFXUorOU8xGDZJHP"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Timekeepers",
+      "url": "https://open.spotify.com/track/0yrAvvvkD5GZoPWCOoSIO7"
     },
     {
       "album": {
@@ -29350,6 +29466,24 @@
       "duration_ms": 450266,
       "name": "Tropical Landscapes - Live at Hall\u00e9 St Peter's",
       "url": "https://open.spotify.com/track/5RJFz0inrtX2evSekcrWOp"
+    },
+    {
+      "album": {
+        "name": "No More Water: The Gospel Of James Baldwin",
+        "url": "https://open.spotify.com/album/2ba5r7icQRIInoWJYUrsSJ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438306,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/69fuXJMALq5dfj6f9NFiJi"
     },
     {
       "album": {

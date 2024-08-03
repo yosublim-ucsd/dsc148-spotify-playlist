@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Jerry Cantrell",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Better Lovers",
   "num_followers": 8643,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMcECXkRc31nKWwfC3ub/hwnIAKdAu",
+  "snapshot_id": "AAAMeWzeFbQjtD3EasSg9MxRx8oTgg5X",
   "tracks": [
+    {
+      "added_at": "2024-08-02 19:47:16",
+      "album": {
+        "name": "A White Horse Covered In Blood",
+        "url": "https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY"
+      },
+      "artists": [
+        {
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "A White Horse Covered In Blood",
+      "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
+    },
+    {
+      "added_at": "2024-08-02 19:46:20",
+      "album": {
+        "name": "Hosting the Shadow (feat. Randy Blythe)",
+        "url": "https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Hosting the Shadow (feat. Randy Blythe)",
+      "url": "https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0"
+    },
+    {
+      "added_at": "2024-08-02 19:46:38",
+      "album": {
+        "name": "Dreamless Error",
+        "url": "https://open.spotify.com/album/6Gz6dpMOlMJkxk44VB4zsx"
+      },
+      "artists": [
+        {
+          "name": "Collapsed Skull",
+          "url": "https://open.spotify.com/artist/4U7G6juzid1EvmQDCSehhM"
+        },
+        {
+          "name": "Brody King",
+          "url": "https://open.spotify.com/artist/00kwyTyFLJgTFcT4o5jaA4"
+        }
+      ],
+      "duration_ms": 75959,
+      "name": "Dreamless Error",
+      "url": "https://open.spotify.com/track/6A0SzjxLOVvYkOfcOmgqEa"
+    },
+    {
+      "added_at": "2024-08-02 19:46:52",
+      "album": {
+        "name": "Aghori Mhori Mei",
+        "url": "https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 255175,
+      "name": "Sicarus",
+      "url": "https://open.spotify.com/track/0LhOyuMZBY5GSlMVElIA3k"
+    },
+    {
+      "added_at": "2024-08-02 19:47:02",
+      "album": {
+        "name": "Someone's Daughter",
+        "url": "https://open.spotify.com/album/43QTCpdlaIKgAVnCmaA0hh"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 257396,
+      "name": "Someone's Daughter",
+      "url": "https://open.spotify.com/track/2ZGrOclH0r6CFvlVGNVUlO"
+    },
+    {
+      "added_at": "2024-08-02 19:47:27",
+      "album": {
+        "name": "Jawbreaker",
+        "url": "https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok"
+    },
     {
       "added_at": "2024-07-26 20:31:22",
       "album": {

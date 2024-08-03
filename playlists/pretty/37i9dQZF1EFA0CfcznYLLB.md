@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,806 likes - 312 songs - 16 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,805 likes - 312 songs - 16 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,8 +193,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 183 | [Copy Me](https://open.spotify.com/track/4oFgLUoVJX3Y9W6RCpvcpD) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 4:40 |
 | 184 | [Milano Town \(with DJ Drama, Shiva & Murda Beatz\)](https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 3:51 |
 | 185 | [Trick](https://open.spotify.com/track/6TVYfpUgrhL06qWlljUW5L) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:38 |
-| 186 | [That Bag](https://open.spotify.com/track/7u9B2WKqrmxk3iQNWFfD1I) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [That Bag](https://open.spotify.com/album/5RyA35Dok5w92uKZnclGd7) | 2:38 |
-| 187 | [Contacts](https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:23 |
+| 186 | [Contacts](https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:23 |
+| 187 | [That Bag](https://open.spotify.com/track/7u9B2WKqrmxk3iQNWFfD1I) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [That Bag](https://open.spotify.com/album/5RyA35Dok5w92uKZnclGd7) | 2:38 |
 | 188 | [Good Habits](https://open.spotify.com/track/5GewJp0nNK4UyGVGZ7v8tE) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:18 |
 | 189 | [For The Gang](https://open.spotify.com/track/50XPnMwsX4UErXirkEqs4v) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:39 |
 | 190 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 311 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 312 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbYSIgAAAADklnGTYWCnQHWe3lxX5psF`
+Snapshot ID: `AbYXwgAAAADw6UvQZ2OUrC9QyVKxodkJ`

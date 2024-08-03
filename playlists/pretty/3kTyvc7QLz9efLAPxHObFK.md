@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,558 songs - 3 day 12 hr 34 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,561 songs - 3 day 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1566,5 +1566,8 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1556 | [Psychopath](https://open.spotify.com/track/0dCv2iuLDwJv55RUaGfL4u) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [Psychopath](https://open.spotify.com/album/0kw7Xi5YV0LTw32yTilP0t) | 2:41 |
 | 1557 | [Watch It](https://open.spotify.com/track/7fgiZI6F5V9Ii5UkhCGHnE) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Orbit](https://open.spotify.com/album/0FMn7bv3OZkg5wBnqIt3wv) | 2:45 |
 | 1558 | [Colorblind](https://open.spotify.com/track/4QuLvVp76ztgtugmHQ3AoM) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Colorblind](https://open.spotify.com/album/77cInQFumMTB0g5W5WlMSa) | 2:57 |
+| 1559 | [By Myself](https://open.spotify.com/track/7t4sipv0D4LhpnusHF9iIK) | [Zetamale](https://open.spotify.com/artist/7kDNYbq3Sz7yBk95R5wmR4) | [By Myself EP](https://open.spotify.com/album/6yU8UbfJqumEl8A9HBRhmq) | 4:15 |
+| 1560 | [WEEKEND](https://open.spotify.com/track/3RIHeko0AomqwG0capWJkT) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [WEEKEND](https://open.spotify.com/album/74yxOLteYsb8zILT9XVSfI) | 2:31 |
+| 1561 | [Stay High](https://open.spotify.com/track/5elGOS5duBySXvtTrqxD6y) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh) | [Stay High](https://open.spotify.com/album/0HqYKHI0cJOxBYkqooaMBR) | 2:20 |
 
-Snapshot ID: `AAAGQyVJyNDNQoJtYeW4MvxIvJXJVoZk`
+Snapshot ID: `AAAGRiuBfT7xlA6IlIZqJPd9tfduxf2n`

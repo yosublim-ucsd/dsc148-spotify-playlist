@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
+  "description": "This Is Five Finger Death Punch. Los temas esenciales, todos en una lista.",
   "name": "This Is Five Finger Death Punch",
   "tracks": [
     {
@@ -1207,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Halford",
+          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246209,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY"
+    },
+    {
+      "album": {
         "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
         "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
       },
@@ -1218,7 +1240,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 246209,
       "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
       "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"

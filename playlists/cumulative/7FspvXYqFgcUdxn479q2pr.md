@@ -2,9 +2,9 @@
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Sjaak &amp; YONII
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Dillon Francis &amp; longstoryshort
 
-196 songs - 9 hr 47 min
+197 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [God Is A Code](https://open.spotify.com/track/5tZ9Yr3cFpRsx8QMT3KOXh) | [ATIKA PATUM](https://open.spotify.com/artist/3nqueabqtDj7QhkY3VGnio) | [God Is A Code](https://open.spotify.com/album/7iBzy1wuFN1khSR3LDZfkm) | 3:05 | 2024-07-19 | 2024-07-27 |
 | [Going down](https://open.spotify.com/track/0f9mRNkqNHlAGwM9rVy6Bs) | [Milyo](https://open.spotify.com/artist/581plaxcfSWYMovHiZzh3f) | [Going Down](https://open.spotify.com/album/08R4bfOyu9zFaDMQdh4mTo) | 3:37 | 2024-06-21 | 2024-06-29 |
 | [Gonna Dance with Somebody](https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj) | [Gonna Dance with Somebody](https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh) | 3:07 | 2024-08-01 |  |
+| [Gonna Kill My Way](https://open.spotify.com/track/3IpWLISMLR0JMuLgXtm8nG) | [Eddy Black](https://open.spotify.com/artist/5XCoXE7RaDvuyMCghkdmxK) | [Gonna Kill My Way](https://open.spotify.com/album/0ZUeNzry9q22SNXQ88xIgD) | 3:50 | 2024-08-02 |  |
 | [Hangin' On](https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Hangin' On](https://open.spotify.com/album/1QFag1soFAXSOXGoRQHp5G) | 3:15 | 2024-07-26 | 2024-08-02 |
 | [Hello](https://open.spotify.com/track/3jQhfY54CWkDy4Pqt2ozAG) | [Robaer](https://open.spotify.com/artist/6W9GI0QPqUZkyhTxBMUAi5) | [Hello](https://open.spotify.com/album/43NXCMAQNNXt81v2UwsRRF) | 3:01 | 2024-07-08 | 2024-07-13 |
 | [High For This](https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [High For This](https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC) | 4:01 | 2024-07-12 | 2024-07-19 |

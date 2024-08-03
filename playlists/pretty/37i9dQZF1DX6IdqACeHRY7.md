@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,839 likes - 114 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,841 likes - 114 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 38 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
 | 39 | [This Morning](https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [This Morning](https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF) | 3:16 |
 | 40 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |
-| 41 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
-| 42 | [Would You](https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d) | 3:01 |
+| 41 | [Would You](https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d) | 3:01 |
+| 42 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
 | 43 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 |
 | 44 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 |
 | 45 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 67 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 |
 | 68 | [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 |
 | 69 | [Love Is In The Picture](https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Love Is In The Picture](https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw) | 3:38 |
-| 70 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
-| 71 | [Hardest Thing](https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Eternal, Pt\. I](https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg) | 4:11 |
+| 70 | [Hardest Thing](https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Eternal, Pt\. I](https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg) | 4:11 |
+| 71 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 72 | [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 |
 | 73 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
 | 74 | [Hey Ya! \- Acoustic](https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Hey Ya!](https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G) | 3:34 |
@@ -116,9 +116,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 106 | [Blame](https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Blame](https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX) | 2:56 |
 | 107 | [You You You](https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Fall Away Into Place](https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S) | 3:42 |
 | 108 | [The First To Know](https://open.spotify.com/track/58YU87leZyFMLbqdhQyQva) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [The First To Know](https://open.spotify.com/album/63X0OJQvVHVKWfR52CEndw) | 3:03 |
-| 109 | [Corners](https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Wildflower](https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0) | 3:39 |
-| 110 | [Daydreaming](https://open.spotify.com/track/3shOp9UrL0PMRdZir2mK91) | [Yehra](https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI) | [Daydreaming](https://open.spotify.com/album/30KoavVtPo5iGMn2SGlS1Q) | 2:58 |
-| 111 | [I'm Not Her \- Acoustic](https://open.spotify.com/track/4yr1dDskFzkDY8q6gBUNXw) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [I'm Not Her \(Acoustic\)](https://open.spotify.com/album/4LLOsUgnaD6Gsp6pEKI3GC) | 3:17 |
+| 109 | [Daydreaming](https://open.spotify.com/track/3shOp9UrL0PMRdZir2mK91) | [Yehra](https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI) | [Daydreaming](https://open.spotify.com/album/30KoavVtPo5iGMn2SGlS1Q) | 2:58 |
+| 110 | [I'm Not Her \- Acoustic](https://open.spotify.com/track/4yr1dDskFzkDY8q6gBUNXw) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [I'm Not Her \(Acoustic\)](https://open.spotify.com/album/4LLOsUgnaD6Gsp6pEKI3GC) | 3:17 |
+| 111 | [Corners](https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Wildflower](https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0) | 3:39 |
 | 112 | [Fade](https://open.spotify.com/track/7zxhhMt0j1JV7OuFpQ2Boe) | [Skinny Living](https://open.spotify.com/artist/405DvLr0FOuOWYgCt0emff) | [Fade](https://open.spotify.com/album/4yYS7JBEY54Zn2J1z0fNJK) | 3:29 |
 | 113 | [Stop By Now](https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Stop By Now](https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH) | 3:43 |
 | 114 | [Lying To Myself](https://open.spotify.com/track/3GPD0sa8NqrEmlGzkhKrAN) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lying To Myself](https://open.spotify.com/album/4vnyXmkgSgbduvuZOCbtLO) | 3:30 |

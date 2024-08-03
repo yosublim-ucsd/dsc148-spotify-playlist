@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 8645168,
+  "num_followers": 8651509,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqO9iAAAAABAZqAullNDAVpUD21Fn8oq",
+  "snapshot_id": "Zq0MpwAAAAA8z1r+5boxHdhqG/Y07sjj",
   "tracks": [
     {
       "added_at": "2024-03-29 15:57:27",
@@ -45,6 +45,38 @@
       "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
     },
     {
+      "added_at": "2024-04-26 14:45:00",
+      "album": {
+        "name": "Funk of Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "Funk of Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
+    },
+    {
+      "added_at": "2024-03-22 16:01:00",
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
+    },
+    {
       "added_at": "2024-04-12 15:41:29",
       "album": {
         "name": "MASHA ULTRAFUNK",
@@ -63,22 +95,6 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
-    },
-    {
-      "added_at": "2024-03-22 16:01:00",
-      "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2024-02-09 15:25:18",
@@ -117,22 +133,6 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2024-04-26 14:45:00",
-      "album": {
-        "name": "Funk of Gal\u00e1ctico",
-        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
-      },
-      "artists": [
-        {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "Funk of Gal\u00e1ctico",
-      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
-    },
-    {
       "added_at": "2023-12-08 15:15:57",
       "album": {
         "name": "Montagem Mysterious Game",
@@ -147,6 +147,26 @@
       "duration_ms": 103495,
       "name": "Montagem Mysterious Game",
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
+    },
+    {
+      "added_at": "2024-07-05 13:50:01",
+      "album": {
+        "name": "X-SLIDE",
+        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        },
+        {
+          "name": "808iuli",
+          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
+        }
+      ],
+      "duration_ms": 79452,
+      "name": "X-SLIDE",
+      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
       "added_at": "2023-10-20 10:30:53",
@@ -207,26 +227,6 @@
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
-    },
-    {
-      "added_at": "2024-07-05 13:50:01",
-      "album": {
-        "name": "X-SLIDE",
-        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
-      },
-      "artists": [
-        {
-          "name": "2KE",
-          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
-        },
-        {
-          "name": "808iuli",
-          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
-        }
-      ],
-      "duration_ms": 79452,
-      "name": "X-SLIDE",
-      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
       "added_at": "2023-12-01 14:11:37",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
     },
     {
+      "added_at": "2024-05-17 14:03:55",
+      "album": {
+        "name": "Eu Sento Gabu!",
+        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
+      },
+      "artists": [
+        {
+          "name": "PXLWYSE",
+          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
+        }
+      ],
+      "duration_ms": 83754,
+      "name": "Eu Sento Gabu!",
+      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
+    },
+    {
       "added_at": "2023-07-28 11:47:20",
       "album": {
         "name": "Orquestra Maldita",
@@ -339,6 +355,22 @@
       "duration_ms": 75692,
       "name": "TUCA DONKA",
       "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
+    },
+    {
+      "added_at": "2024-07-05 13:50:01",
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "duration_ms": 149522,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
     },
     {
       "added_at": "2024-04-12 15:41:29",
@@ -401,22 +433,6 @@
       "url": "https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2"
     },
     {
-      "added_at": "2024-05-17 14:03:55",
-      "album": {
-        "name": "Eu Sento Gabu!",
-        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
-      },
-      "artists": [
-        {
-          "name": "PXLWYSE",
-          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
-        }
-      ],
-      "duration_ms": 83754,
-      "name": "Eu Sento Gabu!",
-      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
-    },
-    {
       "added_at": "2023-06-09 13:51:36",
       "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
@@ -451,22 +467,6 @@
       "duration_ms": 68687,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
-    },
-    {
-      "added_at": "2024-07-05 13:50:01",
-      "album": {
-        "name": "GLORY",
-        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
-      },
-      "artists": [
-        {
-          "name": "Ogryzek",
-          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
-        }
-      ],
-      "duration_ms": 149522,
-      "name": "GLORY",
-      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
     },
     {
       "added_at": "2023-10-06 14:17:07",
@@ -597,26 +597,6 @@
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
-      "added_at": "2024-02-02 10:00:00",
-      "album": {
-        "name": "Ashi Ashi",
-        "url": "https://open.spotify.com/album/3VOa8TkkpnYLHC5JV9uApp"
-      },
-      "artists": [
-        {
-          "name": "6YNTHMANE",
-          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
-        },
-        {
-          "name": "RXDXVIL",
-          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
-        }
-      ],
-      "duration_ms": 110476,
-      "name": "Ashi Ashi",
-      "url": "https://open.spotify.com/track/6qlnqjooo2LfPr0FLbWsbQ"
-    },
-    {
       "added_at": "2022-10-14 08:20:18",
       "album": {
         "name": "GigaChad Theme (Phonk House Version)",
@@ -719,6 +699,26 @@
       "duration_ms": 101632,
       "name": "Scopin",
       "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
+    },
+    {
+      "added_at": "2024-02-02 10:00:00",
+      "album": {
+        "name": "Ashi Ashi",
+        "url": "https://open.spotify.com/album/3VOa8TkkpnYLHC5JV9uApp"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "duration_ms": 110476,
+      "name": "Ashi Ashi",
+      "url": "https://open.spotify.com/track/6qlnqjooo2LfPr0FLbWsbQ"
     },
     {
       "added_at": "2023-05-19 15:58:05",

@@ -4,12 +4,13 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Lola, Camila Zasoul, Black Queen, Tshawtty, Pretta Poder
 
-197 songs - 8 hr 49 min
+198 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+18](https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:38 | 2023-12-01 |  |
 | [18K](https://open.spotify.com/track/2OnR3EE6hnr3mkQb8VrdrJ) | [Razza](https://open.spotify.com/artist/4YloRSGWAe8uoTJANaYpNL), [Lil Tec](https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ) | [18K](https://open.spotify.com/album/5b85c5VRv1qghJcBUFyHBI) | 2:22 | 2022-03-18 | 2023-08-05 |
+| [24hrs](https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [24hrs](https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91) | 2:20 | 2024-08-02 |  |
 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 | 2022-03-18 |  |
 | [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 | 2023-07-21 |  |
 | [Alone](https://open.spotify.com/track/0ekFR7W6o4VPUHsDjn4ZU4) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [Eaedaddy](https://open.spotify.com/artist/3s8GYKFrXLsyx3WN6mdwh8) | [Alone](https://open.spotify.com/album/4MVU8BmR5lk8lxmH1RBMyu) | 2:42 | 2022-03-18 | 2022-11-12 |

@@ -1,13 +1,345 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=uw8Pr4YUQSiftuVfDdkfWA\">Kenji</a>. Updates every Wednesday.",
-  "num_followers": 245780,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh?si=VNHzndZLQ0SCAR5EpQr5yg\">WESLEYFRANKLIN</a>. Updates every Wednesday.",
+  "num_followers": 245838,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqN6FAAAAACmer2ioDYT+o7ieT5E6mvj",
+  "snapshot_id": "Zq1N6QAAAADs4AHvA0g+IOjCSHl/fnkE",
   "tracks": [
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "Venetian Windows",
+        "url": "https://open.spotify.com/album/7lQ542o73hAvpmN2Z6DYrI"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "Venetian Windows",
+      "url": "https://open.spotify.com/track/0v5Q7180Oeo9McBKHgBatB"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "Pineapples Acoustic",
+        "url": "https://open.spotify.com/album/7C9tmk9Bn1NNYeuk4x9mI1"
+      },
+      "artists": [
+        {
+          "name": "Devon Culture",
+          "url": "https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc"
+        }
+      ],
+      "duration_ms": 159320,
+      "name": "Pineapples Acoustic",
+      "url": "https://open.spotify.com/track/31PSClO2izsJtbYU0kfFhf"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "ILIKEU",
+        "url": "https://open.spotify.com/album/5l4P7UoxB6WCF8Sbx29Y82"
+      },
+      "artists": [
+        {
+          "name": "Silas Short",
+          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
+        }
+      ],
+      "duration_ms": 217722,
+      "name": "ILIKEU",
+      "url": "https://open.spotify.com/track/0e2De20YDshejQNatfivQx"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "Like A Flower",
+        "url": "https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h"
+      },
+      "artists": [
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "duration_ms": 131590,
+      "name": "I Decide",
+      "url": "https://open.spotify.com/track/5ZHbW3KbAkz9JQ40u51r6k"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "only u",
+        "url": "https://open.spotify.com/album/3PigDoDoicbL7txnqGx0Uz"
+      },
+      "artists": [
+        {
+          "name": "Gimba",
+          "url": "https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK"
+        }
+      ],
+      "duration_ms": 124039,
+      "name": "only u",
+      "url": "https://open.spotify.com/track/2zmzogiVnesAdiv7FIoEfk"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "Pretty Please",
+        "url": "https://open.spotify.com/album/1bMnJbwO3MJffVkmwYNU4Q"
+      },
+      "artists": [
+        {
+          "name": "Sun",
+          "url": "https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/4OzlFs9MPncXpgia4jTjNq"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "ALL THE TIME",
+        "url": "https://open.spotify.com/album/4NLfYhSIdnaEy1ODScJQMX"
+      },
+      "artists": [
+        {
+          "name": "Eli Derby",
+          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
+        }
+      ],
+      "duration_ms": 168827,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/0SJpyExB722bVpoqzrhFj5"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/4EUnbMqIwNcYKccQt2NC7z"
+      },
+      "artists": [
+        {
+          "name": "Zion Foster",
+          "url": "https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6"
+        },
+        {
+          "name": "Jesy Nelson",
+          "url": "https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9"
+        }
+      ],
+      "duration_ms": 158713,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "Disaster",
+        "url": "https://open.spotify.com/album/4gLftXqYCIHYoOEn790aVm"
+      },
+      "artists": [
+        {
+          "name": "Khalil",
+          "url": "https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4"
+        }
+      ],
+      "duration_ms": 209512,
+      "name": "Nearsighted",
+      "url": "https://open.spotify.com/track/5MSecGIwlVgBpzEK5JQE41"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "Come To Me",
+        "url": "https://open.spotify.com/album/0Oynr9iFkR9Gel5BtrQIFf"
+      },
+      "artists": [
+        {
+          "name": "Lily Rayne",
+          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
+        }
+      ],
+      "duration_ms": 161450,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/5PfNgUgXkrEzEQh3IyVcZG"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "GIRL IN RED",
+        "url": "https://open.spotify.com/album/4TflXvLa3r9Mb6SnZYk27H"
+      },
+      "artists": [
+        {
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+        }
+      ],
+      "duration_ms": 135858,
+      "name": "GIRL IN RED",
+      "url": "https://open.spotify.com/track/1hfcZqiil9iq7pWeT5ifsU"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/7FDSTSXOyQYxSbiyAZXfDp"
+      },
+      "artists": [
+        {
+          "name": "Ketu",
+          "url": "https://open.spotify.com/artist/1qObbEr928j18cwHIDUtWQ"
+        },
+        {
+          "name": "Biako",
+          "url": "https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ"
+        }
+      ],
+      "duration_ms": 135842,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/2GvFq4jxuWNiS6P45mmvbd"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/3s9qt4NcKngSm7VPXiePfO"
+      },
+      "artists": [
+        {
+          "name": "RC AVENUE",
+          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "STYLE",
+      "url": "https://open.spotify.com/track/5IGpfCdiMkLhJEN9hU8WYo"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "I\u2019m Your\u2019s",
+        "url": "https://open.spotify.com/album/4nrp2nTknhdCGwbMOZVaTC"
+      },
+      "artists": [
+        {
+          "name": "Caleb Taylor",
+          "url": "https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH"
+        }
+      ],
+      "duration_ms": 196551,
+      "name": "I\u2019m Your\u2019s",
+      "url": "https://open.spotify.com/track/4RmCAyWjPOxlJHG5HUhqmI"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/2zzc1K8vcDa5OrPVvrUstF"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        },
+        {
+          "name": "Alok Vaid-Menon",
+          "url": "https://open.spotify.com/artist/1NTZtdTQJnfKxbbTY22KQR"
+        }
+      ],
+      "duration_ms": 284615,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/5Or5fUArNnHP0SvpPkTuLq"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "Good Wine (feat. Rapsody)",
+        "url": "https://open.spotify.com/album/6CssieYWo7uDREKCtaixLe"
+      },
+      "artists": [
+        {
+          "name": "LARA'",
+          "url": "https://open.spotify.com/artist/0WNTADu0FukWXgtEF8V7yu"
+        },
+        {
+          "name": "Harry Edohoukwa",
+          "url": "https://open.spotify.com/artist/2ugmrMhuc5JJjQFFwACJYa"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "Good Wine (feat. Rapsody)",
+      "url": "https://open.spotify.com/track/1D3S2IqlSujtnMgFFmIC4R"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "PUSSY POWA",
+        "url": "https://open.spotify.com/album/3B8hibcQpk1s5lTz00yPHD"
+      },
+      "artists": [
+        {
+          "name": "LARIICA",
+          "url": "https://open.spotify.com/artist/4ToRGHPORYxQMdyn7nKm9h"
+        },
+        {
+          "name": "Artie J",
+          "url": "https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp"
+        },
+        {
+          "name": "JLLY",
+          "url": "https://open.spotify.com/artist/6TtCAKrgTaBRw50XkvTY54"
+        }
+      ],
+      "duration_ms": 153583,
+      "name": "PUSSY POWA",
+      "url": "https://open.spotify.com/track/430c3r7LmzjbYVPdqGARlK"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "SUPER CALIFORNIA GIRLS",
+        "url": "https://open.spotify.com/album/5kkEJIHCnbVY6bhJhHI77z"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "SUPER CALIFORNIA GIRLS",
+      "url": "https://open.spotify.com/track/4y2eEk8LdvN7neCh7SdNEK"
+    },
+    {
+      "added_at": "2024-08-02 15:14:40",
+      "album": {
+        "name": "barbie and ken",
+        "url": "https://open.spotify.com/album/0suuwh2SAggpprp9PKKYNk"
+      },
+      "artists": [
+        {
+          "name": "Nafeesisboujee",
+          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
+        }
+      ],
+      "duration_ms": 93753,
+      "name": "barbie and ken",
+      "url": "https://open.spotify.com/track/5Cprm2gTWUcFy87dFKG1VL"
+    },
     {
       "added_at": "2024-07-26 10:27:32",
       "album": {

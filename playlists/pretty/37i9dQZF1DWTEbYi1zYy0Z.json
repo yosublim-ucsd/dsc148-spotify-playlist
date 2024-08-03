@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 64463,
+  "num_followers": 64490,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqfAAAAADkY15vsG8FrSXzJ3AGEyaJ",
+  "snapshot_id": "ZqxZwAAAAAAXWcAgVdnSO3Yh0HVsmKJv",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -87,6 +87,26 @@
       "duration_ms": 253440,
       "name": "Dream Maker",
       "url": "https://open.spotify.com/track/2qoRdks21e71gFc9zVBSHt"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Happy Smooth Jazz",
+        "url": "https://open.spotify.com/album/3HRdOUQrnMrSrvhbSzEJx5"
+      },
+      "artists": [
+        {
+          "name": "Little Mary",
+          "url": "https://open.spotify.com/artist/71hy1MirADf5VEb3BqgmKz"
+        },
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "duration_ms": 143374,
+      "name": "Happy Smooth Jazz",
+      "url": "https://open.spotify.com/track/1aKkIqj3xTy2p41Le9uThV"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -251,22 +271,6 @@
       "duration_ms": 298000,
       "name": "Embrace (feat. Bill Moio)",
       "url": "https://open.spotify.com/track/0A60YL05a4dKpmwxVGSxMk"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Simplified Era",
-        "url": "https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ"
-      },
-      "artists": [
-        {
-          "name": "CrazyJaZz",
-          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
-        }
-      ],
-      "duration_ms": 132374,
-      "name": "Simplified Era",
-      "url": "https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1751,22 +1755,6 @@
       "duration_ms": 245379,
       "name": "Moon Goddess",
       "url": "https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Living in This House",
-        "url": "https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP"
-      },
-      "artists": [
-        {
-          "name": "Threestyle",
-          "url": "https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX"
-        }
-      ],
-      "duration_ms": 234117,
-      "name": "Living in This House",
-      "url": "https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv"
     }
   ],
   "unique_name": "New Smooth Jazz",

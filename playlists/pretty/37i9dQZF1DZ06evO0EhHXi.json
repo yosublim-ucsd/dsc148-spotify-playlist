@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ramones. Sus mejores \u00e9xitos, todos en una playlist.",
-  "num_followers": 236037,
+  "description": "This Is Ramones. Los temas esenciales, todos en una lista.",
+  "num_followers": 236068,
   "original_name": "This Is Ramones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAACdMi+ecuB5ZD/JLwA16eSc",
+  "snapshot_id": "ZqrQAAAAAAC8ne5IZNDeLrivnd8sTtFt",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mondo Bizarro",
-        "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "Poison Heart",
-      "url": "https://open.spotify.com/track/6yXm3xUj0fcN4dGwBAl9qM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "End of the Century (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 224560,
       "name": "Baby, I Love You",
       "url": "https://open.spotify.com/track/29imR7dda5XqwPRFmby7HS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mondo Bizarro",
+        "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Poison Heart",
+      "url": "https://open.spotify.com/track/6yXm3xUj0fcN4dGwBAl9qM"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pleasant Dreams (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "We Want the Airwaves - 2002 Remaster",
-      "url": "https://open.spotify.com/track/6x7B9cDXyH4X7lCwH6B40o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mondo Bizarro",
         "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 179173,
       "name": "Strength to Endure",
       "url": "https://open.spotify.com/track/1iOqQucADvs4hFX6YpflHO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pleasant Dreams (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "We Want the Airwaves - 2002 Remaster",
+      "url": "https://open.spotify.com/track/6x7B9cDXyH4X7lCwH6B40o"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pleasant Dreams (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "She's a Sensation - 2002 Remaster",
-      "url": "https://open.spotify.com/track/1BtZZWaQSLO24CFyi5Wttf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 121413,
       "name": "Teenage Lobotomy - 2017 Remaster",
       "url": "https://open.spotify.com/track/6rtYb4BGOlLvcy76N8yFbw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pleasant Dreams (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "She's a Sensation - 2002 Remaster",
+      "url": "https://open.spotify.com/track/1BtZZWaQSLO24CFyi5Wttf"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Eaters",
-        "url": "https://open.spotify.com/album/784AdNOgrGhD6suxBrSd9P"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Have You Ever Seen the Rain?",
-      "url": "https://open.spotify.com/track/4Ri7GhJiAHy9dCYnxxWuzM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 115986,
       "name": "Cretin Hop - 2017 Remaster",
       "url": "https://open.spotify.com/track/2GMujhtXaUVaSNbcTSGQ8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acid Eaters",
+        "url": "https://open.spotify.com/album/784AdNOgrGhD6suxBrSd9P"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Have You Ever Seen the Rain?",
+      "url": "https://open.spotify.com/track/4Ri7GhJiAHy9dCYnxxWuzM"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mondo Bizarro",
-        "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "It's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/5tLT3L4SqoBQtiZkxxPwQK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Subterranean Jungle (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/0YaEQO8yfc9NHEDiZu8ssX"
       },
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leave Home (2017 Remaster)",
-        "url": "https://open.spotify.com/album/1RBiytzhzGEKwqbovsjqPO"
+        "name": "Mondo Bizarro",
+        "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 140973,
-      "name": "I Remember You - 2017 Remaster",
-      "url": "https://open.spotify.com/track/5eY9JlxpqN4d9OgUZwmFi3"
+      "duration_ms": 199933,
+      "name": "It's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/5tLT3L4SqoBQtiZkxxPwQK"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 129266,
       "name": "Oh, Oh, I Love Her So - 2017 Remaster",
       "url": "https://open.spotify.com/track/540McDHcq1tuwL44zzxxBk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leave Home (2017 Remaster)",
+        "url": "https://open.spotify.com/album/1RBiytzhzGEKwqbovsjqPO"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "I Remember You - 2017 Remaster",
+      "url": "https://open.spotify.com/track/5eY9JlxpqN4d9OgUZwmFi3"
     },
     {
       "added_at": null,

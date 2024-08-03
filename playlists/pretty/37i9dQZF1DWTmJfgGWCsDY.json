@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 4040,
+  "num_followers": 4050,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "EX wangu (Remix)",
-        "url": "https://open.spotify.com/album/1N0TIGGTYrg5iXOoIzcloI"
-      },
-      "artists": [
-        {
-          "name": "Hamisa Mobetto",
-          "url": "https://open.spotify.com/artist/3LFryQzJgUAZKT0cBNwNiE"
-        },
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        }
-      ],
-      "duration_ms": 281338,
-      "name": "EX wangu - Remix",
-      "url": "https://open.spotify.com/track/1Nel9Cc2vqiK7lTj31ngMk"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
         "name": "Hainaga Ushemeji",
         "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 202631,
       "name": "Umbea",
       "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "EX wangu (Remix)",
+        "url": "https://open.spotify.com/album/1N0TIGGTYrg5iXOoIzcloI"
+      },
+      "artists": [
+        {
+          "name": "Hamisa Mobetto",
+          "url": "https://open.spotify.com/artist/3LFryQzJgUAZKT0cBNwNiE"
+        },
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "duration_ms": 281338,
+      "name": "EX wangu - Remix",
+      "url": "https://open.spotify.com/track/1Nel9Cc2vqiK7lTj31ngMk"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -579,22 +579,18 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Cheusi Cheupe (feat. Meja Kunta)",
-        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
       },
       "artists": [
         {
-          "name": "Ommy Dimpoz",
-          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Cheusi Cheupe (feat. Meja Kunta)",
-      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -659,18 +655,22 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+        "name": "Cheusi Cheupe (feat. Meja Kunta)",
+        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
       },
       "artists": [
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+          "name": "Ommy Dimpoz",
+          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         }
       ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+      "duration_ms": 279000,
+      "name": "Cheusi Cheupe (feat. Meja Kunta)",
+      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
+        "name": "Viburi",
+        "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
+      },
+      "artists": [
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        },
+        {
+          "name": "Chief Becka",
+          "url": "https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6"
+        }
+      ],
+      "duration_ms": 201967,
+      "name": "Viburi",
+      "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
         "name": "Mr Dj",
         "url": "https://open.spotify.com/album/37awOEGhmiE9qzRWY1tllI"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 313074,
       "name": "Mr Dj",
       "url": "https://open.spotify.com/track/2Fsdy8geaRfOQzsCBd1ibk"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Kupendwa Raha",
-        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
-      },
-      "artists": [
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        },
-        {
-          "name": "Dogo Jully",
-          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
-        }
-      ],
-      "duration_ms": 304986,
-      "name": "Kupendwa Raha",
-      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -999,66 +999,22 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "UTAMUWA BAKHRESA",
-        "url": "https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc"
-      },
-      "artists": [
-        {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
-        }
-      ],
-      "duration_ms": 277812,
-      "name": "UTAMUWA BAKHRESA",
-      "url": "https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Chura Wangu",
-        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Chura Wangu",
-      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Wapo",
-        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
-      },
-      "artists": [
-        {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
-        }
-      ],
-      "duration_ms": 243997,
-      "name": "Wapo",
-      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Kizimkazi",
-        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
+        "name": "Amechukua Nani",
+        "url": "https://open.spotify.com/album/7bDMjf2l5DJBGNxxfzlRB4"
       },
       "artists": [
         {
           "name": "Sholo Mwamba",
           "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        },
+        {
+          "name": "Stizo",
+          "url": "https://open.spotify.com/artist/0G6C6U8Eu6L2gj3AcJJh7J"
         }
       ],
-      "duration_ms": 233226,
-      "name": "Kizimkazi",
-      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
+      "duration_ms": 226453,
+      "name": "Amechukua Nani",
+      "url": "https://open.spotify.com/track/4fY5kvyrxM1yHEjrol2MWC"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1083,6 +1039,38 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
+        "name": "Wapo",
+        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
+      },
+      "artists": [
+        {
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+        }
+      ],
+      "duration_ms": 243997,
+      "name": "Wapo",
+      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "UTAMUWA BAKHRESA",
+        "url": "https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc"
+      },
+      "artists": [
+        {
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+        }
+      ],
+      "duration_ms": 277812,
+      "name": "UTAMUWA BAKHRESA",
+      "url": "https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
         "name": "Nimekuona Wewe",
         "url": "https://open.spotify.com/album/5I6OqXRV878FRPHrVcWJho"
       },
@@ -1095,6 +1083,42 @@
       "duration_ms": 286405,
       "name": "Nimekuona Wewe",
       "url": "https://open.spotify.com/track/5PBSEww6tZGRO2rw4pxIJI"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Chura Wangu",
+        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Chura Wangu",
+      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Kupendwa Raha",
+        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
+      },
+      "artists": [
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        },
+        {
+          "name": "Dogo Jully",
+          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
+        }
+      ],
+      "duration_ms": 304986,
+      "name": "Kupendwa Raha",
+      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1115,42 +1139,6 @@
       "duration_ms": 325666,
       "name": "Maisha Yetu Usela",
       "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Happy birthday",
-        "url": "https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp"
-      },
-      "artists": [
-        {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
-        },
-        {
-          "name": "Kidakizo mc",
-          "url": "https://open.spotify.com/artist/4GYDHnFqD8GIVjcUUVP68N"
-        }
-      ],
-      "duration_ms": 211957,
-      "name": "Happy birthday",
-      "url": "https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Uongo",
-        "url": "https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi"
-      },
-      "artists": [
-        {
-          "name": "Man Fongo",
-          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
-        }
-      ],
-      "duration_ms": 206455,
-      "name": "Uongo",
-      "url": "https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1179,22 +1167,38 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Viburi",
-        "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
+        "name": "Uongo",
+        "url": "https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi"
       },
       "artists": [
         {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        },
-        {
-          "name": "Chief Becka",
-          "url": "https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6"
+          "name": "Man Fongo",
+          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
         }
       ],
-      "duration_ms": 201967,
-      "name": "Viburi",
-      "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
+      "duration_ms": 206455,
+      "name": "Uongo",
+      "url": "https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Happy birthday",
+        "url": "https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp"
+      },
+      "artists": [
+        {
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+        },
+        {
+          "name": "Kidakizo mc",
+          "url": "https://open.spotify.com/artist/4GYDHnFqD8GIVjcUUVP68N"
+        }
+      ],
+      "duration_ms": 211957,
+      "name": "Happy birthday",
+      "url": "https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1211,6 +1215,42 @@
       "duration_ms": 246748,
       "name": "Umedorola",
       "url": "https://open.spotify.com/track/41GbxDGQxBxTYsL9hxJuPl"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Magetoni",
+        "url": "https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E"
+      },
+      "artists": [
+        {
+          "name": "Kidene Fighter",
+          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
+        },
+        {
+          "name": "JEUSI MC",
+          "url": "https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm"
+        }
+      ],
+      "duration_ms": 314226,
+      "name": "Magetoni",
+      "url": "https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Nimejipata",
+        "url": "https://open.spotify.com/album/3llT7bD0ZmJ0GmGJ213gCH"
+      },
+      "artists": [
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+        }
+      ],
+      "duration_ms": 291800,
+      "name": "Nimejipata",
+      "url": "https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1247,18 +1287,18 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Nimejipata",
-        "url": "https://open.spotify.com/album/3llT7bD0ZmJ0GmGJ213gCH"
+        "name": "Kizimkazi",
+        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
       },
       "artists": [
         {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         }
       ],
-      "duration_ms": 291800,
-      "name": "Nimejipata",
-      "url": "https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq"
+      "duration_ms": 233226,
+      "name": "Kizimkazi",
+      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1283,26 +1323,6 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Magetoni",
-        "url": "https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E"
-      },
-      "artists": [
-        {
-          "name": "Kidene Fighter",
-          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
-        },
-        {
-          "name": "JEUSI MC",
-          "url": "https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm"
-        }
-      ],
-      "duration_ms": 314226,
-      "name": "Magetoni",
-      "url": "https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
         "name": "Nipe Yote",
         "url": "https://open.spotify.com/album/1Gp6jBoZ1JogtoSSVWUVQt"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 206108,
       "name": "Nipe Yote",
       "url": "https://open.spotify.com/track/66tSHosgzvekiYWSoeXHQb"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Amechukua Nani",
-        "url": "https://open.spotify.com/album/7bDMjf2l5DJBGNxxfzlRB4"
-      },
-      "artists": [
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        },
-        {
-          "name": "Stizo",
-          "url": "https://open.spotify.com/artist/0G6C6U8Eu6L2gj3AcJJh7J"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Amechukua Nani",
-      "url": "https://open.spotify.com/track/4fY5kvyrxM1yHEjrol2MWC"
     },
     {
       "added_at": "2024-06-28 13:15:54",

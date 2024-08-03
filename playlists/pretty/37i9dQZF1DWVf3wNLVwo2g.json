@@ -1,6 +1,6 @@
 {
   "description": "Powerful female voices, like you've never heard before.  Cover: Miley Cyrus. ",
-  "num_followers": 5576,
+  "num_followers": 5601,
   "original_name": "Women of Spotify Singles",
   "owner": {
     "name": "Spotify",
@@ -596,22 +596,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 168798,
-      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
       "artists": [
@@ -623,6 +607,22 @@
       "duration_ms": 176652,
       "name": "you broke me first - Spotify Singles",
       "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -980,22 +980,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 142177,
-      "name": "Only Want You - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2NclReHquDka42tG31lbAY"
       },
       "artists": [
@@ -1012,33 +996,17 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 246701,
-      "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
-    },
-    {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
-        "name": "we can't be friends (wait for your love) - Spotify Singles",
-        "url": "https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 245233,
-      "name": "we can't be friends (wait for your love) - Spotify Singles",
-      "url": "https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3"
+      "duration_ms": 142177,
+      "name": "Only Want You - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1060,6 +1028,22 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 246701,
+      "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk"
       },
       "artists": [
@@ -1071,6 +1055,22 @@
       "duration_ms": 205738,
       "name": "In The Name Of Love - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi"
+    },
+    {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "we can't be friends (wait for your love) - Spotify Singles",
+        "url": "https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 245233,
+      "name": "we can't be friends (wait for your love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3"
     },
     {
       "added_at": "2024-08-01 11:59:45",
@@ -1692,22 +1692,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        }
-      ],
-      "duration_ms": 182387,
-      "name": "One Kiss - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
       },
       "artists": [
@@ -1719,6 +1703,22 @@
       "duration_ms": 232706,
       "name": "Out Of Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Zjy63iyu5vYQk8AwDyxmI"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 182387,
+      "name": "One Kiss - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1820,6 +1820,22 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 214564,
+      "name": "Green Lights - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
       },
       "artists": [
@@ -1852,22 +1868,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 214564,
-      "name": "Green Lights - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6"
       },
       "artists": [
@@ -1895,6 +1895,22 @@
       "duration_ms": 255320,
       "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
+    },
+    {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "Say Something - Spotify Singles (Live from Spotify House)",
+        "url": "https://open.spotify.com/album/3ysOkwf6EyopPKqxGaj9Ls"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 214316,
+      "name": "Say Something - Spotify Singles (Live from Spotify House)",
+      "url": "https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1968,22 +1984,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 211879,
-      "name": "Normal - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
       },
       "artists": [
@@ -1995,6 +1995,22 @@
       "duration_ms": 225318,
       "name": "Before You Called Me Baby - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 211879,
+      "name": "Normal - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2087,22 +2103,6 @@
     {
       "added_at": "2023-03-21 00:56:25",
       "album": {
-        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 204290,
-      "name": "Maps - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
       },
@@ -2115,6 +2115,22 @@
       "duration_ms": 175398,
       "name": "Imperfections - Recorded at Electric Lady Studios, NYC",
       "url": "https://open.spotify.com/track/30sJOexZR7YGqi6094juOC"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 204290,
+      "name": "Maps - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF"
     },
     {
       "added_at": "2024-08-01 11:59:45",
@@ -2183,22 +2199,6 @@
     {
       "added_at": "2023-03-21 00:56:25",
       "album": {
-        "name": "RBF: Part 1 - Spotify Singles",
-        "url": "https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "RBF: Part 1 - Spotify Singles",
-      "url": "https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR"
       },
@@ -2211,6 +2211,22 @@
       "duration_ms": 155612,
       "name": "Queen Of Me - Spotify Singles",
       "url": "https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "RBF: Part 1 - Spotify Singles",
+        "url": "https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "RBF: Part 1 - Spotify Singles",
+      "url": "https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2268,38 +2284,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 259834,
-      "name": "The Joke - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4yJnoVnotlMN9i0nMBeiDz"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0PNOAfrc2KfgKH2ZaKuNs7"
-      },
-      "artists": [
-        {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "My Future",
-      "url": "https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5G3oIEkrH07sffZrAEJwGN"
       },
       "artists": [
@@ -2311,6 +2295,22 @@
       "duration_ms": 277563,
       "name": "Don't Delete The Kisses - Recorded at Spotify Studios London",
       "url": "https://open.spotify.com/track/1hZyADicbo5k0OQbwcxVEo"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 259834,
+      "name": "The Joke - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4yJnoVnotlMN9i0nMBeiDz"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2329,6 +2329,22 @@
       "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
     },
     {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0PNOAfrc2KfgKH2ZaKuNs7"
+      },
+      "artists": [
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT"
+    },
+    {
       "added_at": "2024-08-01 11:59:45",
       "album": {
         "name": "Spotify Singles",
@@ -2343,22 +2359,6 @@
       "duration_ms": 243450,
       "name": "Can You Believe",
       "url": "https://open.spotify.com/track/2DEbufzHZ6fm29NDaRoKKH"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 142643,
-      "name": "Consideration - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
     },
     {
       "added_at": "2024-08-01 11:59:45",
@@ -2391,6 +2391,22 @@
       "duration_ms": 193115,
       "name": "Miss Me More - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 142643,
+      "name": "Consideration - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2556,6 +2572,22 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 234473,
+      "name": "Breathe - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
       "artists": [
@@ -2571,38 +2603,6 @@
       "duration_ms": 264833,
       "name": "Show Me Love (feat. Miguel) - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/5S2Cpe6R4pV2dcJZkr6BzF"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 234473,
-      "name": "Breathe - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
-    },
-    {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
-        "name": "Say Something - Spotify Singles (Live from Spotify House)",
-        "url": "https://open.spotify.com/album/3ysOkwf6EyopPKqxGaj9Ls"
-      },
-      "artists": [
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 214316,
-      "name": "Say Something - Spotify Singles (Live from Spotify House)",
-      "url": "https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -3136,6 +3136,22 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 257787,
+      "name": "Liar Liar - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ceL7dMRViacYhqhPGQRLM"
       },
       "artists": [
@@ -3163,22 +3179,6 @@
       "duration_ms": 245826,
       "name": "Want You Back - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
-      },
-      "artists": [
-        {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
-        }
-      ],
-      "duration_ms": 257787,
-      "name": "Liar Liar - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
     },
     {
       "added_at": "2023-03-21 00:56:25",

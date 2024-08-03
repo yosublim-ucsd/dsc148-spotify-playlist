@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 ### [This Is Jesús Adrián Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1e4ODC)
 
-> This is Jesús Adrián Romero\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,503 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,536 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 30 | [No Hay Paredes](https://open.spotify.com/track/2j7FpHZDjUERGXxqL6Dzoi) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:06 |
 | 31 | [Vuelve \(feat\. Jesús Adrián Romero\)](https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u) | [Satélite](https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Encontrarme Contigo](https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql) | 4:15 |
 | 32 | [Soplando Vida](https://open.spotify.com/track/3T1HAdzG1iXUmgGV7lO9Mb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 4:15 |
-| 33 | [Princesas Mágicas](https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Sencillos](https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5) | 4:39 |
-| 34 | [Eras Tú](https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:22 |
+| 33 | [Eras Tú](https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:22 |
+| 34 | [Princesas Mágicas](https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Sencillos](https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5) | 4:39 |
 | 35 | [A Vivir](https://open.spotify.com/track/38YkAPODtVFCodo68wzNhX) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [A Vivir](https://open.spotify.com/album/0Qnz5UhfoT7meU6rIIa5jH) | 4:17 |
 | 36 | [Mi Vida Sin Ti](https://open.spotify.com/track/5NhRLlH43KnFvNzkQj8Az1) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Un Brote De Adoración 2](https://open.spotify.com/album/1nWtxLTRWll8sj2QPF6QQU) | 5:14 |
 | 37 | [Que Seas Mi Hogar \(feat\. Reyli Barba\)](https://open.spotify.com/track/1VzKKSoe86AmfWh0DJL1Yw) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 49 | [Una Casa Vacía](https://open.spotify.com/track/7BwjXbstceaeN4bjbt9caj) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 2:47 |
 | 50 | [Brilla](https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 3:19 |
 
-Snapshot ID: `Zql+gAAAAABr+6+/tfw2gHp5A7DdNdbD`
+Snapshot ID: `ZqrQAAAAAAB60ZeODyYpKWGhE6nPJzqn`

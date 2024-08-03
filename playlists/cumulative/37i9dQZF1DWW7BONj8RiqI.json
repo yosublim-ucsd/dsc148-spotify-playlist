@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 136615,
       "name": "Chutney Steam",
       "url": "https://open.spotify.com/track/6zogiKH1DjIxgX8UzqbCSq"
@@ -3080,6 +3080,24 @@
       "duration_ms": 159873,
       "name": "In the Water",
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
+    },
+    {
+      "album": {
+        "name": "Instruction 2",
+        "url": "https://open.spotify.com/album/0DaEvN8WyTxy74wNvZZFpe"
+      },
+      "artists": [
+        {
+          "name": "DEEJAY ASAP",
+          "url": "https://open.spotify.com/artist/6gS3aG5pHWfSNTNnmgbyvy"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99720,
+      "name": "Instruction 2",
+      "url": "https://open.spotify.com/track/7kvWtJnWrqxaIYc8Ydvr38"
     },
     {
       "album": {

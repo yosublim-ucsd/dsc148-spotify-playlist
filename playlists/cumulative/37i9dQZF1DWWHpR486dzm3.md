@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
 
-132 songs - 7 hr 48 min
+133 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Boys Cry](https://open.spotify.com/track/0H2YPnO2AAsuGFJyI4Uvte) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Boys Cry](https://open.spotify.com/album/5KvkQnJBrs9CoXbGosmpic) | 3:36 | 2024-07-11 |  |
 | [Brother's Eyes](https://open.spotify.com/track/0JPNBLNo91TFffUw9gsUGG) | [Joel Sundkvist](https://open.spotify.com/artist/7uuTT33JCupBqe9tB9CZUM) | [Brother's Eyes](https://open.spotify.com/album/0UCmffXQaO5xSNthqRQHiH) | 3:13 | 2024-07-25 |  |
 | [Cray Cray](https://open.spotify.com/track/21aZ0rxNLbh50x0srJTAx7) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Cray Cray](https://open.spotify.com/album/4t5jMtlXpE1l0dx410QagB) | 4:11 | 2024-08-01 |  |
+| [Do I Do](https://open.spotify.com/track/2sPWbISisYcFDSmNJkHIzp) | [Velvetcut](https://open.spotify.com/artist/5I4dHTktG9F9eYt3I9kVz4) | [Do I Do](https://open.spotify.com/album/6qMzV5XcEmrofQPYtci0Np) | 3:05 | 2024-08-02 |  |
 | [Déjà vu](https://open.spotify.com/track/32oSfuSY8xp7X0zsjmE7wv) | [VEERA REBEKKA](https://open.spotify.com/artist/4EGI2ebSI7HOPQe0M85Kim) | [Déjà vu](https://open.spotify.com/album/3j9XUjOd60zhagpcWVOfap) | 4:43 | 2024-07-02 | 2024-07-09 |
 | [Ei tuu loppuu](https://open.spotify.com/track/40RpkULL3zcmujI8ZWJiwM) | [Katuhaukka2984](https://open.spotify.com/artist/1j6hmf2kMS6A6gUlId5wv3), [Jutta Rahmel](https://open.spotify.com/artist/17o7jhtBi8sT0HRICXdEFu) | [Ei tuu loppuu](https://open.spotify.com/album/6fdelvs3CCKKdsxr0i6gnh) | 2:57 | 2024-07-02 |  |
 | [Eikun sitä vaan lähdin kyseleen](https://open.spotify.com/track/5avpyqsvp9i19ebJQwm53Q) | [Kaita Isäri Seppälä](https://open.spotify.com/artist/2Uzu5DGiDcgrATD8qtJqjS) | [Eikun sitä vaan lähdin kyseleen](https://open.spotify.com/album/6X1tbEVUUpK7uuHrUhZnFo) | 3:50 | 2024-07-02 | 2024-08-02 |

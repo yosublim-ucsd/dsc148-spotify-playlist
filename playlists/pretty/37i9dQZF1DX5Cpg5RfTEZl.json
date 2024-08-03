@@ -1,6 +1,6 @@
 {
   "description": "\u00bfA vuelta de rueda? Con esta playlist el camino ser\u00e1 m\u00e1s ligero. ",
-  "num_followers": 307638,
+  "num_followers": 307743,
   "original_name": "Pa'l Tr\u00e1fico",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-06-26 14:24:45",
       "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 231375,
+      "name": "Desp\u00eddase bien",
+      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
+    },
+    {
+      "added_at": "2024-06-26 14:24:45",
+      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
-    },
-    {
-      "added_at": "2024-06-26 14:24:45",
-      "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 231375,
-      "name": "Desp\u00eddase bien",
-      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
     },
     {
       "added_at": "2024-06-26 14:24:45",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-06-26 14:24:45",
       "album": {
-        "name": "300 Noches",
-        "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "300 Noches",
-      "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
-    },
-    {
-      "added_at": "2024-06-26 14:24:45",
-      "album": {
         "name": "Pocos A\u00f1os Mil Errores",
         "url": "https://open.spotify.com/album/3Ss2agKWd4oBWEBcdKsZPe"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 198354,
       "name": "Pocos A\u00f1os Mil Errores",
       "url": "https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D"
+    },
+    {
+      "added_at": "2024-06-26 14:24:45",
+      "album": {
+        "name": "300 Noches",
+        "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "300 Noches",
+      "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
     },
     {
       "added_at": "2024-06-26 14:24:45",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2024-06-26 14:24:45",
       "album": {
-        "name": "La Intenci\u00f3n",
-        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
+        "name": "Prometo",
+        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 249464,
-      "name": "La Intenci\u00f3n",
-      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
     },
     {
       "added_at": "2024-06-26 14:24:45",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2024-06-26 14:24:45",
       "album": {
-        "name": "Prometo",
-        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
+        "name": "La Intenci\u00f3n",
+        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 253760,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
+      "duration_ms": 249464,
+      "name": "La Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
     },
     {
       "added_at": "2024-06-26 14:24:45",
@@ -1131,30 +1131,6 @@
     {
       "added_at": "2024-06-26 14:24:45",
       "album": {
-        "name": "QUEMA",
-        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 150618,
-      "name": "QUEMA",
-      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
-    },
-    {
-      "added_at": "2024-06-26 14:24:45",
-      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -1175,18 +1151,26 @@
     {
       "added_at": "2024-06-26 14:24:45",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "QUEMA",
+        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 167373,
-      "name": "De Los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
+      "duration_ms": 150618,
+      "name": "QUEMA",
+      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
     },
     {
       "added_at": "2024-06-26 14:24:45",
@@ -1227,6 +1211,22 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "added_at": "2024-06-26 14:24:45",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "De Los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
     },
     {
       "added_at": "2024-06-26 14:24:45",

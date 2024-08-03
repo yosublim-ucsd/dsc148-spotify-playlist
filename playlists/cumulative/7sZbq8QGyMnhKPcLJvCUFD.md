@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-576 songs - 1 day 5 hr 19 min
+577 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Flow](https://open.spotify.com/track/3ZE0FgsjBycgnNKBzp67ic) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Flow](https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn) | 2:24 | 2023-03-17 | 2023-08-10 |
 | [Flutter](https://open.spotify.com/track/7cVEshyrawmEYmtqYtwoPy) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Flutter](https://open.spotify.com/album/5LrOkZ1rrpRyeM9Tbd3wJ6) | 4:00 | 2023-08-08 | 2023-12-14 |
 | [Fly](https://open.spotify.com/track/0AvkdeWPdMqjhGsYTwwo21) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY) | [Fly](https://open.spotify.com/album/0aAbSb3VaYpnGozXxfh2zy) | 3:44 | 2023-07-06 | 2023-08-10 |
+| [Follow Back](https://open.spotify.com/track/2xPj7wIXgUmBcvrdVTPDax) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Follow Back](https://open.spotify.com/album/0RqjqgfSxS7hA9654aPLk0) | 2:04 | 2024-08-02 |  |
 | [Follow Me](https://open.spotify.com/track/2C0igIAegVxnQ11AMCqcyR) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Follow Me](https://open.spotify.com/album/4hafkA50kP0LGQ95eRejCE) | 2:45 | 2022-09-14 | 2023-08-10 |
 | [For You](https://open.spotify.com/track/1uDsU3oY2XBYGKMe0i7BLB) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby) | [For You](https://open.spotify.com/album/4ctt7ZN6LoY2Brr7efh52M) | 4:29 | 2022-10-06 | 2023-04-28 |
 | [For You](https://open.spotify.com/track/004GETE44RiciWPNPUGqZK) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Eline Mann](https://open.spotify.com/artist/7B68JAWDHgVV7OiLmtjxtu) | [For You](https://open.spotify.com/album/2dOfeD6IChI72iXCkNRQAE) | 2:44 | 2023-01-12 | 2023-04-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,962 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,969 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 38 | [純白トロイメライ \- 2023 Version](https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 03 \(2023 Ver.\)](https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E) | 4:04 |
 | 39 | [相合学舎](https://open.spotify.com/track/5HvlTedUOfCe0vW7gk1SjL) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz), [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 02](https://open.spotify.com/album/7rg9RfJGUbH8aLeqHLGBst) | 4:25 |
 | 40 | [ヒカリのdestination](https://open.spotify.com/track/17EuIwsdZ6H4TPOe5SE1lz) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS BRILLI@NT WING 02 ヒカリのdestination](https://open.spotify.com/album/5pV7PhnoZheAalJimumERq) | 4:39 |
-| 41 | [くだらないや](https://open.spotify.com/track/04jCaEuKFqRxqpG3q2Gx0c) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:45 |
+| 41 | [星をめざして](https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0) | [芹沢あさひ \(CV.田中有紀\)](https://open.spotify.com/artist/0PuvZFUqYkzgGUivjSpJSF) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:26 |
 | 42 | [BURN BURN](https://open.spotify.com/track/6NpHw5T2neSPUg2F7NfWZk) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS "CANVAS" 05](https://open.spotify.com/album/1V2XKud3WLAvGy1NlukjPw) | 3:23 |
 | 43 | [アスファルトを鳴らして](https://open.spotify.com/track/5IbCoJ5pzcTVAe2FNG7ymA) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 07](https://open.spotify.com/album/4WwTB9xJxqOqAS6kmMyqtz) | 4:46 |
-| 44 | [星をめざして](https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0) | [芹沢あさひ \(CV.田中有紀\)](https://open.spotify.com/artist/0PuvZFUqYkzgGUivjSpJSF) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:26 |
+| 44 | [くだらないや](https://open.spotify.com/track/04jCaEuKFqRxqpG3q2Gx0c) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:45 |
 | 45 | [有彩色ユリイカ](https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK) | [アンティーカ](https://open.spotify.com/artist/67qSRMNHBKQHbPed5y3qMz) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:49 |
 | 46 | [We can go now!](https://open.spotify.com/track/11BYRDBsnSUInB5mxkxoEg) | [イルミネーションスターズ](https://open.spotify.com/artist/2Ly8tGTt2wjAOWmXpVfRqS) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 02](https://open.spotify.com/album/1GZo9sFK2v23lzAWDVKhLi) | 3:44 |
 | 47 | [虹の行方](https://open.spotify.com/track/2EGyVGF3f5h1WAScAqFOnW) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 01](https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i) | 5:14 |

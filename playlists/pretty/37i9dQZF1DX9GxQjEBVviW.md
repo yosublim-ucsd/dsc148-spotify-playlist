@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,634 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,671 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 23 | [Barbara Ann](https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x) | [The Regents](https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn) | [Barbara\-Ann](https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB) | 2:15 |
 | 24 | [Gee](https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W) | [The Crows](https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG) | [Echoes Of A Rock Era](https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi) | 2:16 |
 | 25 | [Poison Ivy \- 2007 Remaster; Remastered](https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:44 |
-| 26 | [In the Still of the Night](https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:05 |
+| 26 | [Blue Moon](https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Marcels](https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc) | 2:16 |
 | 27 | [Heart and Soul](https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 1:53 |
-| 28 | [Blue Moon](https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Marcels](https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc) | 2:16 |
+| 28 | [In the Still of the Night](https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:05 |
 | 29 | [Come Go With Me](https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Del Vikings Doo Wop](https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa) | 2:40 |
 | 30 | [At The Hop](https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [For Cool Grandkids Everywhere](https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a) | 2:36 |
-| 31 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
-| 32 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
-| 33 | [Shop Around](https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Greatest Hits: From The Beginning](https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP) | 2:49 |
-| 34 | [Devil or Angel \- 2007 Remaster](https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Down In The Alley: The Best Of The Clovers](https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S) | 2:26 |
-| 35 | [Zoom Zoom Zoom](https://open.spotify.com/track/6xLW0o4fWTYbslOIDaJBOw) | [The Collegians](https://open.spotify.com/artist/6l5YiEwurRr8zsnOyhJB4g) | [Zoom Zoom Zoom \- Single](https://open.spotify.com/album/1P3tvYyZ40LS5DhAJASjfn) | 2:29 |
-| 36 | [Heartaches](https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Best Of The Marcels](https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa) | 2:32 |
+| 31 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
+| 32 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
+| 33 | [Heartaches](https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Best Of The Marcels](https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa) | 2:32 |
+| 34 | [Shop Around](https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Greatest Hits: From The Beginning](https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP) | 2:49 |
+| 35 | [Devil or Angel \- 2007 Remaster](https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Down In The Alley: The Best Of The Clovers](https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S) | 2:26 |
+| 36 | [Zoom Zoom Zoom](https://open.spotify.com/track/6xLW0o4fWTYbslOIDaJBOw) | [The Collegians](https://open.spotify.com/artist/6l5YiEwurRr8zsnOyhJB4g) | [Zoom Zoom Zoom \- Single](https://open.spotify.com/album/1P3tvYyZ40LS5DhAJASjfn) | 2:29 |
 | 37 | [Little Girl of Mine](https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 3:12 |
 | 38 | [Could This Be Magic](https://open.spotify.com/track/4OkVQKZpYeuZaCJ7pjNGMc) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [Deep Purple \(Original Recordings\)](https://open.spotify.com/album/6jul8eX6ZcgkvwVSsfbki1) | 2:18 |
 | 39 | [When You Dance](https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL) | [The Turbans](https://open.spotify.com/artist/5wn4Uafieiu8AEo360i2z7) | [The Best of The Turbans](https://open.spotify.com/album/0zVLh6WHk53AWbfRxAf6RH) | 2:57 |

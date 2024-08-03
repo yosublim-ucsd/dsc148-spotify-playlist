@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO17aFuo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO17aFuo)
 
-### [This Is メガデス](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17aFuo)
+### [This Is Megadeth](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17aFuo)
 
-> This is メガデス。アーティストの代表曲をひとつのプレイリストに。
+> This is Megadeth\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,158 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,220 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 25 | [Back In the Day](https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns) | 3:27 |
 | 26 | [Architecture Of Aggression](https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:39 |
 | 27 | [Five Magics \- 2004 Remix](https://open.spotify.com/track/3tISv448Ikxvpq2ZrFyGG2) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:39 |
-| 28 | [Kill The King](https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:44 |
-| 29 | [Addicted To Chaos \- Remastered 2004](https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 5:27 |
+| 28 | [Addicted To Chaos \- Remastered 2004](https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 5:27 |
+| 29 | [Kill The King](https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:44 |
 | 30 | [This Was My Life](https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:43 |
 | 31 | [Rust In Peace...Polaris \- 2004 Remix](https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:44 |
 | 32 | [Life In Hell](https://open.spotify.com/track/1wObJxo4kYisj7tot8PVvT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Dogs Of Chernobyl](https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:14 |
 | 50 | [My Last Words \- Remastered](https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 4:55 |
 
-Snapshot ID: `Zql+gAAAAABpZMilekDK9a6vhuRvoJh/`
+Snapshot ID: `ZqrQAAAAAAB7j8unu6NS37OWufYKhdnE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,886 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,968 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 50 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 |
 | 51 | [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 |
 | 52 | [Peace flow](https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Peace flow](https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm) | 2:17 |
-| 53 | [Saying Things](https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Saying Things](https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9) | 2:03 |
-| 54 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 |
-| 55 | [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 |
+| 53 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 |
+| 54 | [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 |
+| 55 | [Saying Things](https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Saying Things](https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9) | 2:03 |
 | 56 | [Passeggiata Serale](https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Passeggiata Serale](https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS) | 2:12 |
 | 57 | [Chanson d’été](https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Chanson d’été](https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp) | 2:43 |
 | 58 | [Window Seat](https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Window Seat](https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF) | 2:25 |
@@ -71,29 +71,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 61 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 |
 | 62 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
 | 63 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 |
-| 64 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 |
-| 65 | [Evening Star](https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Evening Star](https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65) | 2:08 |
+| 64 | [Evening Star](https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Evening Star](https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65) | 2:08 |
+| 65 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 |
 | 66 | [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 |
 | 67 | [Aspres](https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Aspres](https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao) | 3:19 |
 | 68 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
 | 69 | [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 |
 | 70 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
 | 71 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
-| 72 | [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 |
-| 73 | [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 |
+| 72 | [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 |
+| 73 | [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 |
 | 74 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 |
 | 75 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
 | 76 | [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 |
 | 77 | [Stille Sjø](https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Stille Sjø](https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI) | 2:31 |
-| 78 | [Valse Naturelle](https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Naturelle](https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD) | 2:19 |
-| 79 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
-| 80 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 |
+| 78 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 |
+| 79 | [Valse Naturelle](https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Naturelle](https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD) | 2:19 |
+| 80 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
 | 81 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 |
 | 82 | [Beauty](https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Beauty](https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP) | 2:36 |
 | 83 | [My Story](https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [My Story](https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH) | 2:18 |
 | 84 | [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 |
-| 85 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 |
-| 86 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
+| 85 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
+| 86 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 |
 | 87 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 |
 | 88 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 |
 | 89 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |

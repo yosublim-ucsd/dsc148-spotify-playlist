@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,906 likes - 77 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,921 likes - 77 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 66 | [Agent Vikram \- Background Score](https://open.spotify.com/track/4Gl2PrpO3pmVj8LnQ6uAdg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 3:09 |
 | 67 | [The Dilli Connect \- Background Score](https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:21 |
 | 68 | [Cucumba](https://open.spotify.com/track/0uswgpVQNDT9DfEyzzCQcg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast \(Original Background Score\)](https://open.spotify.com/album/0mZe6r4eaGrhuCvx6dzxey) | 0:44 |
-| 69 | [Agent Tina \- Background Score](https://open.spotify.com/track/60c709iT1oiukRh6eR7K0K) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 |
-| 70 | [AK Theme Music \- Ready to Rage](https://open.spotify.com/track/232kZYrxOYqyMeBFwudXEM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 1:23 |
+| 69 | [AK Theme Music \- Ready to Rage](https://open.spotify.com/track/232kZYrxOYqyMeBFwudXEM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 1:23 |
+| 70 | [Agent Tina \- Background Score](https://open.spotify.com/track/60c709iT1oiukRh6eR7K0K) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 |
 | 71 | [Theme Music 1](https://open.spotify.com/track/5U9EsOlN3BOGKSDTlOKNkA) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Kadhal Kondaen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FEBJg0kJl4axCBYzktGI) | 1:06 |
 | 72 | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/track/7rto8ANj8esy1YSfDekGSL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/album/2jz0ydxBSQm359To6I4XE4) | 1:27 |
 | 73 | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/track/3Ls6V9lzNaXH4MSoDQ0kcm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/album/27AQuPFXz96xKlkBRzZWB2) | 1:31 |

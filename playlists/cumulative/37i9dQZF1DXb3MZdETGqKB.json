@@ -3451,6 +3451,28 @@
     },
     {
       "album": {
+        "name": "Highway 17",
+        "url": "https://open.spotify.com/album/7DejChlWq4GfKaIBvBs0BY"
+      },
+      "artists": [
+        {
+          "name": "Davis Chris",
+          "url": "https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj"
+        },
+        {
+          "name": "Mr Foster",
+          "url": "https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Oil & Water",
+      "url": "https://open.spotify.com/track/3BIxy1SXeYRybqVgqID10B"
+    },
+    {
+      "album": {
         "name": "United State of Mind",
         "url": "https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad"
       },
@@ -4758,7 +4780,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 158400,
       "name": "Sundress Season",
       "url": "https://open.spotify.com/track/2UCJ0tbxu54jEgU48YmAff"

@@ -2,7 +2,7 @@
 
 ### [This Is The Orb](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mhuR7)
 
-> This is The Orb\. The essential tracks, all in one playlist.
+> This Is The Orb\. Los temas esenciales, todos en una lista.
 
 145 songs - 17 hr 9 min
 
@@ -15,7 +15,7 @@
 | [A Beautiful Day](https://open.spotify.com/track/7Do9MQ2GbPWM28YJ5H0m4s) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Dream](https://open.spotify.com/album/7t8f01W2boto0cZcdSbBvD) | 6:48 | 2022-09-06 | 2022-09-09 |
 | [A Cool Dry Place](https://open.spotify.com/track/5b2vSpnqcC7T4F6EiWgZiZ) | [System 7](https://open.spotify.com/artist/2JrTxbnRU8RGKyuyHE8SGP), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [777](https://open.spotify.com/album/4I1d4Ddu56rNzwoWFS8DLR) | 8:18 | 2022-06-25 | 2022-06-27 |
 | [a ghetto love story](https://open.spotify.com/track/1LeRwUqmeRzrJsbNk8nYMb) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 6:11 | 2023-04-30 | 2023-11-11 |
-| [a ghetto love story](https://open.spotify.com/track/6Kci6aPKNpmeJiPsPvWRZd) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 6:11 | 2024-04-28 |  |
+| [a ghetto love story](https://open.spotify.com/track/6Kci6aPKNpmeJiPsPvWRZd) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 6:11 | 2024-04-28 | 2024-08-03 |
 | [A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld \- Live Mix Mark 10](https://open.spotify.com/track/3sX6nwEUXjpejtqNvQAl3p) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Alex Paterson](https://open.spotify.com/artist/0Xz8JZqrvS1ArSRlyBSMIT) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 18:48 | 2024-02-23 | 2024-04-30 |
 | [A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld : Loving You \- Aubrey Mix Mk 11 By Jimmy Cauty & Dr\. Alex Paterson](https://open.spotify.com/track/5JN6YQJWXMrwaDt43DNKXw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Jimmy Cauty](https://open.spotify.com/artist/325AAuwgKwl8CKKm6w33yR), [Alex Paterson](https://open.spotify.com/artist/0Xz8JZqrvS1ArSRlyBSMIT) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 7:22 | 2022-06-02 |  |
 | [A Huge Evergrowing Pulsating Brain That Rules From The Centre Of The Ultraworld \- Orbital Dance Mix](https://open.spotify.com/track/7wJM5kWCSkSVIPumTn74Jh) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 8:10 | 2022-05-29 | 2023-06-07 |
@@ -125,7 +125,7 @@
 | [Spheres Side \- Stereo Version](https://open.spotify.com/track/4B18MaOudRkiTmaGO3pTN3) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres](https://open.spotify.com/album/7Kj5DZcW4jlqGjYnu0UTT7) | 20:08 | 2022-05-29 | 2023-11-11 |
 | [Squirrels in Jumpsuits](https://open.spotify.com/track/5Z6KB3zOCuKRcy2scNdtDi) | [Roland & Albert](https://open.spotify.com/artist/4IxAOrsCpsess4wqaugx1K), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Roland & Albert Meet the Orb Upcountry in Uganda](https://open.spotify.com/album/0ctPNiGuvi3lDPjikkaPRR) | 7:05 | 2022-05-29 | 2022-10-14 |
 | [Star 6 & 7 8 9](https://open.spotify.com/track/2rptpw6hQQ8YewzB2hKOrj) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 8:10 | 2022-06-25 |  |
-| [Sticky End](https://open.spotify.com/track/5OSSD6jXQBMnvjMuGyp0UC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 0:50 | 2022-06-02 | 2024-05-05 |
+| [Sticky End](https://open.spotify.com/track/5OSSD6jXQBMnvjMuGyp0UC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 0:50 | 2022-06-02 |  |
 | [Strong Man's Variations of a Camel Party](https://open.spotify.com/track/5Yxq6XoSEM0nPb1991W7Sn) | [OSS](https://open.spotify.com/artist/4rDMVGigxANzIctI89hCeH), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Enter the Kettle](https://open.spotify.com/album/6ijPm9fn5hVPo5II2IZOod) | 6:58 | 2022-05-29 | 2022-12-18 |
 | [Super Nova At The End Of The Universe](https://open.spotify.com/track/1QOIvqLUacNvxOBAoA1cDJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 11:56 | 2022-05-29 |  |
 | [Switch on Leon](https://open.spotify.com/track/5YYjzjQKL32k7pqJmaJRQn) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Electronica 2: The Heart of Noise](https://open.spotify.com/album/2Q5Mrul369ojL9N8DWkWQZ) | 4:43 | 2022-05-29 |  |

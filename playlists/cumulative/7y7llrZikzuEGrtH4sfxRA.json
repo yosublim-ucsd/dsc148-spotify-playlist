@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 145454,
       "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
       "url": "https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 165468,
       "name": "Body (feat. Tima Dee)",
       "url": "https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE"
@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 151162,
       "name": "Brazileiro",
       "url": "https://open.spotify.com/track/1RI1FSdH5ukyk3gO7FTZJX"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 216093,
       "name": "Certified",
       "url": "https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI"
@@ -1986,6 +1986,28 @@
       "duration_ms": 156562,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/1ZU9C5s4NbM30SI7pB3Uql"
+    },
+    {
+      "album": {
+        "name": "No Guest List (Deluxe)",
+        "url": "https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196030,
+      "name": "Cha Cha Cha (Bruno Furlan Remix)",
+      "url": "https://open.spotify.com/track/7lNyQm09JHENyOOpCjw8LH"
     },
     {
       "album": {
@@ -2062,7 +2084,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 310153,
       "name": "CHICAGO",
       "url": "https://open.spotify.com/track/0A6UNi1Sc3jttE5atlPd7L"
@@ -3321,6 +3343,28 @@
     },
     {
       "album": {
+        "name": "Effortless",
+        "url": "https://open.spotify.com/album/1zQJzOSy42UenL2bgRxIcM"
+      },
+      "artists": [
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        },
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/2nNAhqR125TJlQmaxOE2T0"
+    },
+    {
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/6FHFmz9IWO8hQRR8evWWVb"
       },
@@ -4487,6 +4531,42 @@
     },
     {
       "album": {
+        "name": "Going Down / Don't Play EP",
+        "url": "https://open.spotify.com/album/1OKsSktA0eC9wOMKnVWGEe"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347043,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/3KOHKi6cTh1IRAxUwmrMok"
+    },
+    {
+      "album": {
+        "name": "Got Stuff",
+        "url": "https://open.spotify.com/album/6KcG8miMJiBX7PEMBgLEfw"
+      },
+      "artists": [
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "Got Stuff",
+      "url": "https://open.spotify.com/track/3gZnaB3hCCUPPAP4IBvrqn"
+    },
+    {
+      "album": {
         "name": "Got To Be There",
         "url": "https://open.spotify.com/album/62cnsAS1PktixoHAuccPWX"
       },
@@ -4578,7 +4658,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195942,
       "name": "Hangin' On",
       "url": "https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti"
@@ -4804,6 +4884,28 @@
       "duration_ms": 184730,
       "name": "House Everyday (with SMACK)",
       "url": "https://open.spotify.com/track/4EE5X9LOrCHjslc1YNo1ot"
+    },
+    {
+      "album": {
+        "name": "How We Do",
+        "url": "https://open.spotify.com/album/31sCpGaCkiUrf2giQBTWKf"
+      },
+      "artists": [
+        {
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+        },
+        {
+          "name": "Avilo",
+          "url": "https://open.spotify.com/artist/0vBN46VECxgdkVfeRDJc6E"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202207,
+      "name": "How We Do",
+      "url": "https://open.spotify.com/track/51ZqM59s1tcxlBbcbTz61b"
     },
     {
       "album": {
@@ -5088,6 +5190,28 @@
       "duration_ms": 215433,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
+    },
+    {
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/0ZBWMSEPT7wKxTtpkTyX7u"
+      },
+      "artists": [
+        {
+          "name": "GiddiBangBang",
+          "url": "https://open.spotify.com/artist/4r159dgfxQvmRkg6XvfbjF"
+        },
+        {
+          "name": "Flo.Von",
+          "url": "https://open.spotify.com/artist/6QSpwoXNHKuyxV43biHlYV"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184616,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/6SA3nmQp1CixbLyEJ4wPrR"
     },
     {
       "album": {
@@ -5850,7 +5974,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 170625,
       "name": "LFO",
       "url": "https://open.spotify.com/track/4WoToF6YK8PFPnykFt8bXI"
@@ -6028,7 +6152,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 120902,
       "name": "Little Man (Proud Of You)",
       "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
@@ -6104,7 +6228,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 399360,
       "name": "Locomotiva Ibiza 2099 feat. VTSS",
       "url": "https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq"
@@ -6384,6 +6508,24 @@
       "duration_ms": 202500,
       "name": "Make You Sweat - Radio-Edit",
       "url": "https://open.spotify.com/track/1XRyZ29XZygcWE44rwxX0j"
+    },
+    {
+      "album": {
+        "name": "Malfunction",
+        "url": "https://open.spotify.com/album/5oAzm3nqxqr7lJp2TWPUWy"
+      },
+      "artists": [
+        {
+          "name": "JustLuke",
+          "url": "https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156562,
+      "name": "Malfunction",
+      "url": "https://open.spotify.com/track/5VurwBt2WaKjPGOagoVH92"
     },
     {
       "album": {
@@ -6946,6 +7088,46 @@
       "duration_ms": 158906,
       "name": "No Guest List",
       "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
+    },
+    {
+      "album": {
+        "name": "No Guest List (Deluxe)",
+        "url": "https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "No Guest List (JADED Remix)",
+      "url": "https://open.spotify.com/track/3Xfm77Umzbn9ZsKgJS77Ri"
+    },
+    {
+      "album": {
+        "name": "No Guest List (Deluxe)",
+        "url": "https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "No Guest List VIP",
+      "url": "https://open.spotify.com/track/5HrUMCwI5aR6oQnG6rtGt8"
     },
     {
       "album": {
@@ -8062,7 +8244,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 205278,
       "name": "Push That",
       "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
@@ -8896,7 +9078,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 208615,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/4AvBChKWjR0mbzcXFMUnWw"
@@ -8966,7 +9148,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 148058,
       "name": "Shake, Shake - Flex UK Edit",
       "url": "https://open.spotify.com/track/492rGry8q5ZkotUPVbX5rU"
@@ -9134,7 +9316,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 171796,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/7eFOkLB2xgBjcBBru0BD8o"
@@ -9203,6 +9385,28 @@
     },
     {
       "album": {
+        "name": "Slap Back",
+        "url": "https://open.spotify.com/album/3LppsQq64jjRxylqesXChB"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "House Of Molly",
+          "url": "https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179535,
+      "name": "Slap Back",
+      "url": "https://open.spotify.com/track/5t5N6ptYytg52XRAXh1Z24"
+    },
+    {
+      "album": {
         "name": "Sleep When I'm Dead",
         "url": "https://open.spotify.com/album/3gNVkWbi0ydkDqPQw5MXyl"
       },
@@ -9236,7 +9440,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180019,
       "name": "Slimed In",
       "url": "https://open.spotify.com/track/0dhnviNDqGcXwAjrGoNSbS"
@@ -9364,7 +9568,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180000,
       "name": "So Different",
       "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
@@ -9400,7 +9604,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 240000,
       "name": "So Good - Heat Mix",
       "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
@@ -9488,7 +9692,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 234193,
       "name": "Sonedo",
       "url": "https://open.spotify.com/track/2IKnVsP0WnVj5k1ueK3U0z"
@@ -9787,6 +9991,32 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/59WhNZGVeVT6FFypPFU2GV"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        },
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3VXkclvJkQQ3UjGpfP8ceZ"
+    },
+    {
+      "album": {
         "name": "Superfresh / Unfinished Bizzness",
         "url": "https://open.spotify.com/album/0z15dG26VgTHy60azJhnCj"
       },
@@ -9890,6 +10120,28 @@
       "duration_ms": 213809,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/2dWKTZg1rQJtob68OUyQ5D"
+    },
+    {
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146718,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2"
     },
     {
       "album": {
@@ -10317,6 +10569,24 @@
     },
     {
       "album": {
+        "name": "Locomotiva Ibiza 2099 I",
+        "url": "https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410322,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/6xbD6Rbcni5aLxPPxC1r5Y"
+    },
+    {
+      "album": {
         "name": "The Underground",
         "url": "https://open.spotify.com/album/527W5Y119gWLehXWUhpKWo"
       },
@@ -10455,6 +10725,28 @@
     },
     {
       "album": {
+        "name": "Tiki",
+        "url": "https://open.spotify.com/album/0ylSsGpaBvhhFbteamxlx1"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        },
+        {
+          "name": "Santi Castelle",
+          "url": "https://open.spotify.com/artist/4IqoUeDBz2qSRlo3aY16Fk"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Tiki",
+      "url": "https://open.spotify.com/track/13M6U09xZL3hmQlU7Z3UE6"
+    },
+    {
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V"
       },
@@ -10535,6 +10827,28 @@
     },
     {
       "album": {
+        "name": "To The Club",
+        "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Spankox",
+          "url": "https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "To The Club",
+      "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
+    },
+    {
+      "album": {
         "name": "Tomala (Se Mueve Se Siente)",
         "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
       },
@@ -10550,7 +10864,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 160600,
       "name": "Tomala (Se Mueve Se Siente)",
       "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
@@ -10669,6 +10983,28 @@
     },
     {
       "album": {
+        "name": "No Guest List (Deluxe)",
+        "url": "https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373169,
+      "name": "Tu Di Drum (GREG (BR) Remix)",
+      "url": "https://open.spotify.com/track/4YpjL4B6gRcE7YowZmuLXM"
+    },
+    {
+      "album": {
         "name": "Tu Tu",
         "url": "https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw"
       },
@@ -10710,6 +11046,24 @@
       "duration_ms": 173383,
       "name": "Turn it Up",
       "url": "https://open.spotify.com/track/6GQ8k7n7CSNjSXN42cTYlE"
+    },
+    {
+      "album": {
+        "name": "Turn Up Da Bassline",
+        "url": "https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191975,
+      "name": "Turn Up Da Bassline",
+      "url": "https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc"
     },
     {
       "album": {
@@ -10960,7 +11314,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 110884,
       "name": "Walk Out The Door",
       "url": "https://open.spotify.com/track/3z0pLKPczBIYxDzgds5L0d"

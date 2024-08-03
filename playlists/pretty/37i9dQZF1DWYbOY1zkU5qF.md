@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,494 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,594 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 35 | [Despacito \- Acoustic](https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Despacito \(Acoustic\)](https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB) | 3:38 |
 | 36 | [Escápate Conmigo](https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Covers, Vol\. 2](https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5) | 2:29 |
 | 37 | [Robarte Un Beso](https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Robarte Un Beso](https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L) | 2:53 |
-| 38 | [Échame La Culpa](https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts) | [Cris Moné](https://open.spotify.com/artist/5Exvb6CXfgIb7sYwvzO7pS), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Échame La Culpa](https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr) | 3:00 |
-| 39 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
+| 38 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
+| 39 | [Échame La Culpa](https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts) | [Cris Moné](https://open.spotify.com/artist/5Exvb6CXfgIb7sYwvzO7pS), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Échame La Culpa](https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr) | 3:00 |
 | 40 | [Déjala que vuelva](https://open.spotify.com/track/56FZGghCNsEffwJF1wyagX) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Déjala que vuelva](https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY) | 3:18 |
-| 41 | [Cien Años](https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Cien Años](https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru) | 3:25 |
-| 42 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 |
+| 41 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 |
+| 42 | [Cien Años](https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Cien Años](https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru) | 3:25 |
 | 43 | [Me Llamas \- Versión Acústica](https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap) | [Segundo Piso](https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659) | [Me Llamas \(Versión Acústica\)](https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG) | 3:30 |
 | 44 | [Caramelo](https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s) | [Caramelo](https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK) | 3:09 |
 | 45 | [Calma \- Remix](https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Calma \(Remix\)](https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ) | 2:52 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 47 | [Me Hace Tanto Bien \- En Vivo](https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J) | [Mo Rivas](https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz), [Carlos Law](https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD) | [Me Hace Tanto Bien \(En Vivo\)](https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh) | 3:08 |
 | 48 | [Cristina](https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Cristina](https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C) | 3:41 |
 | 49 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
-| 50 | [Chantaje](https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y) | [Aberola](https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr) | [Chantaje](https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl) | 3:27 |
-| 51 | [LA CANCIÓN](https://open.spotify.com/track/1omu6hXw4JO0g4iiGnsX8q) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [LA CANCIÓN](https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw) | 2:57 |
+| 50 | [LA CANCIÓN](https://open.spotify.com/track/1omu6hXw4JO0g4iiGnsX8q) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [LA CANCIÓN](https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw) | 2:57 |
+| 51 | [Chantaje](https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y) | [Aberola](https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr) | [Chantaje](https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl) | 3:27 |
 | 52 | [Nube Viajera](https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nube Viajera](https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD) | 3:50 |
 | 53 | [Ahora Dice](https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6) | [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Ahora Dice](https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL) | 3:21 |
 | 54 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 56 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
 | 57 | [Alguien Te Va a Hacer Llorar](https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D) | [Hugo Coronel](https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj) | [Bohemia Y Trova, Vol\. 2](https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb) | 2:54 |
 | 58 | [Con la miel en los labios](https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Con la miel en los labios](https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi) | 3:30 |
-| 59 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 |
-| 60 | [Azucar Amargo](https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Azucar Amargo](https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL) | 4:30 |
+| 59 | [Azucar Amargo](https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Azucar Amargo](https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL) | 4:30 |
+| 60 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 |
 | 61 | [Dembow \- Acoustic Version](https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy) | [Rebeca Luna](https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi) | [Acoustic Sessions](https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb) | 3:34 |
 | 62 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
 | 63 | [Y Cómo Es Él?](https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Y Cómo Es Él?](https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90) | 3:51 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 74 | [Sola](https://open.spotify.com/track/3gTuB8IsX9vVTj6P4ISWUP) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Sola](https://open.spotify.com/album/4Q3tdLka7XUgTJV4nwkSJX) | 2:54 |
 | 75 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
 | 76 | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId) | [Jaime Kohen](https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l) | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil) | 3:38 |
-| 77 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 |
-| 78 | [Fantasias](https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Fantasias](https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW) | 3:07 |
+| 77 | [Fantasias](https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Fantasias](https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW) | 3:07 |
+| 78 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 |
 | 79 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
 | 80 | [Ropa Cara](https://open.spotify.com/track/6m3FUyZ90V3eWdHPSafhm1) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Ropa Cara](https://open.spotify.com/album/1bgTQ6ggQ020SCTSLL8NP2) | 1:54 |
 

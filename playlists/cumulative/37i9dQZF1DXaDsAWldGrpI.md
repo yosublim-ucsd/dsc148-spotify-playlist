@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-183 songs - 12 hr 33 min
+184 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Heartache Tonight \- 2013 Remaster](https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:25 | 2024-05-04 |  |
 | [Heavens To Betsy \- Live at the Ryman](https://open.spotify.com/track/7Barn6lupetMnaVO13eSA1) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Live at the Ryman](https://open.spotify.com/album/2EXHkWVZwZyGJOISXsEnX4) | 3:43 | 2023-04-14 |  |
 | [Help Me Make It Through the Night \- Live from RCA Studios 1972](https://open.spotify.com/track/2nH5VAI4fSt9WhSS8j3CLg) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live at RCA Studios 1972](https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK) | 2:55 | 2024-05-04 | 2024-06-27 |
-| [Here You Come Again \(Live\)](https://open.spotify.com/track/4oOr8nwiZhNZ3c8pKMyQnN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly: Live From London](https://open.spotify.com/album/2mAGpWPHQofWAvXBzgwDOG) | 2:58 | 2024-05-04 |  |
+| [Here You Come Again \(Live\)](https://open.spotify.com/track/4oOr8nwiZhNZ3c8pKMyQnN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly: Live From London](https://open.spotify.com/album/2mAGpWPHQofWAvXBzgwDOG) | 2:58 | 2024-05-04 | 2024-08-03 |
 | [Highway 20 Ride \(Live\) \[Pass the Jar \- Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta\]](https://open.spotify.com/track/7cLBnEsJgrnMQaaaCcaczx) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Pass the Jar \- Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)](https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb) | 4:15 | 2021-07-22 | 2024-05-05 |
 | [Highway 20 Ride \- Live](https://open.spotify.com/track/0lTdSjQGlWeT2dc7g3XXV6) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Pass the Jar \[Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)\]](https://open.spotify.com/album/3ry9xiyNvOTqzI4wd74wKz) | 4:15 | 2022-07-22 | 2024-04-19 |
 | [Honey, I'm Home \- Live](https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:42 | 2024-05-04 |  |
@@ -159,6 +159,7 @@
 | [Tell Me Why \- Live](https://open.spotify.com/track/1plzgdb3hbyAYa5t2DcBrV) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Tell Me Why \(Live\)](https://open.spotify.com/album/2eiFxvSfTfCuAi0TgSbMT7) | 3:32 | 2024-06-28 |  |
 | [Thank God \- Live from Fenway](https://open.spotify.com/track/5cpNbiyqYcWtOy6C6TR5EC) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Thank God \(Live from Fenway\)](https://open.spotify.com/album/1FwfnEMU23NCsVbgMJBLC8) | 4:00 | 2023-08-18 |  |
 | [Thank God I'm a Country Boy \- Live at the Universal Amphitheatre, Los Angeles, CA \- August/September 1974](https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [An Evening With John Denver](https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4) | 3:40 | 2024-05-04 |  |
+| [The Devil I Know \- Live](https://open.spotify.com/track/6T8YqasfO5nRHXyoGc2mr3) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know \(Live\)](https://open.spotify.com/album/1zEc1DnGhkXQDfgc3AoSmE) | 4:08 | 2024-08-02 |  |
 | [The First Cut Is The Deepest \- Live from the Ryman/2019](https://open.spotify.com/track/2XmHi7tiJKashUfWs3Ser3) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Live From the Ryman And More](https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U) | 4:04 | 2021-08-13 | 2024-05-05 |
 | [These Boots \- Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017](https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 3](https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3) | 4:00 | 2021-07-22 |  |
 | [This Too Shall Pass \(feat\. Zach Williams\) \(Live\)](https://open.spotify.com/track/69hYzcgd827dKhwSMCsedv) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Larry Fleet \- The Live Sessions \[Vol\. 1\]](https://open.spotify.com/album/5H95ZfDRml2PLOWKL1r9lM) | 3:38 | 2022-10-28 |  |

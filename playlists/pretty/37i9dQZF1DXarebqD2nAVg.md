@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,249 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,294 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 3 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
 | 4 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
 | 5 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 |
-| 6 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 |
-| 7 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 |
+| 6 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 |
+| 7 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 |
 | 8 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 |
 | 9 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
 | 10 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 23 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 |
 | 24 | [soft plushies](https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [soft plushies](https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu) | 2:24 |
 | 25 | [Through My Window](https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt) | [day zee](https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L) | [Through My Window](https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3) | 2:30 |
-| 26 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
-| 27 | [curled up](https://open.spotify.com/track/1eb0KT4XSTq2Gt9C1MCqHm) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [curled up](https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8) | 2:12 |
+| 26 | [curled up](https://open.spotify.com/track/1eb0KT4XSTq2Gt9C1MCqHm) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [curled up](https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8) | 2:12 |
+| 27 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
 | 28 | [The Long Way Home](https://open.spotify.com/track/79MrXgKiUaVxK8BrAmWN2n) | [Nova Complex](https://open.spotify.com/artist/6l4dM3CsVSbKjo8KjaKMbj) | [The Long Way Home](https://open.spotify.com/album/2iOjpAiBlEo4sdgH18LN2b) | 2:30 |
 | 29 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 |
 | 30 | [falling behind](https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [falling behind](https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK) | 2:17 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 55 | [So It Falls](https://open.spotify.com/track/47BSkYZ0VusQR2sKWwnhv8) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [So It Falls](https://open.spotify.com/album/6xov2MgfMNHXdfFdCLwY3y) | 2:13 |
 | 56 | [plateau](https://open.spotify.com/track/0qi4Lk7uRGRSImdN33hgg7) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [plateau](https://open.spotify.com/album/6ydJwHuW8t3BN4hfgXPKl6) | 2:56 |
 | 57 | [Glöda](https://open.spotify.com/track/7sTHZzmi1RgUD6TKDHQJJI) | [Torgny Elgstrand](https://open.spotify.com/artist/5bHkOOTJw2yCfHxIXtrZ7L), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Glöda](https://open.spotify.com/album/0LSM2tVfjpEJIu4Hwc37Cn) | 2:06 |
-| 58 | [Rainy Days](https://open.spotify.com/track/1r9oOKrKaYExVI8w9naQSV) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb) | [Rainy Days](https://open.spotify.com/album/489BARvb76UOnK1OBIVQoY) | 1:58 |
-| 59 | [soulful](https://open.spotify.com/track/5GMk3k1qsvegqMcmgBd0Qm) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [soulful](https://open.spotify.com/album/0gq26hCOMzSFqTkuSOzAED) | 2:23 |
+| 58 | [soulful](https://open.spotify.com/track/5GMk3k1qsvegqMcmgBd0Qm) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [soulful](https://open.spotify.com/album/0gq26hCOMzSFqTkuSOzAED) | 2:23 |
+| 59 | [Rainy Days](https://open.spotify.com/track/1r9oOKrKaYExVI8w9naQSV) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb) | [Rainy Days](https://open.spotify.com/album/489BARvb76UOnK1OBIVQoY) | 1:58 |
 | 60 | [tranquility](https://open.spotify.com/track/6rl4T0vpbACeNmZs3kVwH6) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [tranquility](https://open.spotify.com/album/4kSIZWRmsNizAuO110oBq6) | 2:36 |
 | 61 | [Lost In The Wilderness](https://open.spotify.com/track/0igM1OQrEBkeaLn63WBjeS) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Lost In The Wilderness](https://open.spotify.com/album/0W6keNnJ8Qg0C3WaN9YcVh) | 2:34 |
 | 62 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Nazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,836 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,870 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

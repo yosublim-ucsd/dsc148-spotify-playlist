@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "A Tree Falls",
+        "url": "https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193187,
+      "name": "A Tree Falls",
+      "url": "https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv"
+    },
+    {
+      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 204413,
       "name": "do all my friends hate me?",
       "url": "https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN"
@@ -3892,7 +3910,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 172626,
       "name": "Forget I Exist",
       "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
@@ -4098,6 +4116,24 @@
       "duration_ms": 197260,
       "name": "Get Your Attention",
       "url": "https://open.spotify.com/track/4MCJB2N8KBptcmd1fmo7XY"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238726,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2"
     },
     {
       "album": {
@@ -6165,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Love You (But I Don't) / I hope you die first",
+        "url": "https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257790,
+      "name": "I Wanna Love You (But I Don't)",
+      "url": "https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -6872,7 +6926,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 163747,
       "name": "It's No Fun",
       "url": "https://open.spotify.com/track/5AwztQuXdndXJPNNwrF00X"

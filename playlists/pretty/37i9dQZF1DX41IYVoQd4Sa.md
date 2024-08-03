@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,933 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,940 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 49 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 |
 | 50 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
 | 51 | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/track/116GDev72vb3hj162mjDGX) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR) | 2:54 |
-| 52 | [תמיד ילדים](https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Guy Mazig](https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R) | [תמיד ילדים](https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS) | 3:28 |
+| 52 | [ילדים של אלוהים](https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [VuVuVu](https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP) | [ילדים של אלוהים](https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz) | 3:49 |
 | 53 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
-| 54 | [במקום אחר](https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi) | [Yoni Rechter](https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh) | [במקום אחר](https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ) | 3:25 |
-| 55 | [ילדים של אלוהים](https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [VuVuVu](https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP) | [ילדים של אלוהים](https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz) | 3:49 |
+| 54 | [תמיד ילדים](https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Guy Mazig](https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R) | [תמיד ילדים](https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS) | 3:28 |
+| 55 | [במקום אחר](https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi) | [Yoni Rechter](https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh) | [במקום אחר](https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ) | 3:25 |
 | 56 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 |
 | 57 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
-| 58 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
-| 59 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
-| 60 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
+| 58 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
+| 59 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
+| 60 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
 
 Snapshot ID: `Zqv3UAAAAACEbU9iIQZfyB8ec3GCMTBb`

@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 18748,
+  "num_followers": 18796,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAB44Gu7NkRavftyqcc9yz4W",
+  "snapshot_id": "ZqrQAAAAAADPSmsvYKsxWWPgvv93vhEH",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 199741,
-      "name": "Accent (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REDRUM Wizard (Gangsta Grillz)",
         "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 202285,
       "name": "BOP (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Accent (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Trunk (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg"
-      },
-      "artists": [
-        {
-          "name": "FendiDa Rappa",
-          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "In The Trunk (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 155193,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Trunk (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "In The Trunk (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd"
     },
     {
       "added_at": null,
@@ -903,6 +903,26 @@
       "duration_ms": 223120,
       "name": "Jealous Ass Bitch",
       "url": "https://open.spotify.com/track/6k9g8At55mymrYreujzg7E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loving U 2 Hard",
+        "url": "https://open.spotify.com/album/1mhv3iYPEraW7U5tqPofri"
+      },
+      "artists": [
+        {
+          "name": "Sencere",
+          "url": "https://open.spotify.com/artist/7wZVx30o6I4o3Ra6kE2Cvo"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 205271,
+      "name": "Loving U 2 Hard",
+      "url": "https://open.spotify.com/track/6kEsXIEMmDsFzpSjCSriSf"
     }
   ],
   "unique_name": "This Is GloRilla",

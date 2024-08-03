@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 ### [This Is Eden Muñoz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GToIh)
 
-> This Is Eden Muñoz\. Los temas esenciales, todos en una lista.
+> This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,798 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,927 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 22 | [Alguien Me Espera en Madrid](https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 2:55 |
 | 23 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 24 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
-| 25 | [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 |
-| 26 | [No Sabía Cuánto](https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [No Sabía Cuánto](https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ) | 2:45 |
+| 25 | [No Sabía Cuánto](https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [No Sabía Cuánto](https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ) | 2:45 |
+| 26 | [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 |
 | 27 | [Cómo Estás Tú](https://open.spotify.com/track/4XlXcQZQrNJdsVjJX4ZWIy) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:04 |
 | 28 | [Bájale](https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:42 |
-| 29 | [Mi Recaída en Los Excesos](https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mi Recaída en Los Excesos](https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9) | 3:03 |
-| 30 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
+| 29 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
+| 30 | [Mi Recaída en Los Excesos](https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mi Recaída en Los Excesos](https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9) | 3:03 |
 | 31 | [Provocame \- En Vivo](https://open.spotify.com/track/6ORL6XCAtzCMBl9AFQGKe7) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:09 |
 | 32 | [El Del Trigo](https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA) | [El Del Trigo](https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy) | 2:58 |
 | 33 | [LMV](https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:30 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 50 | [Vas a Destrozarme \- Versión Eden Muñoz](https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Vas a Destrozarme \(Versión Eden Muñoz\)](https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo) | 2:57 |
 | 51 | [Amor Clandestino](https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Amor Clandestino](https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA) | 3:46 |
 
-Snapshot ID: `Zql+gAAAAACKLGkYfB/ac23CNZ37H4R5`
+Snapshot ID: `ZqrQAAAAAACdJ3oO2+Eei+QtXetwVJNO`

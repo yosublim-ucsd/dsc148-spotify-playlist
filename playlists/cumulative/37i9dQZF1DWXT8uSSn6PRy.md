@@ -4,7 +4,7 @@
 
 > The hottest tracks in the North\. Cover: The Kid LAROI
 
-714 songs - 1 day 13 hr 43 min
+716 songs - 1 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Bet On Me](https://open.spotify.com/track/2p56oIwLWTo2qh3c3SAZMk) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Bet On Me](https://open.spotify.com/album/7KOzTHjJGfgrsw5DbP2UtY) | 2:52 | 2022-03-18 | 2022-04-23 |
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2021-12-31 | 2022-09-17 |
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-08 | 2023-03-25 |
+| [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-02 |  |
 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 | 2023-07-21 | 2024-01-13 |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-08-26 | 2023-04-09 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-31 |  |
@@ -209,7 +210,7 @@
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-05-05 | 2024-01-13 |
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-04-26 |  |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-06-17 | 2022-06-25 |
-| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-10 |  |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-10 | 2024-08-03 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-14 | 2024-04-19 |
 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 | 2022-02-18 | 2022-03-05 |
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-03-24 | 2023-12-09 |
@@ -323,7 +324,7 @@
 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2024-03-29 | 2024-04-03 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-03-03 | 2023-09-26 |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-03-29 | 2024-06-08 |
-| [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-12 |  |
+| [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-12 | 2024-08-03 |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-03-03 | 2023-04-29 |
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-08 | 2022-06-18 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-05-06 | 2022-10-08 |
@@ -565,6 +566,7 @@
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2023-02-11 |
 | [Shy Boy](https://open.spotify.com/track/6reL5LwIwHkDXcKff9ZbKV) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Shy Boy](https://open.spotify.com/album/5SfL9du7O2pG1q14UsegkA) | 3:29 | 2023-06-23 | 2023-07-29 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-07-19 |  |
+| [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-08-02 |  |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-25 | 2022-05-28 |
 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 | 2024-07-05 |  |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-25 | 2024-02-03 |

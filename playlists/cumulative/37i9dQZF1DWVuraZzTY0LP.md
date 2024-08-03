@@ -4,7 +4,7 @@
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-463 songs - 1 day 3 hr 50 min
+464 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [hasta dónde se enamora](https://open.spotify.com/track/67pFIQQ7uCOV3lZak8e1aV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 2:47 | 2023-02-20 | 2023-03-11 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-20 |  |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-07-28 |  |
+| [Heatstroke](https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Heatstroke](https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL) | 3:54 | 2024-08-02 |  |
 | [Heavy](https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:22 | 2022-10-14 | 2022-11-13 |
 | [Hellbound](https://open.spotify.com/track/2Tx3e4tOlmiTs6mTa9aIdz) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Pod](https://open.spotify.com/album/0xx56m5AMEIMZlSjdJwxf5) | 2:21 | 2023-02-20 | 2023-03-11 |
 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 | 2023-02-20 | 2023-03-11 |
@@ -293,7 +294,7 @@
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-19 |  |
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2023-05-19 | 2023-09-10 |
 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-09 | 2023-05-20 |
-| [Perder para Ganar](https://open.spotify.com/track/5dCWXWENrozBEeZ0rS1S3q) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Perder para Ganar](https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB) | 3:02 | 2023-09-09 |  |
+| [Perder para Ganar](https://open.spotify.com/track/5dCWXWENrozBEeZ0rS1S3q) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Perder para Ganar](https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB) | 3:02 | 2023-09-09 | 2024-08-03 |
 | [Perro Rompebolas](https://open.spotify.com/track/5qm2LtAOHkPXXdvV6t5WIe) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Kellies](https://open.spotify.com/album/1C56hWgDvSDHO7xhXEZsSM) | 1:35 | 2023-02-20 | 2023-03-11 |
 | [Pink Funeral](https://open.spotify.com/track/2bEHweWdjvtHIwIHJfY6IY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:56 | 2023-02-20 | 2023-03-11 |
 | [Piñata](https://open.spotify.com/track/7u7rPHymNtUaDVusZ95ChJ) | [María Del Pilar](https://open.spotify.com/artist/3TxYrcQ59CvnDHFQg0Roji) | [Songs + Canciones I](https://open.spotify.com/album/7c8YtrYs0kseg29Tpnzsyd) | 2:38 | 2023-02-20 | 2023-03-06 |

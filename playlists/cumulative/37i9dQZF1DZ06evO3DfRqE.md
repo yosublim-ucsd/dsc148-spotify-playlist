@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 51 min
+64 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Hemiola Blues](https://open.spotify.com/track/3M90vG6FtT6Fw72Jx9HJSK) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nashville Sessions](https://open.spotify.com/album/0BOfytlIqA5WlJNcNN5J5o) | 1:23 | 2024-01-29 | 2024-03-10 |
 | [Hi'ilawe](https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 2:30 | 2024-01-29 | 2024-07-19 |
 | [Honu's Dream](https://open.spotify.com/track/3R3FlqlIt3vp2X2NzS1xZl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kohala](https://open.spotify.com/artist/019N8MmzjydRlDJ8dtxPU8) | [Putumayo Kids Presents Instrumental Dreamland](https://open.spotify.com/album/1WxMaglwkL1nkq0MfO88jC) | 2:43 | 2024-01-29 |  |
+| [Hope in the Ashes](https://open.spotify.com/track/1RoNkSXNMMbBVLmApfVlMs) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Hope in the Ashes](https://open.spotify.com/album/373OIvXeyphGoVfggcCdcr) | 2:34 | 2024-08-03 |  |
 | [Hotel California \(Duet with Jake Shimabukuro\)](https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [HandPicked](https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn) | 8:05 | 2024-01-29 |  |
 | [Hula Girl\(LIVE\)](https://open.spotify.com/track/19nr74Chrn65xHbdmDfInV) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:27 | 2024-01-29 |  |
 | [I'll Be There](https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 4:37 | 2024-01-29 |  |
@@ -46,7 +47,7 @@
 | [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 | 2024-01-29 |  |
 | [Smokin' Strings](https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 7:09 | 2024-01-29 |  |
 | [Summer Rain](https://open.spotify.com/track/4fnqyECBu3t2V7EnRxf8pl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 3:22 | 2024-01-29 |  |
-| [Train Ride](https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:44 | 2024-01-29 |  |
+| [Train Ride](https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:44 | 2024-01-29 | 2024-08-03 |
 | [Two High](https://open.spotify.com/track/1uizY6qe73rHo1gduRqvy8) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 3:39 | 2024-01-29 | 2024-03-14 |
 | [Ukulele Bros](https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:03 | 2024-05-19 | 2024-05-26 |
 | [Under The Sea](https://open.spotify.com/track/2APVreU7PPG721p8xte07l) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:49 | 2024-01-29 |  |

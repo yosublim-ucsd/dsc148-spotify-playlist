@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,414 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,513 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 25 | [Sweet Love](https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Najee's Theme](https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a) | 4:44 |
 | 26 | [Soul Dance](https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:14 |
 | 27 | [Nightfall](https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:32 |
-| 28 | [Rikke](https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw) | [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Songs From The Night Before](https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe) | 5:03 |
-| 29 | [Fields of Gold](https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Journey](https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI) | 5:40 |
+| 28 | [Fields of Gold](https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Journey](https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI) | 5:40 |
+| 29 | [Rikke](https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw) | [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Songs From The Night Before](https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe) | 5:03 |
 | 30 | [In The Groove](https://open.spotify.com/track/2AyEl9H2FwNNdW7xdNRlSI) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 4:17 |
 | 31 | [Body Language](https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Body Language](https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE) | 4:55 |
 | 32 | [Love's Serenade](https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS) | [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Dance Of The Soul](https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh) | 4:31 |
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 53 | [Without Your Love](https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Nice & Slow](https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM) | 4:48 |
 | 54 | [Midnight In Manhattan](https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:49 |
 | 55 | [Angel In Paris](https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Flipside](https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd) | 5:12 |
-| 56 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 |
-| 57 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |
-| 58 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
+| 56 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |
+| 57 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 |
+| 58 | [Brazilia](https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Face To Face \(US Version\)](https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8) | 3:58 |
 | 59 | [Somethin' Bout Love](https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Somethin' Bout Love](https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb) | 4:45 |
-| 60 | [Puerto Banus](https://open.spotify.com/track/5aWFVn8VxQcoV5QtjFrZ28) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters 4](https://open.spotify.com/album/59EZIGuewk99mkPphgvBRS) | 3:46 |
-| 61 | [Brazilia](https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Face To Face \(US Version\)](https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8) | 3:58 |
+| 60 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
+| 61 | [Puerto Banus](https://open.spotify.com/track/5aWFVn8VxQcoV5QtjFrZ28) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters 4](https://open.spotify.com/album/59EZIGuewk99mkPphgvBRS) | 3:46 |
 | 62 | [Anywhere Near You](https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb) | [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Drive](https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ) | 4:45 |
 | 63 | [Here With You](https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:17 |
 | 64 | [Sunshine](https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF) | [Gordon James](https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz) | [In Joy](https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43) | 5:05 |

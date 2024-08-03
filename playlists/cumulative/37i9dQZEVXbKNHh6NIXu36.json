@@ -2778,7 +2778,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -3422,6 +3422,24 @@
       "duration_ms": 162906,
       "name": "Augenma\u00df (feat. Pashanim)",
       "url": "https://open.spotify.com/track/4H1N6Ej2EcgDm58aQIsuvP"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "album": {
@@ -5494,6 +5512,28 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
       "album": {
@@ -27300,7 +27340,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 147586,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
@@ -32188,7 +32228,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -42408,7 +42448,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"

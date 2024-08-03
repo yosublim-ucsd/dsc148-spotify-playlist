@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Too Cool (Guitar Version)",
+        "url": "https://open.spotify.com/album/57h428gf55rR9knDH48UFO"
+      },
+      "artists": [
+        {
+          "name": "Lance Allen",
+          "url": "https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132081,
+      "name": "Too Cool - Guitar Version",
+      "url": "https://open.spotify.com/track/35rahlp0arpoCBwGD2DrK3"
+    },
+    {
+      "album": {
         "name": "Two Tigers",
         "url": "https://open.spotify.com/album/7FvDer0ts1pXPBfliAND0e"
       },

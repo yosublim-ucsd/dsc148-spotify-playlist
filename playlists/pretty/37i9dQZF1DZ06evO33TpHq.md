@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,477 likes - 48 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,500 likes - 48 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 36 | [Christ Is Risen](https://open.spotify.com/track/27NoSqxy4e3idBQMObWCjh) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:10 |
 | 37 | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/track/6B7ptdnKOpm4I4hPXkZWQs) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:14 |
 | 38 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 |
-| 39 | [Worthy Of My Song](https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Worthy Of My Song](https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS) | 6:11 |
-| 40 | [Living Hope](https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 6:22 |
+| 39 | [Living Hope](https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 6:22 |
+| 40 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 |
 | 41 | [ISN'T HE GOOD • HOMETOWN VERSION](https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:47 |
-| 42 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 |
+| 42 | [Worthy Of My Song](https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Worthy Of My Song](https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS) | 6:11 |
 | 43 | [Behold \(feat\. Anne Wilson\)](https://open.spotify.com/track/2fy4fzUaoBurQu9IpFmdRG) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Behold \(feat\. Anne Wilson\)](https://open.spotify.com/album/2Tm2tryR4iBqwcfy8xtJyQ) | 4:24 |
 | 44 | [Cannons](https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC) | 4:09 |
 | 45 | [RELATIONSHIP • HOMETOWN VERSION](https://open.spotify.com/track/4ygZXRhD40OUyjZiexB0mC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:53 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 47 | [How Great Is Your Love](https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope \(The House Sessions\)](https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS) | 6:34 |
 | 48 | [This Is the Day](https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 3:26 |
 
-Snapshot ID: `Zql+gAAAAACC91bX50CBZ+vjcwqmiCkR`
+Snapshot ID: `ZqrQAAAAAABKfTgVW1XufbkwfOHDuo7d`

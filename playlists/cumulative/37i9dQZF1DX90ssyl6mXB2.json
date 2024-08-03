@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 213933,
       "name": "My Affection (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 246773,
       "name": "PRBLMS",
       "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
@@ -1588,6 +1588,24 @@
       "duration_ms": 179971,
       "name": "S t u c k I n M y W a y s",
       "url": "https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us"
+    },
+    {
+      "album": {
+        "name": "Selfie",
+        "url": "https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Selfie",
+      "url": "https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH"
     },
     {
       "album": {
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 140068,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP"
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 158420,
       "name": "Trust",
       "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"

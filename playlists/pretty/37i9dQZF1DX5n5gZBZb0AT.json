@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 862003,
+  "num_followers": 862322,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "FUNKED UP",
         "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "FRESH",
-        "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
-      },
-      "artists": [
-        {
-          "name": "NXVAMANE",
-          "url": "https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh"
-        }
-      ],
-      "duration_ms": 68687,
-      "name": "FRESH",
-      "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "Close Eyes",
         "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
+      },
+      "artists": [
+        {
+          "name": "NXVAMANE",
+          "url": "https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh"
+        }
+      ],
+      "duration_ms": 68687,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
     },
     {
       "added_at": "2024-05-08 15:21:25",

@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: stivijoes.
 
-142 songs - 7 hr 23 min
+143 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,12 +16,13 @@
 | [AL OTRO LADO](https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [AL OTRO LADO](https://open.spotify.com/album/6AAmEXwhaKrKWwg4hDhpXF) | 2:28 | 2024-06-27 | 2024-07-27 |
 | [Algo que ganar](https://open.spotify.com/track/3UJNuMmw1u6MAeuVOvkyMT) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Algo que ganar](https://open.spotify.com/album/3mr5uPl1njqUecgDQyV8Hr) | 3:12 | 2024-07-04 | 2024-07-27 |
 | [ALGO\-RITMO](https://open.spotify.com/track/2n0GhbR961I6c20JUjQz1A) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [ALGO\-RITMO](https://open.spotify.com/album/29KvJq9YBgSCBdmtDPVUej) | 3:26 | 2024-06-27 | 2024-07-12 |
-| [Amargura \(Cover para 'Perrea, perrea' de Movistar Plus+\)](https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1) | [Amargura \(Cover para 'Perrea, perrea' de Movistar Plus+\)](https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL) | 3:04 | 2024-07-25 |  |
+| [Amargura \(Cover para Movistar Plus+\)](https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1) | [Amargura \(Cover para Movistar Plus+\)](https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL) | 3:04 | 2024-07-25 |  |
 | [Automóviles](https://open.spotify.com/track/7sm0mCPk9si3MQ8706IrOT) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Automóviles](https://open.spotify.com/album/3opwVD7QPkliMcVj4iuuMf) | 3:48 | 2024-06-27 |  |
 | [Bailar Llorando](https://open.spotify.com/track/7aZor2HjAffKI8PmQxw2oW) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Bailar Llorando](https://open.spotify.com/album/5iMaYIQuXTCxtSdN7ylLby) | 2:43 | 2024-06-27 |  |
 | [BDH](https://open.spotify.com/track/2xjFhcTdQFACj6HPTQrrYU) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [Bomba de humo](https://open.spotify.com/album/06BlOopUvZxtb5vcRGAejC) | 2:48 | 2024-06-27 |  |
 | [Benzodiacepinas y Café](https://open.spotify.com/track/4X1tGalViOdCQkHkXWUZ3D) | [El Marido Ideal](https://open.spotify.com/artist/1kk7TCkP1WAOjslkI0LMPU) | [Benzodiacepinas y Pilar Miró](https://open.spotify.com/album/6iCKWdTftXKZGAjLhcAV1o) | 2:18 | 2024-07-04 | 2024-07-12 |
 | [BLU](https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [BLU](https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5) | 2:28 | 2024-06-27 |  |
+| [Braille](https://open.spotify.com/track/0GzcQHr6Ecz0kVjWccfOmY) | [Juan Belda](https://open.spotify.com/artist/3qQqgaRyTvxL3ybDEFHNnn), [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Braille](https://open.spotify.com/album/7wMwfQcUeM2yPRQRDNV0Ft) | 3:24 | 2024-08-01 |  |
 | [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 | 2024-07-12 |  |
 | [Buckingham](https://open.spotify.com/track/3tnZP7bdapECC5IZT8bwtR) | [Vezinos](https://open.spotify.com/artist/3zDTzz45AQFJEOl3OhH8Xp) | [El Momento](https://open.spotify.com/album/2SLOxCeXdq9A8HQtUcq6IX) | 3:41 | 2024-08-01 |  |
 | [campamento base](https://open.spotify.com/track/35WFkBGSmeqyx7fqnoYsEl) | [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [campamento base](https://open.spotify.com/album/7mJty5NrSPAt2inyesbwSa) | 2:28 | 2024-07-11 |  |
@@ -140,7 +141,7 @@
 | [Tu Buen Chaval](https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Nuevos Lemas](https://open.spotify.com/album/0f4weFEnA91MfjYF61UfOU) | 2:25 | 2024-06-27 |  |
 | [Tu olor](https://open.spotify.com/track/584vMaGygewON9eBMNT5ab) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Tu olor](https://open.spotify.com/album/5QHT58kMaifnYJBjj0RvIR) | 4:06 | 2024-06-27 | 2024-07-05 |
 | [un beso y una flor](https://open.spotify.com/track/2ZjanRmhMk2cBK6Hl4nAYL) | [Eva B](https://open.spotify.com/artist/7C6WKCefGMAg2hbx7BNCIq) | [un beso y una flor](https://open.spotify.com/album/2f5b0JZTneMgOWC78ACg0p) | 3:06 | 2024-06-27 |  |
-| [Un Millón de Años](https://open.spotify.com/track/1FwNzcMOscVkseCTpW6aey) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Un Millón de Años](https://open.spotify.com/album/1cpc3zlcpeHCWS9ib1E4dG) | 3:37 | 2024-06-27 |  |
+| [Un Millón de Años](https://open.spotify.com/track/1FwNzcMOscVkseCTpW6aey) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Un Millón de Años](https://open.spotify.com/album/1cpc3zlcpeHCWS9ib1E4dG) | 3:37 | 2024-06-27 | 2024-08-03 |
 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 | 2024-06-27 |  |
 | [Volver](https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK) | [Javi Chapela](https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk) | [Volver](https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l) | 3:53 | 2024-06-27 |  |
 | [Volveréis](https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [Volveréis](https://open.spotify.com/album/37A5BZoVIV9VfG2yRM0SwD) | 3:09 | 2024-07-25 |  |

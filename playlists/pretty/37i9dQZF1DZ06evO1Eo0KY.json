@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADBY0mYxiBL8A7wPJSdjUDq",
+  "snapshot_id": "ZqrQAAAAAACFpu+4ZddCQRCUWLp/C2ty",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OV3\u00b2",
-        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
-      },
-      "artists": [
-        {
-          "name": "Di-Meh",
-          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 176124,
-      "name": "Paco Chaupard",
-      "url": "https://open.spotify.com/track/6YkALlDSpjt4GhQGEGdbvi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directors Cut 4",
         "url": "https://open.spotify.com/album/1CbmjQ2qeIJj4VSTOnnAfY"
       },
@@ -547,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "OV3\u00b2",
+        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
+      },
+      "artists": [
+        {
+          "name": "Di-Meh",
+          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Paco Chaupard",
+      "url": "https://open.spotify.com/track/6YkALlDSpjt4GhQGEGdbvi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body of Lies",
         "url": "https://open.spotify.com/album/2ANiHGSVp9G7Z9t2PBKdvp"
       },
@@ -580,29 +580,29 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 146807,
-      "name": "Wit out a Question",
-      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
+      "duration_ms": 134269,
+      "name": "Look What You Done",
+      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
     },
     {
       "added_at": null,
       "album": {
-        "name": "1000 Mile Stare",
-        "url": "https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz"
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
       "artists": [
         {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 198191,
-      "name": "1000 Mile Stare",
-      "url": "https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3"
+      "duration_ms": 184910,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
     },
     {
       "added_at": null,
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
+        "name": "1000 Mile Stare",
+        "url": "https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz"
       },
       "artists": [
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 184910,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
+      "duration_ms": 198191,
+      "name": "1000 Mile Stare",
+      "url": "https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 134269,
-      "name": "Look What You Done",
-      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
+      "duration_ms": 146807,
+      "name": "Wit out a Question",
+      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Crypto",
-      "url": "https://open.spotify.com/track/0ndQ3lxvJIEHlR24f3ykl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deleted Scenes 2",
         "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 179642,
       "name": "Deliver Us from Evil (Remix)",
       "url": "https://open.spotify.com/track/60z5FCH9xnUqx7IFzkR8vF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Crypto",
+      "url": "https://open.spotify.com/track/0ndQ3lxvJIEHlR24f3ykl3"
     },
     {
       "added_at": null,
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 254390,
-      "name": "They Live",
-      "url": "https://open.spotify.com/track/7hVW06FEfif7tkvc7viAKs"
+      "duration_ms": 146938,
+      "name": "Dark Waters",
+      "url": "https://open.spotify.com/track/6TofYO0GjgVC9ZuFYDm8cf"
     },
     {
       "added_at": null,
@@ -991,26 +991,6 @@
       "duration_ms": 159989,
       "name": "The Desolate One",
       "url": "https://open.spotify.com/track/7dSANKxf0vVbUEVFqea5Uv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "YOD Body",
-      "url": "https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA"
     },
     {
       "added_at": null,

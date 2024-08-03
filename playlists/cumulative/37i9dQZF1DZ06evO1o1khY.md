@@ -4,7 +4,7 @@
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 22 min
+72 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Leave the Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/0zP8VSgyYSVqrSXTYTn9Su) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:42 | 2023-03-26 |  |
 | [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/1CJ8e0zc8uvAmkqdeXrq4u) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/album/1O90Qra7WiVZIaT4oHKSTU) | 3:42 | 2023-02-20 | 2023-03-27 |
 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 | 2023-05-25 |  |
+| [Loving U 2 Hard](https://open.spotify.com/track/6kEsXIEMmDsFzpSjCSriSf) | [Sencere](https://open.spotify.com/artist/7wZVx30o6I4o3Ra6kE2Cvo), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Loving U 2 Hard](https://open.spotify.com/album/1mhv3iYPEraW7U5tqPofri) | 3:25 | 2024-08-03 |  |
 | [NBA \(feat\. GloRilla\)](https://open.spotify.com/track/06WVgdw4Gi66KRrNbucYvT) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Zai](https://open.spotify.com/album/0qXeIPzrKbNIJmZmu37Pp1) | 1:59 | 2024-07-08 | 2024-07-13 |
 | [No Bih](https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:59 | 2024-04-07 |  |
 | [No More Love](https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:10 | 2022-11-12 |  |

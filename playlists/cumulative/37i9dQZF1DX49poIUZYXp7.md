@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Tigirlily Gold
+> The extraordinary women making great country music today\. Cover: Ella Langley
 
-380 songs - 20 hr 42 min
+382 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/track/6W8ip4419k9qTlOAkAU4uN) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/album/2dA4e6yg8TumkbOWZJYunN) | 3:07 | 2021-12-01 |  |
 | [Cool](https://open.spotify.com/track/44USwYuZ2eckQTYqkoeJEC) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0IuKHnuroKmBnaPqIRuxnh) | 3:48 | 2022-03-25 | 2022-04-21 |
 | [Cool About It](https://open.spotify.com/track/6PGNiIVGzWYTOaGXPoL9pV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Heart On My Glass](https://open.spotify.com/album/0x5tWCQaw2ZGitlV8EdVN1) | 3:29 | 2022-03-04 | 2022-07-27 |
-| [Country Boy's Dream Girl](https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Country Boy's Dream Girl](https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ) | 3:03 | 2024-07-01 |  |
+| [Country Boy's Dream Girl](https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Country Boy's Dream Girl](https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ) | 3:03 | 2024-07-01 | 2024-08-03 |
 | [Country Can](https://open.spotify.com/track/23h3c9x2ApofnkxHteQJDU) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Country Can](https://open.spotify.com/album/1gDtUrRMMsnPoBNHygmep7) | 2:53 | 2022-08-19 | 2023-03-02 |
 | [Cowboy Kind of Love](https://open.spotify.com/track/0ZWDipzWCRrSqaZZ9aUlEF) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [A Little Goes A Long Way](https://open.spotify.com/album/628Axc3eMMTJlaZ1r9L5ve) | 3:03 | 2024-05-17 |  |
 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 | 2021-12-01 |  |
@@ -110,6 +110,7 @@
 | [Good At Missing You](https://open.spotify.com/track/36fDIFeWToiHY7ffUPbt5N) | [Nice Horse](https://open.spotify.com/artist/7cSjuVkt2nAbYABqWdoIf7) | [Good At Missing You](https://open.spotify.com/album/2Bxupud2rBY96Cg9vF5bEs) | 3:59 | 2022-03-25 | 2022-04-21 |
 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 | 2022-05-27 | 2023-04-27 |
 | [good on you](https://open.spotify.com/track/0Mn8Zougsau7RX2vMJJpwo) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4pTPkB7BSDqZboqQYbx7iF) | 3:17 | 2022-03-02 | 2022-07-26 |
+| [Good On You](https://open.spotify.com/track/4rgtVCZ85aJHX0MVPM6fjw) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Good On You](https://open.spotify.com/album/4FgGirHiQSaQS5BApIploW) | 3:07 | 2024-08-02 |  |
 | [Got No Choice](https://open.spotify.com/track/0bZn83nTisBT1OCb7bA3rw) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Got No Choice](https://open.spotify.com/album/1529CgDLI704QwWw5A5OFS) | 3:21 | 2021-12-01 |  |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-03-01 |  |
 | [Growing Old Young](https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:26 | 2021-12-01 | 2022-07-29 |
@@ -222,7 +223,7 @@
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2021-12-01 |  |
 | [Most Wanted](https://open.spotify.com/track/28yTGsbhCb5bkRazGJeznG) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [I Ain't a Saint](https://open.spotify.com/album/0g8HweBRPuoqpruz4ycic8) | 3:39 | 2022-03-25 | 2022-04-21 |
 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 | 2023-03-01 |  |
-| [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 | 2022-02-11 |  |
+| [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 | 2022-02-11 | 2024-08-03 |
 | [My Left Hand](https://open.spotify.com/track/4xvjIj6hR1HNv5G0ooi0CG) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand](https://open.spotify.com/album/4auLkhQRuYKdmz2EBDvPDH) | 3:07 | 2022-06-04 | 2022-11-28 |
 | [Neon Healing](https://open.spotify.com/track/61gH3z9LvJgP4rbhaF4haQ) | [Genevieve Fisher](https://open.spotify.com/artist/72fK1tR09pjiiGHJciVg73) | [Neon Healing](https://open.spotify.com/album/3bh4TegHtVUxuk5PWXDMZD) | 2:48 | 2022-03-25 | 2022-04-21 |
 | [Never Been in Love](https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/6cps0yIKzYYVyHTW0TsEvN) | 2:59 | 2022-07-22 | 2023-02-15 |
@@ -242,6 +243,7 @@
 | [Our Days Are Numbered](https://open.spotify.com/track/0tGseysazP8CoS6TbUwfyk) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Our Days Are Numbered](https://open.spotify.com/album/370Fhdm7RYd4R386MOhcjO) | 3:29 | 2022-03-25 | 2022-04-21 |
 | [Overnight Sensation](https://open.spotify.com/track/2TJAXndPE9w8eYX7Diyl0O) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Overnight Sensation](https://open.spotify.com/album/3fCer1oWzbP99fAYTRk5F1) | 4:03 | 2021-12-01 | 2022-07-19 |
 | [Own Roses](https://open.spotify.com/track/0o9HKZ3WD6hxG0n9tI7Ma2) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [The Garden](https://open.spotify.com/album/1pm50OHYxgtr4M8Bdn4piC) | 3:38 | 2021-12-01 | 2022-03-02 |
+| [paint the town blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [paint the town blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 | 2024-08-02 |  |
 | [Parking Lot](https://open.spotify.com/track/39AbyPpPnVDAHzUmYxVsEx) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:03 | 2024-05-05 | 2024-06-10 |
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2021-12-01 | 2024-07-02 |
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-03-01 |  |

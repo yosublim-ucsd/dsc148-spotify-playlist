@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 553707,
+  "num_followers": 553988,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
+      },
+      "artists": [
+        {
+          "name": "Los Cadiz",
+          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
+        }
+      ],
+      "duration_ms": 200071,
+      "name": "Te Voy a Amar",
+      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
         "name": "Si Esta Casa Hablara",
         "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 200575,
       "name": "Si Esta Casa Hablara",
       "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
-      },
-      "artists": [
-        {
-          "name": "Los Cadiz",
-          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "Te Voy a Amar",
-      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "Un Sentimiento",
-        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -827,22 +811,34 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "ADI\u00d3S (Live Version)",
-        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+        "name": "Un Sentimiento",
+        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         }
       ],
-      "duration_ms": 164547,
-      "name": "ADI\u00d3S (Live Version)",
-      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+      "duration_ms": 203933,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -883,18 +879,38 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
       },
       "artists": [
         {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 197616,
+      "name": "Entre el Cielo Vos y Yo",
+      "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -915,22 +931,6 @@
       "duration_ms": 171667,
       "name": "DIME SI ERES FELIZ VOL.2",
       "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 197616,
-      "name": "Entre el Cielo Vos y Yo",
-      "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "Pa\u2019 la Selecci\u00f3n",
-        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 186735,
-      "name": "Pa\u2019 la Selecci\u00f3n",
-      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
+        "name": "Manos de Tijera",
+        "url": "https://open.spotify.com/album/0E3sJKvxHzRNwTovcf3seP"
+      },
+      "artists": [
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        }
+      ],
+      "duration_ms": 341047,
+      "name": "Manos de Tijera",
+      "url": "https://open.spotify.com/track/703pazG4eZUZHohBBgs4SM"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
         "name": "No Aguanto M\u00e1s",
         "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "Manos de Tijera",
-        "url": "https://open.spotify.com/album/0E3sJKvxHzRNwTovcf3seP"
+        "name": "Pa\u2019 la Selecci\u00f3n",
+        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
       },
       "artists": [
         {
-          "name": "Huguito Flores el Super",
-          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 341047,
-      "name": "Manos de Tijera",
-      "url": "https://open.spotify.com/track/703pazG4eZUZHohBBgs4SM"
+      "duration_ms": 186735,
+      "name": "Pa\u2019 la Selecci\u00f3n",
+      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
         "name": "La 2da del Boxeador",
         "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 248440,
       "name": "Un Beso y una Flor",
       "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2024-07-09 14:20:56",

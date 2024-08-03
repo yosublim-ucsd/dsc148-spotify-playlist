@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,540 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,681 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 | 31 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
 | 32 | [Encadenada A Mi \- Cumbia](https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:49 |
 | 33 | [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 |
-| 34 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 |
-| 35 | [La Chica Que Soñé](https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [La Chica Que Soñe](https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g) | 3:10 |
+| 34 | [La Chica Que Soñé](https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [La Chica Que Soñe](https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g) | 3:10 |
+| 35 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 |
 | 36 | [Cumbia poder](https://open.spotify.com/track/43067bbX2FhYHpfAntTIYB) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:00 |
 | 37 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
 | 38 | [Sola](https://open.spotify.com/track/4etqoFocnO9gSKtqtQbwXh) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Oye Mujer \(Deluxe Edition\)](https://open.spotify.com/album/3CzeG68WKVXRMumlmwoCfl) | 2:59 |

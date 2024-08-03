@@ -4,7 +4,7 @@
 
 > 
 
-23 songs - 1 hr 5 min
+24 songs - 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [yarım kalan](https://open.spotify.com/track/0N4YwNQ0LkAF2YhIF8CbSF) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yarım kalan](https://open.spotify.com/album/5ovP7lEu6WG2NUAwLuRtVQ) | 2:33 | 2023-04-07 |  |
 | [Yasak Elma](https://open.spotify.com/track/6aoqegk05KuhE77zFHDTAD) | [İlyas Yalçıntaş](https://open.spotify.com/artist/2ekGsQEkeMtYFA16Jjes2M) | [Yasak Elma](https://open.spotify.com/album/6snMnEqWZmnO7kKqYxXDre) | 3:41 | 2023-07-20 |  |
 | [yine bana kal](https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yine bana kal](https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX) | 3:03 | 2024-01-26 |  |
+| [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-02 |  |
 | [ZAR ZOR](https://open.spotify.com/track/7i3U8xnLEtkzzsetcu4j7s) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ZAR ZOR](https://open.spotify.com/album/3RwVkeAdTEEs5JU4xQ34y7) | 2:31 | 2022-07-27 |  |
 | [ZAR ZOR \(Aytaç Kart Remix\) \(feat\. Aytac Kart\)](https://open.spotify.com/track/1H4qxPotx1YuUacESzS6E3) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Aytac Kart](https://open.spotify.com/artist/66AHlsRl8ONmvQCiuVIdJ3) | [ZAR ZOR \(Aytaç Kart Remix\) \(feat\. Aytac Kart\)](https://open.spotify.com/album/51kSkawyx2mHLBEAmu3tBl) | 2:49 | 2022-07-27 |  |
 

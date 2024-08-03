@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-515 songs - 1 day 2 hr 41 min
+516 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 | 2023-01-12 | 2023-09-22 |
 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 | 2022-01-20 | 2023-01-13 |
 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 | 2021-12-16 | 2023-01-13 |
+| [guidance](https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [guidance](https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs) | 3:35 | 2024-08-02 |  |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-02-03 | 2023-01-13 |
 | [Hannah](https://open.spotify.com/track/2wbS2aC4mZwSiefjovwyh1) | [Neil Hollyn](https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0) | [Hannah](https://open.spotify.com/album/60yMEN6xfAX0WpGNOBcaqX) | 3:16 | 2021-12-16 | 2022-01-21 |
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2023-01-12 | 2023-03-01 |
@@ -256,7 +257,7 @@
 | [Kiss Me](https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ) | [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Kiss Me](https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi) | 2:25 | 2021-12-16 | 2023-01-13 |
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2021-12-16 | 2022-03-26 |
 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 | 2024-04-11 |  |
-| [L O V E L Y](https://open.spotify.com/track/7999Jc1VgYDhi9p5dZnIdQ) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [B L U N T](https://open.spotify.com/album/404Hu5CuQHTzgdywua3Uei) | 2:59 | 2023-11-09 |  |
+| [L O V E L Y](https://open.spotify.com/track/7999Jc1VgYDhi9p5dZnIdQ) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [B L U N T](https://open.spotify.com/album/404Hu5CuQHTzgdywua3Uei) | 2:59 | 2023-11-09 | 2024-08-03 |
 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 | 2023-01-12 | 2023-10-13 |
 | [Learn to Love \- Stripped](https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Learn to Love \(Stripped\)](https://open.spotify.com/album/5lluwVdUqKhjsby4RLMahS) | 3:32 | 2022-03-25 | 2023-01-13 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-12 | 2024-03-01 |

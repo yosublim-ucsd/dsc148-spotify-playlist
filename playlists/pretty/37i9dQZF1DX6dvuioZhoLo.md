@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,555 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,617 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 68 | [I Thought You Were Somebody Else](https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:16 |
 | 69 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 |
 | 70 | [Lonely Game \(feat\. Andrew Combs & Jessie Baylin\)](https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco), [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11), [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [ism](https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU) | 3:49 |
-| 71 | [Nothing Wrong with Texas](https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:19 |
-| 72 | [Howard Hughes Blues](https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 2:50 |
+| 71 | [Howard Hughes Blues](https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 2:50 |
+| 72 | [Nothing Wrong with Texas](https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:19 |
 | 73 | [Off My Back](https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot) | [Becky Warren](https://open.spotify.com/artist/3mTESq7qkYJ5k6WiEAY9Uk) | [War Surplus](https://open.spotify.com/album/6n3fXuHW9h48ZQkSCRqnfK) | 2:24 |
-| 74 | [Long Haul](https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:01 |
-| 75 | [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 |
+| 74 | [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 |
+| 75 | [Long Haul](https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:01 |
 | 76 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 |
 | 77 | [Trouble Me Anytime](https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:43 |
 | 78 | [Marriage Ain't the End of Being Lonely](https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Magnolia Queen](https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B) | 3:46 |

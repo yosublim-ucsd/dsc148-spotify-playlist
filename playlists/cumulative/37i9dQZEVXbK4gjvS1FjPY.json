@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
+    },
+    {
+      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -2302,6 +2320,28 @@
       "duration_ms": 294521,
       "name": "betty",
       "url": "https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi"
+    },
+    {
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
       "album": {
@@ -14092,7 +14132,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
@@ -16894,7 +16934,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 181602,
       "name": "Say",
       "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
@@ -18758,7 +18798,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo"
@@ -23100,7 +23140,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 188332,
       "name": "XO (Only If You Say Yes)",
       "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"

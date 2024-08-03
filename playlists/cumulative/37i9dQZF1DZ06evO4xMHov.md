@@ -2,9 +2,9 @@
 
 ### [This Is Nívea Soares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xMHov)
 
-> This is Nívea Soares\. The essential tracks, all in one playlist.
+> This is Nívea Soares\. Todos os maiores hits em uma só playlist.
 
-69 songs - 7 hr 51 min
+71 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,11 +46,12 @@
 | [Meu Maior Amor \- Ao Vivo](https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 4:51 | 2023-07-10 |  |
 | [Meu Respirar \- Ao Vivo](https://open.spotify.com/track/695722v5GPk2Uml2Tgv5ly) | [Ministério Vineyard](https://open.spotify.com/artist/2fxknIGrJpQ4Ii3eLS2JHf), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Vem, Esta É a Hora \(Ao Vivo\)](https://open.spotify.com/album/2OCGd9zHZTScNoi7lDQWfT) | 5:55 | 2023-07-10 |  |
 | [Meu Universo \- Acústico](https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Música e Palavra \(Acústico\)](https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4) | 4:27 | 2023-07-10 |  |
-| [Nenhum Deus Como Tu](https://open.spotify.com/track/4mEZLwnqOe3FsSZDW2GPoR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio](https://open.spotify.com/album/2kNPup6bYnOFd74IvvrG8F) | 6:01 | 2023-07-10 |  |
+| [Nenhum Deus Como Tu](https://open.spotify.com/track/4mEZLwnqOe3FsSZDW2GPoR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio](https://open.spotify.com/album/2kNPup6bYnOFd74IvvrG8F) | 6:01 | 2023-07-10 | 2024-08-03 |
 | [Nosso General \- Ao Vivo](https://open.spotify.com/track/7zgTca2zHEWFWnkXf4USLv) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Nosso General \(Ao Vivo\)](https://open.spotify.com/album/3DkQt1f7twyMO3DW1dHYH8) | 3:08 | 2023-07-10 | 2024-06-04 |
 | [Não Descansarei \- Ao Vivo](https://open.spotify.com/track/1L6YlxRzebyqFjui9moArB) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Batendo à Porta \(Ao Vivo\)](https://open.spotify.com/album/0VBtm4EUlP25I2oEOS3TAm) | 6:27 | 2024-07-23 | 2024-07-24 |
 | [Não Mais Escravos](https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Não Mais Escravos](https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB) | 6:47 | 2023-07-10 |  |
 | [Não Seremos Abalados \- Ao Vivo](https://open.spotify.com/track/2RrmHqUvREa3cBt5W854kw) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 5:07 | 2023-07-10 |  |
+| [Não Temerei Jamais \- Ao Vivo](https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Temerei Jamais \(Ao Vivo\)](https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7) | 5:52 | 2024-08-03 |  |
 | [O Leão E A Igreja \(feat\. Nívea Soares\) \- Ao Vivo](https://open.spotify.com/track/1WGYEaDlxW9BTSFVCi664Z) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Preto no Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT) | 4:27 | 2024-06-09 |  |
 | [O Leão E A Igreja \- Ao Vivo](https://open.spotify.com/track/1DZWhBkO9rIEX5IpyRDLgB) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Preto No Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41) | 4:27 | 2023-07-10 | 2024-06-09 |
 | [O Que Tua Glória Fez Comigo \- Ao Vivo](https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO) | [Leo Fonseca](https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [O Que Tua Glória Fez Comigo \(Ao Vivo\)](https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w) | 8:58 | 2024-02-21 |  |
@@ -65,6 +66,7 @@
 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 | 2024-04-12 |  |
 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 | 2023-07-10 |  |
 | [Reina Sobre Mim](https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reina Sobre Mim](https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL) | 6:28 | 2023-07-10 |  |
+| [Ruja o Leão \- MËDNA \- Remix](https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD) | [MËDNA](https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão \- MËDNA Remix](https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq) | 2:48 | 2024-08-03 |  |
 | [Ruja o Leão / Que Se Abram Os Céus \- Ao Vivo](https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão / Que Se Abram Os Céus \(Ao Vivo\)](https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt) | 7:34 | 2023-07-10 |  |
 | [Sangue de Jesus](https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Sangue de Jesus](https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe) | 4:35 | 2023-07-10 | 2024-07-17 |
 | [Sua Justiça Prevalecerá \- Ao Vivo](https://open.spotify.com/track/4V7D0jAi0jQ63KevpcXurL) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 5:07 | 2023-09-25 | 2024-03-27 |

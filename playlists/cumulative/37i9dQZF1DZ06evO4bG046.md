@@ -2,9 +2,9 @@
 
 ### [This Is Los Jaivas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bG046)
 
-> This is Los Jaivas。アーティストの代表曲をひとつのプレイリストに。
+> This Is Los Jaivas\. Los temas esenciales, todos en una lista.
 
-77 songs - 6 hr 57 min
+78 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Los Momentos \(Versión 1997\)](https://open.spotify.com/track/2ywsanmt12Ivz8jI111ItL) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Eduardo Gatti](https://open.spotify.com/artist/4XeXlVlcBAqU4tYCP3SdoY) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 3:35 | 2022-09-16 |  |
 | [Mamalluca](https://open.spotify.com/track/5cZqYxULKUnsi9cHKp78pS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 15:44 | 2022-09-16 |  |
 | [Mambo de Machaguay](https://open.spotify.com/track/7eDAcrYSFM2vNWrCefc9Sm) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 4:56 | 2022-09-16 |  |
-| [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 4:40 | 2022-09-16 |  |
+| [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 4:40 | 2022-09-16 | 2024-08-03 |
 | [Mira Niñita \(Remasterizado 2020\)](https://open.spotify.com/track/6Lg1r56wubG76t2fOF9iNa) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4) | 7:01 | 2023-06-29 |  |
 | [Mira Niñita \(Versión 1996\)](https://open.spotify.com/track/6GYbTb3eLDVdEoRSu6L3iU) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 6:27 | 2022-09-16 | 2023-06-30 |
 | [Niña Serrana](https://open.spotify.com/track/3y0yCmk3tSEILY7HvuoTTy) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 4:17 | 2024-05-27 | 2024-06-02 |
@@ -80,6 +80,7 @@
 | [Un Mar de Gente](https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 4:09 | 2022-09-16 |  |
 | [Valparaíso \(Versión 1996\)](https://open.spotify.com/track/5N9GrZ4WSw5sueo0kQBlYv) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 4:00 | 2022-09-16 |  |
 | [Vamos por Ancho Camino](https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 3:12 | 2023-12-25 | 2024-07-27 |
+| [Verguenza Ajena](https://open.spotify.com/track/6ljLiWQXbJjPElG0p6U1s4) | [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy), [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Macha y el Bloque Depresivo](https://open.spotify.com/album/0xgXqrSz4tx4uapKr46R5J) | 2:38 | 2024-08-03 |  |
 | [Vergüenza Ajena](https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp) | 2:50 | 2022-09-16 |  |
 | [Violeta Ausente](https://open.spotify.com/track/2QrqeZRrMHhj8POCWHDYyQ) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 5:06 | 2022-09-16 |  |
 | [Virgen del Amor](https://open.spotify.com/track/35RP7qnvpvftFj5N5y5dXQ) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 5:08 | 2024-02-10 | 2024-02-14 |

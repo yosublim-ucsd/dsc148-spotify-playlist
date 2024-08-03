@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: fox capture plan
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,951 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,963 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 45 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
 | 46 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 | 47 | [Sunrise](https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Panorama](https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86) | 3:38 |
-| 48 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 |
-| 49 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
+| 48 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
+| 49 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 |
 | 50 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
 
 Snapshot ID: `Zqj/8AAAAACzNmFoNaCV6roBNtFKS6u5`

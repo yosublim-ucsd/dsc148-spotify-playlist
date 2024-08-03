@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Yade Lauren
 
-7,218 songs - 15 day 18 hr 27 min
+7,219 songs - 15 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4186,6 +4186,7 @@
 | [My All](https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [My All](https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH) | 4:00 | 2023-07-20 | 2023-07-28 |
 | [My Baby La La](https://open.spotify.com/track/4AvB7BcWXkdQXefCyIVcrB) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm), [YONII](https://open.spotify.com/artist/7H3TyvM3dpW78cru0Oaui9) | [My Baby La La](https://open.spotify.com/album/16UA5lo1OBlXS6qyufcfLm) | 2:34 | 2024-07-04 | 2024-07-12 |
 | [My Bad](https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [My Bad](https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b) | 2:27 | 2023-07-27 | 2023-08-04 |
+| [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-01 |  |
 | [My Best Self](https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [My Best Self](https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl) | 3:05 | 2023-08-17 | 2023-08-25 |
 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 | 2023-06-15 | 2023-06-23 |
 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 | 2024-02-01 | 2024-02-09 |

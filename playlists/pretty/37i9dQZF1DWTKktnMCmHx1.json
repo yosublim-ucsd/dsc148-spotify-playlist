@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 94992,
+  "num_followers": 94980,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,30 @@
     {
       "added_at": "2024-07-03 19:39:03",
       "album": {
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 202794,
+      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+    },
+    {
+      "added_at": "2024-07-03 19:39:03",
+      "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
       },
@@ -839,26 +863,22 @@
     {
       "added_at": "2024-07-03 19:39:03",
       "album": {
-        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 202794,
-      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2024-07-03 19:39:03",
@@ -883,26 +903,6 @@
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
-    },
-    {
-      "added_at": "2024-07-03 19:39:03",
-      "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2024-07-03 19:39:03",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-07-03 19:39:03",
       "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
+    },
+    {
+      "added_at": "2024-07-03 19:39:03",
+      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 201845,
       "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
-    },
-    {
-      "added_at": "2024-07-03 19:39:03",
-      "album": {
-        "name": "Hustle Mixtape",
-        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Capri Sun",
-      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     },
     {
       "added_at": "2024-07-03 19:39:03",

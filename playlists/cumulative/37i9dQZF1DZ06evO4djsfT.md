@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 27 min
+76 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Die Rich](https://open.spotify.com/track/6BKu8kCqUoQy0BFgnOYMJr) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ray Emmanuel](https://open.spotify.com/artist/1VDmG7pIFozqBrmj0LynQd) | [Die Rich](https://open.spotify.com/album/7gHS6ywjV1BSg0roKiEoR0) | 4:02 | 2023-03-17 | 2023-03-20 |
 | [Dnou](https://open.spotify.com/track/2fBhHFsXlV23ENM4nEBsVT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:00 | 2023-03-17 | 2023-08-20 |
 | [DNOU2](https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [DNOU2](https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69) | 3:44 | 2023-03-17 | 2023-08-20 |
+| [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 | 2024-08-03 |  |
 | [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-19 |  |
 | [Free KayMuni](https://open.spotify.com/track/72ndmYCKcUm9jpqDXCyHmC) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [KayMuni](https://open.spotify.com/artist/1OdRfN5lRo8QcMTpFTCtp5), [KB](https://open.spotify.com/artist/6jpQmGxDnk55k0i61iKN3a) | [Thanks For Hating](https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7) | 2:56 | 2024-02-25 | 2024-02-29 |
-| [Friends](https://open.spotify.com/track/5BJJSqA42n4aZGMaFZJHeH) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:30 | 2024-02-18 |  |
+| [Friends](https://open.spotify.com/track/5BJJSqA42n4aZGMaFZJHeH) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:30 | 2024-02-18 | 2024-08-03 |
 | [Glory 2 Glory](https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory 2 Glory](https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP) | 3:07 | 2023-07-08 | 2024-01-21 |
 | [Glory 2 Glory](https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:07 | 2024-01-20 |  |
 | [God Be The Glory \(Remix\)](https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Be The Glory \(Remix\)](https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF) | 3:48 | 2024-07-29 |  |

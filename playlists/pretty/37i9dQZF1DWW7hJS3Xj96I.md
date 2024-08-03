@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 
 > ¡Baila con los mejores éxitos de los 90! Ricky Martin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,433 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,583 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 | 27 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
 | 28 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
 | 29 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 |
-| 30 | [María](https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:22 |
+| 30 | [La pachanga](https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:41 |
 | 31 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
-| 32 | [La pachanga](https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:41 |
+| 32 | [María](https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:22 |
 | 33 | [Pelo Suelto](https://open.spotify.com/track/1H8aAoRO817bygKpgvAcpf) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:26 |
 | 34 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
 | 35 | [Media Naranja](https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Fey](https://open.spotify.com/album/28ibwBS08IFdLkcmYSN7Jh) | 3:41 |
 | 36 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 |
-| 37 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 |
-| 38 | [Que Bueno Baila Usted](https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Llego La Salsa](https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI) | 3:36 |
+| 37 | [Que Bueno Baila Usted](https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Llego La Salsa](https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI) | 3:36 |
+| 38 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 |
 | 39 | [The Summer Is Magic \- Radio Mix](https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \- Ep](https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab) | 3:56 |
 | 40 | [Enloquéceme](https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Lo Mejor De OV7](https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0) | 4:09 |
 | 41 | [Mírame a los Ojos](https://open.spotify.com/track/0q3P0vjpqqswJSukITnfZA) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 4:22 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 | 44 | [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 |
 | 45 | [¿Donde Están?](https://open.spotify.com/track/3LIOqIGge9NmgXuzbkOmIf) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Historias De Amor: Lo Mejor De Sentidos Opuestos](https://open.spotify.com/album/1ve3pQBkzBRbTRR36PH0Tv) | 4:27 |
 | 46 | [Explota Corazón](https://open.spotify.com/track/2fRynroc69YxU3c4w9RCPI) | [Mercurio](https://open.spotify.com/artist/5A3jmdFMr6pd76VS5sblRV) | [Chicas Chic](https://open.spotify.com/album/3ohvS7kECZaPGdK2D6XJ2S) | 3:39 |
-| 47 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Serie 2000](https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR) | 4:20 |
-| 48 | [Oye Mi Amor](https://open.spotify.com/track/2VDBHPv9uXrBS50WnwrERY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Las Clasicas Rock Pop en Espanol](https://open.spotify.com/album/1U0V7DcnyILGqhtYjwfgqi) | 4:23 |
+| 47 | [Oye Mi Amor](https://open.spotify.com/track/2VDBHPv9uXrBS50WnwrERY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Las Clasicas Rock Pop en Espanol](https://open.spotify.com/album/1U0V7DcnyILGqhtYjwfgqi) | 4:23 |
+| 48 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Serie 2000](https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR) | 4:20 |
 | 49 | [No es lo mismo](https://open.spotify.com/track/6p7KLIvLhnACzXHuUi00zs) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Grandes exitos 1997\-2004](https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK) | 5:59 |
 | 50 | [Mirala Miralo](https://open.spotify.com/track/7xSvBMiquYNDfg1Vt2W9Rv) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [16 Éxitos De Oro](https://open.spotify.com/album/6ugipz6Zx3IWPW4hGPP9Fk) | 4:04 |
 

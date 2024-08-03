@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 824078,
+  "num_followers": 824353,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -803,6 +803,42 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 253770,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
       },
@@ -851,46 +887,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "All By Myself",
-        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 171747,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -915,22 +911,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 253770,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Peru (Peace Control Remix)",
-        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        }
-      ],
-      "duration_ms": 287179,
-      "name": "Peru - Peace Control Remix",
-      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Corpo e Can\u00e7\u00e3o (Club Mix)",
         "url": "https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 275409,
       "name": "Corpo e Can\u00e7\u00e3o - Club Mix",
       "url": "https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Peru (Peace Control Remix)",
+        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        }
+      ],
+      "duration_ms": 287179,
+      "name": "Peru - Peace Control Remix",
+      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
     },
     {
       "added_at": "2024-07-26 04:00:00",

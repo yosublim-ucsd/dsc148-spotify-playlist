@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 ### [This Is Bonnie Raitt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MOc1x)
 
-> This is Bonnie Raitt\. The essential tracks, all in one playlist.
+> This is Bonnie Raitt\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,052 likes - 51 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,055 likes - 51 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 2 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 |
 | 3 | [Something To Talk About](https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:47 |
 | 4 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 |
-| 5 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 |
-| 6 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 |
+| 5 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 |
+| 6 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 |
 | 7 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
 | 8 | [Nick Of Time](https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 |
 | 9 | [Baby I Love You](https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:01 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 42 | [Live Wire](https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 5:09 |
 | 43 | [I Don't Want Anything To Change \- Live](https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Bonnie Raitt And Friends](https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A) | 5:00 |
 | 44 | [Blame it On Me](https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:47 |
-| 45 | [Not Cause I Wanted To](https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 3:32 |
-| 46 | [Cry On My Shoulder](https://open.spotify.com/track/6YQ2RgaJVn2aeFFsNHB4Yb) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:44 |
-| 47 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
-| 48 | [Louise \- 2008 Remaster](https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 2:45 |
+| 45 | [Cry On My Shoulder](https://open.spotify.com/track/6YQ2RgaJVn2aeFFsNHB4Yb) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:44 |
+| 46 | [Not Cause I Wanted To](https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 3:32 |
+| 47 | [Louise \- 2008 Remaster](https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 2:45 |
+| 48 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
 | 49 | [Need You Tonight](https://open.spotify.com/track/0GNQAGdA4i46QxT8qZx0mG) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 3:19 |
 | 50 | [Love Letters](https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 4:00 |
 | 51 | [Guilty \- 2008 Remaster](https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:00 |
 
-Snapshot ID: `Zql+gAAAAAAv5PnDI1DgmnAsOR1Q+heC`
+Snapshot ID: `ZqrQAAAAAABxQYgqxuulAMmR1MjBiaGh`

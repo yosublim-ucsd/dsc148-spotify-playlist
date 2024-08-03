@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,830 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,874 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 45 | [La Mejor De Todas](https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Quiero Ser Tu Amor](https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16) | 3:39 |
 | 46 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
 | 47 | [Muchachita Linda](https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Todo Tiene Su Hora](https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2) | 3:23 |
-| 48 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
-| 49 | [Bellas](https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Historia de Mi Vida: El Final, Vol\. 1](https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk) | 4:03 |
+| 48 | [Bellas](https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Historia de Mi Vida: El Final, Vol\. 1](https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk) | 4:03 |
+| 49 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
 | 50 | [Me Voy \- Bachata](https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:02 |
 | 51 | [Bailando Con El](https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Directo Al Corazon](https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh) | 3:41 |
 | 52 | [Ya No Te Buscaré](https://open.spotify.com/track/1CIUos10Or0tFaf4ZhaSfW) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 3:36 |

@@ -519,10 +519,14 @@
     },
     {
       "album": {
-        "name": "Prince (Tamil)",
+        "name": "Bimbilikki Pilapi (From \"Prince \")(Tamil)",
         "url": "https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA"
       },
       "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
@@ -534,13 +538,17 @@
         {
           "name": "Sahithi Chaganti",
           "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247000,
-      "name": "Bimbilikki Pilapi",
+      "name": "Bimbilikki Pilapi (From \"Prince \")(Tamil)",
       "url": "https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV"
     },
     {
@@ -2903,7 +2911,7 @@
     },
     {
       "album": {
-        "name": "Double ISMART (Tamil)",
+        "name": "SteppaMaar (From \"Double ISMART \")(Tamil)",
         "url": "https://open.spotify.com/album/4DBc3zAiZ4oDkHAyuAO0TU"
       },
       "artists": [
@@ -2928,7 +2936,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232599,
-      "name": "SteppaMaar",
+      "name": "SteppaMaar (From \"Double ISMART \")(Tamil)",
       "url": "https://open.spotify.com/track/1neavjLyyP0ZOa5Fy48BES"
     },
     {
@@ -3581,10 +3589,14 @@
     },
     {
       "album": {
-        "name": "Prince (Tamil)",
+        "name": "Who Am I ? (From \"Prince \")(Tamil)",
         "url": "https://open.spotify.com/album/768hQJ2fKFv4Lq4TE0J1Hj"
       },
       "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
         {
           "name": "Arivu",
           "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
@@ -3594,7 +3606,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 243000,
-      "name": "Who Am I ?",
+      "name": "Who Am I ? (From \"Prince \")(Tamil)",
       "url": "https://open.spotify.com/track/1zPlQih67ZvC3Xp6c2dxUI"
     },
     {

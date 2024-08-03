@@ -4,7 +4,7 @@
 
 > el amor es <3
 
-183 songs - 10 hr 9 min
+184 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [atravesao](https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:20 | 2023-02-14 |  |
 | [Aurana Espérame](https://open.spotify.com/track/0JwJElZzKXF4TnzN30uxZw) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:03 | 2022-07-19 | 2022-09-24 |
 | [Aurana Espérame](https://open.spotify.com/track/6SttgyyLpYWSbyF0E9Sech) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Aurana Espérame](https://open.spotify.com/album/0g2FOn3grDey9wxcsCLzOl) | 3:03 | 2022-02-25 | 2022-07-29 |
-| [Automático](https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Automático](https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI) | 3:06 | 2022-12-09 |  |
+| [Automático](https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Automático](https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI) | 3:06 | 2022-12-09 | 2024-08-03 |
 | [Bemaste](https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Bemaste](https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO) | 2:24 | 2023-01-27 | 2024-02-17 |
 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 | 2022-02-25 | 2022-06-25 |
 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 | 2022-06-24 |  |
@@ -103,6 +103,7 @@
 | [Miedo](https://open.spotify.com/track/5GJl5QdhQ7ZrYuTamGnPBj) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Miedo](https://open.spotify.com/album/7GnOZrSoKrxbEiTvYG0ri8) | 3:20 | 2022-02-25 | 2024-05-16 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-02-25 |  |
 | [Mientras Duermes](https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Mientras Duermes](https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3) | 3:39 | 2022-02-25 | 2023-01-12 |
+| [misa](https://open.spotify.com/track/0sfpzvSPMTq14wpUyIQZvQ) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [misa](https://open.spotify.com/album/0CsMSgdBsn3V5Cz8qVQUfW) | 2:21 | 2024-08-02 |  |
 | [MKOB](https://open.spotify.com/track/1fsv79A1dFFlyZoTP9XJLG) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:16 | 2023-06-22 | 2024-02-17 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-28 | 2024-02-17 |
 | [Morra](https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Morra](https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg) | 3:37 | 2024-06-28 |  |

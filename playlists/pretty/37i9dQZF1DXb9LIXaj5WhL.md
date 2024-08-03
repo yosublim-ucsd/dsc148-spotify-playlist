@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,357,802 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,357,844 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 2 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 3 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
-| 4 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
-| 5 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 4 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 5 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
 | 6 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
 | 7 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
 | 8 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |

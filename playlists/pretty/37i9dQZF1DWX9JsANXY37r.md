@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,595 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,604 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 54 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |
 | 55 | [Solita](https://open.spotify.com/track/555ix1gW9A1QtXoVfCPbfB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Solita](https://open.spotify.com/album/1SvuC2OLkAJnuNhZNDohIR) | 2:57 |
 | 56 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
-| 57 | [3am](https://open.spotify.com/track/1WH96QFPIhxlnATR0K90KX) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Gone Are the Days \(Shimokita Import\)](https://open.spotify.com/album/4VYRDmgRCtl3gpDbfD4Agv) | 3:48 |
-| 58 | [Amor de Domingo](https://open.spotify.com/track/2BdSUjGlGxXZX2IK9DkTkc) | [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N), [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf) | [Amor de Domingo](https://open.spotify.com/album/0nc3EbdVSfsXT08FybsT4j) | 2:34 |
+| 57 | [Amor de Domingo](https://open.spotify.com/track/2BdSUjGlGxXZX2IK9DkTkc) | [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N), [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf) | [Amor de Domingo](https://open.spotify.com/album/0nc3EbdVSfsXT08FybsT4j) | 2:34 |
+| 58 | [3am](https://open.spotify.com/track/1WH96QFPIhxlnATR0K90KX) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Gone Are the Days \(Shimokita Import\)](https://open.spotify.com/album/4VYRDmgRCtl3gpDbfD4Agv) | 3:48 |
 | 59 | [Feel Your Weight](https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:09 |
 | 60 | [Why Don't You](https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Why Don't You](https://open.spotify.com/album/7r5PM8SStmdYllgsGfe65u) | 3:52 |
 
-Snapshot ID: `ZqpzbgAAAABBAKtevD6R81SjM8GU9ycs`
+Snapshot ID: `ZqzKKAAAAAAVrW7jaQUnwuYwT1zh/fFP`

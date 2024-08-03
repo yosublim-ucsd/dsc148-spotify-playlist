@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,940 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,939 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 23 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 |
 | 24 | [but I'll wait for you](https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 1:59 |
 | 25 | [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 |
-| 26 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
-| 27 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
+| 26 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
+| 27 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
 | 28 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
 | 29 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 |
 | 30 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 35 | [Forest \(feat\. Claire Young\)](https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Forest](https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe) | 3:28 |
 | 36 | [Poker \(Feat\. Dvwn\)](https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
 | 37 | [This Night](https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SINK](https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN) | 3:10 |
-| 38 | [m o v i e \(Feat\. Jade\)](https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [m o v i e](https://open.spotify.com/album/02XiYEnw92DRIBrfSFoFBP) | 3:17 |
-| 39 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 |
+| 38 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 |
+| 39 | [m o v i e \(Feat\. Jade\)](https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [m o v i e](https://open.spotify.com/album/02XiYEnw92DRIBrfSFoFBP) | 3:17 |
 | 40 | [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 |
 | 41 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
 | 42 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |

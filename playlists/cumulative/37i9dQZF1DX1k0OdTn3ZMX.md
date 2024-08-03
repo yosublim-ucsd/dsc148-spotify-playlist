@@ -2,7 +2,7 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Silent Theory.
+> nü\-metal revival is happening here and now with Freddie D.
 
 178 songs - 10 hr 13 min
 

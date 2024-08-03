@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 163637,
+  "num_followers": 163716,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Blues-A-Plenty",
-        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
-        }
-      ],
-      "duration_ms": 212813,
-      "name": "Didn't Know About You",
-      "url": "https://open.spotify.com/track/1UjcfBPJt8mMvJ5QyfaWuq"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "Love Is Here To Stay",
         "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 170186,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "Blues-A-Plenty",
+        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "duration_ms": 212813,
+      "name": "Didn't Know About You",
+      "url": "https://open.spotify.com/track/1UjcfBPJt8mMvJ5QyfaWuq"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
       },
       "artists": [
         {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
         }
       ],
-      "duration_ms": 183960,
-      "name": "My Heart Belongs to Daddy",
-      "url": "https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G"
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -543,6 +527,22 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "My Heart Belongs to Daddy",
+      "url": "https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 235533,
       "name": "But For Now",
       "url": "https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Sweet Lorraine",
+      "url": "https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -575,22 +591,6 @@
       "duration_ms": 250936,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Sweet Lorraine",
-      "url": "https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 213906,
+      "name": "Please Don\u2019t Kiss Me",
+      "url": "https://open.spotify.com/track/53BNQYtpEJu1lmOVkYRWTL"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
         "name": "Close to You (with Jacky Terrasson Trio)",
         "url": "https://open.spotify.com/album/55F0v4gDfpFdyLqhvFQcvY"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 213906,
-      "name": "Please Don\u2019t Kiss Me",
-      "url": "https://open.spotify.com/track/53BNQYtpEJu1lmOVkYRWTL"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
+        "name": "The Sound of Music",
+        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        }
+      ],
+      "duration_ms": 245148,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/1g7TW3FbyhPzxBLLGSNFkd"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 216124,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
-        "name": "The Sound of Music",
-        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        }
-      ],
-      "duration_ms": 245148,
-      "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
+        "name": "12th Avenue",
+        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 277065,
+      "name": "12th Avenue",
+      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
         "name": "This Bitter Earth",
         "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 194973,
       "name": "Lonely Waltz",
       "url": "https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
-        "name": "12th Avenue",
-        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 277065,
-      "name": "12th Avenue",
-      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Entre eux deux",
-        "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 284986,
-      "name": "Darling Fare Thee Well",
-      "url": "https://open.spotify.com/track/2IB2SEntcZb2tc0oD49P5U"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 444306,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "Entre eux deux",
+        "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "Darling Fare Thee Well",
+      "url": "https://open.spotify.com/track/2IB2SEntcZb2tc0oD49P5U"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 312786,
-      "name": "And So It Goes",
-      "url": "https://open.spotify.com/track/703WlQONsXodIABGbGvF6M"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -1223,22 +1207,18 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Perhaps You\u2019ll Wonder Why",
-        "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
       },
       "artists": [
         {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
         }
       ],
-      "duration_ms": 285306,
-      "name": "Perhaps You'll Wonder Why",
-      "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
+      "duration_ms": 312786,
+      "name": "And So It Goes",
+      "url": "https://open.spotify.com/track/703WlQONsXodIABGbGvF6M"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -1255,6 +1235,42 @@
       "duration_ms": 449000,
       "name": "Lucky To Be Me",
       "url": "https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 403429,
+      "name": "Confession / The Other Woman",
+      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "Perhaps You\u2019ll Wonder Why",
+        "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "duration_ms": 285306,
+      "name": "Perhaps You'll Wonder Why",
+      "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 403429,
-      "name": "Confession / The Other Woman",
-      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "When Sunny Gets Blue",
         "url": "https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR"
       },
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
+        "name": "The Moon and the Sky",
+        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "The Moon and the Sky",
+      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
         "name": "Return To You",
         "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "The Moon and the Sky",
-        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
+        "name": "The Best Of Dianne Reeves",
+        "url": "https://open.spotify.com/album/7CSRH0IYxm0dZNpfwkNKGz"
       },
       "artists": [
         {
-          "name": "Mar\u00edna \u00d3sk",
-          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
         }
       ],
-      "duration_ms": 202000,
-      "name": "The Moon and the Sky",
-      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
+      "duration_ms": 356960,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/5qauSfvYgvZK1rRb0jKmo9"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -1403,22 +1419,6 @@
       "duration_ms": 379427,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
-        "name": "The Best Of Dianne Reeves",
-        "url": "https://open.spotify.com/album/7CSRH0IYxm0dZNpfwkNKGz"
-      },
-      "artists": [
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 356960,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/5qauSfvYgvZK1rRb0jKmo9"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Embraceable You",
-        "url": "https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6"
-      },
-      "artists": [
-        {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        }
-      ],
-      "duration_ms": 288664,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "Strings",
         "url": "https://open.spotify.com/album/6oaOeKa70xXJ1QIMBerp3N"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 214906,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/1q573uXh0Rc78qTXDMQ35D"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "Embraceable You",
+        "url": "https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        }
+      ],
+      "duration_ms": 288664,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Even If It Breaks My Heart",
-      "url": "https://open.spotify.com/track/1rwoZHIH9rcUmgzn6Y8l30"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "The Art of Jazz with Ben Besiakov",
         "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 319955,
       "name": "Emily",
       "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Even If It Breaks My Heart",
+      "url": "https://open.spotify.com/track/1rwoZHIH9rcUmgzn6Y8l30"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Cloudy (With a Chance of Rain)",
-        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Cloudy (With a Chance of Rain)",
-      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "I Love A Love Song!",
         "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 213431,
       "name": "Hate is the Basis (of Love)",
       "url": "https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "Cloudy (With a Chance of Rain)",
+        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Cloudy (With a Chance of Rain)",
+      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Now Pronouncing: Caity Gyorgy",
-        "url": "https://open.spotify.com/album/4uhLfLaqoYyOww0elnoSyv"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "There by the Door",
-      "url": "https://open.spotify.com/track/6xuskbyiFsUyHKiibJyDsQ"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "Tell Him I Said Hello",
         "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
       },
@@ -2227,22 +2211,6 @@
       "duration_ms": 266138,
       "name": "I Didn't Know About You",
       "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
-        "name": "In the Space Between Our Souls",
-        "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Saga",
-          "url": "https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F"
-        }
-      ],
-      "duration_ms": 413916,
-      "name": "In the Space Between Our Souls",
-      "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -2263,6 +2231,38 @@
       "duration_ms": 166506,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/66lXU76DwetHysKwFyLLQd"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "Now Pronouncing: Caity Gyorgy",
+        "url": "https://open.spotify.com/album/4uhLfLaqoYyOww0elnoSyv"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "There by the Door",
+      "url": "https://open.spotify.com/track/6xuskbyiFsUyHKiibJyDsQ"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "In the Space Between Our Souls",
+        "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Saga",
+          "url": "https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F"
+        }
+      ],
+      "duration_ms": 413916,
+      "name": "In the Space Between Our Souls",
+      "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1H1HA3q5mq61SFUs9HIhoT"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "A Bad Case Of The Blues",
+      "url": "https://open.spotify.com/track/6Mdh8mHdajX5slhofHJkKB"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/4PQmBwEbCbg2eq4RJU1lf5"
       },
@@ -2411,22 +2427,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1H1HA3q5mq61SFUs9HIhoT"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 157293,
-      "name": "A Bad Case Of The Blues",
-      "url": "https://open.spotify.com/track/6Mdh8mHdajX5slhofHJkKB"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "It Ends Now",
         "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
       },
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/2ZUrlorLVAPZVxEv06G3fD"
       },
@@ -2463,22 +2479,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "The Uptown Shuffle",
-        "url": "https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A"
-      },
-      "artists": [
-        {
-          "name": "Vincent Herring",
-          "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
-        }
-      ],
-      "duration_ms": 618107,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "Sketchbook of Dreams",
         "url": "https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k"
       },
@@ -2491,6 +2491,22 @@
       "duration_ms": 225419,
       "name": "Sketchbook of Dreams (Radio Edit)",
       "url": "https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "The Uptown Shuffle",
+        "url": "https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A"
+      },
+      "artists": [
+        {
+          "name": "Vincent Herring",
+          "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
+        }
+      ],
+      "duration_ms": 618107,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -2539,18 +2555,18 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+        "name": "One Evening in July",
+        "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
       },
       "artists": [
         {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
         }
       ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+      "duration_ms": 296720,
+      "name": "Happy Little Sunshine Beam",
+      "url": "https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -2567,22 +2583,6 @@
       "duration_ms": 351680,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/11Ixvu6JuymPvgpOhQlR1M"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
-        "name": "One Evening in July",
-        "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edna \u00d3sk",
-          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
-        }
-      ],
-      "duration_ms": 296720,
-      "name": "Happy Little Sunshine Beam",
-      "url": "https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm"
     },
     {
       "added_at": "2024-07-19 12:09:29",
@@ -2795,22 +2795,6 @@
     {
       "added_at": "2024-07-19 12:09:29",
       "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/6QwB907QohtgBTpWgVrxbv"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/0kx3X2Q2sf02QWmZ1O2Kh2"
-    },
-    {
-      "added_at": "2024-07-19 12:09:29",
-      "album": {
         "name": "Body and Soul",
         "url": "https://open.spotify.com/album/6UCYfwfmB0RH1bJNUwImba"
       },
@@ -2827,6 +2811,22 @@
       "duration_ms": 293349,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/7oAwrxuYJeqVEHaWijmogp"
+    },
+    {
+      "added_at": "2024-07-19 12:09:29",
+      "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/6QwB907QohtgBTpWgVrxbv"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/0kx3X2Q2sf02QWmZ1O2Kh2"
     },
     {
       "added_at": "2024-07-19 12:09:29",

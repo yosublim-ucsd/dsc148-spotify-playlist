@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,759,050 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,759,023 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 12 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
 | 13 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |
 | 14 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
-| 15 | [tu fan](https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tu fan](https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx) | 4:00 |
-| 16 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
+| 15 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
+| 16 | [tu fan](https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tu fan](https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx) | 4:00 |
 | 17 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 |
 | 18 | [Intercambio Injusto](https://open.spotify.com/track/0Jv1VuDC57QUvMEd1CpkNW) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Intercambio Injusto](https://open.spotify.com/album/6GFqNV8XbAMPkXZeW81z2Y) | 3:25 |
 | 19 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |

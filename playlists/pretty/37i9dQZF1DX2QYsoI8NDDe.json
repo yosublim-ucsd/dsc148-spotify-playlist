@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Victoria La Mala",
-  "num_followers": 488249,
+  "num_followers": 488261,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt"
+    },
+    {
+      "added_at": "2024-06-28 20:10:54",
+      "album": {
         "name": "Si Dej\u00f3 de Quererte",
         "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 203573,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv"
-    },
-    {
-      "added_at": "2024-06-28 20:10:54",
-      "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt"
     },
     {
       "added_at": "2024-06-28 20:10:54",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+        "name": "Cu\u00e9ntenle Mentiras",
+        "url": "https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Sheyla",
+          "url": "https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh"
         }
       ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
+      "duration_ms": 198000,
+      "name": "Cu\u00e9ntenle Mentiras",
+      "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
     }
   ],
   "unique_name": "Las Chacalosas",

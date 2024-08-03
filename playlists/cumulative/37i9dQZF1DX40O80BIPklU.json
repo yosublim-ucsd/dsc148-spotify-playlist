@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Milo J en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Canserbero en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -264,6 +264,24 @@
       "duration_ms": 178349,
       "name": "A Mi Lado",
       "url": "https://open.spotify.com/track/6cvMmviJTZTBOFh2ohwZg6"
+    },
+    {
+      "album": {
+        "name": "Gu\u00eda para la Acci\u00f3n",
+        "url": "https://open.spotify.com/album/5KfKAvcpsa4qdniJUEPTm7"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517177,
+      "name": "Advertencia",
+      "url": "https://open.spotify.com/track/2BuAonkolCAAwvhimP6Il0"
     },
     {
       "album": {
@@ -3729,6 +3747,40 @@
     },
     {
       "album": {
+        "name": "La Cuadra",
+        "url": "https://open.spotify.com/album/1hD8pS5opSkvrEpXar8sbT"
+      },
+      "artists": [
+        {
+          "name": "Oblivion's Mighty Trash",
+          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
+        },
+        {
+          "name": "Isaac S.A",
+          "url": "https://open.spotify.com/artist/0QNBeVFXhd6ikB88erZU1j"
+        },
+        {
+          "name": "Adam Walsh",
+          "url": "https://open.spotify.com/artist/23ozeFYmYIu8TdzcHnfeVI"
+        },
+        {
+          "name": "Barbatos Beats",
+          "url": "https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh"
+        },
+        {
+          "name": "Diavlitx",
+          "url": "https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "La Cuadra",
+      "url": "https://open.spotify.com/track/2rC7SeiSdTXyOEjireVlnf"
+    },
+    {
+      "album": {
         "name": "La Escuela",
         "url": "https://open.spotify.com/album/2wjVKjLqiuQkEkNBkrM3ib"
       },
@@ -5057,6 +5109,32 @@
     },
     {
       "album": {
+        "name": "Mi Psique",
+        "url": "https://open.spotify.com/album/0Ne0ybMfVliyZKHBWao02T"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        },
+        {
+          "name": "AleexBeat",
+          "url": "https://open.spotify.com/artist/5PbplyZA0CGKWULBPfXMaY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197761,
+      "name": "Mi Psique",
+      "url": "https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H"
+    },
+    {
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/38H1ajetO9g4ROXNUEIsCx"
       },
@@ -5468,7 +5546,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 167746,
       "name": "NEZA",
       "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
@@ -6419,6 +6497,36 @@
     },
     {
       "album": {
+        "name": "Que Zumbe Mi Voz",
+        "url": "https://open.spotify.com/album/7rIFedz4DVPPw4vdb40EZw"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "name": "Aerstame",
+          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
+        },
+        {
+          "name": "Jrbextz",
+          "url": "https://open.spotify.com/artist/2yq6HRmiyockVzLndwmU7U"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280500,
+      "name": "Que Zumbe Mi Voz",
+      "url": "https://open.spotify.com/track/4H8jNYyqDsNdka5KXz7on6"
+    },
+    {
+      "album": {
         "name": "Querer Querernos",
         "url": "https://open.spotify.com/album/7xTUjhiCQyxFFUDHDNcW29"
       },
@@ -6764,7 +6872,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 214736,
       "name": "Retumbando en la Ciudad",
       "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
@@ -7786,7 +7894,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 177756,
       "name": "Tiempo y Espacio",
       "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"

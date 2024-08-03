@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-492 songs - 1 day 0 hr 5 min
+498 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Cloudology](https://open.spotify.com/track/6NGbBlz6b95e6zDDSDvf8J) | [Moomu](https://open.spotify.com/artist/2eZRi0tR0RmIwq6lx3TEZt) | [Aguatic](https://open.spotify.com/album/1WSU1HlUTsOoa051MqIP6u) | 3:07 | 2023-03-31 | 2023-12-09 |
 | [Coastline](https://open.spotify.com/track/56ovbPD58pnbowpTbVP6u7) | [Peaceful Storm](https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm) | [Coastline](https://open.spotify.com/album/6MUO96TQJtIvvguAqzD1gp) | 2:45 | 2024-02-08 |  |
 | [Collide](https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Collide](https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx) | 3:13 | 2023-03-31 | 2024-02-09 |
+| [Come Wander](https://open.spotify.com/track/1d0sc4npZeCAxX4YRuaCNG) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [Come Wander](https://open.spotify.com/album/25ESaoBZ0Owj3a0wNNrFd6) | 2:30 | 2024-08-02 |  |
 | [Composed](https://open.spotify.com/track/07446huSYQMPjNyMMyAzSx) | [Genki Desu](https://open.spotify.com/artist/6Qf1TunOhzHCzTiIwZNrMp) | [Composed](https://open.spotify.com/album/378amdSHWpQPYO3mPFIrQ2) | 2:48 | 2024-02-08 |  |
 | [Confianza](https://open.spotify.com/track/5MN8kJAw4b4lgNlz1KO32M) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Confianza](https://open.spotify.com/album/168r4UP4oBoygnv2Y47oLp) | 3:18 | 2023-03-31 | 2024-01-18 |
 | [Configuration](https://open.spotify.com/track/66QmlqypHwaune2fOlptt5) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Configuration](https://open.spotify.com/album/0DM9y4ZJrfzrh9M3tItUZk) | 2:50 | 2024-03-20 | 2024-05-05 |
@@ -167,6 +168,7 @@
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2023-03-31 | 2024-02-09 |
 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 | 2023-03-31 | 2024-05-05 |
 | [Ethereal Sleep](https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep](https://open.spotify.com/album/3e0UCZ7yJFghUOoAgojhoX) | 2:04 | 2023-03-31 | 2024-05-05 |
+| [Etherealism](https://open.spotify.com/track/5xcMiHMYeXbjdcYUDYzZzL) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Etherealism](https://open.spotify.com/album/2uk1QgUcIbDYyrFmrnVNEn) | 3:30 | 2024-08-02 |  |
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2023-03-31 | 2024-02-09 |
 | [Evangeline](https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Evangeline](https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq) | 2:57 | 2024-03-20 | 2024-05-05 |
 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2023-03-31 | 2024-03-21 |
@@ -215,6 +217,7 @@
 | [Gruis Silentium](https://open.spotify.com/track/30XdBC7802TJIsTurWWI7T) | [Lukasti](https://open.spotify.com/artist/44iToUPW0yX9V7edv2ZgWd) | [Gruis Silentium](https://open.spotify.com/album/2ZzhFG4xH98UysJqdfuUUz) | 2:38 | 2024-01-17 |  |
 | [Harmless 417 Hz](https://open.spotify.com/track/2bH8j0OZJMudcwpxqlmFyF) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [Harmless 417 Hz](https://open.spotify.com/album/1HYpP4M5rRaJPDBbhfDnuy) | 2:55 | 2024-01-17 | 2024-07-16 |
 | [Harmonic Clouds](https://open.spotify.com/track/5umtWFlo2kVPO8kxt0XhBI) | [Clunieux](https://open.spotify.com/artist/7xBhOeyWNHk7r0Fl3I9d1k) | [Harmonic Clouds](https://open.spotify.com/album/3XfKO4bOiGszE5U4nByU2Q) | 2:41 | 2024-01-13 |  |
+| [Harvest Moon](https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Harvest Moon](https://open.spotify.com/album/0QU5tC1BhoRXa9vbe88QQd) | 3:08 | 2024-08-02 |  |
 | [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2023-03-31 | 2023-12-09 |
 | [Houd me vast](https://open.spotify.com/track/6c7RxrwbJkLaWZHj7nX1tm) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Houd me vast](https://open.spotify.com/album/0PzBc1gaKGp5EtdTp0Bvmh) | 3:38 | 2023-03-31 | 2024-02-09 |
 | [Huayna Potosi](https://open.spotify.com/track/2PWHrFAlSGROVbJEE4ZEEV) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Huayna Potosi](https://open.spotify.com/album/047WHL1HMDdjZOnSp3JOxP) | 3:41 | 2023-03-31 | 2024-03-21 |
@@ -374,6 +377,7 @@
 | [Seeking Solace](https://open.spotify.com/track/4P3rf7bwHPHVl6w35aE7Ej) | [Benjamin Mounfield](https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD) | [Seeking Solace](https://open.spotify.com/album/6Y13gSWy6ajX4IZRQleN9E) | 2:12 | 2024-04-05 |  |
 | [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2023-03-31 | 2023-06-10 |
 | [Sensibility](https://open.spotify.com/track/6i1rajo3ylTTlD3DCITSTo) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Sensibility](https://open.spotify.com/album/58EFgaGnzP9Xwxq1VN9jZ9) | 2:36 | 2024-05-20 | 2024-07-10 |
+| [Serendipity](https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Serendipity](https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX) | 2:31 | 2024-08-02 |  |
 | [Serenities](https://open.spotify.com/track/2NS1ftYFakh4U1ETAc4vbe) | [Harry Valentin](https://open.spotify.com/artist/04JBf9eOjPHRiBnFqw85gr) | [Serenities](https://open.spotify.com/album/0Fi9mtDS0A7ha7p4e3b9QO) | 3:26 | 2024-01-13 | 2024-07-16 |
 | [Serenity](https://open.spotify.com/track/0mIZucxdkk7uAbQi06ZhA6) | [Erlah](https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP) | [Serenity](https://open.spotify.com/album/5Fmy9yXYD1Rm5HPLvtaxKf) | 2:31 | 2024-07-09 | 2024-07-16 |
 | [Serenity](https://open.spotify.com/track/1wlctHlUetiWICWw0ZZViF) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Serenity](https://open.spotify.com/album/03Al5TXt2KUtIo6vZkAxSt) | 3:03 | 2024-03-06 | 2024-03-21 |
@@ -383,6 +387,7 @@
 | [Shaded Cosmos](https://open.spotify.com/track/3uvYdddUFjnlW9ONU4k4eD) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Shaded Cosmos](https://open.spotify.com/album/0GQ0KcLnEwMAAaI3Qf7Von) | 2:32 | 2024-03-06 |  |
 | [Shimmering Above Clouds](https://open.spotify.com/track/5qGiDfE4iUmc9ZChUCunTO) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Shimmering Above Clouds](https://open.spotify.com/album/3YdKMnC2KdW1Z1KFt5rRBA) | 2:57 | 2023-03-31 | 2024-02-09 |
 | [Sidereal](https://open.spotify.com/track/6l2dsZpGNmYsWmr7HxqLiB) | [Greyling](https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz) | [Sidereal](https://open.spotify.com/album/2Tz4In6IQJxvribOsDEnVN) | 2:12 | 2024-05-04 |  |
+| [Signs In The Sky](https://open.spotify.com/track/1ayIzU9MXiMUd1MWAJP2Y7) | [Riseran](https://open.spotify.com/artist/5Nxj0jnslmO6SYW2ikO1Ho) | [Signs In The Sky](https://open.spotify.com/album/2Cq2OiOUqiw9S3epxTKrFf) | 2:39 | 2024-08-02 |  |
 | [Silent Mind](https://open.spotify.com/track/7m4uTQoUTU68STmL3Y3bX9) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Silent Mind](https://open.spotify.com/album/184Iu1UxOAYE4ZR9xdFJ9B) | 2:10 | 2023-03-31 | 2024-03-21 |
 | [Silken Shades](https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Silken Shades](https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX) | 3:00 | 2024-05-20 |  |
 | [Silver Lining](https://open.spotify.com/track/3Eb5LRtd8qIpq4CP5a3Pt7) | [Sleepy Jay](https://open.spotify.com/artist/4C0u713lpHyNuwztM1NZZY) | [Silver Lining](https://open.spotify.com/album/3Vi7QZP8evfJuHpsQFvQpE) | 3:06 | 2024-02-08 | 2024-04-06 |
@@ -442,6 +447,7 @@
 | [The New World](https://open.spotify.com/track/0N5NNIaNs3YVhiyt22ZYhG) | [Cardi Mist](https://open.spotify.com/artist/3ddw8VOjGZrR2G6dFCjamb) | [Need Alone TIm](https://open.spotify.com/album/7aSNf0iZiUDbYUs552dVkm) | 3:14 | 2023-03-31 | 2024-05-21 |
 | [The Only Me](https://open.spotify.com/track/12C0zlAiXNawkKZcM2vksz) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [The Only Me](https://open.spotify.com/album/18BqgRE1FYyGzLl4CCpx4v) | 3:20 | 2023-03-31 | 2024-02-09 |
 | [The Sky Is A Sea](https://open.spotify.com/track/5RmKyK9bzcqP7n8YbyPIo9) | [Criollo Clouds](https://open.spotify.com/artist/2oV0NR81ygDpyfMqZoC4Wz) | [The Sky Is A Sea](https://open.spotify.com/album/4rxjuTWBboVJCkZhE7LVGQ) | 3:17 | 2023-03-31 | 2024-01-14 |
+| [Theremant](https://open.spotify.com/track/44RKtm5CchIPJKwVikNbVB) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Theremant](https://open.spotify.com/album/1d3rpThvIXaEM6KQIFZKZs) | 2:50 | 2024-08-02 |  |
 | [These Words](https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS) | [Aerin Villegas](https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk) | [These Words](https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg) | 2:12 | 2024-03-06 | 2024-03-21 |
 | [Through The Sky](https://open.spotify.com/track/4LJ0mcVqXgcPHVOwzIJv8B) | [On A Cloud](https://open.spotify.com/artist/68sd27bqb8nHxgO6lh9tEo) | [Through The Sky](https://open.spotify.com/album/1boGfj077LwvawIIi2CfFY) | 2:58 | 2024-02-08 |  |
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-08 |  |

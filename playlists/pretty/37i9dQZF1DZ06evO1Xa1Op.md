@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,281 likes - 41 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,287 likes - 41 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 40 | [Allah Uya](https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq) | 4:31 |
 | 41 | [Sambadio \(Acoustic\)](https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 5:12 |
 
-Snapshot ID: `Zql+gAAAAABA8iBNG3dY6gwwtbF7H4P4`
+Snapshot ID: `ZqrQAAAAAAC+86M/Qresresj9/6Qpy/W`

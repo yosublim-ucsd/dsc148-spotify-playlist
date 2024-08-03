@@ -1,6 +1,6 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 318004,
+  "num_followers": 318112,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
@@ -251,38 +251,6 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "House Of Miracles",
-        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 337560,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
-        "name": "The Ascension",
-        "url": "https://open.spotify.com/album/2VAnZv1lS7kfPHiwPO3JyE"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 279786,
-      "name": "This Is Amazing Grace",
-      "url": "https://open.spotify.com/track/0RW1xWSPxmbXf012RN3yWl"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
         "name": "How To Start A Housefire (Pt. II)",
         "url": "https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk"
       },
@@ -307,6 +275,38 @@
       "duration_ms": 232855,
       "name": "I Thank God",
       "url": "https://open.spotify.com/track/7GJeMVJbLzRgNuabsQ8RXt"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/2VAnZv1lS7kfPHiwPO3JyE"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 279786,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/0RW1xWSPxmbXf012RN3yWl"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
+        "name": "House Of Miracles",
+        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 337560,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB"
     },
     {
       "added_at": "2024-06-22 23:17:20",
@@ -691,30 +691,6 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/2BDoSC4fVtlCSOgyavzdrV"
-      },
-      "artists": [
-        {
-          "name": "Anthem Worship",
-          "url": "https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG"
-        },
-        {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
-        },
-        {
-          "name": "Mass Anthem",
-          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
-        }
-      ],
-      "duration_ms": 223235,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/5vJNJVYbtBYOSAD4qzq7hy"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 294560,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5ffsmOjdQ2R3Te0Sy4kVWw"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/2BDoSC4fVtlCSOgyavzdrV"
+      },
+      "artists": [
+        {
+          "name": "Anthem Worship",
+          "url": "https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG"
+        },
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        },
+        {
+          "name": "Mass Anthem",
+          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
+        }
+      ],
+      "duration_ms": 223235,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/5vJNJVYbtBYOSAD4qzq7hy"
     },
     {
       "added_at": "2024-06-22 23:17:20",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 444174,
-      "name": "Revival\u2019s In The Air - Live",
-      "url": "https://open.spotify.com/track/1VNP6bgTcqE6cxkU8Zpy21"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
         "name": "Calm the Storm (Live)",
         "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 331998,
       "name": "Hallelujah For The Cross - Live",
       "url": "https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 444174,
+      "name": "Revival\u2019s In The Air - Live",
+      "url": "https://open.spotify.com/track/1VNP6bgTcqE6cxkU8Zpy21"
     },
     {
       "added_at": "2024-06-22 23:17:20",
@@ -1219,22 +1219,22 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "Love Makes Us Strong (Live)",
-        "url": "https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX"
+        "name": "Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
       },
       "artists": [
         {
-          "name": "Onething Live",
-          "url": "https://open.spotify.com/artist/3T6MQugN3SnovyHgr7PLUa"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         },
         {
-          "name": "Jon Thurlow",
-          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
         }
       ],
-      "duration_ms": 448719,
-      "name": "Jesus, You're Beautiful (Live)",
-      "url": "https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM"
+      "duration_ms": 285560,
+      "name": "I'm Listening - Live",
+      "url": "https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y"
     },
     {
       "added_at": "2024-06-22 23:17:20",
@@ -1251,6 +1251,26 @@
       "duration_ms": 383293,
       "name": "Exalted Over All - Live",
       "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
+        "name": "Love Makes Us Strong (Live)",
+        "url": "https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX"
+      },
+      "artists": [
+        {
+          "name": "Onething Live",
+          "url": "https://open.spotify.com/artist/3T6MQugN3SnovyHgr7PLUa"
+        },
+        {
+          "name": "Jon Thurlow",
+          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
+        }
+      ],
+      "duration_ms": 448719,
+      "name": "Jesus, You're Beautiful (Live)",
+      "url": "https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM"
     },
     {
       "added_at": "2024-06-22 23:17:20",
@@ -1315,26 +1335,6 @@
       "duration_ms": 516363,
       "name": "More Than Enough - Live",
       "url": "https://open.spotify.com/track/156GrZB2Ijf2rH4dgxaPcl"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
-        "name": "Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        },
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 285560,
-      "name": "I'm Listening - Live",
-      "url": "https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y"
     },
     {
       "added_at": "2024-06-22 23:17:20",

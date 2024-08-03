@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,943 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,983 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 60 | [La Tortuga Vacilona](https://open.spotify.com/track/6ugIHliLvfqeh3WVn3gLEE) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 3:41 |
 | 61 | [Ahora Que Te Vas](https://open.spotify.com/track/4A0PE9JT69DyzVkFZLTEeq) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Ahora Que Te Vas](https://open.spotify.com/album/2pajddBhVxUas3ioYXCyHL) | 3:05 |
 | 62 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
-| 63 | [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 |
-| 64 | [Y Me Bebí Tu Recuerdo](https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 4:06 |
+| 63 | [Y Me Bebí Tu Recuerdo](https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 4:06 |
+| 64 | [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 |
 | 65 | [Entre el Odio y el Amor](https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/5zlUl4R0tqxC6GUlYemOZy) | 3:52 |
 | 66 | [Lástima](https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:39 |
 | 67 | [Bebe Dame / Pobre Corazón](https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Bebe Dame / Pobre Corazón](https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ) | 4:28 |

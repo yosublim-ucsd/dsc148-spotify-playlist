@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 
 ### [This Is Phoebe Bridgers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0N5yhI)
 
-> This is Phoebe Bridgers\. The essential tracks, all in one playlist.
+> This is Phoebe Bridgers\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,020 likes - 42 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,073 likes - 43 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 | 36 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
 | 37 | [Ketchum, ID](https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:35 |
 | 38 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:06 |
-| 39 | [Killer + The Sound](https://open.spotify.com/track/00fRUfon3pr861IKiG03kA) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Killer + The Sound](https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs) | 7:55 |
-| 40 | [This Isn't Helping \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/56QXS0Hk7mKpuLaFJQ3x8F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:04 |
+| 39 | [Claw Machine](https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Claw Machine](https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP) | 3:47 |
+| 40 | [Killer + The Sound](https://open.spotify.com/track/00fRUfon3pr861IKiG03kA) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Killer + The Sound](https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs) | 7:55 |
 | 41 | [Stay Down](https://open.spotify.com/track/2yIfFEE5GMtK5XqMz2704V) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 4:00 |
-| 42 | [Prayer in Open D](https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [To Emmylou](https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr) | 2:53 |
+| 42 | [This Isn't Helping \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/56QXS0Hk7mKpuLaFJQ3x8F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:04 |
+| 43 | [Prayer in Open D](https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [To Emmylou](https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr) | 2:53 |
 
-Snapshot ID: `Zql+gAAAAADFu7+wceRYIlxtAmxp/Qt5`
+Snapshot ID: `ZqrQAAAAAACFChkJ1itVAUnUtR9sF95F`

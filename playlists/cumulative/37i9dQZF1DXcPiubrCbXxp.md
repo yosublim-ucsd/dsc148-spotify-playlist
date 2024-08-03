@@ -4,7 +4,7 @@
 
 > that 50s kinda feeling, cover: Laufey
 
-84 songs - 4 hr 40 min
+85 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Home To Another One \- Acoustic](https://open.spotify.com/track/0X8FU9YqDgsvXoEnCdxZHq) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One \(Acoustic\)](https://open.spotify.com/album/1BMDuG9g9KE5GgrvM17jp9) | 2:44 | 2023-08-04 | 2023-09-16 |
 | [Hot In The Shade](https://open.spotify.com/track/7v77r6ch1dszdie86DqZuB) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Heat](https://open.spotify.com/album/1NRL1bvYepbDkrao0zax15) | 3:53 | 2023-08-04 | 2023-09-06 |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2023-08-04 | 2023-10-01 |
+| [I Wanna Love You \(But I Don't\)](https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I Wanna Love You \(But I Don't\) / I hope you die first](https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8) | 4:17 | 2024-08-02 |  |
 | [I Wonder](https://open.spotify.com/track/3SHLX5ePGvPKcWKM05Thga) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:37 | 2023-09-15 |  |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2023-09-08 |  |
 | [It Was You](https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [It Was You](https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh) | 3:16 | 2024-05-03 |  |
@@ -57,7 +58,7 @@
 | [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 | 2024-05-31 |  |
 | [Lost in a Dream](https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4) | 3:37 | 2024-03-22 |  |
 | [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 | 2023-08-04 | 2024-03-23 |
-| [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/5ZtOg6T7qui1IMSwGh358t) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:34 | 2023-08-04 |  |
+| [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/5ZtOg6T7qui1IMSwGh358t) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:34 | 2023-08-04 | 2024-08-03 |
 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2023-08-04 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2023-08-04 | 2024-06-01 |
 | [No One Knows \(with Laufey\)](https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:59 | 2023-09-22 |  |

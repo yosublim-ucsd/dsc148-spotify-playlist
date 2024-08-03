@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtFO27AQ6dF.md) - [plain]
 
 > Música motivacional para quemar esa hamburguesa que comiste el finde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,185 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,200 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtFO27AQ6dF.md) - [plain]
 | 20 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 |
 | 21 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
 | 22 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
-| 23 | [Before I Forget](https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:38 |
-| 24 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 |
+| 23 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 |
+| 24 | [Before I Forget](https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:38 |
 | 25 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 |
 | 26 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 |
 | 27 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 |

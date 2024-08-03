@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 ### [This Is Katy Perry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Jefw4)
 
-> This is: Katy Perry\. Alle wichtigen Tracks in einer Playlist.
+> This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,165,714 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,165,812 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 18 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
 | 19 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 |
 | 20 | [E.T.](https://open.spotify.com/track/4z8ssgZfs5TzKiO8HaGWXO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:26 |
-| 21 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 |
-| 22 | [Bon Appétit](https://open.spotify.com/track/4rHmKlFRiFzabiVO6e9w2e) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:47 |
+| 21 | [Bon Appétit](https://open.spotify.com/track/4rHmKlFRiFzabiVO6e9w2e) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:47 |
+| 22 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 |
 | 23 | [If We Ever Meet Again \(Featuring Katy Perry\)](https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Shock Value II](https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H) | 4:52 |
 | 24 | [E.T.](https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:49 |
 | 25 | [365](https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [365](https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA) | 3:01 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 45 | [Hot N Cold \- Rock Version](https://open.spotify.com/track/6K4r3XENOKeXFTKlBlAJLC) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Hot N Cold](https://open.spotify.com/album/7t536KbHOO8GOEhHpk0Tyv) | 3:40 |
 | 46 | [Walking On Air](https://open.spotify.com/track/0RCsGhR44nFVAd5WiZZcGq) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:42 |
 | 47 | [Cry About It Later](https://open.spotify.com/track/7cLrrJ1Dk6WAQyDIj9j26A) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:09 |
-| 48 | [Roulette](https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:18 |
+| 48 | [Hey Hey Hey](https://open.spotify.com/track/3tqwKg0W8XfYORNrP4aIhu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:34 |
 | 49 | [I Kissed A Girl \- Rock Remix](https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 2:56 |
 | 50 | [International Smile](https://open.spotify.com/track/5OzIe9IL95B23n4rN59JZ3) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:47 |
 | 51 | [Champagne Problems](https://open.spotify.com/track/5iKXqTVr88ghRPwMEeVKVM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:16 |
-| 52 | [Hey Hey Hey](https://open.spotify.com/track/3tqwKg0W8XfYORNrP4aIhu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:34 |
+| 52 | [Roulette](https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:18 |
 
-Snapshot ID: `Zql+gAAAAACCxjSrLiXPR/Rc/3J/yUBM`
+Snapshot ID: `ZqrQAAAAAADfYY/S8sIj3YqS9iInJC6o`

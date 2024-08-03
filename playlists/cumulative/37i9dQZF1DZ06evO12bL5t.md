@@ -2,9 +2,9 @@
 
 ### [This Is Herencia de Patrones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO12bL5t)
 
-> This is Herencia de Patrones\. The essential tracks, all in one playlist.
+> This Is Herencia de Patrones\. Los temas esenciales, todos en una lista.
 
-70 songs - 3 hr 42 min
+72 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,13 +22,14 @@
 | [Compa P](https://open.spotify.com/track/0PF1gMMaMks94xvo2s4d8U) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:13 | 2024-02-18 |  |
 | [Con la Bola](https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:27 | 2024-02-17 |  |
 | [Corazón Cromado](https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:42 | 2024-01-29 |  |
+| [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 | 2024-08-03 |  |
 | [Cosas De La Clika](https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:16 | 2024-01-29 |  |
 | [Costa Oeste](https://open.spotify.com/track/2AP5HY2VXigVx6aqSArHHl) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 2:53 | 2024-01-29 | 2024-02-21 |
 | [Crimes](https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:40 | 2024-01-29 |  |
 | [Cupcake Factory](https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa' Largo](https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV) | 2:44 | 2024-01-29 |  |
-| [De La Calle \(Remix\)](https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Line Up](https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU) | 2:37 | 2024-01-29 |  |
+| [De La Calle \(Remix\)](https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Line Up](https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU) | 2:37 | 2024-01-29 | 2024-08-03 |
 | [Dinero Sobre Amor](https://open.spotify.com/track/5TZyQ3eHWw5uBesFJ9irEQ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 3:24 | 2024-01-29 | 2024-02-19 |
-| [Distinta Movida](https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 4:01 | 2024-01-29 |  |
+| [Distinta Movida](https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 4:01 | 2024-01-29 | 2024-08-03 |
 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 | 2024-01-29 |  |
 | [El Capitan](https://open.spotify.com/track/5dxoI7r19Bwb6U57iTnpxk) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 3:12 | 2024-01-29 |  |
 | [EL KARMA](https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [EL KARMA](https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf) | 2:51 | 2024-01-29 |  |
@@ -48,6 +49,7 @@
 | [Its Over](https://open.spotify.com/track/36H3mjns9xZJAYOwj5qsM9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:43 | 2024-01-29 | 2024-02-15 |
 | [Jarabe Con Sprite](https://open.spotify.com/track/6OcR3nz1zLKoaFOZSiqFN4) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:26 | 2024-01-29 | 2024-02-19 |
 | [La Verdad](https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [La Verdad](https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA) | 2:21 | 2024-01-29 |  |
+| [Ladeando \(feat\. Fuerza Regida\)](https://open.spotify.com/track/0vgqt0mRZmbb3b57i9p8wV) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:11 | 2024-08-03 |  |
 | [LC Farmz](https://open.spotify.com/track/7yTBJsvM1cM1uQ4pkrrPGr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [LC Farmz](https://open.spotify.com/album/3g0RbWxKKblUCqujoPGCas) | 2:44 | 2024-05-19 |  |
 | [Llegue Pa Hacer Billetes](https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Oregel](https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO) | [Llegue Pa Hacer Billetes](https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt) | 3:31 | 2024-01-29 | 2024-03-19 |
 | [Lo Que Es](https://open.spotify.com/track/3I8CEUQgFMuGu1UkGrtSTk) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:22 | 2024-01-29 |  |

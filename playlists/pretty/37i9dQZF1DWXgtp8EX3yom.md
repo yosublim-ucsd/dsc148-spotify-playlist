@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 
 > Najlepsze polskie przeboje 2023 roku\. Cover: Daria Zawiałow \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,406 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,403 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 | 24 | [Mustang](https://open.spotify.com/track/5t2W566e7jZqmd2guJz6vc) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Pracownia \(deluks\)](https://open.spotify.com/album/7mVLtEuT4iQ98hPVkyJzZk) | 3:32 |
 | 25 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |
 | 26 | [Lustro](https://open.spotify.com/track/3WX6nwhznaVTD9CazfMV4F) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a), [Hotel Torino](https://open.spotify.com/artist/0JJmkwOSEGhFj7sLL3AYXN) | [Lustro](https://open.spotify.com/album/1vOpHLnuZtKDrAvARaft9Q) | 2:42 |
-| 27 | [DOBRZE WIEM](https://open.spotify.com/track/52HsMzWYHviy60W5BKtQY7) | [LEXY CHAPLIN](https://open.spotify.com/artist/6YyBUm2QYlXkJD9Taa6gbk) | [DOBRZE WIEM](https://open.spotify.com/album/1MduEXLA8g2NZE2kUL8aeo) | 2:19 |
+| 27 | [DOBRZE WIEM](https://open.spotify.com/track/52HsMzWYHviy60W5BKtQY7) | [Lexy Chaplin](https://open.spotify.com/artist/6YyBUm2QYlXkJD9Taa6gbk) | [DOBRZE WIEM](https://open.spotify.com/album/1MduEXLA8g2NZE2kUL8aeo) | 2:19 |
 | 28 | [O Północy](https://open.spotify.com/track/6WeqeVkrHcAndiGxleq4Rc) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC) | [O Północy](https://open.spotify.com/album/6WYRPDgDiC6SeFtupW9VsD) | 2:17 |
 | 29 | [Ona działa na mnie jak](https://open.spotify.com/track/0WJhZGtWI4wuYVMufw0zeH) | [Dawid Narożny](https://open.spotify.com/artist/7JMNSrJDmAjYrNwf4vGkuJ), [Agbe](https://open.spotify.com/artist/25OooHA4rUJ098aTiVGtTx) | [Ona działa na mnie jak](https://open.spotify.com/album/4zEPz76qtZ2yckET0DvU6W) | 2:50 |
 | 30 | [Dziewczyny Lubią Tańczyć](https://open.spotify.com/track/5N4jEy9WkdnnlJncg85biz) | [B.R.O](https://open.spotify.com/artist/1JsnraXeS2KK3dgwNR9ARf) | [Dziewczyny Lubią Tańczyć](https://open.spotify.com/album/6bLtHMa76fD8nwJrVC5O5y) | 2:26 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 > All the biggest hits from the biggest boybands!  Cover: One Direction
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,698 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,849 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 |
 | 2 | [I Want It That Way](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:33 |
-| 3 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
-| 4 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
+| 3 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
+| 4 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
 | 5 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 |
 | 6 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
 | 7 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 51 | [Love Me For A Reason](https://open.spotify.com/track/2GBoo6ufWtMy1s6lqgbjJ8) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [Said And Done](https://open.spotify.com/album/3N73NWzGPFcMZ23e0xPSX4) | 3:38 |
 | 52 | [Crazy](https://open.spotify.com/track/3PJivN5BZ2ckFa22igIu4a) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [X](https://open.spotify.com/album/196buw5EPzqQoCTIxhgTQ0) | 4:20 |
 | 53 | [Pop](https://open.spotify.com/track/0Jc8qF1mUPo1A96HE9QxZz) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 3:58 |
-| 54 | [Relight My Fire \(feat\. Lulu\)](https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 4:11 |
-| 55 | [All About You](https://open.spotify.com/track/0ElmwRAsaxaUZXnMbaSllH) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Wonderland](https://open.spotify.com/album/4P2zvXqsnB2YBPKmscYM5c) | 3:06 |
+| 54 | [All About You](https://open.spotify.com/track/0ElmwRAsaxaUZXnMbaSllH) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Wonderland](https://open.spotify.com/album/4P2zvXqsnB2YBPKmscYM5c) | 3:06 |
+| 55 | [Relight My Fire \(feat\. Lulu\)](https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 4:11 |
 | 56 | [Let's Get Married](https://open.spotify.com/track/1PmHkalaUHhh0fz23SBHDL) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:23 |
 | 57 | [No One Compares To You](https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:02 |
 | 58 | [Year 3000](https://open.spotify.com/track/7BbyWKteSctTKe696qf7fw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [It's About Time](https://open.spotify.com/album/3tnBL4yVKSTaUtjeypEwCe) | 3:21 |
 | 59 | [Beat Again \- Radio Edit](https://open.spotify.com/track/426vBhxw4upEf11BqBBgs0) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:19 |
 | 60 | [Like a Rose](https://open.spotify.com/track/2jvrUFdJTjcgs94427PqHx) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Here We Come](https://open.spotify.com/album/0YipK1zDiAU6gqdZ31Frnp) | 4:11 |
-| 61 | [Five Colours In Her Hair](https://open.spotify.com/track/26QkYH0dmzPQBprter9Jsw) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Room On The 3rd Floor](https://open.spotify.com/album/2WMApBk2Flz1G3urFsEUuv) | 2:57 |
-| 62 | [Never Forget \- Single Version](https://open.spotify.com/track/1WK7eLVsD0zH4UWm9ob3z6) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget: The Ultimate Collection](https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI) | 6:24 |
+| 61 | [Never Forget \- Single Version](https://open.spotify.com/track/1WK7eLVsD0zH4UWm9ob3z6) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget: The Ultimate Collection](https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI) | 6:24 |
+| 62 | [Five Colours In Her Hair](https://open.spotify.com/track/26QkYH0dmzPQBprter9Jsw) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Room On The 3rd Floor](https://open.spotify.com/album/2WMApBk2Flz1G3urFsEUuv) | 2:57 |
 | 63 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 |
 | 64 | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK) | 2:37 |
 | 65 | [Everybody in Love](https://open.spotify.com/track/2iLN22AngD3PTsbvBu5ypL) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:15 |

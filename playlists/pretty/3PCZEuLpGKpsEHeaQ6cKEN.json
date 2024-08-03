@@ -1,12 +1,12 @@
 {
   "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Don Diablo, Lufthouse w/ Robbie Williams, Sophya Nzau",
-  "num_followers": 271318,
+  "num_followers": 271311,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADSGCqCajx3AUsAmY5F346kxT2jpC+w",
+  "snapshot_id": "AADSGk6D41OJmk4fmhLE3T9HB5ov0fTw",
   "tracks": [
     {
       "added_at": "2024-08-01 22:07:09",
@@ -413,6 +413,26 @@
       "url": "https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG"
     },
     {
+      "added_at": "2024-08-02 08:13:32",
+      "album": {
+        "name": "Up All Night (Tensnake Remix)",
+        "url": "https://open.spotify.com/album/2ZiuNZYRnGCGkRWYlGIVCy"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        },
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 168434,
+      "name": "Up All Night - Tensnake Remix",
+      "url": "https://open.spotify.com/track/6W3ZpzH0y3RPPUMMFtct8a"
+    },
+    {
       "added_at": "2024-08-01 22:07:09",
       "album": {
         "name": "Take So Long (Find You)",
@@ -631,22 +651,6 @@
       "duration_ms": 359599,
       "name": "Flashdance - Album Mix",
       "url": "https://open.spotify.com/track/12GCtamy9WhgTGUfTl4eN4"
-    },
-    {
-      "added_at": "2024-08-01 22:07:09",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/2OTgZzSvpK9BAE83jZaqxX"
-      },
-      "artists": [
-        {
-          "name": "Nick Schilder",
-          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
-        }
-      ],
-      "duration_ms": 193858,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/1aZJUDVqAnASubqDxs6RJb"
     },
     {
       "added_at": "2024-08-01 22:07:09",

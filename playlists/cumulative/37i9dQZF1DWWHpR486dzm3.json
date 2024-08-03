@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Do I Do",
+        "url": "https://open.spotify.com/album/6qMzV5XcEmrofQPYtci0Np"
+      },
+      "artists": [
+        {
+          "name": "Velvetcut",
+          "url": "https://open.spotify.com/artist/5I4dHTktG9F9eYt3I9kVz4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "Do I Do",
+      "url": "https://open.spotify.com/track/2sPWbISisYcFDSmNJkHIzp"
+    },
+    {
+      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/3j9XUjOd60zhagpcWVOfap"
       },

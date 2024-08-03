@@ -2,9 +2,9 @@
 
 ### [Rock Total](https://open.spotify.com/playlist/37i9dQZF1DWU8yQ1nTMCfh)
 
-> Las nuevas vibras del rock en español\. Cover: Samuraï
+> Las nuevas vibras del rock en español\. Cover: Los Outsaiders
 
-299 songs - 16 hr 37 min
+300 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [El Valiente Sin Honor](https://open.spotify.com/track/06jnIgatetpgoviQiGmGmL) | [Las Cruxes](https://open.spotify.com/artist/3gL5WAtHmbaR1LR8zZiQn8) | [El Valiente Sin Honor](https://open.spotify.com/album/20XtWQXRtgs0BucXpmxz1j) | 5:01 | 2022-04-15 | 2022-12-10 |
 | [En El Surf](https://open.spotify.com/track/7IBYDJs4LEfwW8b17IAxwU) | [Palmera Beach](https://open.spotify.com/artist/0aVJ62IxBOiOh4KlOnnm7J) | [En El Surf](https://open.spotify.com/album/0S9FogbRiKfDgnVuSaRaFs) | 2:29 | 2022-04-15 | 2022-12-10 |
 | [enganchao](https://open.spotify.com/track/5WtolAqrKBXPp8wOcqS9CX) | [isra](https://open.spotify.com/artist/0LmfzRPAlGyi9yAIqS11EF), [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [enganchao](https://open.spotify.com/album/4EV8fIrw1qGJtkDzWRSOGv) | 2:30 | 2023-04-14 | 2023-04-16 |
-| [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 | 2023-05-12 |  |
+| [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 | 2023-05-12 | 2024-08-03 |
 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 | 2023-11-10 |  |
 | [Extrarradio](https://open.spotify.com/track/4Yu4N8mdsSsmois7j4v3as) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 4:53 | 2022-04-15 | 2022-12-10 |
 | [Fallaste](https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Fallaste](https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P) | 2:36 | 2023-06-16 | 2023-09-20 |
@@ -176,6 +176,7 @@
 | [Multiverso](https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Multiverso](https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X) | 3:01 | 2022-12-16 | 2023-05-23 |
 | [Mundo Extraño](https://open.spotify.com/track/0hy08kvUwjuF40ai53TANQ) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mundo Extraño](https://open.spotify.com/album/11emlvXuZrS8319yl6IW5r) | 3:03 | 2023-07-21 | 2023-11-06 |
 | [Más Tuyo](https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Más Tuyo](https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6) | 3:00 | 2023-02-11 | 2024-05-04 |
+| [Ni Siquiera de Ti](https://open.spotify.com/track/3zi0QUN1NRSV3oyPlsKFgg) | [Los Outsaiders](https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5) | [Ni Siquiera De Ti](https://open.spotify.com/album/1Z3vgN2BrKb4GEXnXgqYar) | 3:17 | 2024-08-02 |  |
 | [Niebla](https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0hszGU5mN2Qj7EnOVZQJ8Z) | 2:43 | 2022-04-15 | 2022-12-10 |
 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2022-12-23 | 2023-01-29 |
 | [no es culpa mía](https://open.spotify.com/track/1vDZDgRzTb6TBej8kZ3vqO) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:05 | 2023-11-10 | 2024-04-13 |

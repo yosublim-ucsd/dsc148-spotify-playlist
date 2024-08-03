@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,101 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,114 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 41 | [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 |
 | 42 | [Overrated](https://open.spotify.com/track/5lSUuHikeDyhMJlWHLfDPi) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Overrated](https://open.spotify.com/album/6wdJu0Z74v0zKWnf2oUh8E) | 3:20 |
 | 43 | [Khoj \- Nature Tapes](https://open.spotify.com/track/61v7XhUdOsWktQZmkkSxxA) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nature Tapes, Vol\. 1](https://open.spotify.com/album/3JxsX5nmbAn0lMrOcD5gPA) | 3:33 |
-| 44 | [Asymmetrical](https://open.spotify.com/track/4Wi8LAUHkE2fWjGvrelJ4h) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [The Archies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i) | 2:33 |
+| 44 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
 | 45 | [Heartbreak 2020](https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:52 |
 | 46 | [Perfect Life](https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X) | [Perfect Life](https://open.spotify.com/album/2qX6H9xdwN6uBmdzPqrdk5) | 4:02 |
 | 47 | [People](https://open.spotify.com/track/0lygeGFALYsTrHXi6yThOK) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [People \- Single](https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS) | 3:08 |
 | 48 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 |
 | 49 | [Spare My Heart](https://open.spotify.com/track/5jjnLuRNoiLsk2Ew7of6rI) | [Imcha Imchen](https://open.spotify.com/artist/279G7M1MozdYogR2qrcMtA) | [Spare My Heart](https://open.spotify.com/album/4yF6GYnhCa6GZvLBujpp0D) | 2:43 |
 | 50 | [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 |
-| 51 | [I’m On Your Side](https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [I’m On Your Side](https://open.spotify.com/album/0rW3Lx8FykpGzsp2d3AZkE) | 2:43 |
-| 52 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
-| 53 | [Mutual](https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Mutual](https://open.spotify.com/album/5zjzWWpPmYwZVTTHXOL3Vy) | 2:35 |
+| 51 | [Mutual](https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Mutual](https://open.spotify.com/album/5zjzWWpPmYwZVTTHXOL3Vy) | 2:35 |
+| 52 | [Asymmetrical](https://open.spotify.com/track/4Wi8LAUHkE2fWjGvrelJ4h) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [The Archies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i) | 2:33 |
+| 53 | [I’m On Your Side](https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [I’m On Your Side](https://open.spotify.com/album/0rW3Lx8FykpGzsp2d3AZkE) | 2:43 |
 | 54 | [Tourist](https://open.spotify.com/track/7enEWPtX7qbL0AiiIwY59s) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:45 |
 | 55 | [Peace Lily](https://open.spotify.com/track/1SASOKMlkabWVo1SwZdzDA) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1YNZ0OwZKqDwMXtAjhtTlc) | 3:45 |
 | 56 | [Until You See](https://open.spotify.com/track/76ia9MkfsFl8ZEdAph4O36) | [Donn Bhat](https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ), [Toymob](https://open.spotify.com/artist/2vT6u1co9tQidx18xISF2k), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Until You See](https://open.spotify.com/album/4PgsGuOKhE9SPSnkaaDZqX) | 3:39 |

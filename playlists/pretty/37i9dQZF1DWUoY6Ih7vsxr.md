@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,874 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,976 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 51 | [Genie](https://open.spotify.com/track/7m48u7EC4gnCfAhwoLfbCE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Genie \- The Second Mini Album](https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93) | 3:50 |
 | 52 | [I Like That](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [INSANE LOVE](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) | 3:41 |
 | 53 | [Mamacita \(아야야\)](https://open.spotify.com/track/23z7nLq4CD83EyzeeIokkt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 3:27 |
-| 54 | [기대해](https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [기대](https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM) | 3:16 |
+| 54 | [FACE](https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:40 |
 | 55 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 |
-| 56 | [FACE](https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:40 |
+| 56 | [기대해](https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [기대](https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM) | 3:16 |
 | 57 | [History](https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:29 |
 | 58 | [Man In Love](https://open.spotify.com/track/4CLZtVqnJTaTMiPEiwpO0E) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [New Challenge](https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA) | 3:17 |
 | 59 | [Lucky](https://open.spotify.com/track/546Y4NAdcGBeOpMWOvuJdw) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:23 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 76 | [넘버나인](https://open.spotify.com/track/7CEWoh31m3nePP2Oz8joqo) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Again 1977](https://open.spotify.com/album/08wUc4fBRDP5MHmtadEjZ5) | 3:48 |
 | 77 | [U & I](https://open.spotify.com/track/1wKOJ2fTflDiABy1EbFflM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [A's Doll House](https://open.spotify.com/album/7LAxFe8bbiNDWWDtMTL0hC) | 3:14 |
 | 78 | [Love Like This](https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 / Rebirth](https://open.spotify.com/album/45b7ZY0JnkHSXOvIph0a0s) | 2:48 |
-| 79 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
-| 80 | [내 귀에 캔디 \(FEAT\. 택연 Of 2PM\)](https://open.spotify.com/track/6bkovwrdDRK4NRaEH0ryar) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [TAECYEON](https://open.spotify.com/artist/3bk5TbtyJDRrJ8lMQIzSPh) | [Timeless : The Best](https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2) | 3:46 |
+| 79 | [내 귀에 캔디 \(FEAT\. 택연 Of 2PM\)](https://open.spotify.com/track/6bkovwrdDRK4NRaEH0ryar) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [TAECYEON](https://open.spotify.com/artist/3bk5TbtyJDRrJ8lMQIzSPh) | [Timeless : The Best](https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2) | 3:46 |
+| 80 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
 | 81 | [Miss Right](https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [No.1](https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb) | 3:17 |
 | 82 | [Love](https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluelove](https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU) | 3:47 |
 | 83 | [12:30](https://open.spotify.com/track/0uvl4TuFhdWZshHX9Hd6kI) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Time](https://open.spotify.com/album/2bYQizcDT7UdexHetsvQNa) | 3:53 |

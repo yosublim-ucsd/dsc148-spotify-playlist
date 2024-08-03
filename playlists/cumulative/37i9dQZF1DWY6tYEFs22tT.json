@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Ice Spice, Mustard, Young Nudy and more.",
+  "description": "Today's Hip-Hop with NAV, Doechii, A$AP Rocky and more.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -542,6 +542,32 @@
       "duration_ms": 210371,
       "name": "5AM IN PHILLY",
       "url": "https://open.spotify.com/track/2xaCeQ5mTMhMrf8kAei5GW"
+    },
+    {
+      "album": {
+        "name": "6AM Thoughts",
+        "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200933,
+      "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
+      "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
     },
     {
       "album": {
@@ -1105,6 +1131,28 @@
     },
     {
       "album": {
+        "name": "ALL TEN (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/5KWhVrUd9CvZMuGya680x4"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196394,
+      "name": "ALL TEN (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/5jol33TYJ3H5v5zRD9fOtv"
+    },
+    {
+      "album": {
         "name": "All The Sudden",
         "url": "https://open.spotify.com/album/5HpsKp4lE5qi48D77jL4JS"
       },
@@ -1320,7 +1368,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 162210,
       "name": "Angels In The Sky",
       "url": "https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54"
@@ -1550,7 +1598,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 137142,
       "name": "ATM",
       "url": "https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf"
@@ -1896,7 +1944,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 150679,
       "name": "Baller",
       "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
@@ -1944,7 +1992,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -2122,7 +2170,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 129729,
       "name": "BEAST",
       "url": "https://open.spotify.com/track/0RoyNnNrnVAON6ze5lWXoL"
@@ -2390,6 +2438,28 @@
       "duration_ms": 151272,
       "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
       "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
+    },
+    {
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
       "album": {
@@ -3884,7 +3954,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -4364,7 +4434,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 218052,
       "name": "Clear the Smoke",
       "url": "https://open.spotify.com/track/0tWvBMSTdobhWgsJyviGeU"
@@ -9091,6 +9161,28 @@
     },
     {
       "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
+    },
+    {
+      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/5YvMUKCGDA709XOayNPh1Z"
       },
@@ -9282,6 +9374,28 @@
       "duration_ms": 189450,
       "name": "Here it Goes",
       "url": "https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo"
+    },
+    {
+      "album": {
+        "name": "HIGHJACK",
+        "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190074,
+      "name": "HIGHJACK",
+      "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
     },
     {
       "album": {
@@ -11359,6 +11473,28 @@
     },
     {
       "album": {
+        "name": "KEHLANI (REMIX) [feat. Kehlani]",
+        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
+    },
+    {
+      "album": {
         "name": "Khabib",
         "url": "https://open.spotify.com/album/3v6aq6iIqFXgAubGncj9Ce"
       },
@@ -12454,6 +12590,24 @@
       "duration_ms": 186200,
       "name": "Love For The Streets",
       "url": "https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR"
+    },
+    {
+      "album": {
+        "name": "LOVE MAKE",
+        "url": "https://open.spotify.com/album/7ksQrL66SNuch6lmxIlVzJ"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214228,
+      "name": "LOVE MAKE",
+      "url": "https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd"
     },
     {
       "album": {
@@ -14253,6 +14407,24 @@
     },
     {
       "album": {
+        "name": "NISSAN ALTIMA",
+        "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128132,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
+    },
+    {
+      "album": {
         "name": "No 808\u2019s (feat. Vory)",
         "url": "https://open.spotify.com/album/2XToR89sscO3iyINxEvv7Z"
       },
@@ -14534,7 +14706,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 164706,
       "name": "Normally (feat. NSG)",
       "url": "https://open.spotify.com/track/3xo3GCZI9Vz1GVDeIKWJhR"
@@ -15140,6 +15312,24 @@
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
+    },
+    {
+      "album": {
+        "name": "On Up",
+        "url": "https://open.spotify.com/album/3YLwQzaO1nUO6E4aMFTt7c"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150763,
+      "name": "On Up",
+      "url": "https://open.spotify.com/track/7k0QYUgeKHmNuroFKUbQbw"
     },
     {
       "album": {
@@ -17218,6 +17408,24 @@
       "duration_ms": 175096,
       "name": "Retail Therapy",
       "url": "https://open.spotify.com/track/1E8xVRD9lPeXJQ3vXIlJk2"
+    },
+    {
+      "album": {
+        "name": "Rexdale",
+        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125093,
+      "name": "Rexdale",
+      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
     },
     {
       "album": {
@@ -19660,7 +19868,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 175656,
       "name": "STUPID - WITH LIL YACHTY & BABYFACE RAY",
       "url": "https://open.spotify.com/track/7wtUI2bKLWZ23GOmzMkU1Q"
@@ -22739,6 +22947,28 @@
     },
     {
       "album": {
+        "name": "We Uh Shoot (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153842,
+      "name": "We Uh Shoot (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH"
+    },
+    {
+      "album": {
         "name": "Stoner's Night",
         "url": "https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb"
       },
@@ -22816,7 +23046,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 127425,
       "name": "Went Hollywood For A Year",
       "url": "https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT"

@@ -504,7 +504,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 213306,
       "name": "Can't Believe (feat. Ty Dolla $ign & WizKid)",
       "url": "https://open.spotify.com/track/10C1ZwdAwSEmMeYAFvuTtv"
@@ -837,6 +837,32 @@
     },
     {
       "album": {
+        "name": "SoundMan Vol. 1",
+        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
+      },
+      "artists": [
+        {
+          "name": "StarBoy",
+          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "London",
+          "url": "https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Electric (feat. Wizkid & London)",
+      "url": "https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p"
+    },
+    {
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -1052,7 +1078,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 165774,
       "name": "G Love",
       "url": "https://open.spotify.com/track/2uuAE79hwuYDzEI20wDRpy"
@@ -1070,7 +1096,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 198367,
       "name": "Ghetto Love",
       "url": "https://open.spotify.com/track/4lzkcjVC7xT3HBIg2PjJ30"
@@ -1268,6 +1294,32 @@
       "duration_ms": 246126,
       "name": "Jaiye Jaiye",
       "url": "https://open.spotify.com/track/2vXJl10Kiu3IqMo8moFBFK"
+    },
+    {
+      "album": {
+        "name": "SoundMan Vol. 1",
+        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
+      },
+      "artists": [
+        {
+          "name": "StarBoy",
+          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198678,
+      "name": "Jam (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
     },
     {
       "album": {
@@ -2140,6 +2192,40 @@
       "duration_ms": 168626,
       "name": "Slow Motion (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1OdxQvBNOgCDE3SyqoEDha"
+    },
+    {
+      "album": {
+        "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
+        "url": "https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo"
+      },
+      "artists": [
+        {
+          "name": "StarBoy",
+          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ceeza Milli",
+          "url": "https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A"
+        },
+        {
+          "name": "Spotless",
+          "url": "https://open.spotify.com/artist/7zd8O0lGS5sHftyvnhtWD1"
+        },
+        {
+          "name": "Terri",
+          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255608,
+      "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
+      "url": "https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD"
     },
     {
       "album": {

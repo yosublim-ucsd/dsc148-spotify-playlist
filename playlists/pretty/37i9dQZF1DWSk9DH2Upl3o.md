@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,880 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,901 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marijuana Timewarp](https://open.spotify.com/track/6UpsSL0inheFm3dLdR6KNw) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Marijuana Timewarp](https://open.spotify.com/album/1TsvZiKqeIVfFZ0v27QydR) | 3:14 |
-| 2 | [Thinkin Too Much](https://open.spotify.com/track/3Ni0RvUDrbVRnknFdscMib) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Thinkin Too Much](https://open.spotify.com/album/5cUrAPzCHF1uQaqW1ks1du) | 3:09 |
-| 3 | [Manipulation](https://open.spotify.com/track/7BTKnG9oqPnWN3kr32VQbd) | [Ian Nussdorfer](https://open.spotify.com/artist/1m5bYA72k4fjQjLJuTRMGz), [The Badlands](https://open.spotify.com/artist/0PR33ItZd7OWQZ16UrQJgs) | [Manipulation](https://open.spotify.com/album/1BQQqqygZgfMAp9nFBDUuQ) | 5:50 |
-| 4 | [New Sol](https://open.spotify.com/track/3vrivUYRw4s9cMKzJTuNhV) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [New Sol](https://open.spotify.com/album/1Jo3CNhZXWLmUzaOSYIizE) | 4:20 |
+| 2 | [We Push Mountains](https://open.spotify.com/track/3giJAslwDu6NiMDb45hJgs) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [Dangermuffin](https://open.spotify.com/album/2y4DRNJCI177adj2JME16M) | 4:25 |
+| 3 | [Thinkin Too Much](https://open.spotify.com/track/3Ni0RvUDrbVRnknFdscMib) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Thinkin Too Much](https://open.spotify.com/album/5cUrAPzCHF1uQaqW1ks1du) | 3:09 |
+| 4 | [Manipulation](https://open.spotify.com/track/7BTKnG9oqPnWN3kr32VQbd) | [Ian Nussdorfer](https://open.spotify.com/artist/1m5bYA72k4fjQjLJuTRMGz), [The Badlands](https://open.spotify.com/artist/0PR33ItZd7OWQZ16UrQJgs) | [Manipulation](https://open.spotify.com/album/1BQQqqygZgfMAp9nFBDUuQ) | 5:50 |
 | 5 | [Toketee Breakdown](https://open.spotify.com/track/57qewUGyCnID5sskpTqz7U) | [The Great North Special](https://open.spotify.com/artist/6veiBa4SW2XH5CPgdP4JpZ) | [Toketee Breakdown](https://open.spotify.com/album/6YwcJVqZo6EKozSvFO03DK) | 5:48 |
 | 6 | [In the Shadow of the Mountain](https://open.spotify.com/track/1IT6PwgBR7nkE9oL9CAqqy) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [How to Dream in Color](https://open.spotify.com/album/3mAcc0urYeQn27UJsAQVN9) | 8:31 |
 | 7 | [Hey Stranger](https://open.spotify.com/track/7y9TVM2phcRCwSlevzG7pj) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Hey Stranger](https://open.spotify.com/album/3LrKY4Q1ZJdOXDAEeKGfE9) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `ZqkpGAAAAACCAP2o9c/za178McP6bXom`
+Snapshot ID: `ZqxZwAAAAADTO6QShWDYYHyTmsipe1+H`

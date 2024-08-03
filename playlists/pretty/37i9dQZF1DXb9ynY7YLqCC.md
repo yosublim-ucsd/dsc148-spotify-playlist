@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,308 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,355 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,12 +84,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 74 | [Amar y Envejecer](https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 7:11 |
 | 75 | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/album/336pbkOxV2KKUif8DKWF2o) | 2:49 |
 | 76 | [Volver a Nacer](https://open.spotify.com/track/2ABSAMW7VzfI0yVrkdxTJG) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/0ZK9RbojlRNq7N0Iaoj9Gd) | 3:34 |
-| 77 | [Misterios](https://open.spotify.com/track/5wWlvo0ECncL2lfhBzrmqi) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 2:41 |
+| 77 | [Suerte](https://open.spotify.com/track/0lntiOJwWI3yF3LDP8CG2P) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 5:39 |
 | 78 | [No Me Dejes Caer](https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [No Me Dejes Caer](https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR) | 4:18 |
 | 79 | [El Farolito](https://open.spotify.com/track/7ip2lBrKUjkb69I8isyqPm) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/1ZUWRmH8qVKhcps3MjlLo5) | 4:13 |
 | 80 | [Vas a Bailar](https://open.spotify.com/track/6f1qmIb4Q3UelVAktv9O1A) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/3ssZtOx9wK8IPybx1sdwQd) | 5:00 |
 | 81 | [Andrajoso](https://open.spotify.com/track/33qOYWWQEaniTOMtjo4KoE) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Andrajoso](https://open.spotify.com/album/1wO85yv14Xqjg9FdkThxtL) | 4:06 |
-| 82 | [Suerte](https://open.spotify.com/track/0lntiOJwWI3yF3LDP8CG2P) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 5:39 |
+| 82 | [Misterios](https://open.spotify.com/track/5wWlvo0ECncL2lfhBzrmqi) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 2:41 |
 | 83 | [Magdalena](https://open.spotify.com/track/3FgrJJyC7s6bjH6sUsRC3p) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Asuntos de Familia](https://open.spotify.com/album/7hOtFZWs2fzBeowpBzNvEn) | 4:15 |
 | 84 | [Viejo](https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:24 |
 | 85 | [Ojos Ventanal](https://open.spotify.com/track/1wsKixePlchQnf1EZTaAjX) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Sangre en Tus Luces](https://open.spotify.com/album/72H4uVRBBxPGpRUSIZua7U) | 3:44 |

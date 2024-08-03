@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "From The Valley",
+        "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163403,
+      "name": "On Wrong Side (with Bon Iver)",
+      "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
+    },
+    {
+      "album": {
         "name": "PDLIF",
         "url": "https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J"
       },

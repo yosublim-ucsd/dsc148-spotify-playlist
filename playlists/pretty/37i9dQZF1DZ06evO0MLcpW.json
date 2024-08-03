@@ -1,12 +1,12 @@
 {
   "description": "This Is Aventura. Los temas esenciales, todos en una lista.",
-  "num_followers": 581357,
+  "num_followers": 581636,
   "original_name": "This Is Aventura",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABi1rV13Vgr8SYAz87YoMyf",
+  "snapshot_id": "ZqrQAAAAAAACmiVYskEAEnIaSFCLjzH/",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.O.B. Live",
-        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+        "name": "Brindo Con Agua",
+        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
       },
       "artists": [
-        {
-          "name": "Miri Ben-Ari",
-          "url": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
-        },
         {
           "name": "Aventura",
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 253773,
-      "name": "Jos\u00e9",
-      "url": "https://open.spotify.com/track/4TLzeL9PFoBoUNQv4sc7me"
+      "duration_ms": 281082,
+      "name": "Brindo Con Agua",
+      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brindo Con Agua",
-        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
       },
       "artists": [
+        {
+          "name": "Miri Ben-Ari",
+          "url": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
+        },
         {
           "name": "Aventura",
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 281082,
-      "name": "Brindo Con Agua",
-      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
+      "duration_ms": 253773,
+      "name": "Jos\u00e9",
+      "url": "https://open.spotify.com/track/4TLzeL9PFoBoUNQv4sc7me"
     },
     {
       "added_at": null,

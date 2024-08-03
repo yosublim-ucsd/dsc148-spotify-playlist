@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Aimee Carty",
+  "description": "New tunes from Ireland for your discovery. Cover: Gurriers",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 168113,
       "name": "2 days into college",
       "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "lovestruck",
+        "url": "https://open.spotify.com/album/6tjeSCZtywuXOhqZpeW2sn"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gaffney",
+          "url": "https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "lovestruck",
+      "url": "https://open.spotify.com/track/7n9D0wjerUgKgwRR6bT1k2"
+    },
+    {
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/2qOO0fQwkuPCBVY1Owvdsj"
       },
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 215000,
       "name": "Of Land and Sea",
       "url": "https://open.spotify.com/track/2ms9xDLkNjDGVnDzqRYSiw"
@@ -3160,6 +3178,24 @@
       "duration_ms": 184235,
       "name": "They Called Her Something",
       "url": "https://open.spotify.com/track/0MuNwv9HUPJVqy1vLUSMKt"
+    },
+    {
+      "album": {
+        "name": "Top Of The Bill",
+        "url": "https://open.spotify.com/album/30mkZmbGPyvicNPNjC8xyz"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233560,
+      "name": "Top Of The Bill",
+      "url": "https://open.spotify.com/track/5Nk0fgUhD5DwwjCjN7erYh"
     },
     {
       "album": {

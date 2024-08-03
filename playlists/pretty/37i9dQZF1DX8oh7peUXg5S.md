@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Luis Eduardo Aute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,870 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,905 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 59 | [No Se por Que Te Quiero](https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Mirame](https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs) | 3:35 |
 | 60 | [Santa Lucia](https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Canciones De Amor Para Tiempos Dificiles](https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR) | 3:45 |
 | 61 | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn) | 6:30 |
-| 62 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 |
-| 63 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 |
+| 62 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 |
+| 63 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 |
 | 64 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 |
 | 65 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
 | 66 | [Al alba](https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY) | [Jose Merce](https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8) | [Aire](https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk) | 4:16 |

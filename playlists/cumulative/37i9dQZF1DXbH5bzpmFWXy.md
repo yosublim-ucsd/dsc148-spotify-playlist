@@ -2,9 +2,9 @@
 
 ### [El Barrio MP3](https://open.spotify.com/playlist/37i9dQZF1DXbH5bzpmFWXy)
 
-> Dos estilos, dos sonidos, un mismo origen: El Barrio\. Adriel Favela, Tito Double P, Juanchito en portada.
+> Dos estilos, dos sonidos, un mismo origen: El Barrio\. Victor Mendivil, Oscar Maydon en portada.
 
-507 songs - 1 day 3 hr 17 min
+508 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,10 +305,11 @@
 | [Me Escojo A Mi](https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Me Escojo A Mi](https://open.spotify.com/album/03sYBeXU2wGBf7gdfjf17V) | 2:48 | 2023-06-09 | 2023-07-15 |
 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 | 2022-06-01 | 2024-03-16 |
 | [Me Metí en el Ruedo \- Remix](https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Metí en el Ruedo \(Remix\)](https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb) | 2:54 | 2023-05-05 | 2023-05-20 |
-| [ME PRENDO UN GALLO](https://open.spotify.com/track/7re8yr31VL3aGEIgfCIGVn) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [ME PRENDO UN GALLO](https://open.spotify.com/album/6nOz8DD7iIlAeMjXHXsLbX) | 3:14 | 2024-07-12 |  |
+| [ME PRENDO UN GALLO](https://open.spotify.com/track/7re8yr31VL3aGEIgfCIGVn) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [ME PRENDO UN GALLO](https://open.spotify.com/album/6nOz8DD7iIlAeMjXHXsLbX) | 3:14 | 2024-07-12 | 2024-08-03 |
 | [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 | 2022-09-23 | 2022-12-06 |
 | [Me Voy Pa'l Infierno](https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Me Voy Pa'l Infierno](https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ) | 3:07 | 2022-10-28 | 2023-02-04 |
 | [Mecha Corta](https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mecha Corta](https://open.spotify.com/album/6LTuoNqFv4mpSTUjGsbfiI) | 3:25 | 2023-02-24 | 2023-08-05 |
+| [Mejores Jordans](https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mejores Jordans](https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz) | 3:54 | 2024-08-02 |  |
 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 | 2022-06-01 | 2022-09-24 |
 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 | 2022-06-01 | 2023-01-14 |
 | [Mi Corrido \- Remix / En Vivo](https://open.spotify.com/track/684U87L4tAJAPr4AfTj9rD) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Mi Corrido \(Remix / En Vivo\)](https://open.spotify.com/album/1A2kOPeWivOgBXX0B5a7yJ) | 3:41 | 2023-08-08 | 2023-11-18 |

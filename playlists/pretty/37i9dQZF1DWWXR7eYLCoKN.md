@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,150 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,189 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 36 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 |
 | 37 | [Chega de Saudade](https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Beth](https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO) | 3:28 |
 | 38 | [Papo Final](https://open.spotify.com/track/1S8iDtct4TXU3AbZYW5BIp) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Papo Final](https://open.spotify.com/album/4RAvbjlgTKKlWTfX2XOGmQ) | 2:33 |
-| 39 | [Trilha do Amor \- Ao Vivo](https://open.spotify.com/track/62CE5q62TRlQn6IlkRY5e1) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambasá \(Ao Vivo\)](https://open.spotify.com/album/5oOP2shCd8ScEWH2mHDecV) | 3:35 |
-| 40 | [Retalhos De Cetim](https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp) | [Benito 80](https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Novo Samba Sempre Novo](https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf) | 3:57 |
+| 39 | [Retalhos De Cetim](https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp) | [Benito 80](https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Novo Samba Sempre Novo](https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf) | 3:57 |
+| 40 | [Trilha do Amor \- Ao Vivo](https://open.spotify.com/track/62CE5q62TRlQn6IlkRY5e1) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambasá \(Ao Vivo\)](https://open.spotify.com/album/5oOP2shCd8ScEWH2mHDecV) | 3:35 |
 | 41 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 |
 | 42 | [Alquimias](https://open.spotify.com/track/0AXNgjMMwC79W7C3FtzkDP) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [Urucungo](https://open.spotify.com/album/0lMmvVQva0pzeKH1aJ6r1p) | 5:11 |
 | 43 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 44 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
 | 45 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 |
 | 46 | [Samba de Amanda e Té](https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:16 |
-| 47 | [LONGE LONGE DE MIM](https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:26 |
-| 48 | [Alegria / o Sol Nascerá](https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambas & Bossas](https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S) | 4:09 |
+| 47 | [Alegria / o Sol Nascerá](https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambas & Bossas](https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S) | 4:09 |
+| 48 | [LONGE LONGE DE MIM](https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:26 |
 | 49 | [Balanço Zona Sul](https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Baterista: Wilson Das Neves](https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ) | 2:14 |
 | 50 | [Água de Chuva no Mar \- Do filme "Um Casal Inseparável"](https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Água de Chuva no Mar \(Do filme "Um Casal Inseparável"\)](https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo) | 4:08 |
 | 51 | [Dança Da Solidão](https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bis \- Paulinho Da Viola](https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo) | 2:29 |

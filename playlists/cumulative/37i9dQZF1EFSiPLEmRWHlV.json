@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Believe Me Now?",
+        "url": "https://open.spotify.com/album/6OYYBT80KKtInCsTQEDN5c"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156248,
+      "name": "Back Around",
+      "url": "https://open.spotify.com/track/3m7qHRUPOWazct8oCarycj"
+    },
+    {
+      "album": {
         "name": "HISTORY",
         "url": "https://open.spotify.com/album/6IwONZNPHt81ip42NboklH"
       },
@@ -1733,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Riddles",
+        "url": "https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC"
+      },
+      "artists": [
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu"
+    },
+    {
+      "album": {
         "name": "Right Direction",
         "url": "https://open.spotify.com/album/0SjCHCGfMup38P8YhMQPOS"
       },
@@ -2135,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/56tUVhEvrYo9J3lPZzTy9v"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298086,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/31733EiuBEBNhelaSW8yAI"
+    },
+    {
+      "album": {
         "name": "Sequence",
         "url": "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
       },
@@ -2146,7 +2200,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 298086,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/7l9b0AZg0rgkUUsoUD0TiR"

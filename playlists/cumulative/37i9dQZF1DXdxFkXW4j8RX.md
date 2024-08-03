@@ -2,9 +2,9 @@
 
 ### [Rap Chileno](https://open.spotify.com/playlist/37i9dQZF1DXdxFkXW4j8RX)
 
-> La casa de lxs MC's\. Foto: EnSecreto
+> La casa de lxs MC's\. Foto: Portavoz.
 
-208 songs - 11 hr 56 min
+209 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [I Love You a Lo Vío](https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Adosene](https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk) | [Techymuv](https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe) | 5:11 | 2022-07-15 | 2023-10-02 |
 | [I Love You a Lo Vío \(feat\. Movimiento Original\)](https://open.spotify.com/track/7bdkF0rHjyjnIeqBjQAdR0) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Techymuv](https://open.spotify.com/album/0nx6tyjIV5LEoJhb44GcNT) | 5:11 | 2022-01-06 | 2022-07-29 |
 | [III Figura](https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [III Figura](https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d) | 3:32 | 2022-07-15 | 2023-08-05 |
-| [Kenjutsu](https://open.spotify.com/track/5NqtOukKoItpEW9R5p5tlf) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [711.worldd](https://open.spotify.com/artist/0F4TUkpWXASgjNGZIrc4iz) | [Kenjutsu](https://open.spotify.com/album/0CAV9icjAk4uQ1JwCYWMSz) | 2:19 | 2024-06-18 |  |
+| [Kenjutsu](https://open.spotify.com/track/5NqtOukKoItpEW9R5p5tlf) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [711.worldd](https://open.spotify.com/artist/0F4TUkpWXASgjNGZIrc4iz) | [Kenjutsu](https://open.spotify.com/album/0CAV9icjAk4uQ1JwCYWMSz) | 2:19 | 2024-06-18 | 2024-08-03 |
 | [La Felicidad](https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [La Felicidad](https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q) | 3:23 | 2023-05-26 | 2024-01-20 |
 | [La Mitad Vacía O La Mitad Llena](https://open.spotify.com/track/7vD7np5RmrxEqNdCAhowYT) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [San Francisco Nights](https://open.spotify.com/album/2woY6QuO4JtwfMmSs0mKPh) | 3:50 | 2024-06-14 |  |
 | [La Paz](https://open.spotify.com/track/7H17GmZdbHIMolga9CEfBG) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [La Paz](https://open.spotify.com/album/1AmCrlFO3hFVQRyq522mzH) | 2:53 | 2022-07-15 |  |
@@ -193,6 +193,7 @@
 | [Tinta Extinta](https://open.spotify.com/track/112luQWZZRUTMboW09TQ3y) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq) | [Hip Hope](https://open.spotify.com/album/4keg6ZuJj3Lbp9OWtpd2ld) | 3:28 | 2022-07-15 | 2024-04-19 |
 | [Tiradera](https://open.spotify.com/track/0fm9Rp3mBxDMhfL7iMq5xo) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Tiradera](https://open.spotify.com/album/6QuAwTz7Vfn1RjOJC959NO) | 3:29 | 2023-02-03 | 2024-03-16 |
 | [Toca Perder](https://open.spotify.com/track/5RlTpFB3fE7hxlIKCV8bQm) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Jhamy](https://open.spotify.com/artist/0MXT3sKgWhZTp62naEUueH) | [Toca Perder](https://open.spotify.com/album/3EWWyaRZoEWcoagMYTYabZ) | 4:03 | 2022-01-06 |  |
+| [TODXS MIS VECINXS](https://open.spotify.com/track/01qkeLxbyewZTSlL1gGl2l) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Otreum](https://open.spotify.com/artist/4CKnkWYzE1wO4tcogBNb2M), [Zoneto'Zen](https://open.spotify.com/artist/4dd4SBMGI87lhyFSRG1T7z) | [SHAKA ZOO](https://open.spotify.com/album/61NlEAapMPi8QUApSv1LzT) | 2:41 | 2024-08-02 |  |
 | [Trascender](https://open.spotify.com/track/2h2Ffv9DGFRL3qHdTmSh4e) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML) | [Trascender](https://open.spotify.com/album/5z8swern7Agc4LXq0X4t8H) | 3:27 | 2022-01-06 | 2022-11-08 |
 | [Travel](https://open.spotify.com/track/4MRGiF6FaKQt9EVLOvc2Zs) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [Fénix \(Vol\. 2\)](https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv) | 4:44 | 2023-07-14 |  |
 | [Tren](https://open.spotify.com/track/2OAwGDFH4edopzVGnX9v9O) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [Dj See All](https://open.spotify.com/artist/5FjZ9eNIqPhZ0MxoZPTs7U) | [Tren](https://open.spotify.com/album/6Az6FqfAh1hWMtoYTBpsEW) | 3:26 | 2022-01-06 | 2024-01-13 |

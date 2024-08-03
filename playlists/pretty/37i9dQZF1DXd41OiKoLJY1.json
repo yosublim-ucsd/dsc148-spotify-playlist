@@ -1,6 +1,6 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Calista Artwork: Isu Kim\n",
-  "num_followers": 60711,
+  "num_followers": 60745,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZquxAAAAAAAOAysmGYv6JszD0CMWen2Q",
   "tracks": [
+    {
+      "added_at": "2024-08-01 16:00:00",
+      "album": {
+        "name": "Peaches",
+        "url": "https://open.spotify.com/album/0mV0LbwpbrUvehPNOEV1wa"
+      },
+      "artists": [
+        {
+          "name": "JONAVI",
+          "url": "https://open.spotify.com/artist/6zKX6Ksa6Yk5OZRG1Fk7vA"
+        }
+      ],
+      "duration_ms": 147142,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/2s5AipH9QZ8ObIGEnbEeM7"
+    },
     {
       "added_at": "2024-08-01 16:00:00",
       "album": {

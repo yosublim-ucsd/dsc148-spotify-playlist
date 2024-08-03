@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,910 likes - 65 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,992 likes - 65 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 31 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
 | 32 | [In the Mood](https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 3:45 |
 | 33 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
-| 34 | [Desperation \(Stereo Version\)](https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5) | [Humble Pie](https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU) | [As Safe As Yesterday Is](https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw) | 6:27 |
+| 34 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 |
 | 35 | [Won't Be Taken Down](https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Eyes Wide Open](https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF) | 5:57 |
-| 36 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 |
+| 36 | [Desperation \(Stereo Version\)](https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5) | [Humble Pie](https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU) | [As Safe As Yesterday Is](https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw) | 6:27 |
 | 37 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
 | 38 | [Cries from the Midnight Circus](https://open.spotify.com/track/52Fn9DRxCDZlcjZXXxxqT5) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK) | 6:28 |
 | 39 | [Shapes of Things](https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 3:17 |

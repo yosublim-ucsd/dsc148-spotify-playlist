@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,036 likes - 22 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,036 likes - 23 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 18 | [Calorsitos Del Desierto](https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 3:29 |
 | 19 | [Peligro](https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5) | [Trouble Kidd](https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Peligro](https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh) | 2:08 |
 | 20 | [Seguiremos Trabajando](https://open.spotify.com/track/2IIM3kOZaaGAKbmhTbeBiF) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:02 |
-| 21 | [El Vivo Retrato \(Ivan Archivaldo\)](https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:44 |
-| 22 | [L.A\. Dank](https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:32 |
+| 21 | [Cartel De Reyes](https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3](https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS) | 2:10 |
+| 22 | [El Vivo Retrato \(Ivan Archivaldo\)](https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:44 |
+| 23 | [L.A\. Dank](https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:32 |
 
-Snapshot ID: `Zql+gAAAAADUH2XbPe1AonnvtrqpRQ6H`
+Snapshot ID: `ZqrQAAAAAADKUEzq8W/mGZ1BWKEtBKbK`

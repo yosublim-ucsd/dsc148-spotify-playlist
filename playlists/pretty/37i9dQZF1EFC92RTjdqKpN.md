@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012 likes - 181 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011 likes - 181 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 171 | [Every Night](https://open.spotify.com/track/4pIhySEQSAc1u8Aa3edT3M) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ), [Sarah Hudson](https://open.spotify.com/artist/11S3x86ILlsuCBil6EmDo2) | [The Return \(Deadly Deluxe\)](https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX) | 3:19 |
 | 172 | [Surrender \(feat\. J Hart\) \- Protoculture Radio Edit](https://open.spotify.com/track/1mlNZa1rAwSt8fG9jUDwoj) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [J Hart](https://open.spotify.com/artist/0CwAIKaq06Ep8gtTJ6zy0d) | [25 Years Of Perfecto Records \(Mixed by Paul Oakenfold\)](https://open.spotify.com/album/6AWPUXVvcxoh2aR3GMrXFL) | 3:32 |
 | 173 | [La lionne saigne](https://open.spotify.com/track/5LjMF2HGDvOcqLEhtrZmNe) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 2:47 |
-| 174 | [Father's Son](https://open.spotify.com/track/3kr37obFLPyn8bX9CHSCnP) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Father's Son](https://open.spotify.com/album/0Ti3d4vzU1JZd0kPhhRh4G) | 3:54 |
-| 175 | [2much2think](https://open.spotify.com/track/6Pu3WeA34o1JKRTU8eFKUD) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:49 |
+| 174 | [2much2think](https://open.spotify.com/track/6Pu3WeA34o1JKRTU8eFKUD) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:49 |
+| 175 | [Father's Son](https://open.spotify.com/track/3kr37obFLPyn8bX9CHSCnP) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Father's Son](https://open.spotify.com/album/0Ti3d4vzU1JZd0kPhhRh4G) | 3:54 |
 | 176 | [Always You](https://open.spotify.com/track/2GUSKl55bHEw5VAEBuFy06) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [The Wishing, The Wanting, The Longing](https://open.spotify.com/album/4Fks75uJTwftRTJRFlBRkl) | 2:50 |
 | 177 | [Crash My Car](https://open.spotify.com/track/2JfyKiGIPCsVe7CtVFqQRI) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Crash My Car](https://open.spotify.com/album/7BtWmsNzP5qOq1uvVLLBCC) | 2:44 |
 | 178 | [Bread and Butter](https://open.spotify.com/track/0LqUfE92cErfQ5pzGvpYa2) | [Jordan McGraw](https://open.spotify.com/artist/29wdR87Jh14i39ruPMMXYx) | [Jordan McGraw](https://open.spotify.com/album/5qhVf2cU941gVM5unOUPLj) | 2:45 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 180 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 181 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `AbYSNgAAAACD5lMbI4x2lev5t7zzcaem`
+Snapshot ID: `AbYXzAAAAAABPYEhnSW4sfEU587hbiqj`

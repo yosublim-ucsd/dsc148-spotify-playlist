@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,149 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,192 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 61 | [Passion](https://open.spotify.com/track/6IvKGL3DMPRPjJi8pz059W) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Wild Seed \- Wild Flower](https://open.spotify.com/album/2BUHZXylf9zzMmNOUo0JBW) | 5:42 |
 | 62 | [There Goes My Sanity](https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn) | [Lynden David Hall](https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ) | [Medicine 4 My Pain](https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK) | 5:16 |
 | 63 | [Dance My Way Back](https://open.spotify.com/track/6gwDGra690TbcUx3noEug5) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF), [Groove Safari](https://open.spotify.com/artist/1jnLp3FtI86FT8ND2vnncD), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Dance My Way Back](https://open.spotify.com/album/6anNmKSdX8tjNdt3p7kdSP) | 3:27 |
-| 64 | [Rescue Me](https://open.spotify.com/track/2C5KLdNvduql2CBS2w1DYq) | [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [They Don't Know](https://open.spotify.com/album/4xXFyI9A7KrpUK2PrVkzmG) | 4:01 |
-| 65 | [Can't Hardly Wait](https://open.spotify.com/track/36Pk18O34Y8aL4noAMONYz) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [Pink Elephant \(International\)](https://open.spotify.com/album/30PkpS49rq0BHoWKWC8Pfu) | 4:26 |
+| 64 | [Can't Hardly Wait](https://open.spotify.com/track/36Pk18O34Y8aL4noAMONYz) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [Pink Elephant \(International\)](https://open.spotify.com/album/30PkpS49rq0BHoWKWC8Pfu) | 4:26 |
+| 65 | [Rescue Me](https://open.spotify.com/track/2C5KLdNvduql2CBS2w1DYq) | [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [They Don't Know](https://open.spotify.com/album/4xXFyI9A7KrpUK2PrVkzmG) | 4:01 |
 | 66 | [Let's Get It On](https://open.spotify.com/track/45qbfUvlCkVIAMnHuZpbmU) | [Jeff Floyd](https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe) | [Powerhouse](https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE) | 5:39 |
 | 67 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 |
 | 68 | [Love's Not](https://open.spotify.com/track/5thLuoJ0PZHCjYzJypfpg4) | [Conya Doss](https://open.spotify.com/artist/67ONfRSpITV4rWHCQGSS3R) | [Seven: VII](https://open.spotify.com/album/5cbo0UmIkURONNZIbObXbu) | 4:33 |

@@ -2,9 +2,9 @@
 
 ### [This Is Kemilly Santos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mcByN)
 
-> This is Kemilly Santos\. The essential tracks, all in one playlist.
+> This is Kemilly Santos\. Todos os maiores hits em uma só playlist.
 
-52 songs - 4 hr 0 min
+53 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [O Desfecho](https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [O Desfecho](https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU) | 5:08 | 2023-07-09 | 2023-12-14 |
 | [O Desfecho](https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 5:08 | 2023-12-13 |  |
 | [O Jogo Virou](https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 3:32 | 2023-07-09 |  |
+| [Pedro](https://open.spotify.com/track/57FSmz2z4I2DLdjRBzdHpy) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Trilo](https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu) | 5:18 | 2024-08-03 |  |
 | [Plano Original](https://open.spotify.com/track/1zNWH6AFga2dG0L6uiW7Nf) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 4:49 | 2023-07-09 | 2023-12-14 |
 | [Por Trás Desse Silêncio](https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV) | 4:30 | 2024-04-02 |  |
 | [Por Trás Desse Silêncio](https://open.spotify.com/track/2f6WHHvOdqAcLbz6CsJf2u) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy) | 4:30 | 2023-07-09 | 2024-04-03 |

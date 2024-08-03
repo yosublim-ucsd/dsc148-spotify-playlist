@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 48063,
+  "num_followers": 48073,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADQgYLxuUbO5aSVW+8EyngC",
+  "snapshot_id": "ZqrQAAAAAABo++YjPDwrWzRU1+b28ShP",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3053\u3060\u307e",
-        "url": "https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "\u3053\u3060\u307e",
-      "url": "https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "slash",
         "url": "https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 238833,
       "name": "slash",
       "url": "https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u3053\u3060\u307e",
+        "url": "https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "\u3053\u3060\u307e",
+      "url": "https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8fd4\u5149(Movie Edition)",
-        "url": "https://open.spotify.com/album/0QNXYlm9zDHKXZA8UFa3DQ"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "\u8fd4\u5149(Movie Edition)",
-      "url": "https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the meaning of life",
         "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 240133,
       "name": "\u5929\u8272",
       "url": "https://open.spotify.com/track/2ug8mDoQnwu4EaU7wVSd6W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8fd4\u5149(Movie Edition)",
+        "url": "https://open.spotify.com/album/0QNXYlm9zDHKXZA8UFa3DQ"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "\u8fd4\u5149(Movie Edition)",
+      "url": "https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu"
     },
     {
       "added_at": null,

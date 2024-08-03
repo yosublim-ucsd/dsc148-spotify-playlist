@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: Sjaak &amp; YONII",
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: Dillon Francis &amp; longstoryshort",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -1524,6 +1524,24 @@
       "duration_ms": 187655,
       "name": "Gonna Dance with Somebody",
       "url": "https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7"
+    },
+    {
+      "album": {
+        "name": "Gonna Kill My Way",
+        "url": "https://open.spotify.com/album/0ZUeNzry9q22SNXQ88xIgD"
+      },
+      "artists": [
+        {
+          "name": "Eddy Black",
+          "url": "https://open.spotify.com/artist/5XCoXE7RaDvuyMCghkdmxK"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230697,
+      "name": "Gonna Kill My Way",
+      "url": "https://open.spotify.com/track/3IpWLISMLR0JMuLgXtm8nG"
     },
     {
       "album": {

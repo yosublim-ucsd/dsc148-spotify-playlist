@@ -2,9 +2,9 @@
 
 ### [New Música Mexicana Albums](https://open.spotify.com/playlist/37i9dQZF1DWXbC1ZOkTuut)
 
-> Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Ivan Cornejo
+> Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Panther Bélico
 
-520 songs - 1 day 2 hr 52 min
+526 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Adivina donde estoy \- En Vivo](https://open.spotify.com/track/6YQVPzkUZdTSRhpIJ3KHUq) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Live Sessions Vol.2 \(En Vivo\)](https://open.spotify.com/album/3GFiIqJ5yElwELSsLWPNY1) | 3:25 | 2024-03-15 |  |
 | [Adivina Dónde Estoy](https://open.spotify.com/track/1m9xETNiRKEE5h2UxGZFA1) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Buena Suerte](https://open.spotify.com/album/1mpRBVz9p8tRlZKgU9WGzK) | 2:41 | 2023-10-06 | 2024-02-24 |
 | [Afirmo Y Confirmo](https://open.spotify.com/track/6B0RIpnSENnQ1pVglfhh9W) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Perdona \(Estudio\)](https://open.spotify.com/album/1VqXJXP3g6etYfTeBHWWW0) | 2:22 | 2023-12-15 | 2024-04-27 |
+| [Agarra El Rollo Porfa](https://open.spotify.com/track/52CqI7QfSARwTPmHJ8FZOr) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 2:41 | 2024-08-02 |  |
 | [Ahora Te Vas](https://open.spotify.com/track/3vdp385pAOJpKigniL6w2m) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [T3r Elemento](https://open.spotify.com/artist/4humSAEOXGAgFDZIZTca0k) | [Y Lo Que Falta](https://open.spotify.com/album/7EQkzeNShMds3OuAn8VKRE) | 3:28 | 2024-07-26 |  |
 | [Ahí No Era](https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:10 | 2023-07-14 | 2024-02-24 |
 | [Algo Bien](https://open.spotify.com/track/1zfpy39kSjhxxsVpBdZLd6) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:44 | 2024-03-15 |  |
@@ -146,6 +147,7 @@
 | [El Gordo](https://open.spotify.com/track/6FDHxLIMzx65H3UXZCskVZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/5dVtllLtLJfLdBEwhzREF7) | 3:46 | 2023-05-19 | 2023-05-26 |
 | [El Gordo](https://open.spotify.com/track/3nhzGsXUP6EHQDKjQfBzhU) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/1iQv3FKUCzdJOiSSC1O4ZP) | 3:47 | 2023-05-19 | 2023-06-10 |
 | [El Gordo](https://open.spotify.com/track/73BzCLoktGr7WNKRCMc8VK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:47 | 2023-05-26 | 2024-02-24 |
+| [El Hijo De Pancho](https://open.spotify.com/track/6fUq6pdFM6h5vQAQCowPQE) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 2:50 | 2024-08-02 |  |
 | [El Intocable \- En Vivo](https://open.spotify.com/track/64XDolsGllLQL1ZKNREfRK) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Corridos Anonymous \(En Vivo\)](https://open.spotify.com/album/3bE2KswwaGAL328nxQd1Nz) | 2:58 | 2023-09-15 | 2024-02-24 |
 | [El Jabalí](https://open.spotify.com/track/61FVXN8bnWjau07qJ7tq5C) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 2:06 | 2023-05-19 | 2023-08-26 |
 | [El Jefe F](https://open.spotify.com/track/4eGikg72FZdoSXj9k0Zd64) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Y Lo Que Falta](https://open.spotify.com/album/7EQkzeNShMds3OuAn8VKRE) | 3:29 | 2024-07-26 |  |
@@ -156,6 +158,7 @@
 | [El Pato Zambada](https://open.spotify.com/track/3wWKhNMl5QOaZGV2eQO53G) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [XX](https://open.spotify.com/album/5NDAZXmSAgG7g9oeysYAZJ) | 3:30 | 2024-03-22 |  |
 | [El Pilotón](https://open.spotify.com/track/2OSC9jsFUoSxFBHT8zNqtq) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [El Pilotón](https://open.spotify.com/album/6X8FcbMWe7sh12T07RyXYY) | 2:38 | 2023-12-01 | 2024-02-24 |
 | [El Que Quiere Puede](https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:17 | 2023-12-01 | 2024-02-24 |
+| [El Rey Midas](https://open.spotify.com/track/0FPxhu7mznEMLfHR8oTAjc) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [DC1](https://open.spotify.com/album/0gyt0iGbi80kCFqbKT4GkA) | 2:31 | 2024-08-02 |  |
 | [El Rogón](https://open.spotify.com/track/3RBeE3VtrTXxGILHzdlxSe) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [El Rogón](https://open.spotify.com/album/4z8VsTXlpgRpqLCucPhGlD) | 2:41 | 2023-12-15 | 2024-04-27 |
 | [El Salado](https://open.spotify.com/track/7nxBGmL17XLT5al1Lf7vTv) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Fiesta, Fiesta](https://open.spotify.com/album/5oMNdms9HuOfAtlUf3mF8J) | 2:17 | 2023-05-19 | 2023-07-01 |
 | [El Silent](https://open.spotify.com/track/1A4brAeYlatGpoRxAs06UE) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Rojo](https://open.spotify.com/album/3TQE7Z8ScW2bFmB1DdVp7X) | 2:20 | 2023-09-15 | 2024-02-24 |
@@ -187,6 +190,7 @@
 | [FRACASO \(With Alejandro Buelna\)](https://open.spotify.com/track/1uZo4RpiQPDn4FVrckJvrx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 3:24 | 2024-03-01 |  |
 | [Fruta Prohibida \(En Vivo\)](https://open.spotify.com/track/5m9nkKTgo3D4vrFG7yVW2Q) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Fruta Prohibida \(En Vivo\)](https://open.spotify.com/album/6YdurIed4b8G10sqyiRi5Y) | 2:43 | 2023-05-19 | 2024-02-24 |
 | [Fue La Tentación](https://open.spotify.com/track/02etrm7YrkxifAYChqAVPQ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:17 | 2023-05-19 | 2023-06-24 |
+| [Fue Un Error](https://open.spotify.com/track/332fNfcFr8Jtr4lsVHysQp) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 2:59 | 2024-08-02 |  |
 | [Fuga Del Jefe](https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Contrato A La Vida](https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD) | 2:43 | 2023-12-08 | 2024-04-27 |
 | [Gallo Jugando](https://open.spotify.com/track/4LbP7GtS9ulqHofk82t9mo) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Van Hablar](https://open.spotify.com/album/5t5c8L3yWKwKGpsIlbFLe0) | 2:55 | 2024-02-23 |  |
 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 | 2023-05-19 | 2023-06-24 |
@@ -342,6 +346,7 @@
 | [NM](https://open.spotify.com/track/3cR4SPW2eq9vOuayPF4G8e) | [Grupo Supr3me](https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv) | [El Muñecon](https://open.spotify.com/album/67aPJP3TsIhlvRP1cIzcFV) | 2:24 | 2024-01-12 |  |
 | [NO BUSCABA NADA](https://open.spotify.com/track/4JjyrXAkDQu46cTqwn6MN9) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE AMARÉ](https://open.spotify.com/album/5OdUMe822QLsNbHjULZB8Y) | 2:46 | 2024-04-26 |  |
 | [No Conozco el Miedo](https://open.spotify.com/track/5VQIWG4HE50EQJPfZVJ4J5) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [No Conozco el Miedo](https://open.spotify.com/album/6ST9whr0v2d5ABrMDAyKKb) | 2:52 | 2024-04-26 |  |
+| [No Fue Por Suerte](https://open.spotify.com/track/1OXeGOWsiWg07gEPOiuolo) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [DC1](https://open.spotify.com/album/0gyt0iGbi80kCFqbKT4GkA) | 3:27 | 2024-08-02 |  |
 | [No Fuiste Tú](https://open.spotify.com/track/2GgTs6KZ2ACoEVqbsIUkEN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:42 | 2024-05-03 |  |
 | [No Mata Un Adiós](https://open.spotify.com/track/57t2aQMU7ALAuH8GRbCqy7) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 3:12 | 2024-03-29 |  |
 | [No Me Cree](https://open.spotify.com/track/0qBywtCUGYAlKDdcALQkjx) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Apadrinado](https://open.spotify.com/album/7KvMBCC3HVeMeF0wL3oTEn) | 3:20 | 2023-09-29 | 2024-02-24 |
@@ -448,6 +453,7 @@
 | [Solamente Una Vez](https://open.spotify.com/track/1kRvQGxP8fjgRgxOAMiHch) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 2:59 | 2024-02-23 |  |
 | [Solo Espero](https://open.spotify.com/track/1a0U6PXF3lUi3NaMwIeW5G) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Palm Street Music, Vol\. 1](https://open.spotify.com/album/7fwncJsgC0MNq75dIOb6Yg) | 2:39 | 2023-12-08 | 2024-04-13 |
 | [Solo Tu](https://open.spotify.com/track/2EXBHEndxcIlOF9H3QwARz) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:13 | 2023-06-23 | 2024-02-24 |
+| [Sombrero Blanco](https://open.spotify.com/track/1U80wKNV623WARMmfgcUTW) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [DC1](https://open.spotify.com/album/0gyt0iGbi80kCFqbKT4GkA) | 3:16 | 2024-08-02 |  |
 | [Sorry Pa’ Los Gabachos](https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:18 | 2023-11-24 | 2024-02-24 |
 | [Soy El Cabezón \(En Vivo\)](https://open.spotify.com/track/7yWlXAjKdfdAPRLrk6mZ9X) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Culiacán Deluxe 2 \(En Vivo\)](https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU) | 3:54 | 2023-12-15 | 2024-07-27 |
 | [SR\. SMITH](https://open.spotify.com/track/1qrhpxdnC4nUCyFefPVCDa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:41 | 2024-06-21 |  |

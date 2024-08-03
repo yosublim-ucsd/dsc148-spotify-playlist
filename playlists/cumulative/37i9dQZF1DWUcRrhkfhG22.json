@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/5A2e5fAX9EGVDhYAfVgoFj"
+      },
+      "artists": [
+        {
+          "name": "Kazzey",
+          "url": "https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243745,
+      "name": "Abdelhak",
+      "url": "https://open.spotify.com/track/2auWvIfCr5N2FMp8M80hP5"
+    },
+    {
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f"
       },

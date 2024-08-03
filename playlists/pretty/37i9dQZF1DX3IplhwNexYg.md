@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Hak Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,184 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,181 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 29 | [Shower Beer](https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:11 |
 | 30 | [Ahead of Myself](https://open.spotify.com/track/0iSppEday3KI8mmLSM5IUo) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/2YhIWlLm5732Oz1Spon1ss) | 3:44 |
 | 31 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 |
-| 32 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
-| 33 | [Holdup](https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Got Him!](https://open.spotify.com/album/6rBt5RO5Yb4sfMwGpWXjyU) | 2:35 |
+| 32 | [Holdup](https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Got Him!](https://open.spotify.com/album/6rBt5RO5Yb4sfMwGpWXjyU) | 2:35 |
+| 33 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
 | 34 | [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 |
 | 35 | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon) | 2:33 |
 | 36 | [Sickly Sweet](https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:23 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 50 | [Selling Shovels](https://open.spotify.com/track/6OLfxKILVcEUVEUPqikgYc) | [Silverbacks](https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4) | [Selling Shovels](https://open.spotify.com/album/1YPMTEHiTJ4mj3ZB3ItXm9) | 4:22 |
 | 51 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 |
 | 52 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 |
-| 53 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 |
-| 54 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
+| 53 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
+| 54 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 |
 | 55 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 56 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 |
 | 57 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 65 | [Spaceman](https://open.spotify.com/track/5pU3DvhvDQLZ8RyAy5ShSt) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Spaceman](https://open.spotify.com/album/7DwNN6vPMPnWaYkNPFI7Ie) | 3:52 |
 | 66 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
 | 67 | [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 |
-| 68 | [St\. Charles Square](https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 3:55 |
-| 69 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
+| 68 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
+| 69 | [St\. Charles Square](https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 3:55 |
 | 70 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 |
 | 71 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 |
 | 72 | [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 |

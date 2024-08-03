@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,519 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,531 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 34 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 |
 | 35 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 |
 | 36 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:28 |
-| 37 | [Seek Love \(On The Beach\)](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF), [Samuele Sartini](https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Seek Love \(On The Beach\) \(feat\. Amanda Wilson & York\)](https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O) | 2:30 |
-| 38 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 |
+| 37 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 |
+| 38 | [Seek Love \(On The Beach\)](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF), [Samuele Sartini](https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Seek Love \(On The Beach\) \(feat\. Amanda Wilson & York\)](https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O) | 2:30 |
 | 39 | [Without You \(with HAYLA\)](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Without You \(with HAYLA\)](https://open.spotify.com/album/41OLKYtwOINYu55eAMBdhk) | 4:23 |
 | 40 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 |
 | 41 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |

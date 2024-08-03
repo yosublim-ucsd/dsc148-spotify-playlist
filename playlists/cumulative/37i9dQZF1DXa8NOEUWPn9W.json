@@ -2880,7 +2880,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 192191,
       "name": "Calling",
       "url": "https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz"
@@ -4614,7 +4614,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 135967,
       "name": "Don't Abuse It",
       "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
@@ -5812,7 +5812,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 158716,
       "name": "Fine Fine Baby (with Kah-Lo)",
       "url": "https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO"
@@ -6484,7 +6484,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 156948,
       "name": "Get Hard (You In The Lobby)",
       "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
@@ -6642,7 +6642,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 176185,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
@@ -6754,7 +6754,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 169523,
       "name": "Give It To Me Good",
       "url": "https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK"
@@ -8393,6 +8393,28 @@
     },
     {
       "album": {
+        "name": "I've Arrived (with Tomike)",
+        "url": "https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150923,
+      "name": "I've Arrived (with Tomike)",
+      "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
+    },
+    {
+      "album": {
         "name": "If Love Is A Skill & Georgia",
         "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
       },
@@ -10004,7 +10026,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 216466,
       "name": "Life Lesson",
       "url": "https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr"
@@ -11306,7 +11328,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 214174,
       "name": "ME",
       "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
@@ -11712,7 +11734,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 200307,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
@@ -11786,7 +11808,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 371897,
       "name": "More Love - Rampa &ME Remix",
       "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
@@ -13223,6 +13245,24 @@
     },
     {
       "album": {
+        "name": "Party Time",
+        "url": "https://open.spotify.com/album/46ATcqjybqaFdoSzihPf0o"
+      },
+      "artists": [
+        {
+          "name": "James View",
+          "url": "https://open.spotify.com/artist/07CtYKvP7pqKd2aIBqhgpr"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Party Time",
+      "url": "https://open.spotify.com/track/0YsqM8QeilX8nxC2uUhsK4"
+    },
+    {
+      "album": {
         "name": "Party's Jumpin",
         "url": "https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy"
       },
@@ -13830,7 +13870,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 144390,
       "name": "Ready To Go (My Addiction)",
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
@@ -15870,7 +15910,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 156022,
       "name": "Stay Together (Baby Baby) [feat. Vula]",
       "url": "https://open.spotify.com/track/5Wwrj8E4h3bJQjOvzpPg9T"
@@ -17506,7 +17546,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180261,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd"
@@ -18112,7 +18152,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182891,
       "name": "Vente",
       "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"

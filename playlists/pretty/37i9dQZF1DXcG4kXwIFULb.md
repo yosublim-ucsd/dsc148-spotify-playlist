@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,886 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,991 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 68 | [Near the Black Forest](https://open.spotify.com/track/5DqgAiif05gAXy4qC5ag17) | [Vanessa Daou](https://open.spotify.com/artist/0r13pf5aRSEWKl7m7qMXXT) | [Zipless \(Songs from the Works of Erica Jong\)](https://open.spotify.com/album/3IWegipqP4WNAIMGon5KyK) | 4:46 |
 | 69 | [Sometime Later](https://open.spotify.com/track/2msfWw8i2c1lkAErI9D9O9) | [Alpha](https://open.spotify.com/artist/3FKLqq9ByYJSPId24Es3vF) | [Come From Heaven](https://open.spotify.com/album/0blm7ESsfrsrTSKtpt7npY) | 7:01 |
 | 70 | [It's Over](https://open.spotify.com/track/6jcSHz9Uz3Tg1t5IMVZnQ8) | [Lazy](https://open.spotify.com/artist/40xNNEdgCc2RVHO6vagYC7) | [Chillout Album 3](https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS) | 3:28 |
-| 71 | [Village Tap](https://open.spotify.com/track/0dhB88Ran1cvX7DeRvcxvR) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Hyena](https://open.spotify.com/album/5lxxwkGTqq6wa8RBAOZLnJ) | 5:29 |
-| 72 | [Original Bedroom Rockers](https://open.spotify.com/track/2BA7w9adWgbSkIcYqny7K5) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Chillout Album 3](https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS) | 4:47 |
+| 71 | [Original Bedroom Rockers](https://open.spotify.com/track/2BA7w9adWgbSkIcYqny7K5) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Chillout Album 3](https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS) | 4:47 |
+| 72 | [Village Tap](https://open.spotify.com/track/0dhB88Ran1cvX7DeRvcxvR) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Hyena](https://open.spotify.com/album/5lxxwkGTqq6wa8RBAOZLnJ) | 5:29 |
 | 73 | [Inside My Mind \(Blue Skies\) \- Elephant Remix](https://open.spotify.com/track/2ZLfTG0D2CVl773CLfNGbO) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [NBG](https://open.spotify.com/artist/56XXQm9k3766HSJx7mTunW) | [The Remixes](https://open.spotify.com/album/6LWpqZwfSS8X4nmqS9g44S) | 7:02 |
 | 74 | [10](https://open.spotify.com/track/4zC159B91HDN9k59cc8sJN) | [Misled Children](https://open.spotify.com/artist/5Nh20cXNrzYKYw2Gb4Q2oW) | [Peoples Market](https://open.spotify.com/album/06ytFbyMBooSUBg8kFmc5E) | 3:42 |
 | 75 | [Music By Cavelight](https://open.spotify.com/track/6nCWF2aVa8RXeYil3co27v) | [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Music By Cavelight](https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj) | 4:10 |

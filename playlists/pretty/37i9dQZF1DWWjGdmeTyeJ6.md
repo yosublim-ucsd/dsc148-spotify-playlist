@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: SELVA VOLCÁN & Mayra Sánchez, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,884 likes - 200 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203,921 likes - 200 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 23 | [quiero creer que tienes un buen corazón](https://open.spotify.com/track/62qBQeXsGkn2fytlmvUUvr) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [quiero creer que tienes un buen corazón](https://open.spotify.com/album/2zzufzmGi2DhSSopXrjXlw) | 3:36 |
 | 24 | [will you, say your name](https://open.spotify.com/track/0hv4dNi96wfpvX7TifcrZ8) | [Gloom East](https://open.spotify.com/artist/08uFeaJXuBJKkPXuWleYY5) | [will you, say your name](https://open.spotify.com/album/39Ld2bcn5AhTpvoFqefhoD) | 3:10 |
 | 25 | [wes anderson \(your dog\)](https://open.spotify.com/track/1x6YG1aUQ7oA47WU2TnMZq) | [boyhood.](https://open.spotify.com/artist/3OkBUJ0rFE6v0L5HeeMspT) | [wes anderson \(your dog\)](https://open.spotify.com/album/1OnwgkYJaR2mezV5UpxwOm) | 3:21 |
-| 26 | [Presence](https://open.spotify.com/track/0sC050Ym8TNMuBNSn0ilYW) | [Bobby Peppermint](https://open.spotify.com/artist/52sLlXe0RySIpfuhTtsvDo) | [Presence](https://open.spotify.com/album/6UZ2Htk0SMwcpLjXfS33f4) | 2:17 |
+| 26 | [Presence](https://open.spotify.com/track/0sC050Ym8TNMuBNSn0ilYW) | [Bobby Peppermint](https://open.spotify.com/artist/52sLlXe0RySIpfuhTtsvDo), [Heaven Slight](https://open.spotify.com/artist/32LEcsG3biRsMzdU6VVoMd) | [Presence](https://open.spotify.com/album/6UZ2Htk0SMwcpLjXfS33f4) | 2:17 |
 | 27 | [MOLLY](https://open.spotify.com/track/0MS4GCNXVfBTaAnJOHE3zI) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [MOLLY](https://open.spotify.com/album/55JNFgRaT0CFt5FxCOFnJF) | 4:54 |
 | 28 | [Taste The Dirt](https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Taste The Dirt](https://open.spotify.com/album/5SFkvjzqD5QmOARqp1MIDm) | 2:56 |
 | 29 | [Free](https://open.spotify.com/track/1Qxo4KrJ8Hf5bmoTf2SNBK) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Allora](https://open.spotify.com/album/5Dixqdhyp9O05LcRbyO2zV) | 8:07 |

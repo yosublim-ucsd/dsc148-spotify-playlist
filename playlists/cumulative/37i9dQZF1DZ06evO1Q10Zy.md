@@ -2,9 +2,9 @@
 
 ### [This Is Babyface](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Q10Zy)
 
-> This Is Babyface\. Los temas esenciales, todos en una lista.
+> This is Babyface\. The essential tracks, all in one playlist.
 
-87 songs - 6 hr 15 min
+88 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Reason for Breathing \- Album Edit](https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Reason For Breathing](https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q) | 5:42 | 2022-06-04 |  |
 | [Reunited](https://open.spotify.com/track/3FUnoNtMGU9XjEKFmgXIR4) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:17 | 2022-06-04 |  |
 | [Roller Coaster](https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:23 | 2022-06-04 |  |
+| [Runaway](https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Lips On Lips](https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl) | 3:46 | 2024-08-03 |  |
 | [Say Less \(with Tiana Major9\)](https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:56 | 2022-10-24 | 2024-02-21 |
-| [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 | 2022-08-13 |  |
+| [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 | 2022-08-13 | 2024-08-03 |
 | [Seven Seas](https://open.spotify.com/track/2pLD65NMnE6XuuTy4tId65) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:02 | 2022-06-04 |  |
 | [Shoulda \(feat\. Babyface\)](https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Painted \(Deluxe Edition\)](https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua) | 3:37 | 2022-06-04 |  |
 | [Shower The People](https://open.spotify.com/track/361bWRNhfGxsONSCJodBqd) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 4:37 | 2022-06-04 | 2022-10-11 |

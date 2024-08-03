@@ -613,6 +613,32 @@
     },
     {
       "album": {
+        "name": "Feral",
+        "url": "https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        },
+        {
+          "name": "$teven Cannon",
+          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134543,
+      "name": "All Black",
+      "url": "https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB"
+    },
+    {
+      "album": {
         "name": "All But A Dream",
         "url": "https://open.spotify.com/album/3hoLLHytifFVosoaxST1fz"
       },
@@ -15056,7 +15082,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182033,
       "name": "Underneath",
       "url": "https://open.spotify.com/track/5ysXuifk655k82MjxXHxzS"

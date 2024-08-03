@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
+  "description": "This is Phoebe Bridgers. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Phoebe Bridgers",
   "tracks": [
     {
@@ -174,6 +174,28 @@
       "duration_ms": 192070,
       "name": "Bite The Hand",
       "url": "https://open.spotify.com/track/03h0ioes0mfaZIeAO1fV5o"
+    },
+    {
+      "album": {
+        "name": "Claw Machine",
+        "url": "https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Jane",
+          "url": "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227786,
+      "name": "Claw Machine",
+      "url": "https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc"
     },
     {
       "album": {

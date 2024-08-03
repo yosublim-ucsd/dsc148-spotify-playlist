@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,297 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,325 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 43 | [Swara Raga Sankarabharanam Adi Thyagaraja](https://open.spotify.com/track/1dKNRFKU3CV4Xx6Ybiwt3H) | [Sheik Chinna Moulana](https://open.spotify.com/artist/2YrHbZUsTCzHMF09I5m4DZ) | [South Indian Classical Music](https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1) | 13:37 |
 | 44 | [Maha Ganapathim Nata Chatusraekam \- original](https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr) | [Dikshithar](https://open.spotify.com/artist/0eDZju05yhZaoIYegmAO1j), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Blissful Veena \(original\)](https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG) | 5:44 |
 | 45 | [Vathapi \- Hamsadwani \- Adi](https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa) | [Trichy L\. Saravanan](https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2) | [Classical Flute Collections](https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2) | 9:22 |
-| 46 | [Srikanthimati \- Raga Hemavati \- Adi](https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC), [S\. D\. Shreedhar](https://open.spotify.com/artist/4dxOpsI4hcEO0T6LSAAY2v) | [Classical Icons \- U\. Srinivas](https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi) | 26:49 |
-| 47 | [Jagadhodharana](https://open.spotify.com/track/4NBwL6wloNkYC7ebNKEOiQ) | [Anayampatti Ganesan](https://open.spotify.com/artist/7peRM2HNejEZitLzz6jn7U) | [Entharo Mahanu Bhavulu](https://open.spotify.com/album/3DrMgh6rUz4s5eTAQZ8dmG) | 5:04 |
+| 46 | [Jagadhodharana](https://open.spotify.com/track/4NBwL6wloNkYC7ebNKEOiQ) | [Anayampatti Ganesan](https://open.spotify.com/artist/7peRM2HNejEZitLzz6jn7U) | [Entharo Mahanu Bhavulu](https://open.spotify.com/album/3DrMgh6rUz4s5eTAQZ8dmG) | 5:04 |
+| 47 | [Srikanthimati \- Raga Hemavati \- Adi](https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC), [S\. D\. Shreedhar](https://open.spotify.com/artist/4dxOpsI4hcEO0T6LSAAY2v) | [Classical Icons \- U\. Srinivas](https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi) | 26:49 |
 | 48 | [Kriti: Padavini with Vina and Mrdangam](https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q) | [Trichy Sankaran](https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd) | [Laya Vinyas](https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn) | 3:53 |
 | 49 | [Sambho Mahaadeva](https://open.spotify.com/track/6WBqkuNScTjtfOI5XB6cg3) | [D S D Selvarathinam](https://open.spotify.com/artist/74i3Sm3ydql7bWtNVoBrdY) | [Subhamuhurtham \- Nadaswaram](https://open.spotify.com/album/4i8nApXIIMM8QqzVao74hV) | 8:32 |
 | 50 | [Alaap & Melody: Ragaabheri \(Rupaka \- Aditala\) / Raga Bhimplasi \(Ektaal \- Teentaal\)](https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7), [V Narasinhalu Wadvati](https://open.spotify.com/artist/3fyJiRcPfMSn1o0RjCLmYs) | [Jugalbandi](https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije) | 1:00:04 |

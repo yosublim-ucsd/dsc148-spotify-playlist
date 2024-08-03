@@ -2,9 +2,9 @@
 
 ### [This Is BLACKPINK](https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA)
 
-> Join us as we celebrate 8 years with BLACKPINK by throwing it back to their debut in 2016!
+> It's day 2 of our BLACKPINK Anniversary celebration! Let's party As If It's Your Last!
 
-83 songs - 4 hr 28 min
+88 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All Eyes On Me](https://open.spotify.com/track/7e4OpsQwklauQSXlBvM5WD) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:43 | 2023-04-03 |  |
 | [As If It's Your Last](https://open.spotify.com/track/1Zyd6zQnC6XIIzmg3hP7Ot) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [As If It's Your Last](https://open.spotify.com/album/6IzQb2kLydYNfzmKXvmndX) | 3:33 | 2020-08-28 |  |
 | [As If It's Your Last](https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [As If It's Your Last](https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv) | 3:33 | 2020-08-28 | 2024-04-19 |
+| [AS IF IT’S YOUR LAST \- Japanese Version](https://open.spotify.com/track/5m8wiO2ySMpCtYSwHatWQr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK \(Japanese Version\)](https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0) | 3:32 | 2024-08-02 |  |
 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/1hPkiovjTqiJAJen4uyNRg) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 2:39 | 2020-10-02 |  |
 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 | 2020-10-02 | 2024-04-19 |
 | [BOOMBAYAH](https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 4:00 | 2020-08-28 | 2024-04-19 |
@@ -60,6 +61,7 @@
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-16 | 2024-04-19 |
 | [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 | 2020-08-28 | 2024-04-19 |
 | [PLAYING WITH FIRE](https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf) | 3:17 | 2020-08-28 |  |
+| [PLAYING WITH FIRE \- Japanese Version](https://open.spotify.com/track/2IbQ5hQVrzg4e6bNruEqOs) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK \(Japanese Version\)](https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0) | 3:17 | 2024-08-02 |  |
 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 | 2020-10-02 |  |
 | [Ready For Love](https://open.spotify.com/track/1Wwh6gmMeolwzbRzfZMY5b) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:04 | 2022-09-16 |  |
 | [Really](https://open.spotify.com/track/2URMA0ap6SAI8wFmcY1yta) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:17 | 2020-08-28 | 2024-04-19 |
@@ -76,6 +78,7 @@
 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB) | 2:37 | 2020-08-28 |  |
 | [STAY](https://open.spotify.com/track/3tP6QKbXvtrxiDI7QwKyUf) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:50 | 2020-08-28 | 2024-04-19 |
 | [STAY](https://open.spotify.com/track/4TWHREp4wv0TmewqR6rgRd) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf) | 3:50 | 2020-08-28 |  |
+| [STAY \- Japanese Version](https://open.spotify.com/track/6Fcoih4yHMyXLzDcTeVUgn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK \(Japanese Version\)](https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0) | 3:51 | 2024-08-02 |  |
 | [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2022-09-16 |  |
 | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/track/2FI28SeyrsLmor4TaNmjEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/0slmdIwTsoubwL5Sy5E1Vj) | 2:42 | 2023-08-29 |  |
 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-29 | 2024-04-19 |
@@ -85,6 +88,8 @@
 | [WHISTLE](https://open.spotify.com/track/7HWmJ1wBecOAMNGjC6SmKE) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4) | 3:31 | 2020-08-28 |  |
 | [WHISTLE \- Acoustic Ver.](https://open.spotify.com/track/20MOKIGONywL5xIoB7RRAR) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:32 | 2020-08-28 | 2024-04-19 |
 | [WHISTLE \- Acoustic Ver.](https://open.spotify.com/track/0doLJjIDrYkoXDb4b9Qa8n) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf) | 3:32 | 2020-08-28 |  |
+| [WHISTLE \- Acoustic Ver\. Japanese Version](https://open.spotify.com/track/2jjh53eV2QVGIRjGTawheD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK \(Japanese Version\)](https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0) | 3:33 | 2024-08-02 |  |
+| [WHISTLE \- Japanese Version](https://open.spotify.com/track/6kZE8ZhOUM2rGmeG9qk7Y9) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK \(Japanese Version\)](https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0) | 3:32 | 2024-08-02 |  |
 | [Yeah Yeah Yeah](https://open.spotify.com/track/5y4WmuvFX1t3NdSId0MFOh) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:58 | 2022-09-16 |  |
 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 | 2023-10-13 |
 | [You & Me \(Coachella ver.\)](https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 | 2024-04-19 |

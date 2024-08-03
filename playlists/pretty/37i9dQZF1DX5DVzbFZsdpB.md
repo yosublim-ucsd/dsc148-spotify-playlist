@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Podcasts you need to have on your RADAR: Far East Confessions with Will and Emil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399 likes - 7 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401 likes - 7 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

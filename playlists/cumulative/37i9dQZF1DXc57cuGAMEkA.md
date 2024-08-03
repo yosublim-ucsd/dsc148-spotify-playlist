@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Charli xcx & Billie Eilish, Sam Smith, imase, Khalid and more! cover: Charli xcx & Billie Eilish
 
-6,212 songs - 14 day 13 hr 38 min
+6,213 songs - 14 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3312,6 +3312,7 @@
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-02-16 | 2023-02-24 |
 | [My Bad](https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [My Bad](https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b) | 2:27 | 2023-07-27 | 2023-08-04 |
 | [My Beautiful Life](https://open.spotify.com/track/6Il0TOAUXXIDxQwkaWXG1k) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/2YqVnb5lJqSNgeQarsqWs8) | 3:21 | 2023-07-20 | 2023-07-28 |
+| [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-01 |  |
 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 | 2023-06-15 | 2023-06-23 |
 | [MY BODY IS CUTE](https://open.spotify.com/track/5ytRSw00JzFmL6cpZPCRPC) | [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [うたうように、ほがらかに](https://open.spotify.com/album/1bZcROAAD3VDGBVN799Mh6) | 4:03 | 2024-07-04 | 2024-07-12 |
 | [My Boy Likes To Party](https://open.spotify.com/track/4hitsy6wweAckhnv7kNOF2) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/2aCBNEaJ7hmfe64QWCaGIG) | 3:25 | 2023-11-16 | 2023-12-09 |

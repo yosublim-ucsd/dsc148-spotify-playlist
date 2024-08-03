@@ -2,7 +2,7 @@
 
 ### [coastal cowgirl](https://open.spotify.com/playlist/37i9dQZF1DX42rTd7wQPNO)
 
-> put a little yee haw in your laid back
+> It's the Year of the Cowgirl! Carter Faith is putting a little yee haw in our laid back.
 
 176 songs - 10 hr 42 min
 
@@ -20,7 +20,7 @@
 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 | 2024-04-16 | 2024-05-07 |
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2023-04-11 |  |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2023-04-03 |  |
-| [Brand New Key](https://open.spotify.com/track/3tm6LVXZJg0lG4hQm5ytrT) | [Melanie](https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK) | [Beautiful People: The Greatest Hits of Melanie](https://open.spotify.com/album/0d0QHnq1JlNiBTQhC1eKRS) | 2:24 | 2023-04-03 |  |
+| [Brand New Key](https://open.spotify.com/track/3tm6LVXZJg0lG4hQm5ytrT) | [Melanie](https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK) | [Beautiful People: The Greatest Hits of Melanie](https://open.spotify.com/album/0d0QHnq1JlNiBTQhC1eKRS) | 2:24 | 2023-04-03 | 2024-08-03 |
 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 | 2023-07-21 |  |
 | [Bummin' Cigarettes](https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:06 | 2023-04-03 |  |
 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 | 2023-04-03 |  |
@@ -179,7 +179,7 @@
 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2024-02-26 |  |
 | [Written in the Sand](https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:04 | 2023-10-06 |  |
 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 | 2023-04-03 |  |
-| [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 | 2023-04-28 |  |
+| [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 | 2023-04-28 | 2024-08-03 |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2023-04-03 |  |
 | [your place](https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:02 | 2023-07-21 | 2023-07-27 |
 | [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 | 2023-07-22 | 2023-08-31 |

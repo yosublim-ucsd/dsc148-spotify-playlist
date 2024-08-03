@@ -4,7 +4,7 @@
 
 > Celebrating our EQUAL ambassador Kesha and the women she champions at the top of our list!
 
-1,480 songs - 3 day 6 hr 52 min
+1,481 songs - 3 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [ALL NIGHT](https://open.spotify.com/track/7JUNheFeoB0wTzBcq9BvF8) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [QUEEN DEGENERATE](https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g) | 2:56 | 2023-10-04 | 2023-11-09 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-04-05 | 2024-01-27 |
 | [All the Things You'd Ruin](https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv) | 2:46 | 2023-04-05 | 2023-04-15 |
-| [all these little words](https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [all these little words](https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ) | 2:17 | 2024-08-01 |  |
+| [all these little words](https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [all these little words](https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ) | 2:17 | 2024-08-01 | 2024-08-03 |
 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 | 2023-05-03 | 2023-06-08 |
 | [Already Crazy](https://open.spotify.com/track/4IoZV0Lbu90FCgIxo2MDM3) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Already Crazy](https://open.spotify.com/album/7sw2yYFMArOmlXs1wHdTo0) | 3:19 | 2023-01-04 | 2023-02-02 |
 | [Alright](https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Alright](https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9) | 3:22 | 2023-02-01 | 2023-03-02 |
@@ -137,6 +137,7 @@
 | [Barbie](https://open.spotify.com/track/299qlT1YcZ3DVlKCoqRoV7) | [JaidynAlexis](https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi) | [Barbie](https://open.spotify.com/album/75R7GceHeK8bCwv23trU4N) | 2:08 | 2023-11-08 | 2023-11-30 |
 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 | 2023-03-01 | 2023-04-06 |
 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 | 2023-01-04 | 2023-02-02 |
+| [Be My Glory](https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s) | [Trulah](https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR) | [Be My Glory](https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf) | 4:22 | 2024-08-01 |  |
 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 | 2023-08-02 | 2024-01-27 |
 | [Beanie Baby Blues](https://open.spotify.com/track/1NrqHMBUoOn2R5iyvvL44G) | [Hanna Mars](https://open.spotify.com/artist/30dv12QYVsWO5OMPdoephN) | [Junie](https://open.spotify.com/album/35o1xFjA5CLCF5fNaIbk1b) | 2:58 | 2023-07-05 | 2023-08-03 |
 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 | 2024-08-01 |  |

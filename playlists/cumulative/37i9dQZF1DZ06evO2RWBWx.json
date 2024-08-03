@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "boy (feat. asmi & imase)",
+        "url": "https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps"
+      },
+      "artists": [
+        {
+          "name": "KERENMI",
+          "url": "https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn"
+        },
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        },
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194916,
+      "name": "boy - feat. asmi & imase",
+      "url": "https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf"
+    },
+    {
+      "album": {
         "name": "Greedy Greedy (feat.imase)",
         "url": "https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1"
       },

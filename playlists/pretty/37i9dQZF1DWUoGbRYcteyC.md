@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,989,603 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,989,595 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 18 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
 | 19 | [Me Hace Tanto Bien](https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:08 |
 | 20 | [Tan Enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
-| 21 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
-| 22 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
+| 21 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
+| 22 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
 | 23 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 |
 | 24 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 |
 | 25 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 50 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
 | 51 | [el afortunado](https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [el afortunado](https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2) | 3:20 |
 | 52 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 |
-| 53 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
-| 54 | [Para Siempre](https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Para Siempre](https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP) | 3:51 |
+| 53 | [Para Siempre](https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Para Siempre](https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP) | 3:51 |
+| 54 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
 | 55 | [Llegaste tú](https://open.spotify.com/track/5gAbyyyD5Pr0WDkX8sNWSO) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Jesse & Joy](https://open.spotify.com/album/09Gz79Vlh6TDdL5qt5PhQR) | 4:05 |
 | 56 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
 | 57 | [Nunca Deja de Llover](https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Nunca Deja De Llover](https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I) | 2:50 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 61 | [yo tuya, tú mío](https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Caloncho](https://open.spotify.com/artist/177ejRPrISENgJPlACpRGJ) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:51 |
 | 62 | [Mar Adentro](https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 4:01 |
 | 63 | [Ella Es](https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Ella Es](https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio) | 3:15 |
-| 64 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
-| 65 | [Paracaídas](https://open.spotify.com/track/0xAgxTy0wAKlP1fULdIfao) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Paracaídas](https://open.spotify.com/album/0ordq0iFB7VYOYhdl8ElTZ) | 2:35 |
+| 64 | [Paracaídas](https://open.spotify.com/track/0xAgxTy0wAKlP1fULdIfao) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Paracaídas](https://open.spotify.com/album/0ordq0iFB7VYOYhdl8ElTZ) | 2:35 |
+| 65 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
 
 Snapshot ID: `ZpnkwAAAAAC6lcbyzKZN9cJCBlqErWe6`

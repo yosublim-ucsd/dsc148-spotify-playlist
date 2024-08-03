@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Kaitlin Butts
+> Keep your finger on the pulse of Americana\. Cover: Johnny Blue Skies
 
-696 songs - 1 day 18 hr 58 min
+698 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-22 | 2022-11-13 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-05-13 | 2022-07-29 |
 | [Atomized](https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Atomized](https://open.spotify.com/album/057lK6W2g5aC8x8gtvtkII) | 4:45 | 2022-04-01 | 2022-08-06 |
+| [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 | 2024-08-02 |  |
 | [Back To Then](https://open.spotify.com/track/14z9BKQQJnnn9WdcfR6RrF) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Back To Then](https://open.spotify.com/album/5UqXEunlJ8tRCBYG1t8TS7) | 3:45 | 2024-02-23 |  |
 | [Back to You](https://open.spotify.com/track/0nf0prxGiJlvNomPmYxe86) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:17 | 2023-02-17 | 2024-02-17 |
 | [Beautiful Lies](https://open.spotify.com/track/4CJQwcIon6uKc3gfIivuhS) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Crossing Lines](https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu) | 3:52 | 2023-11-17 |  |
@@ -442,7 +443,7 @@
 | [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Oughta See You \(The Way I Do\)](https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET) | 3:55 | 2023-08-25 | 2023-10-28 |
 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 | 2022-05-13 | 2023-07-29 |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-12-02 | 2024-04-19 |
-| [Outlaw in Me](https://open.spotify.com/track/1xKNbEB3wHDttLRmOkXfYa) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/0isB8xO9YoDZjpY8VGlkMR) | 4:05 | 2023-06-09 |  |
+| [Outlaw in Me](https://open.spotify.com/track/1xKNbEB3wHDttLRmOkXfYa) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/0isB8xO9YoDZjpY8VGlkMR) | 4:05 | 2023-06-09 | 2024-08-03 |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-12-17 | 2022-09-24 |
 | [Paducah](https://open.spotify.com/track/4VmDr13LpbbL1l1rOru8qA) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Paducah](https://open.spotify.com/album/3gBoXOHHHXWL9oVZkp5dUi) | 3:30 | 2021-12-17 | 2022-02-05 |
 | [Paint the Town](https://open.spotify.com/track/3G1VzspiXFL8Y3cppYWxfN) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Paint the Town](https://open.spotify.com/album/6vk8gQ9wQdZsQxgz9kFc4u) | 3:26 | 2023-02-17 | 2023-03-10 |
@@ -464,6 +465,7 @@
 | [Pink Sky](https://open.spotify.com/track/067mB5gMI3BhrtPfLutzFm) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Pink Sky](https://open.spotify.com/album/3RInB0XjMkDIOlOzuZXPG6) | 3:39 | 2022-04-01 | 2022-08-06 |
 | [Piranhanana](https://open.spotify.com/track/10iJAaFvMXMNtnYmMQs7g0) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Piranhanana](https://open.spotify.com/album/2mVALYxNoT5iDd9YSttn3X) | 2:45 | 2024-07-19 |  |
 | [Plain Dealing](https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Plain Dealing](https://open.spotify.com/album/7BIu512T3yrvo01oPR8LDM) | 2:49 | 2021-12-17 | 2022-11-12 |
+| [Plastic Horses](https://open.spotify.com/track/32ExqTpuJs802zScWQt209) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [American Son](https://open.spotify.com/album/55hUNhmc66JpXUMZ3xMD8I) | 3:23 | 2024-08-02 |  |
 | [Playin' On The Tracks](https://open.spotify.com/track/4YCwBjIphmO1L4eTWbAk0n) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Playin' On The Tracks](https://open.spotify.com/album/5k3jXuGsFWOIOfsXtP63Wp) | 2:39 | 2023-06-02 |  |
 | [Playing God Again](https://open.spotify.com/track/4EQR5qi9TxhbjF443YrxBk) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Playing God Again](https://open.spotify.com/album/4sveXhWrrVVldwABR35rBH) | 2:44 | 2023-05-05 | 2023-08-19 |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-01-20 | 2023-11-18 |
@@ -513,7 +515,7 @@
 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 | 2022-06-24 | 2022-12-03 |
 | [Save Me](https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Hello, I'm Britti.](https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a) | 3:21 | 2024-02-02 |  |
 | [Save the World](https://open.spotify.com/track/6ZSDpQ9SjjH0zvbj6DQtWT) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Save the World](https://open.spotify.com/album/2UFaxDNc4afGwqV26fOeQ7) | 5:09 | 2023-06-02 | 2023-06-10 |
-| [Scared of the Dark](https://open.spotify.com/track/2YJAJWHMixHd9XAV5kI9ZM) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Scared of the Dark](https://open.spotify.com/album/5ZbN2Qdtckm45fbMUCBHsK) | 3:30 | 2024-05-03 |  |
+| [Scared of the Dark](https://open.spotify.com/track/2YJAJWHMixHd9XAV5kI9ZM) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Scared of the Dark](https://open.spotify.com/album/5ZbN2Qdtckm45fbMUCBHsK) | 3:30 | 2024-05-03 | 2024-08-03 |
 | [Searching For My Love](https://open.spotify.com/track/4r7q81d4NQGRPixkZWKR7e) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:03 | 2022-02-22 | 2023-11-11 |
 | [Security Camera](https://open.spotify.com/track/3PsgBvZYuDB28d3V7JXNNd) | [Bridget Kearney](https://open.spotify.com/artist/04fJjgNu00TqqNolrDV0Z0) | [Security Camera](https://open.spotify.com/album/0M9sCAD6i8TG2AxZZq6Kyx) | 3:52 | 2024-01-12 |  |
 | [See The Light](https://open.spotify.com/track/28DIGBWD9YtAIit4ASWY3C) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland](https://open.spotify.com/album/1Mik9EmHCENXPMjHOgOwRB) | 2:50 | 2022-04-01 | 2023-04-29 |

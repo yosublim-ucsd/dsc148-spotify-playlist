@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.",
-  "num_followers": 392584,
+  "num_followers": 392574,
   "original_name": "Disney Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk3QMAAAAAA7rjck/VNe90KyfdhZWPI3",
+  "snapshot_id": "ZqxZwAAAAAARR5rxUg1RCecrJFwVzgrq",
   "tracks": [
     {
       "added_at": "2023-10-27 16:28:09",
@@ -213,6 +213,30 @@
       "url": "https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Descendants: The Rise of Red (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Alex Boniello",
+          "url": "https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 188674,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/2SIq8DBT8ezjxarFag8Sf8"
+    },
+    {
       "added_at": "2023-10-27 16:28:09",
       "album": {
         "name": "ZOMBIES (Original TV Movie Soundtrack)",
@@ -379,6 +403,30 @@
       "duration_ms": 63586,
       "name": "Vanessa's Trick",
       "url": "https://open.spotify.com/track/3tMQKPLplBCDdOgdsZn0SZ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Descendants: The Rise of Red (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 146642,
+      "name": "What's My Name (Red Version)",
+      "url": "https://open.spotify.com/track/5EkVTZFndWZcS49W1eFi7B"
     },
     {
       "added_at": "2023-10-27 16:28:09",
@@ -559,6 +607,26 @@
       "duration_ms": 112647,
       "name": "Rest in Peace",
       "url": "https://open.spotify.com/track/3KH9W2vmr8uap6KTBDEFUO"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Descendants: The Rise of Red (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
+      },
+      "artists": [
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 218723,
+      "name": "Life Is Sweeter",
+      "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
     },
     {
       "added_at": "2023-10-27 16:28:09",
@@ -763,6 +831,42 @@
       "duration_ms": 194026,
       "name": "Jack's Lament",
       "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Descendants: The Rise of Red (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
+      },
+      "artists": [
+        {
+          "name": "Dara Rene\u00e9",
+          "url": "https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s"
+        },
+        {
+          "name": "Anthony Pyatt",
+          "url": "https://open.spotify.com/artist/4W3FJJnbYT9lxlTMlqaCSQ"
+        },
+        {
+          "name": "Joshua Colley",
+          "url": "https://open.spotify.com/artist/4PDGt9weHkPqUdaBqrGzOD"
+        },
+        {
+          "name": "Mars",
+          "url": "https://open.spotify.com/artist/4SYrMF1h0Mfasc0UPn6c6D"
+        },
+        {
+          "name": "Peder Lindell",
+          "url": "https://open.spotify.com/artist/2D8DtrZa1KFyaGkxI1lgjJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 194232,
+      "name": "Perfect Revenge",
+      "url": "https://open.spotify.com/track/60UNcOiHERCGTo9qsssH2K"
     },
     {
       "added_at": "2023-10-27 16:28:09",
@@ -971,6 +1075,38 @@
       "duration_ms": 123800,
       "name": "Heffalumps and Woozles",
       "url": "https://open.spotify.com/track/3XxkvIoQdscyN4G7sOqbeF"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Descendants: The Rise of Red (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Malia Baker",
+          "url": "https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 263298,
+      "name": "Love Ain't It",
+      "url": "https://open.spotify.com/track/5Su3LLkadGIBGrRFLPI8Mg"
     },
     {
       "added_at": "2023-10-27 16:28:09",

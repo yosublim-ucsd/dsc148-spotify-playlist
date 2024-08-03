@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-710 songs - 1 day 10 hr 44 min
+717 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Broken Ledge](https://open.spotify.com/track/6kM1BzE57Mt5ILbWqzMB14) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Broken Ledge](https://open.spotify.com/album/6EunXIj9FEYNhXS597LXIa) | 2:22 | 2023-04-06 | 2024-02-09 |
 | [Butterfly](https://open.spotify.com/track/5bKOctkwgdfCktzgabUPne) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Butterfly](https://open.spotify.com/album/0z60NoGLU6RnvxUSCCskIW) | 3:01 | 2023-04-06 | 2024-02-09 |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2023-04-06 | 2024-02-09 |
+| [Caelum](https://open.spotify.com/track/1PtfPf0XqCwJhcT3mJBGhJ) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Caelum](https://open.spotify.com/album/1mcJ4I2cOBHVJNekeRJq6A) | 3:25 | 2024-08-02 |  |
 | [Calm](https://open.spotify.com/track/2LxskIBEuhVXVpl0w4WLne) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Calm](https://open.spotify.com/album/2Gq3PzfqwVrFHOCyWMEQNP) | 2:59 | 2023-04-06 | 2024-02-09 |
 | [Calming Quality](https://open.spotify.com/track/7GJkHBbDnQ0JxgWoRWrcT9) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Calming Quality](https://open.spotify.com/album/0ora1RTOVwglH8GQhc2GE2) | 3:18 | 2023-04-06 | 2024-05-05 |
 | [Calmness](https://open.spotify.com/track/0bVFmCgiejByOZ7c93zb7V) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Calmness](https://open.spotify.com/album/6rl4AYZm2ceF0B15vSkGtZ) | 3:00 | 2024-01-17 | 2024-03-21 |
@@ -163,6 +164,7 @@
 | [Deep Down The Cave](https://open.spotify.com/track/4IBQllOXx6Ct9Bidmj3yyF) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Deep Down The Cave](https://open.spotify.com/album/31o5l9eR13wwNBTJzCJ1Jt) | 3:14 | 2023-04-06 | 2024-01-18 |
 | [Deep in Thought](https://open.spotify.com/track/5qBfZmizXEAc0X9jssVxPY) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Deep in Thought](https://open.spotify.com/album/2hOBkUc8kPwfNgvREJtRcc) | 2:56 | 2024-03-20 | 2024-07-10 |
 | [Deep Waters](https://open.spotify.com/track/2I4CdMdb7m5VSFjVtYBPLP) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Deep Waters](https://open.spotify.com/album/18MTNwzRQUk1HHTHI3k5Bf) | 2:42 | 2023-04-06 | 2024-01-18 |
+| [Delta](https://open.spotify.com/track/2f8XntdwMp79jR0H5OAsXx) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Delta](https://open.spotify.com/album/1XjbO2qB44WoiUEALnsOYP) | 3:01 | 2024-08-02 |  |
 | [Demulcere](https://open.spotify.com/track/5X8xwH6pXJ9r6xzyFm7Vyc) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Demulcere](https://open.spotify.com/album/6He0HD7ZAhwrOFHWYUw7OE) | 3:24 | 2024-03-20 | 2024-07-10 |
 | [Des rêves sans fin](https://open.spotify.com/track/7vGRko4f6X3H4EfhwPsIJY) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [Des rêves sans fin](https://open.spotify.com/album/6x5YvwCzCxoLyME5L24xPL) | 3:02 | 2023-04-06 | 2024-01-18 |
 | [Descanso](https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Descanso](https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u) | 2:54 | 2024-02-27 | 2024-07-16 |
@@ -173,7 +175,7 @@
 | [Discoveries Within](https://open.spotify.com/track/7oAAQA7muKPqNi3HmbHpHy) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Discoveries Within](https://open.spotify.com/album/7EtMl3woqR23iEnAy9M9f7) | 2:55 | 2024-07-15 |  |
 | [Dissolving Time](https://open.spotify.com/track/58YojDjLFFl3IddgvBwgNp) | [AstroAether](https://open.spotify.com/artist/1Sy04vJvcc5VSae7QTvFUn) | [Dissolving Time](https://open.spotify.com/album/1bIiVGTU5hdgf4Vayg6hDE) | 3:35 | 2024-04-05 | 2024-07-16 |
 | [Distant Dreams](https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Distant Dreams](https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB) | 3:59 | 2023-04-06 | 2024-01-18 |
-| [Distant Hills](https://open.spotify.com/track/0k0JHg06A2MpzIGxUZZRyW) | [Mosaic Tiles](https://open.spotify.com/artist/0N6CxcY2aQYuRWl8HNkqWO) | [Distant Hills](https://open.spotify.com/album/1bQEEmjPp7C31sK8zvWUyo) | 2:30 | 2024-07-09 |  |
+| [Distant Hills](https://open.spotify.com/track/0k0JHg06A2MpzIGxUZZRyW) | [Mosaic Tiles](https://open.spotify.com/artist/0N6CxcY2aQYuRWl8HNkqWO) | [Distant Hills](https://open.spotify.com/album/1bQEEmjPp7C31sK8zvWUyo) | 2:30 | 2024-07-09 | 2024-08-03 |
 | [Divided Motions](https://open.spotify.com/track/5jDfb1JYpOXY6KoRpvNWjI) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Divided Motions](https://open.spotify.com/album/7Iv54aMkrPYlR2ugeU6fY4) | 3:02 | 2024-01-17 | 2024-03-21 |
 | [Divine minds](https://open.spotify.com/track/6skca3GCeAwI3v9EKznj7C) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Selah](https://open.spotify.com/album/3JAIlFvm8jDNaB3ciieLqK) | 3:05 | 2023-04-06 | 2024-03-21 |
 | [Divine Whispers](https://open.spotify.com/track/2IsqXoqjvpSP7C9hWPXeB5) | [Mages of Chronos](https://open.spotify.com/artist/5lzhk8HAFzzDegDSBMVkxe) | [Divine Whispers](https://open.spotify.com/album/5Mdurk34BwuUmBydmCwa0E) | 2:54 | 2024-01-17 |  |
@@ -189,6 +191,7 @@
 | [Dreamless](https://open.spotify.com/track/4NfFX4UXNLP7kjvQqdlxag) | [Aitne](https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO) | [Dreamless](https://open.spotify.com/album/4nOghyDZWdB3mqNpVmrjCQ) | 3:04 | 2024-01-17 | 2024-07-16 |
 | [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2023-04-06 | 2023-05-04 |
 | [drifting](https://open.spotify.com/track/6OgdBT8iNZJNmidOy2ImdF) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity, vol\. ii \(sleep\)](https://open.spotify.com/album/4OAWLl91Aso1DTKL4I8AL8) | 2:45 | 2023-04-21 | 2024-01-18 |
+| [Drifting into Dreams](https://open.spotify.com/track/4VmxB3G8UMqU3NvisBZ4lb) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Drifting into Dreams](https://open.spotify.com/album/3Z2e71SuBzWO2Qhf7JylnV) | 3:21 | 2024-08-02 |  |
 | [Driftwood](https://open.spotify.com/track/5IOSHTjNe5zUAGyfcsHcWy) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Driftwood](https://open.spotify.com/album/3DXYDlXzdP8haFrB38a8aO) | 3:06 | 2024-02-08 | 2024-07-16 |
 | [Drone](https://open.spotify.com/track/6ZRIH4QEe0sAkUCup8OmZM) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Drone](https://open.spotify.com/album/0eb5cxLBxQ6oYqT9VDwjo4) | 3:11 | 2023-06-16 | 2024-05-05 |
 | [Dusk's Embrace](https://open.spotify.com/track/0GRGJ6N5wWFpDTDqYJCzWU) | [Celestial Whisperer](https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac) | [Dusk's Embrace](https://open.spotify.com/album/6FhmpveNERkdoEs6zRmVaR) | 2:46 | 2024-03-06 | 2024-07-23 |
@@ -244,6 +247,7 @@
 | [Fallen night](https://open.spotify.com/track/09xFkJ9Pe9cWQSLH9yMDBc) | [Castorum](https://open.spotify.com/artist/04RsbMw3XjQupVwFm8i18f) | [Fallen night](https://open.spotify.com/album/60sgdxyL6lICqNs0ZfKcn9) | 3:10 | 2024-03-20 |  |
 | [Falling Blue Stars](https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Falling Blue Stars](https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js) | 2:48 | 2024-02-27 | 2024-03-21 |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2023-04-06 | 2023-04-14 |
+| [Far Away](https://open.spotify.com/track/5WTAIHxz7B582RBLpPdsBk) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Far Away](https://open.spotify.com/album/53jnzdCH66pwSDm80hqyMs) | 2:51 | 2024-08-02 |  |
 | [Fauna](https://open.spotify.com/track/78xXqulK9gc4Cfl6zeDoHk) | [Zamphire](https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl) | [Fauna](https://open.spotify.com/album/2YLBTB3TYosT2SuZHAHInm) | 2:49 | 2024-02-27 |  |
 | [Feathered](https://open.spotify.com/track/6pfep9zCzzbIHalmG5cYRN) | [MoonBees](https://open.spotify.com/artist/3k3ZzD4rSu4E00cUi1900f) | [Feathered](https://open.spotify.com/album/6k0P5sLc32BTupcMUdqBRu) | 3:26 | 2024-05-20 |  |
 | [Feel](https://open.spotify.com/track/4GwD2eqMnUyyNA4WdsD9AT) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Feel](https://open.spotify.com/album/4wgcY2pJnmKsDgbJPnrjWS) | 2:51 | 2024-05-04 | 2024-05-21 |
@@ -312,6 +316,7 @@
 | [I Believe I Can Fly](https://open.spotify.com/track/6BLpFHyW0XELB7qh45o6cI) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Floating On Clouds](https://open.spotify.com/album/5blLnf493gd6RQGPreukch) | 3:14 | 2023-04-13 | 2024-05-05 |
 | [I Dreamed A Dream](https://open.spotify.com/track/46CSa8TKr9seUuHIfVP2lA) | [Roofies Dragon](https://open.spotify.com/artist/3ETUioJojNZNqdjqmpQsAz) | [I Dreamed A Dream](https://open.spotify.com/album/0WWpj4IXlxAJpfOTqDLVdO) | 2:58 | 2023-11-10 | 2024-05-05 |
 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 | 2023-04-06 | 2024-01-18 |
+| [I'll Be Right Here](https://open.spotify.com/track/31UmrBFlgzUM2iLM0GtJln) | [Stellanova](https://open.spotify.com/artist/29isfMEaWmykULDpeyBXlk) | [I'll Be Right Here](https://open.spotify.com/album/4qb8UF7g7UPi0P1WHeOtbV) | 2:32 | 2024-08-02 |  |
 | [Idyllica](https://open.spotify.com/track/595wjSvF9vZ3yiyu6yzicF) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Idyllica](https://open.spotify.com/album/4YWyvu33UuHfzQFcfixhYW) | 2:13 | 2023-04-06 | 2024-03-21 |
 | [Idyllical](https://open.spotify.com/track/18mMg1h2pxTKpQSLvPKzWU) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Idyllical](https://open.spotify.com/album/3JcxvzCmYNp0ts3MmQcgS9) | 2:46 | 2024-01-17 |  |
 | [If Ever Two Were One](https://open.spotify.com/track/725z4lty7B7pcrBzg4udLU) | [Troy Fuentes](https://open.spotify.com/artist/7FsKe2FZdoq66vdqJjIMCM) | [If Ever Two Were One](https://open.spotify.com/album/6ircWe4J1ug26qcNNQTuuT) | 2:46 | 2023-04-06 | 2024-04-06 |
@@ -340,7 +345,7 @@
 | [Intertwining Paths](https://open.spotify.com/track/02INgHwnAG8TWhv7Fx4r7E) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Intertwining Paths](https://open.spotify.com/album/3g9MGGzfJSEVZL1Wc23agj) | 3:03 | 2023-04-06 | 2024-04-06 |
 | [Into Oblivion](https://open.spotify.com/track/2pleiYX4N2GUW4BkFw1bxz) | [Mikkel Boyer](https://open.spotify.com/artist/1HhdV78nBxhhXAnJKVDEu8) | [Into Oblivion](https://open.spotify.com/album/1Y2cUUmY6i4jUtm6vCMxeu) | 3:04 | 2023-08-24 | 2024-05-05 |
 | [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 | 2023-04-06 | 2024-04-06 |
-| [Into The Light](https://open.spotify.com/track/1qNDx2ajmcECC1mVzJl3oO) | [Vígi Seaghdh](https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm) | [Into The Light](https://open.spotify.com/album/5losUh2Qx9FbrjcESjo8sE) | 3:24 | 2024-02-27 |  |
+| [Into The Light](https://open.spotify.com/track/1qNDx2ajmcECC1mVzJl3oO) | [Vígi Seaghdh](https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm) | [Into The Light](https://open.spotify.com/album/5losUh2Qx9FbrjcESjo8sE) | 3:24 | 2024-02-27 | 2024-08-03 |
 | [Invisible](https://open.spotify.com/track/6aQ6sWhgfxfVOEL1wIsLFA) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Invisible](https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK) | 3:11 | 2024-05-04 |  |
 | [Irenic Tone](https://open.spotify.com/track/7l6TgOi4LjuVMPOvSeHuyw) | [Siri Belle](https://open.spotify.com/artist/2xvYo3Aa78eMFyFgrkNgTq) | [Irenic Tone](https://open.spotify.com/album/5BkShagjCMM9xVAI1uWVWq) | 2:28 | 2023-04-06 | 2024-02-09 |
 | [Iridescent](https://open.spotify.com/track/4oFJxQJJJjcEY1jD7H7JsH) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [Iridescent](https://open.spotify.com/album/3r6Qh29VeZ9SNLuiCcBv9G) | 3:12 | 2023-04-06 | 2024-01-18 |
@@ -559,6 +564,7 @@
 | [sierra star](https://open.spotify.com/track/2dGmw1z9W32GGeofbAdNY1) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [sierra star](https://open.spotify.com/album/1YZIh0zHuUjAAZChz65fW4) | 3:21 | 2023-04-06 | 2024-04-06 |
 | [Silencia](https://open.spotify.com/track/3PD9nIMhKtMPsF0NMs3b5P) | [Dronia](https://open.spotify.com/artist/5Z1hoAJ3HE5peZejeQP2as) | [Silencia](https://open.spotify.com/album/1YV4ZPNv69uBKR1SBnjPAP) | 3:05 | 2024-02-27 | 2024-07-16 |
 | [Silent Mind](https://open.spotify.com/track/7m4uTQoUTU68STmL3Y3bX9) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Silent Mind](https://open.spotify.com/album/184Iu1UxOAYE4ZR9xdFJ9B) | 2:10 | 2023-04-06 | 2024-02-09 |
+| [Silentium](https://open.spotify.com/track/0dAxt0dG9QZdjUEm5ytOtu) | [Liv Joy](https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm) | [Silentium](https://open.spotify.com/album/6BrlaXo2h7dmZKPS9M0yye) | 2:36 | 2024-08-02 |  |
 | [Silken Shades](https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Silken Shades](https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX) | 3:00 | 2024-05-20 |  |
 | [Silver Lining](https://open.spotify.com/track/3Eb5LRtd8qIpq4CP5a3Pt7) | [Sleepy Jay](https://open.spotify.com/artist/4C0u713lpHyNuwztM1NZZY) | [Silver Lining](https://open.spotify.com/album/3Vi7QZP8evfJuHpsQFvQpE) | 3:06 | 2024-02-08 |  |
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2023-04-06 | 2024-01-18 |
@@ -671,6 +677,7 @@
 | [Unfolded](https://open.spotify.com/track/0dTDnqM4UuT1RMQE2l915Y) | [Aca Malvina](https://open.spotify.com/artist/7H3SyQlYDmgYpQlmkm0rsO) | [Unfolded](https://open.spotify.com/album/3iMTy9vlz8gkjb3ZfqURa1) | 2:40 | 2023-04-06 | 2024-02-09 |
 | [Unless](https://open.spotify.com/track/5IJclkvUYCQDye82Ua9sig) | [Ceny Noes](https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS) | [Unless](https://open.spotify.com/album/4ECUMqjFun808OFQ15nQ1B) | 2:58 | 2024-01-17 | 2024-07-16 |
 | [Unravel](https://open.spotify.com/track/23rZmyaskgvvJ0ddEAoSdn) | [Monkey Mindset](https://open.spotify.com/artist/2KPrFZKaTyCOJBNf0RZYRl) | [Unravel](https://open.spotify.com/album/4H5dWC7bARqZds5BPeXMuc) | 2:36 | 2024-05-20 |  |
+| [Until](https://open.spotify.com/track/0DCwSrGQxGTAyxmWy1q7Al) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Until](https://open.spotify.com/album/1UCKBs3b9lHettINgdf9Qh) | 2:52 | 2024-08-02 |  |
 | [Untroubled](https://open.spotify.com/track/2hVqXyj5dWgWNTO0Op8iB8) | [Elmiaq](https://open.spotify.com/artist/5hSZWVJ0EPjddMUkiKqxzk) | [Untroubled](https://open.spotify.com/album/3lfBq0g8lIRQdal87w58Yp) | 2:53 | 2024-01-17 | 2024-07-16 |
 | [Untroubled](https://open.spotify.com/track/1etg9ZF48GT76OBDJCcHKG) | [Maximilian Sievert](https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8) | [Untroubled](https://open.spotify.com/album/4kb8bm90fDujfb6J3iA3MH) | 2:46 | 2024-04-05 |  |
 | [Unveiled](https://open.spotify.com/track/4INn3PNrEaJ46wiMnjXLq6) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Face Of The Earth](https://open.spotify.com/album/0KgvZMkUou2JzuClwR2iOg) | 2:11 | 2023-04-06 | 2024-04-06 |

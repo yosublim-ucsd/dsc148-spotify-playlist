@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 185854,
       "name": "A Magic Forest",
       "url": "https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ"
@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/4jy8gsvOIziBS6r2bTGhlj"
+      },
+      "artists": [
+        {
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/35jK6reZZ1BvRNMT8l9P4T"
+    },
+    {
+      "album": {
         "name": "Een mooie droom",
         "url": "https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw"
       },
@@ -1950,6 +1968,24 @@
       "duration_ms": 190500,
       "name": "Een mooie droom",
       "url": "https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N"
+    },
+    {
+      "album": {
+        "name": "Effervescence",
+        "url": "https://open.spotify.com/album/7nMq1OD4fJOYTSWsa6EyJw"
+      },
+      "artists": [
+        {
+          "name": "Astred",
+          "url": "https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154097,
+      "name": "Effervescence",
+      "url": "https://open.spotify.com/track/2IuS6shEG19BVgTBYH5yl4"
     },
     {
       "album": {
@@ -2054,7 +2090,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 226833,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg"
@@ -3822,7 +3858,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 173281,
       "name": "Lindo",
       "url": "https://open.spotify.com/track/5mQiIVDbSB9kps6DDU9wZN"
@@ -6594,7 +6630,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 208000,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/443TEc8oLlWuKBRVQm3DDC"
@@ -7584,7 +7620,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 172500,
       "name": "Whispered Views",
       "url": "https://open.spotify.com/track/7d1WTH2d7T3apIa8f6DVbe"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Raghu Dixit
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,464 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,491 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 30 | [Sadho Re](https://open.spotify.com/track/2FSVKGUjxl1b805NESHmOq) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:11 |
 | 31 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika](https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 |
 | 32 | [Karam \(Equals Sessions\)](https://open.spotify.com/track/5zWA0flBrTC3VmhjcJ2MZG) | [Rangle Sardar](https://open.spotify.com/artist/3nD9WdGngkUd6WEk1zsZy8), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Karam \(Equals Sessions\) \- Single](https://open.spotify.com/album/6ZeOlXxvWRq3h0inux1YPQ) | 4:19 |
-| 33 | [Lone Poet \(Aeri Aali\)](https://open.spotify.com/track/7vm4uByBujMi734s6LO3hm) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Liyaqat Ali Khan](https://open.spotify.com/artist/2wk2JsBXpShxG2IfSBmNC7) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:01 |
+| 33 | [Ek Nazar](https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Ek Nazar](https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc) | 7:24 |
 | 34 | [Ghat Ghat](https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Kabir Cafe Live](https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq) | 4:20 |
 | 35 | [Maarag](https://open.spotify.com/track/5BhpZtAbNFDUf2AHLQZoDj) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Salim Khan](https://open.spotify.com/artist/3y8bArrNsmocFZGkIiVG4n) | [Maarag](https://open.spotify.com/album/6bpKLi5PrbmhDOEcPHaQOw) | 7:42 |
-| 36 | [Ek Nazar](https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Ek Nazar](https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc) | 7:24 |
+| 36 | [Lone Poet \(Aeri Aali\)](https://open.spotify.com/track/7vm4uByBujMi734s6LO3hm) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Liyaqat Ali Khan](https://open.spotify.com/artist/2wk2JsBXpShxG2IfSBmNC7) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:01 |
 | 37 | [Bulaava Aaya](https://open.spotify.com/track/6HnkVw9GKU1ZqzJzpFOfvS) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Bulaava Aaya](https://open.spotify.com/album/05UdHSttBA2pc0JcTUrsXP) | 5:34 |
 | 38 | [Bhammariyo](https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Bhammariyo](https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D) | 3:53 |
 | 39 | [Mahadeva](https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM), [Gaurav Chati](https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP), [Rstarjazz](https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7) | [Mahadeva](https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f) | 3:30 |

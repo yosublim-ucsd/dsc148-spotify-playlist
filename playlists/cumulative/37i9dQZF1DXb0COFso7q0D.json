@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The playlist sin fronteras. Cover: Fuerza Regida",
+  "description": "The playlist sin fronteras. Cover: Tito Double P & Neton Vega",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 202058,
       "name": "Amor",
       "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 169587,
       "name": "Brillarosa",
       "url": "https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK"
@@ -1740,6 +1740,24 @@
       "duration_ms": 174522,
       "name": "CARNAL",
       "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
+    },
+    {
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Casi oficial",
+      "url": "https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH"
     },
     {
       "album": {
@@ -5857,6 +5875,24 @@
     },
     {
       "album": {
+        "name": "La Chilena Belica",
+        "url": "https://open.spotify.com/album/4bj5eDKOJrEiGFfR0WcYNU"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "La Chilena Belica",
+      "url": "https://open.spotify.com/track/4gBnsHrEhzDbXnrcOeR4Ro"
+    },
+    {
+      "album": {
         "name": "LA CUMBIA DEL CASTOR",
         "url": "https://open.spotify.com/album/4B1Zcqug3F80KdJKp2PvRt"
       },
@@ -6846,7 +6882,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
@@ -7328,10 +7364,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 174609,
       "name": "Mami Chula",
       "url": "https://open.spotify.com/track/2eyM3P1DmOLguEE904BMkR"
+    },
+    {
+      "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/103oYDFlPuP4UuYFeHxQbX"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170469,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3YNf8wa1hHcwmJQeMrrrBX"
     },
     {
       "album": {
@@ -7655,6 +7709,28 @@
     },
     {
       "album": {
+        "name": "Mejores Jordans",
+        "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234077,
+      "name": "Mejores Jordans",
+      "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
+    },
+    {
+      "album": {
         "name": "Mentira No Es",
         "url": "https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9"
       },
@@ -7714,7 +7790,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 168360,
       "name": "MERCEDES (feat. Oscar Maydon)",
       "url": "https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW"
@@ -9281,6 +9357,24 @@
     },
     {
       "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183846,
+      "name": "PERO NO TE ENAMORES",
+      "url": "https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat"
+    },
+    {
+      "album": {
         "name": "Perro Abandonado",
         "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
       },
@@ -10454,7 +10548,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 232205,
       "name": "RELOJ",
       "url": "https://open.spotify.com/track/2DXK0YNGSqnaIEX5iaSIoK"
@@ -11985,6 +12079,28 @@
     },
     {
       "album": {
+        "name": "Tengo Claro",
+        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191681,
+      "name": "Tengo Claro",
+      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
+    },
+    {
+      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
       },
@@ -12332,7 +12448,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 177237,
       "name": "Tu Forma De Ser",
       "url": "https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j"
@@ -12982,7 +13098,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"

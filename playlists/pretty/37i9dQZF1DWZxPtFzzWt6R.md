@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,292 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,334 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 27 | [O Pródigo Vai Voltar](https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Triunfo de Glória](https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH) | 5:36 |
 | 28 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 |
 | 29 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
-| 30 | [Contigo Até o Fim](https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R) | [Elida Rodrigues](https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ), [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb) | [Contigo Até o Fim](https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye) | 4:03 |
+| 30 | [Chuva de Poder](https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb) | [Gabriela Rodrigues](https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb) | [Chuva de Poder](https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr) | 3:16 |
 | 31 | [Sem Mim](https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Sem Mim](https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC) | 3:46 |
 | 32 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 |
-| 33 | [Chuva de Poder](https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb) | [Gabriela Rodrigues](https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb) | [Chuva de Poder](https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr) | 3:16 |
+| 33 | [Contigo Até o Fim](https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R) | [Elida Rodrigues](https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ), [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb) | [Contigo Até o Fim](https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye) | 4:03 |
 | 34 | [Achei um Bom Amigo](https://open.spotify.com/track/4TZCYmMj0wSelrac8rUC03) | [Vitor Quevedo](https://open.spotify.com/artist/4CPKaeqLullSnylxXSgv9G) | [Raízes Vol\. 1](https://open.spotify.com/album/5BzNE7xEQeDlq0XhsCv8pM) | 3:02 |
 | 35 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
 | 36 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |

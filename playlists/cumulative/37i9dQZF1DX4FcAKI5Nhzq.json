@@ -9768,7 +9768,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196221,
       "name": "KING KONG",
       "url": "https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq"
@@ -14114,7 +14114,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186906,
       "name": "Poongdung",
       "url": "https://open.spotify.com/track/3k37BDB7RmEl4TvmsdLNdI"
@@ -15342,7 +15342,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195613,
       "name": "SABOTAGE",
       "url": "https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe"
@@ -18652,6 +18652,24 @@
       "duration_ms": 170538,
       "name": "Top Tier",
       "url": "https://open.spotify.com/track/70UObiGz3vxO2Gv9myhlVi"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "album": {

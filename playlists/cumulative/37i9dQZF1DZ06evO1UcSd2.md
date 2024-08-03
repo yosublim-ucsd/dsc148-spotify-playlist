@@ -2,9 +2,9 @@
 
 ### [This Is Lenin Ramírez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UcSd2)
 
-> This Is Lenin Ramírez\. Los temas esenciales, todos en una lista.
+> This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 32 min
+108 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 | 2022-06-01 |  |
 | [Mientras Que Te Olvido](https://open.spotify.com/track/3IJT8oAeZgx3tFQvFuSEd3) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mientras Que Te Olvido](https://open.spotify.com/album/2sLXTaLKmqIt5YB9WBz1aO) | 2:45 | 2024-07-16 |  |
 | [Moneda](https://open.spotify.com/track/6MvsTGagRDZG2ylhdfh8Jx) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:43 | 2024-08-02 |  |
-| [Otro Perdedor](https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Otro Perdedor](https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD) | 4:10 | 2022-06-01 |  |
+| [Otro Perdedor](https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Otro Perdedor](https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD) | 4:10 | 2022-06-01 | 2024-08-03 |
+| [Otro Perdedor](https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 4:10 | 2024-08-03 |  |
 | [Pa' Olvidarme de tus Besos](https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Olvidarme de tus Besos](https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy) | 3:07 | 2023-07-29 |  |
 | [Pensando En Verte](https://open.spotify.com/track/6eusau4yKSgkQm7YUBChVf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Clave Doble L](https://open.spotify.com/artist/3FI7OHP038BGJwg2fMaPeI) | [Pensando En Verte](https://open.spotify.com/album/3KFEfi9tNP2cimjoPi9tPL) | 3:23 | 2022-07-29 | 2023-04-10 |
 | [Polvo Rosita](https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Polvo Rosita](https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz) | 2:39 | 2024-03-30 |  |

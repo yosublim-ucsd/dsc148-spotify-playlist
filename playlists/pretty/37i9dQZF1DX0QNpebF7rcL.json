@@ -1,13 +1,49 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 57817,
+  "num_followers": 57828,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAABWo2c6ITR4V3UpJ91FFCC/",
+  "snapshot_id": "ZqxZwAAAAADzKzmKJeaFRmbpKgvF9pUM",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/3a9xrY1A9DkKauXZW17KQ8"
+      },
+      "artists": [
+        {
+          "name": "Los Lonely Boys",
+          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
+        }
+      ],
+      "duration_ms": 210900,
+      "name": "I Let You Think That You Do",
+      "url": "https://open.spotify.com/track/5rhIUOc7EmYB5jbnXfCIhc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/737EyxcSzsrF45g7Ui7KnW"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        },
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/5CwHmLRRlwPvhQstLIr0yY"
+    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -195,26 +231,6 @@
       "duration_ms": 261853,
       "name": "Good God I Got The Blues",
       "url": "https://open.spotify.com/track/31M0bTiGgPWL0Vl5aucBxg"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Devilment",
-        "url": "https://open.spotify.com/album/4RZvioIMcfXHdl3WBlp81r"
-      },
-      "artists": [
-        {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Devilment",
-      "url": "https://open.spotify.com/track/2zXRUMkE5RmbSgZBoUmFZc"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1751,22 +1767,6 @@
       "duration_ms": 245930,
       "name": "In Blood",
       "url": "https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
     }
   ],
   "unique_name": "Got Blues",

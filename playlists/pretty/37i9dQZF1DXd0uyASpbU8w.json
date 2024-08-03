@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=8BrhAmEpRwaZYgsQImMwRQ\">Nomfundo Moh</a>",
-  "num_followers": 95267,
+  "num_followers": 95453,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -239,7 +239,7 @@
     {
       "added_at": "2024-08-02 00:20:10",
       "album": {
-        "name": "Praise You (feat. Stakev)",
+        "name": "Praise You (feat. Kabza De Small & Stakev)",
         "url": "https://open.spotify.com/album/3t7igCI5G4TSbN4YUgOU7p"
       },
       "artists": [
@@ -257,7 +257,7 @@
         }
       ],
       "duration_ms": 416283,
-      "name": "Praise You (feat. Stakev)",
+      "name": "Praise You (feat. Kabza De Small & Stakev)",
       "url": "https://open.spotify.com/track/20ViaCg5GzOr9VPlGvJLaj"
     },
     {
@@ -276,9 +276,25 @@
           "url": "https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG"
         }
       ],
-      "duration_ms": 287567,
+      "duration_ms": 287586,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/3utZjSush8o5K2GPKUsFew"
+    },
+    {
+      "added_at": "2024-08-02 00:20:10",
+      "album": {
+        "name": "Y2K! (Bonus)",
+        "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 114437,
+      "name": "GYAT",
+      "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
     },
     {
       "added_at": "2024-08-02 00:20:10",
@@ -471,6 +487,22 @@
       "duration_ms": 156033,
       "name": "UMSINDO (feat. Kiddo CSA)",
       "url": "https://open.spotify.com/track/0QZ1cjR64cdpXEYFG1iHXX"
+    },
+    {
+      "added_at": "2024-08-02 00:20:10",
+      "album": {
+        "name": "NISSAN ALTIMA",
+        "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 128132,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
     },
     {
       "added_at": "2024-08-02 00:20:10",
@@ -1420,12 +1452,12 @@
           "url": "https://open.spotify.com/artist/10Rq3Te2tos6wrd84zWxml"
         },
         {
-          "name": "Chandrika Tandon",
-          "url": "https://open.spotify.com/artist/1ThL7kmKTqUPeid6c8Dqhb"
-        },
-        {
           "name": "Eru Matsumoto",
           "url": "https://open.spotify.com/artist/1kGOsNu6AxmCp0CQzbyVje"
+        },
+        {
+          "name": "Chandrika Tandon",
+          "url": "https://open.spotify.com/artist/1ThL7kmKTqUPeid6c8Dqhb"
         }
       ],
       "duration_ms": 312308,

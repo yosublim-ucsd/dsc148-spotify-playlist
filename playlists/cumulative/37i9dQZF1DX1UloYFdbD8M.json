@@ -5,6 +5,36 @@
   "tracks": [
     {
       "album": {
+        "name": "Aa Thazhvarathil",
+        "url": "https://open.spotify.com/album/0HRQFfNaW3LzHTUggFdPNx"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Syam",
+          "url": "https://open.spotify.com/artist/3GsJvJi4vFsIvMHkyfAgZx"
+        },
+        {
+          "name": "Vimal Roy",
+          "url": "https://open.spotify.com/artist/2Ws5tRsVrkr9ti2yGT9wPC"
+        },
+        {
+          "name": "Nichole Ann Philip",
+          "url": "https://open.spotify.com/artist/2uPsICfNitnCJW4ae3WoTl"
+        },
+        {
+          "name": "Rafeeq Ahammed",
+          "url": "https://open.spotify.com/artist/6uKbk35bA6KTgIbKhPJImJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194204,
+      "name": "Aa Thazhvarathil",
+      "url": "https://open.spotify.com/track/5lRxhdN93w5CfxQOS5tzNB"
+    },
+    {
+      "album": {
         "name": "Aadiyilalo - Single",
         "url": "https://open.spotify.com/album/0FAYTUKDSrmcj9yht287Lr"
       },

@@ -4,11 +4,12 @@
 
 > This is Daniela Araújo\. Todos os maiores hits em uma só playlist.
 
-74 songs - 5 hr 1 min
+75 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [911](https://open.spotify.com/track/0Ci1S6gSZJ912cYoSZvJMW) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [911](https://open.spotify.com/album/3PuIN4CvidkN27v8FCJVbq) | 3:56 | 2023-07-22 | 2023-07-31 |
+| [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 | 2024-08-03 |  |
 | [A Voz \(feat\. Daniela Araújo\)](https://open.spotify.com/track/1cVSnQQIkjPgOnV6GohVEB) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Mais](https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y) | 4:31 | 2023-07-09 |  |
 | [Abba](https://open.spotify.com/track/58NQJq6MIMpgrF5ytneVo4) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Abba](https://open.spotify.com/album/2FWnd1O8LVTNgri202OR2W) | 4:23 | 2023-07-09 |  |
 | [Abril](https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vitor Kivitz](https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:49 | 2023-07-09 |  |
@@ -73,7 +74,7 @@
 | [Sintonia](https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:22 | 2023-07-09 |  |
 | [Sonhadora](https://open.spotify.com/track/1ZHBGWxxwCMETGr2X6dNo2) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora](https://open.spotify.com/album/7EqHSTvdqhKDK21jfofgE5) | 3:35 | 2023-07-09 |  |
 | [Sonhadora \(Versão Alternativa\) \- Acústico](https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora \(Acústico\)](https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7) | 3:56 | 2023-11-10 | 2024-07-21 |
-| [Te Agradeço \(Inexplicável\) \[feat\. Daniela Araújo\]](https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Inexplicável](https://open.spotify.com/album/3xvDPpayacdcLevke66mzK) | 4:28 | 2024-06-04 |  |
+| [Te Agradeço \(Inexplicável\) \[feat\. Daniela Araújo\]](https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Inexplicável](https://open.spotify.com/album/3xvDPpayacdcLevke66mzK) | 4:28 | 2024-06-04 | 2024-08-03 |
 | [Tempo](https://open.spotify.com/track/4aMAnyg0b8l4IWSamec9eg) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:08 | 2023-07-09 |  |
 | [Teu Perdão](https://open.spotify.com/track/3DlSTzwUTCBc3g3uYj9zr8) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 3:24 | 2023-09-25 | 2024-02-16 |
 | [Um Servo \- Ao Vivo](https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0) | [Família Soul](https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Família Soul \(Ao Vivo\)](https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB) | 4:36 | 2023-07-09 |  |

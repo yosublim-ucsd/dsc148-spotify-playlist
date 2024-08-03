@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtigbJs8KAv.md) - [plain]
 
 > Canciones pa’ tra, tra, tra\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,828 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,885 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtigbJs8KAv.md) - [plain]
 | 10 | [DÁKITI](https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [DÁKITI](https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv) | 3:25 |
 | 11 | [PUNTO G](https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:31 |
 | 12 | [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 |
-| 13 | [Hasta Que Dios Diga](https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:06 |
-| 14 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 |
+| 13 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 |
+| 14 | [Hasta Que Dios Diga](https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:06 |
 | 15 | [Ginza](https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 2:51 |
 | 16 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
 | 17 | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x) | 4:30 |

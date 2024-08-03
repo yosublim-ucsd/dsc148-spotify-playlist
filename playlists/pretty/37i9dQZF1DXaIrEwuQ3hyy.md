@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Klingt nach Sonne + Meer, egal wo du bist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,341 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,474 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 28 | [Head In The Clouds](https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes \- EP](https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt) | 3:04 |
 | 29 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 |
 | 30 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 |
-| 31 | [Acoustic](https://open.spotify.com/track/7kr3xZk4yb3YSZ4VFtg2Qt) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 2:52 |
-| 32 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
+| 31 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
+| 32 | [Acoustic](https://open.spotify.com/track/7kr3xZk4yb3YSZ4VFtg2Qt) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 2:52 |
 | 33 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
 | 34 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 35 | [Slowdown \(girl what's up\)](https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Slowdown \(girl what's up\)](https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW) | 2:03 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 69 | [talking to myself](https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [talking to myself](https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq) | 2:53 |
 | 70 | [when i close my eyes](https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [when i close my eyes](https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb) | 3:46 |
 | 71 | [maybe](https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [maybe](https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6) | 3:07 |
-| 72 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
+| 72 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
 | 73 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
-| 74 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
-| 75 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
-| 76 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
-| 77 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
-| 78 | [Put Your Head On My Shoulder](https://open.spotify.com/track/3cJwTilE6kI2HR0L2lX6H0) | [Lotus Blue](https://open.spotify.com/artist/5vIpTlpycbPrgO3WQenRPk) | [Put Your Head On My Shoulder](https://open.spotify.com/album/5X0gns8uxKffX6hU74foJ9) | 2:32 |
-| 79 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 |
+| 74 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
+| 75 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
+| 76 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
+| 77 | [Put Your Head On My Shoulder](https://open.spotify.com/track/3cJwTilE6kI2HR0L2lX6H0) | [Lotus Blue](https://open.spotify.com/artist/5vIpTlpycbPrgO3WQenRPk) | [Put Your Head On My Shoulder](https://open.spotify.com/album/5X0gns8uxKffX6hU74foJ9) | 2:32 |
+| 78 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 |
+| 79 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
 | 80 | [Skin \(Elegy of Symmetry\) Skin](https://open.spotify.com/track/02lVk52v9bkcEoxz4e8jSU) | [Baswod](https://open.spotify.com/artist/4Fyg9gSddk9pF3Rgaruli6) | [I Need You to Pencil in the Rest](https://open.spotify.com/album/49SnLYDJQbd6XRsrME3o77) | 3:20 |
 
 Snapshot ID: `ZqNYuwAAAAA0e3lBGn3MBKh1Ffi+abzL`

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-442 songs - 1 day 2 hr 2 min
+443 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2023-04-28 |  |
 | [Jungle](https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Jungle](https://open.spotify.com/album/3weoFCQUyngxOP2Okdrfhc) | 2:40 | 2021-06-22 | 2022-07-29 |
 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 | 2022-07-22 |  |
-| [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 | 2022-05-17 | 2024-07-27 |
+| [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 | 2022-05-17 |  |
 | [Kids In Love](https://open.spotify.com/track/2EjR7VKpDBdC2wgS053ivc) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Kids In Love](https://open.spotify.com/album/1iWMCIOJ18npeRsMZxfDER) | 3:09 | 2021-06-22 | 2022-07-29 |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 | 2022-07-22 | 2024-04-19 |
 | [Kingdom Come](https://open.spotify.com/track/0xqnx4Q4qxAdAnrOAsNXkj) | [Sialia](https://open.spotify.com/artist/4CTyrlD8XGPObRSww1gUiO), [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Kingdome Come](https://open.spotify.com/album/7IDmojESG4CxCMJP9y5I1k) | 3:39 | 2021-06-22 | 2022-05-18 |
@@ -242,6 +242,7 @@
 | [Life as It Is](https://open.spotify.com/track/0ZTtKgd8j5DoFLPwie8bRk) | [Windy Isle](https://open.spotify.com/artist/34MzgHgM1EZNW6lKmKm8wb) | [Life as It Is](https://open.spotify.com/album/0YYKKFiOg50FXNz4Az1g3z) | 3:45 | 2021-06-22 | 2022-05-18 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 |  |
 | [Like Strangers Do](https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Like Strangers Do](https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ) | 2:40 | 2022-07-22 | 2023-04-25 |
+| [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 | 2024-08-02 |  |
 | [Long Way Down](https://open.spotify.com/track/25Caem6cbUveFkgPSXtGXe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 4:17 | 2021-06-22 | 2022-07-23 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-09-01 |  |
 | [Lost](https://open.spotify.com/track/2Pph0CUJ8uksCBzV6iyuQF) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/16A6HpMW9UMCB3GNA0Es7a) | 3:54 | 2021-06-22 | 2022-07-29 |
@@ -258,7 +259,7 @@
 | [Lovely Day \- Studio Rio Version](https://open.spotify.com/track/4mH5oNojEmOswUGgCizDeb) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 3:57 | 2024-04-19 |  |
 | [Lover](https://open.spotify.com/track/0bzbvANY6oETSJLc0wlVGY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/3rYkgtFOo9AlPaeKTtn6pM) | 3:41 | 2021-06-22 | 2022-07-29 |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2022-07-22 | 2024-04-19 |
-| [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-06-21 |  |
+| [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-06-21 | 2024-08-03 |
 | [Macadamian](https://open.spotify.com/track/2sOwLI2gzNmBop0emWZQuf) | [Jimmy Smash](https://open.spotify.com/artist/3ziswS6VSBGwPzIlvEV2zQ) | [Macadamian](https://open.spotify.com/album/50LxIKOBbT4jPIsKL7A1dE) | 3:26 | 2021-06-22 | 2022-07-29 |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2022-07-22 | 2023-07-01 |
 | [Make You](https://open.spotify.com/track/1SPUmDMhbzHOsizroAypLi) | [Famous Yesterday](https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h) | [Make You](https://open.spotify.com/album/71K55CCV4inStm0uoLJZF8) | 2:50 | 2021-06-22 | 2022-07-29 |
@@ -291,7 +292,7 @@
 | [No Letting Go](https://open.spotify.com/track/1ElliR0IsEPKoaWUmY71y2) | [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [No Letting Go](https://open.spotify.com/album/5pIztVNFISnTNc6poeREQH) | 3:20 | 2021-06-22 | 2022-05-28 |
 | [No One's Gonna Love You](https://open.spotify.com/track/2an7S0pfafUr6YNabYXIl0) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [No One's Gonna Love You](https://open.spotify.com/album/1VOlQsvshuMrW7y8r6JGOY) | 3:52 | 2021-06-22 | 2022-05-18 |
 | [nobody else](https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:17 | 2021-06-22 | 2022-07-23 |
-| [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-26 |  |
+| [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-26 | 2024-08-03 |
 | [Oceans \- Acoustic Version](https://open.spotify.com/track/5vZrslgryUYs5C4kpUnQoz) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Oceans](https://open.spotify.com/album/0iF1j9nhAxi2yMw61iHtXc) | 4:01 | 2021-06-22 | 2022-05-18 |
 | [Oheja](https://open.spotify.com/track/5ACfk4NnDfQjcJ9fl3baZD) | [Sean Christopher](https://open.spotify.com/artist/0e4vnHBYwY6LQqrhutIcnj) | [Oheja](https://open.spotify.com/album/5wPS5gx8OMlWsYLwtVOnnT) | 3:39 | 2021-06-22 | 2022-05-28 |
 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 | 2023-05-26 |  |

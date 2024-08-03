@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: LCD Soundsystem
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,958 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,004 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
 | 2 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 3 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
-| 4 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
-| 5 | [Naive](https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:23 |
+| 4 | [Naive](https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:23 |
+| 5 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
 | 6 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 | 7 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
 | 8 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 |
 | 9 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 |
 | 10 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 11 | [No One Knows](https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 4:38 |
-| 12 | [Someday](https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:03 |
-| 13 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
+| 12 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
+| 13 | [Someday](https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:03 |
 | 14 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:44 |
 | 15 | [Crystalised](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:21 |
 | 16 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 47 | [Sticks 'N' Stones](https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Kings & Queens](https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc) | 4:00 |
 | 48 | [Never Miss A Beat](https://open.spotify.com/track/0bXhjlgUddDlJzHOeVM4Tq) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Off With Their Heads](https://open.spotify.com/album/1cMowxUDW6TPg6NXnOdM3n) | 3:06 |
 | 49 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
-| 50 | [White Winter Hymnal](https://open.spotify.com/track/4XTuSMs47SIg35KxhNIUGe) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/1rfgmU0AYNwWfS88pCOlX7) | 2:27 |
-| 51 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
+| 50 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
+| 51 | [White Winter Hymnal](https://open.spotify.com/track/4XTuSMs47SIg35KxhNIUGe) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/1rfgmU0AYNwWfS88pCOlX7) | 2:27 |
 | 52 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 53 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
 | 54 | [Heavy Cross](https://open.spotify.com/track/4N6R6yqkFUTyF3AYOdR0T7) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Heavy Cross](https://open.spotify.com/album/6iKQraIqR247eFKjdTMoDR) | 4:02 |

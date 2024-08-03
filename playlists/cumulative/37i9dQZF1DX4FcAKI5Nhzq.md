@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: JINJIN \(ASTRO\)
 
-1,117 songs - 2 day 12 hr 59 min
+1,118 songs - 2 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [KILLA](https://open.spotify.com/track/7MyF8hoeUbpv6ZIEVlsTY8) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [KILLA \- MIRAE 1st Mini Album](https://open.spotify.com/album/1Hie8o9qZTYeiitXGmzI2V) | 3:32 | 2021-04-22 | 2021-06-25 |
 | [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 | 2024-02-07 | 2024-05-24 |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-01 | 2022-03-03 |
-| [KING KONG](https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [KING KONG](https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT) | 3:16 | 2024-05-28 |  |
+| [KING KONG](https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [KING KONG](https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT) | 3:16 | 2024-05-28 | 2024-08-03 |
 | [KINGDOM COME](https://open.spotify.com/track/10BJxp4qvLLBEHtsY72piK) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:45 | 2021-06-09 | 2021-08-05 |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-08-12 | 2022-09-25 |
 | [KISS OR DEATH](https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H) | 3:27 | 2021-07-28 | 2021-09-07 |
@@ -753,7 +753,7 @@
 | [POM POM POM](https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [UNFRAMED](https://open.spotify.com/album/09fRNZvZnqJqm7024Sa7uP) | 3:25 | 2024-06-23 |  |
 | [Ponytail \(Feat\. Sik\-K\)](https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Ponytail](https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0) | 3:25 | 2023-01-03 | 2023-03-16 |
 | [Ponzona](https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [INTO VIOLET](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) | 3:11 | 2021-03-19 | 2021-06-25 |
-| [Poongdung](https://open.spotify.com/track/3k37BDB7RmEl4TvmsdLNdI) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [﻿cignature 5th EP Album 'Sweetie but Saltie'](https://open.spotify.com/album/2b1k5XuKhLK0zkCS7B85pY) | 3:06 | 2024-06-23 |  |
+| [Poongdung](https://open.spotify.com/track/3k37BDB7RmEl4TvmsdLNdI) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [﻿cignature 5th EP Album 'Sweetie but Saltie'](https://open.spotify.com/album/2b1k5XuKhLK0zkCS7B85pY) | 3:06 | 2024-06-23 | 2024-08-03 |
 | [Popping](https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SUMMER POPUP ALBUM \[POPPING\]](https://open.spotify.com/album/0JRycz0jI4Rh02dRl6aGF6) | 3:24 | 2021-08-11 | 2021-10-13 |
 | [Poppy \(Korean Ver.\)](https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Poppy \(Korean Ver.\)](https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu) | 2:58 | 2023-02-06 | 2023-06-09 |
 | [Predator](https://open.spotify.com/track/5RaEgSov5mWUjLXDTDvJwM) | [LEE GI KWANG](https://open.spotify.com/artist/3CC7p9QM4VjO62rmcaRP3z) | [Predator](https://open.spotify.com/album/25InMrI54TS9KngHEdEsi0) | 3:03 | 2023-04-20 | 2023-07-08 |
@@ -819,7 +819,7 @@
 | [RUSH \(ft\. BOBBY\)](https://open.spotify.com/track/7LK5puNRuxmPiZNzOS1iM6) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 3:14 | 2024-06-23 |  |
 | [Rush Hour](https://open.spotify.com/track/2eEVS8HGd0xpmsUOCuVIzI) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Rush Hour](https://open.spotify.com/album/5D4f8ca3u8RKEqdpgcgext) | 3:48 | 2021-06-09 | 2021-09-18 |
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-24 | 2022-11-19 |
-| [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 | 2024-06-18 |  |
+| [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 | 2024-06-18 | 2024-08-03 |
 | [Sacrifice](https://open.spotify.com/track/7sbNbeqpYvXJW38ILRObkm) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [Fame](https://open.spotify.com/album/75CKaNcbDZ7su55IJexkdS) | 3:14 | 2020-10-13\* | 2021-01-11 |
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-21 | 2023-10-21 |
 | [SALUTE](https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:08 | 2020-11-03 | 2021-03-10 |
@@ -991,6 +991,7 @@
 | [Too Bad](https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.1 : First Love](https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp) | 3:16 | 2022-03-21 | 2022-06-01 |
 | [Top or Cliff](https://open.spotify.com/track/6nxaMLoDXkG0NlwV46Jnvb) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Door](https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy) | 3:41 | 2023-09-11 | 2024-02-16 |
 | [Top Tier](https://open.spotify.com/track/70UObiGz3vxO2Gv9myhlVi) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR) | [oWn](https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g) | 2:50 | 2023-03-06 | 2023-04-14 |
+| [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-02 |  |
 | [Trauma](https://open.spotify.com/track/1kvcWkI3m8L6F7EFheV8lM) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RUMINATION](https://open.spotify.com/album/23F2thvLl5vJvxD5fG4yRm) | 3:21 | 2021-11-24 | 2022-02-18 |
 | [TRIGGER](https://open.spotify.com/track/2GNSBV3MLrT5vSEwfgSCpG) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 2 : HOLE\]](https://open.spotify.com/album/6JUF0SnjI6ZUeQQUdZmdP9) | 3:01 | 2021-08-27 | 2021-09-18 |
 | [Trip](https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Trip](https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n) | 2:56 | 2021-03-18 | 2021-06-09 |

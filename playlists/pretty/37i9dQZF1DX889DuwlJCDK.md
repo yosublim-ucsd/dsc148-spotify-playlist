@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: ammo
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,908 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,917 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 95 | [過呼吸愛](https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [羽化](https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR) | 2:25 |
 | 96 | [月が綺麗だって](https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [月が綺麗だって](https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj) | 4:28 |
 | 97 | [Musica](https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Musica](https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA) | 3:03 |
-| 98 | [値千金](https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [値千金](https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2) | 4:46 |
-| 99 | [nevermind](https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [nevermind](https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw) | 2:38 |
+| 98 | [nevermind](https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [nevermind](https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw) | 2:38 |
+| 99 | [値千金](https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [値千金](https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2) | 4:46 |
 | 100 | [HEAT](https://open.spotify.com/track/4fmX6sOptsXNY1V3l0N6pd) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [FLASH](https://open.spotify.com/album/22Ch3wBTwzaMgWKqIertI6) | 3:53 |
 
 Snapshot ID: `Zqj/8AAAAACoE4p7dQKfaSQBu07MI4QO`

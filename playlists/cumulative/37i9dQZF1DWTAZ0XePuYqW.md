@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> That's that big energy\. Cover: BAMBII
+> That's that big energy\. Cover: Doechii
 
-355 songs - 17 hr 31 min
+356 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-04-05 |  |
 | [ALPHA \(GLAMHOUSE REMIX\)](https://open.spotify.com/track/6eGJO5V4B9eL9Li9hKfTzU) | [GLAMHOUSE](https://open.spotify.com/artist/33lQfkAm6jLcuWDQcrWnRj), [Yung Titties](https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY), [more of may](https://open.spotify.com/artist/7Mv15rYbVyS1mzWgEJWb3u) | [ALPHA \(GLAMHOUSE REMIX\)](https://open.spotify.com/album/6DMVd7pM2ZhRN0H9YeaAGN) | 3:31 | 2024-02-23 | 2024-04-06 |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2023-08-25 | 2024-05-04 |
-| [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 | 2024-03-29 |  |
+| [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 | 2024-03-29 | 2024-08-03 |
 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 | 2023-08-18 | 2024-05-18 |
 | [Ambrosia](https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Ambrosia](https://open.spotify.com/album/6liLrRZ18eTnyKwKKdlhYB) | 3:06 | 2023-10-13 | 2024-02-03 |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c) | 4:20 | 2023-08-18 | 2023-11-11 |
@@ -221,6 +221,7 @@
 | [Need Your Love](https://open.spotify.com/track/2BHvTbPBEaojVBM7nNrhVl) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Taite Imogen](https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL) | [Need Your Love](https://open.spotify.com/album/3UxMb30QWQEcQLatgnxCyb) | 3:52 | 2023-09-29 | 2023-11-11 |
 | [Neva Beta](https://open.spotify.com/track/6Jr0RcXA9xjK7vyoHcZAU5) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [SMYLE AGAIN](https://open.spotify.com/album/5SmUcpJVuEdQu5Gv7gSSsI) | 1:30 | 2024-03-08 | 2024-07-06 |
 | [Ngibambe \- Jayda G Remix](https://open.spotify.com/track/73FtRvqWb77kuYk40DYNNS) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Ngibambe \(Jayda G Remix\)](https://open.spotify.com/album/2o0QaLNDnvx7Zoe9erwOzp) | 3:34 | 2023-08-25 | 2023-10-07 |
+| [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 | 2024-08-02 |  |
 | [No Piano](https://open.spotify.com/track/39McKyxrkhiir6eaeAEDSc) | [NegoO](https://open.spotify.com/artist/3gzr7RSwdcex4CdfvZi0TX), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [No Piano](https://open.spotify.com/album/06p3p5ijx358wL4vMkK8re) | 2:43 | 2024-07-12 |  |
 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 | 2024-06-14 |  |
 | [Normalized](https://open.spotify.com/track/56wi2umjhuhSd8hIwKtsd0) | [Bungalow Collect](https://open.spotify.com/artist/4JR4QR71dWswPhgIEeu8xJ) | [Normalized](https://open.spotify.com/album/0tU0rNgT7Bd5Ph2gYTbt4Y) | 2:56 | 2024-05-03 | 2024-05-18 |

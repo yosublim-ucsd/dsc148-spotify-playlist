@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-708 songs - 1 day 11 hr 23 min
+710 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [GNOR](https://open.spotify.com/track/6qnNzvYAcdSrJ4YsloQWIq) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Provenzano](https://open.spotify.com/artist/0X31zioYkeZFA3GBQR937K) | [GNOR](https://open.spotify.com/album/0s1N8nHJoCwNCestcxsDMm) | 2:22 | 2023-11-22 |  |
 | [Going down](https://open.spotify.com/track/0f9mRNkqNHlAGwM9rVy6Bs) | [Milyo](https://open.spotify.com/artist/581plaxcfSWYMovHiZzh3f) | [Going Down](https://open.spotify.com/album/08R4bfOyu9zFaDMQdh4mTo) | 3:37 | 2024-06-21 |  |
 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-06-01 | 2023-12-14 |
+| [Gonna Kill My Way](https://open.spotify.com/track/3IpWLISMLR0JMuLgXtm8nG) | [Eddy Black](https://open.spotify.com/artist/5XCoXE7RaDvuyMCghkdmxK) | [Gonna Kill My Way](https://open.spotify.com/album/0ZUeNzry9q22SNXQ88xIgD) | 3:50 | 2024-08-02 |  |
 | [Good God \(Sunnery James & Ryan Marciano Remix\)](https://open.spotify.com/track/1aXf9GykmY5jprsRYAlrL6) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Good God \(Sunnery James & Ryan Marciano Remix\)](https://open.spotify.com/album/0RbpWANRg0P5mRBrDgSMF9) | 2:29 | 2024-01-12 |  |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-09-06 | 2023-12-23 |
 | [Good Times](https://open.spotify.com/track/1eblgKToumXNFptxsvrAZU) | [Laurent Simeca](https://open.spotify.com/artist/4siciMJGHAZA1jVYWUr4Vv) | [Good Times](https://open.spotify.com/album/40vLMODOejMxWNCHQZAwgz) | 3:11 | 2023-02-12 | 2023-03-25 |
@@ -344,6 +345,7 @@
 | [Like That!](https://open.spotify.com/track/4QGXpDkEZzuZ33oniNjAQ0) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [KENNY MUSIK](https://open.spotify.com/artist/5UzwQIj5Z1CfQrsVhpp57z) | [Like That!](https://open.spotify.com/album/7n2uPIxqk2YZoueagzBoqR) | 2:36 | 2023-02-12 | 2023-12-14 |
 | [Like This](https://open.spotify.com/track/6xzmZbfB8WsrWyxJxfMOXo) | [FONTI](https://open.spotify.com/artist/1wYQzfNKzHpbeE3M1aRXS4), [Brawo](https://open.spotify.com/artist/09EMhMzmNUfOzS6Z7zKHej) | [Like This](https://open.spotify.com/album/0IKWmzxUti342Ux02h3VlF) | 2:55 | 2023-12-08 |  |
 | [Like This](https://open.spotify.com/track/0ivA7bMXyVNFaQOceVI8EX) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Like This](https://open.spotify.com/album/5c2BKb5ZyD3H3h5tenKJSU) | 2:50 | 2023-04-27 | 2023-12-14 |
+| [Lindos Ojos](https://open.spotify.com/track/0JbwPMowbtRAeN5JGMWjXB) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Lindos Ojos](https://open.spotify.com/album/6HB0vckn7uVRysypgXWP3R) | 3:22 | 2024-08-02 |  |
 | [Liquor By The Litre \(feat\. P Money & Laurena Volanté\) \[Murder He Wrote Remix\]](https://open.spotify.com/track/5ljicPY5xrI5f80r9MEWXM) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Murder He Wrote](https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z), [Laurena Volanté](https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu) | [Liquor By The Litre \(feat\. P Money & Laurena Volanté\) \[Murder He Wrote Remix\]](https://open.spotify.com/album/3KEZEvcyPrKBj423pUPLYl) | 3:26 | 2024-03-22 | 2024-04-26 |
 | [Little Perk](https://open.spotify.com/track/6Z0pACbh4jmSOL4d47FRHi) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Little Perk](https://open.spotify.com/album/4hYel5A8uGNtLLYsHC7Fj8) | 3:01 | 2023-11-24 |  |
 | [Live Wire](https://open.spotify.com/track/6pd1xr5qxj4lw1GD6QBDxl) | [Valy Mo](https://open.spotify.com/artist/2GOqvtSlw1DetJcV3p0fYH), [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Live Wire](https://open.spotify.com/album/1rffiRmofrgygTi0L2V5i4) | 3:08 | 2023-11-10 |  |

@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196428,
       "name": "Beso Rel\u00e1mpago",
       "url": "https://open.spotify.com/track/3ogQbEUfG2IMdDG8eygasG"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -2744,6 +2744,28 @@
       "duration_ms": 208213,
       "name": "Me Gustas Tanto - Remix",
       "url": "https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC"
+    },
+    {
+      "album": {
+        "name": "me hace bien",
+        "url": "https://open.spotify.com/album/5d2U9nTionMO2EQgJDVnIF"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Ale Sergi",
+          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "me hace bien",
+      "url": "https://open.spotify.com/track/3YvPDFVcqKRYI0orNE6zIK"
     },
     {
       "album": {
@@ -2934,6 +2956,24 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "album": {
+        "name": "mil procedimientos",
+        "url": "https://open.spotify.com/album/228lIoPGjFuFxEUAh4vjOO"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "mil procedimientos",
+      "url": "https://open.spotify.com/track/3GbGWkO0fqOGKvDGQle35s"
     },
     {
       "album": {
@@ -3564,7 +3604,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 194103,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/0xK6XcqsGiwRhjPEEMdeFK"
@@ -3798,6 +3838,24 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "album": {
+        "name": "Pensamientos Intrusivos",
+        "url": "https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163239,
+      "name": "Pensamientos Intrusivos",
+      "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
     },
     {
       "album": {
@@ -4687,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg"
+    },
+    {
+      "album": {
         "name": "Texto",
         "url": "https://open.spotify.com/album/3segVWdI8FZGGGiDJogPEV"
       },
@@ -4898,7 +4974,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 190589,
       "name": "tu droga",
       "url": "https://open.spotify.com/track/3X942CRKTugvuz4MMWPtWj"

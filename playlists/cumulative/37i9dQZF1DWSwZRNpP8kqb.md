@@ -2,7 +2,7 @@
 
 ### [Mujeres del Folklore](https://open.spotify.com/playlist/37i9dQZF1DWSwZRNpP8kqb)
 
-> Cantoras y compositoras de nuestra tierra, con la Bruja Salguero en portada.
+> Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
 161 songs - 9 hr 30 min
 

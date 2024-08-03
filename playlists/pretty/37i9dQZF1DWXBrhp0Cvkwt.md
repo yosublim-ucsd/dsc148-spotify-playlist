@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,549 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,672 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,19 +73,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 63 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
 | 64 | [Second Best](https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:24 |
 | 65 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 |
-| 66 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
-| 67 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
+| 66 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
+| 67 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
 | 68 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
-| 69 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
-| 70 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
-| 71 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 |
-| 72 | [ghostin](https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:31 |
+| 69 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
+| 70 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
+| 71 | [ghostin](https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:31 |
+| 72 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 |
 | 73 | [Been Like This](https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:57 |
 | 74 | [And I Love Her](https://open.spotify.com/track/7x4b0UccXSKBWxWmjcrG2T) | [Kurt Cobain](https://open.spotify.com/artist/6pAuTi6FXi6qFQJ1dzMXQs) | [Montage Of Heck: The Home Recordings](https://open.spotify.com/album/5UlRowLBWdNDdO17os804M) | 2:04 |
 | 75 | [Sleep Thru Ur Alarms](https://open.spotify.com/track/3Mmt4wAMtWRmObAxbejpPe) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Surrender \(2014 \- 2017\)](https://open.spotify.com/album/78RlalVILUrWdkRSHiNT2z) | 1:52 |
 | 76 | [chance with you](https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 3:35 |
-| 77 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 |
-| 78 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
+| 77 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
+| 78 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 |
 | 79 | [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 |
 | 80 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
 

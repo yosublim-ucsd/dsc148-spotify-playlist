@@ -4,14 +4,14 @@
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: James Bay
 
-462 songs - 1 day 4 hr 10 min
+464 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11/17](https://open.spotify.com/track/3efydF0TF67eydgM86XEwq) | [The Honest Heart Collective](https://open.spotify.com/artist/2qgcVY8aup4vFHfp4uoZ2X) | [11/17](https://open.spotify.com/album/0VOFvOzlavgsiKF0e9bJhY) | 2:32 | 2021-08-06 | 2022-02-05 |
 | [A Ghost](https://open.spotify.com/track/6Nf3vTytXZsEb9vCf1RDt6) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [A Ghost](https://open.spotify.com/album/2WsikixYJMwnnXKiRf92xH) | 3:45 | 2021-01-29 | 2023-02-11 |
 | [A Wave Across A Bay](https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [A Wave Across A Bay](https://open.spotify.com/album/7cBsGWCsDuu0KC38K3uBFF) | 3:43 | 2022-01-14 | 2022-09-16 |
-| [Act Natural](https://open.spotify.com/track/3urh371tmIWyKiK5D7emx1) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Echo The Diamond](https://open.spotify.com/album/4Mal9r2lPvrzpsWstauX32) | 4:19 | 2023-09-22 |  |
+| [Act Natural](https://open.spotify.com/track/3urh371tmIWyKiK5D7emx1) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Echo The Diamond](https://open.spotify.com/album/4Mal9r2lPvrzpsWstauX32) | 4:19 | 2023-09-22 | 2024-08-03 |
 | [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 | 2021-07-16 | 2023-02-11 |
 | [Alarm Clock](https://open.spotify.com/track/2zkiwigwXhvi1YBdiczVhT) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Alarm Clock](https://open.spotify.com/album/7qyehmMxEXQoDVdlcBeJvN) | 2:54 | 2023-11-07 |  |
 | [Alibi](https://open.spotify.com/track/1hS3RXEQbXtWgYpot2Ay07) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 2:48 | 2024-04-05 | 2024-04-19 |
@@ -103,7 +103,7 @@
 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 | 2024-06-07 |  |
 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 | 2022-08-28 | 2023-08-27 |
 | [Double Life](https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Double Life](https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7) | 2:23 | 2023-08-26 | 2023-11-21 |
-| [Dramamine](https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT) | 2:57 | 2024-04-05 |  |
+| [Dramamine](https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT) | 2:57 | 2024-04-05 | 2024-08-03 |
 | [Dream Never Dies](https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Dream Never Dies](https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk) | 4:45 | 2021-11-23 | 2023-02-11 |
 | [Drugs](https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Drugs](https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e) | 3:23 | 2024-07-19 |  |
 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 | 2023-06-02 | 2024-04-19 |
@@ -142,6 +142,7 @@
 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 | 2021-07-09 | 2022-01-29 |
 | [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-02-10 | 2023-04-06 |
 | [Geometry](https://open.spotify.com/track/6vR6PqBvhUFM0lFJtfJm79) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/2y5dQYzr7Q4me0JhXU2RcD) | 4:25 | 2022-11-11 | 2024-07-13 |
+| [Glory](https://open.spotify.com/track/3mtEW49yCwrQCpmmpJRSMe) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Glory](https://open.spotify.com/album/4nipWjYgC5U5OduxOHQt4s) | 5:42 | 2024-08-02 |  |
 | [Golden](https://open.spotify.com/track/4BbM3Hp1yzGkFsMPF7DfZs) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Golden](https://open.spotify.com/album/2a2nQUIvrpWw5KdYvGIFNG) | 3:27 | 2023-05-12 | 2023-11-18 |
 | [Golden](https://open.spotify.com/track/5149LIHpBivPrcQsX5HZO6) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 3:27 | 2023-09-22 | 2024-04-19 |
 | [Gonna Be Me \(the friendship song\)](https://open.spotify.com/track/4mQWiSFhxoo3hbllceNNTo) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y) | [Gonna Be Me \(the friendship song\)](https://open.spotify.com/album/1xN72g072AxdFeiWrIVJZs) | 3:23 | 2024-07-19 |  |
@@ -385,6 +386,7 @@
 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 | 2024-04-05 |  |
 | [Survivor](https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:01 | 2022-07-01 | 2024-04-19 |
 | [Survivor](https://open.spotify.com/track/2TSiZ6ZtA4x5NbQgGpYrVU) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Survivor](https://open.spotify.com/album/5OVhDxr9XYs8WRHR0Njiad) | 4:01 | 2021-08-20 | 2022-07-29 |
+| [Take a Look Inside](https://open.spotify.com/track/1pWu29hfLPWxqegK7ohVWt) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Take a Look Inside](https://open.spotify.com/album/63zgDmHLZgi5FtHJNLFt0R) | 4:28 | 2024-08-02 |  |
 | [Take A Walk](https://open.spotify.com/track/0dVVLxuAvUnkwNGgW9aoZs) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Take A Walk](https://open.spotify.com/album/0ZHOjJXOJ5kZpidFOqWtnw) | 3:46 | 2022-03-11 | 2022-07-02 |
 | [Take Me Away](https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Take Me Away](https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg) | 4:06 | 2021-01-29 | 2022-04-09 |
 | [Talk to Me](https://open.spotify.com/track/51cFoZgKkZJhQa9iHy0EcD) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Talk to Me](https://open.spotify.com/album/6a0hKzzXU9yfULzFLnASm7) | 4:02 | 2024-01-12 |  |

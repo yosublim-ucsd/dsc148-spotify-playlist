@@ -1,13 +1,29 @@
 {
   "description": "Shut out the noise around you with these acoustic instrumentals.",
-  "num_followers": 514418,
+  "num_followers": 514409,
   "original_name": "Acoustic Concentration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZeqbjAAAAACxpib/32PTSWtwYeAeeTe+",
+  "snapshot_id": "ZqxZwAAAAAB3KaipDkX2wP0ZAGFm5tVq",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Too Cool (Guitar Version)",
+        "url": "https://open.spotify.com/album/57h428gf55rR9knDH48UFO"
+      },
+      "artists": [
+        {
+          "name": "Lance Allen",
+          "url": "https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC"
+        }
+      ],
+      "duration_ms": 132081,
+      "name": "Too Cool - Guitar Version",
+      "url": "https://open.spotify.com/track/35rahlp0arpoCBwGD2DrK3"
+    },
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {

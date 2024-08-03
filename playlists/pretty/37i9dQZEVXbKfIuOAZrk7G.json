@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Canada.",
-  "num_followers": 55094,
+  "num_followers": 55092,
   "original_name": "Viral 50 - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lj7zGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LkBEmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Harpy Hare",
         "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Chihiro",
         "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
@@ -117,7 +117,39 @@
       "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
@@ -137,39 +169,7 @@
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "You Missed",
         "url": "https://open.spotify.com/album/5TTavjiAwlZzkejwJGLKIH"
@@ -185,7 +185,23 @@
       "url": "https://open.spotify.com/track/1EhgbnpHvHctMlLNJRIbP0"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Beckham",
         "url": "https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw"
@@ -253,27 +269,7 @@
       "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "you look like you love me (feat. Riley Green)",
-        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "you look like you love me (feat. Riley Green)",
-      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -305,23 +301,27 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "Double Life (From \"Despicable Me 4\")",
-        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+        "name": "you look like you love me (feat. Riley Green)",
+        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 190782,
-      "name": "Double Life - From \"Despicable Me 4\"",
-      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+      "duration_ms": 224280,
+      "name": "you look like you love me (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "I Like It (with Nate Smith)",
         "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Maxed Out",
         "url": "https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
@@ -393,39 +393,7 @@
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
-      },
-      "artists": [
-        {
-          "name": "Yorssy",
-          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
-        }
-      ],
-      "duration_ms": 129153,
-      "name": "CRF - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "Bando Stone and The New World",
-        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Lithonia",
-      "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -441,27 +409,55 @@
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "Aasa Kooda (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
+        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
       },
       "artists": [
         {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Sai Smriti",
-          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
         }
       ],
-      "duration_ms": 215510,
-      "name": "Aasa Kooda - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
+      "duration_ms": 129153,
+      "name": "CRF - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 167291,
+      "name": "SIN MIEDO",
+      "url": "https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "The Spark",
         "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
@@ -481,47 +477,27 @@
       "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "Aasa Kooda (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         },
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
         }
       ],
-      "duration_ms": 230199,
-      "name": "Somebody Save Me",
-      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
+      "duration_ms": 215510,
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "Descendants: The Rise of Red (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
-      },
-      "artists": [
-        {
-          "name": "Descendants \u2013 Cast",
-          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 218723,
-      "name": "Life Is Sweeter",
-      "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
@@ -545,47 +521,59 @@
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "Pink Lemonade (Str8 Reload)",
-        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
+        "name": "Descendants: The Rise of Red (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
       },
       "artists": [
         {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
         },
         {
-          "name": "Mr Reload It",
-          "url": "https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh"
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 122208,
-      "name": "Pink Lemonade (Str8 Reload)",
-      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
+      "duration_ms": 218723,
+      "name": "Life Is Sweeter",
+      "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Hymne \u00e0 l'amour - Live",
+      "url": "https://open.spotify.com/track/7wQEazOrLEHSCMo3gEuV88"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Red (From \"Descendants: The Rise of Red\")",
         "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
@@ -609,7 +597,83 @@
       "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "Pink Lemonade (Str8 Reload)",
+        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Mr Reload It",
+          "url": "https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh"
+        }
+      ],
+      "duration_ms": 122208,
+      "name": "Pink Lemonade (Str8 Reload)",
+      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Linger / Heading For The Door (Sirius XM Session)",
         "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
@@ -625,39 +689,7 @@
       "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "de l'accordeoniste a milord",
-        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Hymne \u00e0 l'amour - Live",
-      "url": "https://open.spotify.com/track/7wQEazOrLEHSCMo3gEuV88"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "JOYRIDE",
         "url": "https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea"
@@ -673,7 +705,7 @@
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
@@ -689,7 +721,7 @@
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
@@ -705,7 +737,23 @@
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "sun to me",
         "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
@@ -721,55 +769,7 @@
       "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "Black Is Golden",
-        "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
-      },
-      "artists": [
-        {
-          "name": "Wyn Starks",
-          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
-        }
-      ],
-      "duration_ms": 203567,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/5rnA7GuOZvPWYHuydZ08zx"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 181602,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Project YVL",
         "url": "https://open.spotify.com/album/2NSzFWptxM2TsHbGtDE2dr"
@@ -793,75 +793,55 @@
       "url": "https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "Made by These Moments",
-        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+        "name": "Black Is Golden",
+        "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
       },
       "artists": [
         {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
         }
       ],
-      "duration_ms": 288121,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/5vsaspF6wIZOPWNCdHUFLP"
+      "duration_ms": 203567,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/5rnA7GuOZvPWYHuydZ08zx"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+        "name": "Say",
+        "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+      "duration_ms": 181602,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
-      "album": {
-        "name": "Suniyan Suniyan",
-        "url": "https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR"
-      },
-      "artists": [
-        {
-          "name": "Juss",
-          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
-        },
-        {
-          "name": "MixSingh",
-          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Suniyan Suniyan",
-      "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"
-    },
-    {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "Cold Beer & Country Music",
         "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
@@ -877,23 +857,23 @@
       "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
       },
       "artists": [
         {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         }
       ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+      "duration_ms": 157120,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -909,36 +889,52 @@
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
         }
       ],
-      "duration_ms": 219710,
-      "name": "Femininomenon",
-      "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
+      "duration_ms": 288121,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/5vsaspF6wIZOPWNCdHUFLP"
     },
     {
-      "added_at": "2024-08-01 13:36:16",
+      "added_at": "2024-08-02 19:40:16",
       "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
       },
       "artists": [
         {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
         }
       ],
-      "duration_ms": 157120,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "added_at": "2024-08-02 19:40:16",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     }
   ],
   "unique_name": "Viral 50 - Canada",

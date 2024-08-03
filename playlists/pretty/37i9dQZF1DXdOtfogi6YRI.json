@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: stickxr",
-  "num_followers": 17577,
+  "num_followers": 17578,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/7trwYuGY3gGK5dqpEZ7Bot"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "duration_ms": 158890,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/7rG1GqSwfPCuxFAT7Kiobh"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Ostatni raz",
         "url": "https://open.spotify.com/album/7Kou7h23sjFAWRBPgC608Z"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 199285,
       "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
       "url": "https://open.spotify.com/track/0ZfFvtLadMbxYY3wEDVKwp"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Zoo",
-        "url": "https://open.spotify.com/album/7trwYuGY3gGK5dqpEZ7Bot"
-      },
-      "artists": [
-        {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
-        }
-      ],
-      "duration_ms": 158890,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/7rG1GqSwfPCuxFAT7Kiobh"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -631,6 +631,26 @@
       "duration_ms": 209918,
       "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
       "url": "https://open.spotify.com/track/5yRsHDOM4XWRyCrNBHxWl5"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Wspania\u0142y \u015bwiat",
+        "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "duration_ms": 157098,
+      "name": "Wspania\u0142y \u015bwiat",
+      "url": "https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -747,6 +767,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Kino",
+        "url": "https://open.spotify.com/album/0Nyyv91nUo2ZEVbiDcgdYc"
+      },
+      "artists": [
+        {
+          "name": "Blaga",
+          "url": "https://open.spotify.com/artist/6p0joBE2P2Ho4dsNtFaPQF"
+        }
+      ],
+      "duration_ms": 171244,
+      "name": "Kino",
+      "url": "https://open.spotify.com/track/6Uydxm95vvDTpcAAOGSiOK"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "MIASTO AWANTUR",
         "url": "https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ"
       },
@@ -771,42 +807,6 @@
       "duration_ms": 212142,
       "name": "MIASTO AWANTUR",
       "url": "https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Wspania\u0142y \u015bwiat",
-        "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
-      },
-      "artists": [
-        {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
-        }
-      ],
-      "duration_ms": 157098,
-      "name": "Wspania\u0142y \u015bwiat",
-      "url": "https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Kino",
-        "url": "https://open.spotify.com/album/0Nyyv91nUo2ZEVbiDcgdYc"
-      },
-      "artists": [
-        {
-          "name": "Blaga",
-          "url": "https://open.spotify.com/artist/6p0joBE2P2Ho4dsNtFaPQF"
-        }
-      ],
-      "duration_ms": 171244,
-      "name": "Kino",
-      "url": "https://open.spotify.com/track/6Uydxm95vvDTpcAAOGSiOK"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "usa",
-        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        },
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
-        }
-      ],
-      "duration_ms": 129032,
-      "name": "usa",
-      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "tom i jerry",
         "url": "https://open.spotify.com/album/1SQRa44JeT5v10c618lmaa"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 156000,
       "name": "tom i jerry",
       "url": "https://open.spotify.com/track/2TMmCGZilPueW1AsnczOMY"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "usa",
+        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        },
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+        }
+      ],
+      "duration_ms": 129032,
+      "name": "usa",
+      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Nie mam czasu",
+        "url": "https://open.spotify.com/album/3WIiYeCJkZhvhNHNG0meuG"
+      },
+      "artists": [
+        {
+          "name": "DAW!D",
+          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
+        }
+      ],
+      "duration_ms": 138460,
+      "name": "Nie mam czasu",
+      "url": "https://open.spotify.com/track/1AdMVLsBmQdpLpDc78PlI3"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "To Wydarzy\u0142o Si\u0119 Naprawd\u0119 Opr\u00f3cz Tego, Co Zmy\u015bli\u0142em (DELUXE)",
         "url": "https://open.spotify.com/album/64rUySEtui2rnmII9cKG7A"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 253604,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/0OHydAhpZ3tcnvvNyG9M6C"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Nie mam czasu",
-        "url": "https://open.spotify.com/album/3WIiYeCJkZhvhNHNG0meuG"
-      },
-      "artists": [
-        {
-          "name": "DAW!D",
-          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
-        }
-      ],
-      "duration_ms": 138460,
-      "name": "Nie mam czasu",
-      "url": "https://open.spotify.com/track/1AdMVLsBmQdpLpDc78PlI3"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "WHOOP WHOOP",
+        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
+      },
+      "artists": [
+        {
+          "name": "Spectra",
+          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
+        }
+      ],
+      "duration_ms": 117015,
+      "name": "WHOOP WHOOP",
+      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "UTAH",
         "url": "https://open.spotify.com/album/06i2MDJJB0ysjWwcCoMkRL"
       },
@@ -1191,26 +1207,6 @@
       "duration_ms": 195555,
       "name": "GRUUVSTEP",
       "url": "https://open.spotify.com/track/3ZjXsaS9Ix2O7D9JUZsXYS"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Queensize / Kingsize",
-        "url": "https://open.spotify.com/album/1TKMkGKIp7C2Bmo23qByB7"
-      },
-      "artists": [
-        {
-          "name": "Expo 2000",
-          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
-        },
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "Queensize / Kingsize",
-      "url": "https://open.spotify.com/track/71Jv6UBNAosU8kldK6rN27"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "WHOOP WHOOP",
-        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
+        "name": "Queensize / Kingsize",
+        "url": "https://open.spotify.com/album/1TKMkGKIp7C2Bmo23qByB7"
       },
       "artists": [
         {
-          "name": "Spectra",
-          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
+          "name": "Expo 2000",
+          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
+        },
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
         }
       ],
-      "duration_ms": 117015,
-      "name": "WHOOP WHOOP",
-      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+      "duration_ms": 161342,
+      "name": "Queensize / Kingsize",
+      "url": "https://open.spotify.com/track/71Jv6UBNAosU8kldK6rN27"
     },
     {
       "added_at": "2024-08-01 22:00:00",

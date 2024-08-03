@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAqei/n50iIKX6kdwvOQuwN",
+  "snapshot_id": "ZqrQAAAAAADv72OeLVExWfJ1C814/AuD",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "REDLIGHT",
+        "url": "https://open.spotify.com/album/1VsO5oDfoIVmjKEvAre0VP"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "duration_ms": 227295,
+      "name": "REDLIGHT",
+      "url": "https://open.spotify.com/track/65aJP5egHEcF0nkTpe2jMD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N2U (feat. Martha Wash)",
         "url": "https://open.spotify.com/album/0TGjVzVuB9IhQERhQCesy1"
       },
@@ -323,50 +343,6 @@
       "duration_ms": 192145,
       "name": "N2U (feat. Martha Wash)",
       "url": "https://open.spotify.com/track/1Mw7M3NtxV1iSB6fHD8592"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        },
-        {
-          "name": "Db Bantino",
-          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
-        }
-      ],
-      "duration_ms": 194430,
-      "name": "MIDNIGHT STRANGERS",
-      "url": "https://open.spotify.com/track/2mt8tHAgl2q2Qpo2z15XMt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REDLIGHT",
-        "url": "https://open.spotify.com/album/1VsO5oDfoIVmjKEvAre0VP"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Friyie",
-          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
-        }
-      ],
-      "duration_ms": 227295,
-      "name": "REDLIGHT",
-      "url": "https://open.spotify.com/track/65aJP5egHEcF0nkTpe2jMD"
     },
     {
       "added_at": null,
@@ -395,6 +371,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        },
+        {
+          "name": "Db Bantino",
+          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "MIDNIGHT STRANGERS",
+      "url": "https://open.spotify.com/track/2mt8tHAgl2q2Qpo2z15XMt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "High (feat. Shaggy & Demarco) [Festival Mix]",
         "url": "https://open.spotify.com/album/2DPtK24Dn3vRTJjtO17oxJ"
       },
@@ -415,34 +415,6 @@
       "duration_ms": 245446,
       "name": "High (feat. Shaggy & Demarco) - Festival Mix",
       "url": "https://open.spotify.com/track/2HG2N7seRmTPK0NXkxg3ki"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Dant\u00e9 Knows",
-          "url": "https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs"
-        },
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        },
-        {
-          "name": "Clev Eleven",
-          "url": "https://open.spotify.com/artist/22pTzSFEmMCg4aIKiRfhOj"
-        }
-      ],
-      "duration_ms": 184929,
-      "name": "MEMES",
-      "url": "https://open.spotify.com/track/5nJnIxIKLisv9Dy6SsGvTv"
     },
     {
       "added_at": null,
@@ -491,6 +463,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Dant\u00e9 Knows",
+          "url": "https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs"
+        },
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "Clev Eleven",
+          "url": "https://open.spotify.com/artist/22pTzSFEmMCg4aIKiRfhOj"
+        }
+      ],
+      "duration_ms": 184929,
+      "name": "MEMES",
+      "url": "https://open.spotify.com/track/5nJnIxIKLisv9Dy6SsGvTv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100GANG",
         "url": "https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3"
       },
@@ -511,30 +511,6 @@
       "duration_ms": 147096,
       "name": "100GANG",
       "url": "https://open.spotify.com/track/0nQMfKCZUHSYA2Qp98Q4m1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        },
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        }
-      ],
-      "duration_ms": 182918,
-      "name": "40 Bands",
-      "url": "https://open.spotify.com/track/6doqLkPsmb0bHjsH9DnKsH"
     },
     {
       "added_at": null,
@@ -587,26 +563,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
-        "url": "https://open.spotify.com/album/0wIJrXCHUAVOcoz8mzSDia"
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
       "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
         {
           "name": "Kris the $pirit",
           "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
         },
         {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
         }
       ],
-      "duration_ms": 175941,
-      "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
-      "url": "https://open.spotify.com/track/1Rj8B7kHHM92QMZF0bIcqN"
+      "duration_ms": 182918,
+      "name": "40 Bands",
+      "url": "https://open.spotify.com/track/6doqLkPsmb0bHjsH9DnKsH"
     },
     {
       "added_at": null,
@@ -631,38 +607,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
+        "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
+        "url": "https://open.spotify.com/album/0wIJrXCHUAVOcoz8mzSDia"
       },
       "artists": [
         {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RVPTVRE",
-        "url": "https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
         },
         {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         }
       ],
-      "duration_ms": 214000,
-      "name": "RVPTVRE",
-      "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
+      "duration_ms": 175941,
+      "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
+      "url": "https://open.spotify.com/track/1Rj8B7kHHM92QMZF0bIcqN"
     },
     {
       "added_at": null,
@@ -683,6 +647,26 @@
       "duration_ms": 186923,
       "name": "MOJO - Hype Hop Edit",
       "url": "https://open.spotify.com/track/5gl00R577C5llEYqU8dUw5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RVPTVRE",
+        "url": "https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "RVPTVRE",
+      "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
     },
     {
       "added_at": null,
@@ -711,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "no excuses.",
-        "url": "https://open.spotify.com/album/2J01FmovA4Nfe4nUITIOIm"
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
       },
       "artists": [
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "TwoTiime",
-          "url": "https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p"
         }
       ],
-      "duration_ms": 230600,
-      "name": "no excuses.",
-      "url": "https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF"
+      "duration_ms": 177133,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
     },
     {
       "added_at": null,
@@ -755,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do it Again",
-        "url": "https://open.spotify.com/album/0uzuO11KDcIEz7Hub5J9SC"
+        "name": "no excuses.",
+        "url": "https://open.spotify.com/album/2J01FmovA4Nfe4nUITIOIm"
       },
       "artists": [
         {
@@ -764,17 +744,13 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Roney",
-          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
-        },
-        {
-          "name": "Jayy Brown",
-          "url": "https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE"
+          "name": "TwoTiime",
+          "url": "https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p"
         }
       ],
-      "duration_ms": 142806,
-      "name": "Do it Again",
-      "url": "https://open.spotify.com/track/2DyvuLqjixD2t6ZH9lAF0w"
+      "duration_ms": 230600,
+      "name": "no excuses.",
+      "url": "https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF"
     },
     {
       "added_at": null,
@@ -799,6 +775,30 @@
       "duration_ms": 160565,
       "name": "Vitamin D - Eva Shaw Remix",
       "url": "https://open.spotify.com/track/5dLSBxsw8pZ0CTg3ld2Zkk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do it Again",
+        "url": "https://open.spotify.com/album/0uzuO11KDcIEz7Hub5J9SC"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Roney",
+          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
+        },
+        {
+          "name": "Jayy Brown",
+          "url": "https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE"
+        }
+      ],
+      "duration_ms": 142806,
+      "name": "Do it Again",
+      "url": "https://open.spotify.com/track/2DyvuLqjixD2t6ZH9lAF0w"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EASTERISLAND",
-        "url": "https://open.spotify.com/album/6fPOD2WR2xjQaIDl0wwFbA"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "EASTERISLAND",
-      "url": "https://open.spotify.com/track/52ZmVF8HmzkRNOWNthIbTu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ba Da Da Ding",
         "url": "https://open.spotify.com/album/69AGVh9lmNbBmK3FbILz2z"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 175132,
       "name": "Ba Da Da Ding",
       "url": "https://open.spotify.com/track/738Lq96Lgoy6oiZx2itjyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EASTERISLAND",
+        "url": "https://open.spotify.com/album/6fPOD2WR2xjQaIDl0wwFbA"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "EASTERISLAND",
+      "url": "https://open.spotify.com/track/52ZmVF8HmzkRNOWNthIbTu"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secret",
-        "url": "https://open.spotify.com/album/116sV035o9y6YoO5Hedty9"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/5HLmbHuDV5XV3o4ycCExOa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RAQX",
         "url": "https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/116sV035o9y6YoO5Hedty9"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/5HLmbHuDV5XV3o4ycCExOa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
@@ -1019,6 +1019,30 @@
       "duration_ms": 213851,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voices (feat. Najja)",
+        "url": "https://open.spotify.com/album/5M8TOMmrqLaAbJIL6AR3YE"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "DiJiTAL",
+          "url": "https://open.spotify.com/artist/4wgKZjK5s8GV9lMUtEIYiQ"
+        },
+        {
+          "name": "Najja",
+          "url": "https://open.spotify.com/artist/75qq04cEkhdz9WWYWfuYXw"
+        }
+      ],
+      "duration_ms": 206888,
+      "name": "Voices (feat. Najja)",
+      "url": "https://open.spotify.com/track/0yZ7BOopH03rkVyny1XlpS"
     },
     {
       "added_at": null,
@@ -1063,30 +1087,6 @@
       "duration_ms": 158357,
       "name": "Distance",
       "url": "https://open.spotify.com/track/6v1axX1firdR05VR9siAGF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voices (feat. Najja)",
-        "url": "https://open.spotify.com/album/5M8TOMmrqLaAbJIL6AR3YE"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "DiJiTAL",
-          "url": "https://open.spotify.com/artist/4wgKZjK5s8GV9lMUtEIYiQ"
-        },
-        {
-          "name": "Najja",
-          "url": "https://open.spotify.com/artist/75qq04cEkhdz9WWYWfuYXw"
-        }
-      ],
-      "duration_ms": 206888,
-      "name": "Voices (feat. Najja)",
-      "url": "https://open.spotify.com/track/0yZ7BOopH03rkVyny1XlpS"
     },
     {
       "added_at": null,

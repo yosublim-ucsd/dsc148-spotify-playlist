@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 ### [This Is Carlos Rafael Rivera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Wf5EQ)
 
-> This Is Carlos Rafael Rivera\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550 likes - 27 songs - 45 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 550 likes - 27 songs - 45 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,6 +34,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 24 | [The Hug](https://open.spotify.com/track/15bUmSZRN7XnH8p3ipCQgt) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Ezra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky) | 1:34 |
 | 25 | [PANESSO](https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 2:41 |
 | 26 | [Gabrielle](https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 1:57 |
-| 27 | [Life Is Messy](https://open.spotify.com/track/4r0V4D1P9OVn7ogJsxwu1a) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Ezra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky) | 1:51 |
+| 27 | [Ezra And Mom](https://open.spotify.com/track/5mJfDjDPOedjotdx5W5NsR) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Ezra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky) | 1:18 |
 
-Snapshot ID: `Zql+gAAAAAC5oKy5jDtqY2woMuax2hak`
+Snapshot ID: `ZqrQAAAAAADotDpGhr577LOBb5MFLa0z`

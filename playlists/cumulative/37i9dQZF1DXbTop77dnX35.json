@@ -2251,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "Echoes of Dad Beat",
+        "url": "https://open.spotify.com/album/7tmUr3kfBAlpD79IlYTf8G"
+      },
+      "artists": [
+        {
+          "name": "Dj khalipha",
+          "url": "https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "Echoes of Dad Beat",
+      "url": "https://open.spotify.com/track/4NYBkk8Af6f97pVkaIChQV"
+    },
+    {
+      "album": {
         "name": "Ego Slide",
         "url": "https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk"
       },

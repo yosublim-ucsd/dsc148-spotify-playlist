@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Spotify country fan favorites. Cover: Kenny Chesney",
+  "description": "Spotify country fan favorites. Cover: Little Big Town",
   "name": "Country Gold",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 224626,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179152,
       "name": "Almost Maybes",
       "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
@@ -406,6 +406,24 @@
       "duration_ms": 187432,
       "name": "Best Thing Since Backroads",
       "url": "https://open.spotify.com/track/0R1REdJZIDy7IS3DybdBce"
+    },
+    {
+      "album": {
+        "name": "The Breaker",
+        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263120,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
     },
     {
       "album": {
@@ -830,6 +848,24 @@
       "duration_ms": 227373,
       "name": "Craving You",
       "url": "https://open.spotify.com/track/6zLdXcmvIxnAXpz9sXFnIE"
+    },
+    {
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "Day Drinking",
+      "url": "https://open.spotify.com/track/1pxXqJZBrCREdC0s4Xs6Xz"
     },
     {
       "album": {
@@ -1304,6 +1340,24 @@
       "duration_ms": 201480,
       "name": "Getting Good",
       "url": "https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52"
+    },
+    {
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193320,
+      "name": "Girl Crush",
+      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
     },
     {
       "album": {
@@ -1830,7 +1884,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 279533,
       "name": "I Hold On",
       "url": "https://open.spotify.com/track/01e8dGbulrphX8j3fZDQYk"
@@ -2540,7 +2594,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 239506,
       "name": "Mine Would Be You",
       "url": "https://open.spotify.com/track/1zvQt99d5oTkEQLmSoO1yu"
@@ -4060,6 +4114,24 @@
       "duration_ms": 251293,
       "name": "Wilder Days",
       "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
+    },
+    {
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "album": {

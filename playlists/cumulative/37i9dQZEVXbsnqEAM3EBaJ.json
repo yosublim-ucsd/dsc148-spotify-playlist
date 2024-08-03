@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 362869,
       "name": "Acordes De Calma En El Espejo De La Mente",
       "url": "https://open.spotify.com/track/0p68bv1ONm80Kj5d4S8U03"
@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 270265,
       "name": "Are You Ready? - Live At Freeman Coliseum / 1999",
       "url": "https://open.spotify.com/track/3dlpVhxDCQ2ksf5A3ZBbZk"
@@ -2512,7 +2512,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 363560,
       "name": "Ashes to Ashes - Revisited",
       "url": "https://open.spotify.com/track/6AePgxJZ7JhE1okItkkfBX"
@@ -4360,7 +4360,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 247587,
       "name": "B\u00e9la",
       "url": "https://open.spotify.com/track/0qbP8PDOjSTQG2RyCO5RjM"
@@ -8065,6 +8065,32 @@
     },
     {
       "album": {
+        "name": "Melod\u00edas Conscientes: M\u00fasica Suave Para La Meditaci\u00f3n",
+        "url": "https://open.spotify.com/album/1m6QQoQlAQAcLHJxGE08v3"
+      },
+      "artists": [
+        {
+          "name": "Las meditaciones",
+          "url": "https://open.spotify.com/artist/7ooD9rOihMGgrUwP1KpExK"
+        },
+        {
+          "name": "Monjes Tibetanos",
+          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
+        },
+        {
+          "name": "Fuerza Positiva",
+          "url": "https://open.spotify.com/artist/2gCgD17CMWwMxKnldSxEpd"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356915,
+      "name": "Ecos Silenciosos Dan Forma Al Espacio",
+      "url": "https://open.spotify.com/track/3KKPwXjvY0o9HJZpC4Le2b"
+    },
+    {
+      "album": {
         "name": "Los Wachos",
         "url": "https://open.spotify.com/album/4o6lfKCsOliUELYmCPQhAq"
       },
@@ -11764,7 +11790,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 129000,
       "name": "Harmonious Carnality",
       "url": "https://open.spotify.com/track/054H3EMGQJQkF3rZvDiCBa"
@@ -13738,6 +13764,24 @@
       "duration_ms": 205653,
       "name": "I'm On The Lamb But I Ain't No Sheep - Live",
       "url": "https://open.spotify.com/track/2n31ApOKHdhiqZkT7iK0sd"
+    },
+    {
+      "album": {
+        "name": "Mind Games (The Ultimate Mixes)",
+        "url": "https://open.spotify.com/album/1OvM2qfi9XXUmRaJ7egwNj"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "I'm The Greatest - Ultimate Mix",
+      "url": "https://open.spotify.com/track/0CiKKYLQXZeGjsU7RkvszK"
     },
     {
       "album": {
@@ -18541,6 +18585,24 @@
     },
     {
       "album": {
+        "name": "Focus 12",
+        "url": "https://open.spotify.com/album/14f9Wbk9l84KkMEpmsYSAF"
+      },
+      "artists": [
+        {
+          "name": "Focus",
+          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276046,
+      "name": "Meta Indefinita",
+      "url": "https://open.spotify.com/track/4NPAI7Pji2rBtReF2XpFbc"
+    },
+    {
+      "album": {
         "name": "Microcosmic Sunsets",
         "url": "https://open.spotify.com/album/2JTe2k80rKzkn6GDmixZbx"
       },
@@ -18716,7 +18778,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 252958,
       "name": "Mind Games - Ultimate Mix",
       "url": "https://open.spotify.com/track/4iL5reGSTy39GSpe1yd833"
@@ -19704,6 +19766,24 @@
       "duration_ms": 68577,
       "name": "Neat - Groove Mix",
       "url": "https://open.spotify.com/track/6w7VqDUQaEEIFiw9ghmuer"
+    },
+    {
+      "album": {
+        "name": "Necessary Evil",
+        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "Necessary Evil",
+      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
     },
     {
       "album": {
@@ -24211,6 +24291,24 @@
     },
     {
       "album": {
+        "name": "Rock And Roll Hell",
+        "url": "https://open.spotify.com/album/5DRawetthfEySOsMJhzAkA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198335,
+      "name": "Rock And Roll Hell",
+      "url": "https://open.spotify.com/track/7I29mrdkXOOg5G18OKKXhW"
+    },
+    {
+      "album": {
         "name": "Werewolves of London (Live)",
         "url": "https://open.spotify.com/album/0UWYYGAuvcWJSXlgBYtf7g"
       },
@@ -27699,6 +27797,24 @@
     },
     {
       "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189394,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/34cdCSNJBuctt5KKC1ch2k"
+    },
+    {
+      "album": {
         "name": "Sweet Sounds Of Heaven",
         "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
       },
@@ -28526,6 +28642,24 @@
       "duration_ms": 276693,
       "name": "The Apologist - Live At The Palace / 1999",
       "url": "https://open.spotify.com/track/6oaJZhLPEP2fvIOLh3QNlt"
+    },
+    {
+      "album": {
+        "name": "Somewhere Far Beyond (Revisited)",
+        "url": "https://open.spotify.com/album/6xGJmXBiu1afT8eN13KBOJ"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "The Bard's Song - In the Forest - Revisited",
+      "url": "https://open.spotify.com/track/2og2RFuX8c1iThdlLmV2RW"
     },
     {
       "album": {
@@ -29624,7 +29758,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 216268,
       "name": "The Only Thing That Looks Good On Me Is You - Classic Version",
       "url": "https://open.spotify.com/track/4SG5YnAQUrD6b8yZFxv2ja"
@@ -31617,6 +31751,32 @@
     },
     {
       "album": {
+        "name": "Fall Relaxing Melodies | Sleeping and Sleep",
+        "url": "https://open.spotify.com/album/1QWcJ9azOoufhMdmySgpHP"
+      },
+      "artists": [
+        {
+          "name": "Kinderliederbande",
+          "url": "https://open.spotify.com/artist/69f48xXmMNpbZiV7gk4U97"
+        },
+        {
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        },
+        {
+          "name": "Shakuhachi Sakano",
+          "url": "https://open.spotify.com/artist/2n508mzEccwkxrri4PfgZh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Twilight Lullaby's Dream",
+      "url": "https://open.spotify.com/track/02xoev8UfNe2gvB6o527yB"
+    },
+    {
+      "album": {
         "name": "Twilight of the Gods",
         "url": "https://open.spotify.com/album/4DW0Odeun8nM4fIPVgr5U7"
       },
@@ -33268,6 +33428,24 @@
       "duration_ms": 155360,
       "name": "What Christmas Means To Me (with Stevie Wonder)",
       "url": "https://open.spotify.com/track/1wGNUfqEyjEHmZATDVf6LB"
+    },
+    {
+      "album": {
+        "name": "What If (Live At Freeman Coliseum / 1999)",
+        "url": "https://open.spotify.com/album/4qz7DOeskknxhZjKOXyN6L"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309046,
+      "name": "What If - Live At Freeman Coliseum / 1999",
+      "url": "https://open.spotify.com/track/6Woi982jOv5fNkfbD2P8Fo"
     },
     {
       "album": {

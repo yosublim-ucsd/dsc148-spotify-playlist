@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 30907,
+  "num_followers": 30914,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 121258,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 117779,
       "name": "Mi Tierra",
       "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Erick",
+        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 172528,
+      "name": "Erick",
+      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Erick",
-        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 172528,
-      "name": "Erick",
-      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "loops",
         "url": "https://open.spotify.com/album/2Uvp5ZnXyGccIYToYWZFw9"
       },
@@ -915,6 +899,38 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Chillaquil",
+        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 180674,
+      "name": "Chillaquil",
+      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 121258,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Bluewerks Vol 13: Midnight Melodies",
         "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 153658,
       "name": "Looking for the Stars",
       "url": "https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Chillaquil",
-        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 180674,
-      "name": "Chillaquil",
-      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Rossa Nova",
-        "url": "https://open.spotify.com/album/4tboziMwqukmTcb6UeUb5H"
-      },
-      "artists": [
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
-        },
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Rossa Nova",
-      "url": "https://open.spotify.com/track/7JJuPb0RhWRZvZK2q6m9BQ"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Ocaso Sin Fin",
         "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 111219,
       "name": "Extra\u00f1os (Strangers)",
       "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Rossa Nova",
+        "url": "https://open.spotify.com/album/4tboziMwqukmTcb6UeUb5H"
+      },
+      "artists": [
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Rossa Nova",
+      "url": "https://open.spotify.com/track/7JJuPb0RhWRZvZK2q6m9BQ"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
-      },
-      "artists": [
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 104013,
       "name": "La Feria",
       "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "ID",
-        "url": "https://open.spotify.com/album/4IGhmHU5aVMDRsfTGh3aMt"
-      },
-      "artists": [
-        {
-          "name": "ELEWAKA",
-          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "ID",
-      "url": "https://open.spotify.com/track/3fe1sxoXX6k0Oi1gefiQlM"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Just A Cool Day",
         "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/4IGhmHU5aVMDRsfTGh3aMt"
+      },
+      "artists": [
+        {
+          "name": "ELEWAKA",
+          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "ID",
+      "url": "https://open.spotify.com/track/3fe1sxoXX6k0Oi1gefiQlM"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "find me",
         "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
       },
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "alone alone",
+        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
+      },
+      "artists": [
+        {
+          "name": "Thragg",
+          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
+        }
+      ],
+      "duration_ms": 90933,
+      "name": "alone alone",
+      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "A Safe Place",
         "url": "https://open.spotify.com/album/3bm3Kt4x6IfhMXTTDwrlMn"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 128571,
       "name": "A Safe Place",
       "url": "https://open.spotify.com/track/21PTw4ZyO1tYiAmNZWQm6f"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "alone alone",
-        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
-      },
-      "artists": [
-        {
-          "name": "Thragg",
-          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
-        }
-      ],
-      "duration_ms": 90933,
-      "name": "alone alone",
-      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Viernes Azul",
-        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Viernes Azul",
-      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Summer Purr",
         "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 156000,
       "name": "Summer Purr",
       "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Viernes Azul",
+        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Viernes Azul",
+      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
     },
     {
       "added_at": "2024-05-03 06:00:00",

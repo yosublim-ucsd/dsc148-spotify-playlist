@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ghost. Los temas esenciales, todos en una lista.",
-  "num_followers": 416732,
+  "description": "This is Ghost. The essential tracks, all in one playlist.",
+  "num_followers": 416861,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAC5UDpdH2Z0KxiRhBbNLZRZ",
+  "snapshot_id": "ZqrQAAAAAABPTI3AkNgQB+aBJa9QRPQ3",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enter Sandman",
-        "url": "https://open.spotify.com/album/3woAIned4wtKWyy5AZqg5v"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/08fNsjCflSbHEPDCvAtGnR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rite Here Rite Now (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 378651,
       "name": "Miasma - Live at the Forum / 2023",
       "url": "https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/3woAIned4wtKWyy5AZqg5v"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/08fNsjCflSbHEPDCvAtGnR"
     },
     {
       "added_at": null,

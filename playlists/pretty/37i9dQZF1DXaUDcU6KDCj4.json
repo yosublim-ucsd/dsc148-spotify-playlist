@@ -1,13 +1,213 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Wild Rivers",
-  "num_followers": 799468,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Haley Heynderickx",
+  "num_followers": 799646,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAABoR5pSTEVt4pPYnvc9cCiQ",
+  "snapshot_id": "ZqxZwAAAAADtva2x7uRO7mNCCrCxBuWY",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Seed of a Seed",
+        "url": "https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Seed of a Seed",
+      "url": "https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Into Eternity",
+        "url": "https://open.spotify.com/album/2eGjfDoIWNrwdkCuEzxQO7"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "duration_ms": 189314,
+      "name": "Into Eternity",
+      "url": "https://open.spotify.com/track/7tTHpNl7ikgkivgBjGwCjx"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Never Meant",
+        "url": "https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Never Meant",
+      "url": "https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Just One Break with Mon Rov\u00eea",
+        "url": "https://open.spotify.com/album/2gJk7RfpGhCKYYMa5JGFOQ"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        },
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 169296,
+      "name": "Just One Break with Mon Rov\u00eea",
+      "url": "https://open.spotify.com/track/0freWEWPeC9gFw0hTUOh53"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/36RQqB3irEHa5F3QbEgSfZ"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1WeO1NDt17SfrRW1WhsRJ8"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "A Tree Falls",
+        "url": "https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 193187,
+      "name": "A Tree Falls",
+      "url": "https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "A Little Longer",
+        "url": "https://open.spotify.com/album/1BIxYUiG8j4l5sdx5AStLu"
+      },
+      "artists": [
+        {
+          "name": "Foreign Fields",
+          "url": "https://open.spotify.com/artist/74l5kLfO33c4T39eAROuEL"
+        }
+      ],
+      "duration_ms": 192482,
+      "name": "A Little Longer",
+      "url": "https://open.spotify.com/track/4FSV8i70yvOQQDPlDpkmcm"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/4ahlOf4Dz3n8FsmdXxb1GG"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 171561,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/4a3coKHqS9oX5ooTZHVUm6"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "i need you more",
+        "url": "https://open.spotify.com/album/6DQbYfEsxLuUMcdNZ9uULz"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        },
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 191921,
+      "name": "i need you more",
+      "url": "https://open.spotify.com/track/0PI8WpeKqf32pC0X1jmNYc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Slim and The Devil",
+        "url": "https://open.spotify.com/album/11z3T0VTOeaNWYMiVWRpAA"
+      },
+      "artists": [
+        {
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+        }
+      ],
+      "duration_ms": 311490,
+      "name": "Slim and The Devil",
+      "url": "https://open.spotify.com/track/74XHF1cWb0P7mphPUA7VVj"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Whatever Comes",
+        "url": "https://open.spotify.com/album/0AwvrDQsxcyBorZIURUAuY"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 216118,
+      "name": "Whatever Comes",
+      "url": "https://open.spotify.com/track/5vgpcvsrlwlVgP7MrwW0I8"
+    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -2307,202 +2507,6 @@
       "duration_ms": 310598,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0BWX1QFQbBB8njoOGPY8eC"
-    },
-    {
-      "added_at": "2024-06-06 17:19:20",
-      "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
-    },
-    {
-      "added_at": "2024-06-06 17:19:20",
-      "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/0dzHqgsq1WFniGId7IthE1"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 221730,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/4mp4bgP8QfXFNzWJ8BgMtg"
-    },
-    {
-      "added_at": "2024-06-06 17:19:20",
-      "album": {
-        "name": "Through The Book",
-        "url": "https://open.spotify.com/album/6dXc6pXyRF3ziyy2DsNHzm"
-      },
-      "artists": [
-        {
-          "name": "Steinza",
-          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
-        },
-        {
-          "name": "Zach Seabaugh",
-          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
-        }
-      ],
-      "duration_ms": 194452,
-      "name": "Through The Book",
-      "url": "https://open.spotify.com/track/3WIzPQTdUWCq5XmbTpj7Ch"
-    },
-    {
-      "added_at": "2024-06-06 17:19:20",
-      "album": {
-        "name": "Go Loud",
-        "url": "https://open.spotify.com/album/4u4Z2qTlZUsRuP0746sitX"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Go Loud",
-      "url": "https://open.spotify.com/track/3a1OvOqAQ1vFA9obqcgkfY"
-    },
-    {
-      "added_at": "2024-06-06 17:19:20",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/2878AXAVVxRpftI4g2Kjh2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 138123,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/37Gqg6D070Ahztf2RaDXBb"
-    },
-    {
-      "added_at": "2024-06-06 17:19:20",
-      "album": {
-        "name": "Night Reign",
-        "url": "https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 345765,
-      "name": "Aey Nehin",
-      "url": "https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk"
-    },
-    {
-      "added_at": "2024-06-06 17:19:20",
-      "album": {
-        "name": "All These Kinds of Light",
-        "url": "https://open.spotify.com/album/7ruh7XUbK7vCFMypsykOv5"
-      },
-      "artists": [
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 200217,
-      "name": "All These Kinds of Light",
-      "url": "https://open.spotify.com/track/2SBsgy6qhRIAmmgwE9DlvL"
-    },
-    {
-      "added_at": "2024-06-06 17:19:20",
-      "album": {
-        "name": "Co-Star",
-        "url": "https://open.spotify.com/album/4NXCZ1HxzTZk7vRPp5ONZC"
-      },
-      "artists": [
-        {
-          "name": "Hailaker",
-          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Co-Star",
-      "url": "https://open.spotify.com/track/3FnOJEWjZCcEg53eWFHfiz"
-    },
-    {
-      "added_at": "2024-06-06 17:19:20",
-      "album": {
-        "name": "ily ily ily",
-        "url": "https://open.spotify.com/album/3RcLS9hWdaMhXdAFzLm0iU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Nunnelee",
-          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
-        }
-      ],
-      "duration_ms": 231836,
-      "name": "ily ily ily",
-      "url": "https://open.spotify.com/track/49170ue1C6fN7EZL5S4oGx"
-    },
-    {
-      "added_at": "2024-06-06 17:19:20",
-      "album": {
-        "name": "gut health",
-        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 243469,
-      "name": "gut health",
-      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "All For Something",
-        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 256245,
-      "name": "People Always Change",
-      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Moondog",
-        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305640,
-      "name": "Moondog",
-      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
     }
   ],
   "unique_name": "Fresh Folk",

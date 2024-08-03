@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 
 > musica per quando non sai insomma come
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,820 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,812 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 24 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 |
 | 25 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 |
 | 26 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
-| 27 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 |
-| 28 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
+| 27 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
+| 28 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 |
 | 29 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 |
 | 30 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
 | 31 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |

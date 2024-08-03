@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=OffopowoQTecX1GXkafgIQ>Folabi Nuel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,959 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,974 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

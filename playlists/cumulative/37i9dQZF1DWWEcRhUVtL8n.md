@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: beabadoobee
 
-1,917 songs - 4 day 5 hr 12 min
+1,919 songs - 4 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,6 +695,7 @@
 | [Grocery Store Girl](https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Grocery Store Girl](https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS) | 2:43 | 2022-02-25 | 2022-04-14 |
 | [Grown](https://open.spotify.com/track/3aS9G4mvV3a9Pb3ZvEpism) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [Grown](https://open.spotify.com/album/5X4TXjLJrF3p6O5EXRCoNJ) | 3:05 | 2022-01-07 | 2022-04-21 |
 | [GROWN UP](https://open.spotify.com/track/5QwLklxCtdCBnSMBXt1Vmz) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [GROWN UP](https://open.spotify.com/album/1PAJFnuUntrH4qzJpLI33s) | 3:15 | 2022-08-12 | 2022-08-20 |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Guess I'm Going To Hell](https://open.spotify.com/track/4TETZ56lnLvEpFZmVjsQM1) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Guess I'm Going To Hell](https://open.spotify.com/album/6K8XkU7IREanr9fx3vjbxD) | 4:15 | 2022-05-20 | 2022-07-27 |
 | [Guess I'm Jaded](https://open.spotify.com/track/2m5H5ixFhNzJ8cm0bReT7R) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Moontower](https://open.spotify.com/artist/56y2IdpRthuW4pDZbqwjlz) | [Guess I'm Jaded](https://open.spotify.com/album/7kn5KwlDX7hBmN8JWb11rI) | 3:11 | 2021-02-23 | 2021-03-17 |
 | [GUIDO/MISS KARMA](https://open.spotify.com/track/3PdZ7ePXNA57Z03QbioxeR) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [GUIDO/MISS KARMA](https://open.spotify.com/album/1Ihcf6gyegcMVab61gvVqZ) | 2:52 | 2020-12-12 | 2021-01-15 |
@@ -829,6 +830,7 @@
 | [I Live In Patterns \(feat\. Alix Page\)](https://open.spotify.com/track/7LDHQfiTWtQ4VMJA1Cm7Vv) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc), [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [I Live In Patterns \(feat\. Alix Page\)](https://open.spotify.com/album/1F97dMZ1k8BwYp9H9bNswN) | 3:42 | 2022-12-07 | 2022-12-22 |
 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 | 2021-10-22 | 2022-08-06 |
 | [I Love You So \- King Henry Remix](https://open.spotify.com/track/0F6XcWEzymSracgq12pOXX) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8), [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [I Love You So \(King Henry Remix\)](https://open.spotify.com/album/7mGp8czi0fTiBsg7xq6wMD) | 3:13 | 2022-01-07 | 2022-07-23 |
+| [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-08-02 |  |
 | [I Met God](https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [I Met God](https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6) | 4:22 | 2023-09-22 | 2023-12-05 |
 | [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 | 2022-06-14 | 2022-08-13 |
 | [I Miss You](https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz) | [Abigail Fierce](https://open.spotify.com/artist/24q2VAybFrs4Lzy0eEnXga) | [I Miss You](https://open.spotify.com/album/3XtttQ1KmntgU5cx1wOmW2) | 3:30 | 2022-01-07 | 2022-04-15 |
@@ -1051,7 +1053,7 @@
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-15 | 2023-06-17 |
 | [Lovegod](https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lovegod](https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7) | 3:08 | 2023-05-12 | 2023-09-30 |
 | [Loverboy](https://open.spotify.com/track/3jB55bujusQsAK5EYXcgnX) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [The Rise & Fall of Loverboy \- Singles](https://open.spotify.com/album/5jRBOmCGZWOmLdrw1sOWzy) | 2:43 | 2021-02-23 | 2021-10-13 |
-| [loving u is harder](https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [loving u is harder](https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi) | 2:27 | 2023-08-15 |  |
+| [loving u is harder](https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [loving u is harder](https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi) | 2:27 | 2023-08-15 | 2024-08-03 |
 | [Low Blow](https://open.spotify.com/track/49ranIZODSj8YQASSeJlAV) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Low Blow](https://open.spotify.com/album/3SHiSIQhccEbvunWnsI7uv) | 2:26 | 2020-10-13\* | 2021-05-18 |
 | [Lucky](https://open.spotify.com/track/78rFhTXf81WtRS7Ubl2f4V) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Lucky](https://open.spotify.com/album/6esPAZhJiXGKhByoXAHSEG) | 2:28 | 2020-10-20 | 2020-10-21 |
 | [Lucky](https://open.spotify.com/track/6WFlAvH3qbMstumWizZuHL) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [Lucky](https://open.spotify.com/album/6tcFo0Idi8kCjK8uZkU30g) | 3:14 | 2021-02-24 | 2021-02-25 |
@@ -1144,7 +1146,7 @@
 | [MORE](https://open.spotify.com/track/0mcuJuWKJOEatt3H4lefPt) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [MORE](https://open.spotify.com/album/2A54m1vVLpNSQFGNoqOI3r) | 2:39 | 2021-10-12 | 2021-10-16 |
 | [MORE](https://open.spotify.com/track/2d1jvQu885eJhUCg8EwlMs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [MORE](https://open.spotify.com/album/4fiHtJjMCna9G98rkUN68E) | 2:39 | 2021-03-06 | 2021-05-22 |
 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 | 2021-07-19 | 2022-08-06 |
-| [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 |  |
+| [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 | 2024-08-03 |
 | [Mott St](https://open.spotify.com/track/1ugYh6CIplawB33fSVYHUe) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/2gOQsfe1uva5AhY6KppuvH) | 2:55 | 2022-01-21 | 2022-04-23 |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2021-12-03 | 2022-12-10 |
 | [Moving Men \(feat\. Mac DeMarco\)](https://open.spotify.com/track/3y4I9VECfNbDXYN2bXh9hV) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Moving Men](https://open.spotify.com/album/5KHDM6ahrfEV8D2JFPbz4h) | 2:47 | 2020-10-29 | 2021-05-28 |

@@ -3157,6 +3157,32 @@
     },
     {
       "album": {
+        "name": "fui tu esclavo",
+        "url": "https://open.spotify.com/album/1GFjjnYh2IsyRoBwGZbQ4a"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cruzalegui",
+          "url": "https://open.spotify.com/artist/0ZQlapKWlxWVqzNldGL4MU"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Bonish",
+          "url": "https://open.spotify.com/artist/1Zf3NKtybAUdD2Ap3GEJtu"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183385,
+      "name": "fui tu esclavo",
+      "url": "https://open.spotify.com/track/33OPPlGjxY52iFTNxqaJl9"
+    },
+    {
+      "album": {
         "name": "F\u00e9 Clandestina",
         "url": "https://open.spotify.com/album/7t5NsGyB462JjCns4PqJm2"
       },
@@ -6361,6 +6387,24 @@
     },
     {
       "album": {
+        "name": "Ojos De Terror",
+        "url": "https://open.spotify.com/album/1RPUCUTJf9eLGNIjeF3xyL"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156625,
+      "name": "Ojos De Terror",
+      "url": "https://open.spotify.com/track/0jqzJuVWWRxnX2bWAd7roV"
+    },
+    {
+      "album": {
         "name": "OLA DE SUICIDIOS",
         "url": "https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM"
       },
@@ -7376,7 +7420,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 231744,
       "name": "Si hoy me voy",
       "url": "https://open.spotify.com/track/3ttjJywxE8w8I7RvZUzMDr"
@@ -7567,6 +7611,24 @@
     },
     {
       "album": {
+        "name": "Somethin' Sweet",
+        "url": "https://open.spotify.com/album/5nTvNsfsG1iEpcU0AQZ646"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232064,
+      "name": "Somethin' Sweet",
+      "url": "https://open.spotify.com/track/3IgTKP8ZsJeu1oHj7UQlKJ"
+    },
+    {
+      "album": {
         "name": "Enjambre Y Los Hu\u00e9spedes Del Orbe",
         "url": "https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP"
       },
@@ -7578,7 +7640,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 204880,
       "name": "Somos Ajenos",
       "url": "https://open.spotify.com/track/1Z6NUe88dVXBDpWiWpSpie"
@@ -8128,7 +8190,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 232120,
       "name": "Todo Cuenta",
       "url": "https://open.spotify.com/track/25ayfrtkcSJfE93B8mnhRT"

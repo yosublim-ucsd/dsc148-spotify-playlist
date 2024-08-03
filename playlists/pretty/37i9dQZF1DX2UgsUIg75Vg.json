@@ -1,13 +1,29 @@
 {
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: BLXST",
-  "num_followers": 2348401,
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: Jhen\u00e9 Aiko",
+  "num_followers": 2348516,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpnl6gAAAAAFVxKZ78Iop7Edusq1i1nG",
+  "snapshot_id": "ZqxZwAAAAAD6w+cymIPRqn6xN7e4PCVc",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "guidance",
+        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 215198,
+      "name": "guidance",
+      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
+    },
     {
       "added_at": "2024-07-19 04:04:58",
       "album": {
@@ -23,78 +39,6 @@
       "duration_ms": 163695,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/6dfCnnBrqYANJSU3tpG5pI"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "War (feat. Ari Lennox & Jeremih)",
-        "url": "https://open.spotify.com/album/3tR4PWPHf5CdhFbXUJ3AyV"
-      },
-      "artists": [
-        {
-          "name": "Camper",
-          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 142799,
-      "name": "War (feat. Ari Lennox & Jeremih)",
-      "url": "https://open.spotify.com/track/4q2nRKWOSBH1IFp4EK1n3w"
-    },
-    {
-      "added_at": "2024-06-21 07:16:15",
-      "album": {
-        "name": "Endless Night",
-        "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 113958,
-      "name": "New Lover",
-      "url": "https://open.spotify.com/track/3A75RXF6osQ8vLMSMbNJ9r"
-    },
-    {
-      "added_at": "2024-06-14 06:33:56",
-      "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/4EBmRDnoPHS8CnumK8tVv8"
     },
     {
       "added_at": "2024-06-07 11:27:49",
@@ -115,22 +59,6 @@
       "duration_ms": 143028,
       "name": "lost in translation",
       "url": "https://open.spotify.com/track/2JRNKk2mx8ODmynCxwhnxw"
-    },
-    {
-      "added_at": "2024-06-14 06:33:56",
-      "album": {
-        "name": "LEMON TREES",
-        "url": "https://open.spotify.com/album/5doYyd0IKAUbUtrYL6DGOV"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 151765,
-      "name": "LEMON TREES",
-      "url": "https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk"
     },
     {
       "added_at": "2024-06-14 06:33:56",
@@ -201,20 +129,20 @@
       "url": "https://open.spotify.com/track/4lovbNtAeIxtXWy9bwEsQk"
     },
     {
-      "added_at": "2024-07-19 04:04:58",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Ground",
-        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+        "name": "Cranes in the Sky (Spotify Singles)",
+        "url": "https://open.spotify.com/album/260Kae28MIGcLpp248A869"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Ground",
-      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
+      "duration_ms": 268875,
+      "name": "Cranes in the Sky - Spotify Singles",
+      "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -257,40 +185,88 @@
       "url": "https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "STANK ROSE",
-        "url": "https://open.spotify.com/album/07aNXc0N6OAAV4Y54QlMqE"
+        "name": "Luv 4 U",
+        "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
       },
       "artists": [
         {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         },
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
         }
       ],
-      "duration_ms": 186346,
-      "name": "STANK ROSE",
-      "url": "https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO"
+      "duration_ms": 186493,
+      "name": "Luv 4 U",
+      "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
+    },
+    {
+      "added_at": "2024-06-21 07:16:15",
+      "album": {
+        "name": "Endless Night",
+        "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 113958,
+      "name": "New Lover",
+      "url": "https://open.spotify.com/track/3A75RXF6osQ8vLMSMbNJ9r"
     },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "CRYBABY",
-        "url": "https://open.spotify.com/album/0h3cx9s1TA0Bdflp2LiJ6V"
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
       },
       "artists": [
         {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 239306,
-      "name": "CRYBABY",
-      "url": "https://open.spotify.com/track/2Xyzl5wumWGTvbZSQXH3aD"
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
+    },
+    {
+      "added_at": "2024-06-14 06:33:56",
+      "album": {
+        "name": "LEMON TREES",
+        "url": "https://open.spotify.com/album/5doYyd0IKAUbUtrYL6DGOV"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 151765,
+      "name": "LEMON TREES",
+      "url": "https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -311,58 +287,38 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+        "name": "STANK ROSE",
+        "url": "https://open.spotify.com/album/07aNXc0N6OAAV4Y54QlMqE"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
-    },
-    {
-      "added_at": "2024-06-07 11:27:49",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 192065,
-      "name": "Free Fall (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
+      "duration_ms": 186346,
+      "name": "STANK ROSE",
+      "url": "https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "He Loves Us Both (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
+        "name": "Sophcore",
+        "url": "https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h"
       },
       "artists": [
         {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
         }
       ],
-      "duration_ms": 221700,
-      "name": "He Loves Us Both (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
+      "duration_ms": 215360,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -433,24 +389,132 @@
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Dance With The Devil",
-        "url": "https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo"
+        "name": "Waiting On You",
+        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
         }
       ],
-      "duration_ms": 210804,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD"
+      "duration_ms": 163555,
+      "name": "Waiting On You",
+      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
+    },
+    {
+      "added_at": "2024-06-14 06:33:56",
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/4EBmRDnoPHS8CnumK8tVv8"
+    },
+    {
+      "added_at": "2024-07-19 04:04:58",
+      "album": {
+        "name": "Ground",
+        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Ground",
+      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "CRYBABY",
+        "url": "https://open.spotify.com/album/0h3cx9s1TA0Bdflp2LiJ6V"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "CRYBABY",
+      "url": "https://open.spotify.com/track/2Xyzl5wumWGTvbZSQXH3aD"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "War (feat. Ari Lennox & Jeremih)",
+        "url": "https://open.spotify.com/album/3tR4PWPHf5CdhFbXUJ3AyV"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 142799,
+      "name": "War (feat. Ari Lennox & Jeremih)",
+      "url": "https://open.spotify.com/track/4q2nRKWOSBH1IFp4EK1n3w"
+    },
+    {
+      "added_at": "2024-06-07 11:27:49",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 192065,
+      "name": "Free Fall (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "He Loves Us Both (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 221700,
+      "name": "He Loves Us Both (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
     },
     {
       "added_at": "2024-07-19 04:04:58",
@@ -1405,22 +1469,6 @@
       "url": "https://open.spotify.com/track/7cccb7pKQqOP9JntsWokzA"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 179971,
-      "name": "S t u c k I n M y W a y s",
-      "url": "https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us"
-    },
-    {
       "added_at": "2024-05-10 04:30:26",
       "album": {
         "name": "CASSANDRA (cherith)",
@@ -1825,22 +1873,6 @@
       "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Deep in the Water",
-        "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "DEEP IN THE WATER",
-      "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Saturn",
@@ -1855,26 +1887,6 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Hundred Million Reasons",
-        "url": "https://open.spotify.com/album/6sbcg3Ab1Ts57F12QWKkVA"
-      },
-      "artists": [
-        {
-          "name": "Paperboy Fabe",
-          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 182357,
-      "name": "Hundred Million Reasons",
-      "url": "https://open.spotify.com/track/4YTHJMz3yiR6PRnjdlP2jZ"
     },
     {
       "added_at": "2024-02-03 22:39:04",
@@ -2679,22 +2691,6 @@
       "duration_ms": 185666,
       "name": "These Four Walls",
       "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "Water From Wine",
-      "url": "https://open.spotify.com/track/4iokZFTx4hmvHsY1cExFgn"
     }
   ],
   "unique_name": "Chilled R&B",

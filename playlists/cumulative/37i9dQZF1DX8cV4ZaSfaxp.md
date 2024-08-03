@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-331 songs - 20 hr 29 min
+332 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 | 2022-05-11 |  |
 | [City Girl City Boy](https://open.spotify.com/track/6mWRDboiaEyDHFehyjEAPX) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [Dawon](https://open.spotify.com/artist/0L4d5EwDWqTEOTjztWF0mw) | [City Girl City Boy](https://open.spotify.com/album/3cvNrNF9w8NfFbGF4gPw4x) | 3:42 | 2022-05-11 | 2022-07-27 |
 | [City Light](https://open.spotify.com/track/4pVqvBttw55NmUSqishQXH) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [City Light](https://open.spotify.com/album/1tDEBYIEhLQiaru9SQ7S15) | 3:19 | 2022-05-11 | 2022-07-29 |
+| [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 | 2024-08-01 |  |
 | [Coconut Love](https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love](https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx) | 3:14 | 2022-07-22 | 2022-11-04 |
 | [Coconut Love 코코넛 러브](https://open.spotify.com/track/6ZhbadBT9PnNEuDjW4YV3M) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love 코코넛 러브](https://open.spotify.com/album/3mo2rZgIxhEpNa0cIlkAY9) | 3:14 | 2022-05-11 | 2022-07-29 |
 | [Color Me](https://open.spotify.com/track/0PjVjxtWhAUnaRYBWHWdFa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Lucky](https://open.spotify.com/album/6sky0eX7g7zrikM2zPqf7h) | 3:40 | 2022-05-11 | 2022-07-03 |
@@ -253,7 +254,7 @@
 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 | 2022-09-05 |  |
 | [Sign](https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 3:36 | 2022-05-11 |  |
 | [Silent Movie](https://open.spotify.com/track/4uu4bnkSI1JvTwKFUqq7Gp) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:20 | 2022-09-05 | 2022-11-12 |
-| [Slide](https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Nene](https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K) | [play ground](https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle) | 3:26 | 2022-05-11 |  |
+| [Slide](https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Nene](https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K) | [play ground](https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle) | 3:26 | 2022-05-11 | 2024-08-03 |
 | [Someone like U](https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [Naturalness](https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW) | 3:20 | 2023-02-14 | 2023-08-08 |
 | [Someone like U](https://open.spotify.com/track/5MVO70G8Eqip01bvrrQHSg) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [Naturalness](https://open.spotify.com/album/1KIV6HQCntQVl792TVfVCA) | 3:20 | 2023-07-13 | 2024-04-19 |
 | [Someone like U](https://open.spotify.com/track/5zbxw72g850H4fNMFEO7PC) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [The 9th Mini Album 'Naturalness'](https://open.spotify.com/album/7ajKOgmGaCCrqSVIgxbnNf) | 3:20 | 2022-07-04 | 2023-03-03 |

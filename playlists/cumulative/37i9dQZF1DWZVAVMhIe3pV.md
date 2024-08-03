@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$wing](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$wing](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 | 2024-04-16 |  |
+| [$WING](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$wing](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 | 2024-04-16 |  |
 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2021-12-16 | 2023-04-17 |
 | [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 | 2023-07-23 | 2023-08-24 |
 | [3's & 7's](https://open.spotify.com/track/44JEbGi3NxptsEuxDNGiAR) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca) | 3:34 | 2024-01-23 |  |

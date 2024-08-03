@@ -792,7 +792,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -4864,7 +4864,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 220851,
       "name": "L",
       "url": "https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI"
@@ -6254,7 +6254,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 238000,
       "name": "Niscaya",
       "url": "https://open.spotify.com/track/4uyjk95qGXbQCBFfMqpul5"
@@ -6272,7 +6272,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
@@ -7208,7 +7208,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 218293,
       "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
       "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
@@ -9972,6 +9972,24 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/0B7wvvmu9EISAwZnOpjhNI"
     },
     {
       "album": {

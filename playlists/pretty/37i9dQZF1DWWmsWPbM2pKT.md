@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,897 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,162 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 27 | [I Do What He Say I Do](https://open.spotify.com/track/3YwGpoqOSybDTDSEYk6em2) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 5:32 |
 | 28 | [Roseglass](https://open.spotify.com/track/2d1bUoHwDY2cRJVea0zCj2) | [House of Harm](https://open.spotify.com/artist/52LAFBBP0K0Q4ONm8r8OVX) | [Roseglass](https://open.spotify.com/album/5sSbBgb0iJDjknZE06LQLQ) | 4:40 |
 | 29 | [Gallowdance \- Slowed](https://open.spotify.com/track/6wmsU8dzx0vvrzR635WpTM) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Gallowdance \- Slowed](https://open.spotify.com/album/7MfXO0FB6bZVtvM45ausJI) | 1:30 |
-| 30 | [Phantom](https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Shades of Violet EP](https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi) | 3:18 |
+| 30 | [Phantom](https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Shades of Violet](https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi) | 3:18 |
 | 31 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 32 | [Suffocation \- Slowed](https://open.spotify.com/track/15uq77MdhAjrnBuumngIsz) | [noturgf](https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS) | [Suffocation \(Slowed\)](https://open.spotify.com/album/7wblFnt47oJLJXxNJrIb3e) | 1:04 |
 | 33 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 |

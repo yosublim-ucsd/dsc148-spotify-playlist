@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-718 songs - 1 day 23 hr 9 min
+719 songs - 1 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,12 +39,13 @@
 | [A Spindle, A Darkness, A Fever, And A Necklace](https://open.spotify.com/track/1lmHqGfnzEDg31iRqFcGR1) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Fevers and Mirrors](https://open.spotify.com/album/1VPu5FJq5wg0BNJXRL6cqC) | 6:25 | 2022-08-19 | 2023-12-14 |
 | [A Tooth for an Eye](https://open.spotify.com/track/51dXFarmGXwJI75jxJaKyf) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Shaking The Habitual](https://open.spotify.com/album/6GWQ6fq8krujlglglMPyPu) | 6:04 | 2023-03-11 |  |
 | [Absolutely Cuckoo](https://open.spotify.com/track/6In0XQ2hzhfHbW5L6mkc4j) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 1:34 | 2023-04-24 |  |
+| [Acrid Avid Jam Shred](https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 7:39 | 2024-08-02 |  |
 | [Acroyear2](https://open.spotify.com/track/3pxBYL8ZRSAjQSUIxpsxkF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK) | 8:39 | 2024-03-26 |  |
 | [Act Won \(Things Fall Apart\)](https://open.spotify.com/track/4x7uHC8or1AwVeRCh1mULV) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 0:53 | 2022-01-03 |  |
 | [Adam, Check Please](https://open.spotify.com/track/6klpTuQQtcAUCXMKzz4IdZ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Coco Moon](https://open.spotify.com/album/6ZKh1FlIKBeDJYVSuvF2LM) | 5:38 | 2023-03-24 |  |
 | [Agnus Dei](https://open.spotify.com/track/2ohy1XMth89tkmCk7esI0q) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Want Two](https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG) | 5:45 | 2024-01-27 |  |
 | [Ain't Nice \- Live](https://open.spotify.com/track/3gdKrnlB0WmJtlxSur73Rm) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Shrimp Sessions 2 \(Live\)](https://open.spotify.com/album/5eSg2ejmod1kGMjCR7giv7) | 3:32 | 2023-12-23 |  |
-| [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 | 2022-01-06 |  |
+| [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 | 2022-01-06 | 2024-08-03 |
 | [Airbag](https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:47 | 2022-01-11 | 2024-07-03 |
 | [Alagbon Close](https://open.spotify.com/track/4GSQCm1u2rjFAY5fa3jzqM) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Alagbon Close](https://open.spotify.com/album/7ITClWSnPtE9Nvqy6F8vsy) | 17:01 | 2023-06-14 | 2023-07-09 |
 | [Alewife](https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 | 2023-11-03 | 2024-01-04 |
@@ -679,7 +680,7 @@
 | [Wakin on a Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 | 2023-01-11 |  |
 | [Waking Up](https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 2:57 | 2023-05-18 | 2023-05-27 |
 | [Walkman](https://open.spotify.com/track/0TpwCkpINVSDS4m4M1lf6T) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Walkman](https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY) | 2:57 | 2023-06-01 | 2023-06-02 |
-| [Wall Of Eyes](https://open.spotify.com/track/3tP2P4KybC9wYVI8Pe41GT) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:05 | 2024-03-26 |  |
+| [Wall Of Eyes](https://open.spotify.com/track/3tP2P4KybC9wYVI8Pe41GT) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:05 | 2024-03-26 | 2024-08-03 |
 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 | 2023-12-13 | 2023-12-26 |
 | [War at the Door](https://open.spotify.com/track/3CK3oybt0KITkdz6F4yAMd) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:07 | 2024-03-24 |  |
 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 | 2023-11-30 |  |
@@ -712,7 +713,7 @@
 | [World in My Eyes \- 2006 Remaster](https://open.spotify.com/track/70B5oP5ng1QYClkJ9CeWly) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:27 | 2022-09-30 | 2024-01-17 |
 | [Worm's Dream](https://open.spotify.com/track/6pFVzGwNmmw2YUC4yyEU2z) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [The Worm](https://open.spotify.com/album/3ilzLYEzGlpAXk8fx7z3vu) | 1:13 | 2023-09-17 |  |
 | [x w x](https://open.spotify.com/track/23M9FijuZP9MsVQrCLdqct) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 2:25 | 2023-10-13 |  |
-| [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-01-06 |  |
+| [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-01-06 | 2024-08-03 |
 | [XXX](https://open.spotify.com/track/3fMYdbxKBDKtLa1HB9iBDK) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [XXX \(Deluxe Version\)](https://open.spotify.com/album/3vyMhFtK8R0cFoMfnBfztb) | 1:50 | 2023-03-28 | 2023-12-14 |
 | [Yer Brothers](https://open.spotify.com/track/7MQjOPsj0Mfi8HLUUC0mEP) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr), [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4), [Nick Wilkerson](https://open.spotify.com/artist/3QiX2OujsOt08Qx3ZbzNbp), [Dragon Inn 3](https://open.spotify.com/artist/4R9OjGQDdKY8sjNSEG5CiR) | [Exquisite Corpse](https://open.spotify.com/album/11aSgmA8YPBrEfJ536AcsA) | 2:02 | 2024-03-04 |  |
 | [Yonder](https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 1:41 | 2024-02-14 |  |

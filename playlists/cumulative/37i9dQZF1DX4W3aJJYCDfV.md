@@ -4,7 +4,7 @@
 
 > Brand new music from Charli xcx & Billie Eilish \(pictured\), A$AP Rocky, Mura Masa and more!
 
-11,673 songs - 26 day 5 hr 54 min
+11,674 songs - 26 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5808,7 +5808,7 @@
 | [Levels Of Human](https://open.spotify.com/track/37n3zqoAV0xra7ikeypGak) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Come With Fierce Grace](https://open.spotify.com/album/679q3puDcVKRpY0bzK0BbL) | 1:52 | 2023-09-07 | 2023-09-09 |
 | [Levitate](https://open.spotify.com/track/3w0nFtVBa75tPHsSNZxWr6) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Levitate](https://open.spotify.com/album/4Ihs3D52rXV5uNlQfsgkqh) | 3:26 | 2023-07-20 | 2023-07-28 |
 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 | 2023-12-08 | 2023-12-15 |
-| [LGLG](https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LGLG](https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5) | 2:56 | 2024-08-01 |  |
+| [LGLG](https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LGLG](https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5) | 2:56 | 2024-08-01 | 2024-08-03 |
 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 | 2023-06-08 | 2023-06-16 |
 | [Liar](https://open.spotify.com/track/27xRhBTtH13Qwj5LqawMMN) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Liar](https://open.spotify.com/album/5J12lX3O7R7YOy1MyyTMEm) | 2:47 | 2024-01-05 | 2024-01-12 |
 | [Liar Liar](https://open.spotify.com/track/4pQvb7EKACWR2tRjjSaL5w) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Liar Liar](https://open.spotify.com/album/1Aaa6h3XcLOWxJ0ST6aQMs) | 2:57 | 2023-12-01 | 2023-12-08 |
@@ -7440,6 +7440,7 @@
 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 | 2023-02-17 | 2023-02-24 |
 | [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 | 2023-05-11 | 2023-05-19 |
 | [OK \(feat\. Young Thug\)](https://open.spotify.com/track/06P0OMevRLv6wWGdXHSGN2) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [OK \(feat\. Young Thug\)](https://open.spotify.com/album/76GwLI1nybtKiwJ1maeFIw) | 4:06 | 2023-11-10 | 2023-11-17 |
+| [ok </3](https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1) | 3:24 | 2024-08-02 |  |
 | [ok with it](https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [ok with it](https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9) | 2:45 | 2023-05-18 | 2023-05-26 |
 | [OK!](https://open.spotify.com/track/2sHeAc4uJIIahcnl2SNwB4) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [OK!](https://open.spotify.com/album/69CN4kgPMzPeG3a9XR2VvR) | 2:59 | 2023-11-17 | 2023-11-24 |
 | [Okay](https://open.spotify.com/track/4haCRm2Aq4OSASa9rv4ITt) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [More and More](https://open.spotify.com/album/0HJ0i9fey9rEPnx9aWJhW0) | 4:13 | 2023-01-27 | 2023-01-28 |

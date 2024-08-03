@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > ¡Ponte cursi con las canciones más románticas! Julión Álvarez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,383 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,742 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 52 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
 | 53 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 |
 | 54 | [Me Gusta Estar Contigo](https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 2:18 |
-| 55 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 |
+| 55 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 |
 | 56 | [Un Amor Como Este](https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Amor Como Este](https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW) | 3:05 |
 | 57 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 |
-| 58 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 |
+| 58 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 |
 | 59 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
 | 60 | [Míranos Ahora](https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Míranos Ahora](https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3) | 3:18 |
 | 61 | [Símbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 75 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 |
 | 76 | [Hermosura de Mujer](https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:44 |
 | 77 | [Por Ella \(Poco A Poco\)](https://open.spotify.com/track/4WWITxzEgGZJcB1JyzPvbc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 4:03 |
-| 78 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 |
-| 79 | [Te Quiero Mil](https://open.spotify.com/track/1ksSfoFqDuIasGyfMHzBLi) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [TE QUIERO MIL](https://open.spotify.com/album/071FZyofz1xih6Ehcd6gzP) | 3:03 |
+| 78 | [Te Quiero Mil](https://open.spotify.com/track/1ksSfoFqDuIasGyfMHzBLi) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [TE QUIERO MIL](https://open.spotify.com/album/071FZyofz1xih6Ehcd6gzP) | 3:03 |
+| 79 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 |
 | 80 | [Como No Quererte](https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:34 |
 | 81 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Qué Bueno Es Tenerte](https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H) | 3:25 |
 | 82 | [Ojitos Cafés](https://open.spotify.com/track/1nXSQbUEIutffxscuSE33T) | [Omar Robles](https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Ojitos Cafés](https://open.spotify.com/album/6SRWhE60fWiqYa4BkYF4xT) | 3:10 |

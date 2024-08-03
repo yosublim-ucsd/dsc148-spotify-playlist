@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 160000,
       "name": "A New Dawn",
       "url": "https://open.spotify.com/track/11N9Vx2jRgBwGZ4d34YteA"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 294175,
       "name": "Bohemian Paradise",
       "url": "https://open.spotify.com/track/76BZeboUrTw8niFWxWET13"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 253988,
       "name": "Chinsi",
       "url": "https://open.spotify.com/track/6sBNaiB80PUXMiFeJJ5wNc"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 152380,
       "name": "Fiveless Accretion Pearl (Desk Lamp Mix)",
       "url": "https://open.spotify.com/track/2VJD2jBc1ATLkT5SY8T1Ea"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 151394,
       "name": "Home Now",
       "url": "https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW"
@@ -2415,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "In Memory Of",
+        "url": "https://open.spotify.com/album/2OLoHeaHiV2qR2F4P5KhZh"
+      },
+      "artists": [
+        {
+          "name": "Arius Feva",
+          "url": "https://open.spotify.com/artist/2zzSS4EXRzuGsXFfYlDfI5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "In Memory Of",
+      "url": "https://open.spotify.com/track/7wQEt80PnEREInl68vpMB6"
+    },
+    {
+      "album": {
         "name": "wander into",
         "url": "https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21"
       },
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 136000,
       "name": "Inner Space",
       "url": "https://open.spotify.com/track/7HkAMBIhGt1LszaMZqIfNf"
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 198058,
       "name": "Introduction of Our Hero, Dream Gopher",
       "url": "https://open.spotify.com/track/6f3cHqM3gAWkSXKlr259Xs"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 149250,
       "name": "Luna",
       "url": "https://open.spotify.com/track/1tfn3uhTMeV7ojNLsucPWZ"
@@ -2999,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "Mentem",
+        "url": "https://open.spotify.com/album/3yXBQd8cZHl1QhGmqxT0w5"
+      },
+      "artists": [
+        {
+          "name": "Dormiente",
+          "url": "https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Mentem",
+      "url": "https://open.spotify.com/track/3HMdBoTi9vGsiVOYGQ1LoA"
+    },
+    {
+      "album": {
         "name": "Midnight Song",
         "url": "https://open.spotify.com/album/3Ij1cLsGRBAF05SertgyEG"
       },
@@ -3028,7 +3064,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 220000,
       "name": "Milky Sea",
       "url": "https://open.spotify.com/track/324oRBwsXBuTVrlPHh5SqP"
@@ -3126,7 +3162,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 393395,
       "name": "Moon of the Crusted Snow",
       "url": "https://open.spotify.com/track/2z0xcVWiSp0GBZ7YMHUu89"
@@ -3930,7 +3966,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 198007,
       "name": "Restoration",
       "url": "https://open.spotify.com/track/1KGD4VIjVMFOoSeKj056CM"
@@ -4218,7 +4254,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 508112,
       "name": "Sleet",
       "url": "https://open.spotify.com/track/6pfrUVPhrk2qe9BtVOeXwq"

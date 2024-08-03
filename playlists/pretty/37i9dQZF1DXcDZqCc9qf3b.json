@@ -1,13 +1,33 @@
 {
-  "description": "Groove to music from your Netflix Kids favorites! Cover: Thelma the Unicorn",
-  "num_followers": 57654,
+  "description": "Groove to music from your Netflix Kids favorites! Cover: Saving Bikini Bottom",
+  "num_followers": 57761,
   "original_name": "Netflix Kids Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnsrJwAAAABOn8R1OD0W2Dqmfr6fbweJ",
+  "snapshot_id": "ZqxZwAAAAAA3yOYjeLlXeTt792Nq1Wht",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Saving Bikini Bottom: The Sandy Cheeks Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4sEeLcLwy3Xdf9SEtAMj1B"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "Spongebob Squarepants",
+          "url": "https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj"
+        }
+      ],
+      "duration_ms": 126146,
+      "name": "My Name Is Sandy Cheeks",
+      "url": "https://open.spotify.com/track/2JHCWXFacFcaWW8VNnaHPe"
+    },
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {

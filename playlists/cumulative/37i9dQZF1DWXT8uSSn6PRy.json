@@ -1571,6 +1571,28 @@
     },
     {
       "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
       },
@@ -4094,7 +4116,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 456933,
       "name": "Family Matters",
       "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
@@ -6330,7 +6352,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
@@ -11172,6 +11194,28 @@
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253770,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
     },
     {
       "album": {

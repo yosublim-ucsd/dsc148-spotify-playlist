@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,224 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,221 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 46 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
 | 47 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 |
 | 48 | [Fashion Hoarder](https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [Fashion Hoarder](https://open.spotify.com/album/54raPqsVO70w92rOVD1plB) | 3:07 |
-| 49 | [NO BREAK \(Prod\. GooseBumps & Simon Dominic\)](https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L) | [HolyBang](https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:19 |
-| 50 | [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 |
+| 49 | [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 |
+| 50 | [NO BREAK \(Prod\. GooseBumps & Simon Dominic\)](https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L) | [HolyBang](https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:19 |
 | 51 | [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 |
 | 52 | [GOOD](https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [GOOD](https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT) | 3:00 |
 | 53 | [Drink it, Girls!](https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Work Later Drink Now S2, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh) | 2:56 |

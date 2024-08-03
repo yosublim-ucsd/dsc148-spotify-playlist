@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Nightwish
 
-612 songs - 1 day 22 hr 50 min
+613 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Heroes out of Time](https://open.spotify.com/track/3R8rYXcluJWC0oAQDRki7S) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Kylee Brielle](https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI) | [Heroes out of Time](https://open.spotify.com/album/0L9IXczpIBhsr8h22Iept6) | 3:42 | 2021-06-11 | 2021-09-04 |
 | [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 | 2023-05-16 |  |
 | [Hootsforce](https://open.spotify.com/track/5gJ1DNzFHwNFlEw1UltyFk) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Legends from Beyond the Galactic Terrorvortex](https://open.spotify.com/album/5EqtPIx96U0AUSzHUu4QGp) | 3:50 | 2020-11-29\* | 2021-06-19 |
+| [Hope Of Joy](https://open.spotify.com/track/5V21ulAWRkK0EOEb3iX5IC) | [Imperia](https://open.spotify.com/artist/2xpyJhcZFhoo81Umj5NIzy) | [Dark Paradise](https://open.spotify.com/album/6eTF5HSlKnYkSV4TDs77aU) | 4:55 | 2024-07-26 |  |
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-10-23 | 2022-05-21 |
 | [How to be a Pirate](https://open.spotify.com/track/3Zscf389qeupVE0dFEh0r3) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [How to be a Pirate](https://open.spotify.com/album/47xYjUsHqpnC3J6ScK5Yni) | 3:23 | 2020-11-29\* | 2021-10-01 |
 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 | 2020-11-29\* | 2021-07-10 |
@@ -359,7 +360,7 @@
 | [Nomad's Luck](https://open.spotify.com/track/0Riwsy1sSuL5uCOlTvEAnH) | [Ignea](https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM) | [Nomad's Luck](https://open.spotify.com/album/4hu6ynojW3eaL7Bp5tDi5A) | 4:38 | 2023-03-24 | 2023-05-03 |
 | [Northwest Passage](https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Northwest Passage](https://open.spotify.com/album/7aKwMRfEricZ79KMU1kip9) | 4:35 | 2020-11-29\* | 2021-06-19 |
 | [Nostos](https://open.spotify.com/track/3W6Xik6Xxf06JuUoZSATlD) | [Orion's Reign](https://open.spotify.com/artist/3hRL14TJtJqr7i1IH3D1pU), [Minniva](https://open.spotify.com/artist/50KIyycosYOGrBHfLaI1Ju) | [Nostos](https://open.spotify.com/album/2ZNyqng4E2LUSI2iDA4o04) | 2:55 | 2020-11-29\* | 2021-02-19 |
-| [Not All Those Who Wander Are Lost](https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Not All Those Who Wander Are Lost](https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65) | 4:46 | 2022-07-08 |  |
+| [Not All Those Who Wander Are Lost](https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Not All Those Who Wander Are Lost](https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65) | 4:46 | 2022-07-08 | 2024-08-03 |
 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 | 2022-01-21 |  |
 | [Null Point](https://open.spotify.com/track/3HvKi9J9B5dTlnLuxAXdiH) | [Joel Lindfors](https://open.spotify.com/artist/0g2s7sIZ2SX168uQDs9NM2), [Sithu Aye](https://open.spotify.com/artist/6AOvXKqmqmZHxqdop7Kzoh) | [Shift](https://open.spotify.com/album/5hRzklorWry9M9L8xItiu0) | 3:59 | 2022-07-13 | 2022-07-30 |
 | [Null Point \(feat\. Sithu Aye\)](https://open.spotify.com/track/3VURA6hWcr7VBrdzOVZXfO) | [Joel Lindfors](https://open.spotify.com/artist/0g2s7sIZ2SX168uQDs9NM2), [Sithu Aye](https://open.spotify.com/artist/6AOvXKqmqmZHxqdop7Kzoh) | [Shift](https://open.spotify.com/album/0BMWkBjL37JS9telS0rApm) | 3:59 | 2022-07-13 | 2022-07-29 |

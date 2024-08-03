@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
+  "description": "This is Mc Luanna. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Mc Luanna",
   "tracks": [
     {
@@ -54,6 +54,32 @@
       "duration_ms": 165600,
       "name": "44",
       "url": "https://open.spotify.com/track/54Am9PMURLJ6NcJApP4l05"
+    },
+    {
+      "album": {
+        "name": "TAURUS",
+        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "99 Problemas",
+      "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
     },
     {
       "album": {
@@ -422,6 +448,32 @@
       "duration_ms": 180004,
       "name": "CUSSY",
       "url": "https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc"
+    },
+    {
+      "album": {
+        "name": "Gambiarra Chic, Pt. 1",
+        "url": "https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180004,
+      "name": "CUSSY",
+      "url": "https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX"
     },
     {
       "album": {
@@ -932,7 +984,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 128242,
       "name": "Linha Torta",
       "url": "https://open.spotify.com/track/1jp3ua6XiMziN3PbDBKMuA"
@@ -1472,7 +1524,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 162711,
       "name": "SEM BARULHO",
       "url": "https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf"
@@ -1540,7 +1592,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 409756,
       "name": "Sem Compaix\u00e3o Bb",
       "url": "https://open.spotify.com/track/7wPDUhgv7YgKtGgkinvUYx"
@@ -1732,6 +1784,40 @@
       "duration_ms": 164500,
       "name": "Surtada",
       "url": "https://open.spotify.com/track/1HBFYs68ayggUWhgySCK7j"
+    },
+    {
+      "album": {
+        "name": "Fotos de Ontem",
+        "url": "https://open.spotify.com/album/1m29A0rgwF3EQktfu9rv7s"
+      },
+      "artists": [
+        {
+          "name": "Ig\u00e3o",
+          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164102,
+      "name": "tamb\u00e9m senti saudade.",
+      "url": "https://open.spotify.com/track/38ej21k2jU5pUo4oz2ACdS"
     },
     {
       "album": {

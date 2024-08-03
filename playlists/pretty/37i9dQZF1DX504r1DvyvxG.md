@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,646,843 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,646,878 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 49 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 50 | [Hit Or Miss](https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings](https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp) | 3:54 |
 | 51 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:01 |
-| 52 | [Your Song](https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:04 |
+| 52 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 |
 | 53 | [That's the Way That the World Goes 'Round](https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 3:20 |
-| 54 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 |
+| 54 | [Your Song](https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:04 |
 | 55 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 |
 | 56 | [Here Comes The Sun](https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw) | [Richie Havens](https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p) | [Live At The Cellar Door and at the Santa Monica Civic Auditorium](https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2) | 4:14 |
 | 57 | [May You Never](https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 3:40 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 67 | [The Watchman's Gone](https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 4:18 |
 | 68 | [The Weight](https://open.spotify.com/track/2UgZeV435iztRTLrUeOrtk) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Best Of The Band](https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr) | 4:34 |
 | 69 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
-| 70 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
-| 71 | [Souvenirs](https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 3:42 |
+| 70 | [Black Is the Colour](https://open.spotify.com/track/29tvuiMPkb9q56VRoLVQKD) | [Tia Blake](https://open.spotify.com/artist/6fkGY2RJyI8UxNjMlDo9k1) | [Folksongs & Ballads](https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa) | 2:28 |
+| 71 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
 | 72 | [Dublin Blues](https://open.spotify.com/track/4rXt1tYHZIavECuN32fk96) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Dublin Blues](https://open.spotify.com/album/5IzhouI88qt3gZgJ7WjEgp) | 4:19 |
-| 73 | [Black Is the Colour](https://open.spotify.com/track/29tvuiMPkb9q56VRoLVQKD) | [Tia Blake](https://open.spotify.com/artist/6fkGY2RJyI8UxNjMlDo9k1) | [Folksongs & Ballads](https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa) | 2:28 |
+| 73 | [Souvenirs](https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 3:42 |
 | 74 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 |
 | 75 | [Love At The Five & Dime](https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [The Last Of The True Believers](https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t) | 4:39 |
 | 76 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 |

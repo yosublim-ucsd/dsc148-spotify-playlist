@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 ### [This Is Montell Fish](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3acIik)
 
-> This is Montell Fish\. The essential tracks, all in one playlist.
+> This Is Montell Fish\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,375 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,394 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 8 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 |
 | 9 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 |
 | 10 | [Altitude](https://open.spotify.com/track/5OsHySqSwYLLfot5EswbON) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 2:44 |
-| 11 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 |
+| 11 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 |
 | 12 | [Is it a Crime?](https://open.spotify.com/track/6rpctcdfXgkguh2nr3Htby) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Is it a Crime?](https://open.spotify.com/album/5oAULNPMLHj0FHSpNaQ8bc) | 3:20 |
 | 13 | [And i'd go a thousand miles](https://open.spotify.com/track/4XAAxqgd94HLvDQWc0EkDa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
 | 14 | [Exscape](https://open.spotify.com/track/2JxPgHghyuG0SKNy8htBWg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 2:22 |
-| 15 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 |
-| 16 | [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 |
+| 15 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 |
+| 16 | [DISTRACTION](https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 3:00 |
 | 17 | [Enough For You](https://open.spotify.com/track/37G1Mx1vZHxKia3aDPMQxd) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 0:49 |
 | 18 | [Every Night](https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 2:28 |
-| 19 | [DISTRACTION](https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 3:00 |
+| 19 | [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 |
 | 20 | [On My Way.](https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [On My Way.](https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST) | 3:07 |
 | 21 | [Fallin Out of Love With You](https://open.spotify.com/track/3Eq9N7ymMN0GNG7vSKjTrF) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 1:50 |
 | 22 | [Pretend Lovers](https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [7](https://open.spotify.com/track/1601rgnttKbCiKaV83nY8K) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 3:28 |
 | 50 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 |
 
-Snapshot ID: `Zql+gAAAAABMKJkUjItM6+rmG/UlQ8SH`
+Snapshot ID: `ZqrQAAAAAADIToUlGrmccczzkLgwIkMu`

@@ -1077,6 +1077,32 @@
     },
     {
       "album": {
+        "name": "Lost Files",
+        "url": "https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z"
+      },
+      "artists": [
+        {
+          "name": "Blaq Jerzee",
+          "url": "https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183484,
+      "name": "Falling For U",
+      "url": "https://open.spotify.com/track/1RrayK8ea3tDtD1QnNMUL9"
+    },
+    {
+      "album": {
         "name": "Fefe Ne Fefe",
         "url": "https://open.spotify.com/album/24ZhqMl3si2HuUPZC9IjZc"
       },
@@ -3022,7 +3048,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 153992,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"

@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 162907,
       "name": "A Mind At Peace",
       "url": "https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 187000,
       "name": "Acceptance",
       "url": "https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 253047,
       "name": "Amoralis",
       "url": "https://open.spotify.com/track/6hVsOvinmJAGJJpXxpPhDy"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 151243,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2quE9M1AL9B7T6iSjzeT0o"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 166922,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb"
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 206520,
       "name": "Cette Montagne",
       "url": "https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE"
@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/4jy8gsvOIziBS6r2bTGhlj"
+      },
+      "artists": [
+        {
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/35jK6reZZ1BvRNMT8l9P4T"
+    },
+    {
+      "album": {
         "name": "Renacer en Calma",
         "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
       },
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 192631,
       "name": "El Limbo",
       "url": "https://open.spotify.com/track/7qxiypBdH5wy621o3DATXE"
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 207509,
       "name": "Ethereal Mind",
       "url": "https://open.spotify.com/track/3X3vCAvMiO48mdC2lGxfIB"
@@ -3020,7 +3038,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 151562,
       "name": "Follow The Light",
       "url": "https://open.spotify.com/track/2zQUrkKRnY9kapyhH37X2e"
@@ -3884,7 +3902,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 211304,
       "name": "Hypnoticum",
       "url": "https://open.spotify.com/track/7jNMkBF2qVypzudevxrC83"
@@ -4737,6 +4755,24 @@
     },
     {
       "album": {
+        "name": "Lightness",
+        "url": "https://open.spotify.com/album/3igZp4nULuMryEUVttfzxz"
+      },
+      "artists": [
+        {
+          "name": "Clip Aloe",
+          "url": "https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Lightness",
+      "url": "https://open.spotify.com/track/16Cu5Xj80oiHuA5ELaenKY"
+    },
+    {
+      "album": {
         "name": "Linea Degli Alberi",
         "url": "https://open.spotify.com/album/4fFXVfJEGlld0nASf5kGHr"
       },
@@ -4914,6 +4950,24 @@
       "duration_ms": 175099,
       "name": "Lucid",
       "url": "https://open.spotify.com/track/6k2qIIgIppx8lAZXkPM6IG"
+    },
+    {
+      "album": {
+        "name": "Luminare",
+        "url": "https://open.spotify.com/album/2mpQAdKtmKkRBx9pW4Tj9p"
+      },
+      "artists": [
+        {
+          "name": "Moon Whisperer",
+          "url": "https://open.spotify.com/artist/774tcsKJmwutlxTuJ3buO4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Luminare",
+      "url": "https://open.spotify.com/track/2xwW9hYQfIvtYaHgHi1K7T"
     },
     {
       "album": {
@@ -5594,7 +5648,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 293877,
       "name": "Muladhara",
       "url": "https://open.spotify.com/track/3pOIvvzAM9nj0ipjmGGhRs"
@@ -6199,6 +6253,24 @@
     },
     {
       "album": {
+        "name": "Oniria",
+        "url": "https://open.spotify.com/album/4MAMfvGlOx5tJXldqQQfLL"
+      },
+      "artists": [
+        {
+          "name": "Dopamine clouds",
+          "url": "https://open.spotify.com/artist/3VIQ9gIvMMoHzDsFOQd85j"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197044,
+      "name": "Oniria",
+      "url": "https://open.spotify.com/track/5Cwt22rLEsrCjIXvcZ4Gz2"
+    },
+    {
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/7jsqMuym5gtuuEuavy697d"
       },
@@ -6703,6 +6775,24 @@
     },
     {
       "album": {
+        "name": "Pluotos",
+        "url": "https://open.spotify.com/album/5g3ByKiMfjLvV0GTiewGqF"
+      },
+      "artists": [
+        {
+          "name": "Priy",
+          "url": "https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Pluotos",
+      "url": "https://open.spotify.com/track/1qiSMzz9eNSMyQzIRpP3z2"
+    },
+    {
+      "album": {
         "name": "Portabella",
         "url": "https://open.spotify.com/album/1Ff7Pq617mo18tgdnTBfbi"
       },
@@ -6894,7 +6984,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 198250,
       "name": "Quand je te vois",
       "url": "https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR"
@@ -7254,7 +7344,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 239000,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/7fLwX9QXiSgBSxQXmaSO6Y"
@@ -8010,7 +8100,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 175132,
       "name": "Sleep Hibernation",
       "url": "https://open.spotify.com/track/0ek2PwrDkUWRqoaTq6WKDj"
@@ -9040,7 +9130,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 246655,
       "name": "The Road Back",
       "url": "https://open.spotify.com/track/75awJg9Xgn3cRJrPFihiV4"
@@ -9472,7 +9562,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 185000,
       "name": "Ve\u010deras",
       "url": "https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm"
@@ -9490,7 +9580,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 171815,
       "name": "Vila\u0301n",
       "url": "https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC"
@@ -9688,7 +9778,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 201250,
       "name": "Voyage De La Nuit",
       "url": "https://open.spotify.com/track/24lJCQciPgJBhRrij2Faa5"
@@ -10048,7 +10138,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 175744,
       "name": "Wondrous",
       "url": "https://open.spotify.com/track/3Ig5ZkwQNxBnSONh5cKI6Z"
@@ -10156,7 +10246,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 176250,
       "name": "\u00c0 la prochaine",
       "url": "https://open.spotify.com/track/4z2vyJnacvigrLdlLjgj1p"

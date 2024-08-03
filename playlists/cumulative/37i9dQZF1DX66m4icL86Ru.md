@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Kesha
 
-540 songs - 1 day 2 hr 4 min
+541 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Grip](https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 3:16 | 2023-11-07 |  |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-07-12 | 2023-08-19 |
 | [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 | 2022-06-10 | 2023-02-25 |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Gun](https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:56 | 2023-09-22 | 2024-03-09 |
 | [hair down](https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [hair down](https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5) | 3:30 | 2024-04-12 | 2024-05-17 |
 | [Hands Up \(with Monaleo\)](https://open.spotify.com/track/51Zw9bJ0i2KlGbbtlkbieR) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Hands Up \(with Monaleo\)](https://open.spotify.com/album/3Ai7fsWfL2WTv2iYo4bFJR) | 3:04 | 2022-09-02 | 2022-10-01 |
@@ -308,7 +309,7 @@
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-08 | 2022-05-28 |
 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 | 2023-07-05 |  |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-17 | 2023-08-05 |
-| [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 | 2024-05-24 |  |
+| [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 | 2024-05-24 | 2024-08-03 |
 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 | 2023-02-03 | 2023-03-04 |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-09 | 2024-06-08 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-17 |  |

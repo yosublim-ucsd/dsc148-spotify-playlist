@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 
 > Piesele potrivite pentru zilele și nopțile tale chill de vară 🌴🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,915 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,928 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,18 +22,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 12 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 13 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 14 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
-| 15 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
+| 15 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 16 | [LIFELINE](https://open.spotify.com/track/1BFCOIvvLRZRZBCPiMPuXz) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/5bhpSjjHrhIY1a9rKlBaaJ) | 3:26 |
 | 17 | [Înapoi](https://open.spotify.com/track/4AXb87kku5QFump60qvqQB) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Înapoi](https://open.spotify.com/album/6YmXmt0LGkF4zedlEdvJEK) | 2:09 |
 | 18 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
-| 19 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 19 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 20 | [Lângă tine](https://open.spotify.com/track/0mSWgUPuFoEI0Exf6BKvzS) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Lângă tine](https://open.spotify.com/album/6BpKM3Hx2VeNwsKZ2dFSXH) | 2:53 |
 | 21 | [Chasing Low Vibrations](https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Chasing Low Vibrations](https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt) | 3:24 |
 | 22 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
 | 23 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 |
 | 24 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 |
-| 25 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 26 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 |
+| 25 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 |
+| 26 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 27 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
 | 28 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 29 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 760744,
+  "num_followers": 761219,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAzpajtxXFoSUSrYsuh8rrz",
+  "snapshot_id": "ZqrQAAAAAABNCYkWxF412fFDsDYJzkrw",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA DURANGO",
-        "url": "https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ"
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
           "name": "Junior H",
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 262883,
-      "name": "LA DURANGO",
-      "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": null,
@@ -367,18 +359,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+        "name": "LA DURANGO",
+        "url": "https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ"
       },
       "artists": [
         {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
           "name": "Junior H",
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+      "duration_ms": 262883,
+      "name": "LA DURANGO",
+      "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSICA <3",
-        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 221887,
-      "name": "Dias Nublados",
-      "url": "https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 166570,
       "name": "EN ALTAVOZ",
       "url": "https://open.spotify.com/track/1EKZmfqveHKe78Isfk07w4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSICA <3",
+        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 221887,
+      "name": "Dias Nublados",
+      "url": "https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Tumbados",
-        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 259402,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tsurito",
         "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 194518,
       "name": "El Tsurito",
       "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Tumbados",
+        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 259402,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
     },
     {
       "added_at": null,

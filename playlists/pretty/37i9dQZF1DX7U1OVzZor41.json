@@ -1,6 +1,6 @@
 {
   "description": "\u5728KTV\u91cc\uff0c\u8fd9\u4e9b\u90fd\u662f\u5fc5\u70b9\u5fc5\u5531\u7684\u534e\u8bedK\u6b4c\u3002\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f",
-  "num_followers": 144975,
+  "num_followers": 144979,
   "original_name": "\u4eba\u6c14K\u6b4c\u699c",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-06-20 16:00:00",
       "album": {
+        "name": "\u8033\u6735",
+        "url": "https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy"
+      },
+      "artists": [
+        {
+          "name": "Ronghao Li",
+          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
+        }
+      ],
+      "duration_ms": 279146,
+      "name": "\u5e74\u5c11\u6709\u70ba",
+      "url": "https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp"
+    },
+    {
+      "added_at": "2024-06-20 16:00:00",
+      "album": {
         "name": "\u65b0\u5730\u7403",
         "url": "https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 280053,
       "name": "\u624b\u5fc3\u7684\u8594\u8587",
       "url": "https://open.spotify.com/track/07DWACsD58aEdq6XnDadLh"
-    },
-    {
-      "added_at": "2024-06-20 16:00:00",
-      "album": {
-        "name": "\u8033\u6735",
-        "url": "https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy"
-      },
-      "artists": [
-        {
-          "name": "Ronghao Li",
-          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
-        }
-      ],
-      "duration_ms": 279146,
-      "name": "\u5e74\u5c11\u6709\u70ba",
-      "url": "https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp"
     },
     {
       "added_at": "2024-06-20 16:00:00",
@@ -427,8 +427,8 @@
     {
       "added_at": "2024-06-20 16:00:00",
       "album": {
-        "name": "I'm O.K.",
-        "url": "https://open.spotify.com/album/1tOMQ0MGYaMF4F0YtyUKXN"
+        "name": "\u592a\u5e73\u76db\u4e16",
+        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
         }
       ],
-      "duration_ms": 255133,
-      "name": "\u666e\u901a\u670b\u53cb",
-      "url": "https://open.spotify.com/track/7CTitzr4eVIDCPUJi5Dr4B"
+      "duration_ms": 292666,
+      "name": "\u611b\u6211\u9084\u662f\u4ed6",
+      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
     },
     {
       "added_at": "2024-06-20 16:00:00",
@@ -555,8 +555,8 @@
     {
       "added_at": "2024-06-20 16:00:00",
       "album": {
-        "name": "\u592a\u5e73\u76db\u4e16",
-        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
+        "name": "I'm O.K.",
+        "url": "https://open.spotify.com/album/1tOMQ0MGYaMF4F0YtyUKXN"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
         }
       ],
-      "duration_ms": 292666,
-      "name": "\u611b\u6211\u9084\u662f\u4ed6",
-      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
+      "duration_ms": 255133,
+      "name": "\u666e\u901a\u670b\u53cb",
+      "url": "https://open.spotify.com/track/7CTitzr4eVIDCPUJi5Dr4B"
     },
     {
       "added_at": "2024-06-20 16:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-06-20 16:00:00",
       "album": {
-        "name": "\u4e03\u91cc\u9999",
-        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "\u64f1\u6dfa",
-      "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
-    },
-    {
-      "added_at": "2024-06-20 16:00:00",
-      "album": {
         "name": "LINK",
         "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 318938,
       "name": "\u646f\u53cb",
       "url": "https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0"
+    },
+    {
+      "added_at": "2024-06-20 16:00:00",
+      "album": {
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "\u64f1\u6dfa",
+      "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
     },
     {
       "added_at": "2024-06-20 16:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-06-20 16:00:00",
       "album": {
+        "name": "\u5bc2\u5bde\u4e0d\u75db",
+        "url": "https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 285546,
+      "name": "\u7d66\u6211\u4e00\u500b\u7406\u7531\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/2DcmVSLAg0ZzfOQxDshZHY"
+    },
+    {
+      "added_at": "2024-06-20 16:00:00",
+      "album": {
         "name": "\u65b0\u7684\u5fc3\u8df3",
         "url": "https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 255200,
       "name": "\u5929\u5929",
       "url": "https://open.spotify.com/track/4rzTxZaFsTXQN54WimO4QU"
-    },
-    {
-      "added_at": "2024-06-20 16:00:00",
-      "album": {
-        "name": "\u5bc2\u5bde\u4e0d\u75db",
-        "url": "https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 285546,
-      "name": "\u7d66\u6211\u4e00\u500b\u7406\u7531\u5fd8\u8a18",
-      "url": "https://open.spotify.com/track/2DcmVSLAg0ZzfOQxDshZHY"
     },
     {
       "added_at": "2024-06-20 16:00:00",

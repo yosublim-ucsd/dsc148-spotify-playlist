@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195117,
       "name": "Aproximaci\u00f3n",
       "url": "https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl"
@@ -6151,6 +6151,24 @@
     },
     {
       "album": {
+        "name": "Lpm",
+        "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
+      },
+      "artists": [
+        {
+          "name": "Babeblade",
+          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219881,
+      "name": "Lpm",
+      "url": "https://open.spotify.com/track/0rtzPxprZcyDhDz9SP3N25"
+    },
+    {
+      "album": {
         "name": "L\u00edmite",
         "url": "https://open.spotify.com/album/3uzSKlNYuN7gJUNnGCVrCZ"
       },
@@ -6960,7 +6978,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 216375,
       "name": "Modos",
       "url": "https://open.spotify.com/track/6YhIByBnGtdSGxhfP33vB1"
@@ -7423,6 +7441,24 @@
     },
     {
       "album": {
+        "name": "No hay tiempo",
+        "url": "https://open.spotify.com/album/4qK4DPTYmND7rWUAvIPmn0"
+      },
+      "artists": [
+        {
+          "name": "Vico Villamil",
+          "url": "https://open.spotify.com/artist/0tDZ8MpyTPqgejulZuDH4E"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202027,
+      "name": "No hay tiempo",
+      "url": "https://open.spotify.com/track/15eJY3sym1GzpPT13YbXxe"
+    },
+    {
+      "album": {
         "name": "La Piel Dura",
         "url": "https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG"
       },
@@ -7880,7 +7916,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 178773,
       "name": "Nunca Estuvo en Ti el Litoral",
       "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
@@ -8010,6 +8046,24 @@
       "duration_ms": 221030,
       "name": "Otra forma",
       "url": "https://open.spotify.com/track/06W9ONsbAAHO1RTs88kfMs"
+    },
+    {
+      "album": {
+        "name": "Otra Galaxia",
+        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189940,
+      "name": "Otra Galaxia",
+      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "album": {
@@ -9955,6 +10009,24 @@
     },
     {
       "album": {
+        "name": "Such A Witch",
+        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242186,
+      "name": "Such A Witch",
+      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
+    },
+    {
+      "album": {
         "name": "SUELO",
         "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
       },
@@ -10020,7 +10092,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 242870,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv"

@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
+    },
+    {
+      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
       },
@@ -4568,7 +4586,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 240316,
       "name": "Losing Game",
       "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
@@ -4726,6 +4744,28 @@
       "duration_ms": 221900,
       "name": "Love Me - Felix Cartal's Chill Mix",
       "url": "https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU"
+    },
+    {
+      "album": {
+        "name": "Love Me The Same",
+        "url": "https://open.spotify.com/album/0cvgtqHxieeN6OgxVvGAOo"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Krysta Youngs",
+          "url": "https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Love Me The Same",
+      "url": "https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW"
     },
     {
       "album": {
@@ -5692,7 +5732,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 258254,
       "name": "No Sympathy",
       "url": "https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA"

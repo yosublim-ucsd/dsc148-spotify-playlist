@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: Mimi Webb
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,141 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,146 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 41 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 |
 | 42 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 |
 | 43 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
-| 44 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
-| 45 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
+| 44 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
+| 45 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
 | 46 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 |
 | 47 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 48 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 |

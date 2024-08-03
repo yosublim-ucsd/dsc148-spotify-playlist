@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Hi Nanna",
-  "num_followers": 351625,
+  "num_followers": 351702,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -291,7 +291,7 @@
     {
       "added_at": "2023-03-16 06:15:29",
       "album": {
-        "name": "Sir",
+        "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
         "url": "https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc"
       },
       "artists": [
@@ -302,10 +302,14 @@
         {
           "name": "Shweta Mohan",
           "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
         }
       ],
       "duration_ms": 225424,
-      "name": "Mastaaru Mastaaru",
+      "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
       "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
     },
     {
@@ -407,17 +411,25 @@
     {
       "added_at": "2022-08-03 09:42:51",
       "album": {
-        "name": "Pushpa - The Rise",
+        "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
       },
       "artists": [
         {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
           "name": "Indravathi Chauhan",
           "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
       "duration_ms": 223325,
-      "name": "Oo Antava Oo Oo Antava",
+      "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
     },
     {
@@ -603,7 +615,7 @@
     {
       "added_at": "2021-12-16 12:46:43",
       "album": {
-        "name": "Pushpa - The Rise",
+        "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
       },
       "artists": [
@@ -614,10 +626,14 @@
         {
           "name": "Sid Sriram",
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
       "duration_ms": 221000,
-      "name": "Srivalli",
+      "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
     },
     {
@@ -949,22 +965,6 @@
       "url": "https://open.spotify.com/track/0BFQi3erN3X4tT6ZrthC5d"
     },
     {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu"
-      },
-      "artists": [
-        {
-          "name": "Mounika Yadav",
-          "url": "https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "Saami Saami",
-      "url": "https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Aa Aaa",
@@ -979,26 +979,6 @@
       "duration_ms": 215074,
       "name": "Yellipoke Shyamala",
       "url": "https://open.spotify.com/track/6x0uurbe3O3v7ogFWdEjYa"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
-      },
-      "artists": [
-        {
-          "name": "Padmalatha",
-          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
-        },
-        {
-          "name": "Vishnupriya Ravi",
-          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
-        }
-      ],
-      "duration_ms": 193179,
-      "name": "Pareshanura",
-      "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1027,26 +1007,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Son Of Satyamurthy",
-        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
+        "name": "Dhruva",
+        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
       },
       "artists": [
         {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+          "name": "Padmalatha",
+          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
         },
         {
-          "name": "Sravana Bhargavi",
-          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
-        },
-        {
-          "name": "Magizhini Manimaran",
-          "url": "https://open.spotify.com/artist/1Q1vEBErkzeovtGx8kZXKD"
+          "name": "Vishnupriya Ravi",
+          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
         }
       ],
-      "duration_ms": 278188,
-      "name": "Super Machi",
-      "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"
+      "duration_ms": 193179,
+      "name": "Pareshanura",
+      "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -1071,6 +1047,30 @@
       "duration_ms": 166293,
       "name": "Psycho Saiyaan (From \"Saaho\")",
       "url": "https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Saami Saami (From \"Pushpa - The Rise\")(Telugu)",
+        "url": "https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Mounika Yadav",
+          "url": "https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "duration_ms": 223961,
+      "name": "Saami Saami (From \"Pushpa - The Rise\")(Telugu)",
+      "url": "https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1109,6 +1109,22 @@
       "url": "https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK"
     },
     {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "George Reddy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
+    },
+    {
       "added_at": "2023-03-16 06:15:29",
       "album": {
         "name": "Amigos",
@@ -1129,22 +1145,6 @@
       "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "George Reddy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Govindudu Andarivaadele",
@@ -1159,6 +1159,30 @@
       "duration_ms": 264000,
       "name": "Gulabi Kallu Rendu Mullu",
       "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Son Of Satyamurthy",
+        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sravana Bhargavi",
+          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
+        },
+        {
+          "name": "Magizhini Manimaran",
+          "url": "https://open.spotify.com/artist/1Q1vEBErkzeovtGx8kZXKD"
+        }
+      ],
+      "duration_ms": 278188,
+      "name": "Super Machi",
+      "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1405,22 +1429,6 @@
       "url": "https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Shivam",
-        "url": "https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7"
-      },
-      "artists": [
-        {
-          "name": "Sagar, Haripriya",
-          "url": "https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY"
-        }
-      ],
-      "duration_ms": 239372,
-      "name": "Andamaina Lokam",
-      "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
-    },
-    {
       "added_at": "2021-12-16 12:46:43",
       "album": {
         "name": "Acharya",
@@ -1443,6 +1451,22 @@
       "duration_ms": 247660,
       "name": "Laahe Laahe",
       "url": "https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Shivam",
+        "url": "https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7"
+      },
+      "artists": [
+        {
+          "name": "Sagar, Haripriya",
+          "url": "https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY"
+        }
+      ],
+      "duration_ms": 239372,
+      "name": "Andamaina Lokam",
+      "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
     }
   ],
   "unique_name": "Tollywood Pearls",

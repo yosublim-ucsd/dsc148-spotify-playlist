@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-1,524 songs - 3 day 5 hr 37 min
+1,527 songs - 3 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Getting By](https://open.spotify.com/track/7ibXjTmVtGvTGbjIpWJdgr) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Getting By](https://open.spotify.com/album/0CiYmGGQcpx1AmwMoVlwzH) | 3:25 | 2024-07-04 | 2024-07-12 |
 | [Getting No Sleep](https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Getting No Sleep](https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB) | 3:12 | 2024-06-27 | 2024-07-05 |
 | [Ghost](https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Ghost](https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ) | 3:58 | 2024-08-01 |  |
+| [Ghost of Juliet](https://open.spotify.com/track/5p6CAgnpeATazNozoMAbQg) | [ANGEL xo](https://open.spotify.com/artist/26lXC96qSlasvUUUkrq2Ng) | [Ghost of Juliet](https://open.spotify.com/album/3FjDpb4bJ4OqEtLFrrErDu) | 3:38 | 2024-08-01 |  |
 | [Gii Gielista](https://open.spotify.com/track/1ytxh0NRESMei4uBoGzK8A) | [Ella Marie](https://open.spotify.com/artist/6rYrNxnxJEZlhVnxR1c6C7) | [Gii Gielista](https://open.spotify.com/album/7qRy3DhIPfuGXuEueZpMcD) | 3:01 | 2024-06-06 | 2024-06-14 |
 | [Gimmie \(feat\. Siyabång\)](https://open.spotify.com/track/6lU0SYK2qq9dXeuxQONylI) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [La La Land](https://open.spotify.com/album/1WVH5jd57bftClcvZ12Pyy) | 3:09 | 2024-07-11 | 2024-07-19 |
 | [Gimmie A Light](https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gimmie A Light](https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8) | 2:06 | 2024-05-09 | 2024-05-17 |
@@ -876,6 +877,7 @@
 | [Mary On A Cross \- Live at the Forum / 2023](https://open.spotify.com/track/130a5toWPujkHGuMFYr0IX) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Rite Here Rite Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi) | 4:58 | 2024-07-26 | 2024-08-02 |
 | [Matches](https://open.spotify.com/track/4WD2uWSnU5NmwrfZRM0Vpo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Matches](https://open.spotify.com/album/4yeVLevHA6aGtIifw9T1WI) | 2:17 | 2024-07-26 | 2024-08-02 |
 | [MAYBE](https://open.spotify.com/track/52pjOGTH7XQL8bMQ0Ec1xj) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [MAYBE](https://open.spotify.com/album/0tUiNj5W3gz47T7MYcFOqE) | 3:10 | 2024-06-06 | 2024-06-14 |
+| [Maybe](https://open.spotify.com/track/7dmgetbtn4v69FrbDyU3AU) | [Remy](https://open.spotify.com/artist/2k387yygl1GKH2b1Q29dcy) | [Maybe](https://open.spotify.com/album/3rY9y144ykYyFCDyfVksAr) | 3:44 | 2024-08-01 |  |
 | [Maybe I Love You](https://open.spotify.com/track/4L9hJ13KIJx6UfXgZsgsYp) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Maybe I Love You](https://open.spotify.com/album/7iDT9Sky88TqXpHpLXQloS) | 3:07 | 2024-08-01 |  |
 | [Maybe You Should Run Away](https://open.spotify.com/track/4sT0JXWpZJkGngErJ3gbsj) | [CarlloYABOY](https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie) | [Maybe You Should Run Away](https://open.spotify.com/album/74q0CR1ksNWOE2sZvJ2E4p) | 2:53 | 2024-04-26 | 2024-05-03 |
 | [Mayflowers](https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Copium](https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC) | 2:39 | 2024-05-31 | 2024-06-07 |
@@ -928,6 +930,7 @@
 | [Mulholland Drive](https://open.spotify.com/track/5W6Hss172eGqnTHgVxM4dV) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Mulholland Drive](https://open.spotify.com/album/7ni6wyQaOzENwv4d8MSu6h) | 2:50 | 2024-05-09 | 2024-05-17 |
 | [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 | 2024-05-31 | 2024-06-07 |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-16 | 2024-05-24 |
+| [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-01 |  |
 | [My Brother, I](https://open.spotify.com/track/5VoNLvhJK6k7iJVawi2XGJ) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [My Brother, I](https://open.spotify.com/album/6AUurccJ7FMnQnFYiV6sNK) | 4:02 | 2024-07-18 | 2024-07-27 |
 | [My City](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 | 2024-05-16 | 2024-05-24 |
 | [My Family](https://open.spotify.com/track/4VNgtnSNyoqQ4UWkCxxzhK) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [My Family](https://open.spotify.com/album/7rt6eYcLLi0zBM6R1tmlPB) | 2:58 | 2024-07-11 | 2024-07-19 |

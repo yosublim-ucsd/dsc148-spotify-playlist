@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,782 songs - 1 day 12 hr 47 min
+1,784 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Celebrations In Silence](https://open.spotify.com/track/5uL1APheNiLxu15v0ZqnWf) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:06 | 2022-03-03 |  |
 | [Cello Daydream](https://open.spotify.com/track/7mKgMDfFil0PAovfPJLq8C) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Promises](https://open.spotify.com/album/2j0DTCwnzCxsmqTlswfICq) | 1:02 | 2022-02-26 |  |
 | [Cello Echo](https://open.spotify.com/track/2Z424HTm8LzIyyv4WJV4Er) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Cello Echo](https://open.spotify.com/album/45nFcfkDs8ELvyVIjIITq8) | 1:02 | 2022-06-21 |  |
+| [Cello On The Hill](https://open.spotify.com/track/22X8ctz9yj90kA2p9VGRxt) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Cello On The Hill](https://open.spotify.com/album/6h6UZKFcYZhIsBimpMuSMR) | 1:00 | 2024-08-02 |  |
 | [Cello Romance In April](https://open.spotify.com/track/7fHuhw7KyF7KpdIUn7M5Nu) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Reflections At Sunset](https://open.spotify.com/album/6p9GASXlOZUqP7bQl975Pi) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Cello Sunrise](https://open.spotify.com/track/5BX55PTJN3Ii52UoCco80V) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Cello Sunrise](https://open.spotify.com/album/5R59nWgLT8LULY4qHxmZPT) | 1:02 | 2022-09-25 |  |
 | [Celtic Daydream \- Cello Version](https://open.spotify.com/track/7mtMUXPbC5Cbcjj9KAFyOq) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Celtic Daydream](https://open.spotify.com/album/2uoo5dWLPLRXCKlGAGcfen) | 1:03 | 2024-02-09 | 2024-02-13 |
@@ -825,6 +826,7 @@
 | [Instance Lullaby](https://open.spotify.com/track/09J7hmvzTRs10UtIiLga6I) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Here](https://open.spotify.com/album/7iNn2dwf5X85GZidRJWUoU) | 1:06 | 2022-02-24 | 2024-01-30 |
 | [Into Darkness](https://open.spotify.com/track/3MKn2qy5tlwJ5J64DbOAYs) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Into Darkness](https://open.spotify.com/album/27lfUupSX4qlt3f6ElTOhu) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Into Deep Silence](https://open.spotify.com/track/0D9IlNDQ3hS2Kv09YPb1gn) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Into Deep Silence](https://open.spotify.com/album/1zkUdKqnpmFcTFQVo6HA1S) | 1:02 | 2022-06-29 | 2024-01-30 |
+| [Intuition](https://open.spotify.com/track/3s1S3QuTAr1dHbyGblXGva) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Intuition](https://open.spotify.com/album/7djPo84qhFLehc2mdspqOa) | 1:00 | 2024-08-02 |  |
 | [Iris](https://open.spotify.com/track/0vI4uoKdVgqmJJ6CIXBjz7) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Innerscape](https://open.spotify.com/album/7Irucj3F7RZXtGA5ePsBig) | 1:17 | 2022-01-12 |  |
 | [Iris Again](https://open.spotify.com/track/2v21IQuVQIBEYbW4vn6yRz) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:11 | 2022-01-27 |  |
 | [Irish Lullaby \- Alternate Strings Version](https://open.spotify.com/track/62AxfNIJ6rhrG3FOCFPFgX) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Irish Lullaby \(Alternate Strings Version\)](https://open.spotify.com/album/1y77zlbDNQMuIJeYMgAau0) | 1:02 | 2024-02-09 | 2024-02-13 |

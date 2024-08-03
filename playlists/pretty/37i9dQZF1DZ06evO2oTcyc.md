@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,634 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,686 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 41 | [Hate Being Alone](https://open.spotify.com/track/4OTofNs1V7sgnSSlzj4edo) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heart Break Kodak \(HBK\)](https://open.spotify.com/album/0U578dQAanKmYDKCvqk2P3) | 4:04 |
 | 42 | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv) | 4:09 |
 | 43 | [If I'm Lyin', I'm Flyin'](https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:10 |
-| 44 | [I Wish](https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:45 |
-| 45 | [Hit Bout It](https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Bout It](https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0) | 2:57 |
-| 46 | [Gave It All I Got](https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:33 |
-| 47 | [No More \(feat\. Travis Scott, Kodak Black & 21 Savage\)](https://open.spotify.com/track/42k9e2hgl98IdgkXLg4pxs) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 4:25 |
+| 44 | [Hit Bout It](https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Bout It](https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0) | 2:57 |
+| 45 | [I Wish](https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:45 |
+| 46 | [No More \(feat\. Travis Scott, Kodak Black & 21 Savage\)](https://open.spotify.com/track/42k9e2hgl98IdgkXLg4pxs) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 4:25 |
+| 47 | [Gave It All I Got](https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:33 |
 | 48 | [Stressed Out](https://open.spotify.com/track/77jOw64pELbZ5l0blrTia9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Stressed Out](https://open.spotify.com/album/7h5D9kukzQLLAOKJTIbDzu) | 4:03 |
 | 49 | [Get Ready \(feat\. Kodak Black\)](https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:51 |
-| 50 | [Purp](https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 4:00 |
-| 51 | [Dis Time](https://open.spotify.com/track/1urny9t2FN704XW20PyFfS) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dis Time](https://open.spotify.com/album/2lfUIRBlew1RxvUzOhmsoc) | 2:44 |
+| 50 | [SHAKA LAKA \(feat\. Kodak Black\)](https://open.spotify.com/track/39yQeL4CyuYSRcqHB0jj3T) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BLACKBALLED](https://open.spotify.com/album/045ra7EkY07W66G8CP2BjK) | 2:57 |
+| 51 | [Purp](https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 4:00 |
 
-Snapshot ID: `Zql+gAAAAAAdgZACn0h/7sCc7G7XbhHF`
+Snapshot ID: `ZqrQAAAAAACfiz8Z2QBZs6xRDEg+9HCm`

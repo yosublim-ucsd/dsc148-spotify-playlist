@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Alicia Creti
 
-489 songs - 1 day 4 hr 15 min
+490 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [20k heures de solitude](https://open.spotify.com/track/0LcesJstJfzDHrnLGagUcJ) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [20k heures de solitude](https://open.spotify.com/album/0PQmGXDqt6jH23N1VCSB3J) | 4:59 | 2024-02-09 | 2024-04-13 |
 | [27](https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [27](https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf) | 2:58 | 2022-06-10 | 2022-09-24 |
 | [5AM](https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Across The Room](https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD) | 3:26 | 2023-02-26 | 2024-03-23 |
-| [<3 <\~je\~> 3>](https://open.spotify.com/track/79g50LUtLlZSQ4RtF4lwAF) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK), [Wake Island](https://open.spotify.com/artist/0FXZWBe4MYnB5ArTU9RnXE) | [<3 <\~je\~> 3>](https://open.spotify.com/album/5MgEhsYvAMIOwnMssvVECb) | 3:03 | 2023-05-19 |  |
+| [<3 <\~je\~> 3>](https://open.spotify.com/track/79g50LUtLlZSQ4RtF4lwAF) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK), [Wake Island](https://open.spotify.com/artist/0FXZWBe4MYnB5ArTU9RnXE) | [<3 <\~je\~> 3>](https://open.spotify.com/album/5MgEhsYvAMIOwnMssvVECb) | 3:03 | 2023-05-19 | 2024-08-03 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2023-09-16 |
 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 | 2023-09-22 |  |
 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 | 2022-03-25 | 2022-11-26 |
@@ -388,6 +388,7 @@
 | [RIVIÈRE](https://open.spotify.com/track/7IPS4QVAre25NbjV9aWYsy) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [RIVIÈRE](https://open.spotify.com/album/2U8WGLMnKsFj9n8oj4myy4) | 4:22 | 2023-03-31 | 2024-04-13 |
 | [Roadkill](https://open.spotify.com/track/409Wu3XqnCwqgXV3JM175Y) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Roadkill](https://open.spotify.com/album/07MbK4v2mIQz0rYBBGUzMs) | 2:15 | 2023-12-15 |  |
 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2022-06-17 | 2022-08-27 |
+| [Romance ESL](https://open.spotify.com/track/2xN2QDZPQxJNmWHatPfjOc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Romance ESL / The Heavy Loop](https://open.spotify.com/album/2yOvmxluAqK5EaIuVcSHdk) | 3:16 | 2024-08-02 |  |
 | [Rome](https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rome](https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW) | 5:23 | 2022-04-08 | 2023-05-13 |
 | [RRSP/Grosse pièce](https://open.spotify.com/track/2MuxgalGMFkfg0rDVAyfxO) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Un homme et son piano](https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl) | 4:15 | 2022-04-01 | 2022-09-24 |
 | [Rue Dandurand \(feat\. Le Couleur\) \[Radio Edit\]](https://open.spotify.com/track/0dzcCp79Af8Zy63Jcc4KVb) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Rue Dandurand \(feat\. Le Couleur\) \[Radio Edit\]](https://open.spotify.com/album/3dj2qkPCAea8t4lX51L0cU) | 2:35 | 2024-04-19 |  |

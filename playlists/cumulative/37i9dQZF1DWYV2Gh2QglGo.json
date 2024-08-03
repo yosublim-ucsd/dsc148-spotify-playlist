@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 187594,
       "name": "Ahead of Our Time",
       "url": "https://open.spotify.com/track/3l0z706WPwEyD1i5sSjlxD"
@@ -56,6 +56,28 @@
       "duration_ms": 246398,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
+    },
+    {
+      "album": {
+        "name": "Stampede",
+        "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212168,
+      "name": "Back At Your Door",
+      "url": "https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb"
     },
     {
       "album": {
@@ -182,7 +204,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183626,
       "name": "Canadian Dirt",
       "url": "https://open.spotify.com/track/5lXSTYtTQcobQ6msc54ABz"
@@ -218,7 +240,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 142485,
       "name": "Cold Feet",
       "url": "https://open.spotify.com/track/2xMbZBV9hRc2tuIxkTiSoH"
@@ -456,7 +478,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 176952,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4pIh9QjspvYmaHU5qLWhGC"
@@ -636,7 +658,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 192409,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/6I9nTnwUOzb8hHukEoBkeH"
@@ -1207,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Race To The Bottom",
+        "url": "https://open.spotify.com/album/1Mkg0nlrfMXlApH5vlO7Up"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150549,
+      "name": "Race To The Bottom",
+      "url": "https://open.spotify.com/track/0H5DWpSg5JKBGCClsUpbeH"
+    },
+    {
+      "album": {
         "name": "Redneck Rehab",
         "url": "https://open.spotify.com/album/6uZt8YaxQqUOtHIVJjhU9D"
       },
@@ -1218,7 +1258,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 189882,
       "name": "Redneck Rehab",
       "url": "https://open.spotify.com/track/1ioW2pEBF2XlfF9GGLYJ4N"
@@ -1384,7 +1424,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 188413,
       "name": "Still Make Cowgirls",
       "url": "https://open.spotify.com/track/6vuAjHpUrOVoY2hedswbdb"

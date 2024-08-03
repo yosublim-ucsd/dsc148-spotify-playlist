@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso
 
-257 songs - 13 hr 15 min
+258 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [El Precio de Tu Error \- En Vivo](https://open.spotify.com/track/45DhsSxAU4rENWHUfaZedt) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Ayer, Hoy y Siempre \(En Vivo\)](https://open.spotify.com/album/3hoHs5feFArgYdfpEoQTqq) | 5:01 | 2022-08-12 | 2024-04-19 |
 | [El Precio de Tu Error \- En Vivo](https://open.spotify.com/track/4LbGHQLSkcDZlYpufbtJBQ) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Ayer, Hoy y Siempre \(En Vivo\)](https://open.spotify.com/album/5mab8qFRUJFw6ale18NflS) | 5:01 | 2024-04-05 |  |
 | [El Problema](https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Problema](https://open.spotify.com/album/1GnZsUWgomAWdrU6lj49lf) | 3:35 | 2022-08-12 | 2023-09-09 |
-| [El Provinciano](https://open.spotify.com/track/0Bm7IA6LFnU5KwlT3A8emi) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Provinciano](https://open.spotify.com/album/6QsYzYrVwGxP0YtqsXbjNy) | 3:08 | 2024-07-05 |  |
+| [El Provinciano](https://open.spotify.com/track/0Bm7IA6LFnU5KwlT3A8emi) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Provinciano](https://open.spotify.com/album/6QsYzYrVwGxP0YtqsXbjNy) | 3:08 | 2024-07-05 | 2024-08-03 |
 | [El Último No](https://open.spotify.com/track/0UVGcwBmQUNbsBlsZgFzDK) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 3:13 | 2022-08-12 | 2023-02-25 |
 | [El Último No](https://open.spotify.com/track/1B2SstbNJbKveGHr9vcsYZ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Último No](https://open.spotify.com/album/48ScSRTZO4kwZ5U1hEHxCr) | 3:13 | 2023-02-24 | 2023-03-04 |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-04-03 |  |
@@ -144,6 +144,7 @@
 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 | 2022-08-12 | 2024-04-19 |
 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 | 2024-04-05 |  |
 | [Me Liberé](https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Me Liberé](https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx) | 2:59 | 2023-07-28 | 2023-09-16 |
+| [Me Llamó Mi Ex \- Remix](https://open.spotify.com/track/0FcAVXegYuB0UTAQOdhBoZ) | [Dany Cardona](https://open.spotify.com/artist/3JgApvKfEl4tdErCKQEhIv), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/album/0Whs8AXifgHtgXauwndBLe) | 3:09 | 2024-08-02 |  |
 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 | 2023-04-14 | 2023-05-13 |
 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 | 2023-02-13 | 2023-09-23 |
 | [Melancolía](https://open.spotify.com/track/4lel8m8KSkmGlRYdOV6zk4) | [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv) | [Melancolía](https://open.spotify.com/album/1GZGQpmwMbtj8hty4KFkbP) | 2:37 | 2022-10-28 | 2023-01-28 |

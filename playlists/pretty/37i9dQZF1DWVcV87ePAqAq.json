@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 364015,
+  "num_followers": 363986,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Summer Dreaming",
-        "url": "https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Pure Shores",
-          "url": "https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr"
-        }
-      ],
-      "duration_ms": 182867,
-      "name": "Summer Dreaming",
-      "url": "https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Din tid kommer (Otto Knows Remix)",
         "url": "https://open.spotify.com/album/1L25xMsuDCuBcb0rJnggWr"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 286875,
       "name": "Din tid kommer - Otto Knows Remix",
       "url": "https://open.spotify.com/track/04LHuPqOMSpnHFaziPq1qO"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Summer Dreaming",
+        "url": "https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Pure Shores",
+          "url": "https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr"
+        }
+      ],
+      "duration_ms": 182867,
+      "name": "Summer Dreaming",
+      "url": "https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Vill du ligga med mig?",
-        "url": "https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3"
+        "name": "When I Wake Up",
+        "url": "https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz"
       },
       "artists": [
         {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
         }
       ],
-      "duration_ms": 142017,
-      "name": "Vill du ligga med mig?",
-      "url": "https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2"
+      "duration_ms": 143100,
+      "name": "When I Wake Up",
+      "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "When I Wake Up",
-        "url": "https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz"
+        "name": "Vill du ligga med mig?",
+        "url": "https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Skinny Days",
-          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
         }
       ],
-      "duration_ms": 143100,
-      "name": "When I Wake Up",
-      "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"
+      "duration_ms": 142017,
+      "name": "Vill du ligga med mig?",
+      "url": "https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2"
     },
     {
       "added_at": "2024-06-13 22:00:00",

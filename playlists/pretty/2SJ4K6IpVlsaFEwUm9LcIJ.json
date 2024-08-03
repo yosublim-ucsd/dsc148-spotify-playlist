@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-aug 2024 (previous playlists archived on my profile)",
-  "num_followers": 20725,
+  "num_followers": 20735,
   "original_name": "living alone",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAK1gCPqZeoComfYEWVxoah0nU3038W",
+  "snapshot_id": "AAAK12r3yTWqnm/QEq8WZLGEhmKWETpb",
   "tracks": [
     {
       "added_at": "2024-07-12 00:10:32",
@@ -639,6 +639,22 @@
       "duration_ms": 240560,
       "name": "The European Female (In Celebration Of)",
       "url": "https://open.spotify.com/track/5OCtkcIWYCJ8OTCixDREZh"
+    },
+    {
+      "added_at": "2024-08-02 01:40:21",
+      "album": {
+        "name": "Breakup Song",
+        "url": "https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1"
+      },
+      "artists": [
+        {
+          "name": "Deerhoof",
+          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+        }
+      ],
+      "duration_ms": 150959,
+      "name": "Mario's Flaming Whiskers III",
+      "url": "https://open.spotify.com/track/3Bktyrnmrdw05133ofR9Dl"
     }
   ],
   "unique_name": "living alone",

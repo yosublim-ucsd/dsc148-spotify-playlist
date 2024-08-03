@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 145802,
+  "num_followers": 145873,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADWyYixWq5Wwzeu7R7DwNLL",
+  "snapshot_id": "ZqrQAAAAAACsWrjP49v61sLLMZHjR9Cl",
   "tracks": [
     {
       "added_at": null,
@@ -347,30 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 402803,
-      "name": "Old Church Basement (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maverick City, Vol. 2",
         "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
       },
@@ -391,6 +367,30 @@
       "duration_ms": 732553,
       "name": "Refiner (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 402803,
+      "name": "Old Church Basement (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
     },
     {
       "added_at": null,
@@ -443,6 +443,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+        }
+      ],
+      "duration_ms": 542193,
+      "name": "Man of Your Word (feat. KJ Scriven)",
+      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 457548,
       "name": "Used To This (feat. Naomi Raine & Brandon Lake)",
       "url": "https://open.spotify.com/track/1d7RCdfczxJNVSgXL4Gkil"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
-        }
-      ],
-      "duration_ms": 542193,
-      "name": "Man of Your Word (feat. KJ Scriven)",
-      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
     },
     {
       "added_at": null,
@@ -543,30 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 420058,
-      "name": "Names (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 492415,
       "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 420058,
+      "name": "Names (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1"
     },
     {
       "added_at": null,
@@ -1119,26 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 2",
-        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 513188,
-      "name": "Yes & Amen",
-      "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maverick City, Vol. 2",
         "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 860000,
       "name": "Communion (feat. Steffany Gretzinger & Brandon Lake)",
       "url": "https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 513188,
+      "name": "Yes & Amen",
+      "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
     },
     {
       "added_at": null,

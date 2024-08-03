@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186905,
       "name": "ANGEL SONG (feat. David Draiman)",
       "url": "https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9"
@@ -10278,6 +10278,24 @@
       "duration_ms": 233320,
       "name": "History Books (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/621bFmNYKldPwZQExIK3VU"
+    },
+    {
+      "album": {
+        "name": "Hog Calling Contest",
+        "url": "https://open.spotify.com/album/0plf2eqTDrtPJ2f9QeW7iH"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200916,
+      "name": "Hog Calling Contest",
+      "url": "https://open.spotify.com/track/2aDXjC0A2mnqslmeDdHIVH"
     },
     {
       "album": {

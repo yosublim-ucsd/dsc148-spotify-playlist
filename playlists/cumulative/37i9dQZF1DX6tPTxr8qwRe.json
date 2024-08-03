@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Sarah Defne Gray",
+  "description": "Dark, hard hitting pop. Cover: McKenna Grace",
   "name": "SALT",
   "tracks": [
     {
@@ -3645,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/5GHzMc06bOz6aWPNBfaaXX"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Dynasty",
+      "url": "https://open.spotify.com/track/5SubmdO0aLjNlF8B1u43DE"
+    },
+    {
+      "album": {
         "name": "If I Can\u2019t Have Love, I Want Power",
         "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
       },
@@ -6490,7 +6508,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186000,
       "name": "Jump Rope",
       "url": "https://open.spotify.com/track/2HOn21FfcrL8e2QHWc9e96"
@@ -7774,7 +7792,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179730,
       "name": "Metrohead",
       "url": "https://open.spotify.com/track/5a3Gh1ibupzmJndIsbNKx5"
@@ -10839,6 +10857,24 @@
     },
     {
       "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/7IwA96mZthwarmei8ZThJF"
+      },
+      "artists": [
+        {
+          "name": "Pom Pom Squad",
+          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166375,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/0konGKeICsTN7QNanNxQ5O"
+    },
+    {
+      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -11270,10 +11306,28 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 149730,
       "name": "Sweetest Revenge",
       "url": "https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU"
+    },
+    {
+      "album": {
+        "name": "Swim Team",
+        "url": "https://open.spotify.com/album/3cXWNfufTSW2A552Wv3WAY"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191772,
+      "name": "Swim Team",
+      "url": "https://open.spotify.com/track/02bspHTO5nyWnlC57g6N2K"
     },
     {
       "album": {

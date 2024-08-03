@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,832 likes - 52 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,876 likes - 52 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 33 | [409](https://open.spotify.com/track/1gWj5OlKlZmBvtkYxluZux) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' Safari \(Remastered\)](https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB) | 2:00 |
 | 34 | [Don't Talk \(Put Your Head On My Shoulder\)](https://open.spotify.com/track/6BWZ4BPsftc9v7sUMFOAr4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:58 |
 | 35 | [All I Wanna Do \- Remastered 2009](https://open.spotify.com/track/7y9O8sJmuX7DvmyrR7h3PY) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:36 |
-| 36 | [Surfin' U.S.A\. \- 2021 Stereo Mix](https://open.spotify.com/track/5r84UnwABy2ZcG0BbYUS60) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer \(Expanded Edition Super Deluxe\)](https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8) | 2:27 |
-| 37 | [Shut Down \- Remastered 2001](https://open.spotify.com/track/3jZLwNteBDlGhgOCEgnuF2) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 1:51 |
+| 36 | [Shut Down \- Remastered 2001](https://open.spotify.com/track/3jZLwNteBDlGhgOCEgnuF2) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 1:51 |
+| 37 | [Surfin' U.S.A\. \- 2021 Stereo Mix](https://open.spotify.com/track/5r84UnwABy2ZcG0BbYUS60) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer \(Expanded Edition Super Deluxe\)](https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8) | 2:27 |
 | 38 | [I'm Waiting For The Day](https://open.spotify.com/track/56rf6DuAv3AGpLIhXVagTM) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 3:06 |
 | 39 | [You're So Good To Me \- Remastered 2001](https://open.spotify.com/track/67HRoUJMVorQPymcqdkJVA) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:16 |
 | 40 | [Rock And Roll Music \- Remastered 2012](https://open.spotify.com/track/0nmfRjxDxOhs2CggxvGPHS) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:29 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 51 | [Lady Lynda \- Remastered 2000](https://open.spotify.com/track/4wObUmV0gM20Rnahfo2FJ4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [L.A\. \(Light Album\) \[Remastered\]](https://open.spotify.com/album/48nGKNICvdcZSWHwEkIIQz) | 3:59 |
 | 52 | [Wouldn’t It Be Nice](https://open.spotify.com/track/4gySZmwNJcFvVUR0SaELUK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 3:13 |
 
-Snapshot ID: `Zql+gAAAAABqXGlEaxEG+J2wyMjkDi6q`
+Snapshot ID: `ZqrQAAAAAADWWOBAGevtfp6HMAkAmQU+`

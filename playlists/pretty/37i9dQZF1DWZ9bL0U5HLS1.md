@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 
 > Rakkautta, mitä muuta ihminen tarvitsee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,391 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,397 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 38 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
 | 39 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
 | 40 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
-| 41 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
-| 42 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
+| 41 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
+| 42 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 43 | [As Long as You Love Me](https://open.spotify.com/track/3UpS7kBnkVQYG13pDDFTC4) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:41 |
-| 44 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
-| 45 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
+| 44 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
+| 45 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
 | 46 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
 | 47 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
 | 48 | [We Belong Together](https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:21 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 65 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
 | 66 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
 | 67 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
-| 68 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 |
-| 69 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
+| 68 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
+| 69 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 |
 | 70 | [Oh, Pretty Woman](https://open.spotify.com/track/52HAHV1j93s5B8GoTNI7DJ) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Essential Roy Orbison](https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n) | 2:56 |
 
 Snapshot ID: `ZpUFQAAAAACK1SCBueZ/x6l4DrSESVYu`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,638 songs - 3 day 13 hr 16 min
+1,639 songs - 3 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-01-17 | 2022-01-21 |
 | [EH PAPA](https://open.spotify.com/track/7mTlWxWhi6wxnD2bsXWlFC) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [EH PAPA](https://open.spotify.com/album/0jcVhFdI3P2hxFpNQTvHBs) | 2:08 | 2021-05-23 | 2021-07-20 |
 | [Elo Elo](https://open.spotify.com/track/3i0kzCSbAY2kDX2xiJdRLE) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Elo Elo](https://open.spotify.com/album/0x7BDbNbdoXcFcsHrd3lft) | 1:50 | 2023-01-01 | 2023-05-14 |
+| [Elsker Dig Så Meget](https://open.spotify.com/track/4LedraX4BFROmP6SX2EC7o) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Elsker Dig Så Meget](https://open.spotify.com/album/7pH5XZrKDu2S4Ml3IYndCR) | 3:21 | 2024-08-02 |  |
 | [Emil](https://open.spotify.com/track/0cDHgTZcDMFyFV5gTqVxEv) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 2:53 | 2022-01-08 | 2024-06-28 |
 | [Emil](https://open.spotify.com/track/2a8XSO5Kv7xnYiHW4D0Iv3) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Emil](https://open.spotify.com/album/0oXDmnAgtxYwBCk3wnFTb9) | 3:03 | 2021-06-20 | 2021-09-25 |
 | [En For Alle..\. \- Remastered](https://open.spotify.com/track/7qvu3KsKhlscPpGSOPi4sE) | [Rocazino](https://open.spotify.com/artist/62ytrJr6FZ6W1boNI1Y0O3) | [Sejle Med Dig](https://open.spotify.com/album/2BISuc3bQGU3EzA7MD8rcc) | 4:01 | 2021-06-14 | 2024-07-02 |
@@ -1516,7 +1517,7 @@
 | [Two Tone](https://open.spotify.com/track/4mjueuRpNx6dfdybDK2E4n) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg), [Larry 44](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Diplomático](https://open.spotify.com/album/5QaCWC5VBE7B0VA7bbCLhZ) | 2:16 | 2021-10-10 | 2021-10-18 |
 | [Tæt På](https://open.spotify.com/track/0dzaJiaATL2UFVEZ01okt3) | [Bro](https://open.spotify.com/artist/7x82LIyCtdFKWxa4kMwdCR) | [Tæt På](https://open.spotify.com/album/1iLGZnH7rdXN4d0sCwqUAt) | 2:37 | 2021-11-14 | 2021-11-16 |
 | [tættere på solen \(feat\. Ida Laurberg\)](https://open.spotify.com/track/5qYijkAZArVXF4igb1LCqn) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:50 | 2023-09-02 | 2023-09-09 |
-| [Ud Af Hovedet \(feat\. ICEKIID\)](https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:43 | 2024-02-03 |  |
+| [Ud Af Hovedet \(feat\. ICEKIID\)](https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:43 | 2024-02-03 | 2024-08-03 |
 | [Uden Dig](https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 3:11 | 2023-05-13 | 2024-07-14 |
 | [UDENFOR](https://open.spotify.com/track/0IazVX1Kz0eSbLp4HnkYoi) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 2:34 | 2023-03-18 | 2023-03-23 |
 | [udfylder tomhed](https://open.spotify.com/track/2QVuWQhubQ6LsFtNhD4yxm) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 1:28 | 2022-10-22 | 2022-10-27 |

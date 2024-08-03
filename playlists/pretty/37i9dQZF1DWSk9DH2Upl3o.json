@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 32880,
+  "num_followers": 32901,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqkpGAAAAACCAP2o9c/za178McP6bXom",
+  "snapshot_id": "ZqxZwAAAAADTO6QShWDYYHyTmsipe1+H",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 194952,
       "name": "Marijuana Timewarp",
       "url": "https://open.spotify.com/track/6UpsSL0inheFm3dLdR6KNw"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Dangermuffin",
+        "url": "https://open.spotify.com/album/2y4DRNJCI177adj2JME16M"
+      },
+      "artists": [
+        {
+          "name": "Dangermuffin",
+          "url": "https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR"
+        }
+      ],
+      "duration_ms": 265490,
+      "name": "We Push Mountains",
+      "url": "https://open.spotify.com/track/3giJAslwDu6NiMDb45hJgs"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -59,22 +75,6 @@
       "duration_ms": 350382,
       "name": "Manipulation",
       "url": "https://open.spotify.com/track/7BTKnG9oqPnWN3kr32VQbd"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "New Sol",
-        "url": "https://open.spotify.com/album/1Jo3CNhZXWLmUzaOSYIizE"
-      },
-      "artists": [
-        {
-          "name": "Dangermuffin",
-          "url": "https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR"
-        }
-      ],
-      "duration_ms": 260178,
-      "name": "New Sol",
-      "url": "https://open.spotify.com/track/3vrivUYRw4s9cMKzJTuNhV"
     },
     {
       "added_at": "2024-06-28 04:00:00",

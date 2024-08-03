@@ -7756,14 +7756,6 @@
           "url": "https://open.spotify.com/artist/0hx1mOaLwziaJkLfXZ9CSc"
         },
         {
-          "name": "OliO",
-          "url": "https://open.spotify.com/artist/2v6bV7Uez5MobbfVPaDwCN"
-        },
-        {
-          "name": "WALTHER",
-          "url": "https://open.spotify.com/artist/4ubJTb2psOOKpUmglNcrFN"
-        },
-        {
           "name": "Akinsola",
           "url": "https://open.spotify.com/artist/43fq8YVbnAj1GkqtB9x0y0"
         },
@@ -7774,6 +7766,10 @@
         {
           "name": "Tupac Peralta",
           "url": "https://open.spotify.com/artist/7q8PRM5cQUQd7MB4halkZV"
+        },
+        {
+          "name": "OliO",
+          "url": "https://open.spotify.com/artist/2v6bV7Uez5MobbfVPaDwCN"
         }
       ],
       "date_added": "2024-08-01",
@@ -9522,6 +9518,24 @@
       "duration_ms": 238726,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2"
+    },
+    {
+      "album": {
+        "name": "Ghost of Juliet",
+        "url": "https://open.spotify.com/album/3FjDpb4bJ4OqEtLFrrErDu"
+      },
+      "artists": [
+        {
+          "name": "ANGEL xo",
+          "url": "https://open.spotify.com/artist/26lXC96qSlasvUUUkrq2Ng"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218372,
+      "name": "Ghost of Juliet",
+      "url": "https://open.spotify.com/track/5p6CAgnpeATazNozoMAbQg"
     },
     {
       "album": {
@@ -22070,6 +22084,24 @@
       "duration_ms": 209640,
       "name": "Seasons & Narcissus",
       "url": "https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv"
+    },
+    {
+      "album": {
+        "name": "Selfish (Acoustic Cover)",
+        "url": "https://open.spotify.com/album/1biSIzE28m11gR2m6hHmws"
+      },
+      "artists": [
+        {
+          "name": "Olly Jacobs",
+          "url": "https://open.spotify.com/artist/45IsQLi6A6cVq4R5ddX6OI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214111,
+      "name": "Selfish - Acoustic Cover",
+      "url": "https://open.spotify.com/track/6W6hdh9IptrLNjUjUjHvD7"
     },
     {
       "album": {

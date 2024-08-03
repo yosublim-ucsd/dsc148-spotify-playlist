@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Bloom EP",
+        "url": "https://open.spotify.com/album/0KuOmIMUvSvjresvIA4mrq"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191926,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6dB4atu4vMdEc4ZsaxRAY4"
+    },
+    {
+      "album": {
         "name": "YOU.ME.NOW",
         "url": "https://open.spotify.com/album/32ozStC7KbED7L5ez5en1n"
       },
@@ -531,6 +549,28 @@
     },
     {
       "album": {
+        "name": "Come Together (Nox Vahn & Marsh Revisit)",
+        "url": "https://open.spotify.com/album/6m0mLramcaMID73jvYf0Lx"
+      },
+      "artists": [
+        {
+          "name": "Nox Vahn",
+          "url": "https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu"
+        },
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247271,
+      "name": "Come Together - Nox Vahn & Marsh Revisit",
+      "url": "https://open.spotify.com/track/1a9ShyDtSg8KqVdfa4Kyd0"
+    },
+    {
+      "album": {
         "name": "Diamonds (Vraell's Guitar Version)",
         "url": "https://open.spotify.com/album/4SG3j1q6Yo8J8bWOIAOii4"
       },
@@ -564,7 +604,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 266694,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/19GrUQikezttWTKWGzoEik"
@@ -963,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Bloom EP",
+        "url": "https://open.spotify.com/album/0KuOmIMUvSvjresvIA4mrq"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172176,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/1m0TjF8lqIRfkasVGuiQyU"
+    },
+    {
+      "album": {
         "name": "Mimose",
         "url": "https://open.spotify.com/album/21e4O4CzRQgo5HnmCryTjZ"
       },
@@ -1160,7 +1218,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 305000,
       "name": "Inner (for Jen)",
       "url": "https://open.spotify.com/track/4VOVyIBfnrSQ2OZyISkn4g"
@@ -2128,7 +2186,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 97008,
       "name": "Smiling Through The Pain",
       "url": "https://open.spotify.com/track/2yE235IuLnmcYj9kj2TJSI"
@@ -2302,7 +2360,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 228750,
       "name": "The Things You Say",
       "url": "https://open.spotify.com/track/2ig2GJZvdhQ1WkqECsPjir"
@@ -2468,7 +2526,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 364114,
       "name": "Wind Tempos",
       "url": "https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > that Darius and Nina type love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,596,922 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,597,014 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 19 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:00 |
 | 20 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 |
 | 21 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 |
-| 22 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
-| 23 | [Spend My Life With You](https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:36 |
+| 22 | [Spend My Life With You](https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:36 |
+| 23 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
 | 24 | [Wishing on a Star](https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [In Full Bloom](https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk) | 4:51 |
 | 25 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/4FM8iY3r6cFC2g5tQnpnyM) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
 | 26 | [I Gotta Be](https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [A Jagged Era](https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB) | 3:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 47 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
 | 48 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
 | 49 | [Something in My Heart](https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX) | [Michel'le](https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j) | [Michel'le](https://open.spotify.com/album/2PngFAB0v6216314TZRcGb) | 5:53 |
-| 50 | [Funny How Time Flies \(When You're Having Fun\)](https://open.spotify.com/track/3Ru4nUidPRMnC8eBWM8DoQ) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:28 |
+| 50 | [When Can I See You](https://open.spotify.com/track/2zItQNJrVrTioXTXWiI2ed) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 3:49 |
 
 Snapshot ID: `ZIxbOAAAAABrj/gX7pWFLmUrzOFN+ZJC`

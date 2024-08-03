@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 219120,
       "name": "Katy on a Mission",
       "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
@@ -4266,6 +4266,24 @@
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255906,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy"
     },
     {
       "album": {

@@ -1091,18 +1091,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
+        "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN"
       },
       "artists": [
         {
           "name": "Omer Adam",
           "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "ShrekDiMC",
+          "url": "https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM"
         }
       ],
-      "duration_ms": 234844,
-      "name": "\u05e8\u05e7 \u05e9\u05dc\u05da",
-      "url": "https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N"
+      "duration_ms": 189000,
+      "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
+      "url": "https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1243,22 +1247,18 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
-        "url": "https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN"
+        "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
       },
       "artists": [
         {
           "name": "Omer Adam",
           "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        },
-        {
-          "name": "ShrekDiMC",
-          "url": "https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM"
         }
       ],
-      "duration_ms": 189000,
-      "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
-      "url": "https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC"
+      "duration_ms": 234844,
+      "name": "\u05e8\u05e7 \u05e9\u05dc\u05da",
+      "url": "https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N"
     },
     {
       "added_at": "2024-07-25 21:00:00",

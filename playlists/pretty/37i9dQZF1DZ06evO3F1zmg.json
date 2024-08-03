@@ -1,12 +1,12 @@
 {
-  "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 39448,
+  "description": "This is Saweetie. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 39461,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAFXGPHFVchIwWH5nkl2p2a",
+  "snapshot_id": "ZqrQAAAAAAADUHXwV8UaadDsQRQhk/Ua",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It For The Bay",
-        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 118551,
-      "name": "Do It For The Bay",
-      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 152241,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do It For The Bay",
+        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 118551,
+      "name": "Do It For The Bay",
+      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
       "duration_ms": 49242,
       "name": "High Maintenance",
       "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GPP",
-        "url": "https://open.spotify.com/album/57ClUwZ0tRUkC7QUMMFFk5"
-      },
-      "artists": [
-        {
-          "name": "Liana Banks",
-          "url": "https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 186312,
-      "name": "GPP",
-      "url": "https://open.spotify.com/track/4C0sI2YP5uj2UW0Ex676X4"
     },
     {
       "added_at": null,
@@ -1055,6 +1035,26 @@
       "duration_ms": 187761,
       "name": "My Girlfriends Are My Boyfriend (feat. Saweetie)",
       "url": "https://open.spotify.com/track/3Ge1KFkRXKJgPz3keyQWaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seesaw",
+        "url": "https://open.spotify.com/album/0fR9mr0fEAvAlLl0Ks5E0B"
+      },
+      "artists": [
+        {
+          "name": "Kendra Jae",
+          "url": "https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 224574,
+      "name": "Seesaw (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1rlASnWYQsgGz9g2YVCl6I"
     }
   ],
   "unique_name": "This Is Saweetie",

@@ -3283,6 +3283,32 @@
     },
     {
       "album": {
+        "name": "Lindos Ojos",
+        "url": "https://open.spotify.com/album/6HB0vckn7uVRysypgXWP3R"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202204,
+      "name": "Lindos Ojos",
+      "url": "https://open.spotify.com/track/0JbwPMowbtRAeN5JGMWjXB"
+    },
+    {
+      "album": {
         "name": "Lisa",
         "url": "https://open.spotify.com/album/4p1qwPSz71vkSV2qVTS0Y7"
       },
@@ -3715,6 +3741,28 @@
     },
     {
       "album": {
+        "name": "Miamimita (L\u00e9go Remix)",
+        "url": "https://open.spotify.com/album/3Taofi73l8tYNDlS1IivMR"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        },
+        {
+          "name": "L\u00e9go",
+          "url": "https://open.spotify.com/artist/7te4gB4IcHcor88UpNNIVP"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114427,
+      "name": "Miamimita - L\u00e9go Remix Edit",
+      "url": "https://open.spotify.com/track/21IFNYRAezhlPgiuqQVA9K"
+    },
+    {
+      "album": {
         "name": "Monaco EP",
         "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
       },
@@ -3854,7 +3902,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 263680,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
@@ -5654,7 +5702,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 169687,
       "name": "Una Copa M\u00e1s",
       "url": "https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d"

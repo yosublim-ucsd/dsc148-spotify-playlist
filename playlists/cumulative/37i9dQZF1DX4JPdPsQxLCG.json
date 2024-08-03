@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 266800,
       "name": "Cocaine Cowgirl",
       "url": "https://open.spotify.com/track/4MH1kOQnLpJtQghDYYHO81"
@@ -1495,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP"
+    },
+    {
+      "album": {
         "name": "Cuts Like A Knife",
         "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
@@ -1604,6 +1622,24 @@
       "duration_ms": 337600,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/4cg24ri2Qov4CiPccp7Szn"
+    },
+    {
+      "album": {
+        "name": "Darlin' Baby",
+        "url": "https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265413,
+      "name": "Darlin' Baby",
+      "url": "https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR"
     },
     {
       "album": {
@@ -1784,7 +1820,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 171130,
       "name": "DON'T LEAVE ME BEHIND (feat. Sin\u00e9ad Harnett)",
       "url": "https://open.spotify.com/track/60Tc6fPeEZIwTXcpIG5y3C"

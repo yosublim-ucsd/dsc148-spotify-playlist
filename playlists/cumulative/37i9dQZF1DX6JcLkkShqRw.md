@@ -2,9 +2,9 @@
 
 ### [Flow al Sur](https://open.spotify.com/playlist/37i9dQZF1DX6JcLkkShqRw)
 
-> Flow sudamericano con Lleflight & Gino Mella.
+> Flow sudamericano con Kidd Voodoo & Salastkbron,
 
-1,353 songs - 2 day 21 hr 14 min
+1,356 songs - 2 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [GIVENCHY](https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 3:02 | 2022-09-09 | 2024-03-09 |
 | [Glocko](https://open.spotify.com/track/0zvrARWIZQD5M4WWH8mhsX) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Izahn](https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk) | [Glocko](https://open.spotify.com/album/7sBFofbqWdbYEe5SDv7X1b) | 3:12 | 2023-03-07 | 2023-09-30 |
 | [Glopeta Negro Mate](https://open.spotify.com/track/66Yu3bkomkikDlnYaT2Hkb) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Glopeta Negro Mate](https://open.spotify.com/album/6y2ienRWYtxjOr39PrgcK5) | 2:35 | 2024-03-08 | 2024-03-16 |
+| [GOAT](https://open.spotify.com/track/6jdmP2pVIN5MXZ1G7GPiCN) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Ahora es Religión](https://open.spotify.com/album/202mSKQoBuHqKMtm2X1qDo) | 2:54 | 2024-08-02 |  |
 | [GOTIKA](https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [GOTIKA](https://open.spotify.com/album/0MMzgwHbf5tzu5NLqTEof0) | 3:02 | 2022-01-03 | 2022-04-29 |
 | [GRADOS](https://open.spotify.com/track/6zNXqoAftkakvPKF95Ov8Q) | [Dimelo Yepo](https://open.spotify.com/artist/6Ow7CkDp2FoHmZ1ZDHiZF7), [Fran Mera](https://open.spotify.com/artist/78DhM8HSDph7IAi9CZAIfw) | [GRADOS](https://open.spotify.com/album/4nbvIEfzJk1BUwfgGuMNDE) | 3:07 | 2021-12-27 | 2022-03-26 |
 | [GTA](https://open.spotify.com/track/3sPTwhv0Pqrzmq6kvRIaQY) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6) | [GTA](https://open.spotify.com/album/2siwW2nCboPZb1gGlcRRJJ) | 2:28 | 2024-07-12 | 2024-07-27 |
@@ -843,6 +844,7 @@
 | [Neptuno](https://open.spotify.com/track/3ppHxC0Hz4IC4JIZWUV0g6) | [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [7Malva](https://open.spotify.com/artist/6FBjQiVLU10fXf8Ds3KDOb), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Neptuno](https://open.spotify.com/album/4M3ZXKqBJimQZ0BvqXvppt) | 2:34 | 2021-12-27 | 2022-04-03 |
 | [New York](https://open.spotify.com/track/4dJmVKgYJGSnRRb1jPFiq4) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [New York](https://open.spotify.com/album/1SgLR8t1oBjhK7yoqgMBiE) | 3:58 | 2022-01-03 | 2022-04-03 |
 | [Nexus](https://open.spotify.com/track/7zXQyhKHyNb2vKXESgZxSK) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Nexus](https://open.spotify.com/album/2HDdAJMEazPGuWs32sJWYq) | 2:25 | 2022-01-03 | 2022-04-04 |
+| [NI FU NI FA](https://open.spotify.com/track/3CjHuwjNHZJh0r751TNKNL) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Ivo Wosco](https://open.spotify.com/artist/3QArVFjHI7TaOuEgyjcoYe), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [NI FU NI FA](https://open.spotify.com/album/7LrpGK5sauRqPtevvXz4In) | 2:22 | 2024-08-02 |  |
 | [Ni Lo Pensemos](https://open.spotify.com/track/47WiORtatRcT5lI6EokFXe) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Ni Lo Pensemos](https://open.spotify.com/album/3LlG3zOCDmuSGii7KdnHZu) | 2:35 | 2022-01-14 | 2022-04-07 |
 | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/track/03LfOYi0icz4souspZVVhq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD) | 2:38 | 2021-12-27 | 2022-05-11 |
 | [NIGHT](https://open.spotify.com/track/3WYDHx5ZdIQ5CbptHDlASI) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:44 | 2024-05-24 | 2024-07-06 |
@@ -873,6 +875,7 @@
 | [No Soy Cualquier Ex](https://open.spotify.com/track/25vSSr6p4EMxgmcjQhP2rh) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [No Soy Cualquier Ex](https://open.spotify.com/album/41uKThpB0MdAR7Xm78ofML) | 2:30 | 2023-07-14 | 2023-10-14 |
 | [No Te Alcanzo](https://open.spotify.com/track/5RoLoGYn9eMfk1tiTiKaDJ) | [Chiki Wanted](https://open.spotify.com/artist/33jFO9W9LzOFYLwdPcs97O) | [No Te Alcanzo](https://open.spotify.com/album/2eOkaC7gInqfbSAi39NvEc) | 2:14 | 2022-01-03 | 2022-03-07 |
 | [No Te Equivoques](https://open.spotify.com/track/3KpXVseBptsZ2yyyEbczNQ) | [LUVA](https://open.spotify.com/artist/1mXGTF1Ouxl3CHP5h0lWat) | [No Te Equivoques](https://open.spotify.com/album/0kGyY4dcr3rAHwn8MuLl4h) | 2:52 | 2022-01-03 | 2022-04-09 |
+| [NO TE VAYAS](https://open.spotify.com/track/6VWCiFf85ccZrZps6UpVZK) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [NO TE VAYAS](https://open.spotify.com/album/78Q6LfkT1dmeXXMJTlaRKU) | 3:16 | 2024-08-02 |  |
 | [No Tiene Sentido](https://open.spotify.com/track/6qTfLcLXzymtYrfSRptEhf) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [No Tiene Sentido](https://open.spotify.com/album/3ZGtjPuGFi585P7tMgyNBI) | 2:26 | 2022-02-04 | 2022-04-04 |
 | [No Toque Mi Naik](https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [No Toque Mi Naik](https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu) | 2:23 | 2021-12-27 | 2022-05-11 |
 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 | 2023-03-10 | 2023-09-30 |

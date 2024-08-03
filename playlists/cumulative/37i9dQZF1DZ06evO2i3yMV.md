@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-123 songs - 6 hr 56 min
+124 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Put It Down](https://open.spotify.com/track/0xGgaX21ytUiJu1nIgdYpa) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:03 | 2023-05-02 | 2024-02-08 |
 | [Realla](https://open.spotify.com/track/34x4a9pz1wr6kDvwNuVUoI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Desiderium](https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh) | 3:30 | 2024-02-06 |  |
 | [Realla](https://open.spotify.com/track/5mzoBYJM5WKAMQEOHpcgsx) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:30 | 2023-05-02 | 2024-02-07 |
+| [Remind U \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI) | [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Real Life](https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI) | 2:48 | 2024-08-03 |  |
 | [Renter's Anthem](https://open.spotify.com/track/1xqUV7b5I7gdaINGhSO8CM) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:58 | 2023-05-12 | 2024-01-06 |
 | [Renter's Anthem](https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:58 | 2024-02-06 |  |
 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 | 2023-05-02 | 2024-02-07 |
@@ -124,7 +125,7 @@
 | [Switch It](https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Switch It](https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU) | 3:03 | 2024-06-15 |  |
 | [The Beginning](https://open.spotify.com/track/0eVOAnzGXpbboig0AtjvrA) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 1:41 | 2023-05-02 | 2024-02-12 |
 | [The Beginning](https://open.spotify.com/track/5XRYpfQZnOPUx4fNhmEzMm) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh) | 1:41 | 2024-02-11 |  |
-| [The Ghost Burns \(TOKiMONSTA Remix\)](https://open.spotify.com/track/1heTHqqur0LBIZuQzuUTSV) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [The Ghost Burns \(TOKiMONSTA Remix\)](https://open.spotify.com/album/6mHwNoULGKR4jaxRWUcUfB) | 3:59 | 2024-03-15 |  |
+| [The Ghost Burns \(TOKiMONSTA Remix\)](https://open.spotify.com/track/1heTHqqur0LBIZuQzuUTSV) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [The Ghost Burns \(TOKiMONSTA Remix\)](https://open.spotify.com/album/6mHwNoULGKR4jaxRWUcUfB) | 3:59 | 2024-03-15 | 2024-08-03 |
 | [Time To](https://open.spotify.com/track/1uJZNnSaILpgIWks1zYFKW) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Time To / Conversion Theory](https://open.spotify.com/album/0dXSyC5EkDgf2QKICe0etz) | 3:02 | 2023-12-13 | 2024-03-21 |
 | [Time To](https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:02 | 2024-03-20 |  |
 | [Up and Out](https://open.spotify.com/track/2URXBdx9353u9BxBHQoD7K) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:40 | 2023-05-02 | 2024-02-06 |

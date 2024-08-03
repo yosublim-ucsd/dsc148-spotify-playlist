@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 
 > Bonitas, orgullosas y empoderadas 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,669 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,759 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 24 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 |
 | 25 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
 | 26 | [Víveme](https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Escucha](https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL) | 3:56 |
-| 27 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
-| 28 | [No Querías Lastimarme](https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:44 |
+| 27 | [No Querías Lastimarme](https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:44 |
+| 28 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
 | 29 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
 | 30 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
 | 31 | [Morena mía](https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Sereno](https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv) | 4:51 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 40 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
 | 41 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
 | 42 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
-| 43 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 |
-| 44 | [Tan Enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
-| 45 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
+| 43 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
+| 44 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 |
+| 45 | [Tan Enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
 | 46 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
 | 47 | [Lo Busqué](https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Loca De Amar](https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3) | 4:35 |
 | 48 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 57 | [A quien tú decidiste amar](https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Lo Que Siempre Soñamos Ser](https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx) | 3:49 |
 | 58 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
 | 59 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
-| 60 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
-| 61 | [Para Amarnos Más](https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [21 Black Jack](https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR) | 3:26 |
+| 60 | [Para Amarnos Más](https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [21 Black Jack](https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR) | 3:26 |
+| 61 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
 | 62 | [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Orgullo De Mujer](https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3) | 4:03 |
 | 63 | [Me equivoqué](https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José](https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M) | 3:59 |
 | 64 | [La mujer que bota fuego \(feat\. Natalia Jiménez\)](https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [La mujer que bota fuego \(feat\. Natalia Jiménez\)](https://open.spotify.com/album/78LoJthaoIuMaRNZGduMdh) | 4:04 |

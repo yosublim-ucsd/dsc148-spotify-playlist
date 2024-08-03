@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw">Jo Black</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,352 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,374 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 14 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 |
 | 15 | [Gee My Jou Alles](https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Gee My Jou Alles](https://open.spotify.com/album/1ouy7jZD8agQJ2KFSMLoLD) | 3:32 |
 | 16 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
-| 17 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
-| 18 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
+| 17 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
+| 18 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 19 | [Paaie X](https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud) | [Aidan Kade](https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr) | [Paaie X](https://open.spotify.com/album/73m7S12HvQ1IArvaYy2lbO) | 3:05 |
 | 20 | [Terapie Vir Nou](https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Terapie Vir Nou](https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN) | 3:38 |
 | 21 | [Cloetesville](https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Lente](https://open.spotify.com/album/0npVagHg875j2gbr4CAvzS) | 2:59 |
 | 22 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 23 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 |
 | 24 | [Hoop \(In Die Donker\)](https://open.spotify.com/track/0rewZ2OgrKpqifSqioVWs8) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf) | [Hoop \(In Die Donker\)](https://open.spotify.com/album/4z2lEEAcjmXoZR5CpQ0T5W) | 2:57 |
-| 25 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
-| 26 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
+| 25 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
+| 26 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
 | 27 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 28 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 29 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 32 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
 | 33 | [VRY WIL ONS WEES](https://open.spotify.com/track/1QQVztQfIgz8Yfp8sttEtY) | [Jonah](https://open.spotify.com/artist/1cyng9F206AdhCPdiBueLk) | [VRY WIL ONS WEES](https://open.spotify.com/album/5g2Hb6znFRVOa8XUhVx4Uo) | 2:59 |
 | 34 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
-| 35 | [Voel Jy Dit?](https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Voel Jy Dit?](https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7) | 2:51 |
+| 35 | [Burn Out](https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY) | [Pony Jones](https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2) | [One](https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e) | 2:41 |
 | 36 | [Joune](https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [Joune](https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db) | 2:54 |
-| 37 | [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 |
-| 38 | [Burn Out](https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY) | [Pony Jones](https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2) | [One](https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e) | 2:41 |
-| 39 | [Medikasie](https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p) | [DEJA VU](https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ) | [Medikasie](https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23) | 3:46 |
+| 37 | [Hoogtyd](https://open.spotify.com/track/53EswYQ2pvFULtB93JbgBS) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv) | [Hoogtyd](https://open.spotify.com/album/3wkMmzlLUUDWNQHT507Lyv) | 3:32 |
+| 38 | [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 |
+| 39 | [Voel Jy Dit?](https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Voel Jy Dit?](https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7) | 2:51 |
 | 40 | [Like You Madly](https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9) | [Just Jinger](https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo) | [All Comes Round 20th Anniversary Edition](https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X) | 3:36 |
-| 41 | [Hoogtyd](https://open.spotify.com/track/53EswYQ2pvFULtB93JbgBS) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv) | [Hoogtyd](https://open.spotify.com/album/3wkMmzlLUUDWNQHT507Lyv) | 3:32 |
+| 41 | [Medikasie](https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p) | [DEJA VU](https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ) | [Medikasie](https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23) | 3:46 |
 | 42 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
 | 43 | [Altyd Daar](https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Altyd Daar](https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab) | 4:15 |
 | 44 | [Twisted](https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Long Live Tonight](https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo) | 4:04 |

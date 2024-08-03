@@ -1,12 +1,12 @@
 {
   "description": "The home of Canadian country music. Cover: Cameron Whitcomb",
-  "num_followers": 78657,
+  "num_followers": 78656,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqN1gwAAAAA7HZF/n4fKlK7lbY72UD3c",
+  "snapshot_id": "ZqxZwAAAAAAf/ZSZFcjMf+7S+TwivaRz",
   "tracks": [
     {
       "added_at": "2024-07-26 10:08:03",
@@ -23,6 +23,26 @@
       "duration_ms": 161285,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Stampede",
+        "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 212168,
+      "name": "Back At Your Door",
+      "url": "https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -43,26 +63,6 @@
       "duration_ms": 148274,
       "name": "Boots Don't (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
-        "name": "Want This Beer (Feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 159784,
-      "name": "Want This Beer (Feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -99,18 +99,70 @@
     {
       "added_at": "2024-07-26 10:08:03",
       "album": {
-        "name": "Westerly",
-        "url": "https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj"
+        "name": "Let Your Horses Run",
+        "url": "https://open.spotify.com/album/53xzDPqP7H6wVce4Y4Uyrd"
       },
       "artists": [
         {
-          "name": "The Washboard Union",
-          "url": "https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k"
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
         }
       ],
-      "duration_ms": 193586,
-      "name": "New Paint",
-      "url": "https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu"
+      "duration_ms": 179986,
+      "name": "Let Your Horses Run",
+      "url": "https://open.spotify.com/track/7jnYERjueuBLWWu445HcVz"
+    },
+    {
+      "added_at": "2024-07-26 10:08:03",
+      "album": {
+        "name": "Blinding Lights (Country Version)",
+        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Blinding Lights - Country Version",
+      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Race To The Bottom",
+        "url": "https://open.spotify.com/album/1Mkg0nlrfMXlApH5vlO7Up"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        }
+      ],
+      "duration_ms": 150549,
+      "name": "Race To The Bottom",
+      "url": "https://open.spotify.com/track/0H5DWpSg5JKBGCClsUpbeH"
+    },
+    {
+      "added_at": "2024-07-26 10:08:03",
+      "album": {
+        "name": "Want This Beer (Feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 159784,
+      "name": "Want This Beer (Feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -135,22 +187,6 @@
     {
       "added_at": "2024-07-26 10:08:03",
       "album": {
-        "name": "Blinding Lights (Country Version)",
-        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Blinding Lights - Country Version",
-      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
       },
@@ -171,34 +207,18 @@
     {
       "added_at": "2024-07-26 10:08:03",
       "album": {
-        "name": "Sendin' Myself to Church",
-        "url": "https://open.spotify.com/album/6Dgggkmp0F1a7PtBfJy9L5"
+        "name": "Hey Mom I Made It",
+        "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
       },
       "artists": [
         {
-          "name": "Taylor-Rae",
-          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
         }
       ],
-      "duration_ms": 181556,
-      "name": "Sendin' Myself to Church",
-      "url": "https://open.spotify.com/track/4YKzfCmtKEWUWB91OpjSe5"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
-        "name": "Let Your Horses Run",
-        "url": "https://open.spotify.com/album/53xzDPqP7H6wVce4Y4Uyrd"
-      },
-      "artists": [
-        {
-          "name": "Brett Kissel",
-          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Let Your Horses Run",
-      "url": "https://open.spotify.com/track/7jnYERjueuBLWWu445HcVz"
+      "duration_ms": 169448,
+      "name": "Hey Mom I Made It",
+      "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -227,50 +247,18 @@
     {
       "added_at": "2024-07-26 10:08:03",
       "album": {
-        "name": "Hey Mom I Made It",
-        "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
+        "name": "A Real Man",
+        "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
       },
       "artists": [
         {
-          "name": "Sacha",
-          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
         }
       ],
-      "duration_ms": 169448,
-      "name": "Hey Mom I Made It",
-      "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
-        "name": "Never Leave",
-        "url": "https://open.spotify.com/album/2jizXHiMa2KOpVBU7Er4G1"
-      },
-      "artists": [
-        {
-          "name": "Chase Heaslip",
-          "url": "https://open.spotify.com/artist/7LahLe2apuPLTIbZxOHASr"
-        }
-      ],
-      "duration_ms": 213269,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
-        "name": "Comeback Kid",
-        "url": "https://open.spotify.com/album/2aNaTXajKGYdbTVL5cPAQT"
-      },
-      "artists": [
-        {
-          "name": "VAVO",
-          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
-        }
-      ],
-      "duration_ms": 207316,
-      "name": "Comeback Kid",
-      "url": "https://open.spotify.com/track/3Apdb4wCwGOgF1nxGBg8Z7"
+      "duration_ms": 221640,
+      "name": "A Real Man",
+      "url": "https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -295,18 +283,50 @@
     {
       "added_at": "2024-07-26 10:08:03",
       "album": {
-        "name": "A Real Man",
-        "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
+        "name": "Pure Country",
+        "url": "https://open.spotify.com/album/1gZUQCyi5B18HGD0qbTSX8"
       },
       "artists": [
         {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
         }
       ],
-      "duration_ms": 221640,
-      "name": "A Real Man",
-      "url": "https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7"
+      "duration_ms": 171622,
+      "name": "Pure Country",
+      "url": "https://open.spotify.com/track/5O2AKa1H96ZhGihPTpWiUT"
+    },
+    {
+      "added_at": "2024-07-26 10:08:03",
+      "album": {
+        "name": "Comeback Kid",
+        "url": "https://open.spotify.com/album/2aNaTXajKGYdbTVL5cPAQT"
+      },
+      "artists": [
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        }
+      ],
+      "duration_ms": 207316,
+      "name": "Comeback Kid",
+      "url": "https://open.spotify.com/track/3Apdb4wCwGOgF1nxGBg8Z7"
+    },
+    {
+      "added_at": "2024-07-26 10:08:03",
+      "album": {
+        "name": "Westerly",
+        "url": "https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj"
+      },
+      "artists": [
+        {
+          "name": "The Washboard Union",
+          "url": "https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k"
+        }
+      ],
+      "duration_ms": 193586,
+      "name": "New Paint",
+      "url": "https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -323,6 +343,22 @@
       "duration_ms": 173203,
       "name": "New Me",
       "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
+    },
+    {
+      "added_at": "2024-07-26 10:08:03",
+      "album": {
+        "name": "Never Leave",
+        "url": "https://open.spotify.com/album/2jizXHiMa2KOpVBU7Er4G1"
+      },
+      "artists": [
+        {
+          "name": "Chase Heaslip",
+          "url": "https://open.spotify.com/artist/7LahLe2apuPLTIbZxOHASr"
+        }
+      ],
+      "duration_ms": 213269,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -375,22 +411,6 @@
       "duration_ms": 195302,
       "name": "Poor, Poor Pitiful Me",
       "url": "https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
-        "name": "Cold Feet",
-        "url": "https://open.spotify.com/album/4SxOxJntqDiiHZFPcqEmGQ"
-      },
-      "artists": [
-        {
-          "name": "Ollie",
-          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
-        }
-      ],
-      "duration_ms": 142485,
-      "name": "Cold Feet",
-      "url": "https://open.spotify.com/track/2xMbZBV9hRc2tuIxkTiSoH"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -463,22 +483,6 @@
     {
       "added_at": "2024-07-26 10:08:03",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/08jNvTGmw8wnDxIYqgYHx3"
-      },
-      "artists": [
-        {
-          "name": "Nate Haller",
-          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
-        }
-      ],
-      "duration_ms": 176952,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/4pIh9QjspvYmaHU5qLWhGC"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
         "name": "From A to B",
         "url": "https://open.spotify.com/album/02yEzzqbzv7JgrZPqQcKiF"
       },
@@ -507,6 +511,42 @@
       "duration_ms": 238049,
       "name": "Nobody Dies Anymore",
       "url": "https://open.spotify.com/track/78xIX4Kt6miLXt3uMzez9W"
+    },
+    {
+      "added_at": "2024-07-26 10:08:03",
+      "album": {
+        "name": "Broken Man",
+        "url": "https://open.spotify.com/album/08zJ8SCzKgWaRPI7Jguvug"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/5JlE9BmDHmUq5Ghy2j6rBg"
+    },
+    {
+      "added_at": "2024-07-26 10:08:03",
+      "album": {
+        "name": "Your Mama Would Hate Me",
+        "url": "https://open.spotify.com/album/4Z7SxkeZHMsO555QCGADwk"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        },
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 173018,
+      "name": "Your Mama Would Hate Me",
+      "url": "https://open.spotify.com/track/375dfgV3eOlNGGtPXrorXG"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -559,6 +599,22 @@
     {
       "added_at": "2024-07-26 10:08:03",
       "album": {
+        "name": "Sendin' Myself to Church",
+        "url": "https://open.spotify.com/album/6Dgggkmp0F1a7PtBfJy9L5"
+      },
+      "artists": [
+        {
+          "name": "Taylor-Rae",
+          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+        }
+      ],
+      "duration_ms": 181556,
+      "name": "Sendin' Myself to Church",
+      "url": "https://open.spotify.com/track/4YKzfCmtKEWUWB91OpjSe5"
+    },
+    {
+      "added_at": "2024-07-26 10:08:03",
+      "album": {
         "name": "Whiskey Bottle",
         "url": "https://open.spotify.com/album/4oBfh4vaQsqsizHoX0uP4e"
       },
@@ -571,38 +627,6 @@
       "duration_ms": 178858,
       "name": "Whiskey Bottle",
       "url": "https://open.spotify.com/track/1oopyVZOYfVijlYX6PFBUX"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
-        "name": "Pure Country",
-        "url": "https://open.spotify.com/album/1gZUQCyi5B18HGD0qbTSX8"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        }
-      ],
-      "duration_ms": 171622,
-      "name": "Pure Country",
-      "url": "https://open.spotify.com/track/5O2AKa1H96ZhGihPTpWiUT"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
-        "name": "Broken Man",
-        "url": "https://open.spotify.com/album/08zJ8SCzKgWaRPI7Jguvug"
-      },
-      "artists": [
-        {
-          "name": "Tyler Joe Miller",
-          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Broken Man",
-      "url": "https://open.spotify.com/track/5JlE9BmDHmUq5Ghy2j6rBg"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -803,26 +827,6 @@
       "duration_ms": 172929,
       "name": "How Far Will We Take It?",
       "url": "https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
-        "name": "Your Mama Would Hate Me",
-        "url": "https://open.spotify.com/album/4Z7SxkeZHMsO555QCGADwk"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        },
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 173018,
-      "name": "Your Mama Would Hate Me",
-      "url": "https://open.spotify.com/track/375dfgV3eOlNGGtPXrorXG"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -1123,22 +1127,6 @@
     {
       "added_at": "2024-07-26 10:08:03",
       "album": {
-        "name": "Fire It Up",
-        "url": "https://open.spotify.com/album/5UfiHSXHhrLNZ5ZTFGsawT"
-      },
-      "artists": [
-        {
-          "name": "Gord Bamford",
-          "url": "https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Canadian Dirt",
-      "url": "https://open.spotify.com/track/5lXSTYtTQcobQ6msc54ABz"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/5XIsumyPFxk44Y4MXu5edY"
       },
@@ -1151,22 +1139,6 @@
       "duration_ms": 183880,
       "name": "Go Get Er",
       "url": "https://open.spotify.com/track/3InbmgnbaVKkrI3mBMrnBq"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
-        "name": "Still Make Cowgirls",
-        "url": "https://open.spotify.com/album/7tYoO5Hw7GbyYXXofPIWi5"
-      },
-      "artists": [
-        {
-          "name": "Karli June",
-          "url": "https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "Still Make Cowgirls",
-      "url": "https://open.spotify.com/track/6vuAjHpUrOVoY2hedswbdb"
     },
     {
       "added_at": "2024-07-26 10:08:03",
@@ -1187,22 +1159,6 @@
     {
       "added_at": "2024-07-26 10:08:03",
       "album": {
-        "name": "Here To Stay",
-        "url": "https://open.spotify.com/album/5jm0SNnhwVAVpOp7AIvCWN"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 192409,
-      "name": "Here To Stay",
-      "url": "https://open.spotify.com/track/6I9nTnwUOzb8hHukEoBkeH"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
         "name": "Written All Over It",
         "url": "https://open.spotify.com/album/77aqU7xpaxrWB1KsLzlZEJ"
       },
@@ -1219,22 +1175,6 @@
     {
       "added_at": "2024-07-26 10:08:03",
       "album": {
-        "name": "Redneck Rehab",
-        "url": "https://open.spotify.com/album/6uZt8YaxQqUOtHIVJjhU9D"
-      },
-      "artists": [
-        {
-          "name": "Corb Lund",
-          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
-        }
-      ],
-      "duration_ms": 189882,
-      "name": "Redneck Rehab",
-      "url": "https://open.spotify.com/track/1ioW2pEBF2XlfF9GGLYJ4N"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
         "name": "Pink Collar",
         "url": "https://open.spotify.com/album/2TYlIzR4WVAojASFTiMaaR"
       },
@@ -1247,22 +1187,6 @@
       "duration_ms": 192440,
       "name": "Pink Collar",
       "url": "https://open.spotify.com/track/6JB3Sbopc83XEUrDAONUSh"
-    },
-    {
-      "added_at": "2024-07-26 10:08:03",
-      "album": {
-        "name": "Ahead Of Our Time",
-        "url": "https://open.spotify.com/album/2RFEvvzKbTk5hvSG1gJW6J"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 187594,
-      "name": "Ahead of Our Time",
-      "url": "https://open.spotify.com/track/3l0z706WPwEyD1i5sSjlxD"
     }
   ],
   "unique_name": "North Country",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 
 > For those who like to party hard!
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,723 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,930 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 12 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 |
 | 13 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 |
 | 14 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 |
-| 15 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
-| 16 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 |
+| 15 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 |
+| 16 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 17 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
 | 18 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
 | 19 | [Radio](https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:37 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 53 | [Die To Live](https://open.spotify.com/track/7u9r4j7KSMW5yLsgjLRZGZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT), [Neil Fallon](https://open.spotify.com/artist/1PvBXGOTvO3zrbDtL5mKEB) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 3:02 |
 | 54 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 |
 | 55 | [That's My Jam](https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:16 |
-| 56 | [Party in My Head](https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Party in My Head](https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp) | 3:08 |
-| 57 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 |
+| 56 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 |
+| 57 | [Party in My Head](https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Party in My Head](https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp) | 3:08 |
 | 58 | [Halo](https://open.spotify.com/track/0rlPOzWbNVui2ABuI5OFhL) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars](https://open.spotify.com/album/2h9pGOK3WpnKM6sJjILl5E) | 3:15 |
 | 59 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 |
 | 60 | [Shot In The Dark](https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Shot In The Dark](https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB) | 3:05 |

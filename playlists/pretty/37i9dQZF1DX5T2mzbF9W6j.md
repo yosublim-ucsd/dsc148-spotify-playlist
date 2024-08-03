@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,687 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,688 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 24 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 25 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 |
 | 26 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 |
-| 27 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
-| 28 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
+| 27 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
+| 28 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
 | 29 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 |
 | 30 | [WHY DO YOU HATE ME?](https://open.spotify.com/track/4zuEIiREfhd0nWrWKUkwmz) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [WHY DO YOU HATE ME?](https://open.spotify.com/album/1JUucwGCSxaYw87tnPXtSy) | 2:12 |
 | 31 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 52 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
 | 53 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 |
 | 54 | [KEEP IT UP](https://open.spotify.com/track/6x5GkDddrOaBTmX55yU12Y) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [KEEP IT UP](https://open.spotify.com/album/05WGAVWDAoG8uoyCSee8IQ) | 2:46 |
-| 55 | [Sacrifice Tomorrow](https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Sacrifice Tomorrow](https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu) | 2:25 |
-| 56 | [Va Banque](https://open.spotify.com/track/6Y9ji63BDB0OxG5K06xyNL) | [Julia Żugaj](https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1), [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Va Banque](https://open.spotify.com/album/2zZQCmGDsZGyG6u3w6b31m) | 2:58 |
+| 55 | [Va Banque](https://open.spotify.com/track/6Y9ji63BDB0OxG5K06xyNL) | [Julia Żugaj](https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1), [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Va Banque](https://open.spotify.com/album/2zZQCmGDsZGyG6u3w6b31m) | 2:58 |
+| 56 | [Sacrifice Tomorrow](https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Sacrifice Tomorrow](https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu) | 2:25 |
 | 57 | [Śrubka](https://open.spotify.com/track/42HCLyg66bqYWCPU3wqyMS) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Śrubka](https://open.spotify.com/album/2i4XVKYPGzTpFiesqiGpDj) | 4:10 |
 | 58 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 |
 | 59 | [Myślę sobie, Ż](https://open.spotify.com/track/3HmXpWEdyrczsUgbUAd3qe) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Myślę sobie, Ż](https://open.spotify.com/album/7v0o8LcqjbGCprYoKg2ptg) | 2:50 |

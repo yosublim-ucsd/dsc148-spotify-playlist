@@ -10887,6 +10887,24 @@
     },
     {
       "album": {
+        "name": "Grieving",
+        "url": "https://open.spotify.com/album/4C3JSLCk8UVhA1kUtjdU2k"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259466,
+      "name": "Grieving",
+      "url": "https://open.spotify.com/track/6g35sGpaj86cez2KwB4BNn"
+    },
+    {
+      "album": {
         "name": "Grow Out Of It",
         "url": "https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7"
       },
@@ -11744,6 +11762,24 @@
       "duration_ms": 190652,
       "name": "Heather - Spotify Singles",
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
       "album": {
@@ -13714,6 +13750,24 @@
       "duration_ms": 206904,
       "name": "I Wanna Live Forever",
       "url": "https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg"
+    },
+    {
+      "album": {
+        "name": "I Wanna Love You (But I Don't) / I hope you die first",
+        "url": "https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257790,
+      "name": "I Wanna Love You (But I Don't)",
+      "url": "https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc"
     },
     {
       "album": {
@@ -22234,7 +22288,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 194262,
       "name": "Really Mean It",
       "url": "https://open.spotify.com/track/4vhC4RETf50LkuIAHMqb1f"
@@ -23884,7 +23938,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 133974,
       "name": "SHOW ME OUT",
       "url": "https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG"
@@ -27022,7 +27076,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain](/playlists/plain/37i9dQZF1DWWNDEz8jM1rl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWNDEz8jM1rl)
 
-### [Baila Con Dios](https://open.spotify.com/playlist/37i9dQZF1DWWNDEz8jM1rl)
+### [Fiesta Cristiana](https://open.spotify.com/playlist/37i9dQZF1DWWNDEz8jM1rl)
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,499 likes - 52 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,521 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 28 | [Armonía](https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Armonía](https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u) | 2:55 |
 | 29 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
 | 30 | [Mmm](https://open.spotify.com/track/1p5lFrpK7PzRe7WbY2Fx9K) | [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF), [Eliecer Cuevas](https://open.spotify.com/artist/3ACZ4Y0vSKbzdPJuir3ReB) | [Mmm](https://open.spotify.com/album/0OljsmkqrW9jqaRD6ZF6dW) | 2:22 |
-| 31 | [BUENO](https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8) | [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Isaani Martínez](https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk) | [BUENO](https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG) | 2:48 |
-| 32 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
-| 33 | [Sin Ti No Me Imagino](https://open.spotify.com/track/4VjHP3HrCj4CHqkdA7g9n0) | [Propiedad De Dios](https://open.spotify.com/artist/4sx4kT4GCXYSw6Cs8Bf9t4) | [Sin Ti No Me Imagino](https://open.spotify.com/album/7qtn1EGKZa8qtumLco1RPN) | 2:17 |
-| 34 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
-| 35 | [El Barrio Lo Sabe](https://open.spotify.com/track/28ipH3Dx4sRCPPoJhAkJpZ) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [Favor Y Gracia](https://open.spotify.com/album/6b7gWqXYZNO2MIwCBQ0ZZd) | 3:41 |
-| 36 | [Primero Los Del Fondo](https://open.spotify.com/track/2RdKJEe61PLGBM18wzxl4i) | [Maxi Larghi](https://open.spotify.com/artist/6jXQYWM55xKpAFPAYZcryE), [Andrés Castellano RPR](https://open.spotify.com/artist/3RESoEHIMMDVnKeowXjmMq) | [Primero Los Del Fondo](https://open.spotify.com/album/1FVgv6Ivv7h5JPboFDCsTx) | 4:34 |
-| 37 | [Kairos](https://open.spotify.com/track/4bgIX9ArskZt5Eh5xPY5Xm) | [Ismael Telfort](https://open.spotify.com/artist/3FbP9X2FOcBNsClb8P7jXt), [Beats byNath](https://open.spotify.com/artist/2EHRtL8rbEUphPKUMNKuYm) | [Kairos](https://open.spotify.com/album/3boud0HVRNNRewo5dkLryZ) | 3:09 |
+| 31 | [Mi Clan](https://open.spotify.com/track/2fQp2ojcVpIdiBiG6LRn6H) | [kingdom Family](https://open.spotify.com/artist/0qIFlbiePk9sh7nZlcSykq), [Charly Bless](https://open.spotify.com/artist/6Zc5r0thqRJzdnZ0iHFud7), [Dahian](https://open.spotify.com/artist/0JXLW9IZFC0EO7JE75Rchh), [AREVIR](https://open.spotify.com/artist/35fCQ3fpDZ0ITZ4Uv2s1bb) | [Mi Clan](https://open.spotify.com/album/52XTjzKG4VJFs1Mn0VRBRo) | 2:59 |
+| 32 | [BUENO](https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8) | [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Isaani Martínez](https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk) | [BUENO](https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG) | 2:48 |
+| 33 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
+| 34 | [Sin Ti No Me Imagino](https://open.spotify.com/track/4VjHP3HrCj4CHqkdA7g9n0) | [Propiedad De Dios](https://open.spotify.com/artist/4sx4kT4GCXYSw6Cs8Bf9t4) | [Sin Ti No Me Imagino](https://open.spotify.com/album/7qtn1EGKZa8qtumLco1RPN) | 2:17 |
+| 35 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
+| 36 | [El Barrio Lo Sabe](https://open.spotify.com/track/28ipH3Dx4sRCPPoJhAkJpZ) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [Favor Y Gracia](https://open.spotify.com/album/6b7gWqXYZNO2MIwCBQ0ZZd) | 3:41 |
+| 37 | [Primero Los Del Fondo](https://open.spotify.com/track/2RdKJEe61PLGBM18wzxl4i) | [Maxi Larghi](https://open.spotify.com/artist/6jXQYWM55xKpAFPAYZcryE), [Andrés Castellano RPR](https://open.spotify.com/artist/3RESoEHIMMDVnKeowXjmMq) | [Primero Los Del Fondo](https://open.spotify.com/album/1FVgv6Ivv7h5JPboFDCsTx) | 4:34 |
 | 38 | [Todo Te Lo Debo a Tí](https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa) | [Benji Rosales](https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7) | [Todo Te Lo Debo a Tí](https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6) | 2:49 |
 | 39 | [NADA QUE TEMER](https://open.spotify.com/track/1xhzIlWnh3lKkEfm0FNsbT) | [Roberto Rosso](https://open.spotify.com/artist/1j4W3yOBthwGj4wWrGPtfA), [Joe Gozo](https://open.spotify.com/artist/5WxYUvlCb3r2fUlJwEIGUn) | [NADA QUE TEMER](https://open.spotify.com/album/1QhzHrtufsIm7Wrkx7lzC1) | 3:21 |
 | 40 | [Un adorador](https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:19 |
@@ -58,7 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 48 | [Que Viva el Amor](https://open.spotify.com/track/5Nix8OgH5mzOXQMFh8bgd2) | [Cemar Tirado](https://open.spotify.com/artist/6civVpsFrkqhJe7eVj7gGR) | [Que Viva el Amor](https://open.spotify.com/album/2EMqFMn5IP5KnrhjUnaIde) | 3:31 |
 | 49 | [Mesías](https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9) | [Dexter Music](https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG) | [Mesías](https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW) | 5:24 |
 | 50 | [Te Amo](https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz) | [Te Amo](https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp) | 3:58 |
-| 51 | [Maranata \- Remix](https://open.spotify.com/track/62ujbDMWXZAMQdhkphT5Ij) | [Adrián Ch](https://open.spotify.com/artist/5UEZABQjbYVZNIMey5gjWj), [Rudolph Gordon](https://open.spotify.com/artist/77oxSzHS4bCMaZOX9qpJT0), [Domusik](https://open.spotify.com/artist/0QG6paFcegxEOU9eyq3G4G), [Dj Wahm](https://open.spotify.com/artist/6Yo3WQNQipLi64xLt7Wjfe) | [Maranata \- Remix](https://open.spotify.com/album/4k9tniWn6Xc25kgiLDw9zf) | 2:39 |
-| 52 | [Poniendo el Estilo](https://open.spotify.com/track/2DlM2uGla4yP6PRfszVDI5) | [Spiritual Bless](https://open.spotify.com/artist/46dFxTjmPw26bu8MlY2UNv) | [Poniendo el Estilo](https://open.spotify.com/album/3SjkzgltzANAGQHgXaTiMI) | 4:18 |
 
-Snapshot ID: `ZqMfQAAAAAB6t2MdaYgFVyREhKMLpy5i`
+Snapshot ID: `Zq1asAAAAADYVm0bVSm+lcMqkm/JBHvZ`

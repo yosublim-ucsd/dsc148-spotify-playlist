@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,487 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,633 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 13 | [Cara de Niño](https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:56 |
 | 14 | [Entre La Espada y La Pared](https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 4:22 |
 | 15 | [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 |
-| 16 | [Hasta Que Te Conoci](https://open.spotify.com/track/7GwIVVxHiE6uyJrYSdCNMH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Otra Nota](https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq) | 5:05 |
-| 17 | [Siempre Seré](https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Más](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:24 |
+| 16 | [Siempre Seré](https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Más](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:24 |
+| 17 | [Hasta Que Te Conoci](https://open.spotify.com/track/7GwIVVxHiE6uyJrYSdCNMH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Otra Nota](https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq) | 5:05 |
 | 18 | [Por Ella](https://open.spotify.com/track/6xggO96o1OD6zNd5wjevhQ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Inconfundible](https://open.spotify.com/album/1VOFVi0W0TME7lcHaorE5B) | 4:38 |
 | 19 | [Vivir Lo Nuestro](https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Desde Un Principio / From The Beginning](https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI) | 6:06 |
 | 20 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |

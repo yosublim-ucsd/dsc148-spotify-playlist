@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Anyone But You",
       "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 184780,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 204111,
       "name": "Chasing Low Vibrations",
       "url": "https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 188035,
       "name": "K\u00e9 MaL",
       "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
@@ -3249,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "Never Meant",
+        "url": "https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Never Meant",
+      "url": "https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij"
+    },
+    {
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -3446,7 +3464,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 250135,
       "name": "Onions",
       "url": "https://open.spotify.com/track/3XxZzksa9YpoYJX27YbggN"
@@ -3998,7 +4016,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 209640,
       "name": "Seasons & Narcissus",
       "url": "https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv"
@@ -4016,7 +4034,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 219264,
       "name": "Sentimientos Encontrados",
       "url": "https://open.spotify.com/track/6aMQKOZqYHNfhruJ37oNJC"
@@ -4182,7 +4200,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 165653,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
@@ -4417,6 +4435,24 @@
     },
     {
       "album": {
+        "name": "still around",
+        "url": "https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217871,
+      "name": "still around",
+      "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
+    },
+    {
+      "album": {
         "name": "Still What I'm Looking For",
         "url": "https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE"
       },
@@ -4490,7 +4526,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 211800,
       "name": "Super Breath",
       "url": "https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh"
@@ -4544,7 +4580,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 264066,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
@@ -4944,7 +4980,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
@@ -4984,6 +5020,24 @@
       "duration_ms": 231173,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
+    },
+    {
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/3eKAjVRIp7iXWVEIvAkg10"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305520,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/1yirsM6U52qH1yLOSF2MmQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,332 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,088 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 49 | [Smoke and Fire](https://open.spotify.com/track/67zT3NI4tTOj8GreXetF6s) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Smoke and Fire](https://open.spotify.com/album/6BNXa8shuN3ANF4P0J2ElP) | 3:45 |
 | 50 | [Run and Hide](https://open.spotify.com/track/24fhYqs2KtWbHfY4Ngdf5U) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:29 |
 
-Snapshot ID: `Zql+gAAAAADtsW9Zb3chFfw4kyHuEt7D`
+Snapshot ID: `ZqrQAAAAAACcpbc0zT1YNH38FOdtvxLk`

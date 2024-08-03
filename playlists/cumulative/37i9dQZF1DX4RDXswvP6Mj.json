@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: Jimin(\uc9c0\ubbfc))) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: Stray Kids(\uc2a4\ud2b8\ub808\uc774 \ud0a4\uc988))) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
   "name": "K-Club Party",
   "tracks": [
     {
@@ -6201,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180742,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0"
+    },
+    {
+      "album": {
         "name": "Sweet-Tea",
         "url": "https://open.spotify.com/album/7BFmhM7GcY5oeseQmyYlpZ"
       },
@@ -11106,7 +11124,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 152186,
       "name": "Super Lady",
       "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"

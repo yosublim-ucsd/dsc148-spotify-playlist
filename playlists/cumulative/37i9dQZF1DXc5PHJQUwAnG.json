@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Beto V6",
+        "url": "https://open.spotify.com/album/54PT9w4llHKUlhBAqvjhx0"
+      },
+      "artists": [
+        {
+          "name": "El Borrado M",
+          "url": "https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271475,
+      "name": "Beto V6",
+      "url": "https://open.spotify.com/track/3QiCaFOFtt7jTSsB1Dk5Uk"
+    },
+    {
+      "album": {
         "name": "Bien Placoso",
         "url": "https://open.spotify.com/album/4QWwWEZ87t75pWq5lFWjYh"
       },
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180000,
       "name": "king",
       "url": "https://open.spotify.com/track/4bxQPC5v8Frp0o5DqQFkrK"
@@ -4511,6 +4529,32 @@
     },
     {
       "album": {
+        "name": "Nombre Mijo",
+        "url": "https://open.spotify.com/album/3Xs4kTsVaJOqZgCJdcLQQA"
+      },
+      "artists": [
+        {
+          "name": "Rafax",
+          "url": "https://open.spotify.com/artist/7qra5VDTl2mWzFXj1j6akx"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        },
+        {
+          "name": "Joslum",
+          "url": "https://open.spotify.com/artist/4MyhKqfK4IjghhCA5gldZP"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213475,
+      "name": "Nombre Mijo",
+      "url": "https://open.spotify.com/track/3xBwwBh9XzuSaSDMTtBvJM"
+    },
+    {
+      "album": {
         "name": "NORMAL",
         "url": "https://open.spotify.com/album/3OO91eg1WnqxPju6hqay7l"
       },
@@ -4738,7 +4782,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 200960,
       "name": "PA NO PENSAR",
       "url": "https://open.spotify.com/track/3HQztiNynPPCCuowUnKoVR"

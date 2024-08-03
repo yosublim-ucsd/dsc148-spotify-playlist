@@ -2405,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179178,
+      "name": "No Strings Attached",
+      "url": "https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT"
+    },
+    {
+      "album": {
         "name": "Nothing To Miss",
         "url": "https://open.spotify.com/album/4rh4CdBWQ5piiVtq2QTxyP"
       },

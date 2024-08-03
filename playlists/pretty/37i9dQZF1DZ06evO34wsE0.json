@@ -1,12 +1,12 @@
 {
-  "description": "This Is Shania Twain. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 243660,
+  "description": "This is Shania Twain. The essential tracks, all in one playlist.",
+  "num_followers": 243680,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADXWYd5QRQDMZOmMogy53pY",
+  "snapshot_id": "ZqrQAAAAAADU0c9VXUvvzwTV8jCrlqLx",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Forever And For Always",
-      "url": "https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 265600,
       "name": "You Win My Love",
       "url": "https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Forever And For Always",
+      "url": "https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 289573,
-      "name": "The Woman In Me (Needs The Man In You)",
-      "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 206773,
       "name": "I'm Holdin' On To Love (To Save My Life)",
       "url": "https://open.spotify.com/track/48zaiZ8s43CYWwpd8iHyGU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 289573,
+      "name": "The Woman In Me (Needs The Man In You)",
+      "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now (Deluxe)",
-        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Swingin' With My Eyes Closed",
-      "url": "https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 262400,
       "name": "Rock This Country!",
       "url": "https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Swingin' With My Eyes Closed",
+      "url": "https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Blue Versions)",
-        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "It Only Hurts When I'm Breathing - Red Version",
-      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 228826,
       "name": "Whatever You Do! Don't!",
       "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up! (Red and Blue Versions)",
+        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "It Only Hurts When I'm Breathing - Red Version",
+      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
     },
     {
       "added_at": null,

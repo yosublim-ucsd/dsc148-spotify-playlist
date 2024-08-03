@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Warren G
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,605 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,874 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 35 | [Hood Took Me Under](https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [Music To Driveby](https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS) | 3:39 |
 | 36 | [Dollaz + Sense](https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Safe + Sound](https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe) | 5:52 |
 | 37 | [No Vaseline](https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 5:13 |
-| 38 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
-| 39 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
+| 38 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
+| 39 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
 | 40 | [Just Another Day](https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Get In Where You Fit In](https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1) | 7:21 |
 | 41 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 42 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |

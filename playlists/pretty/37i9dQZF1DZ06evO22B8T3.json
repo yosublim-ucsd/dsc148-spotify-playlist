@@ -1,12 +1,12 @@
 {
-  "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 3831,
+  "description": "This Is Paulo Londra. Los temas esenciales, todos en una lista.",
+  "num_followers": 3834,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAB8IBNSkOslBP4fDAgbxS/9",
+  "snapshot_id": "ZqrQAAAAAABQXkJj/dJHTHHfvWe5SUMY",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Posdata:",
-        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 169162,
-      "name": "Posdata:",
-      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
       },
@@ -79,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Posdata:",
+        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 169162,
+      "name": "Posdata:",
+      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -86,15 +86,11 @@
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 227518,
-      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
-      "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
+      "duration_ms": 263899,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
     },
     {
       "added_at": null,
@@ -158,11 +154,15 @@
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 263899,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+      "duration_ms": 227518,
+      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
+      "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,356 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,357 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 21 | [Last Night](https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:54 |
 | 22 | [Mellow Down Easy](https://open.spotify.com/track/2ZEzJC5b9H6BrDfavP3Sr9) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:38 |
 | 23 | [Come Back Baby](https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 3:05 |
-| 24 | [You Don't Love Me](https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:10 |
-| 25 | [That's All Right \- Remastered](https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:46 |
-| 26 | [Don't Have To Hunt No More](https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 2:59 |
+| 24 | [That's All Right \- Remastered](https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:46 |
+| 25 | [Don't Have To Hunt No More](https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 2:59 |
+| 26 | [You Don't Love Me](https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:10 |
 | 27 | [Ah'w Baby](https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:52 |
 | 28 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KAAyjgvTwhAF1ejtLhkEw) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Saga Blues: Blowing With a Feeling](https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB) | 2:52 |
 | 29 | [Rocker](https://open.spotify.com/track/7C8g8w2ZQIGXzxqB2urzX1) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 3:05 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 33 | [I Got To Go](https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:40 |
 | 34 | [I'm A Man](https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 5:41 |
 | 35 | [Crazy For My Baby](https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 3:01 |
-| 36 | [Last Boogie](https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 2:30 |
+| 36 | [Hate To See You Go \- Extended](https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:03 |
 | 37 | [Mean Old Frisco](https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:27 |
 | 38 | [Just a Feeling](https://open.spotify.com/track/13RRh13MsrWwHtxkMBzSab) | [Mönsterås Bluesband](https://open.spotify.com/artist/20FpTTCbLJBFh0KTzmxi3o), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Bricks in My Pillow](https://open.spotify.com/album/1YtMrFO6O2Cg0xgocWtyVx) | 4:33 |
-| 39 | [Hate To See You Go \- Extended](https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:03 |
+| 39 | [Last Boogie](https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 2:30 |
 | 40 | [Make It Alright](https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 |
 | 41 | [Driftin'](https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:08 |
 
-Snapshot ID: `Zql+gAAAAABNpi1se/UwWrWJ9mDWfgI2`
+Snapshot ID: `ZqrQAAAAAAAKqalSwEHLZzKCkUWfWHjH`

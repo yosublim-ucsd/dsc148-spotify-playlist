@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 
 > me acuerdo del día que del dinero yo me enamoré 💸💰💸 con Eladio Carrion en la portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,299 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,345 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 | 29 | [Fantasias](https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias](https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL) | 3:19 |
 | 30 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 |
 | 31 | [Diosa](https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 3:34 |
-| 32 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 |
-| 33 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
+| 32 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
+| 33 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 |
 | 34 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 |
 | 35 | [PORFA](https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 3:52 |
 | 36 | [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 |

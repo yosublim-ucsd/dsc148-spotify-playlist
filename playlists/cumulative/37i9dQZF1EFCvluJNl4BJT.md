@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-89 songs - 4 hr 52 min
+90 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Butterfly](https://open.spotify.com/track/11aPoQJ6CwjWqHplsV54oC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/1YwO0apo9Oy6QTI4D8qWUf) | 2:43 | 2024-01-29 |  |
 | [Butterfly](https://open.spotify.com/track/4Qln3JjCohVB6TG1aij0vv) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Butterfly](https://open.spotify.com/album/0MbvdQvE5g7xgD9pYRbNMQ) | 2:56 | 2024-01-30 | 2024-02-02 |
 | [Can I Get a Moment?](https://open.spotify.com/track/57lEhHssad99QMK2Lr5Ykz) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Beautiful \(Platinum Edition\)](https://open.spotify.com/album/3XT3rHDWteNpQNhnARN7Ap) | 3:27 | 2024-01-29 |  |
+| [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-08-02 |  |
 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 | 2024-01-29 |  |
 | [CROWN](https://open.spotify.com/track/4STskVkFJFtNbjuZmDe26C) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CROWN](https://open.spotify.com/album/0mRiqLvYIjafS4sKy4kAKW) | 2:35 | 2024-01-29 |  |
 | [Don't](https://open.spotify.com/track/2jD8MqJ4uiE5EYUicI5vCC) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL) | [Don't](https://open.spotify.com/album/1Fl0AJJlFgKlxTFzIBPczK) | 3:13 | 2024-01-29 |  |

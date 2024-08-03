@@ -1,13 +1,29 @@
 {
   "description": "Funky vocoders and talk boxes",
-  "num_followers": 51651,
+  "num_followers": 51676,
   "original_name": "Robo-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zow1VgAAAAAMjOqtv+G3rTKjvYHaa49r",
+  "snapshot_id": "ZqxZwAAAAACdLHVBkAvVaA6XJMzDrEQv",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/5A2e5fAX9EGVDhYAfVgoFj"
+      },
+      "artists": [
+        {
+          "name": "Kazzey",
+          "url": "https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY"
+        }
+      ],
+      "duration_ms": 243745,
+      "name": "Abdelhak",
+      "url": "https://open.spotify.com/track/2auWvIfCr5N2FMp8M80hP5"
+    },
     {
       "added_at": "2020-09-18 04:02:00",
       "album": {

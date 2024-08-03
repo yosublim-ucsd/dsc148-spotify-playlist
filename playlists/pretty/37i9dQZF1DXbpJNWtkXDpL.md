@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a la Generación 2024 de RADAR México\. CHOCA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,698 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,709 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 57 | [DAIKIRI CON FRESA](https://open.spotify.com/track/6eNRxXpnpXqvhKHUaCUng9) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [DAIKIRI CON FRESA](https://open.spotify.com/album/2pJHyWYo2H2sCbo8WuF3VH) | 3:19 |
 | 58 | [Modelo](https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Modelo](https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV) | 4:25 |
 | 59 | [Ñero Session 11](https://open.spotify.com/track/44DM5mBfePD0JqTltQCOOp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Ñero Session 11](https://open.spotify.com/album/18UE8orLDwFNWcTo4n8UAr) | 3:06 |
-| 60 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 |
+| 60 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |
 | 61 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 |
-| 62 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |
+| 62 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 |
 | 63 | [Bebe Ricota](https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [Bebe Ricota](https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l) | 2:31 |
 | 64 | [La Favorita](https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [La Favorita](https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I) | 2:25 |
 | 65 | [Astros](https://open.spotify.com/track/0EHjeBjck1oNsCoKixkTlt) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Astros](https://open.spotify.com/album/3jGQw9Tu58SELgqLSWu208) | 3:23 |

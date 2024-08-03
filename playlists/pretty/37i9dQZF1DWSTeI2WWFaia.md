@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Boldy James
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,029 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,018 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 4 | [St\. Juliana](https://open.spotify.com/track/2Rig20krug9sy1Y95z6StG) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Across The Tracks](https://open.spotify.com/album/4vGxWRaA3iG6w8st1eOtlt) | 2:17 |
 | 5 | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66) | 4:23 |
 | 6 | [Ya Don't Stop](https://open.spotify.com/track/1QNsSHamC2FQuoxhjdnZuv) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Ya Don't Stop](https://open.spotify.com/album/3jIziF4JDNKvyAcZjIM1CR) | 3:04 |
-| 7 | [Off\-White Lumberjack](https://open.spotify.com/track/4v4k5AH10JSyT6eU1zXHPk) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Off\-White Lumberjack](https://open.spotify.com/album/1CUOlrRYZkzhNyRRHq2Yd4) | 2:33 |
+| 7 | [WYNWOOD](https://open.spotify.com/track/2A8GOD0NmU1qMcXyn3oQlK) | [AntoneNow](https://open.spotify.com/artist/2jLsOY4SXRdXTXdhiB8V1l), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI) | [WYNWOOD](https://open.spotify.com/album/1yRYIreLoNnopgJgTDbtsg) | 3:26 |
 | 8 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
 | 9 | [Mutty](https://open.spotify.com/track/1kMr1X2SBTV6KTmlIf4psb) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Slant Face Killah](https://open.spotify.com/album/2If4aVsZl3y3bzPT4lcvPh) | 5:28 |
 | 10 | [SPILL](https://open.spotify.com/track/1IyMhF5MmEzKDfRSt4qpot) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Don Cannon](https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD) | [SPILL](https://open.spotify.com/album/4SheGFYgqo3qMSMaqLV2MR) | 4:22 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 18 | [Blueslides](https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 3:55 |
 | 19 | [Red Button](https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 2:40 |
 | 20 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 |
-| 21 | [Define My Name](https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Define My Name](https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu) | 3:10 |
+| 21 | [Vin Skully](https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:53 |
 | 22 | [No Face](https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 4:35 |
-| 23 | [Vin Skully](https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:53 |
+| 23 | [Define My Name](https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Define My Name](https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu) | 3:10 |
 | 24 | [Summer '24](https://open.spotify.com/track/1aMUl8tkDCHl4dWIIGo1tR) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm) | [Summer '24](https://open.spotify.com/album/14VN7Zo3e0i4jwNO2pDaIM) | 1:58 |
 | 25 | [Buried Alive](https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Buried Alive](https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94) | 2:02 |
 | 26 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [black mirror](https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:17 |
 | 50 | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 |
 
-Snapshot ID: `ZqMfQAAAAADybD0GL5leDBVSXcQ8n0BS`
+Snapshot ID: `Zq0eWAAAAABNz83rKchylSTg8OkKe20x`

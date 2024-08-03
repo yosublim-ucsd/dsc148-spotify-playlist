@@ -18953,6 +18953,32 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/5QiKKKZ3IPwkJMDM5DZBHe"
+      },
+      "artists": [
+        {
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        },
+        {
+          "name": "Lohrasp Kansara",
+          "url": "https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy"
+        },
+        {
+          "name": "Mavhungu",
+          "url": "https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201719,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1HcHTKTG3C0WhcL5CXTFxn"
+    },
+    {
+      "album": {
         "name": "Haunted Room",
         "url": "https://open.spotify.com/album/0eb96GoEFwC7S8eyhDMjxZ"
       },

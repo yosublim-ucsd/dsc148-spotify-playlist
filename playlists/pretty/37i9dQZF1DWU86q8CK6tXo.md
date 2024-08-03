@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Kesha and the women she champions at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,376 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,389 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 29 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 30 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
 | 31 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
-| 32 | [I Know](https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [I Know](https://open.spotify.com/album/6auO2yyC62fgBHAXmPf7ap) | 3:05 |
-| 33 | [Super Breath](https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Super Breath](https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ) | 3:31 |
+| 32 | [Super Breath](https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Super Breath](https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ) | 3:31 |
+| 33 | [I Know](https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [I Know](https://open.spotify.com/album/6auO2yyC62fgBHAXmPf7ap) | 3:05 |
 | 34 | [Free Like](https://open.spotify.com/track/1pRvzjKNkW5DY1ycqAftIR) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Free Like](https://open.spotify.com/album/3oLm7KrYF4ZMdqlialglaN) | 2:49 |
 | 35 | [Honest](https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters](https://open.spotify.com/album/32qFN5Usk7h9t1AJLwXJ2p) | 3:52 |
-| 36 | [Cowboy Break My Heart](https://open.spotify.com/track/0OWjq1RpEPwLErq7yiotxm) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Cowboy Break My Heart](https://open.spotify.com/album/6veJfIQqQlzpBta1oIdGcZ) | 2:40 |
-| 37 | [Vultures \(feat\. PVRIS\)](https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:58 |
-| 38 | [Calling](https://open.spotify.com/track/2bSNePFmPxgSnLQp9o1YRq) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Full Circle](https://open.spotify.com/album/5NOrX7sIbqclPUxez3aO5n) | 3:11 |
-| 39 | [Son Of A Gun](https://open.spotify.com/track/4Tw2GOwiQ5pYL8c5sGW2Ly) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Son Of A Gun](https://open.spotify.com/album/293OStVaxP03Eovnp5aeC0) | 3:23 |
-| 40 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
+| 36 | [Vultures \(feat\. PVRIS\)](https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:58 |
+| 37 | [Cowboy Break My Heart](https://open.spotify.com/track/0OWjq1RpEPwLErq7yiotxm) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Cowboy Break My Heart](https://open.spotify.com/album/6veJfIQqQlzpBta1oIdGcZ) | 2:40 |
+| 38 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
+| 39 | [Calling](https://open.spotify.com/track/2bSNePFmPxgSnLQp9o1YRq) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Full Circle](https://open.spotify.com/album/5NOrX7sIbqclPUxez3aO5n) | 3:11 |
+| 40 | [Son Of A Gun](https://open.spotify.com/track/4Tw2GOwiQ5pYL8c5sGW2Ly) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Son Of A Gun](https://open.spotify.com/album/293OStVaxP03Eovnp5aeC0) | 3:23 |
 | 41 | [Superstar](https://open.spotify.com/track/1Lsfs8NeHVboIMgl7C7T16) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/1qp5OgpmF5KZeXoWPWkSI9) | 4:02 |
 | 42 | [Body \(feat\. Tima Dee\)](https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Body \(feat\. Tima Dee\)](https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58) | 2:45 |
 | 43 | [Ticking Time Bomb](https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Power of Panic](https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u) | 2:47 |
 | 44 | [Rental](https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Rental](https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da) | 3:09 |
 | 45 | [Dreamer](https://open.spotify.com/track/22arMgKuiDLRBo3uso19S6) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Dreamer](https://open.spotify.com/album/3lxmDYMwjQUw1ilmhuUmED) | 3:42 |
-| 46 | [Locked In](https://open.spotify.com/track/2Sk9IWoxmGwvI6eeXEUCNz) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Locked In](https://open.spotify.com/album/2Zye1xchnUBzuDjtDAcMjE) | 3:33 |
-| 47 | [Shake](https://open.spotify.com/track/3srhWQpwocJ9tCXo4HGtWz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Shake](https://open.spotify.com/album/1BBUoLrHaPDbQJlyhEPcA9) | 2:55 |
+| 46 | [Shake](https://open.spotify.com/track/3srhWQpwocJ9tCXo4HGtWz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Shake](https://open.spotify.com/album/1BBUoLrHaPDbQJlyhEPcA9) | 2:55 |
+| 47 | [Peppermint Sky](https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [Peppermint Sky](https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR) | 2:49 |
 | 48 | [Feminine Rage](https://open.spotify.com/track/2dolhFd9SUSd7hmIKPpoMM) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Feminine Rage](https://open.spotify.com/album/4yLWjEgNd7RmlsoxWZIryf) | 2:43 |
-| 49 | [Peppermint Sky](https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [Peppermint Sky](https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR) | 2:49 |
-| 50 | [all these little words](https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [all these little words](https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ) | 2:17 |
+| 49 | [Locked In](https://open.spotify.com/track/2Sk9IWoxmGwvI6eeXEUCNz) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Locked In](https://open.spotify.com/album/2Zye1xchnUBzuDjtDAcMjE) | 3:33 |
+| 50 | [Be My Glory](https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s) | [Trulah](https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR) | [Be My Glory](https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf) | 4:22 |
 
 Snapshot ID: `ZqsH1gAAAADxD6A3optZ5IiibWHoj13J`

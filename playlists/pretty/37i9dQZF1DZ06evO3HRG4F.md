@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 
 ### [This Is Charlie Monttana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HRG4F)
 
-> This Is Charlie Monttana\. Los temas esenciales, todos en una lista.
+> This is Charlie Monttana\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 4,693 likes - 50 songs - 3 hr 19 min
 
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 20 | [Recuerdos \(En Vivo\)](https://open.spotify.com/track/2OvWNqEgX2avknXMNiJcRM) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Teatro Metropolitan 2018 \(En Vivo\)](https://open.spotify.com/album/3jjZeLI5yIcstu7qFIDgeU) | 5:43 |
 | 21 | [Por No Tener a Quien Amar](https://open.spotify.com/track/3LephrgrP9s47JW97NA3UK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 2:59 |
 | 22 | [Ramillete de Piernas](https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 5:44 |
-| 23 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 |
-| 24 | [Pastillas y Cocaína](https://open.spotify.com/track/0FxWqZ0D0XSYoKN5CCCgq2) | [Seguimos Perdiendo](https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [12 Años de Punkrock..\. Y No Mamadas](https://open.spotify.com/album/3DH1EgwejIGD44XLuhb82r) | 2:57 |
-| 25 | [Pobre de Ti](https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:42 |
+| 23 | [Pobre de Ti](https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:42 |
+| 24 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 |
+| 25 | [Pastillas y Cocaína](https://open.spotify.com/track/0FxWqZ0D0XSYoKN5CCCgq2) | [Seguimos Perdiendo](https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [12 Años de Punkrock..\. Y No Mamadas](https://open.spotify.com/album/3DH1EgwejIGD44XLuhb82r) | 2:57 |
 | 26 | [¿Dónde Estás?](https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 3:38 |
 | 27 | [Todas Esas Lagrimas \- En Vivo](https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 5:20 |
 | 28 | [Estoy Ardiendo](https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:16 |
 | 29 | [Y Sufrirás](https://open.spotify.com/track/5cKb6jVvWGIuOBrOrNo97K) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:42 |
-| 30 | [Pinches Mariguanos](https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Pinches Mariguanos](https://open.spotify.com/album/089KiimOn0i7lGJJztXELG) | 3:31 |
-| 31 | [Cayendo](https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 4:02 |
+| 30 | [Cayendo](https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 4:02 |
+| 31 | [Pinches Mariguanos](https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Pinches Mariguanos](https://open.spotify.com/album/089KiimOn0i7lGJJztXELG) | 3:31 |
 | 32 | [Me Gusta Tu Chava](https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Presente: Mi Legado](https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5) | 3:26 |
 | 33 | [Te Necesito](https://open.spotify.com/track/4dNTRpVjax3LVUoOeeQEI7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Dr\. Hollywood](https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl) | 5:17 |
 | 34 | [La Rubia](https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 49 | [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 |
 | 50 | [De Que el Amor Apesta Apesta \- En Vivo](https://open.spotify.com/track/6icW8z4zbebBK4oCVmJsti) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7x8Knu6fbmp4CDcYg7GcR7) | 5:01 |
 
-Snapshot ID: `Zql+gAAAAAAmHpFfouzoatZXYqEwnNz8`
+Snapshot ID: `ZqrQAAAAAADMjXZCqjPQJSbUq+g3R5UQ`

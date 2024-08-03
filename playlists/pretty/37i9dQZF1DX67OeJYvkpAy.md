@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Stacy N.K.R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,872 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,868 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 16 | [Left Back \- Remix](https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Left Back \(Remix\)](https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8) | 3:00 |
 | 17 | [Better With You Than On My Own](https://open.spotify.com/track/32M9aAAuuhybp33wiLWtes) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Better With You Than On My Own](https://open.spotify.com/album/7L5a0opz3RoRKg7e3683D7) | 2:20 |
 | 18 | [mate in five](https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Jöetry](https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N) | 4:04 |
-| 19 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 |
+| 19 | [Heart On Ice](https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 2:25 |
 | 20 | [Next Up \- S3\-E47, Pt.1](https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S3\-E47](https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA) | 2:21 |
 | 21 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 |
 | 22 | [Drunk and Confused 2.0](https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [Drunk and Confused 2.0](https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO) | 3:47 |
 | 23 | [Champions League](https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [In my head](https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4) | 2:35 |
-| 24 | [Heart On Ice](https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 2:25 |
+| 24 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 |
 | 25 | [2:30AM](https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [2:30AM](https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv) | 3:02 |
 | 26 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
 | 27 | [Love Me](https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj) | [ArtistRD](https://open.spotify.com/artist/3cdy10Sdneled46d13A74S) | [Love Me](https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe) | 3:10 |

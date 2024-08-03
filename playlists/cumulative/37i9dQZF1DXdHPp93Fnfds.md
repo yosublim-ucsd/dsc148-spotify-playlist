@@ -2,9 +2,9 @@
 
 ### [Mujeres del Indie](https://open.spotify.com/playlist/37i9dQZF1DXdHPp93Fnfds)
 
-> Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
+> Son jóvenes, guerreras y cool\. Foto: Girl Ultra.
 
-580 songs - 1 day 8 hr 59 min
+581 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 | 2023-08-25 | 2023-09-26 |
 | [Blusito](https://open.spotify.com/track/5uaQ2JqKFUbku7ssEgWjte) | [Lulioli](https://open.spotify.com/artist/1sBDWlxYFLnrmmbrgKI4O4) | [Blusito](https://open.spotify.com/album/4WQpIrBMxLjRKcrkluurb3) | 5:17 | 2022-04-01 | 2022-06-29 |
 | [Bossa de Amor](https://open.spotify.com/track/5CisJ1wCJc8iaPDuNJgfpo) | [Emilia Borlone](https://open.spotify.com/artist/3qUX6iGtY5Lbyj8vduC4Oc), [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Bossa de Amor](https://open.spotify.com/album/2fZjv0DbDkiIC03R6xJrGJ) | 3:22 | 2022-03-09 | 2022-07-19 |
+| [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 | 2024-08-02 |  |
 | [Bsos](https://open.spotify.com/track/1te0r9vjZgzT3Avdc1hXbf) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Bsos](https://open.spotify.com/album/3FGJQsv4cWu0ZijTAbMoJF) | 3:06 | 2022-07-15 | 2022-07-24 |
 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 | 2022-01-21 | 2023-08-05 |
 | [Cadaver Exquisito](https://open.spotify.com/track/7E3mGIoBKNJ9iJhHElksgv) | [Vero Perez](https://open.spotify.com/artist/6Ivi3BuoIV95MUEVbcTEnD) | [Cadaver Exquisito](https://open.spotify.com/album/1LpWl0TvbofGfSNh0BSeG1) | 3:10 | 2022-04-01 | 2022-06-05 |
@@ -175,7 +176,7 @@
 | [El Gobierno de China](https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog) | [Pantocrator](https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3) | [El Gobierno de China](https://open.spotify.com/album/0Ar9uTqPd3flcz9frcMl0b) | 2:22 | 2022-02-11 | 2022-07-20 |
 | [El Guinness](https://open.spotify.com/track/3EMCNAmj4UgRmVEs0jbfM2) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Billetes Falsos](https://open.spotify.com/album/1iYnmFBoM9eAazMvc928sE) | 2:38 | 2022-01-21 | 2022-07-26 |
 | [el humo](https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [el humo](https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN) | 4:06 | 2022-04-01 | 2022-07-23 |
-| [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2022-10-28 |  |
+| [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2022-10-28 | 2024-08-03 |
 | [El Imán \- Remix](https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Santiago Martínez](https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu) | [El Imán \(Remix\)](https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe) | 3:48 | 2023-12-15 | 2024-03-19 |
 | [El Monstruo](https://open.spotify.com/track/4it95zN4UiXA3FLZEgYMSU) | [Sol Marianela](https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD) | [El Monstruo](https://open.spotify.com/album/7bIm8rt2u47dnEh0rweBy7) | 3:13 | 2022-04-01 | 2022-05-12 |
 | [El Olvido](https://open.spotify.com/track/06DDZtXgYJodWnjmrFVuF8) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [El Olvido](https://open.spotify.com/album/2K7MOl9u19XcO0cNVaRAWS) | 3:24 | 2022-01-21 | 2022-04-19 |

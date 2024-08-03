@@ -2,9 +2,9 @@
 
 ### [mint Latin](https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi)
 
-> The wave of Latin Electronic music\. Cover: Fuerza Regida
+> The wave of Latin Electronic music\. Cover: Fuerza Regida, Major Lazer & Alok
 
-333 songs - 17 hr 15 min
+334 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 | 2022-04-20 | 2023-05-27 |
 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 | 2022-05-23 | 2023-05-27 |
 | [Need You](https://open.spotify.com/track/1NZWAeNc6AuG3utnJgy4gx) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93) | [Need You](https://open.spotify.com/album/7oePs0HPrbFcw3aIs54Rt6) | 3:58 | 2024-07-29 |  |
+| [NENE \(feat\. Fuerza Regida\)](https://open.spotify.com/track/1oe4qSlEZIObCbvRE05Stg) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 3:06 | 2024-08-02 |  |
 | [Neverita](https://open.spotify.com/track/2xms7bVgVIszeNtYCV9LVm) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Neverita](https://open.spotify.com/album/7efd1iBzVfBeVvtwh1C7hL) | 3:34 | 2023-01-20 | 2023-07-01 |
 | [Neón](https://open.spotify.com/track/5n3BkGuvl4tBLtU0vRnk2p) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Neón](https://open.spotify.com/album/3vaTUE6iGfukYBuR5vzOa9) | 3:16 | 2023-01-13 | 2023-06-17 |
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-03-22 | 2023-05-27 |
@@ -316,7 +317,7 @@
 | [Tropicana \(La Noche\)](https://open.spotify.com/track/23dwwFPSWj3sH6IDAgeMh7) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Cucu Diamantes](https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz) | [Tropicana \(La Noche\)](https://open.spotify.com/album/2NGYvRg59cNCPL8JfYZ1wX) | 3:20 | 2023-01-20 | 2023-08-19 |
 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 | 2023-07-07 | 2023-11-30 |
 | [TU MIRADA](https://open.spotify.com/track/5eo0RRedwSBqOqZjZxZNZy) | [Rey Chango](https://open.spotify.com/artist/0u5bPsSeDIbLpTKr9hJCqc), [LYON808](https://open.spotify.com/artist/4HVhyLcMfhyOoJqfCpiEJc), [Noah Kickback](https://open.spotify.com/artist/67pMmFgxUhP6W7ro3mX15c) | [CNTRL](https://open.spotify.com/album/6StSmIVCCvWMiV4EHkTcdD) | 2:45 | 2023-04-14 | 2023-07-15 |
-| [Tu Sabor](https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT) | [Sounds Of Rituals](https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK), [Pablo Alhach](https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz) | [Tu Sabor](https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku) | 2:55 | 2024-04-05 |  |
+| [Tu Sabor](https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT) | [Sounds Of Rituals](https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK), [Pablo Alhach](https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz) | [Tu Sabor](https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku) | 2:55 | 2024-04-05 | 2024-08-03 |
 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Annual 2021](https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI) | 2:21 | 2022-03-22 | 2023-01-14 |
 | [Tóxica \- VIZE Remix](https://open.spotify.com/track/4uDb59PNKsTYOVSp0784W3) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Tóxica \(VIZE Remix\)](https://open.spotify.com/album/4EHW9tZLrALLs3UaAGFUpT) | 2:21 | 2022-03-22 | 2022-04-29 |
 | [un x100to \- Remix](https://open.spotify.com/track/2Lb5QgVeyA2VGcwhtw16D9) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [DIGITAL KINGZ](https://open.spotify.com/artist/57KTCkLFeUtf1TdKiRMGnG) | [un x100to \(Remix\)](https://open.spotify.com/album/1bEntR9HSAWqKSNtVF8EVg) | 3:25 | 2023-05-08 | 2023-05-10 |

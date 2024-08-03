@@ -1,33 +1,13 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Kesha",
-  "num_followers": 895687,
+  "num_followers": 895565,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAABDUXbGj92nUEMq9mSxV8sj",
+  "snapshot_id": "ZqxZwAAAAACUOgmDsxN4Dn6POM+e15sz",
   "tracks": [
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Did It First (with Central Cee)",
-        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 118002,
-      "name": "Did It First (with Central Cee)",
-      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
-    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -85,6 +65,26 @@
       "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Did It First (with Central Cee)",
+        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 118002,
+      "name": "Did It First (with Central Cee)",
+      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "TGIF (Alternate Versions)",
@@ -99,6 +99,26 @@
       "duration_ms": 164571,
       "name": "TGIF",
       "url": "https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -711,30 +731,6 @@
       "duration_ms": 125030,
       "name": "Kitty Kat",
       "url": "https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
-        "url": "https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 167559,
-      "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
-      "url": "https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv"
     },
     {
       "added_at": "2023-11-24 05:00:00",

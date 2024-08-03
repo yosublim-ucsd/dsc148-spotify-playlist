@@ -1,13 +1,45 @@
 {
-  "description": "Keeping it lowkey with the best chill pop. Cover: Clairo",
-  "num_followers": 1823162,
+  "description": "Keeping it lowkey with the best chill pop. Cover: Khalid",
+  "num_followers": 1823170,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAAAcIQHKRjyExvsj4f9QPq0P",
+  "snapshot_id": "ZqxZwAAAAADnGKmZg+xqidfHG3CBuMfO",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0rwAIahSgaJWFoTSHJSmLJ"
       },
       "artists": [
         {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
         }
       ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+      "duration_ms": 163982,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2aQm7qXDseN5YF5ilzCohC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -77,6 +109,22 @@
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/3TKskzjVwKJdSAu6YokIQl"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 139090,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4jVVO2Fqredo9XdIOMBwGj"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Pretty Baby",
@@ -91,6 +139,22 @@
       "duration_ms": 203522,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
+        "url": "https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
+      "url": "https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -109,6 +173,22 @@
       "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0n35Yu5zqqNVdPj0Xecack"
+      },
+      "artists": [
+        {
+          "name": "Daju",
+          "url": "https://open.spotify.com/artist/4znXFLA1TOhbTKrgZViWev"
+        }
+      ],
+      "duration_ms": 172688,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5D50LQOoqYJxSLTC6xtAbK"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
@@ -125,6 +205,22 @@
       "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Adaptations",
+        "url": "https://open.spotify.com/album/1lkI9vJnzW5nAT4HxgOmBp"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 195896,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/5ixsARSHL26SXP89piNe1r"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Lucky",
@@ -139,6 +235,22 @@
       "duration_ms": 198546,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "I Wanna Love You (But I Don't) / I hope you die first",
+        "url": "https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 257790,
+      "name": "I Wanna Love You (But I Don't)",
+      "url": "https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -193,6 +305,26 @@
       "url": "https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "In The Lonely Hour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "The Secret of Us",
@@ -223,6 +355,22 @@
       "duration_ms": 218656,
       "name": "i hate texas",
       "url": "https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 238726,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -619,26 +767,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/3HH1E3Vb3OL30V1kxKUSZF"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        },
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 154692,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5Ca3pOobQ2LNGRWggfv73I"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
@@ -683,26 +811,6 @@
       "duration_ms": 231613,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Better ft. Cuco",
-        "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "Better ft. Cuco",
-      "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -943,38 +1051,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Cross Your Mind",
-        "url": "https://open.spotify.com/album/2T6k6o12ud6iyjYNNhOSPz"
-      },
-      "artists": [
-        {
-          "name": "DOUBLECAMP",
-          "url": "https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/5E4dFNH0sBnSnIybnKui0S"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Look At That Woman",
         "url": "https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij"
       },
@@ -1067,22 +1143,6 @@
       "duration_ms": 217880,
       "name": "Dispose of Me",
       "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Found You First",
-        "url": "https://open.spotify.com/album/5RSzGDEaajxu1IhT0HuzQk"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 163014,
-      "name": "Found You First",
-      "url": "https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1191,22 +1251,6 @@
       "duration_ms": 169124,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Betcha Can't Wait / New Town Crier",
-        "url": "https://open.spotify.com/album/2GKiOOt53Djb470e8sRpQ2"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 144230,
-      "name": "New Town Crier",
-      "url": "https://open.spotify.com/track/7jKx10iRMLEzxVVmtd4nlD"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1351,22 +1395,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Craving",
-        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "The Craving - single version",
-      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/0z3faRWy2fUjfzBXDWsiZV"
       },
@@ -1383,26 +1411,6 @@
       "duration_ms": 197333,
       "name": "Numb",
       "url": "https://open.spotify.com/track/0TvFoZ2Bm9TEyvASOyUmmt"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "back from the dead",
-        "url": "https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        },
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 158060,
-      "name": "back from the dead (with mxmtoon)",
-      "url": "https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1467,26 +1475,6 @@
       "duration_ms": 168491,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Unfinished Business (with Toosii)",
-        "url": "https://open.spotify.com/album/7evFqJiu2AESNqQmcoZlul"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        },
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Unfinished Business (with Toosii)",
-      "url": "https://open.spotify.com/track/6n7RTeAGfJxmW5DlyWNGJZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",

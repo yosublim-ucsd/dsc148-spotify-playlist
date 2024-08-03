@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Mozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,093 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,123 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 6 | [Perfect Harmony \- Phibes VIP](https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx) | [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Perfect Harmony \(Phibes VIP\)](https://open.spotify.com/album/6qcteM30PHXN8GWRywK1J6) | 2:43 |
 | 7 | [Elemental](https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Elemental](https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb) | 3:17 |
 | 8 | [Move Your Body \- Hedex Remix](https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Move Your Body \(Hedex Remix\)](https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo) | 3:20 |
-| 9 | [Last Time](https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Last Time](https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D) | 3:21 |
+| 9 | [Alarm \(feat\. MC ID\)](https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [MC ID](https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:07 |
 | 10 | [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:28 |
-| 11 | [Alarm \(feat\. MC ID\)](https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [MC ID](https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:07 |
+| 11 | [Last Time](https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Last Time](https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D) | 3:21 |
 | 12 | [Don't Stop](https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Don't Stop](https://open.spotify.com/album/0PPTQ6w442u34twxct76hc) | 2:56 |
 | 13 | [Bounce](https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao) | [Sub Zero](https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR) | [Bounce EP](https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev) | 3:01 |
 | 14 | [Heaven](https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Heaven](https://open.spotify.com/album/5utKEyKtyUReHABwsSJtjV) | 3:25 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 51 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
 | 52 | [OH SHIT](https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Dreps](https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2) | [OH SHIT](https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv) | 2:13 |
 | 53 | [Wild \- Disrupta Remix](https://open.spotify.com/track/1siHenGtsl36Q6vs7c20O9) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Wild \(Disrupta Remix\)](https://open.spotify.com/album/27xGHAAYqDjQM04UIFVT8W) | 3:06 |
-| 54 | [Crunchy Nutter](https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Crunchy Nutter](https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA) | 3:24 |
-| 55 | [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 |
+| 54 | [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 |
+| 55 | [Crunchy Nutter](https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Crunchy Nutter](https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA) | 3:24 |
 
 Snapshot ID: `ZqKlxgAAAADMGLC2DU9cNWAmM1sn9PWQ`

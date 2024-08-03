@@ -904,7 +904,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 210950,
       "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -7730,6 +7730,24 @@
       "duration_ms": 183937,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
+    },
+    {
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
       "album": {
@@ -15520,7 +15538,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 219710,
       "name": "Femininomenon",
       "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
@@ -43163,6 +43181,24 @@
     },
     {
       "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167291,
+      "name": "SIN MIEDO",
+      "url": "https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o"
+    },
+    {
+      "album": {
         "name": "Sin So Sweet",
         "url": "https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f"
       },
@@ -44000,7 +44036,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 184552,
       "name": "Soh-Soh",
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
@@ -45992,7 +46028,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 197538,
       "name": "Suniyan Suniyan",
       "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"

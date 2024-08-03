@@ -4,7 +4,7 @@
 
 > you up?
 
-462 songs - 1 day 1 hr 51 min
+463 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 | 2023-01-20 |  |
 | [Girls Need Love \(with Drake\) \- Remix](https://open.spotify.com/track/0mfCH4nfpshBQR9ueZP5eP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Girls Need Love \(with Drake\) \[Remix\]](https://open.spotify.com/album/3i9w4RgUuxBxUVaarH91kx) | 3:42 | 2022-02-04 | 2022-07-07 |
 | [Girls Need Love \(with Drake\) \- Remix](https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:42 | 2022-07-22 | 2024-04-19 |
+| [Girls On The Internet](https://open.spotify.com/track/2p646IXQ5NldzSmZmpHqC1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Girls On The Internet](https://open.spotify.com/album/2ZKruwObcyv0WoHPRN1dvM) | 3:18 | 2024-08-02 |  |
 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-05-01 | 2023-05-13 |
 | [Give You the World](https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:33 | 2022-08-25 | 2023-01-05 |
 | [Go Again](https://open.spotify.com/track/4pJHOKnhaj53aTQwM0Vigb) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Go Again](https://open.spotify.com/album/78egLdqpviDIASDHbQg79i) | 2:25 | 2022-02-04 | 2022-05-24 |
@@ -239,7 +240,7 @@
 | [lemon sorbet](https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS) | [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [lemon sorbet](https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd) | 2:31 | 2022-11-28 | 2023-01-05 |
 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 | 2022-07-29 | 2022-09-09 |
 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 | 2022-02-04 |  |
-| [Like Me](https://open.spotify.com/track/0iacF3uSavbQQSf37ho7W7) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Like Me](https://open.spotify.com/album/73htgKILdONxhlQqlsBcQZ) | 2:39 | 2024-04-05 |  |
+| [Like Me](https://open.spotify.com/track/0iacF3uSavbQQSf37ho7W7) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Like Me](https://open.spotify.com/album/73htgKILdONxhlQqlsBcQZ) | 2:39 | 2024-04-05 | 2024-08-03 |
 | [Live or Die](https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [Live or Die](https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72) | 3:14 | 2022-03-25 | 2022-04-13 |
 | [Lonely As I Ever Was](https://open.spotify.com/track/6YY6jWYRxEcctNOepXpOVE) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Are U Down?](https://open.spotify.com/album/6VVsa93buutotShEWaBejL) | 3:53 | 2022-03-28 | 2022-04-19 |
 | [Loner](https://open.spotify.com/track/6m6R6O2BOZDCNymhJ45spI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:32 | 2022-03-25 | 2022-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Clairo",
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Dan Mangan",
   "name": "Chill Indie Music",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195598,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Call Me Up High",
+        "url": "https://open.spotify.com/album/2urklLZj9dfzEnItNkRJ4Y"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163454,
+      "name": "Call Me Up High",
+      "url": "https://open.spotify.com/track/3HmgyyyokSYo7iKwKObO1o"
+    },
+    {
+      "album": {
         "name": "Call Your Mom (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
       },
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 213086,
       "name": "Find New Ways",
       "url": "https://open.spotify.com/track/50R66SbAPkP167uxr90Ewq"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 170653,
       "name": "Heavy Bag",
       "url": "https://open.spotify.com/track/1bLHGMMW3QuUplAamFETCK"
@@ -1822,6 +1840,24 @@
       "duration_ms": 148965,
       "name": "Lover\u2019s Rock",
       "url": "https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik"
+    },
+    {
+      "album": {
+        "name": "M",
+        "url": "https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "M",
+      "url": "https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj"
     },
     {
       "album": {
@@ -2436,6 +2472,24 @@
       "duration_ms": 233000,
       "name": "Raining On Your Pillow",
       "url": "https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg"
+    },
+    {
+      "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170339,
+      "name": "Realms",
+      "url": "https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v"
     },
     {
       "album": {
@@ -3169,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/6uVJObcq28mcUHXLoFDOaF"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159121,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/133gMbnHFdb5stViV7Bepf"
+    },
+    {
+      "album": {
         "name": "Willow (feat. Lucy Rose)",
         "url": "https://open.spotify.com/album/5CebXMy0hXQrIbGZmlBCK9"
       },
@@ -3184,7 +3256,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 249693,
       "name": "Willow (feat. Lucy Rose)",
       "url": "https://open.spotify.com/track/2Xho3gchhwVvViD3HmRe0S"

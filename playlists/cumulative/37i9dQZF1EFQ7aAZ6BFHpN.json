@@ -1201,6 +1201,60 @@
     },
     {
       "album": {
+        "name": "The Gershwins' Porgy and Bess: New Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ZOOWaYSagUYPLUrUiHXeI"
+      },
+      "artists": [
+        {
+          "name": "Audra McDonald",
+          "url": "https://open.spotify.com/artist/7F6surn3OpdyOzupSawyli"
+        },
+        {
+          "name": "Norm Lewis",
+          "url": "https://open.spotify.com/artist/7dHUb3yBmLZdtX3zsjHOgQ"
+        },
+        {
+          "name": "David Alan Grier",
+          "url": "https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "DuBose Heyward",
+          "url": "https://open.spotify.com/artist/2x5eLqRtwnCXFUALSsEitt"
+        },
+        {
+          "name": "Ira Gershwin",
+          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
+        },
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "Roosevelt Andr\u00e9 Credit",
+          "url": "https://open.spotify.com/artist/1hBUvhRpsRHQwtPHdSCf2c"
+        },
+        {
+          "name": "Trevon Davis",
+          "url": "https://open.spotify.com/artist/4xdgGDqa4LnaPFWcqfT3gd"
+        },
+        {
+          "name": "Wilkie Ferguson III",
+          "url": "https://open.spotify.com/artist/0t9flcQvXHH0QV9esKwzSR"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132666,
+      "name": "It Takes a Long Pull to Get There",
+      "url": "https://open.spotify.com/track/5pExATJgsOIrwSzH48MejW"
+    },
+    {
+      "album": {
         "name": "The Jazz Soul of Porgy & Bess",
         "url": "https://open.spotify.com/album/17gOqDoIjjPeeeOaZHdM6z"
       },
@@ -1212,7 +1266,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 164586,
       "name": "It Takes a Long Pull to Get There",
       "url": "https://open.spotify.com/track/3zSoS5uNYJAiCx4RkzWAM8"

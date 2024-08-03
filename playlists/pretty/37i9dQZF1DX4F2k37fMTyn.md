@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 
 > 女性ポップアイコンの名曲を一つのプレイリストに。cover: Tones And I
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,650 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,652 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 | 35 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 | 36 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
 | 37 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
-| 38 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
-| 39 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
+| 38 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
+| 39 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 40 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 |
 | 41 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 | 42 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 | 55 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
 | 56 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
 | 57 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
-| 58 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 |
-| 59 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
+| 58 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
+| 59 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 |
 | 60 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
 
 Snapshot ID: `ZqumXQAAAACb8vCK0kjNGxOFWFY03wfT`

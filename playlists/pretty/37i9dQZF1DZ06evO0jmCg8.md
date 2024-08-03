@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 ### [This Is Arch Enemy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0jmCg8)
 
-> This Is Arch Enemy\. Los temas esenciales, todos en una lista.
+> This is Arch Enemy\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,116 likes - 49 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,161 likes - 49 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 9 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 |
 | 10 | [We Will Rise](https://open.spotify.com/track/0KtQaeUT372b7vRProw9Sm) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:06 |
 | 11 | [My Apocalypse](https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 5:25 |
-| 12 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
+| 12 | [Deceiver, Deceiver](https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:51 |
 | 13 | [Reason to Believe](https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:47 |
 | 14 | [As the Pages Burn](https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:01 |
 | 15 | [Enter the Machine](https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 2:02 |
-| 16 | [Deceiver, Deceiver](https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:51 |
+| 16 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
 | 17 | [First Day in Hell](https://open.spotify.com/track/7uqohNjCnZ8sZd5S2vh5vx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:48 |
 | 18 | [No More Regrets](https://open.spotify.com/track/6U4PnLCxvpipBXCffkdHNo) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:05 |
 | 19 | [Ravenous](https://open.spotify.com/track/5oyCIQWuSgFB25yA66AIcG) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:05 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 48 | [Shout \- cover version](https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:45 |
 | 49 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 |
 
-Snapshot ID: `Zql+gAAAAAA/6+Ds4/jKR6iJfsZEey5m`
+Snapshot ID: `ZqrQAAAAAACm+kEtSeDsjJ6nKBqqzjui`

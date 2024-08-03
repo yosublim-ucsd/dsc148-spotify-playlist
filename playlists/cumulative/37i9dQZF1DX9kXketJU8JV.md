@@ -2,7 +2,7 @@
 
 ### [受験プレイリスト \#合格へのサントラ](https://open.spotify.com/playlist/37i9dQZF1DX9kXketJU8JV)
 
-> 受験本番へ。努力のすべては、出し切れる。
+> 夏を制する者は受験を制す。
 
 69 songs - 4 hr 32 min
 

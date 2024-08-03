@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-540 songs - 2 day 5 hr 22 min
+541 songs - 2 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Moran](https://open.spotify.com/track/4Blow0z79hRpmFSLd78jXI) | [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Moran](https://open.spotify.com/album/34ZvcVmC0rCsCQQEpUsBSf) | 5:44 | 2022-09-13 | 2022-12-15 |
 | [Moth To A Flame \(with The Weeknd, Moojo\) \- Moojo Remix](https://open.spotify.com/track/40MXr7BMh3ShPf2b9giSRt) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Moth To A Flame \(Moojo Remix\)](https://open.spotify.com/album/17cYF29ZBcDYoRkWUzFWfQ) | 7:16 | 2022-09-13 | 2023-01-20 |
 | [Mount Kilimanjaro](https://open.spotify.com/track/4EFg9pFTJs2Pm2LTtM8k5v) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Mount Kilimanjaro](https://open.spotify.com/album/7sAM6Rsxg7tVyP8LDIUEFL) | 6:51 | 2022-09-13 | 2023-03-18 |
+| [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-08-02 |  |
 | [Moya](https://open.spotify.com/track/3vjILWF3HavZPxmazrSWEc) | [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Moya](https://open.spotify.com/album/6iMrzOdbrhCf6R03nylajZ) | 2:44 | 2023-12-21 |  |
 | [Moya](https://open.spotify.com/track/7gYMqL0qPmP5rg6UMrjh06) | [Morena](https://open.spotify.com/artist/1e9EVXjjycz6jn201oEJTI) | [Moya](https://open.spotify.com/album/1LuwaqnAQtmW6yjViz5wHG) | 7:58 | 2024-01-12 | 2024-06-15 |
 | [Moya](https://open.spotify.com/track/1AhBzZtwrbeyAyuUwBnDuP) | [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU) | [Moya](https://open.spotify.com/album/5ZGoooiMAjYiPdU0sDaby6) | 4:06 | 2022-12-14 | 2023-03-25 |

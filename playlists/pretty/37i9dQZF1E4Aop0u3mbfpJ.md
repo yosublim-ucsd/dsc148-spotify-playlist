@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain](/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ)
 
-### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
+### [Rádio de Lady Gaga](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Britney Spears, Katy Perry, Kesha and more
+> Com Britney Spears, Katy Perry, Kesha e mais
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,353 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,437 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 | 49 | [Hollaback Girl](https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:19 |
 | 50 | [If U Seek Amy](https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:36 |
 
-Snapshot ID: `ZqxNFgAAAADzD4ea54AJRAVenpXSpfMu`
+Snapshot ID: `Zq2bngAAAAB6+eBxAidfjiqMEBkegQw5`

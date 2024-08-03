@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 628698,
+  "num_followers": 628911,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABoUImqcKYumpPLAKM+cA2w",
+  "snapshot_id": "ZqrQAAAAAAC1AFg3anCV7sfSFP8yzHyM",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Nobody To Blame",
-      "url": "https://open.spotify.com/track/4WRRCuJYRq7gUKiupxVH9W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 181680,
       "name": "What Am I Gonna Do",
       "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 244146,
+      "name": "Nobody To Blame",
+      "url": "https://open.spotify.com/track/4WRRCuJYRq7gUKiupxVH9W"
     },
     {
       "added_at": null,
@@ -499,6 +499,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/4Jn2CdZYqtIsPpIRYB1o47"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Maggie's Song",
+      "url": "https://open.spotify.com/track/50QWBrZFAhD6N4B0tbfET9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Willie Nelson American Outlaw (Live)",
         "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
       },
@@ -591,38 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Maggie's Song",
-      "url": "https://open.spotify.com/track/50QWBrZFAhD6N4B0tbfET9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/4Jn2CdZYqtIsPpIRYB1o47"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From A Room: Volume 1",
         "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
       },
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 265173,
-      "name": "Friendship",
-      "url": "https://open.spotify.com/track/2ZAqfeq7PMp7XA2IKhuJJ2"
+      "duration_ms": 209040,
+      "name": "Loving You On My Mind",
+      "url": "https://open.spotify.com/track/28UbGXKOcm70brxGctiek4"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Loving You On My Mind",
-      "url": "https://open.spotify.com/track/28UbGXKOcm70brxGctiek4"
+      "duration_ms": 265173,
+      "name": "Friendship",
+      "url": "https://open.spotify.com/track/2ZAqfeq7PMp7XA2IKhuJJ2"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > If you feel it, chase it\. ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742,835 likes - 85 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,742,939 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 77 | [Big, Big Plans](https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Big, Big Plans](https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu) | 3:07 |
 | 78 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 |
 | 79 | [Parallel Line](https://open.spotify.com/track/567gPvGfxxKoZxDKqM9tEl) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:13 |
-| 80 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
-| 81 | [Blessed](https://open.spotify.com/track/3hhSnbFhuGnXieFa1ql61R) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:34 |
-| 82 | [Back To Life](https://open.spotify.com/track/7Lr4XaxGpkAwa37IVgg22k) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Back To Life](https://open.spotify.com/album/3f45YnvjJazhk0Ena7CASK) | 3:34 |
-| 83 | [Heartbeat](https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:29 |
+| 80 | [Blessed](https://open.spotify.com/track/3hhSnbFhuGnXieFa1ql61R) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:34 |
+| 81 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
+| 82 | [Heartbeat](https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:29 |
+| 83 | [Back To Life](https://open.spotify.com/track/7Lr4XaxGpkAwa37IVgg22k) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Back To Life](https://open.spotify.com/album/3f45YnvjJazhk0Ena7CASK) | 3:34 |
 | 84 | [You Had Me from Hello](https://open.spotify.com/track/3NJn7p1nrI3R8alivEMPwB) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:50 |
 | 85 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 |
 

@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-454 songs - 1 day 1 hr 16 min
+455 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Do or Die](https://open.spotify.com/track/1CfTuOvVnBDEE9ox8yYDrv) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Do or Die](https://open.spotify.com/album/5rv4qSw9HLMWhI2S2tNISG) | 2:46 | 2020-11-13 | 2022-03-26 |
 | [Do That \(feat\. FHAT\)](https://open.spotify.com/track/0RtkiBgYQmkiDg8ntoJxzT) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [FHAT](https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Do That \(feat\. FHAT\)](https://open.spotify.com/album/6zmUhkZKIx7SBQZCpaJg7H) | 2:41 | 2020-11-13 | 2021-12-28 |
 | [Do Yourself](https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 4:02 | 2022-02-04 | 2022-05-21 |
+| [domino szn](https://open.spotify.com/track/5jpVbqCqZadexyOSoJnwSS) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [domino szn](https://open.spotify.com/album/5ZahMu7KEBe4Gzf2bR61Ew) | 3:44 | 2024-08-02 |  |
 | [DON'T GET FRESH WITH ME](https://open.spotify.com/track/29XRnZlN9nf6Z3BaAZ61My) | [Low Cut Connie](https://open.spotify.com/artist/4taNHtYxfIWIHu07FBw7ih) | [ART DEALERS](https://open.spotify.com/album/2XfhNWUapZroQcaGTVwPrJ) | 3:49 | 2023-09-08 |  |
 | [Don't Go Chasing](https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Don't Go Chasing](https://open.spotify.com/album/3GcqHzKzEcV8xjEYgAiVrj) | 4:07 | 2022-04-08 | 2024-05-18 |
 | [Don't Lose Sight \(Acoustic\)](https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Don't Lose Sight](https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo) | 6:46 | 2022-05-06 | 2024-04-06 |
@@ -179,7 +180,7 @@
 | [GPS](https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:56 | 2024-05-31 |  |
 | [Grammy](https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Grammy](https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6) | 2:23 | 2022-02-04 | 2024-02-10 |
 | [GROW](https://open.spotify.com/track/7woolpK48x0OF0neZScxgo) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N) | [GROW](https://open.spotify.com/album/4X3uGMrO2XLpBaGegC4ldQ) | 5:02 | 2021-09-21 | 2022-04-19 |
-| [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-04-29 |  |
+| [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-04-29 | 2024-08-03 |
 | [GUCCI BAG](https://open.spotify.com/track/6i2aECSESETukg3mdWUTBP) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:14 | 2022-05-06 | 2024-04-19 |
 | [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 | 2024-04-05 | 2024-06-04 |
 | [Happy Days](https://open.spotify.com/track/1u8BiP9APkwKjtVb9L1z50) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Happy Days](https://open.spotify.com/album/7vOFsagJ42zKDY8mDR0krm) | 3:51 | 2020-11-13 | 2022-03-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Jelani Aryeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,028 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,054 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 44 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 |
 | 45 | [sever the blight](https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [sever the blight](https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59) | 2:54 |
 | 46 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
-| 47 | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz) | 3:45 |
-| 48 | [Over](https://open.spotify.com/track/4tgCLCpF1MkdNzjTw7lLwh) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Over](https://open.spotify.com/album/3Z7kvXoVeOtj9KcR0JzLKe) | 3:01 |
+| 47 | [Over](https://open.spotify.com/track/4tgCLCpF1MkdNzjTw7lLwh) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Over](https://open.spotify.com/album/3Z7kvXoVeOtj9KcR0JzLKe) | 3:01 |
+| 48 | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz) | 3:45 |
 | 49 | [React](https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [React](https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB) | 2:41 |
-| 50 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
+| 50 | [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 |
 
 Snapshot ID: `ZoghOQAAAADXX3OVo9QDAPUKeo+mWBrv`

@@ -1,12 +1,12 @@
 {
   "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Paris Hilton and Meghan Trainor",
-  "num_followers": 165772,
+  "num_followers": 166447,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAAAZc4r7f6hnfMDmYpGDtOo6",
+  "snapshot_id": "ZqxZwAAAAAB8v6b4CfxYE/GVn9Nyy0KL",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 197066,
       "name": "Chasin' (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -56,13 +76,29 @@
           "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
         },
         {
-          "name": "Lozeak",
-          "url": "https://open.spotify.com/artist/0gxlzfqDP4GzCPVsFKwFoS"
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
         }
       ],
       "duration_ms": 159230,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/09NheEEnVn2Yp7wwctOmC6"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -97,20 +133,24 @@
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+        "name": "Hold My Love (feat. Piper Byers)",
+        "url": "https://open.spotify.com/album/5UtWnVXS5XFXJU8geS49K6"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Piper Byers",
+          "url": "https://open.spotify.com/artist/2m0Pc2TS4246t620Ut4Dk3"
         }
       ],
-      "duration_ms": 142265,
-      "name": "Guess",
-      "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
+      "duration_ms": 164129,
+      "name": "Hold My Love (feat. Piper Byers)",
+      "url": "https://open.spotify.com/track/6DagmGXA13lYuPCI2ZUDRt"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -127,6 +167,22 @@
       "duration_ms": 219710,
       "name": "Femininomenon",
       "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy"
+      },
+      "artists": [
+        {
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+        }
+      ],
+      "duration_ms": 188947,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -479,42 +535,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/5BezUUsxmvHM0ousc2Tgya"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/4dUCnam5rLVdrQHYWEIx0e"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/54zYvqlh1tgWoe5edGHC8r"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 171232,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/6r1dG3TW8wpYMt9vSVAO3w"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK"
       },
@@ -627,22 +647,6 @@
       "duration_ms": 150169,
       "name": "PINK LIKE SUKI",
       "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Block",
-        "url": "https://open.spotify.com/album/0hlNXCcWerJq4jektVp4dF"
-      },
-      "artists": [
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        }
-      ],
-      "duration_ms": 130817,
-      "name": "Block",
-      "url": "https://open.spotify.com/track/0jk7BG707tRYtrfcQR6R8y"
     },
     {
       "added_at": "2024-07-26 04:00:00",

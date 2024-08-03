@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Romantic Echoes
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,459 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,751 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 26 | [How Could You Still Love Me](https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [How Could You Still Love Me](https://open.spotify.com/album/4nTE31Iy6lAONpS9kT6v33) | 4:24 |
 | 27 | [I Would Never...](https://open.spotify.com/track/430NEs1rbeYyTWs6skTS0X) | [Drizzly.](https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU), [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [I Would Never...](https://open.spotify.com/album/3oHeWqIezQCJEjcQjYtJBb) | 3:22 |
 | 28 | [Teduh](https://open.spotify.com/track/0j1N2ILdZQkyUZvYH8HCNr) | [FOODOMORE](https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn) | [Teduh](https://open.spotify.com/album/6VvSI1VgsP7RfUS2LuLQhs) | 3:51 |
-| 29 | [Perihal Omongan Belaka](https://open.spotify.com/track/5NvkE6eEGrEsRRtaeesrzS) | [Bahtera](https://open.spotify.com/artist/28a3YGz0pW3DZb5Dvr9M0d) | [Perihal Omongan Belaka](https://open.spotify.com/album/4JIgzeMbWz9zaTwJxCUnbT) | 5:08 |
+| 29 | [Perihal Omongan Belaka](https://open.spotify.com/track/5NvkE6eEGrEsRRtaeesrzS) | [Bahtera](https://open.spotify.com/artist/2WDrCD9s0OofV19aGzNbib) | [Perihal Omongan Belaka](https://open.spotify.com/album/4JIgzeMbWz9zaTwJxCUnbT) | 5:08 |
 | 30 | [Bersepah](https://open.spotify.com/track/32Ws16l1zR7H8bpc9XiezS) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a), [Gulf of Meru](https://open.spotify.com/artist/4Qj1DeSCA9enWHj4oh10ao) | [Jenjam](https://open.spotify.com/album/4vSgTJIrvaPulmGygOZCB0) | 6:00 |
 | 31 | [Slippery](https://open.spotify.com/track/3vRjjN0CkUdfREnSja3Q0i) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Slippery](https://open.spotify.com/album/420j8oB94KH2s8007O1NNU) | 3:24 |
 | 32 | [Don't Let It Slip Away](https://open.spotify.com/track/1ogzrIAv1SZtDjLfVGgoAv) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh), [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [BLEU HOUSE](https://open.spotify.com/artist/3hLKrHan3Nuo1N2rod8s4M) | [White Couch In The House](https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss) | 5:38 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bolivia.
 
-764 songs - 1 day 17 hr 44 min
+765 songs - 1 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,7 @@
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-04-11 | 2023-07-02 |
 | [Prende la Cámara RMX](https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Prende la Cámara RMX](https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo) | 3:32 | 2022-03-29 | 2022-04-09 |
 | [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-07-18 | 2024-04-14 |
-| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-13 |  |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-13 | 2024-08-03 |
 | [PROBLEMA](https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PROBLEMA](https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ) | 3:04 | 2021-03-27\* | 2021-05-25 |
 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 | 2022-01-15 | 2022-04-26 |
 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 | 2022-09-15 | 2023-03-05 |
@@ -598,6 +598,7 @@
 | [Rolls\-Royce](https://open.spotify.com/track/0MvBwodAYMxyL4VHqFI1QM) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Rolls\-Royce](https://open.spotify.com/album/4oqhWvUVK4EunS0ALx8svu) | 3:25 | 2023-06-10 | 2023-06-19 |
 | [Ropa Cara](https://open.spotify.com/track/2zY1iTaEgs8ROkkWtWLe7l) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:42 | 2021-03-27\* | 2021-04-01 |
 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 | 2023-07-21 | 2023-09-18 |
+| [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2024-08-02 |  |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-26 | 2022-05-08 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-17 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-01 | 2022-08-07 |

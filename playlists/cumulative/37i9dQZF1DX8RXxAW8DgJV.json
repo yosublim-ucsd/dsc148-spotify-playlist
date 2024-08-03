@@ -2657,20 +2657,28 @@
     },
     {
       "album": {
-        "name": "Pushpa - The Rise",
+        "name": "Srivalli (From \"Pushpa - The Rise\")(Tamil)",
         "url": "https://open.spotify.com/album/5dGmwPrF05ihcsEgBHBDhw"
       },
       "artists": [
         {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
           "name": "Sid Sriram",
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
         }
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221000,
-      "name": "Srivalli",
+      "name": "Srivalli (From \"Pushpa - The Rise\")(Tamil)",
       "url": "https://open.spotify.com/track/1pRHVSjEXuhZf7sEfH3yYS"
     },
     {

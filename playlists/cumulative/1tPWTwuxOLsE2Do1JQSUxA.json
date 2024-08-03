@@ -3209,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "let's pretend we're numb",
+        "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80105,
+      "name": "let's pretend we're numb",
+      "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
+    },
+    {
+      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
       },

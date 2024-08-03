@@ -2,9 +2,9 @@
 
 ### [Corridos Chakalosos](https://open.spotify.com/playlist/37i9dQZF1DX8yZMfjCxaJx)
 
-> Las favoritas de los patrones\. La Adictiva y El Fantasma en portada.
+> Las favoritas de los patrones\. El Fantasma y Los Farmers en portada.
 
-156 songs - 8 hr 14 min
+157 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Desde Topo Hasta La Sierra](https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Los Torrenciales de la Sierra](https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn) | [Desde Topo Hasta La Sierra](https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F) | 3:38 | 2024-01-26 |  |
 | [Don Cheyo Imperial](https://open.spotify.com/track/6bUi10rGDo5g2FKSPUUBmY) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Don Cheyo Imperial](https://open.spotify.com/album/6FMWZ9K8YlljAxvWdLBYOn) | 2:57 | 2024-02-09 |  |
 | [Don Ismael](https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj) | 2:38 | 2024-01-26 |  |
+| [Don Mayo](https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Don Mayo](https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5) | 3:11 | 2024-08-02 |  |
 | [Déjenlos Pasar](https://open.spotify.com/track/0qsvu01LWI7F2MIVA0kjQm) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Déjenlos Pasar](https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO) | 2:04 | 2024-07-12 |  |
 | [El 4 a Arturo](https://open.spotify.com/track/0e2SmXRTe2sjGRlJSRZXPP) | [La Bertiniza De Culiacan](https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [El 4 a Arturo](https://open.spotify.com/album/6O9Fc8ghm8CmlRUy7XGe4k) | 3:57 | 2024-04-12 |  |
 | [El 602](https://open.spotify.com/track/01v0johTl8Ul7Czv3HShgU) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Grado 33](https://open.spotify.com/artist/0t2KfN3tEKfqVQA9SHguAO) | [El 602](https://open.spotify.com/album/2bsJcfaIJcA7DemqKPQttl) | 4:34 | 2024-05-24 |  |
@@ -160,7 +161,7 @@
 | [Táctico](https://open.spotify.com/track/6XIEuULRblmE0OINgI5dNC) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Táctico](https://open.spotify.com/album/0FvfpAJbIcL6nGve8NSd3m) | 3:13 | 2024-02-09 | 2024-05-25 |
 | [Valente Quintero \- En Vivo](https://open.spotify.com/track/2CSzHGJcQwibhTZpRbJnkQ) | [La Bertiniza De Culiacan](https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Valente Quintero \(En Vivo\)](https://open.spotify.com/album/7hyA4JFSywUYSUQmo6F3c8) | 5:38 | 2024-07-19 |  |
 | [Vida Recia \(En Vivo\)](https://open.spotify.com/track/1N6SIgC4ewG3FneF13z20a) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Vida Recia \(En Vivo\)](https://open.spotify.com/album/44VBDrpn41Vy7FDceUSrsy) | 4:28 | 2024-01-26 | 2024-02-24 |
-| [Yo Soy el Bueno](https://open.spotify.com/track/5NL3YoLsgiiPlMK6xEmVoI) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Yo Soy el Bueno](https://open.spotify.com/album/3LHlJuJwxCFYKn70czmxbW) | 2:56 | 2024-05-24 |  |
+| [Yo Soy el Bueno](https://open.spotify.com/track/5NL3YoLsgiiPlMK6xEmVoI) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Yo Soy el Bueno](https://open.spotify.com/album/3LHlJuJwxCFYKn70czmxbW) | 2:56 | 2024-05-24 | 2024-08-03 |
 | [Yo Soy El Bueno \- En Vivo](https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Yo Soy El Bueno \(En Vivo\)](https://open.spotify.com/album/3aDn1xUk7p7Ec9CCgl1NtY) | 2:56 | 2024-01-26 | 2024-04-19 |
 | [Yo Soy Serafin](https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Yo Soy Serafin](https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM) | 2:41 | 2024-01-26 |  |
 | [Zutano \(En Vivo\)](https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Más Vivo Que En Vivo \(Vol\. 3\)](https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs) | 3:28 | 2024-01-26 | 2024-04-27 |

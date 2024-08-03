@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207347,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
+    },
+    {
+      "album": {
         "name": "BE MY BABY (KwangSoo Cover) [feat. AIR OUCCI]",
         "url": "https://open.spotify.com/album/4yoAVAdfpYjFQR7Kb40IS3"
       },
@@ -17176,6 +17194,24 @@
       "duration_ms": 184000,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG"
+    },
+    {
+      "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189394,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/0ekANUuUFZeWZMNQRmYhvs"
     },
     {
       "album": {

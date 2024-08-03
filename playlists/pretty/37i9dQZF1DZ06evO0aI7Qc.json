@@ -1,13 +1,37 @@
 {
-  "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 315657,
+  "description": "This Is Luis R Conriquez. Los temas esenciales, todos en una lista.",
+  "num_followers": 315926,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADSRTijEZ4Zcfjwa0YE1GPw",
+  "snapshot_id": "ZqrQAAAAAAAXGfkpy40wBNxW+/UVArVN",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tacha$ & Tu$$i",
+        "url": "https://open.spotify.com/album/6kYaYO9RIX9hsseMbdOA1f"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Kevin Santin",
+          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Tacha$ & Tu$$i",
+      "url": "https://open.spotify.com/track/5jKRqn4TAi6ASvRYI5AqJV"
+    },
     {
       "added_at": null,
       "album": {
@@ -531,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volando Bajito",
+        "url": "https://open.spotify.com/album/0zpniveKCf8Wogi6fGcyK3"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Volando Bajito",
+      "url": "https://open.spotify.com/track/2EuafaVeBUcNUOHT8cGLhX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. 2",
         "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
       },
@@ -547,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volando Bajito",
-        "url": "https://open.spotify.com/album/0zpniveKCf8Wogi6fGcyK3"
+        "name": "Corridos Belicos",
+        "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
       },
       "artists": [
         {
@@ -556,9 +596,25 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 146086,
-      "name": "Volando Bajito",
-      "url": "https://open.spotify.com/track/2EuafaVeBUcNUOHT8cGLhX"
+      "duration_ms": 144927,
+      "name": "Por Clave El Fresa",
+      "url": "https://open.spotify.com/track/3tS0oKoHSZdsAZpPxjmrBC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
     },
     {
       "added_at": null,
@@ -583,38 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Buho",
-        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Belicos",
-        "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 144927,
-      "name": "Por Clave El Fresa",
-      "url": "https://open.spotify.com/track/3tS0oKoHSZdsAZpPxjmrBC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
@@ -631,6 +655,30 @@
       "duration_ms": 180047,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ducati",
+        "url": "https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 148480,
+      "name": "Ducati",
+      "url": "https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7"
     },
     {
       "added_at": null,
@@ -671,30 +719,6 @@
       "duration_ms": 211993,
       "name": "A Punta de Balazos",
       "url": "https://open.spotify.com/track/30jSzrU2QGEVG623M6x63V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ducati",
-        "url": "https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 148480,
-      "name": "Ducati",
-      "url": "https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7"
     },
     {
       "added_at": null,
@@ -1023,22 +1047,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Ap\u00e1 Es El De La M",
-        "url": "https://open.spotify.com/album/30dvj5FWvcvoieIdMvafc1"
+        "name": "Derecha la Flecha",
+        "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
       },
       "artists": [
         {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
-        },
-        {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 202640,
-      "name": "Mi Ap\u00e1 Es El De La M",
-      "url": "https://open.spotify.com/track/7hzdMGOFclxcwewHmykdTm"
+      "duration_ms": 200454,
+      "name": "Derecha la Flecha",
+      "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
     }
   ],
   "unique_name": "This Is Luis R Conriquez",

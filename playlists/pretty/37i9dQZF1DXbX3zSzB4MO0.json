@@ -1,6 +1,6 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 14194,
+  "num_followers": 14265,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -391,6 +391,26 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
-        }
-      ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -707,6 +707,26 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "Lost In The Rhythm",
+        "url": "https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Lost In The Rhythm",
+      "url": "https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Space Train",
         "url": "https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 170155,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "Lost In The Rhythm",
-        "url": "https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Lost In The Rhythm",
-      "url": "https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "Blue Monday (feat. JD Davis)",
         "url": "https://open.spotify.com/album/61mqIm6BImQCijUTwJg05t"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 158462,
       "name": "We Don\u2019t Need - Club Edit",
       "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
       "added_at": "2024-02-07 08:57:42",

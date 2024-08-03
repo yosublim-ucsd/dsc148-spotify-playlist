@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 
 > This is Hozier\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,780 likes - 39 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,190 likes - 39 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 29 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 |
 | 30 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 |
 | 31 | [Arsonist's Lullabye](https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 4:26 |
-| 32 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |
-| 33 | [Fare Well](https://open.spotify.com/track/26YxqhG0XM48N7NgWFieHy) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:08 |
-| 34 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
+| 32 | [Fare Well](https://open.spotify.com/track/26YxqhG0XM48N7NgWFieHy) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:08 |
+| 33 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
+| 34 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
 | 35 | [Why Would You Be Loved](https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby! \(Special Edition\)](https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5) | 4:08 |
 | 36 | [Be \- Acoustic](https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Be \(Acoustic\)](https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f) | 3:55 |
 | 37 | [Through Me \(The Flood\)](https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 3:47 |
 | 38 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 |
 | 39 | [Moment's Silence \(Common Tongue\)](https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:14 |
 
-Snapshot ID: `Zql+gAAAAAA8zAFm7LbxpYWiBxVMnLpV`
+Snapshot ID: `ZqrQAAAAAADiOnvD03FgwhP+B/e3w8/w`

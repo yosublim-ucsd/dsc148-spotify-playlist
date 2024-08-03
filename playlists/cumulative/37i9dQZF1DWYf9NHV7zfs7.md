@@ -2,9 +2,9 @@
 
 ### [Esto es Pop](https://open.spotify.com/playlist/37i9dQZF1DWYf9NHV7zfs7)
 
-> y nada más que pop ✨✨✨<br/>📷 Un Verano
+> y nada más que pop ✨✨✨<br/>📷 Clara Cava y Ale Sergi
 
-253 songs - 13 hr 47 min
+255 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [EL PROCESO](https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [EL PROCESO](https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr) | 2:36 | 2024-07-19 |  |
 | [Emocionalmente Tuya](https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Emocionalmente Tuya](https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni) | 4:10 | 2024-03-01 | 2024-03-22 |
 | [Emoji de café](https://open.spotify.com/track/13P4MDo0mC6lpKQypWeoV2) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [Emoji de café](https://open.spotify.com/album/6UVtXfTfYDxFCUPfX3AeYZ) | 2:39 | 2024-07-19 | 2024-07-27 |
-| [En tu casa o en la mía \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conducción Temeraria](https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0) | 3:32 | 2024-05-17 |  |
+| [en la cara](https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [en la cara](https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS) | 2:37 | 2024-08-02 |  |
+| [En tu casa o en la mía \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conducción Temeraria](https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0) | 3:32 | 2024-05-17 | 2024-08-03 |
 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 | 2023-10-23 | 2024-07-31 |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2023-07-14 | 2023-10-24 |
 | [Es ahora](https://open.spotify.com/track/1MWDhdadRnIK7APAKV0PfG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Es ahora](https://open.spotify.com/album/7KS2HnDSQ2O9pAyoSBEMwF) | 3:26 | 2024-05-10 |  |
@@ -148,6 +149,7 @@
 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 | 2023-10-23 |  |
 | [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 | 2023-10-23 |  |
 | [Me hablan de vos](https://open.spotify.com/track/6h5r2AfSvK20SR94dq8v6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Me hablan de vos](https://open.spotify.com/album/2bOVjfVekDmy5LUsCZg14o) | 3:20 | 2024-07-26 |  |
+| [me hace bien](https://open.spotify.com/track/3YvPDFVcqKRYI0orNE6zIK) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Ale Sergi](https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ) | [me hace bien](https://open.spotify.com/album/5d2U9nTionMO2EQgJDVnIF) | 2:49 | 2024-08-02 |  |
 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 | 2024-04-09 |  |
 | [Mecha](https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Camino](https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel) | 3:09 | 2023-10-23 |  |
 | [Mejor Que Ayer](https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mejor Que Ayer](https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf) | 3:06 | 2023-10-23 |  |
@@ -250,7 +252,7 @@
 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 | 2023-10-23 |  |
 | [Viento Dile a la Lluvia](https://open.spotify.com/track/5YdXKg8juylmVbtCMheEtl) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 3:45 | 2023-10-23 | 2023-10-27 |
 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 | 2023-07-14 | 2023-10-24 |
-| [VIVO](https://open.spotify.com/track/5FiLiXXCn6dd7tESjc8nTt) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [VIVO](https://open.spotify.com/album/772S7hHdD0VpV4n5aN77E2) | 2:56 | 2024-05-31 |  |
+| [VIVO](https://open.spotify.com/track/5FiLiXXCn6dd7tESjc8nTt) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [VIVO](https://open.spotify.com/album/772S7hHdD0VpV4n5aN77E2) | 2:56 | 2024-05-31 | 2024-08-03 |
 | [Volaré](https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vida Lejana](https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk) | 3:26 | 2023-10-23 |  |
 | [Vámonos De Viaje](https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg) | 3:56 | 2023-10-23 |  |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2023-07-14 | 2023-10-24 |

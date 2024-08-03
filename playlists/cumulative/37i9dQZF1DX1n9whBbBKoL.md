@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-332 songs - 16 hr 35 min
+333 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,11 @@
 | [639 Hz Empathic Soundscape](https://open.spotify.com/track/6xOL5TQziZNGFrkeBnWoj4) | [Alexander Brinkman](https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M) | [639 Hz Empathic Soundscape](https://open.spotify.com/album/0Uunjmq01Xrln9ptmMi6dW) | 2:27 | 2024-03-20 | 2024-05-05 |
 | [852 Hz Energy State](https://open.spotify.com/track/6wdYWxxrVyjHR34NLcjWsp) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [852 Hz Energy State](https://open.spotify.com/album/7BAoMEeaiXm2NgUnhZPnU1) | 2:44 | 2024-02-07 |  |
 | [852 Hz Inner Peace](https://open.spotify.com/track/54wmUJNPXM8OiOcPcbmzhH) | [Deep Motions](https://open.spotify.com/artist/5nkmvFGIaDVINeAqIVEEJC) | [Inner Peace](https://open.spotify.com/album/6Iv6r0sYftuDawl7IE66vX) | 2:48 | 2022-12-30 |  |
-| [963 Hz Conscious Care](https://open.spotify.com/track/5E57Zw3EzEqgXH3nfbXkBL) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Conscious Care](https://open.spotify.com/album/14kkMme3UE3XXbBsvdmzAp) | 2:44 | 2024-02-27 |  |
+| [963 Hz Conscious Care](https://open.spotify.com/track/5E57Zw3EzEqgXH3nfbXkBL) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Conscious Care](https://open.spotify.com/album/14kkMme3UE3XXbBsvdmzAp) | 2:44 | 2024-02-27 | 2024-08-03 |
 | [963 Hz Intuition](https://open.spotify.com/track/5G1cDOqdUzaVatIG1M0Bqf) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [963 Hz Intuition](https://open.spotify.com/album/6ZSSObWQiCdayfLPyMZmIp) | 3:26 | 2024-02-07 |  |
 | [A Dover Find](https://open.spotify.com/track/3Msms0f4RJkKykOZ7Zmpfl) | [Seascape Legends](https://open.spotify.com/artist/1vwgUTET0ehuy4bqjY6EzM) | [Caruaru](https://open.spotify.com/album/5cQCtz9OSqRgy95RyORLEb) | 4:02 | 2021-11-10 | 2024-02-08 |
 | [A Sleepless Night](https://open.spotify.com/track/4H7oCuiiPH6gQTKfoBR9eo) | [Ella Ravn](https://open.spotify.com/artist/0EcHhtv02X5sMmofhqQo3c) | [A Sleepless Night](https://open.spotify.com/album/2e26oolMJM3ijJsrnqXZ8u) | 3:19 | 2021-11-10 | 2024-02-08 |
-| [A View of the World](https://open.spotify.com/track/0HdY6r6dTWZqWpBCDYsGz1) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [A View of the World](https://open.spotify.com/album/0hiOyQhl10gvBrvsKJeCvI) | 3:26 | 2024-07-09 |  |
+| [A View of the World](https://open.spotify.com/track/0HdY6r6dTWZqWpBCDYsGz1) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [A View of the World](https://open.spotify.com/album/0hiOyQhl10gvBrvsKJeCvI) | 3:26 | 2024-07-09 | 2024-08-03 |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2021-11-10 | 2024-02-08 |
 | [Above The Ocean](https://open.spotify.com/track/1nJ9P0D1KBjHvalUuFrLAZ) | [Nico Acosta](https://open.spotify.com/artist/4V4qWOu1lYx7qzhburyUXR) | [Above The Ocean](https://open.spotify.com/album/3CWxb7gYGw9HH2etUFxIh4) | 3:14 | 2022-06-16 |  |
 | [Across the Sky](https://open.spotify.com/track/2LqrkTxO7V6R0xoLEdtyaQ) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Across the Sky](https://open.spotify.com/album/2h7RIAyJ3vvnW4Wl8vnklD) | 2:09 | 2021-11-10 |  |
@@ -151,7 +151,7 @@
 | [Golden Day](https://open.spotify.com/track/7zpADkJtQQxS35VOsEoMFX) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Golden Day](https://open.spotify.com/album/64OFHtDp7uqCHqiJHXuEMw) | 2:59 | 2024-03-20 |  |
 | [Green Valley](https://open.spotify.com/track/6NqoYpqw31nAKmm7u4PGwE) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Green Valley](https://open.spotify.com/album/6HxwLfVq6FmX4LBfGZu8e6) | 2:22 | 2024-07-09 |  |
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2021-11-10 | 2024-06-14 |
-| [Heart Of The Keys](https://open.spotify.com/track/1Kdz8NQ38hoV1X258mG7Ek) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Heart Of The Keys](https://open.spotify.com/album/61oEbiiNFJuoE7g4u7yVo8) | 3:07 | 2024-02-07 |  |
+| [Heart Of The Keys](https://open.spotify.com/track/1Kdz8NQ38hoV1X258mG7Ek) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Heart Of The Keys](https://open.spotify.com/album/61oEbiiNFJuoE7g4u7yVo8) | 3:07 | 2024-02-07 | 2024-08-03 |
 | [Helios](https://open.spotify.com/track/7yn5JVn8ELqLtY9J8Ax2jg) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Helios](https://open.spotify.com/album/74ACVWSwjC9LZzELTChO89) | 2:52 | 2024-07-15 |  |
 | [Hohenbol](https://open.spotify.com/track/6TYZYNqAoYfE64csvrZyoy) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Between Camerae](https://open.spotify.com/album/64c0jCqYkzq1jhxFTve3Bq) | 3:20 | 2021-11-10 | 2024-02-08 |
 | [Hovering Sunset](https://open.spotify.com/track/3dN1wWNoL9pwA2FPUYdI07) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Hovering Sunset](https://open.spotify.com/album/0jhsxBqJRmTOJGlMu06CTh) | 2:31 | 2023-05-19 |  |
@@ -237,7 +237,7 @@
 | [Pondering Life](https://open.spotify.com/track/7BM5WFlytFqJ8j0FewyhA7) | [Emblemic X](https://open.spotify.com/artist/4wHW2mQQfB57p5IEdhB4SI) | [Pondering Life](https://open.spotify.com/album/1rJXoYBC9L9pojZ5FqTip3) | 2:36 | 2021-11-10 | 2022-09-15 |
 | [Portraits](https://open.spotify.com/track/3Vr1DtJ30TMsFZBs9WJIvM) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits](https://open.spotify.com/album/2USBHDZHtyMBWFXFwCYW3V) | 3:13 | 2021-11-10 | 2023-06-03 |
 | [Promising](https://open.spotify.com/track/7xweqrovC1B12NKeZkcfow) | [Decie Orion](https://open.spotify.com/artist/6zcIuvn0dlOdvzljMJFZfO) | [Promising](https://open.spotify.com/album/2iqBW2fFWm6dejo2Z3TQlb) | 2:57 | 2024-06-13 |  |
-| [Protect Your Soul](https://open.spotify.com/track/6R4Gy59aFE9fg8NOTJ5Ndg) | [Natural Space](https://open.spotify.com/artist/6kBh9KP21Uw1fbnq1oY9Nz), [Nazibrola](https://open.spotify.com/artist/6IIKAH6Oj6znfZZC0JsnUj), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Protect Your Soul](https://open.spotify.com/album/4ee4vOZ7YFEWfRYLPCtwSS) | 2:25 | 2024-02-27 |  |
+| [Protect Your Soul](https://open.spotify.com/track/6R4Gy59aFE9fg8NOTJ5Ndg) | [Nisli](https://open.spotify.com/artist/5VYMquDgNccyHZ4EWTFxHp), [Nazibrola](https://open.spotify.com/artist/6IIKAH6Oj6znfZZC0JsnUj), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Protect Your Soul](https://open.spotify.com/album/4ee4vOZ7YFEWfRYLPCtwSS) | 2:25 | 2024-02-27 |  |
 | [Pure Air](https://open.spotify.com/track/5dMI1sHkCxUWvh8vksx0Rz) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Pure Air](https://open.spotify.com/album/5DaR78zcqu8qM8MB5qRJwq) | 3:31 | 2021-11-10 | 2024-05-21 |
 | [Puste 432Hz](https://open.spotify.com/track/5QopDD6crrYIvVZ66EEjoG) | [Droneq](https://open.spotify.com/artist/190NqI0gt1k58C0bAwWkDH) | [Puste 432Hz](https://open.spotify.com/album/0wvCQeevi31eTbmSaLQRgJ) | 2:44 | 2024-03-06 |  |
 | [Quiet Lake](https://open.spotify.com/track/7lUKUjDzDLcBvQPnkZK0pq) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Quiet Lake](https://open.spotify.com/album/0FHVoflRoaPyg9YkEActnS) | 2:55 | 2024-06-13 |  |
@@ -264,7 +264,7 @@
 | [Self\-Reflection](https://open.spotify.com/track/5zeo2UddrkVqbHg7dt3jYb) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Self\-Reflection](https://open.spotify.com/album/10khRZPxXlxObbjZGHWLpV) | 2:50 | 2021-11-10 | 2023-10-13 |
 | [Sensible](https://open.spotify.com/track/0cQA4N9GRQOGkeM0vQPiXR) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Sensible](https://open.spotify.com/album/41x0rD0MzoYB2JXyhnHiCm) | 2:26 | 2024-07-09 |  |
 | [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 | 2023-04-14 | 2024-02-08 |
-| [Serenade of the Stars 528Hz](https://open.spotify.com/track/1RR3lD7yIpiE77aGGig6ba) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Serenade of the Stars 528Hz](https://open.spotify.com/album/0mYXnfN8a5anatWONeOWie) | 3:15 | 2024-02-27 |  |
+| [Serenade of the Stars 528Hz](https://open.spotify.com/track/1RR3lD7yIpiE77aGGig6ba) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Serenade of the Stars 528Hz](https://open.spotify.com/album/0mYXnfN8a5anatWONeOWie) | 3:15 | 2024-02-27 | 2024-08-03 |
 | [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 | 2022-06-16 |  |
 | [Shedding Light](https://open.spotify.com/track/1uF6tLWPKtC7ZwrsPDCAs8) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Shedding Light](https://open.spotify.com/album/5cF8G1iw5S37RwRI6udQpQ) | 2:51 | 2024-06-13 |  |
 | [Sierra](https://open.spotify.com/track/0ihdS5qYUcp7NHOSUNcVmt) | [Waves Of Wonder](https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn) | [Sierra](https://open.spotify.com/album/4IFEx0L0nEk1wCOpFssI2s) | 2:46 | 2024-05-20 |  |
@@ -310,6 +310,7 @@
 | [Through Your Eyes](https://open.spotify.com/track/1DERFIlUdiUtFCoLQIGdLj) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [Through Your Eyes](https://open.spotify.com/album/5yaMmCGAb7Auv5ZbX0flBQ) | 2:49 | 2021-11-10 | 2024-05-21 |
 | [Tillsammans](https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:10 | 2023-05-19 |  |
 | [Torpid](https://open.spotify.com/track/3YR3JfeREWuoI1jc6dPiT7) | [Munching Lads](https://open.spotify.com/artist/7r0lF5bpQ2mS3O7AXFYZzK) | [Torpid](https://open.spotify.com/album/1RhWO6Wb31pPQsQEttMYnW) | 2:55 | 2024-05-20 |  |
+| [Tranquil Peace](https://open.spotify.com/track/73NrNjXvnFMVLZzTJBtnaQ) | [Lyra Roman](https://open.spotify.com/artist/1f5idQf5kPjM5oYjXDHEGh) | [Tranquil Peace](https://open.spotify.com/album/6aFGahoS1LavDGknMxJS17) | 3:45 | 2024-08-02 |  |
 | [Tranquil Tides](https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa) | [Kimelén Millán](https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK) | [Tranquil Tides](https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg) | 2:57 | 2024-05-04 |  |
 | [Transversal](https://open.spotify.com/track/7bK5fNBLJtJZahNPKfROYQ) | [Dreamers' State](https://open.spotify.com/artist/6mA1DkmcKhcWZeDOiYfUV2) | [Transversal](https://open.spotify.com/album/5lazEuhqdHIUhieViF6qMd) | 2:56 | 2021-11-10 | 2022-04-22 |
 | [Trigg's Oldest Book](https://open.spotify.com/track/6cdMnYYMiYDrFvNzw1JTwS) | [Marsupial Habits](https://open.spotify.com/artist/09CaTdlZHZvTRb9HbIWQ2r) | [Trigg's Oldest Book](https://open.spotify.com/album/6zoKtZIvCDeKHbTlDMH4N3) | 3:48 | 2021-11-10 | 2022-09-07 |

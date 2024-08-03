@@ -4,7 +4,7 @@
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹 STE in cover ✨
 
-361 songs - 21 hr 14 min
+362 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/5OzQJGSICWovSJI3OFydQ9) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:02 | 2022-09-08 | 2022-11-13 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-04-01 | 2022-07-28 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-07-21 | 2023-01-26 |
+| [CI STA](https://open.spotify.com/track/6zIrf7OJAp2n8lVYwqrj8Y) | [LanaBanana](https://open.spotify.com/artist/0nR2NDa6AenGswLMkZLtEP) | [CI STA](https://open.spotify.com/album/4wePCRo9yRglxoDCEawirY) | 2:34 | 2024-08-01 |  |
 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 | 2023-01-24 | 2023-06-09 |
 | [Cicale](https://open.spotify.com/track/4c2ypSbxlEtTNcyJ6uZcdn) | [Heather Parisi](https://open.spotify.com/artist/1HgVjrg402nAvOjDlXXA2n) | [Disco Bambina](https://open.spotify.com/album/7hQWrNaDBlO6LxgoXycwL7) | 3:54 | 2023-01-24 | 2023-06-09 |
 | [Cicciolina](https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Amore Hardcore](https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw) | 4:37 | 2022-04-01 | 2023-01-22 |

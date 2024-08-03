@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,180 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,206 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 5 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 6 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
 | 7 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
-| 8 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
-| 9 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
+| 8 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
+| 9 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
 | 10 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
 | 11 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 | 12 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
@@ -43,18 +43,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 33 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 |
 | 34 | [Cherry](https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183) | 3:21 |
 | 35 | [Gaffe aux autres](https://open.spotify.com/track/6PbRfvvnsJr6fIi3iunNyn) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Paradis](https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL) | 2:51 |
-| 36 | [The Story of the Impossible](https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W) | [Going To Where The Tea Trees Are](https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU) | 3:37 |
-| 37 | [To Know Him Is To Love Him \- Live](https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:25 |
+| 36 | [To Know Him Is To Love Him \- Live](https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:25 |
+| 37 | [The Story of the Impossible](https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W) | [Going To Where The Tea Trees Are](https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU) | 3:37 |
 | 38 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 39 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 |
 | 40 | [Laissez\-moi danser](https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Laissez\-moi danser](https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK) | 2:52 |
 | 41 | [Slow Burn](https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 3:21 |
 | 42 | [Your Heart Is As Black As Night](https://open.spotify.com/track/3afTrFAg0LjBVL54PiHZSP) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/3LNuQe1oprSo8VcxgJnKAV) | 2:42 |
-| 43 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 |
-| 44 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
+| 43 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
+| 44 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 |
 | 45 | [A Man I Know](https://open.spotify.com/track/4Abirka1cnsMtWOMhpwKx5) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [Sometimes Awake](https://open.spotify.com/album/6IH8hFGQ2t5YKTcgNJTy4h) | 3:53 |
-| 46 | [Double Shifts](https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Double Shifts](https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb) | 3:28 |
-| 47 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 |
+| 46 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 |
+| 47 | [Double Shifts](https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Double Shifts](https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb) | 3:28 |
 | 48 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 |
 | 49 | [On the Road \- Radio Edit](https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [On the Road](https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d) | 3:12 |
 | 50 | [Il y a](https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:39 |

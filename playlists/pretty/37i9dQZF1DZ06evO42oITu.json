@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 353724,
+  "num_followers": 353772,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABbgkC4l8d4jxLROYU89tUj",
+  "snapshot_id": "ZqrQAAAAAAC716C+ovVl96l5Runj58Nd",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 332773,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 153480,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 332773,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 275520,
-      "name": "Ride the River",
-      "url": "https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 397200,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 275520,
+      "name": "Ride the River",
+      "url": "https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 310626,
-      "name": "Hard to Thrill",
-      "url": "https://open.spotify.com/track/0fX9pA3TukbkWCEdNoyysH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
         "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 317320,
       "name": "Sensitive Kind",
       "url": "https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 310626,
+      "name": "Hard to Thrill",
+      "url": "https://open.spotify.com/track/0fX9pA3TukbkWCEdNoyysH"
     },
     {
       "added_at": null,

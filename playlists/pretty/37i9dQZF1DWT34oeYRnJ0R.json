@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Boza & ELENA ROSE",
-  "num_followers": 665333,
+  "num_followers": 665334,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -1151,18 +1151,26 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "SAYONARA",
-        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
         }
       ],
-      "duration_ms": 183333,
-      "name": "QUI\u00c9N TE QUIERE COMO EL NENE",
-      "url": "https://open.spotify.com/track/0TaouwmpWakN1nTULu0aAK"
+      "duration_ms": 261713,
+      "name": "Andando",
+      "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -1187,26 +1195,18 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
       },
       "artists": [
         {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 261713,
-      "name": "Andando",
-      "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
+      "duration_ms": 183333,
+      "name": "QUI\u00c9N TE QUIERE COMO EL NENE",
+      "url": "https://open.spotify.com/track/0TaouwmpWakN1nTULu0aAK"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "Estoy Bien",
-        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Estoy Bien",
-      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
+        "name": "Estoy Bien",
+        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Estoy Bien",
+      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "BeSos aL vIEnTo :(",
-        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "BeSos aL vIEnTo :(",
-      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
         "name": "Limonadita Fresca",
         "url": "https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 200000,
       "name": "Limonadita Fresca",
       "url": "https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
+        "name": "BeSos aL vIEnTo :(",
+        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "BeSos aL vIEnTo :(",
+      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -2571,26 +2571,6 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "Ojos Negros",
-        "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "Ojos Negros",
-      "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
         "name": "DEKKOLETERA 333",
         "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
       },
@@ -2615,6 +2595,26 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
+        "name": "Ojos Negros",
+        "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "Ojos Negros",
+      "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -2627,26 +2627,6 @@
       "duration_ms": 186306,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
-        "name": "Moncler",
-        "url": "https://open.spotify.com/album/4z3TFbaDeiu8otwSY5aYCK"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 154350,
-      "name": "Moncler",
-      "url": "https://open.spotify.com/track/3be4DwYd4TsAyVycOG6rkY"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -2667,6 +2647,26 @@
       "duration_ms": 175407,
       "name": "Dejalos que hablen",
       "url": "https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
+        "name": "Moncler",
+        "url": "https://open.spotify.com/album/4z3TFbaDeiu8otwSY5aYCK"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 154350,
+      "name": "Moncler",
+      "url": "https://open.spotify.com/track/3be4DwYd4TsAyVycOG6rkY"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -2731,18 +2731,22 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "la manera que me ves",
-        "url": "https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr"
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
       "artists": [
         {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
         }
       ],
-      "duration_ms": 229549,
-      "name": "la manera que me ves",
-      "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -2767,22 +2771,18 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+        "name": "la manera que me ves",
+        "url": "https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr"
       },
       "artists": [
         {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 242373,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+      "duration_ms": 229549,
+      "name": "la manera que me ves",
+      "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
     },
     {
       "added_at": "2024-07-19 08:30:01",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: AJ Lee & Blue Summit",
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Billy Strings",
   "name": "New Grass",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 142054,
       "name": "10 Days of Isolation",
       "url": "https://open.spotify.com/track/18Ym8wNFDV5V2npH1feKEY"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 245800,
       "name": "Arlington",
       "url": "https://open.spotify.com/track/12koA2JkTvcMhL7WhHnYmu"
@@ -84,10 +84,46 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182600,
       "name": "Available",
       "url": "https://open.spotify.com/track/2GQf8q1tsX7cT0rIX0BLJw"
+    },
+    {
+      "album": {
+        "name": "Back with a Lonesome Sound",
+        "url": "https://open.spotify.com/album/2pCKHKFTmBm4NenqDPhBHV"
+      },
+      "artists": [
+        {
+          "name": "Andrew Crawford",
+          "url": "https://open.spotify.com/artist/3E6LMXGg2UtOW7LaC4OHgN"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224520,
+      "name": "Back with a Lonesome Sound",
+      "url": "https://open.spotify.com/track/6hWPn6VU12Yt9Qil3uRDGa"
+    },
+    {
+      "album": {
+        "name": "Banks of the Brandywine",
+        "url": "https://open.spotify.com/album/0K2ArK4zHcUciawzstdf07"
+      },
+      "artists": [
+        {
+          "name": "House of Hamill",
+          "url": "https://open.spotify.com/artist/0tQvB7Tf6Hd2RzlJM4eQal"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193301,
+      "name": "Banks of the Brandywine",
+      "url": "https://open.spotify.com/track/22vjLNPKIcugJUv3umqMoD"
     },
     {
       "album": {
@@ -258,7 +294,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 166132,
       "name": "Bop Your Head",
       "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
@@ -338,7 +374,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 118540,
       "name": "Buy A Box",
       "url": "https://open.spotify.com/track/7DxPi4F0ipHfNJejnFfebl"
@@ -418,6 +454,24 @@
       "duration_ms": 322678,
       "name": "Cloak of the Sun",
       "url": "https://open.spotify.com/track/2UoPZNMav7zszKwGVf1GQ6"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5hSNi2CMie5pr4CG2F5hF1"
+      },
+      "artists": [
+        {
+          "name": "The Wilder Flower",
+          "url": "https://open.spotify.com/artist/7bQu41HtZVGGuRjLUnQYaZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3Qvdl8h86LqXh9qFjKrvBB"
     },
     {
       "album": {
@@ -538,10 +592,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 185365,
       "name": "Dangerfield Newby",
       "url": "https://open.spotify.com/track/08otEkP88HytOAVaUqEjtc"
+    },
+    {
+      "album": {
+        "name": "Darlin Corey",
+        "url": "https://open.spotify.com/album/2LEdx7U8a3sSzSJmKOuf1u"
+      },
+      "artists": [
+        {
+          "name": "A.P. Rodgers",
+          "url": "https://open.spotify.com/artist/0eF4nW5iYoOXOEVgP5jNhA"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135230,
+      "name": "Darlin Corey",
+      "url": "https://open.spotify.com/track/2UFcexUGAYwuuskfg7HUcn"
     },
     {
       "album": {
@@ -956,10 +1028,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 230960,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0cu0Jlsd2N5xfMBcsUskRa"
+    },
+    {
+      "album": {
+        "name": "Grass is Greener",
+        "url": "https://open.spotify.com/album/0uG3J21GQVppHdRuGZSrwv"
+      },
+      "artists": [
+        {
+          "name": "Sicard Hollow",
+          "url": "https://open.spotify.com/artist/6KlgQd03pe6MIVSaszMWGr"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319337,
+      "name": "Grass is Greener",
+      "url": "https://open.spotify.com/track/0ygU1M7Q3IQD7AS3xDWWET"
     },
     {
       "album": {
@@ -1104,7 +1194,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 132488,
       "name": "Home Is Where the Heart Is",
       "url": "https://open.spotify.com/track/0UC2bb1TlnBx6PzYgAQsme"
@@ -1227,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "I Know What You Mean",
+        "url": "https://open.spotify.com/album/17YVk1o1CVWu3e9VyiSy6e"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "I Know What You Mean",
+      "url": "https://open.spotify.com/track/6XEwT02uieShVEMwnEXReU"
+    },
+    {
+      "album": {
         "name": "I Wake Up",
         "url": "https://open.spotify.com/album/5iDfW479F0adiqlj4sArOg"
       },
@@ -1321,6 +1429,46 @@
     },
     {
       "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295528,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
+    },
+    {
+      "album": {
+        "name": "Into the Wild",
+        "url": "https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254316,
+      "name": "Into the Wild",
+      "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
+    },
+    {
+      "album": {
         "name": "The Blackest Thing on the Menu",
         "url": "https://open.spotify.com/album/0QSJf6HZhBk5AO5aaMIh62"
       },
@@ -1368,7 +1516,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 269500,
       "name": "Jesus Satisfies",
       "url": "https://open.spotify.com/track/1XSPfOBqQlLL5mym6Q8gYG"
@@ -1447,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Leadfoot",
+        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165576,
+      "name": "Leadfoot",
+      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
+    },
+    {
+      "album": {
         "name": "Let It Fall",
         "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
       },
@@ -1488,6 +1654,24 @@
       "duration_ms": 258045,
       "name": "Let the Creek Rise",
       "url": "https://open.spotify.com/track/0TNTjUfgc4tGPH3sSPQ4Sj"
+    },
+    {
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
+      },
+      "artists": [
+        {
+          "name": "Aine Burns",
+          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
     },
     {
       "album": {
@@ -1542,7 +1726,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 225133,
       "name": "Love Her Madly",
       "url": "https://open.spotify.com/track/0YUD5sVmPo7eQTxbNXwEg8"
@@ -1680,7 +1864,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 239082,
       "name": "One Sunray At A Time",
       "url": "https://open.spotify.com/track/0IgtgB0NRDvceJCoNpJPg1"
@@ -1702,6 +1886,28 @@
       "duration_ms": 226797,
       "name": "Pickin' Flowers",
       "url": "https://open.spotify.com/track/1jf0sdpNgpxUvwqbrcKdlQ"
+    },
+    {
+      "album": {
+        "name": "Pigtails and Sugarcane",
+        "url": "https://open.spotify.com/album/1zjglH6iaLLvjJZRvnWh3B"
+      },
+      "artists": [
+        {
+          "name": "The Gina Furtado Project",
+          "url": "https://open.spotify.com/artist/2N6ZcQaRCxyffaBJRz9XDI"
+        },
+        {
+          "name": "Gina Furtado",
+          "url": "https://open.spotify.com/artist/71h7XjbAj2GHnKJmUBGztw"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227631,
+      "name": "Pigtails and Sugarcane",
+      "url": "https://open.spotify.com/track/5vlIOrHkAsaYqSku5c7T6f"
     },
     {
       "album": {
@@ -1756,7 +1962,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 316425,
       "name": "Poor Davey",
       "url": "https://open.spotify.com/track/41IKwf5EgWh066nQ7a9FVi"
@@ -1855,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Put the Bottle Down",
+        "url": "https://open.spotify.com/album/0A37fQB2igeVXrchYKC6ik"
+      },
+      "artists": [
+        {
+          "name": "Michael Prewitt",
+          "url": "https://open.spotify.com/artist/4s2da3g2gHWyQ4Ybz5hRBE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "Put the Bottle Down",
+      "url": "https://open.spotify.com/track/2uu4Is5D2M1wqDnj2zy1hZ"
+    },
+    {
+      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -1892,7 +2116,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 156000,
       "name": "Queen of Hearts",
       "url": "https://open.spotify.com/track/6CapK6i8NzCHNjORFaIDiv"
@@ -1990,10 +2214,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 210639,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW"
+    },
+    {
+      "album": {
+        "name": "Saint Anne's Nanigo",
+        "url": "https://open.spotify.com/album/7uxWYmF8TYOyfzgfhLjZsI"
+      },
+      "artists": [
+        {
+          "name": "Don Julin",
+          "url": "https://open.spotify.com/artist/7fqbIY3YTlJvcXw1jmWb14"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "Saint Anne's Nanigo",
+      "url": "https://open.spotify.com/track/5vkZKZOYgN3jnt2GW1KG7a"
     },
     {
       "album": {
@@ -2052,6 +2294,24 @@
       "duration_ms": 213733,
       "name": "She's Heavenly",
       "url": "https://open.spotify.com/track/08dgd5ijfEtgqu9dFlwrNT"
+    },
+    {
+      "album": {
+        "name": "Sin",
+        "url": "https://open.spotify.com/album/5dLLbUm5p2xsLa7jIRBI03"
+      },
+      "artists": [
+        {
+          "name": "Flatbird",
+          "url": "https://open.spotify.com/artist/6yWMbqmIS4hFFeK3ZoZVIN"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213191,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/1OkBrHgvXwQF88bjqx79ho"
     },
     {
       "album": {
@@ -2190,7 +2450,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 184106,
       "name": "Steady As The Rain",
       "url": "https://open.spotify.com/track/0fWb3D7jIhIcOPLNyoARqn"
@@ -2220,10 +2480,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 324626,
       "name": "The Devil Hath Power To Assume A Pleasing Shape",
       "url": "https://open.spotify.com/track/7ohOfE6xbJISPAQeHZlkFF"
+    },
+    {
+      "album": {
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
+      },
+      "artists": [
+        {
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
     },
     {
       "album": {
@@ -2300,7 +2578,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 194280,
       "name": "The Shipping Tunes: Shipping Port / Shipping Polska",
       "url": "https://open.spotify.com/track/7b9sQeOwYRnZew2hzRaMnG"
@@ -2326,6 +2604,24 @@
       "duration_ms": 173178,
       "name": "The Wandering Boy",
       "url": "https://open.spotify.com/track/2GE8U9rTREnInEkPQGD0G0"
+    },
+    {
+      "album": {
+        "name": "This Sad Song (Single Version) [Live]",
+        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138534,
+      "name": "This Sad Song (Single Version) [Live]",
+      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
     },
     {
       "album": {
@@ -2362,7 +2658,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 244000,
       "name": "Those Lonely, Lonely Nights",
       "url": "https://open.spotify.com/track/3oUASLqOrllZb3PD1Ypl1A"
@@ -2474,7 +2770,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 175344,
       "name": "Ugly Man's Wife",
       "url": "https://open.spotify.com/track/3TbaIvwrMrUd9GbtJ3hktc"

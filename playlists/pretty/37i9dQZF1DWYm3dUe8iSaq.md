@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,733 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,769 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 26 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
 | 27 | [Lost](https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lost](https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp) | 3:20 |
 | 28 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 |
-| 29 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
-| 30 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 |
+| 29 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 |
+| 30 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
 | 31 | [Full Circle](https://open.spotify.com/track/0ID888wUXbMfZVVPe0DtJg) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Full Circle](https://open.spotify.com/album/3sXZ5ffRKfELEF2urHXAvK) | 3:01 |
 | 32 | [After Hours](https://open.spotify.com/track/3cPWXpjXPPW8LIs27Bxv5c) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [After Hours](https://open.spotify.com/album/6OyLz1K6f82RCgcbsQ6jwv) | 3:12 |
 | 33 | [Forgive My Deceit](https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Forgive My Deceit](https://open.spotify.com/album/6PFN1RigCbz3GNRslMVPoY) | 3:07 |
@@ -68,25 +68,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 58 | [It Takes Time](https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [It Takes Time](https://open.spotify.com/album/4Yc4BxP7CnSSyTkT9FMU3U) | 3:20 |
 | 59 | [The Yellow Mile](https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:03 |
 | 60 | [Garden Of England](https://open.spotify.com/track/3niX005MakToUal5nk3x9M) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Garden Of England](https://open.spotify.com/album/1l3RkCJDJQQcEe3He0VPhZ) | 4:33 |
-| 61 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 |
-| 62 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
+| 61 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
+| 62 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 |
 | 63 | [THE CITY NEVER SLEEPS](https://open.spotify.com/track/3iWEE0xx3HFmVjFjsAyxzk) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [THE CITY NEVER SLEEPS](https://open.spotify.com/album/23moFrYISKXivaLiNPT8ai) | 4:10 |
 | 64 | [Hold the Lightning](https://open.spotify.com/track/7n3qWKfk3BrlofxO3iBalh) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Hold the Lightning](https://open.spotify.com/album/5SMaNZeG7QK1CpG0bk9CtH) | 3:37 |
 | 65 | [Give Me A Reason \- Demo Version](https://open.spotify.com/track/76u9IeQG9eJKeUMp9EmuMZ) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [I Don't Think I Do \(Demo Versions\)](https://open.spotify.com/album/5sWsinLSTjwtVFOSeOrsLc) | 3:46 |
-| 66 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
-| 67 | [Knowing U Exist](https://open.spotify.com/track/2d8kfISfGgiksl9Bl8kEXH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Knowing U Exist](https://open.spotify.com/album/50e9zfmHABJ6zaAK8HcIZm) | 2:23 |
-| 68 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
-| 69 | [Sentences](https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Sentences](https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b) | 2:13 |
-| 70 | [I'll Be Alright](https://open.spotify.com/track/4eI99hJrQpIJasCMRk75VT) | [Dominic Wright](https://open.spotify.com/artist/6JPpKyhX2EmJD1QqKrU9UE) | [I'll Be Alright](https://open.spotify.com/album/3aMgaRQFRwK4Y7iSwi4v9i) | 2:39 |
-| 71 | [June in July](https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt) | [June in July](https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S) | 3:16 |
-| 72 | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I) | 3:03 |
-| 73 | [\(not\) a love song \- live & acoustic](https://open.spotify.com/track/2mj6zKBKMGwSXU7LTpFoUc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [\(not\) a love song \[live & acoustic\]](https://open.spotify.com/album/43JpjTrym4qo42Ebls3F8R) | 2:49 |
+| 66 | [Knowing U Exist](https://open.spotify.com/track/2d8kfISfGgiksl9Bl8kEXH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Knowing U Exist](https://open.spotify.com/album/50e9zfmHABJ6zaAK8HcIZm) | 2:23 |
+| 67 | [Sentences](https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Sentences](https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b) | 2:13 |
+| 68 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 69 | [I'll Be Alright](https://open.spotify.com/track/4eI99hJrQpIJasCMRk75VT) | [Dominic Wright](https://open.spotify.com/artist/6JPpKyhX2EmJD1QqKrU9UE) | [I'll Be Alright](https://open.spotify.com/album/3aMgaRQFRwK4Y7iSwi4v9i) | 2:39 |
+| 70 | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I) | 3:03 |
+| 71 | [\(not\) a love song \- live & acoustic](https://open.spotify.com/track/2mj6zKBKMGwSXU7LTpFoUc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [\(not\) a love song \[live & acoustic\]](https://open.spotify.com/album/43JpjTrym4qo42Ebls3F8R) | 2:49 |
+| 72 | [June in July](https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt) | [June in July](https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S) | 3:16 |
+| 73 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
 | 74 | [For Your Touch](https://open.spotify.com/track/5VeUl0KzQQOm4qLzqTyX83) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [For Your Touch](https://open.spotify.com/album/3E6MTeXMibrYqUIqUnn9qO) | 3:02 |
 | 75 | [Message in a Bottle](https://open.spotify.com/track/5SwS67MTpN1WHX3GpaLe90) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Message in a Bottle](https://open.spotify.com/album/0L8bZJvJbaVCDw0WOMC8UY) | 4:00 |
 | 76 | [Room Service](https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:46 |
 | 77 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
-| 78 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
-| 79 | [strawberries for two](https://open.spotify.com/track/33AqMQTISnP1daTHunLVKO) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [strawberries for two](https://open.spotify.com/album/1kMlsA7I3l7LiskTVSlRNX) | 2:41 |
+| 78 | [strawberries for two](https://open.spotify.com/track/33AqMQTISnP1daTHunLVKO) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [strawberries for two](https://open.spotify.com/album/1kMlsA7I3l7LiskTVSlRNX) | 2:41 |
+| 79 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
 | 80 | [Like I Used To](https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Like I Used To](https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe) | 2:40 |
 
 Snapshot ID: `Zp8NCQAAAAC/P6lnHyzkVmxuELaMLdPu`

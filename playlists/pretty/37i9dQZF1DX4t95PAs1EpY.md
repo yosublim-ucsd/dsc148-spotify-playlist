@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,794 likes - 276 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,879 likes - 276 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 69 | [moonlit](https://open.spotify.com/track/06iDlhunxTvvaJp5GjlJ8I) | [dreamholder](https://open.spotify.com/artist/56kFTj4pDl6KHDi1J352pS) | [moonlit](https://open.spotify.com/album/3jlHIyISw3OGEaP3S6OS1I) | 2:29 |
 | 70 | [Evelyn Walk](https://open.spotify.com/track/2pWEy7ChzrcnPYJHATnXq3) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Evelyn Walk](https://open.spotify.com/album/0ichHI0kN9SDEbqJtGxxVq) | 2:37 |
 | 71 | [1st Snow](https://open.spotify.com/track/1P7bWWtP7ll4qBApqcLw3B) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [1st Snow](https://open.spotify.com/album/14NocT8uV7ZpWpGXqx3cxR) | 2:16 |
-| 72 | [Conspiracy](https://open.spotify.com/track/66I86wuKX4PxvGqiHFxSvK) | [Frank](https://open.spotify.com/artist/5qZcNO746AWwiBxDXBgCDU) | [Conspiracy](https://open.spotify.com/album/7Espl4AUElcBOlIMwwTIhj) | 2:19 |
+| 72 | [Conspiracy](https://open.spotify.com/track/66I86wuKX4PxvGqiHFxSvK) | [FRANK](https://open.spotify.com/artist/2q1lPSowgmgiCLtnSRMNMD) | [Conspiracy](https://open.spotify.com/album/7Espl4AUElcBOlIMwwTIhj) | 2:19 |
 | 73 | [Orchard Swing](https://open.spotify.com/track/70UrlQAcz7mXvcwI2HoQ9Z) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [Orchard Swing](https://open.spotify.com/album/1BxFSpxIcTFYqaEdYthEc0) | 2:23 |
 | 74 | [enfold](https://open.spotify.com/track/3hTUNqE8dmgR5yX7ddznM3) | [Leo Zane](https://open.spotify.com/artist/7xIrUrdfYoRUQdcBUGP3di) | [enfold](https://open.spotify.com/album/50En9P08lIcp2Sx8Nvt5Tp) | 1:59 |
 | 75 | [Glases](https://open.spotify.com/track/2VxHJ56b5NzDFVn1UiaKq5) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Glases](https://open.spotify.com/album/5X6bbZGSxZU5JCkPj237Y5) | 2:18 |

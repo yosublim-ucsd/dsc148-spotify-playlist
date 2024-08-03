@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "CI STA",
+        "url": "https://open.spotify.com/album/4wePCRo9yRglxoDCEawirY"
+      },
+      "artists": [
+        {
+          "name": "LanaBanana",
+          "url": "https://open.spotify.com/artist/0nR2NDa6AenGswLMkZLtEP"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "CI STA",
+      "url": "https://open.spotify.com/track/6zIrf7OJAp2n8lVYwqrj8Y"
+    },
+    {
+      "album": {
         "name": "Ciao Ciao",
         "url": "https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324 likes - 164 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325 likes - 164 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 72 | [Ain't Been Done](https://open.spotify.com/track/6rYXJEg4Ux6niQzGthcKSe) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Sweet Talker](https://open.spotify.com/album/1UTtCPjmaqzOD1StDaJGFX) | 3:00 |
 | 73 | [All The Ways To Say Goodbye](https://open.spotify.com/track/2z641vWISZBjlkCMfkYVW6) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mitch James \- Deluxe Edition](https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf) | 3:05 |
 | 74 | [Love Me Back](https://open.spotify.com/track/6D8WgDaIuyirn6egGauzVK) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Love Me Back](https://open.spotify.com/album/26tNi6v3WgUXYEvmYq5u2M) | 2:58 |
-| 75 | [Champagne](https://open.spotify.com/track/6cZC4pSjcJUAeBRq1xgonl) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Bad Intentions](https://open.spotify.com/album/4F1ozgQLd1ouFs63Tndy6Q) | 4:11 |
-| 76 | [Light My Fire \(feat\. Gwen Stefani & Shenseea\)](https://open.spotify.com/track/0D85y6hjCaHRjeB4VEXqPy) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:22 |
+| 75 | [Light My Fire \(feat\. Gwen Stefani & Shenseea\)](https://open.spotify.com/track/0D85y6hjCaHRjeB4VEXqPy) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:22 |
+| 76 | [Champagne](https://open.spotify.com/track/6cZC4pSjcJUAeBRq1xgonl) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Bad Intentions](https://open.spotify.com/album/4F1ozgQLd1ouFs63Tndy6Q) | 4:11 |
 | 77 | [New Rules x Are You That Somebody?](https://open.spotify.com/track/0M2ASyWJhjvc4AzneR7sG6) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 2:58 |
 | 78 | [Morning](https://open.spotify.com/track/00uY4XZhrmcr3VLHvLba10) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:55 |
 | 79 | [Nobody Else](https://open.spotify.com/track/2iK6RzhARWY8A6YlYPYksZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:38 |
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 153 | [Pitch Dark](https://open.spotify.com/track/69qTmGUnsoQj76ZqAPVyOm) | [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Personal Best](https://open.spotify.com/album/05JyBFPtta56x6uBvIfnal) | 3:16 |
 | 154 | [Bad Idea](https://open.spotify.com/track/5tu7LVow9lV2PwY7SeYEzl) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Not Your Princess](https://open.spotify.com/album/20jvxD6WnHc2BmNZFBjgau) | 2:47 |
 | 155 | [Home By Now \- Acoustic](https://open.spotify.com/track/3zlTQomszReVaRPogHzymz) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 3:38 |
-| 156 | [Not Ready To Dance](https://open.spotify.com/track/0TxxhMgiNpgfuNjSVMiTCB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:01 |
-| 157 | [Vicio \- Ft\. Mala Rodríguez](https://open.spotify.com/track/0w1jdJh9PcYgT6xBFFnSQI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 3:28 |
+| 156 | [Vicio \- Ft\. Mala Rodríguez](https://open.spotify.com/track/0w1jdJh9PcYgT6xBFFnSQI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 3:28 |
+| 157 | [Not Ready To Dance](https://open.spotify.com/track/0TxxhMgiNpgfuNjSVMiTCB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:01 |
 | 158 | [For All the Times I Fell on My Face](https://open.spotify.com/track/49mFYi8xN7QCz7D7bRRvnW) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [For All the Times I Fell on My Face](https://open.spotify.com/album/2UMiOMR9wZU1MHzc15jhLO) | 2:50 |
 | 159 | [Say It](https://open.spotify.com/track/6jsVeEF5uzNEeXQbXQnLvj) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 2:44 |
 | 160 | [As Long As I'm Alive](https://open.spotify.com/track/3J67uowpSOKMWVHkkC10Wd) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 2:52 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 163 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 164 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbYSXgAAAAAOnE5fKbEBx4YpcZzEtGCd`
+Snapshot ID: `AbYX/gAAAADdUdcgU68jzjRzxRV+kDSg`

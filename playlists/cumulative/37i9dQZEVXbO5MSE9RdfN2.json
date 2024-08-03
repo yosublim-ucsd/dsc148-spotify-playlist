@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 225158,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/31ZFsq0fG1z4933BlWOAjJ"
@@ -6092,7 +6110,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 163458,
       "name": "Look At That Woman",
       "url": "https://open.spotify.com/track/6Op1AAvS0Jb3Gbom92zadJ"
@@ -6430,7 +6448,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 137158,
       "name": "Magic Johnson",
       "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn"
@@ -9044,10 +9062,50 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 167291,
       "name": "SIN MIEDO",
       "url": "https://open.spotify.com/track/4qAQTQH5lF4kINZ9JkURXp"
+    },
+    {
+      "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167291,
+      "name": "SIN MIEDO",
+      "url": "https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o"
+    },
+    {
+      "album": {
+        "name": "sining (feat. Jay R)",
+        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "sining (feat. Jay R)",
+      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 6356,
+  "num_followers": 6357,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABNpi1se/UwWrWJ9mDWfgI2",
+  "snapshot_id": "ZqrQAAAAAAAKqalSwEHLZzKCkUWfWHjH",
   "tracks": [
     {
       "added_at": null,
@@ -411,30 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Blues",
-        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anthology: His Early Years (Remastered)",
         "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 179920,
       "name": "Don't Have To Hunt No More",
       "url": "https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 150666,
-      "name": "Last Boogie",
-      "url": "https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP"
+      "duration_ms": 183000,
+      "name": "Hate To See You Go - Extended",
+      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Hate To See You Go - Extended",
-      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
+      "duration_ms": 150666,
+      "name": "Last Boogie",
+      "url": "https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,319 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,322 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 40 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
 | 41 | [Peron](https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d) | [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Milosc](https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB) | 3:15 |
 | 42 | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82) | 3:30 |
-| 43 | [Dom](https://open.spotify.com/track/2GUF1UURIjLPGJtZxCXEEb) | [Bitamina](https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ) | [Kawalerka](https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h) | 4:12 |
+| 43 | [Nie kłam że mnie kochasz](https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP) | [Ewelina Flinta](https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v), [Łukasz Zagrobelny](https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0) | [Nie kłam że mnie kochasz](https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0) | 3:06 |
 | 44 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |
-| 45 | [Nie kłam że mnie kochasz](https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP) | [Ewelina Flinta](https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v), [Łukasz Zagrobelny](https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0) | [Nie kłam że mnie kochasz](https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0) | 3:06 |
+| 45 | [Dom](https://open.spotify.com/track/2GUF1UURIjLPGJtZxCXEEb) | [Bitamina](https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ) | [Kawalerka](https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h) | 4:12 |
 | 46 | [Ale jazz!](https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Ale jazz!](https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc) | 3:07 |
 | 47 | [Kiedyś do Ciebie wrócę](https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [Never Ending Sorry](https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe) | 3:49 |
 | 48 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 |

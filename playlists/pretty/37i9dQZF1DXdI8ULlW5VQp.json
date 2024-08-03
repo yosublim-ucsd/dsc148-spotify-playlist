@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Lila Downs, Ni\u00f1a Pastori y Soledad en portada.",
-  "num_followers": 70370,
+  "num_followers": 70425,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,18 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Cuatro Estaciones",
-        "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
+        "name": "pesimista",
+        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 192066,
-      "name": "Subt\u00edtulos",
-      "url": "https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM"
+      "duration_ms": 234453,
+      "name": "pesimista",
+      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -615,18 +611,22 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "pesimista",
-        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
+        "name": "Cuatro Estaciones",
+        "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
       },
       "artists": [
         {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 234453,
-      "name": "pesimista",
-      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
+      "duration_ms": 192066,
+      "name": "Subt\u00edtulos",
+      "url": "https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -755,18 +755,22 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
+        "name": "Estar contigo (feat. La Oreja de Van Gogh)",
+        "url": "https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
         }
       ],
-      "duration_ms": 199080,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+      "duration_ms": 237662,
+      "name": "Estar contigo (feat. La Oreja de Van Gogh)",
+      "url": "https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -787,22 +791,18 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Estar contigo (feat. La Oreja de Van Gogh)",
-        "url": "https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y"
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
       },
       "artists": [
         {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 237662,
-      "name": "Estar contigo (feat. La Oreja de Van Gogh)",
-      "url": "https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd"
+      "duration_ms": 199080,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Hubo Algo",
-        "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 311618,
-      "name": "Hubo Algo",
-      "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Solo Los Amantes Sobreviven",
         "url": "https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 196071,
       "name": "Solo Los Amantes Sobreviven",
       "url": "https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Hubo Algo",
+        "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 311618,
+      "name": "Hubo Algo",
+      "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
     },
     {
       "added_at": "2024-07-11 02:20:32",

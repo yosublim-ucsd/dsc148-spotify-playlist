@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxJ7o7YYYQA.md) - [plain]
 
 > Celebrate SAHM with a vibrant playlist by The Juggernaut, dedicated to powerful South Asian women\. Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 388 likes - 35 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 35 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxJ7o7YYYQA.md) - [plain]
 | 25 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 |
 | 26 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 |
 | 27 | [Najeek](https://open.spotify.com/track/6darP2PR5PxDHrQgCRO1Xo) | [Bartika Eam Rai](https://open.spotify.com/artist/0iK3Z8bWIvj3PKVcUoOwGM) | [Bimbaakash](https://open.spotify.com/album/0VtyEsiLeoneN2xlb2m1kr) | 5:11 |
-| 28 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 |
+| 28 | [Oo Antava Oo Oo Antava \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Oo Antava Oo Oo Antava \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 |
 | 29 | [Rozi](https://open.spotify.com/track/2MKceKWilgjYW6lgVYyAOr) | [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO) | [Rozi](https://open.spotify.com/album/3b4JTQX4pQh7tSY1qgjUBq) | 2:26 |
 | 30 | [Medley](https://open.spotify.com/track/74JiZc0DoIjbferDrdMknq) | [Ustad Mahwash](https://open.spotify.com/artist/4sp9HW4nLjLtF0nAq9EjSG) | [Medley](https://open.spotify.com/album/6lC43AQh50v17OddgOTqk6) | 5:56 |
 | 31 | [Baalkada](https://open.spotify.com/track/2HMHtS2FkFWtJ1TcCGVEPa) | [Lucky](https://open.spotify.com/artist/6EVH8rZ1EAJxprA8Izh6Je), [Naghma](https://open.spotify.com/artist/1JIYTPv8hiP0NWrxuSDFS8), [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 3:58 |

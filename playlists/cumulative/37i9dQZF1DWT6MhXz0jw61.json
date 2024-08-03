@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Saba",
+  "description": "Chillout hip-hop vibes. Cover: Cordae",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -138,6 +138,24 @@
       "duration_ms": 235400,
       "name": "10 Speed",
       "url": "https://open.spotify.com/track/436fxvQ60kobW2yR6QflJ3"
+    },
+    {
+      "album": {
+        "name": "Wiz Owens",
+        "url": "https://open.spotify.com/album/4BSjZSAOEX6Gs4f8e1xatg"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "1200 to Smoke",
+      "url": "https://open.spotify.com/track/5xwODX8Xu4Oqxt4U93xtZ9"
     },
     {
       "album": {
@@ -748,7 +766,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 160000,
       "name": "Ain't Right",
       "url": "https://open.spotify.com/track/0MV8WKH14glKpvYDgDuFNa"
@@ -930,7 +948,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 208887,
       "name": "ALL I WANT/80's PARENTS",
       "url": "https://open.spotify.com/track/57ZjEZwFveRQVPtTp6UZV7"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 224680,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/1I4zlFuNyJD2xPvZ52geF4"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 217454,
       "name": "Blade (feat. Jay Worthy)",
       "url": "https://open.spotify.com/track/5Y3tgidBGa5P1aXBx3kcUm"
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 207561,
       "name": "Burnout (feat. Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/3QdgBMPfjejoFj884lVa9K"
@@ -3344,6 +3362,32 @@
       "duration_ms": 175752,
       "name": "Caught In Thoughts",
       "url": "https://open.spotify.com/track/17Wx7gWgLsNURCittOUKCP"
+    },
+    {
+      "album": {
+        "name": "Cecil Fielder",
+        "url": "https://open.spotify.com/album/77eO9nEYH6BVgNaMK57uCE"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153725,
+      "name": "Cecil Fielder",
+      "url": "https://open.spotify.com/track/5RVrnIt1wsYM3j4BhlIghB"
     },
     {
       "album": {
@@ -4604,7 +4648,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 169430,
       "name": "December 26th",
       "url": "https://open.spotify.com/track/7wdckPAlAbwizSbNMr3RfW"
@@ -4684,7 +4728,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 201796,
       "name": "Deja Vu (feat. DJ Drama)",
       "url": "https://open.spotify.com/track/1hDtQHr9OveHVpE4RlvM9G"
@@ -4866,6 +4910,24 @@
       "duration_ms": 187668,
       "name": "DILLA BAP",
       "url": "https://open.spotify.com/track/5CzilSE4MP5p8eUa15rd1V"
+    },
+    {
+      "album": {
+        "name": "the villain wins",
+        "url": "https://open.spotify.com/album/37pthVfyembuuFlsRCeb35"
+      },
+      "artists": [
+        {
+          "name": "MESSIAH!",
+          "url": "https://open.spotify.com/artist/7nfddgqZWzCgRcgZvjJqgo"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "dirt don't hurt",
+      "url": "https://open.spotify.com/track/5PtOYZI2dS2g9rlptEubpv"
     },
     {
       "album": {
@@ -5684,6 +5746,24 @@
       "duration_ms": 175203,
       "name": "Eee Zee",
       "url": "https://open.spotify.com/track/5qlP944NySkgAtkzVGE0G3"
+    },
+    {
+      "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140593,
+      "name": "either on or off the drugs",
+      "url": "https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w"
     },
     {
       "album": {
@@ -6508,7 +6588,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186122,
       "name": "FIRST OF THE MONTH",
       "url": "https://open.spotify.com/track/7u90QLHJozCFb6KUaFKPe4"
@@ -6530,6 +6610,24 @@
       "duration_ms": 262560,
       "name": "Fishes",
       "url": "https://open.spotify.com/track/44A7sEU3BaDxjAPE5aupcS"
+    },
+    {
+      "album": {
+        "name": "GABOS (Game Ain't Based on Sympathy)",
+        "url": "https://open.spotify.com/album/5Tv01d3zlolTpVHpaZL4pT"
+      },
+      "artists": [
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217172,
+      "name": "Fixture",
+      "url": "https://open.spotify.com/track/15veR4i3gPuF9CHnoKdU40"
     },
     {
       "album": {
@@ -6902,6 +7000,24 @@
       "duration_ms": 172673,
       "name": "Fortune 500",
       "url": "https://open.spotify.com/track/4lYWHwaljHyjOpb2cRcqoE"
+    },
+    {
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/672yUzPtgtSo31iaSjwEfj"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183267,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/4x2MPVow6tEB7NTxEOdFuc"
     },
     {
       "album": {
@@ -7467,6 +7583,28 @@
     },
     {
       "album": {
+        "name": "the villain wins",
+        "url": "https://open.spotify.com/album/37pthVfyembuuFlsRCeb35"
+      },
+      "artists": [
+        {
+          "name": "MESSIAH!",
+          "url": "https://open.spotify.com/artist/7nfddgqZWzCgRcgZvjJqgo"
+        },
+        {
+          "name": "Vayda",
+          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123906,
+      "name": "god's fav",
+      "url": "https://open.spotify.com/track/7qd2vngyZFpqA4O12uigPA"
+    },
+    {
+      "album": {
         "name": "Too Good To Be True",
         "url": "https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX"
       },
@@ -7890,7 +8028,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 208057,
       "name": "GURBS & YOUNGS (feat. Larry June)",
       "url": "https://open.spotify.com/track/5BDDt3tVIa9W5kiJmJZ2Ww"
@@ -8835,6 +8973,28 @@
     },
     {
       "album": {
+        "name": "Hyde Park",
+        "url": "https://open.spotify.com/album/71t10UNvIQe0XlJJJzhoEv"
+      },
+      "artists": [
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        },
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129925,
+      "name": "Hyde Park",
+      "url": "https://open.spotify.com/track/3W50xDzVZNF6VHDblZLASn"
+    },
+    {
+      "album": {
         "name": "hyogo",
         "url": "https://open.spotify.com/album/2ASDSaBeaz82gXuU0BonvZ"
       },
@@ -9271,6 +9431,24 @@
     },
     {
       "album": {
+        "name": "the villain wins",
+        "url": "https://open.spotify.com/album/37pthVfyembuuFlsRCeb35"
+      },
+      "artists": [
+        {
+          "name": "MESSIAH!",
+          "url": "https://open.spotify.com/artist/7nfddgqZWzCgRcgZvjJqgo"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110333,
+      "name": "in the mourning",
+      "url": "https://open.spotify.com/track/77MEg4e5YVuhuSrFTmJGjD"
+    },
+    {
+      "album": {
         "name": "Instincts",
         "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
       },
@@ -9504,6 +9682,28 @@
       "duration_ms": 194022,
       "name": "Jerry Curl (feat. Larry June)",
       "url": "https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1"
+    },
+    {
+      "album": {
+        "name": "Wiz Owens",
+        "url": "https://open.spotify.com/album/4BSjZSAOEX6Gs4f8e1xatg"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204904,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/2qnRlW2WMLDYmr4jfySdaS"
     },
     {
       "album": {
@@ -10112,7 +10312,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 173106,
       "name": "KOMPRESSOR",
       "url": "https://open.spotify.com/track/4PvR0sNCLMTzKHzVOAVNbO"
@@ -11294,7 +11494,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 187020,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/6jk4PTrPCIXqHTCpTdMyI5"
@@ -11986,6 +12186,24 @@
       "duration_ms": 255560,
       "name": "Mumble Rap",
       "url": "https://open.spotify.com/track/0yEc3E8I61boAM4ADMldtn"
+    },
+    {
+      "album": {
+        "name": "GABOS (Game Ain't Based on Sympathy)",
+        "url": "https://open.spotify.com/album/5Tv01d3zlolTpVHpaZL4pT"
+      },
+      "artists": [
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156880,
+      "name": "My Bike",
+      "url": "https://open.spotify.com/track/1jVJdiTMRf0rOqzblJlcJ7"
     },
     {
       "album": {
@@ -13048,7 +13266,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 126000,
       "name": "our daily bread",
       "url": "https://open.spotify.com/track/2BZfFTse4OSlBkOFDxfaJe"
@@ -14618,7 +14836,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 172000,
       "name": "RESPECT THAT",
       "url": "https://open.spotify.com/track/145SQIWGlRlVrOnb7BAFAd"
@@ -15828,6 +16046,24 @@
       "duration_ms": 233642,
       "name": "Small Victories (feat. Dom Chronicles)",
       "url": "https://open.spotify.com/track/78ETzZgKUZBqeFjDambGmp"
+    },
+    {
+      "album": {
+        "name": "Wiz Owens",
+        "url": "https://open.spotify.com/album/4BSjZSAOEX6Gs4f8e1xatg"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137270,
+      "name": "Smoke break",
+      "url": "https://open.spotify.com/track/2Rk53LpfqeeC9aCZagtLT1"
     },
     {
       "album": {
@@ -17953,6 +18189,24 @@
     },
     {
       "album": {
+        "name": "Memoirs In Armour",
+        "url": "https://open.spotify.com/album/4HgkXIyPXtXueFq7swBqXa"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149038,
+      "name": "Time Slips",
+      "url": "https://open.spotify.com/track/0G1dRqxX1KHMrwvKpqVgbn"
+    },
+    {
+      "album": {
         "name": "END OF THE EARTH",
         "url": "https://open.spotify.com/album/1sFz8iZfEzeIhQpTwLoguz"
       },
@@ -18062,7 +18316,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
@@ -18370,6 +18624,24 @@
       "duration_ms": 216189,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/7FM9XdexrrYaoPFZ6Ggn0k"
+    },
+    {
+      "album": {
+        "name": "Tryin' to Play Me",
+        "url": "https://open.spotify.com/album/6zDqz2lliTI1j18F6fBLrZ"
+      },
+      "artists": [
+        {
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Tryin' to Play Me",
+      "url": "https://open.spotify.com/track/1CFYvRq6i4O0i5FvziWt57"
     },
     {
       "album": {

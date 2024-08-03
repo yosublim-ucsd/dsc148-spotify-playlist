@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,973 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,030 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 18 | [It's Dark, It's Cold, It's Winter](https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [sleepmakeswaves](https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp) | 4:50 |
 | 19 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 |
 | 20 | [Requiem](https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Reanimation](https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy) | 2:12 |
-| 21 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 |
+| 21 | [Twentytwofourteen](https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In A Safe Place](https://open.spotify.com/album/1sHRD82NYs8RKZtlXatlkC) | 5:40 |
 | 22 | [The First Glimmer of Wind](https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [James](https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z) | 5:54 |
-| 23 | [Twentytwofourteen](https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In A Safe Place](https://open.spotify.com/album/1sHRD82NYs8RKZtlXatlkC) | 5:40 |
+| 23 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 |
 | 24 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 |
 | 25 | [Rooftop](https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Vespertine](https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5) | 5:50 |
 | 26 | [In Collusion with the Waves](https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [The Ever Shifting Fields](https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL) | 4:37 |
@@ -67,18 +67,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 57 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
 | 58 | [Astronomer](https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Home](https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig) | 3:50 |
 | 59 | [Love is a Shelter](https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk) | [All Stars Dying](https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP), [Make Like A Tree](https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk) | [Love is a Shelter](https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX) | 6:00 |
-| 60 | [The Blurred Horizon](https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM) | [Tuesday The Sky](https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q) | [The Blurred Horizon](https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi) | 3:56 |
-| 61 | [Abell 1835](https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI) | 3:55 |
+| 60 | [Abell 1835](https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI) | 3:55 |
+| 61 | [The Blurred Horizon](https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM) | [Tuesday The Sky](https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q) | [The Blurred Horizon](https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi) | 3:56 |
 | 62 | [The Station](https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs) | [Screen Time](https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3) | 2:44 |
 | 63 | [Reflection](https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM) | [Interstellar Noise](https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT) | [Reflection](https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP) | 3:47 |
 | 64 | [Back To Dangerous](https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Pajama Avenue](https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E) | 3:52 |
-| 65 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
-| 66 | [Next Level](https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK) | [Flumina](https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT) | [Next Level](https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu) | 3:34 |
+| 65 | [Next Level](https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK) | [Flumina](https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT) | [Next Level](https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu) | 3:34 |
+| 66 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
 | 67 | [Nova](https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Nova](https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f) | 7:00 |
 | 68 | [A Letter from the Past](https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [bu.re\_](https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0) | [Momentary Ghosts](https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI) | 4:43 |
 | 69 | [Floating Above Saturn](https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6) | [Framed By Stars](https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf) | [Floating Above Saturn](https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW) | 2:17 |
-| 70 | [As She Bends Towards the Sun](https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc) | [Teoay](https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1) | [As She Bends Towards the Sun](https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7) | 4:47 |
-| 71 | [endless, somewhere](https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu) | [Nitewalk](https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI) | [endless, somewhere](https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK) | 3:36 |
+| 70 | [endless, somewhere](https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu) | [Nitewalk](https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI) | [endless, somewhere](https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK) | 3:36 |
+| 71 | [As She Bends Towards the Sun](https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc) | [Teoay](https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1) | [As She Bends Towards the Sun](https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7) | 4:47 |
 | 72 | [Elsewhere](https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c) | 3:54 |
 | 73 | [Lakeshore](https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Lakeshore](https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM) | 2:44 |
 | 74 | [Old Moon](https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Songs to Disappear to](https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz) | 4:17 |

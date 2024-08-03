@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joe Mettle
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,578 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,587 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 29 | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM) | 3:46 |
 | 30 | [Sometin](https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Sometin](https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP) | 3:41 |
 | 31 | [Nyame Tumfo \(Live\)](https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Live in Kumasi](https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz) | 4:40 |
-| 32 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
-| 33 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |
+| 32 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |
+| 33 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
 | 34 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 |
 | 35 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
 | 36 | [Matwen 20](https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Matwen 20](https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6) | 6:05 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 46 | [Borborbor Gospel Medley](https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Borborbor Gospel Medley](https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189) | 8:37 |
 | 47 | [Come and See](https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Come and See](https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g) | 5:42 |
 | 48 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |
-| 49 | [Dey for Me](https://open.spotify.com/track/6IFBTP7ujkvsMyUtBWfiig) | [T\-Danso](https://open.spotify.com/artist/4uIplVsgSm9UaKgsboAPPg), [Abdul Rasheed](https://open.spotify.com/artist/0j3nwCJZ55fwOMZBVwDiQc), [Christoven](https://open.spotify.com/artist/62uzocPwW8AA2xs5meq351) | [Dey for Me](https://open.spotify.com/album/1JFIPC4W4jShU0Au1jI3rv) | 3:33 |
-| 50 | [Mile \(I Know\)](https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD) | [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [Mile \(I Know\)](https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2) | 5:42 |
+| 49 | [Mile \(I Know\)](https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD) | [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [Mile \(I Know\)](https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2) | 5:42 |
+| 50 | [Se Mekume Ho](https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Golden Oil](https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm) | 4:34 |
 
 Snapshot ID: `ZqwhvAAAAACIdXd4KsrpebshJjuIE2kS`

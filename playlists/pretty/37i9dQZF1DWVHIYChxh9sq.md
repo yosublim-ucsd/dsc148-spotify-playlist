@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,450 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,470 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 28 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 |
 | 29 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 |
 | 30 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:39 |
-| 31 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 |
-| 32 | [La Novena Maravilla \- En Vivo](https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 2:53 |
+| 31 | [La Novena Maravilla \- En Vivo](https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 2:53 |
+| 32 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 |
 | 33 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 |
 | 34 | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf) | 3:46 |
 | 35 | [Comando X \(En Vivo\)](https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 4:11 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 97 | [Zutano \(En Vivo\)](https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Más Vivo Que En Vivo \(Vol\. 3\)](https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs) | 3:28 |
 | 98 | [Aguanta Corazon](https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:17 |
 | 99 | [Margarita Margarita \(En Vivo\)](https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Chicago](https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb) | 2:43 |
-| 100 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
+| 100 | [El Sube y Baja \- En vivo](https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [Comando Único con Compa Danny \(En vivo\)](https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74) | 2:37 |
 
 Snapshot ID: `ZpotAAAAAAAY2ZvroTyO5S5Laaawrrou`

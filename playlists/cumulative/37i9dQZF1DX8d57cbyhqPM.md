@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Ninho & Niska
+> Du Congo, au monde\. 🌍 Photo: Tonton Fally Ipupa
 
-418 songs - 1 day 1 hr 1 min
+419 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Lindanda \(Na Na Na\)](https://open.spotify.com/track/1WVQgMIn7Z7iRzYnuuyQNJ) | [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Lindanda \(Na Na Na\)](https://open.spotify.com/album/4VInPeCg4LZJmXfs8RdGWk) | 5:20 | 2022-12-30 | 2023-03-18 |
 | [Linga Nga](https://open.spotify.com/track/7IK4uieP9QrhMvlWF2drR4) | [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Linga Nga](https://open.spotify.com/album/7bpFRNNu19pJM5WKarDQjD) | 3:50 | 2023-07-14 |  |
 | [Lipeka](https://open.spotify.com/track/5Q92Lz6MiwfmIIly1vs9ar) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Lipeka](https://open.spotify.com/album/4ic6LQoZ1bBuU3WMoXBWfp) | 3:09 | 2023-10-27 | 2024-06-01 |
-| [LOCO](https://open.spotify.com/track/57GuM2WRpj1WgUhBemLmNp) | [DM Saninga](https://open.spotify.com/artist/4MbqH0v14aKW20x1bmTYMZ) | [LOCO](https://open.spotify.com/album/5MeWpAB3ROXkvIYnQ7rc1x) | 3:32 | 2024-07-12 |  |
+| [LOCO](https://open.spotify.com/track/57GuM2WRpj1WgUhBemLmNp) | [DM Saninga](https://open.spotify.com/artist/4MbqH0v14aKW20x1bmTYMZ) | [LOCO](https://open.spotify.com/album/5MeWpAB3ROXkvIYnQ7rc1x) | 3:32 | 2024-07-12 | 2024-08-03 |
 | [Loi](https://open.spotify.com/track/3ERMjh3EfOWWoLJjcxtpvt) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Loi](https://open.spotify.com/album/3GTtST9Tk2rcDNxV5YFIBy) | 5:35 | 2022-06-30 | 2023-09-16 |
 | [Loketu](https://open.spotify.com/track/1z1QfpUCH0tp9T5aAVLStB) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Loketu](https://open.spotify.com/album/7iAhhT4SscGaSNhsNEUFH6) | 2:35 | 2022-06-30 | 2022-08-27 |
 | [Lolita](https://open.spotify.com/track/50P2sl58J2SGimBtMAuYmz) | [Lova Lova](https://open.spotify.com/artist/6pvXW87pGB0XovnUHo8xvC), [Natascha Wiese](https://open.spotify.com/artist/3jgWVKfoiuzEJcLrPBCDbr) | [Lolita](https://open.spotify.com/album/1gwnP9Kx0kf3kHnap68sry) | 3:38 | 2023-02-03 | 2023-02-25 |
@@ -259,6 +259,7 @@
 | [Motema](https://open.spotify.com/track/6VWkqhuIWghoye62r47cpn) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Erratum \(Deluxe Edition\)](https://open.spotify.com/album/12bDmtxnWnTnZxNF8kpvac) | 2:55 | 2022-06-30 | 2023-04-01 |
 | [Motivation](https://open.spotify.com/track/4i4VJqautuPs4c8WlgdQzz) | [Mc\-cool Anguzo](https://open.spotify.com/artist/70mPeHdPgAIeOYhjL8xtBr) | [Motivation](https://open.spotify.com/album/48fSfulmRvtuVOKZXn6a8F) | 4:02 | 2022-10-07 | 2023-01-28 |
 | [MOTO YA 2 FOIS TE](https://open.spotify.com/track/0ItpulUvbfHp5BUhWRWHku) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOTO YA 2 FOIS TE](https://open.spotify.com/album/0X1gWuPzMfMrAJQQctSGjW) | 3:43 | 2022-12-08 | 2023-03-18 |
+| [Motorola](https://open.spotify.com/track/4jq8PMTOOihw7VKEKKn2cg) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Motorola](https://open.spotify.com/album/0bUh1Narkl3HWZ9h37wPkE) | 3:28 | 2024-08-02 |  |
 | [MUANA MUKIE](https://open.spotify.com/track/4CozW8gCGgM6LGddrdLTyR) | [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [KINSHASA BOY](https://open.spotify.com/album/0red0DSnEtH6YcoYNsLDEg) | 2:36 | 2024-03-15 | 2024-04-27 |
 | [Mukila](https://open.spotify.com/track/76Z253AF0PcCEOFbBy3TeS) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Mukila](https://open.spotify.com/album/77JAOcjSdDRaB5PW1j0zDM) | 3:02 | 2022-06-30 | 2022-07-09 |
 | [Mukongo](https://open.spotify.com/track/6WVDlfwQiquzD8daC0vCgI) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te), [Bill Clinton Kalonji](https://open.spotify.com/artist/7LuYI195pq8XPB6FutPLdD) | [Mukongo](https://open.spotify.com/album/5gfuY6txGvt4B32LE5F92L) | 2:50 | 2023-11-24 | 2023-12-09 |

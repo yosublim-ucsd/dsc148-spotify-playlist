@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,992 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,001 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 27 | [B.G.P](https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL) | 2:21 |
 | 28 | [Honey Buns](https://open.spotify.com/track/0C6dB6iIQRiZLgcdikCoEM) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Honey Buns](https://open.spotify.com/album/56MsWrdkn94VqL4xh8iMMj) | 3:52 |
 | 29 | [Move Up](https://open.spotify.com/track/3LNZ1bU1WdBkoLzbBVb2Ps) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/2dFozDdhNAGV8pjll0ztay) | 3:07 |
-| 30 | [NEW REAL](https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt) | 3:15 |
+| 30 | [27CLUB feat\. LEX](https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:41 |
 | 31 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 32 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 |
 | 33 | [Up It](https://open.spotify.com/track/2zEhSBJu10otiGCj3De31s) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LIL FOGGY](https://open.spotify.com/artist/2RixT7fx1LpjZXHxTCOTLy) | [Blood & Bones \(BONES\)](https://open.spotify.com/album/3xWPqGNbvm3tieDXkhkNx8) | 2:00 |
-| 34 | [27CLUB feat\. LEX](https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:41 |
+| 34 | [NEW REAL](https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt) | 3:15 |
 | 35 | [Mononoke Kyoto](https://open.spotify.com/track/4wDQ1fxncnI7AzqD7TNEWB) | [MNNK Bro.](https://open.spotify.com/artist/2V9hCxzluWeF6gepmvKZWo), [Takashi Murakami](https://open.spotify.com/artist/4Pj5KU6cveEf8JPb4tlhCm), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Mononoke Kyoto](https://open.spotify.com/album/5RCC8yqpCdwCrhrmD8oRob) | 3:32 |
 | 36 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 |
 | 37 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 46 | [SUSUME](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 |
 | 47 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
 | 48 | [Psycho](https://open.spotify.com/track/2IVuU4LByPrwUky12rk3Bw) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/5lnX2L4TLYkW4e57oGOdI1) | 2:37 |
-| 49 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
-| 50 | [Step Into The Arena](https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Step Into The Arena](https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec) | 3:46 |
+| 49 | [Step Into The Arena](https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Step Into The Arena](https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec) | 3:46 |
+| 50 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
 
 Snapshot ID: `Zqj/8AAAAAAZlOBpVk5rVVVXOQeZuiL+`

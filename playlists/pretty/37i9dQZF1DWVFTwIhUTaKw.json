@@ -1,6 +1,6 @@
 {
   "description": "La sensibilidad a flor de piel.",
-  "num_followers": 69555,
+  "num_followers": 69584,
   "original_name": "C\u00e1ncer",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2021-06-18 00:37:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
-      },
-      "artists": [
-        {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Lobo-hombre en Par\u00eds",
-      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
-    },
-    {
-      "added_at": "2021-06-18 00:37:00",
-      "album": {
         "name": "Mezzanine",
         "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2021-06-18 00:37:00",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
         }
       ],
-      "duration_ms": 171573,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
+      "duration_ms": 233266,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
     },
     {
       "added_at": "2021-06-18 00:37:00",
@@ -343,6 +327,22 @@
       "duration_ms": 254266,
       "name": "Agua",
       "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
+    },
+    {
+      "added_at": "2021-06-18 00:37:00",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
     },
     {
       "added_at": "2024-05-30 01:38:35",
@@ -399,26 +399,6 @@
     {
       "added_at": "2021-06-18 00:37:00",
       "album": {
-        "name": "Wounded Rhymes",
-        "url": "https://open.spotify.com/album/2eEnzl61veDi3zQylslIap"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 279635,
-      "name": "I Follow Rivers - The Magician Remix",
-      "url": "https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4"
-    },
-    {
-      "added_at": "2021-06-18 00:37:00",
-      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
+    },
+    {
+      "added_at": "2021-06-18 00:37:00",
+      "album": {
+        "name": "Wounded Rhymes",
+        "url": "https://open.spotify.com/album/2eEnzl61veDi3zQylslIap"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "duration_ms": 279635,
+      "name": "I Follow Rivers - The Magician Remix",
+      "url": "https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4"
     },
     {
       "added_at": "2021-06-18 00:37:00",

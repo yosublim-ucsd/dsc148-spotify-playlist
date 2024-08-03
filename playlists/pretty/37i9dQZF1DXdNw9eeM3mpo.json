@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 463475,
+  "num_followers": 463520,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Nunca Nos Compusimos",
+        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
+      },
+      "artists": [
+        {
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Envenenen a Mis Labios",
+      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Rompecabezas (feat. NATURE)",
         "url": "https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 276932,
       "name": "Rompecabezas (feat. NATURE)",
       "url": "https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Nunca Nos Compusimos",
-        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
-      },
-      "artists": [
-        {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Envenenen a Mis Labios",
-      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Amor por el Ska",
-        "url": "https://open.spotify.com/album/5bHFgnkMD0aoNIEMYkH9CO"
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
       },
       "artists": [
         {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        },
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 267865,
-      "name": "Amor por el Ska",
-      "url": "https://open.spotify.com/track/1gIabnh7fMtyMRKsRTsy1p"
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1415,22 +1411,6 @@
       "duration_ms": 190580,
       "name": "Caras y Caretas",
       "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1463,6 +1443,26 @@
       "duration_ms": 151500,
       "name": "Que Se Joda el Amor",
       "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Amor por el Ska",
+        "url": "https://open.spotify.com/album/5bHFgnkMD0aoNIEMYkH9CO"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        }
+      ],
+      "duration_ms": 267865,
+      "name": "Amor por el Ska",
+      "url": "https://open.spotify.com/track/1gIabnh7fMtyMRKsRTsy1p"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1539,42 +1539,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "40Tone",
-        "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
-      },
-      "artists": [
-        {
-          "name": "Felices Adicciones",
-          "url": "https://open.spotify.com/artist/1pKW7UYKScg5YdR6rGsYma"
-        },
-        {
-          "name": "Alexis Korfiatis",
-          "url": "https://open.spotify.com/artist/4oRksQQyxL9dvR3QwK5pcU"
-        }
-      ],
-      "duration_ms": 127181,
-      "name": "40Tone",
-      "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Antih\u00e9roes",
-        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
-      },
-      "artists": [
-        {
-          "name": "Los Intocables",
-          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Criminales Sudamericanos",
-      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "La Bolsa",
         "url": "https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el"
       },
@@ -1595,18 +1559,38 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Que Empiece Ya!",
-        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
+        "name": "Antih\u00e9roes",
+        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
       },
       "artists": [
         {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+          "name": "Los Intocables",
+          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
         }
       ],
-      "duration_ms": 332695,
-      "name": "Amor Sin Odio",
-      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
+      "duration_ms": 199106,
+      "name": "Criminales Sudamericanos",
+      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "40Tone",
+        "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
+      },
+      "artists": [
+        {
+          "name": "Felices Adicciones",
+          "url": "https://open.spotify.com/artist/1pKW7UYKScg5YdR6rGsYma"
+        },
+        {
+          "name": "Alexis Korfiatis",
+          "url": "https://open.spotify.com/artist/4oRksQQyxL9dvR3QwK5pcU"
+        }
+      ],
+      "duration_ms": 127181,
+      "name": "40Tone",
+      "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Que Empiece Ya!",
+        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        }
+      ],
+      "duration_ms": 332695,
+      "name": "Amor Sin Odio",
+      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Rebelde Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0hJkYx2cG6rQlvrwoFjHRY"
-      },
-      "artists": [
-        {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Buenas Vibraciones",
-      "url": "https://open.spotify.com/track/1rXhp04B2mcqyuFkHjKPcB"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Todo Alg\u00fan D\u00eda Termina",
         "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Rebelde Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0hJkYx2cG6rQlvrwoFjHRY"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Buenas Vibraciones",
+      "url": "https://open.spotify.com/track/1rXhp04B2mcqyuFkHjKPcB"
     },
     {
       "added_at": "2024-07-26 06:00:00",

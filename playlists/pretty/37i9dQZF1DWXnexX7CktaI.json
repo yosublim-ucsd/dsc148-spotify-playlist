@@ -1,6 +1,6 @@
 {
   "description": "Still in rotation. Cover: Chris Brown",
-  "num_followers": 2135332,
+  "num_followers": 2135372,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
-      "added_at": "2023-08-03 22:36:49",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
-    },
-    {
       "added_at": "2023-09-21 22:42:22",
       "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
@@ -511,6 +495,22 @@
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2023-08-03 22:36:49",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
     },
     {
       "added_at": "2023-08-11 02:37:59",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
     },
     {
-      "added_at": "2022-07-30 03:34:52",
-      "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
       "added_at": "2023-01-26 12:39:45",
       "album": {
         "name": "WASTELAND",
@@ -687,6 +671,22 @@
       "duration_ms": 252746,
       "name": "Could've Been (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2022-07-30 03:34:52",
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2023-05-04 04:41:43",
@@ -745,38 +745,6 @@
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
     },
     {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "Fuck The World",
-        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 223629,
-      "name": "Been Away",
-      "url": "https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272186,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
       "added_at": "2022-07-30 03:34:52",
       "album": {
         "name": "Slime & B",
@@ -795,6 +763,22 @@
       "duration_ms": 176960,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
+    },
+    {
+      "added_at": "2022-09-24 17:12:30",
+      "album": {
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 223629,
+      "name": "Been Away",
+      "url": "https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd"
     },
     {
       "added_at": "2023-01-26 12:39:45",
@@ -829,38 +813,6 @@
       "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
     },
     {
-      "added_at": "2023-02-17 00:09:29",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
-    },
-    {
-      "added_at": "2023-10-06 17:44:18",
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
       "added_at": "2023-08-11 02:37:59",
       "album": {
         "name": "Still Over It",
@@ -879,6 +831,38 @@
       "duration_ms": 231497,
       "name": "No Love (with SZA)",
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+    },
+    {
+      "added_at": "2023-10-06 17:44:18",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -933,22 +917,6 @@
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
-      "added_at": "2023-03-09 23:51:11",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
-    },
-    {
       "added_at": "2023-08-11 02:37:59",
       "album": {
         "name": "Trip",
@@ -963,6 +931,22 @@
       "duration_ms": 236160,
       "name": "While We're Young",
       "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
+    },
+    {
+      "added_at": "2023-02-17 00:09:29",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -1017,22 +1001,6 @@
       "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
     },
     {
-      "added_at": "2023-09-21 22:42:22",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 194009,
-      "name": "ROLE MODEL",
-      "url": "https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "East Atlanta Love Letter",
@@ -1053,20 +1021,20 @@
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
-      "added_at": "2022-07-30 03:34:52",
+      "added_at": "2023-03-09 23:51:11",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 247578,
-      "name": "Free Mind",
-      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+      "duration_ms": 150720,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
     },
     {
       "added_at": "2022-12-07 18:37:03",
@@ -1089,20 +1057,36 @@
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
     },
     {
-      "added_at": "2022-03-14 17:48:22",
+      "added_at": "2022-07-30 03:34:52",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
       "artists": [
         {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+    },
+    {
+      "added_at": "2023-09-21 22:42:22",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 194009,
+      "name": "ROLE MODEL",
+      "url": "https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -1119,6 +1103,22 @@
       "duration_ms": 254493,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
       "added_at": "2024-04-25 23:58:18",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2022-09-24 17:12:30",
       "album": {
-        "name": "FREE 6LACK",
-        "url": "https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi"
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 246773,
-      "name": "PRBLMS",
-      "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
+      "duration_ms": 212866,
+      "name": "B.S. (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2022-09-24 17:12:30",
       "album": {
-        "name": "Chilombo",
-        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+        "name": "FREE 6LACK",
+        "url": "https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 212866,
-      "name": "B.S. (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
+      "duration_ms": 246773,
+      "name": "PRBLMS",
+      "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
     },
     {
       "added_at": "2023-01-12 08:17:13",

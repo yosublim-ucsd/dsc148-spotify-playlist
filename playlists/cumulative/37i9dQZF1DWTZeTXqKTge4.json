@@ -2657,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Chief Keef",
+        "url": "https://open.spotify.com/album/1Wau0tDMwWxZuELIPdWTPe"
+      },
+      "artists": [
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/12BkdXUWfundfkkXQMiW2n"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "Chief Keef",
+      "url": "https://open.spotify.com/track/5ilRPSFAdxFZReuKUPKzTh"
+    },
+    {
+      "album": {
         "name": "Chien Mang\u00e9 Chien",
         "url": "https://open.spotify.com/album/0EfEB9jjLhdhyVYHjPRdCG"
       },
@@ -3245,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Curry",
+        "url": "https://open.spotify.com/album/0GO6umTRN8kD9H74QK3to4"
+      },
+      "artists": [
+        {
+          "name": "Tali-B",
+          "url": "https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182002,
+      "name": "Curry",
+      "url": "https://open.spotify.com/track/5hgiBYV0STcQ0m341EZLmc"
+    },
+    {
+      "album": {
         "name": "C\u00e9sar",
         "url": "https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28"
       },
@@ -3502,7 +3538,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 120368,
       "name": "Dehors",
       "url": "https://open.spotify.com/track/1GsemtxnOpIyhbqCUZ8INy"
@@ -3786,7 +3822,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 118573,
       "name": "Dosto\u00efevski",
       "url": "https://open.spotify.com/track/0idqbFaYYmGuEbusmJwMUV"
@@ -5376,7 +5412,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 144576,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/2YUa2oLlzz7JS8KjqDadjn"
@@ -10744,6 +10780,24 @@
       "duration_ms": 189317,
       "name": "P\u00e9tale",
       "url": "https://open.spotify.com/track/5MT66MAa0tPKBM0jV5aqq8"
+    },
+    {
+      "album": {
+        "name": "Qatari",
+        "url": "https://open.spotify.com/album/5oi3ALMyUrNN30w15GGrAB"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182328,
+      "name": "Qatari",
+      "url": "https://open.spotify.com/track/3PWHqGQuaqrVomxbkOzaBo"
     },
     {
       "album": {

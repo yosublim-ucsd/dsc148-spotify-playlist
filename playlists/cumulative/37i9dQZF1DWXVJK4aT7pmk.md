@@ -2,9 +2,9 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks with Juss  for his track "Suniyan Suniyan"
+> Catch the hottest Punjabi tracks with Faris Shafi, Umair Bhatt, Gharvi Group for their track "Blockbuster"
 
-112 songs - 5 hr 47 min
+113 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bachke Bachke \(feat\. Yarah\)](https://open.spotify.com/track/2uWZ7EGddFlA1DJ3Rzzvs2) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:30 | 2024-01-04 |  |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2024-01-04 |  |
 | [Bandana](https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Bandana](https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB) | 2:34 | 2024-03-28 |  |
+| [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 | 2024-08-02 |  |
 | [Blockbuster](https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Gharvi Group](https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82) | [Blockbuster](https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8) | 4:34 | 2024-07-26 |  |
 | [California Love](https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [ANYWAY](https://open.spotify.com/album/64MZHXV7IglO8LE8KplSRw) | 2:55 | 2024-01-04 |  |
 | [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 | 2024-01-04 |  |
@@ -42,7 +43,7 @@
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2024-01-04 |  |
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2024-04-12 |  |
 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 | 2024-02-02 |  |
-| [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2024-01-04 |  |
+| [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2024-01-04 | 2024-08-03 |
 | [Famous Enough](https://open.spotify.com/track/5HzPjMMntmDxCvHBhrzKrY) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Paper Before Money](https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC) | 4:00 | 2024-04-26 | 2024-07-23 |
 | [Forever](https://open.spotify.com/track/6YMF2h9YZVkQs6V6nVLdW3) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Prem Lata](https://open.spotify.com/artist/3ufBSdoViRPzJXqGPVy8rH) | [Broken Silence](https://open.spotify.com/album/4dilkeP7GygdqyRpha2On6) | 2:20 | 2024-04-25 |  |
 | [Gall Khaas](https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Gall Khaas](https://open.spotify.com/album/6zhGxMXaDxizCLjNoIvMw8) | 2:40 | 2024-01-04 |  |

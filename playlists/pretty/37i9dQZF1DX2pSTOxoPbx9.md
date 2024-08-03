@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,859 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,916 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 56 | [Bones](https://open.spotify.com/track/1p3YBrdHnDTEZqm6TCfuP3) | [Josh Record](https://open.spotify.com/artist/6SX3hY3ksMNOUCvF7OI1nl) | [Pillars](https://open.spotify.com/album/4HUnfqen6kJ6tDaQPwmeNY) | 4:49 |
 | 57 | [Hymnal](https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:26 |
 | 58 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
-| 59 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 |
-| 60 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
+| 59 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
+| 60 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 |
 | 61 | [Until the Levee](https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Until the Levee](https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE) | 2:40 |
 | 62 | [Every Man Is a Warrior](https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD) | [Lena Fayre](https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ) | [Oko](https://open.spotify.com/album/5OPKOFs2I80ODdmHjXmD89) | 3:16 |
 | 63 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 93 | [Nocturne](https://open.spotify.com/track/1rAoMvrhI0Ozalbow7Lu6F) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne](https://open.spotify.com/album/4Vp0P2uTyyuzZvEyWE2m5e) | 4:28 |
 | 94 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
 | 95 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |
-| 96 | [Sirens](https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Sirens](https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4) | 4:26 |
-| 97 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
-| 98 | [Sausalito](https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Sausalito](https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj) | 3:42 |
-| 99 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 |
-| 100 | [Call My Name](https://open.spotify.com/track/2pU5gIulfIITLJw6F38IMK) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Call My Name](https://open.spotify.com/album/4KnNIPnhyfsL1EJMsk0XeO) | 3:12 |
+| 96 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
+| 97 | [Sirens](https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Sirens](https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4) | 4:26 |
+| 98 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
+| 99 | [Sausalito](https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Sausalito](https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj) | 3:42 |
+| 100 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 |
 
 Snapshot ID: `Zoh0WwAAAABg9dXk2iclmQgDtb9g8bJI`

@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Watching Angels Mend",
+        "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
+      },
+      "artists": [
+        {
+          "name": "Alex Lloyd",
+          "url": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203213,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
+    },
+    {
+      "album": {
         "name": "5 Seconds Of Summer",
         "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
       },
@@ -262,7 +280,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 251280,
       "name": "Born to Try",
       "url": "https://open.spotify.com/track/2iWyrSHvs6qhFzfpiLAK0z"

@@ -4,7 +4,7 @@
 
 > New Music from Psycho YP, Magixx, Jeriq and more
 
-490 songs - 23 hr 47 min
+491 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Don julio](https://open.spotify.com/track/0pSvdqdPJsQERhVWKjcfhi) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Air drop](https://open.spotify.com/album/63FjH5BrOGQCsCa8NdZcz3) | 2:39 | 2024-06-28 | 2024-07-05 |
 | [Down For Me](https://open.spotify.com/track/0L6cIRuCVhrc1FzGGgSTeT) | [A.L.I.A.S](https://open.spotify.com/artist/3KfBBcEhPPx3s4l1sfttCz), [Selorm Jerry](https://open.spotify.com/artist/3gEz7HaGnUimINViUZpkr0) | [Down For Me](https://open.spotify.com/album/6AIEDtMEiCnb3f7xuP8yM9) | 3:51 | 2024-06-14 | 2024-06-21 |
 | [Dreams](https://open.spotify.com/track/4oqarbi0Umt4bccB28owLG) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Dreams](https://open.spotify.com/album/5LdqznOV6WpzmaUhgTNQp6) | 2:59 | 2024-07-19 | 2024-07-27 |
+| [Echoes of Dad Beat](https://open.spotify.com/track/4NYBkk8Af6f97pVkaIChQV) | [Dj khalipha](https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB) | [Echoes of Dad Beat](https://open.spotify.com/album/7tmUr3kfBAlpD79IlYTf8G) | 2:41 | 2024-08-02 |  |
 | [Ego Slide](https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Ego Slide](https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk) | 3:38 | 2024-06-21 | 2024-06-28 |
 | [EGOWO](https://open.spotify.com/track/6gdDLIe1QvzRWccKs2CrJ9) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm) | [EGOWO](https://open.spotify.com/album/7d5X7Gd0UecwGxuoEIT5Zh) | 2:39 | 2024-07-26 | 2024-08-02 |
 | [End Of Story](https://open.spotify.com/track/5QmXMxKqQt60NFlKmBOkrB) | [Rollie](https://open.spotify.com/artist/3OxG5pjVUpz5ab5PtfhVCp), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [End Of Story](https://open.spotify.com/album/0s63iDkDfPOKREwcPrRcP0) | 2:51 | 2024-07-19 | 2024-07-27 |

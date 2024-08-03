@@ -4,7 +4,7 @@
 
 > The best new alternative sounds from Scotland\. Cover: The Joy Hotel
 
-78 songs - 4 hr 29 min
+80 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,11 +24,12 @@
 | [darkroom](https://open.spotify.com/track/4pyVRH0ExZOtrJCxS2e4gM) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [darkroom](https://open.spotify.com/album/1o46mtab2pTJc2EOO7f3KT) | 2:36 | 2024-06-20 | 2024-07-19 |
 | [dinny greet](https://open.spotify.com/track/3W2BGT9fKhRKLAgbxhJ3P0) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [dinny greet](https://open.spotify.com/album/4OTEThnooBoMB4l8BqWhto) | 3:44 | 2024-06-20 |  |
 | [Disconnect](https://open.spotify.com/track/3zXiDgltU2HnADWAperXcW) | [ODD LUKE](https://open.spotify.com/artist/5kuE84uZ6E6Aka3OH968VM) | [Disconnect](https://open.spotify.com/album/4juWnOvpXIoMLNVqLN1qHs) | 3:15 | 2024-07-18 |  |
-| [Do You Think She's Pretty?](https://open.spotify.com/track/4desD03ERFugMtcKzDxDBy) | [PLASTICINE](https://open.spotify.com/artist/2sPWGS1ZbqdUk7ZHcIRV78) | [Do You Think She's Pretty?](https://open.spotify.com/album/5R8uWHj3mPgAc3N1fUwed4) | 4:20 | 2024-06-20 |  |
+| [Do You Think She's Pretty?](https://open.spotify.com/track/4desD03ERFugMtcKzDxDBy) | [PLASTICINE](https://open.spotify.com/artist/2sPWGS1ZbqdUk7ZHcIRV78) | [Do You Think She's Pretty?](https://open.spotify.com/album/5R8uWHj3mPgAc3N1fUwed4) | 4:20 | 2024-06-20 | 2024-08-03 |
 | [EMPTY FEELING.](https://open.spotify.com/track/4F1yjXmwU45Eej69dJs2Bd) | [mouse.](https://open.spotify.com/artist/2KddRhT1xqFnWJeAJEPhQX) | [EMPTY FEELING.](https://open.spotify.com/album/78DkibCvvDGG7QHIddCFeX) | 3:18 | 2024-06-20 |  |
 | [Everything](https://open.spotify.com/track/4nrxXuVl1LQdUAn7zNYdSg) | [Skydaddy](https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX) | [Pilot](https://open.spotify.com/album/7kkFHOhqj5safgBxzNDeZI) | 5:18 | 2024-06-20 |  |
 | [Fear](https://open.spotify.com/track/2Hz1N22RNvK1UHfm6B3CwQ) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Fear](https://open.spotify.com/album/36DMhXaQy689fWYty7Q51I) | 2:48 | 2024-06-20 |  |
 | [Fibbs](https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Fibbs](https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l) | 3:28 | 2024-06-20 |  |
+| [Filth Night](https://open.spotify.com/track/1LdaVTBHQbwRmHK5sj8ZEM) | [Conscious Pilot](https://open.spotify.com/artist/7aBaZJZSCsWeh9UCyO1u9i) | [Filth Night](https://open.spotify.com/album/5s2iGqtVs81IFl6mbiPOVO) | 1:50 | 2024-08-02 |  |
 | [Finish Line](https://open.spotify.com/track/7rardgaSmoEMhW5Uti6OUW) | [Lunar Isles](https://open.spotify.com/artist/4CH90JmQng3hi5XN2oQOaM) | [Finish Line](https://open.spotify.com/album/61JXq7n8OkiTFrqn0FZUvg) | 3:49 | 2024-06-20 |  |
 | [Fur Coat](https://open.spotify.com/track/2EmevxPR404paP1A08nXAv) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Fur Coat](https://open.spotify.com/album/48YJLe3EexROsk3IvzpjSK) | 3:26 | 2024-06-20 |  |
 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 | 2024-06-20 |  |
@@ -39,7 +40,7 @@
 | [Hey](https://open.spotify.com/track/2C2MxVeZICwhhCrw3s84gH) | [Ramnäs](https://open.spotify.com/artist/5W6Vc4QzqCs3QvBMb7XkC8), [Soft Crystals](https://open.spotify.com/artist/66zsLlY6oOb8MiD06SYuTF) | [Hey](https://open.spotify.com/album/1eflsQhXBQXifqdJPNbTVp) | 3:07 | 2024-06-20 |  |
 | [hey dad](https://open.spotify.com/track/3SnNRAi8J5xGzylYH4RPjS) | [Vickie Paxton](https://open.spotify.com/artist/19tyvYKmgXcCBms7Ovomv3) | [hey dad](https://open.spotify.com/album/2JuyAx0ntafCShdyqoQb83) | 4:29 | 2024-06-20 |  |
 | [HOME](https://open.spotify.com/track/71qc8VB5Ub08N19jcXxRPq) | [boy\*](https://open.spotify.com/artist/3ZTz7yET871LD1ExdwaP9o) | [HOME](https://open.spotify.com/album/7qFexZPkKllAr48nFa1o8J) | 2:02 | 2024-06-20 | 2024-07-05 |
-| [Home Run](https://open.spotify.com/track/6tkTu2abcxLnvU1cVQDfJV) | [Finn Brodie](https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX) | [Home Run](https://open.spotify.com/album/7DPkLFKMNNCa66xp7PXb6k) | 4:23 | 2024-06-20 |  |
+| [Home Run](https://open.spotify.com/track/6tkTu2abcxLnvU1cVQDfJV) | [Finn Brodie](https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX) | [Home Run](https://open.spotify.com/album/7DPkLFKMNNCa66xp7PXb6k) | 4:23 | 2024-06-20 | 2024-08-03 |
 | [I Decline](https://open.spotify.com/track/2ry4AdKcZDYhJfacJx3mdI) | [The Joy Hotel](https://open.spotify.com/artist/2QP5fu7d9SH1sat7LJ7ub4) | [Ceremony](https://open.spotify.com/album/5TS19aOraQH5WFzCV5ynl3) | 5:35 | 2024-07-18 |  |
 | [I Look Like A Fool To You](https://open.spotify.com/track/1g4XkTUbz735e6IAR5DQ7q) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [I Look Like A Fool To You](https://open.spotify.com/album/6FscwSoZ0kbDHO7CCsfsIn) | 3:08 | 2024-06-20 |  |
 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 | 2024-06-20 |  |
@@ -80,6 +81,7 @@
 | [talk2me](https://open.spotify.com/track/14hwMgJ8WHc24X6EA48XzP) | [toby sparham](https://open.spotify.com/artist/4C50Fj4gh3ZdNw2uA3hT9N) | [talk2me](https://open.spotify.com/album/5zkexxh0EMwAdlVcwJZCl4) | 1:59 | 2024-06-20 |  |
 | [The Masochist](https://open.spotify.com/track/5hLzEdcSmx3TJlhZF3b5jS) | [Lloyd's House](https://open.spotify.com/artist/7i7jdyMS3LtCponBP34ou9) | [The Masochist](https://open.spotify.com/album/185ltxsjd0kAt1HtIGleSM) | 4:46 | 2024-06-20 |  |
 | [Tired Of Being Alone](https://open.spotify.com/track/1cUWtqz5LeN7LsLu2DCQmw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/69aS3IuY9tfPexhyElnJiA) | 4:43 | 2024-06-20 | 2024-07-05 |
+| [Underneath My Skin](https://open.spotify.com/track/3yATpOOm6H1fqCO64F2mKf) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [Underneath My Skin](https://open.spotify.com/album/5Yxq2FcBMOnrCdD7od9xuO) | 2:54 | 2024-08-02 |  |
 | [Universal Credit](https://open.spotify.com/track/272KzgZU381dedN18b7qzT) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Universal Credit](https://open.spotify.com/album/5GBhIOSB3AQRXWfjkNJcXa) | 3:18 | 2024-06-20 |  |
 | [Vision Of Us](https://open.spotify.com/track/2frX4kY41utA2K18AW1PK6) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Vision Of Us](https://open.spotify.com/album/6E0OZvFmc6FqU8PcdfQ5S6) | 3:54 | 2024-07-25 |  |
 | [Wash Your Wounds](https://open.spotify.com/track/01VMDmyPy8jxYXIThTQhbx) | [Gallus](https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC) | [Wash Your Wounds](https://open.spotify.com/album/0ShtuJHE4I5R6mFfBfmQy8) | 2:21 | 2024-06-20 |  |

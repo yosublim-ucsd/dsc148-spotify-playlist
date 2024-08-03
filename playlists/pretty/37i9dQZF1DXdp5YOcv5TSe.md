@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,561 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,568 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 3 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 |
 | 4 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
 | 5 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
-| 6 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 |
-| 7 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
+| 6 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
+| 7 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 |
 | 8 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 |
 | 9 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 |
 | 10 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 |

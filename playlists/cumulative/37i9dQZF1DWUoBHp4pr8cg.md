@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Chaise Williams, A$AP Rocky, Kendrick Lamar, and more...
 
-304 songs - 16 hr 30 min
+305 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Never Ride \- Remix](https://open.spotify.com/track/1q88oYGqJzfDp250KGrdKs) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Buzzi Lee](https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR), [Roii](https://open.spotify.com/artist/41gfl52tujTmBB2q2gqRyv), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [Never Ride \(Remix\)](https://open.spotify.com/album/4EvIO5CA6NcVfdRwKlrLGs) | 6:20 | 2022-09-09 | 2024-02-09 |
 | [ngivelelwe](https://open.spotify.com/track/2BNTdyCj7B403GFVM8zdvG) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [GARDENOTGOD](https://open.spotify.com/artist/385IN1Qy3c75zjSvtvoxgo) | [4LUV \(Deluxe\)](https://open.spotify.com/album/6h02u7EmmsLguvsEGburBg) | 4:24 | 2022-08-11 | 2022-10-14 |
 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 | 2022-12-12 | 2023-03-07 |
+| [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 | 2024-08-01 |  |
 | [No More](https://open.spotify.com/track/4GVQOvxTqXPLJ1rHvP0SwZ) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 3:01 | 2023-09-22 | 2024-08-02 |
 | [No More Discos](https://open.spotify.com/track/1CEOhntVCcqmouZq4vmeZ3) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy) | [No More Discos](https://open.spotify.com/album/29CCIglajfMrsmv25zu8ZN) | 3:09 | 2024-05-16 |  |
 | [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 | 2024-01-04 | 2024-08-02 |

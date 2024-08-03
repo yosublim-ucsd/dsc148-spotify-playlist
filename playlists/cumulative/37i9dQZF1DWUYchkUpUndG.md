@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=m\-BeAsoeRDWGmVR3hAASTg>Ada Ehi</a>
 
-3,173 songs - 9 day 13 hr 42 min
+3,174 songs - 9 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1998,6 +1998,7 @@
 | [No Stress](https://open.spotify.com/track/2CiXwvqxpFOhP3yeCiMHF9) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [No Stress](https://open.spotify.com/album/4AQsSF4SqmiQMI35zCPLOM) | 2:52 | 2023-06-02 | 2023-06-09 |
 | [No Time](https://open.spotify.com/track/4ttTLIBiXMXmJrzSKFOoJw) | [Grinskhy Collective](https://open.spotify.com/artist/5xgRpLc3oN21Fupc3fm0dO), [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [No Time](https://open.spotify.com/album/2zZ913bkI7ZzzUnJTTjmyV) | 3:40 | 2024-06-07 | 2024-06-21 |
 | [No Trouble](https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Trouble](https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB) | 2:50 | 2023-09-29 | 2023-10-14 |
+| [No Weapon](https://open.spotify.com/track/6SIMT6TpSrkw59AHDtfW2O) | [Olalekanmi](https://open.spotify.com/artist/4Pl5P0qsfWKPdz1vQu0DAA) | [No Weapon](https://open.spotify.com/album/5u4YfioF2naYjU4BDivgXu) | 2:44 | 2024-08-02 |  |
 | [Nobody](https://open.spotify.com/track/2QdkE9X1dWLmWViScvORIe) | [Blessing Oghie](https://open.spotify.com/artist/3cjdK2MpW3OJD8ywQD67Tn) | [Nobody](https://open.spotify.com/album/1AReV5GoLnvQTQmRmP6u40) | 3:36 | 2024-02-16 | 2024-03-01 |
 | [Nobody](https://open.spotify.com/track/7oWIsq7eE7DVeNL15t0Q52) | [Chris Symbols](https://open.spotify.com/artist/4IEgoC1alcKqiZbrumAsSd), [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Nobody](https://open.spotify.com/album/57qnVUtbIznPlpc9QpsNKR) | 3:16 | 2023-11-17 | 2023-12-01 |
 | [Nobody](https://open.spotify.com/track/58LUyccyebgdDkUf6s49Re) | [J bradas](https://open.spotify.com/artist/6QuqkFsI2nPlzqG8AGSmfJ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Nobody](https://open.spotify.com/album/31JlHxNFkZ96lL8IVtqcrW) | 3:34 | 2024-03-08 | 2024-03-22 |

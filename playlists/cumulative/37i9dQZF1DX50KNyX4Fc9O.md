@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Tones And I
 
-1,216 songs - 2 day 14 hr 54 min
+1,218 songs - 2 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Ghost](https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/6k6wmEOV5gKazj2lJEfgiy) | 4:33 | 2023-09-14 | 2023-09-21 |
 | [Ghost](https://open.spotify.com/track/6V7srdT0Mu63F4XN97buVZ) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/1CQNzjeDFVKqUeveRH9Tar) | 4:33 | 2023-09-14 | 2023-10-27 |
 | [Ghost](https://open.spotify.com/track/3zZInrkeo7dj4D2Wu5lvnn) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [Ghost](https://open.spotify.com/album/7F2SSNO9UHdED1tJQcfUAZ) | 3:07 | 2023-11-09 | 2023-12-22 |
+| [Ghost of Juliet](https://open.spotify.com/track/5p6CAgnpeATazNozoMAbQg) | [ANGEL xo](https://open.spotify.com/artist/26lXC96qSlasvUUUkrq2Ng) | [Ghost of Juliet](https://open.spotify.com/album/3FjDpb4bJ4OqEtLFrrErDu) | 3:38 | 2024-08-01 |  |
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-14 | 2023-11-24 |
 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 | 2023-12-07 | 2024-01-19 |
 | [Girlboss](https://open.spotify.com/track/0lE3g4HFvJftx16QgzQsRz) | [Eves Karydas](https://open.spotify.com/artist/7MbSdIkdgkwmVxObpCg87e) | [Girlboss](https://open.spotify.com/album/2ksw3DWw5bw4EhsbDTkOlS) | 2:34 | 2024-04-18 | 2024-05-17 |
@@ -753,6 +754,7 @@
 | [No Man's Land](https://open.spotify.com/track/68HjC78NoNtXkpfse3vwcK) | [ASHY](https://open.spotify.com/artist/6c47JwRK2Sd1zeisuIgKhO) | [Status](https://open.spotify.com/album/3lZpCFlqJ4uMU4qSa0yfPw) | 2:40 | 2023-06-15 | 2023-06-23 |
 | [No Man's Land](https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [No Man's Land](https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4) | 2:18 | 2024-01-11 | 2024-02-16 |
 | [No Service](https://open.spotify.com/track/5kCdBZHfHuAsSrU8hF9wF2) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [No Service](https://open.spotify.com/album/0SijjdP4yC4j4SO9xIXbTM) | 2:20 | 2024-02-22 | 2024-03-22 |
+| [No Strings Attached](https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [No Strings Attached](https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi) | 2:59 | 2024-08-01 |  |
 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-04-11 | 2024-05-24 |
 | [Nobody's Baby](https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Nobody's Baby](https://open.spotify.com/album/6AyXzG3yU8Xm9IFYS15Fdu) | 2:35 | 2024-07-25 |  |
 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-09 | 2023-12-22 |

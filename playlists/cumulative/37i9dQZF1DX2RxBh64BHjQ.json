@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "40 Mo' Reasons",
+        "url": "https://open.spotify.com/album/181sHe6StSRnFdcM8UUrXK"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202367,
+      "name": "40 Mo' Reasons",
+      "url": "https://open.spotify.com/track/61siK7W8gG1ixD974Ethya"
+    },
+    {
+      "album": {
         "name": "40s N 9s",
         "url": "https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j"
       },
@@ -2520,10 +2538,32 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 102342,
       "name": "Bad Bitty",
       "url": "https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6"
+    },
+    {
+      "album": {
+        "name": "Bad Bitty (Remix)",
+        "url": "https://open.spotify.com/album/4X8qIyq7WLawahGInRD9RR"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143317,
+      "name": "Bad Bitty (Remix)",
+      "url": "https://open.spotify.com/track/3lu9zdjhHvAt7gje6w8Pn9"
     },
     {
       "album": {
@@ -2777,6 +2817,28 @@
     },
     {
       "album": {
+        "name": "2 Sides of the Story",
+        "url": "https://open.spotify.com/album/6uPMZVukSlHx20cwHBfSlf"
+      },
+      "artists": [
+        {
+          "name": "Sugarhill Ddot",
+          "url": "https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173923,
+      "name": "Bartender (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/3FG7yw1Il37pvpIFT0Z0xC"
+    },
+    {
+      "album": {
         "name": "Y2K!",
         "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
       },
@@ -2788,7 +2850,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 116571,
       "name": "BB Belt",
       "url": "https://open.spotify.com/track/3oLlS8NTMdePBohjgPZKk1"
@@ -13367,6 +13429,24 @@
     },
     {
       "album": {
+        "name": "Y2K! (Bonus)",
+        "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114437,
+      "name": "GYAT",
+      "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
+    },
+    {
+      "album": {
         "name": "H Spot (with Yo Gotti)",
         "url": "https://open.spotify.com/album/54l2xBRFjR3A3xFeWJhrej"
       },
@@ -16984,10 +17064,32 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "album": {
+        "name": "KEHLANI (REMIX) [feat. Kehlani]",
+        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     },
     {
       "album": {
@@ -18438,7 +18540,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 199292,
       "name": "Like This (feat. BossMan Dlow)",
       "url": "https://open.spotify.com/track/6ZllgyfG5mchJX7HY67oT5"
@@ -20400,7 +20502,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 141072,
       "name": "more chaos",
       "url": "https://open.spotify.com/track/6ovJ4vtrLdONeRoTT4s4uw"
@@ -21855,6 +21957,24 @@
     },
     {
       "album": {
+        "name": "NISSAN ALTIMA",
+        "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128132,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
+    },
+    {
+      "album": {
         "name": "No Amiris",
         "url": "https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi"
       },
@@ -23072,7 +23192,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161119,
       "name": "Oh Shhh...(with Travis Scott)",
       "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
@@ -30667,6 +30787,24 @@
     },
     {
       "album": {
+        "name": "STACKIN PAPE",
+        "url": "https://open.spotify.com/album/54aRJDB1ohuzrFAl4KtZFP"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108863,
+      "name": "STACKIN PAPE",
+      "url": "https://open.spotify.com/track/0c2FsdJyPOfu5KEbWaNEWq"
+    },
+    {
+      "album": {
         "name": "Stained Couch",
         "url": "https://open.spotify.com/album/05LCG5oAqLSv9KnUYZc03D"
       },
@@ -30768,7 +30906,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 124728,
       "name": "Star",
       "url": "https://open.spotify.com/track/6LM7O0ujf9VfPleIQA1bWm"
@@ -33427,6 +33565,24 @@
     },
     {
       "album": {
+        "name": "Took A While (Be Us)",
+        "url": "https://open.spotify.com/album/3rE930Bcle8R4AEzVZm5sP"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "Took A While (Be Us)",
+      "url": "https://open.spotify.com/track/2hM9XK7CRG631EdAbu5zFQ"
+    },
+    {
+      "album": {
         "name": "Toot It Up (with Flo Milli)",
         "url": "https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP"
       },
@@ -34730,7 +34886,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 188119,
       "name": "Vulture",
       "url": "https://open.spotify.com/track/77Q0N60N7yV8JhXPhwWeTQ"
@@ -36258,7 +36414,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 175161,
       "name": "Wickstyle",
       "url": "https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC"
@@ -36538,6 +36694,28 @@
       "duration_ms": 159312,
       "name": "Wocky My Lover",
       "url": "https://open.spotify.com/track/0Cj4WjZVyrLeSJwOsJ80bB"
+    },
+    {
+      "album": {
+        "name": "Wocky Sinner",
+        "url": "https://open.spotify.com/album/09ujFlqtIsHigdg6p003lj"
+      },
+      "artists": [
+        {
+          "name": "Tye Beats",
+          "url": "https://open.spotify.com/artist/0XaTKcZJRzeTTIbHmTjQWG"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185762,
+      "name": "Wocky Sinner",
+      "url": "https://open.spotify.com/track/6gNDOhpuvEtpwMKjwZttE7"
     },
     {
       "album": {

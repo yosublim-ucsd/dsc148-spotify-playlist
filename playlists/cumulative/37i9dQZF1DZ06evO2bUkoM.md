@@ -2,9 +2,9 @@
 
 ### [This Is Hayley Kiyoko](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2bUkoM)
 
-> This is Hayley Kiyoko\. Tutti i brani in un'unica playlist.
+> This is Hayley Kiyoko\. Todos os maiores hits em uma só playlist.
 
-49 songs - 2 hr 41 min
+50 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Sleepover](https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:53 | 2023-05-02 |  |
 | [somewhere between the sand and the stardust](https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [somewhere between the sand and the stardust](https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY) | 3:30 | 2023-06-22 |  |
 | [sugar at the bottom](https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:05 | 2023-05-02 |  |
+| [Taste So Good \(The Cann Song\)](https://open.spotify.com/track/5QfungSRYsaCetJfRdazI3) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Taste So Good \(The Cann Song\)](https://open.spotify.com/album/46hhmMspdSlJaGjAVv4VXG) | 2:35 | 2024-08-03 |  |
 | [This Side of Paradise](https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v) | 3:31 | 2023-05-02 |  |
 | [Wanna Be Missed](https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:15 | 2023-05-02 |  |
 | [well…](https://open.spotify.com/track/3fp8Zt7cjlnH6E44VTiCgI) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:24 | 2024-05-14 | 2024-07-24 |

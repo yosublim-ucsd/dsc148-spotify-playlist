@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: ammo",
-  "num_followers": 14908,
+  "num_followers": 14917,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u5024\u5343\u91d1",
-        "url": "https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 286225,
-      "name": "\u5024\u5343\u91d1",
-      "url": "https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "nevermind",
         "url": "https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 158500,
       "name": "nevermind",
       "url": "https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u5024\u5343\u91d1",
+        "url": "https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 286225,
+      "name": "\u5024\u5343\u91d1",
+      "url": "https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy"
     },
     {
       "added_at": "2024-07-30 15:00:00",

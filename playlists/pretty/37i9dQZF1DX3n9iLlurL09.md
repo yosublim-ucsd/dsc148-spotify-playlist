@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,149 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,172 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 48 | [We Come Running](https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Wake Up](https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW) | 4:07 |
 | 49 | [Holdin On](https://open.spotify.com/track/4s5652m7A8iuDQsZ0UWNcO) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume](https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc) | 2:34 |
 | 50 | [Sunset](https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 3:38 |
-| 51 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
+| 51 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
 | 52 | [San Francisco](https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH) | 2:53 |
-| 53 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
+| 53 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 54 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
 | 55 | [I Will Wait](https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 4:36 |
 | 56 | [Paddling Out](https://open.spotify.com/track/0rfXn2iUwqQXzNvJgmcG6p) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy to You](https://open.spotify.com/album/6YeV0JWW7g8dDf78jFIe1e) | 3:43 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 89 | [Paint](https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Young North \- EP](https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS) | 3:11 |
 | 90 | [The House That Heaven Built](https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW) | 4:49 |
 | 91 | [Breezeblocks](https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 3:47 |
-| 92 | [Oblivion](https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:11 |
+| 92 | [Yet Again](https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY) | 5:18 |
 | 93 | [Freaking Out the Neighborhood](https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 2:53 |
-| 94 | [Yet Again](https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY) | 5:18 |
+| 94 | [Oblivion](https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:11 |
 | 95 | [Bad Girls](https://open.spotify.com/track/0nSsI7f2BJRXJUeNisWUWL) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Bad Girls](https://open.spotify.com/album/1PsuantEKG5IglWPfaPmMb) | 3:48 |
 | 96 | [Catamaran](https://open.spotify.com/track/5WI4GytPeTnIoVRnUiP8TE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/1aAKZy0fdFn57xgka1xeDV) | 3:32 |
 | 97 | [Taro](https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 5:14 |
 | 98 | [Heaven](https://open.spotify.com/track/4JYgvIKYhLBDn4OqPeJOGh) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Heaven](https://open.spotify.com/album/6aNJ374poL5VkfwWAqe1iX) | 4:26 |
 | 99 | [Ode to Viceroy](https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 3:53 |
-| 100 | [Genesis](https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:15 |
+| 100 | [Good As New](https://open.spotify.com/track/0XIHRIerpIPFLCjlgeLHbN) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/3Lx8YDSuswGCfV8Tsb6i4E) | 3:24 |
 
 Snapshot ID: `Zfg9xAAAAAD9vYCJtV/n64pxWROp3sm9`

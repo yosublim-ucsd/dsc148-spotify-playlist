@@ -4,7 +4,7 @@
 
 > Music that just \*hits different\* Cover: Gracie Abrams
 
-321 songs - 17 hr 53 min
+322 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-07-09 |  |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-11-30 |  |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-05-29 | 2024-07-10 |
+| [Hollywood](https://open.spotify.com/track/5ixsARSHL26SXP89piNe1r) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Adaptations](https://open.spotify.com/album/1lkI9vJnzW5nAT4HxgOmBp) | 3:15 | 2024-08-02 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-22 |  |
 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-01-19 |  |
 | [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2023-05-15 | 2023-07-18 |
@@ -173,7 +174,7 @@
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-04-04 | 2024-04-12 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-03-16 | 2024-06-12 |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2024-06-18 |  |
-| [Kiss Me](https://open.spotify.com/track/3EjTnZRaykPSYBGsSWS1AP) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kiss Me](https://open.spotify.com/album/4NOkk0d26Bx9ewNxtIo1Px) | 2:53 | 2024-07-18 |  |
+| [Kiss Me](https://open.spotify.com/track/3EjTnZRaykPSYBGsSWS1AP) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kiss Me](https://open.spotify.com/album/4NOkk0d26Bx9ewNxtIo1Px) | 2:53 | 2024-07-18 | 2024-08-03 |
 | [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-22 | 2024-03-01 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-04-13 | 2023-05-10 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2023-03-16 |  |

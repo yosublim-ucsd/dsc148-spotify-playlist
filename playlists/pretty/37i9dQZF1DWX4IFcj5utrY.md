@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB?si=qPn48dWDT6CKMBc8gJwZTw">STATE OFFF</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,069 likes - 55 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,078 likes - 55 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

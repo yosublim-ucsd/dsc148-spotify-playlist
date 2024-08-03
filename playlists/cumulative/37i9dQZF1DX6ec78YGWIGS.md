@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: TULI.
 
-320 songs - 15 hr 57 min
+322 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 | 2024-05-24 | 2024-07-19 |
 | [La Fuerte](https://open.spotify.com/track/09mHLXMh3rmruStxevfh3U) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:44 | 2024-03-22 | 2024-05-18 |
 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 | 2023-05-12 | 2024-05-11 |
+| [La Ouija](https://open.spotify.com/track/0iTPVfW7uK9v4P64fnY8wK) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [La Ouija](https://open.spotify.com/album/0gCaJMGkjfvuMPOxIZpJS4) | 2:33 | 2024-08-02 |  |
 | [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 | 2024-06-14 |  |
 | [La Serenata](https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [La Serenata](https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio) | 3:24 | 2023-10-27 | 2023-11-25 |
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-11-06 |  |
@@ -226,6 +227,7 @@
 | [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 | 2023-07-11 | 2024-02-03 |
 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-05-12 | 2023-09-09 |
 | [Octubre](https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [Octubre](https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP) | 2:24 | 2024-07-26 |  |
+| [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-08-02 |  |
 | [Ojala Que](https://open.spotify.com/track/2NMlFUGOdHM6nyPVY9jn3J) | [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Ojala Que](https://open.spotify.com/album/6F1dbnvjqUzeELp6S0hyS3) | 2:22 | 2024-03-22 | 2024-04-19 |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2023-05-12 |  |
 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-26 |  |
@@ -305,7 +307,7 @@
 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 | 2023-06-09 | 2023-08-04 |
 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 | 2023-05-12 | 2023-05-20 |
 | [Un Rodeoooo](https://open.spotify.com/track/1fcOwu14PSWy2JJhpGIOoL) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:16 | 2023-09-26 | 2023-12-22 |
-| [Una más](https://open.spotify.com/track/1jhQ4a7ehYtN0XzHQ0ZTIF) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Una más](https://open.spotify.com/album/2lEaOHS4MmQfmIKDPKslPf) | 2:36 | 2024-01-04 |  |
+| [Una más](https://open.spotify.com/track/1jhQ4a7ehYtN0XzHQ0ZTIF) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Una más](https://open.spotify.com/album/2lEaOHS4MmQfmIKDPKslPf) | 2:36 | 2024-01-04 | 2024-08-03 |
 | [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 | 2023-05-12 |  |
 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 | 2023-05-12 | 2023-06-17 |
 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 | 2023-05-12 | 2023-05-20 |
@@ -319,7 +321,7 @@
 | [Volver A Empezar](https://open.spotify.com/track/2x4iEvdZuTYNbIVGXeOrlY) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bellas Artes Malas Vidas](https://open.spotify.com/album/6nQnNie5sdURxPiMW9cp0Y) | 3:56 | 2023-10-20 | 2023-11-25 |
 | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 | 2023-06-02 | 2023-07-01 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-04-05 |  |
-| [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 |  |
+| [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 | 2024-08-03 |
 | [Ya No Quiero Verte](https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Ya No Quiero Verte](https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS) | 2:45 | 2023-05-12 |  |
 | [Ya No Vuelvas](https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS) | 2:24 | 2023-05-12 |  |
 | [Yegua](https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:43 | 2023-09-01 | 2024-05-18 |

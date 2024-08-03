@@ -1,28 +1,64 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Jorja Smith",
-  "num_followers": 1749699,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: FLO",
+  "num_followers": 1749691,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqNzvQAAAACpoSzEdHOJO052AJdxIV/N",
+  "snapshot_id": "ZqxZwAAAAAAeaW9gDGNxZrDz1cC9FoE5",
   "tracks": [
     {
-      "added_at": "2024-07-26 10:00:29",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
+        "name": "Check",
+        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "KEHLANI (REMIX) [feat. Kehlani]",
+        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
       "added_at": "2024-07-19 15:46:40",
@@ -229,22 +265,6 @@
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
     },
     {
-      "added_at": "2024-06-21 06:59:45",
-      "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
-    },
-    {
       "added_at": "2024-06-14 05:27:25",
       "album": {
         "name": "DEVIL IS A LIE",
@@ -291,6 +311,22 @@
       "duration_ms": 184552,
       "name": "Soh-Soh",
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Suns Out",
+        "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 151788,
+      "name": "Suns Out",
+      "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
     },
     {
       "added_at": "2024-06-14 05:27:25",
@@ -365,20 +401,48 @@
       "url": "https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr"
     },
     {
-      "added_at": "2024-07-19 15:46:40",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "It's Complicated",
-        "url": "https://open.spotify.com/album/3rx7MeU8pWqIq9vZG2nr5p"
+        "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce"
       },
       "artists": [
         {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 161538,
-      "name": "He Don't Know",
-      "url": "https://open.spotify.com/track/1QWSfV2BlRyUkTiNxPT3Qv"
+      "duration_ms": 237623,
+      "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT"
+    },
+    {
+      "added_at": "2024-07-26 10:00:29",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
     },
     {
       "added_at": "2024-07-26 10:00:29",
@@ -401,6 +465,22 @@
       "url": "https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX"
     },
     {
+      "added_at": "2024-07-19 15:46:40",
+      "album": {
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/3rx7MeU8pWqIq9vZG2nr5p"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "He Don't Know",
+      "url": "https://open.spotify.com/track/1QWSfV2BlRyUkTiNxPT3Qv"
+    },
+    {
       "added_at": "2024-07-26 10:00:29",
       "album": {
         "name": "Most Wanted",
@@ -415,6 +495,22 @@
       "duration_ms": 163653,
       "name": "Most Wanted",
       "url": "https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Like A Flower",
+        "url": "https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h"
+      },
+      "artists": [
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "duration_ms": 186174,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6"
     },
     {
       "added_at": "2024-06-21 06:59:45",
@@ -643,6 +739,26 @@
       "duration_ms": 207900,
       "name": "Endless Night",
       "url": "https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/59JZYS1uK0A5znLlD8XQfQ"
+      },
+      "artists": [
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        },
+        {
+          "name": "Thutmose",
+          "url": "https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d"
+        }
+      ],
+      "duration_ms": 146127,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/2zE9ddVGmDmsClKyeTsEsx"
     },
     {
       "added_at": "2024-06-28 17:36:18",
@@ -2025,22 +2141,6 @@
       "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
     },
     {
-      "added_at": "2024-03-08 13:52:28",
-      "album": {
-        "name": "Walk Like This",
-        "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "Walk Like This",
-      "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "TORI.",
@@ -2687,62 +2787,6 @@
       "duration_ms": 82508,
       "name": "Best Time",
       "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
-    },
-    {
-      "added_at": "2024-01-19 06:37:10",
-      "album": {
-        "name": "In 2 Deep",
-        "url": "https://open.spotify.com/album/6F18TbI5mO5bvhJK0T9Am8"
-      },
-      "artists": [
-        {
-          "name": "Chikoruss",
-          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
-        }
-      ],
-      "duration_ms": 135999,
-      "name": "In 2 Deep",
-      "url": "https://open.spotify.com/track/6dAoE1lXYk5W25CRuCkeq6"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Damn Gloves",
-        "url": "https://open.spotify.com/album/5LtEbfT8ouvd9qLBVhLMv2"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Yanga YaYa",
-          "url": "https://open.spotify.com/artist/6khlvGagBlNVPYIknFCPeJ"
-        }
-      ],
-      "duration_ms": 151926,
-      "name": "Damn Gloves",
-      "url": "https://open.spotify.com/track/7qJXfY2YuKeAc4y8CdWJPq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Whip It Up",
-        "url": "https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        }
-      ],
-      "duration_ms": 130959,
-      "name": "Whip It Up",
-      "url": "https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl"
     },
     {
       "added_at": "2024-01-26 05:00:00",

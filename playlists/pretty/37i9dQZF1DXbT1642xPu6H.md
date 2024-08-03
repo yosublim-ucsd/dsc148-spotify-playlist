@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 
 > Musiquita, calorcito y pura buena vibra 🌞✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,870 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,908 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 33 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
 | 34 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 35 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
-| 36 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 |
-| 37 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 |
+| 36 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 |
+| 37 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 |
 | 38 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
 | 39 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
 | 40 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 48 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 |
 | 49 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
 | 50 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
-| 51 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 |
-| 52 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
+| 51 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
+| 52 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 |
 | 53 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
 | 54 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 |
 | 55 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 |

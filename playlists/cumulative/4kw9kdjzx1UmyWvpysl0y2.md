@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-785 songs - 1 day 21 hr 2 min
+786 songs - 1 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Alive](https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z) | [Alive](https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF) | 2:49 | 2023-04-27 | 2023-07-22 |
 | [All About You](https://open.spotify.com/track/0Lc22wJyPHTKF8mEoOOGzT) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [All About You](https://open.spotify.com/album/0UPEviguYBkCVLWVTwXx2y) | 2:45 | 2023-10-19 | 2024-02-02 |
 | [All Around Me](https://open.spotify.com/track/0upnL2PcB8zLkZf1q83TUg) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [All Around Me](https://open.spotify.com/album/7x03vOspUDZdFRmpJNwubO) | 3:36 | 2022-04-22 | 2022-07-02 |
+| [All Black](https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Feral](https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN) | 2:14 | 2024-08-02 |  |
 | [All But A Dream](https://open.spotify.com/track/4OGWWzeMDVVW0D1dqQCS2t) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [All But A Dream](https://open.spotify.com/album/3hoLLHytifFVosoaxST1fz) | 3:39 | 2023-02-22 | 2023-05-18 |
 | [All I Need](https://open.spotify.com/track/1uBA1ThKO8teqrrpeMHk8h) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [All I Need](https://open.spotify.com/album/5awCxZjxAP9h7gyPasDTNb) | 3:57 | 2022-02-02 | 2022-04-13 |
 | [All I Want](https://open.spotify.com/track/6j4aQyFmFXFJP88bNCL6w8) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [All I Want](https://open.spotify.com/album/19PqlRWtr5p3l4wCIPWWf8) | 2:31 | 2024-01-05 | 2024-03-29 |
@@ -734,7 +735,7 @@
 | [UMBRA](https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [UMBRA](https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6) | 3:37 | 2022-02-24 | 2022-05-07 |
 | [Unbound](https://open.spotify.com/track/7Ga0UUOoWhScCqfsIBZcS1) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw) | [Unbound](https://open.spotify.com/album/65xq8ZR0EEGPJ21w4bivCI) | 3:43 | 2023-01-18 | 2023-04-05 |
 | [Unbreakable](https://open.spotify.com/track/72KWzvjNEvKwsJAGBFlrHT) | [Hoaprox](https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Unbreakable](https://open.spotify.com/album/686cBsfdo35oMwrVgu6g19) | 2:54 | 2022-09-30 | 2022-12-04 |
-| [Underneath](https://open.spotify.com/track/5ysXuifk655k82MjxXHxzS) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Underneath](https://open.spotify.com/album/0yJwLlRNz1oBjf24GqqteA) | 3:02 | 2024-05-14 |  |
+| [Underneath](https://open.spotify.com/track/5ysXuifk655k82MjxXHxzS) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Underneath](https://open.spotify.com/album/0yJwLlRNz1oBjf24GqqteA) | 3:02 | 2024-05-14 | 2024-08-03 |
 | [Unfinished](https://open.spotify.com/track/7w9SaK5KiptI4BNdAEzTJk) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Unfinished](https://open.spotify.com/album/0S86doOPLnGVIlXtM4QoIH) | 4:44 | 2022-01-28 | 2022-04-08 |
 | [Uplift](https://open.spotify.com/track/5v61xHVqHn4EyakLpGqWzb) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Uplift](https://open.spotify.com/album/6OwhZjeTdn2uQ3LZNsmHzP) | 3:48 | 2023-06-12 | 2023-09-26 |
 | [Used](https://open.spotify.com/track/221btWts70oQ60quERFxXM) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Emma Mae](https://open.spotify.com/artist/43a6MOLTIzH1H3LjXIJOZv) | [Used](https://open.spotify.com/album/6rHqNX0gISvnog7Q0vm0e8) | 4:18 | 2021-11-19 | 2022-01-28 |

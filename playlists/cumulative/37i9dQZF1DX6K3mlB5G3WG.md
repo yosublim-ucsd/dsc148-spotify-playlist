@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite, 🇮🇹 e 🌎! Cover: Khalid
 
-201 songs - 10 hr 9 min
+203 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Molto amore](https://open.spotify.com/track/5tpaFod4779hJRvAKPHWtI) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Molto amore](https://open.spotify.com/album/0DGsacjMo83Rsxz8hXZQDK) | 2:55 | 2024-06-27 | 2024-07-19 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-27 | 2024-07-12 |
 | [MUSICA CUBANA](https://open.spotify.com/track/0eE6mgYwcz6IsAK7Az131Z) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [MUSICA CUBANA](https://open.spotify.com/album/408LOLgn21BkpGEvHu4HzJ) | 2:37 | 2024-08-01 |  |
+| [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-02 |  |
 | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 | 2024-07-11 |  |
 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 | 2024-06-27 | 2024-07-19 |
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-27 | 2024-07-05 |
@@ -188,6 +189,7 @@
 | [Tornami addosso \(Eccoti\)](https://open.spotify.com/track/66VL2v7M9qVqZlmf4WVloP) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Tornami addosso \(Eccoti\)](https://open.spotify.com/album/1y5YAxUuYPmMAtUetuBhiH) | 3:06 | 2024-06-27 | 2024-07-05 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-08-02 |
 | [TRISTE](https://open.spotify.com/track/4q0R0CF9mMOoeJqSbtXoPP) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [LA PARTE DEL MONDO CHE NON MI PIACE](https://open.spotify.com/album/0hxDLzDRnjmsD4p7eCO6Uh) | 1:42 | 2024-06-27 | 2024-07-19 |
+| [TU ROPA](https://open.spotify.com/track/4ZgNkauy7LD2e4Fl1k26lb) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [PERMANENTE](https://open.spotify.com/album/3iA6lFPydNrgFd6s1Hojii) | 2:09 | 2024-08-02 |  |
 | [tutta vera](https://open.spotify.com/track/06I7vpjdfG0D7c9eOvC2CU) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [tutta vera](https://open.spotify.com/album/7AqEBqBlUnAxfQ3cELhFD5) | 3:19 | 2024-06-27 | 2024-07-12 |
 | [Ultimo addio](https://open.spotify.com/track/4E6p6inBpalGEPkxQAFBy2) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [Ultimo addio](https://open.spotify.com/album/7vs04FRFm1oifBdzXdGvgb) | 2:35 | 2024-07-11 | 2024-07-27 |
 | [Un altro nome](https://open.spotify.com/track/49xYUwsDn6oh6dOPoLl5y5) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Un altro nome](https://open.spotify.com/album/0T0qw7XpWoJCxa2XY5U4oT) | 3:16 | 2024-07-18 |  |

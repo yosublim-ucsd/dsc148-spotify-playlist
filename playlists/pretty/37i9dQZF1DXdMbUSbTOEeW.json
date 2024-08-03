@@ -1,6 +1,6 @@
 {
   "description": "Trending dance hits in India. Cover: Karan Aujla & Badshah",
-  "num_followers": 68654,
+  "num_followers": 68671,
   "original_name": "mint India",
   "owner": {
     "name": "Spotify",
@@ -1075,17 +1075,25 @@
     {
       "added_at": "2024-07-18 06:01:52",
       "album": {
-        "name": "Pushpa - The Rise",
+        "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
       },
       "artists": [
         {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
           "name": "Indravathi Chauhan",
           "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
       "duration_ms": 223325,
-      "name": "Oo Antava Oo Oo Antava",
+      "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
     },
     {

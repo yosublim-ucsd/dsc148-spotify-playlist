@@ -3717,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "soliloquio",
+        "url": "https://open.spotify.com/album/5MtM57Lh3oYhlrD7hnLsCr"
+      },
+      "artists": [
+        {
+          "name": "BLAISE",
+          "url": "https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Day 1",
+      "url": "https://open.spotify.com/track/6L5xJl5MSTZwuVMvyua3ej"
+    },
+    {
+      "album": {
         "name": "BAD HOP (Deluxe Edition)",
         "url": "https://open.spotify.com/album/79JJkBZaJpiN8d1ELd7Q1r"
       },
@@ -17083,6 +17101,28 @@
     },
     {
       "album": {
+        "name": "Toughness",
+        "url": "https://open.spotify.com/album/212d651CW2WC4Zewt8pQ9K"
+      },
+      "artists": [
+        {
+          "name": "\u611b\u67d3 eyezen",
+          "url": "https://open.spotify.com/artist/2eBEDEZfa18IfSEVsvqXvb"
+        },
+        {
+          "name": "J.A.K.A.M.",
+          "url": "https://open.spotify.com/artist/00rIoCWZCsA5ASCE248LVf"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275176,
+      "name": "Toughness",
+      "url": "https://open.spotify.com/track/6dv0kBL2IPFgguPWXgUzNh"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ"
       },
@@ -19855,7 +19895,7 @@
         },
         {
           "name": "NENE",
-          "url": "https://open.spotify.com/artist/0GWd1nAGTQBkliv0zhbaqo"
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
         }
       ],
       "date_added": "2024-07-30",

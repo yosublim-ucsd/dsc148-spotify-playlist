@@ -2,9 +2,9 @@
 
 ### [Dose Trap](https://open.spotify.com/playlist/37i9dQZF1DWWlW7KLhEhCZ)
 
-> Lançamentos e novos nomes do trap nacional\. Foto: LPT Zlatan
+> Lançamentos e novos nomes do trap nacional\. Foto: Xamuel
 
-1,229 songs - 2 day 8 hr 16 min
+1,232 songs - 2 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,9 @@
 | [Bb Simon$](https://open.spotify.com/track/7mC3yedRbAHl7XyVPiQGlH) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ) | [2 L3Trinha](https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN) | 2:31 | 2023-12-01 | 2024-06-15 |
 | [BEBE](https://open.spotify.com/track/1XhcliI9J7WIT2kovOTVMR) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [BEBE](https://open.spotify.com/album/7FiCvhvwZ6edEQfQU77taE) | 2:45 | 2022-07-29 | 2022-08-27 |
 | [Bebeto & Romário](https://open.spotify.com/track/2v8EsK2tTltGaWLr6L4fZV) | [sickobabyxo](https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL), [BEBELSITO TREM](https://open.spotify.com/artist/449SywvqxRgl24dnRpsNqz) | [Fique Chapado, Permaneça Produtivo](https://open.spotify.com/album/3GwZgBO2aaQluZQceR62bU) | 2:13 | 2023-03-10 | 2023-04-01 |
+| [Bebê](https://open.spotify.com/track/6DZY80ickEfZe0Fi7nkFA0) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [DJ JB Mix](https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w) | [Bebê](https://open.spotify.com/album/0DzH6XjlTm6RIdTAIDQaUf) | 3:02 | 2024-08-02 |  |
 | [Beethoven](https://open.spotify.com/track/7eLoke72WxoJ04sQZhRlSg) | [Raonir Braz](https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg) | [Beethoven](https://open.spotify.com/album/3PW7uYiR7eRKCDw1wCEcM5) | 3:25 | 2022-10-14 | 2022-10-22 |
+| [Beijo & Tchau](https://open.spotify.com/track/6oE2BPo7QUotnHRMBjalgV) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Beijo & Tchau](https://open.spotify.com/album/73fWLWWyLVRV1jljPdlHOi) | 2:17 | 2024-08-02 |  |
 | [Beleza Exótica](https://open.spotify.com/track/2hvpRKeyFQtB4a5aV9YvfV) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Beleza Exótica](https://open.spotify.com/album/5kfRrdhHmQ5fHgKtz351Yt) | 2:37 | 2023-03-13 | 2023-04-15 |
 | [Bellingham](https://open.spotify.com/track/3GTpSnNTSh4QOKE9aM8gmI) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Bellingham](https://open.spotify.com/album/77tDGgpRLeX6TSXjtgRZOs) | 1:53 | 2024-03-22 |  |
 | [Berço do Trap](https://open.spotify.com/track/5dfEz3Qzoi9UPGc9P0HMDO) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [Berço do Trap](https://open.spotify.com/album/732DRyaUobCSyjzjbxvpTM) | 2:22 | 2023-03-24 | 2023-10-07 |
@@ -1214,6 +1216,7 @@
 | [Willy Wonka](https://open.spotify.com/track/2JRIGDWo0A134pQJnTyb8J) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs) | [Willy Wonka](https://open.spotify.com/album/5Z7jslPQ9XZxOVgB0yKfNt) | 3:05 | 2024-01-05 | 2024-01-13 |
 | [Wonka 2](https://open.spotify.com/track/1zxtzEkDL9eseOTgx48Ssz) | [Godsiqueira](https://open.spotify.com/artist/42snp89vLLeLlg0XiWygBR), [Xiuazaki](https://open.spotify.com/artist/2jYv8mgnSvTyp3qaKK3FCc), [RealVettorazzi](https://open.spotify.com/artist/33t6KcOfRfbXL5IAZU4ctA), [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0) | [Wonka 2](https://open.spotify.com/album/1P4y39qZXqwuXZdGVmCQby) | 2:53 | 2022-08-12 | 2022-09-03 |
 | [Woodstock](https://open.spotify.com/track/3g02raxbpGHrIoDbd2mo39) | [Slugg](https://open.spotify.com/artist/7t2WDNwVoFbq6iZPkv60kR), [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [Woodstock](https://open.spotify.com/album/4fBpEiUQgpFIGatcEzvEKD) | 2:34 | 2023-07-21 | 2023-08-12 |
+| [WORKSHOP](https://open.spotify.com/track/2Qr23jliYkdIH46pUWBGLu) | [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [KAREN$](https://open.spotify.com/album/5h2YZMY6BW13byZl9cTVwU) | 1:49 | 2024-08-02 |  |
 | [X](https://open.spotify.com/track/4HTmLniczwf8cwVs0gf0D3) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [X](https://open.spotify.com/album/71io6UKrsGMs5veiOJlv4J) | 2:02 | 2023-11-03 | 2023-11-11 |
 | [X9](https://open.spotify.com/track/7scU0spuTn2ubgkQd2ycdG) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [KENNEDYBEATZ](https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv) | [X9](https://open.spotify.com/album/4ewWDp71beOh3IO5NERcqR) | 2:51 | 2023-12-15 | 2024-01-05 |
 | [Xarope](https://open.spotify.com/track/0vlZm4fGKG4FdIqwpme28K) | [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Bril](https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a) | [Xarope](https://open.spotify.com/album/2FsiypTRxiXkoyogNDPJpz) | 3:01 | 2022-05-27 | 2022-06-04 |

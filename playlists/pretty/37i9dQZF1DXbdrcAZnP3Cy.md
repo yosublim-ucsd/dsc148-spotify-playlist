@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,682 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,727 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 58 | [Cómo Me Duele](https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3) | 3:39 |
 | 59 | [La Del Moño Colorado](https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE) | [Los Pedernales](https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc) | [La Del Moño Colorado](https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR) | 5:00 |
 | 60 | [Se Menea](https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Se Menea Se Menea](https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D) | 2:31 |
-| 61 | [Dime Cómo Quieres](https://open.spotify.com/track/5fnbYKGq0zhFCCesNhiUE6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Dime Cómo Quieres](https://open.spotify.com/album/627Wbeny1n8Wuu2zISsiiS) | 2:49 |
-| 62 | [La Dieta](https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 2:44 |
+| 61 | [La Dieta](https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 2:44 |
+| 62 | [Dime Cómo Quieres](https://open.spotify.com/track/5fnbYKGq0zhFCCesNhiUE6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Dime Cómo Quieres](https://open.spotify.com/album/627Wbeny1n8Wuu2zISsiiS) | 2:49 |
 | 63 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 |
 | 64 | [El Sonidito](https://open.spotify.com/track/5L5Ox4ze5TZaQNw5CvD6CL) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx) | [El Sonidito](https://open.spotify.com/album/7517072y7Mved9OzrsTB4E) | 3:19 |
 | 65 | [Pena Tras Pena](https://open.spotify.com/track/17Atin09BMavpAvwc8qWph) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Tengo Una Illusión](https://open.spotify.com/album/3hbjT0ctHBW6BxZLcysm7m) | 2:50 |

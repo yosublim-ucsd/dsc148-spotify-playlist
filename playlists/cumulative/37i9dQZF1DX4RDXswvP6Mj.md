@@ -2,9 +2,9 @@
 
 ### [K\-Club Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: Jimin\(지민\)\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
+> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: Stray Kids\(스트레이 키즈\)\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-712 songs - 1 day 14 hr 33 min
+713 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [I'm Not Cool](https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 2:54 | 2022-04-05 | 2022-04-17 |
 | [i'M THE TREND](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i'M THE TREND](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) | 3:25 | 2022-03-24 | 2022-04-18 |
 | [I\`m a B](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Guilty Pleasure](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) | 2:47 | 2022-01-14 | 2022-04-29 |
+| [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 | 2024-08-02 |  |
 | [ICE T](https://open.spotify.com/track/6eNVf9UDzT0wrEFDEHnSus) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Sweet\-Tea](https://open.spotify.com/album/7BFmhM7GcY5oeseQmyYlpZ) | 3:20 | 2022-02-23 | 2022-06-25 |
 | [ICKY](https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:59 | 2023-05-23 | 2024-05-10 |
 | [IDOL](https://open.spotify.com/track/2AIWoHr9DF6y4KALCBKWQS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 3:42 | 2022-03-24 | 2022-04-03 |
@@ -599,7 +600,7 @@
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-07-04 | 2022-07-08 |
 | [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 | 2021-12-29 | 2022-06-26 |
 | [SUNNY](https://open.spotify.com/track/1ZKj8dOHp1gaOE9BGvyWWU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:20 | 2022-03-24 | 2022-04-16 |
-| [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-02-06 |  |
+| [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-02-06 | 2024-08-03 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 |  |
 | [Superhuman](https://open.spotify.com/track/4baWaXmm0BFFT3Qe3uSvs9) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/3Xv60ja2pLxH3Wk0x0JIWT) | 3:57 | 2023-05-01 | 2023-05-10 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 |  |

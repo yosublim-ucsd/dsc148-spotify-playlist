@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 47477,
+  "num_followers": 47500,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAACC91bX50CBZ+vjcwqmiCkR",
+  "snapshot_id": "ZqrQAAAAAABKfTgVW1XufbkwfOHDuo7d",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worthy Of My Song",
-        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 371640,
-      "name": "Worthy Of My Song",
-      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace, Vol. II",
         "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 282546,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I BELIEVE \u2022 HOMETOWN VERSION",
         "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
       },
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "Worthy Of My Song",
+        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 282546,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
+      "duration_ms": 371640,
+      "name": "Worthy Of My Song",
+      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
     },
     {
       "added_at": null,

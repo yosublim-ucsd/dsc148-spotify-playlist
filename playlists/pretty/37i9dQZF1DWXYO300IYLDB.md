@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,938 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,942 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 77 | [Just Come Home With Me Tonight \- Live at 45](https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home With Me Tonight \(Live at 45\)](https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f) | 4:40 |
 | 78 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 |
 | 79 | [いつものこと](https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [いつものこと](https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO) | 4:00 |
-| 80 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
+| 80 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
 | 81 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
-| 82 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
+| 82 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
 | 83 | [On The Way](https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [On The Way](https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA) | 3:12 |
 | 84 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 85 | [Whaleland](https://open.spotify.com/track/7j5HLMGvve9kfOfWAtCkpB) | [とまとくらぶ](https://open.spotify.com/artist/6gvHiE41hsCPrljYaSoQ0P) | [Whaleland](https://open.spotify.com/album/2s1h6j9l3AZJ8yEXAbCy4W) | 3:54 |

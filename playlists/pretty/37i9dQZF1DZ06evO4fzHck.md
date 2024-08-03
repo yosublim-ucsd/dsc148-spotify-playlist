@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 ### [This Is The Cure](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fzHck)
 
-> This is The Cure\. The essential tracks, all in one playlist.
+> This is The Cure\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,314 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,404 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 49 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 |
 | 50 | [Cut \- 1990 Demo](https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe) | 3:33 |
 
-Snapshot ID: `Zql+gAAAAAAstNWUdrioQ4KKZU6LUrPG`
+Snapshot ID: `ZqrQAAAAAADB4zdnbyM/tmWFGUFsQM5S`

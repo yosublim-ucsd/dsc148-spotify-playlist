@@ -4,7 +4,7 @@
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: أنغام
 
-343 songs - 20 hr 27 min
+344 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [ابن امبارح](https://open.spotify.com/track/74zhameHOFlWAhXWTwp5GQ) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ابن امبارح](https://open.spotify.com/album/31igzNV5FN0huFzyxNNo1J) | 3:59 | 2024-02-06 | 2024-02-18 |
 | [اصحى للكلام](https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [اصحى للكلام](https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1) | 3:14 | 2023-06-29 | 2023-08-19 |
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2023-05-17 | 2023-07-12 |
+| [اضحك](https://open.spotify.com/track/2Du4t16DUMIQl15VyC6Hi2) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [اضحك](https://open.spotify.com/album/56I8KK1PEo0ckpnKe3R157) | 2:51 | 2024-08-02 |  |
 | [اعدائك كترت](https://open.spotify.com/track/0CFfVxPKnJfh7bIxzgOyO0) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اعدائك كترت](https://open.spotify.com/album/5FTpX2Ws71TQRQyec4CbqY) | 3:27 | 2022-09-22 | 2023-05-31 |
 | [الحب](https://open.spotify.com/track/0EM7yBpi3yoA5Vf6HVScgP) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [الحب](https://open.spotify.com/album/4FDzVLy4DtsuetAHROxJFm) | 3:24 | 2023-07-11 | 2023-08-19 |
 | [الحب الأبدي](https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [الحب الأبدي](https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0) | 4:37 | 2023-08-04 | 2024-01-02 |

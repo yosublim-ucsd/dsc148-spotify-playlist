@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/3BXelEIQyWtuh1rlwqjqb5"
+      },
+      "artists": [
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202510,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/67sWTIhUN5LLXEJmoH46hP"
+    },
+    {
+      "album": {
         "name": "Autopoi\u00e9tica",
         "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
       },
@@ -452,6 +470,28 @@
       "duration_ms": 214080,
       "name": "Amor Sincero",
       "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "album": {
+        "name": "Amor Toxico",
+        "url": "https://open.spotify.com/album/7JjjKoslNFHr2JOlYurOls"
+      },
+      "artists": [
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        },
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Amor Toxico",
+      "url": "https://open.spotify.com/track/5SkGY1hLdP9dJDlralBzXK"
     },
     {
       "album": {
@@ -2544,7 +2584,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 205714,
       "name": "EL CANTANTE DEL GHETTO",
       "url": "https://open.spotify.com/track/50EDwjxJALuDmkRAreUQga"
@@ -3628,6 +3668,28 @@
       "duration_ms": 201030,
       "name": "HOLA PERDIDA REMIX",
       "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
+    },
+    {
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198495,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
     },
     {
       "album": {
@@ -5430,7 +5492,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179047,
       "name": "Millonaria",
       "url": "https://open.spotify.com/track/6suDZ9yCQPMagTPV1S3F5y"
@@ -8171,6 +8233,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5exPRHDzpx8kGFU2GLykhQ"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152688,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6f4zNq3F34DNZT62bOY9wz"
+    },
+    {
+      "album": {
         "name": "Sube Tela",
         "url": "https://open.spotify.com/album/0OW0rzFBUtjViPP6SB2IBs"
       },
@@ -8236,7 +8316,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180480,
       "name": "S\u00f3lo Por Un Rato",
       "url": "https://open.spotify.com/track/3E26o2pC2pdnKew4V9LBFD"
@@ -8450,7 +8530,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 174464,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/3f10wl1D27OktfiA8jWyW0"

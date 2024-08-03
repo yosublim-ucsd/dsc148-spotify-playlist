@@ -1,6 +1,6 @@
 {
   "description": "The songs we've been partying to in 2023. Cover:  #SpotifyWrapped",
-  "num_followers": 61843,
+  "num_followers": 61844,
   "original_name": "Top Party Hits of 2023",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-11-29 12:15:00",

@@ -4,7 +4,7 @@
 
 > Los sonidos más dulces del pop.
 
-171 songs - 9 hr 39 min
+172 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Adiós Amor](https://open.spotify.com/track/5rpQcu6N5omwxP8ai4UYmO) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Adiós Amor](https://open.spotify.com/album/0XDiT3wvemIhWDfuBvAJWo) | 3:47 | 2021-10-05 | 2022-03-26 |
 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 | 2023-04-14 | 2023-08-12 |
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-05-17 | 2022-09-03 |
-| [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 | 2024-02-15 |  |
+| [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 | 2024-02-15 | 2024-08-03 |
+| [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 | 2024-08-02 |  |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 | 2021-10-05 | 2022-09-03 |
 | [Azúcar Amargo](https://open.spotify.com/track/4i6PCo9JMAnIqzUZrTirCP) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Originales \- 20 Exitos](https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy) | 4:40 | 2022-11-04 | 2022-11-13 |
 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 | 2022-06-02 | 2024-04-19 |

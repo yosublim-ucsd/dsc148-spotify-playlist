@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Post Malone & Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,254 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,263 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

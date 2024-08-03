@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "$L!ME",
+        "url": "https://open.spotify.com/album/7MkxEXZsRl9jnXOHDcj9Sj"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "Lil Snvrk",
+          "url": "https://open.spotify.com/artist/6Cu1tn4J5gXoXfz9eSE8Fr"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73846,
+      "name": "$L!ME",
+      "url": "https://open.spotify.com/track/3EgSEM4rJhUY9TTek7s2U1"
+    },
+    {
+      "album": {
         "name": "$WISH ft. G-Eazy and Chance The Rapper",
         "url": "https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn"
       },
@@ -1268,7 +1290,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 115181,
       "name": "AMMO",
       "url": "https://open.spotify.com/track/0zGyLV0gWvDtdMi0ekG6dY"
@@ -4013,6 +4035,28 @@
     },
     {
       "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/2OHZINTKWO2VubhR1sLnQz"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        },
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170224,
+      "name": "Contra",
+      "url": "https://open.spotify.com/track/5dNknTci8ACjSrq1A9zdwW"
+    },
+    {
+      "album": {
         "name": "Life Is Weird",
         "url": "https://open.spotify.com/album/0SLT0oIEEw31rFo7rfRzm9"
       },
@@ -4162,7 +4206,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 224000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3uTphlewicNi0smJaNggBU"
@@ -6811,6 +6855,24 @@
     },
     {
       "album": {
+        "name": "FOUR LEAF CLOVER",
+        "url": "https://open.spotify.com/album/4L8nxWhkCCakoy7HtuPKxj"
+      },
+      "artists": [
+        {
+          "name": "Obl\u00e9 Reed",
+          "url": "https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131573,
+      "name": "FOUR LEAF CLOVER",
+      "url": "https://open.spotify.com/track/1gAqm2cMcDkb25nmHIk1RP"
+    },
+    {
+      "album": {
         "name": "Franchize Boy",
         "url": "https://open.spotify.com/album/5CBvmyueeCmjNInxrdW2T6"
       },
@@ -8693,6 +8755,32 @@
     },
     {
       "album": {
+        "name": "I DID IT (w/ Kanii & Anycia)",
+        "url": "https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159837,
+      "name": "I DID IT (w/ Kanii & Anycia)",
+      "url": "https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq"
+    },
+    {
+      "album": {
         "name": "I DON'T GO TO HIGHSCHOOL",
         "url": "https://open.spotify.com/album/0q84UVjQXjHN0vUp7nlE3d"
       },
@@ -8996,6 +9084,24 @@
       "duration_ms": 205210,
       "name": "I'll Always Be Around",
       "url": "https://open.spotify.com/track/7bDOvN5MkCiyGttswXAIuz"
+    },
+    {
+      "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168400,
+      "name": "I'll Be Right There",
+      "url": "https://open.spotify.com/track/5Z6hdVHH39nARjTBfMUVl6"
     },
     {
       "album": {
@@ -9602,6 +9708,28 @@
       "duration_ms": 214012,
       "name": "Jokers Wild",
       "url": "https://open.spotify.com/track/1UNMITiUcubCCpbbzFJ7Rb"
+    },
+    {
+      "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291800,
+      "name": "JPEGULTRA! (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/0NMC6aezcf1GItgscoiQCO"
     },
     {
       "album": {
@@ -10798,7 +10926,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 150468,
       "name": "LONELY MF",
       "url": "https://open.spotify.com/track/7AGOsBjHLrI2tjAlcsO5e7"
@@ -11362,7 +11490,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 267175,
       "name": "Meanwhile",
       "url": "https://open.spotify.com/track/6MUraCPaGkI8FG3KlWNHJk"
@@ -11558,7 +11686,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186629,
       "name": "Minute (feat. eamon mo)",
       "url": "https://open.spotify.com/track/322kZCpEipYL2smYseMXce"
@@ -11776,6 +11904,24 @@
       "duration_ms": 172220,
       "name": "MONEY ANGELS",
       "url": "https://open.spotify.com/track/1myPvMJvGsNVuQnpOQLccQ"
+    },
+    {
+      "album": {
+        "name": "Money Happiness",
+        "url": "https://open.spotify.com/album/1sWi5g0bBZrdr6su7jh9k7"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Money Happiness",
+      "url": "https://open.spotify.com/track/2MOWO41jwXHxdTXwt9B3N6"
     },
     {
       "album": {
@@ -12461,6 +12607,28 @@
     },
     {
       "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "New Black History (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/4HzV6IvuKEuKdh5O60v52u"
+    },
+    {
+      "album": {
         "name": "New Choppa",
         "url": "https://open.spotify.com/album/3Bl9X9YpL7MkESEiLufutJ"
       },
@@ -12472,7 +12640,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 102456,
       "name": "New Choppa",
       "url": "https://open.spotify.com/track/0qgq1PSmNYEq4KK17DbjVP"
@@ -13276,7 +13444,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 185353,
       "name": "OVER THERE",
       "url": "https://open.spotify.com/track/1LNoCeyIM5wCOszdJNVtEY"
@@ -17307,6 +17475,28 @@
     },
     {
       "album": {
+        "name": "tahiti",
+        "url": "https://open.spotify.com/album/6TpDMIOL2oV6iqv7Op0DLF"
+      },
+      "artists": [
+        {
+          "name": "Vayda",
+          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
+        },
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142158,
+      "name": "tahiti",
+      "url": "https://open.spotify.com/track/7q4iggWx8ZJxdORO74FKL1"
+    },
+    {
+      "album": {
         "name": "Tailor Swift",
         "url": "https://open.spotify.com/album/5tGg7PsNeoBJ7WTGpDSoyY"
       },
@@ -17718,7 +17908,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 189987,
       "name": "that's right daddy (feat. Igwe Aka & Mercury)",
       "url": "https://open.spotify.com/track/3mUMCfl8kOxAR6rPEAl7bv"
@@ -18718,7 +18908,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196626,
       "name": "ULTRA SHXT (with Key Nyata)",
       "url": "https://open.spotify.com/track/5d88Vpyco7yN3iriQqFtMc"

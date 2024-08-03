@@ -1,12 +1,12 @@
 {
-  "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 124362,
+  "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
+  "num_followers": 124364,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAC3xMWUsh3JAY6Ybixfcjqa",
+  "snapshot_id": "ZqrQAAAAAACn7kIDVy4Qgd+Und4myYL4",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biling\u00fces",
-        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Biling\u00fces",
-      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manos Fr\u00edas (con Reik, Be\u00e9le)",
         "url": "https://open.spotify.com/album/2CmFiY185Jg2DeXasl2Pxo"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 216809,
       "name": "Manos Fr\u00edas (con Reik, Be\u00e9le)",
       "url": "https://open.spotify.com/track/14SFx9btIIv81LSbaajTv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biling\u00fces",
+        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Biling\u00fces",
+      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cachito",
         "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 188546,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
     },
     {
       "added_at": null,
@@ -919,30 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despi\u00e9rtate",
-        "url": "https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Despi\u00e9rtate",
-      "url": "https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bota Fuego (feat. D\u00edmelo Flow, Justin Quiles & Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/45YWYjXP1nV0l61m50E5dL"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 252268,
       "name": "Bota Fuego (feat. D\u00edmelo Flow, Justin Quiles & Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/4MxYiw28F30NGOaTZ1ySqd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Despi\u00e9rtate",
+        "url": "https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Despi\u00e9rtate",
+      "url": "https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI"
     },
     {
       "added_at": null,

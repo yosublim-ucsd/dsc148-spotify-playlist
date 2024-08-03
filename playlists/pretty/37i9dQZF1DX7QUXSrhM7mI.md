@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > The soundtrack to lazing around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,355 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,391 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 18 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
 | 19 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
 | 20 | [The Painter](https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:31 |
-| 21 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
+| 21 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 22 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
-| 23 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
-| 24 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
-| 25 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
+| 23 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
+| 24 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
+| 25 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 26 | [False God](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:20 |
 | 27 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 28 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 33 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 |
 | 34 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 | 35 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
-| 36 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
-| 37 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
+| 36 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
+| 37 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 38 | [Holy Roller \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:36 |
 | 39 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 |
 | 40 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |

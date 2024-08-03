@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUSHGSJhLype.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUSHGSJhLype) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUSHGSJhLype)
 
-### [PURO CALDO DE BRASIL](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
+### [PURO SUCO DO BRASIL](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: NATTAN, Ana Castela
+> aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: Mc Daniel
 
-313 songs - 14 hr 47 min
+314 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Love, Love](https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Matheus Alves](https://open.spotify.com/artist/1WA2YgK6RudLFgrIIPfUeR) | [Love, Love](https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS) | 2:13 | 2023-07-06 | 2024-04-27 |
 | [Lovezinho](https://open.spotify.com/track/2pZEMax5fopaI1UUhFlnRi) | [Kamargão](https://open.spotify.com/artist/3EY7HU2OQYbmh5FdqUlDQI), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/7guyK8SG84ysWJtA5IT1ec) | 2:15 | 2023-05-29 | 2023-12-30 |
 | [LOVEZINHO DO PAI](https://open.spotify.com/track/1ciWhmHMYlFvSJvWUUq1QA) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Rafinha RSQ](https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h) | [LOVEZINHO DO PAI](https://open.spotify.com/album/6L5x0X9NFi0QOHop5ICNtH) | 2:20 | 2023-05-15 | 2023-07-22 |
-| [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi) | 11:07 | 2024-07-05 |  |
+| [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi) | 11:07 | 2024-07-05 | 2024-08-03 |
 | [Luz Do Luar](https://open.spotify.com/track/6sRVs06LFw91N6D9dfam3t) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Luz Do Luar](https://open.spotify.com/album/55AropmH7pYqUReNSNfmP7) | 2:51 | 2024-02-22 |  |
 | [Língua Doce \- Ao Vivo](https://open.spotify.com/track/7mCrapVz3qXQ74XiRrbEVU) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Leo & Elas \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/3s3B3mbjzuQ86jCYmZwAYK) | 2:07 | 2024-06-14 | 2024-07-06 |
 | [Macetando](https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Reivete\-se 3.0](https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G) | 2:47 | 2023-12-15 |  |
@@ -305,6 +305,7 @@
 | [Vem Morenin](https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Vem Morenin](https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK) | 2:39 | 2023-12-08 | 2024-02-10 |
 | [Vem Morenin](https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Pivete do Arrocha Funk](https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9) | 2:39 | 2023-08-07 | 2023-12-12 |
 | [Vem Quebrando](https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Vem Quebrando](https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF) | 2:28 | 2023-09-25 | 2024-01-20 |
+| [Vibezinha](https://open.spotify.com/track/766QpS7OrDPmuEznTD798F) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Vibezinha](https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin) | 2:28 | 2024-08-02 |  |
 | [Vida \- Ao Vivo](https://open.spotify.com/track/3rTg5u0gjZVZW8OGphOlcU) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [MF No Rio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ) | 3:01 | 2023-05-15 | 2023-09-26 |
 | [Virou Love](https://open.spotify.com/track/2nwpjiWvf9AEJFrfk2wRzM) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Virou Love](https://open.spotify.com/album/3XF82KK8UGKsEECqFTmctR) | 2:54 | 2024-02-09 | 2024-03-02 |
 | [Voando Pro Pará](https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 2:59 | 2023-11-27 | 2024-05-10 |

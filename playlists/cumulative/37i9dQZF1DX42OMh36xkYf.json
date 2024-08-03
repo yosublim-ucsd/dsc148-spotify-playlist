@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con RENEE en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Jaze en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 327064,
       "name": "Antes De Partir",
       "url": "https://open.spotify.com/track/2mbxifzlODJWwSG5O6LMuY"
+    },
+    {
+      "album": {
+        "name": "Ataque de Ansiedad (Arial 5)",
+        "url": "https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156532,
+      "name": "Ataque de Ansiedad (Arial 5)",
+      "url": "https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18"
     },
     {
       "album": {
@@ -620,7 +638,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 330026,
       "name": "Cuando Te Tengo Cerca - Sesi\u00f3n en Vivo",
       "url": "https://open.spotify.com/track/48lX5TitlRBFfCBx2A8DFE"
@@ -656,7 +674,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 225333,
       "name": "C\u00f3mo Te Hago Entender",
       "url": "https://open.spotify.com/track/0uPbJDwoDa065Os4rxUNRj"
@@ -1138,6 +1156,28 @@
       "duration_ms": 340934,
       "name": "He Venido al Mar - short mix",
       "url": "https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8"
+    },
+    {
+      "album": {
+        "name": "Heart of Thunder",
+        "url": "https://open.spotify.com/album/2NrrkmuqKwy5j0C5gIxeNX"
+      },
+      "artists": [
+        {
+          "name": "We The Lion",
+          "url": "https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z"
+        },
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211434,
+      "name": "Heart of Thunder",
+      "url": "https://open.spotify.com/track/6KcNnnPEEEpAThFNN6DYZl"
     },
     {
       "album": {
@@ -1643,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "mil procedimientos",
+        "url": "https://open.spotify.com/album/228lIoPGjFuFxEUAh4vjOO"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "mil procedimientos",
+      "url": "https://open.spotify.com/track/3GbGWkO0fqOGKvDGQle35s"
+    },
+    {
+      "album": {
         "name": "mis compas tan aqu\u00ed",
         "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
       },
@@ -1778,7 +1836,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
@@ -1822,6 +1880,46 @@
       "duration_ms": 167083,
       "name": "Ni\u00f1a De La Luna (Killapa Llullu Warmi)",
       "url": "https://open.spotify.com/track/7sqrr37MY2BPrlLGs1zKn2"
+    },
+    {
+      "album": {
+        "name": "No es culpa tuya",
+        "url": "https://open.spotify.com/album/5Gm2ELl1iV8Jk1Il4Zk1QV"
+      },
+      "artists": [
+        {
+          "name": "yumhji",
+          "url": "https://open.spotify.com/artist/1kZW1tP8aoEp0iWuMVbCqx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "No es culpa tuya",
+      "url": "https://open.spotify.com/track/0vHeN8JovVFOOSta12kaQM"
+    },
+    {
+      "album": {
+        "name": "No Me Dan Las Cuentas",
+        "url": "https://open.spotify.com/album/5D2lSTtk0P7OTtg4WuzJaE"
+      },
+      "artists": [
+        {
+          "name": "Ceci Juno",
+          "url": "https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu"
+        },
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235760,
+      "name": "No Me Dan Las Cuentas",
+      "url": "https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw"
     },
     {
       "album": {
@@ -2071,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "venequia.",
+        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182479,
+      "name": "por la peque\u00f1a Venecia",
+      "url": "https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4"
+    },
+    {
+      "album": {
         "name": "Por ti",
         "url": "https://open.spotify.com/album/7J48NdfyjSayVLgEWduCPa"
       },
@@ -2100,7 +2216,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 224584,
       "name": "Porcelana",
       "url": "https://open.spotify.com/track/7BUGFriDT5M1MSMlPq9HrZ"
@@ -2228,7 +2344,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 200000,
       "name": "Rayo de Sol",
       "url": "https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP"
@@ -2416,7 +2532,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 218695,
       "name": "si t\u00fa no est\u00e1s aqu\u00ed",
       "url": "https://open.spotify.com/track/6ODPOeIy6b99BZlpmqWn9I"
@@ -2474,7 +2590,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 137483,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2RJH45gf8JIMswhYCLcgHK"
@@ -2584,6 +2700,24 @@
       "duration_ms": 173642,
       "name": "Tengo Sed",
       "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg"
     },
     {
       "album": {

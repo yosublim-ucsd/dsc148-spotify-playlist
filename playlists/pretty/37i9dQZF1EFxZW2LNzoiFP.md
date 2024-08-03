@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 139 | [The Heat](https://open.spotify.com/track/7sWG0VcHMYPmwSEIFCBkHe) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:11 |
 | 140 | [Demons](https://open.spotify.com/track/0dZ7VZnKG6QBxBEcVSEMou) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 1:44 |
 | 141 | [Purple Candy Glow](https://open.spotify.com/track/2lTsw84jqXpQs57N6bISs3) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:34 |
-| 142 | [Take It Easy](https://open.spotify.com/track/7f5IZibzWCT9QFfWcuod1s) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [Take It Easy](https://open.spotify.com/album/6scYCCGcXvtyOqClQxK0BM) | 3:44 |
-| 143 | [Safe Space](https://open.spotify.com/track/1w0COwGOGeLdh00Ntiylvl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:28 |
+| 142 | [Safe Space](https://open.spotify.com/track/1w0COwGOGeLdh00Ntiylvl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:28 |
+| 143 | [Take It Easy](https://open.spotify.com/track/7f5IZibzWCT9QFfWcuod1s) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [Take It Easy](https://open.spotify.com/album/6scYCCGcXvtyOqClQxK0BM) | 3:44 |
 | 144 | [Someone Like You](https://open.spotify.com/track/05PmT424Y1oCwMaDMbEGOv) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 4:04 |
 | 145 | [Open House](https://open.spotify.com/track/1JDkCStrVPtg6Ni8Z1L3TR) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:52 |
 | 146 | [Your Party](https://open.spotify.com/track/2mV56orItkQuNIcNB3oyoW) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:11 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 215 | [L35af](https://open.spotify.com/track/4CBVNHEJSOsBEMFDcufcro) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:07 |
 | 216 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbYSXQAAAAA8HXEkWMA0y4ixchZK6BNk`
+Snapshot ID: `AbYX/QAAAABXic2e/fV4+4N6uoNiUPS+`

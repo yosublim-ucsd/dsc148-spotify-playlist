@@ -4,7 +4,7 @@
 
 > eu no meu dia mais carismatica / Doja Cat
 
-367 songs - 19 hr 36 min
+369 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2022-05-06 | 2022-07-30 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-23 | 2023-04-09 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-05-06 |  |
+| [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-08-02 |  |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-12-18 | 2024-01-30 |
 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 | 2022-07-22 | 2022-10-15 |
 | [Call on Me](https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Call on Me](https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU) | 2:50 | 2023-04-06 | 2023-04-09 |
@@ -125,7 +126,7 @@
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 | 2023-11-25 |
 | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-13 | 2023-03-18 |
 | [GLITTER](https://open.spotify.com/track/3yfjvYImiSdypyIeYUknyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:24 | 2023-02-17 | 2023-02-25 |
-| [golden hour](https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:29 | 2022-10-01 |  |
+| [golden hour](https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:29 | 2022-10-01 | 2024-08-03 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-14 | 2024-04-19 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-05-06 | 2023-01-28 |
 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-02-22 | 2024-04-20 |
@@ -134,6 +135,7 @@
 | [Grapefruit](https://open.spotify.com/track/0L06aZLoX6BRT0hUPh7O5g) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:51 | 2022-10-17 | 2022-11-12 |
 | [Grapefruit](https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Grapefruit](https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X) | 3:51 | 2022-10-14 | 2022-10-18 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-19 |  |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Heart Wants What It Wants](https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Wants What It Wants](https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG) | 3:02 | 2023-02-17 | 2023-05-11 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2022-05-06 | 2023-02-11 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-12-08 | 2024-02-17 |
@@ -146,7 +148,7 @@
 | [High School Sweethearts](https://open.spotify.com/track/7FwWRSAlhfyhbvybdfDUCe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 5:11 | 2022-09-26 | 2022-10-08 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-06-02 | 2023-11-09 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-22 |  |
-| [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-06-28 |  |
+| [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-06-28 | 2024-08-03 |
 | [Hotel Caro](https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Hotel Caro](https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU) | 3:41 | 2022-07-01 | 2022-10-29 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-24 |  |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-22 | 2022-08-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 320,260 likes - 110 songs - 7 hr 41 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 320,274 likes - 110 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 109 | [Wanted Dead Or Alive](https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 5:08 |
 | 110 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
 
-Snapshot ID: `AAAEd0CNnTWGfPYbY+UGynXFRjSVXaVe`
+Snapshot ID: `AAAEgV64ffC1frYH2kyMqRxEDU+o9J19`

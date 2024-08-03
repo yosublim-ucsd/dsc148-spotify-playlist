@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2084321,
+  "num_followers": 2084405,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 237760,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d"
+      "duration_ms": 196055,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
     },
     {
       "added_at": "2024-07-08 22:13:03",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 196055,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+      "duration_ms": 237760,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Mary (b-sides)",
+        "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 219696,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
@@ -543,6 +559,22 @@
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Heart's Content",
+      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -567,34 +599,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Mary (b-sides)",
-        "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 219696,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Heart's Content",
-      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
+      "duration_ms": 183666,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -615,22 +631,6 @@
       "duration_ms": 167200,
       "name": "Kids in Love",
       "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -679,6 +679,26 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -751,26 +771,6 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "I Want More / Break My Baby",
-        "url": "https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 212392,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/4xQRRue5qsu2tULiz7UDKi"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Pour It Out Into The Night",
         "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+        "name": "I Want More / Break My Baby",
+        "url": "https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY"
       },
       "artists": [
         {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 194813,
-      "name": "McKenzie",
-      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
+      "duration_ms": 212392,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/4xQRRue5qsu2tULiz7UDKi"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -935,6 +919,22 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "McKenzie",
+      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Amidst the Chaos (Bonus Version)",
         "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 253395,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Talk is Cheap",
-        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 270937,
-      "name": "Talk is Cheap",
-      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "It Will Never Be The Same",
         "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Talk is Cheap",
+        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 270937,
+      "name": "Talk is Cheap",
+      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Ready or Not (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Good Luck, Kid",
         "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
@@ -1523,22 +1503,6 @@
       "duration_ms": 223453,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "BRIGHTSIDE",
-      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1559,6 +1523,26 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Making Do",
         "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "BRIGHTSIDE",
+      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Worry No More",
-        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 217966,
       "name": "Time",
       "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Worry No More",
+        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Be Yourself (feat. The War and Treaty)",
         "url": "https://open.spotify.com/album/0quN4o0L4LkoGu0hKedFgO"
       },
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Ocean Bed",
         "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
       },
@@ -1791,22 +1791,6 @@
       "duration_ms": 240360,
       "name": "Ocean Bed",
       "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 189282,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1867,6 +1851,22 @@
       "duration_ms": 154865,
       "name": "Love Is Letting Go (feat. Diane Keaton)",
       "url": "https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 189282,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
     },
     {
       "added_at": "2024-07-05 22:00:55",

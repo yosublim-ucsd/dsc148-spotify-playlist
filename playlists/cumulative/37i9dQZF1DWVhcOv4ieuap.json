@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 181280,
       "name": "Coraz\u00f3n Entero",
       "url": "https://open.spotify.com/track/5KLKpLIBHWeXidhs3jbt27"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186333,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
@@ -1868,6 +1868,24 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254705,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
     },
     {
       "album": {
@@ -3459,6 +3477,28 @@
     },
     {
       "album": {
+        "name": "La Vida Es Una Fiesta",
+        "url": "https://open.spotify.com/album/16a8ideBSg8vQrmhQy8xSZ"
+      },
+      "artists": [
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200391,
+      "name": "La Vida Es Una Fiesta",
+      "url": "https://open.spotify.com/track/2fR4C0tal4V0MV4SAcSFEH"
+    },
+    {
+      "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
@@ -3478,6 +3518,24 @@
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
+    },
+    {
+      "album": {
+        "name": "La_Playlist.mpeg",
+        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149571,
+      "name": "La_Playlist.mpeg",
+      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
     },
     {
       "album": {
@@ -3834,7 +3892,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195862,
       "name": "Luna mar",
       "url": "https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu"
@@ -5067,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "album": {
         "name": "OJAL\u00c1",
         "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
       },
@@ -5351,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "Party En California",
+        "url": "https://open.spotify.com/album/6Ma2wU6aLCZtb3EGmNbswi"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Party En California",
+      "url": "https://open.spotify.com/track/4HNx0xJYS4eJRRuMNYNX4q"
+    },
+    {
+      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
       },
@@ -5384,7 +5478,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 137693,
       "name": "Pasado Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
@@ -7038,7 +7132,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 194768,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/6SSbMKSHk1wgUWvTOyvitE"
@@ -7082,7 +7176,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 152079,
       "name": "Uff",
       "url": "https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp"
@@ -7384,6 +7478,28 @@
       "duration_ms": 168213,
       "name": "Vas A Encontrarme",
       "url": "https://open.spotify.com/track/3wwbgv83ZFwYlPa2zlRQJ9"
+    },
+    {
+      "album": {
+        "name": "Ve y Diles",
+        "url": "https://open.spotify.com/album/4qHt1TJRKfOT7fGvry69XJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Ve y Diles",
+      "url": "https://open.spotify.com/track/3bcyUjU6QHY5iFcWhJbRSF"
     },
     {
       "album": {

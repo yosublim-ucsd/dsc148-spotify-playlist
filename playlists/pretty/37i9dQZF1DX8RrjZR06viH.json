@@ -1,6 +1,6 @@
 {
   "description": "Sommersola er her <3\n",
-  "num_followers": 89125,
+  "num_followers": 89187,
   "original_name": "Sommersol",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "A Potion For Love",
+        "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "A Potion For Love",
+      "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Som sommaren",
         "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 133875,
       "name": "B\u00f8lger",
       "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "A Potion For Love",
-        "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "A Potion For Love",
-      "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
         "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 220333,
       "name": "S\u00e5 easy",
       "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "ok",
-      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "To Be Alright",
-        "url": "https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "To Be Alright",
-      "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Mad Women",
         "url": "https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 203656,
       "name": "Something Like This (feat. Dagny)",
       "url": "https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "To Be Alright",
+        "url": "https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "To Be Alright",
+      "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
+        "name": "Lykke te",
+        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
       },
       "artists": [
         {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 162930,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
+      "duration_ms": 164893,
+      "name": "Lykke te",
+      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 229334,
       "name": "Meri Jaan - LePark Studio, Milan",
       "url": "https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Lykke te",
-        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Lykke te",
-      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "December (honey, honey)",
-        "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 175392,
-      "name": "December (honey, honey)",
-      "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Thunder in my heart (music from the series)",
         "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 169241,
       "name": "Thunder in my heart (music from the series)",
       "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "December (honey, honey)",
+        "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 175392,
+      "name": "December (honey, honey)",
+      "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Vil ikke hjem",
-        "url": "https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 161139,
-      "name": "Vil ikke hjem",
-      "url": "https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "People Come And Go",
         "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 154076,
       "name": "People Come And Go",
       "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Vil ikke hjem",
+        "url": "https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 161139,
+      "name": "Vil ikke hjem",
+      "url": "https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "International Girl, Pt. 1",
-        "url": "https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7"
-      },
-      "artists": [
-        {
-          "name": "Tolou",
-          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
-        }
-      ],
-      "duration_ms": 133928,
-      "name": "Take Your Time (Slow Down)",
-      "url": "https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Nostalgi",
         "url": "https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 157086,
       "name": "Nostalgi",
       "url": "https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 167673,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA"
     }
   ],
   "unique_name": "Sommersol",

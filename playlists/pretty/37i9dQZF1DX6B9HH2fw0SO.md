@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > 2015 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,875 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,913 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,24 +18,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 8 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 |
 | 9 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 |
 | 10 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 |
-| 11 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
-| 12 | [Past Lives](https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:34 |
+| 11 | [Past Lives](https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:34 |
+| 12 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
 | 13 | [Keep on Loving You](https://open.spotify.com/track/5VYBergVrUDcb8QyEg70cF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh) | 3:53 |
 | 14 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 |
 | 15 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 |
 | 16 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 |
 | 17 | [Cold Cold Cold](https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:34 |
 | 18 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 |
-| 19 | [10,000 Emerald Pools](https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 2:54 |
-| 20 | [Affection](https://open.spotify.com/track/1lusH0zFDRV1ThaFYsUgfi) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh) | 5:11 |
+| 19 | [Affection](https://open.spotify.com/track/1lusH0zFDRV1ThaFYsUgfi) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh) | 5:11 |
+| 20 | [10,000 Emerald Pools](https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 2:54 |
 | 21 | [Music To Watch Boys To](https://open.spotify.com/track/34rRFl0bz9PocxWuO2ca5J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:50 |
 | 22 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 | 23 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
 | 24 | [Meet Me In The Woods](https://open.spotify.com/track/54hj06Z7sm7DaHSrGGMAZG) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 4:22 |
 | 25 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 |
 | 26 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 |
-| 27 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
-| 28 | [Ship To Wreck](https://open.spotify.com/track/3dEFa9KjOLEZl980ctEEv1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:54 |
+| 27 | [Ship To Wreck](https://open.spotify.com/track/3dEFa9KjOLEZl980ctEEv1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:54 |
+| 28 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
 | 29 | [Hypnotic](https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 2:56 |
 | 30 | [Yes I'm Changing](https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:30 |
 | 31 | [Oceans](https://open.spotify.com/track/5eXnC2B5RU5fAhfwvV2ABD) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,954 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,982 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 27 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 |
 | 28 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |
 | 29 | [Dime Qué Paso](https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:32 |
-| 30 | [Tierra Mala](https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:48 |
-| 31 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
+| 30 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
+| 31 | [Tierra Mala](https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:48 |
 | 32 | [Junto A Tu Corazon](https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx) | [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Y Como Se Mata El Gusano?](https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK) | 3:16 |
 | 33 | [Tabaco y Ron](https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 4:02 |
 | 34 | [Por una Lágrima](https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:09 |

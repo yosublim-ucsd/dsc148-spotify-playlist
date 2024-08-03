@@ -4,7 +4,7 @@
 
 > built for the climb
 
-307 songs - 18 hr 30 min
+308 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Oklahoma \(feat\. Southall\)](https://open.spotify.com/track/1PtK9wVHHwkoLix2iAqRPH) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 7:38 | 2023-11-10 | 2024-04-19 |
 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2023-08-18 |  |
 | [Only Thing That’s Gone \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:16 | 2023-03-17 |  |
+| [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2024-08-02 |  |
 | [Outlaw \(feat\. Ben Burgess\)](https://open.spotify.com/track/2NK6dtSujGIyilnEgbw8MX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:49 | 2023-03-17 | 2023-12-09 |
 | [Pearson Road](https://open.spotify.com/track/1S5yRRnXYlNTp5x7Dipfdd) | [Austin Upchurch](https://open.spotify.com/artist/6shtDekLyD0Qw691reWyg0) | [Pearson Road](https://open.spotify.com/album/4ZabshU4G6mQyqWkHOPDTp) | 3:32 | 2023-02-24 | 2023-03-25 |
 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 | 2024-01-31 |  |
@@ -239,7 +240,7 @@
 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 | 2023-02-24 |  |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 | 2023-08-25 | 2024-04-19 |
 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2023-09-26 |  |
-| [Smell Like Smoke](https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 2:48 | 2023-03-03 |  |
+| [Smell Like Smoke](https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 2:48 | 2023-03-03 | 2024-08-03 |
 | [Smell Like Smoke](https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 2:48 | 2023-11-17 | 2024-04-19 |
 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 | 2024-03-01 |  |
 | [Snow](https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:58 | 2023-02-24 |  |

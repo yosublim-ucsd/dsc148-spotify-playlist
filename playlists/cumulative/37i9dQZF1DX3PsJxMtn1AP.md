@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-360 songs - 22 hr 56 min
+361 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 | 2023-03-03 | 2023-04-22 |
 | [Ana Qalbi Ehtar \- Habibi Funk 021](https://open.spotify.com/track/2Nv9GGqfvggAUo5UgcMHPZ) | [The Free Music](https://open.spotify.com/artist/0I2ig8kucQMSWCNr8rHuY9), [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ana Qalbi Ehtar \(Habibi Funk 021\)](https://open.spotify.com/album/4g7J4UG3vYNDBGmJCQER1P) | 4:45 | 2023-02-14 | 2023-04-11 |
 | [Anestesia](https://open.spotify.com/track/2EQKYVMpnpvyUaHZL2VQlU) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Anestesia](https://open.spotify.com/album/2nYhva0TxRBllKxG3lqISd) | 3:13 | 2023-03-24 | 2023-05-24 |
+| [ANIMAL SEEKING](https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. II](https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl) | 3:19 | 2024-08-02 |  |
 | [Anthem For Those Who Know](https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [Anthem For Those Who Know](https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p) | 3:20 | 2024-01-10 | 2024-02-10 |
 | [Arcadian Daze](https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6) | 3:16 | 2023-01-24 | 2023-04-01 |
 | [Are You Alive?](https://open.spotify.com/track/2uJbLXWgxBEgkUtz2Ie07l) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Penelope Isles](https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G) | [Optical Delusion](https://open.spotify.com/album/2jQbFspnSh7erex6RDKQGJ) | 7:49 | 2023-03-03 | 2023-04-15 |

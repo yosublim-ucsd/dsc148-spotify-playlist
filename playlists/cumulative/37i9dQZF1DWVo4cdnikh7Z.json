@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 141169,
       "name": "Aaraathi Aaraathi (From \"Petta Rap\")",
       "url": "https://open.spotify.com/track/3EjgC6NAKaESTywf0rLId7"
@@ -7659,7 +7659,7 @@
     },
     {
       "album": {
-        "name": "Rathnam (Tamil)",
+        "name": "Ethanaala (From \"Rathnam \")(Tamil)",
         "url": "https://open.spotify.com/album/4oFS6ADyq5cU6sdyBTDtPC"
       },
       "artists": [
@@ -7680,7 +7680,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 271122,
-      "name": "Ethanaala",
+      "name": "Ethanaala (From \"Rathnam \")(Tamil)",
       "url": "https://open.spotify.com/track/2V6hDGiS04a9Yt943YQE7w"
     },
     {
@@ -23602,7 +23602,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 216717,
       "name": "Raasaathi",
       "url": "https://open.spotify.com/track/2HB7rk0Fg1vcEMEDxjIOa3"
@@ -27438,6 +27438,28 @@
       "duration_ms": 106767,
       "name": "Thangalaan (Exclusive Making Theme)",
       "url": "https://open.spotify.com/track/3KUHtEaJVm1uUzL8KCiqwG"
+    },
+    {
+      "album": {
+        "name": "Thangalaan (War Song) (From \"Thangalaan\") [Tamil]",
+        "url": "https://open.spotify.com/album/0QfWrDbf9caftil2L7RwpL"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179633,
+      "name": "Thangalaan (War Song) (From \"Thangalaan\") - Tamil",
+      "url": "https://open.spotify.com/track/5h6OTyPRCqGUEHHxWzCEvh"
     },
     {
       "album": {

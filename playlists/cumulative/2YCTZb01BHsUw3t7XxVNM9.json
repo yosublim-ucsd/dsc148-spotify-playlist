@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Break the Chains",
+        "url": "https://open.spotify.com/album/0xAfOT87r2RR6zaVyTPOjv"
+      },
+      "artists": [
+        {
+          "name": "Massive New Krew",
+          "url": "https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Break the Chains",
+      "url": "https://open.spotify.com/track/4qRPdvtLWnnVSOsBXeO7U1"
+    },
+    {
+      "album": {
         "name": "Break Through Myself",
         "url": "https://open.spotify.com/album/1bFxr0caQZsLk3oIeFZ3k6"
       },
@@ -5122,6 +5140,24 @@
       "duration_ms": 253187,
       "name": "MEGATON KICK",
       "url": "https://open.spotify.com/track/0jLcvKU2TauPpTKiOgG8pf"
+    },
+    {
+      "album": {
+        "name": "Megaton Kids",
+        "url": "https://open.spotify.com/album/1cQ7dyCnSWbsaOpu289kK3"
+      },
+      "artists": [
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194746,
+      "name": "Megaton Kids",
+      "url": "https://open.spotify.com/track/3S0GJlstXzT58xBkWHg9Bp"
     },
     {
       "album": {

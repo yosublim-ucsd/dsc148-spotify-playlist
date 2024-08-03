@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-155 songs - 9 hr 23 min
+156 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Going Home](https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD), [Maud Knubben](https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV) | [Dangers Mood](https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z) | 3:12 | 2023-04-27 | 2023-09-01 |
 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 | 2023-12-01 |  |
 | [Gonna Shine](https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Gonna Shine](https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi) | 4:01 | 2023-09-14 | 2024-03-13 |
+| [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG) | 3:57 | 2024-08-01 |  |
 | [Gravel Road](https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Wandering Soul](https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv) | 2:32 | 2023-06-01 | 2024-07-27 |
 | [Harmony From Dissonance](https://open.spotify.com/track/4YVG7WaFjdLHIiy5dByavP) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [Harmony From Dissonance](https://open.spotify.com/album/5KHzBUPSOLXAxBJ8GuOBvI) | 3:25 | 2024-03-07 | 2024-04-12 |
 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 | 2023-02-23 | 2024-06-28 |
@@ -84,7 +85,7 @@
 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 | 2023-02-23 | 2024-03-13 |
 | [Life's More Beautiful Than Hard](https://open.spotify.com/track/5SsFZdvxDeNAN4QV45aSYS) | [Sylvia Aimee](https://open.spotify.com/artist/1RDuJ4WLsdSCAuft8dwt5P), [Amber Kamminga](https://open.spotify.com/artist/2KGHUlIdPqK6lHBqaKCGYY), [Angie Flare](https://open.spotify.com/artist/1n3PqShxg0oEVPxJUToico), [Kimmy June](https://open.spotify.com/artist/1sKzVtXJLtrK6BGTKVJzGK) | [Identity](https://open.spotify.com/album/20lrrvbJIj9p8hlWXNpqdA) | 2:52 | 2023-06-29 | 2023-08-18 |
 | [Lightyears Better](https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Lightyears Better](https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd) | 3:04 | 2023-02-23 | 2023-06-16 |
-| [Little Miss Blue Eyes](https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Fortunes & Willows](https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x) | 4:04 | 2024-04-11 |  |
+| [Little Miss Blue Eyes](https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Fortunes & Willows](https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x) | 4:04 | 2024-04-11 | 2024-08-03 |
 | [Lola with the Light Eyes](https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man](https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH) | 3:32 | 2023-02-23 | 2024-06-28 |
 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 | 2023-02-23 | 2023-05-07 |
 | [Lost & Found](https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Lost & Found](https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV) | 2:38 | 2023-02-23 | 2024-07-02 |

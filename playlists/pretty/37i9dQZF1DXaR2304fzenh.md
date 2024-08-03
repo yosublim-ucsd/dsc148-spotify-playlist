@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 
 > El título says it all, a whole mood!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,973 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,135 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 97 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 |
 | 98 | [Uno mas Uno Igual a Zero](https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Uno Mas Uno Igual A Zero](https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL) | 2:39 |
 | 99 | [Derecho y Chueco \- Remix](https://open.spotify.com/track/6mqV7n0DqV2Q32lNINvOCp) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alianza Records](https://open.spotify.com/artist/4anqekkqPxN6yzpLYCL7h6) | [Derecho y Chueco \(Remix\)](https://open.spotify.com/album/2onNOIdR3EEqDks8WalBKs) | 2:37 |
-| 100 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/4dKY6JFNvj2yWzENIL1P6s) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:00 |
+| 100 | [Sal con Limón](https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:01 |
 
 Snapshot ID: `ZqPHLAAAAACKo/39lbIoL9F0EiLkKcGx`

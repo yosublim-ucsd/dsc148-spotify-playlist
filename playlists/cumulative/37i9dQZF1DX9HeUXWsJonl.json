@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Samara en t\u00eate de la playlist num\u00e9ro un en Tunisie.",
+  "description": "Adam Port & Stryv en t\u00eate de la playlist num\u00e9ro un en Tunisie.",
   "name": "Hot Hits Tunisia",
   "tracks": [
     {
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 233084,
       "name": "Keema Ena",
       "url": "https://open.spotify.com/track/5WsYnPl5q3qNh3LuyGTuhR"
@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 178921,
       "name": "Makhsernech - \u0645\u062e\u0633\u0631\u0646\u0627\u0634",
       "url": "https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI"
@@ -3222,6 +3222,24 @@
       "duration_ms": 211304,
       "name": "Sob Enta",
       "url": "https://open.spotify.com/track/2UuSF6Y0Q9UINkprnG48Xn"
+    },
+    {
+      "album": {
+        "name": "SOIS PAS TIMIDE",
+        "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165978,
+      "name": "SOIS PAS TIMIDE",
+      "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,712 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,744 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 | 21 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
 | 22 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 |
 | 23 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
-| 24 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
+| 24 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
 | 25 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:32 |
-| 26 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
+| 26 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
 | 27 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 |
-| 28 | [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 |
-| 29 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
+| 28 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
+| 29 | [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 |
 | 30 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 | 31 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:44 |
 | 32 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Blondes Have More Fun](https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio) | 5:31 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 | 41 | [You Should Be Dancing](https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Children Of The World](https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY) | 4:16 |
 | 42 | [Peaceful Easy Feeling \- 2013 Remaster](https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:17 |
 | 43 | [YMCA \- Original Version 1978](https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [YMCA](https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE) | 4:46 |
-| 44 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
-| 45 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
+| 44 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
+| 45 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
 | 46 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
 | 47 | [Ooh La La](https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 |
 | 48 | [Solsbury Hill](https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 1: Car \(Remastered\)](https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok) | 4:21 |

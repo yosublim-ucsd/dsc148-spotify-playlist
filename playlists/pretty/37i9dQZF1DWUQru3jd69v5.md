@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Glocky e Faneto in cover, aggiornata ogni venerdì
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,772 likes - 65 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,784 likes - 65 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 3 | [Casa Di Nonna \(feat\. Papa V\)](https://open.spotify.com/track/2ZwiOSkaCWcQ19GgMjmcb9) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [Salsedine](https://open.spotify.com/album/716umZxZVxcezIh2OFLL6B) | 2:09 |
 | 4 | [Windo Shoppa](https://open.spotify.com/track/18AtvI0tEDZ8DtOzlOY21V) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Bacio Flow \(Slitherizz\)](https://open.spotify.com/album/0lfKzFeNnnlP6wSi86cFkD) | 3:32 |
 | 5 | [Leanin'](https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Leanin'](https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega) | 2:26 |
-| 6 | [Bianca Cigno \(feat\. PapaV & Mark Tembo\)](https://open.spotify.com/track/05iaczLYNhNLYBu7EEvA61) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [PapaV](https://open.spotify.com/artist/7mdVdDxyTpGnwEf4qr2HHY), [Mark Tembo](https://open.spotify.com/artist/4pR9DSTd8bVJcAh8IkBc2f) | [EP 6/3 \(feat\. PapaV\)](https://open.spotify.com/album/362Pu0LnYuzqbAyqCUp3Ax) | 1:53 |
+| 6 | [Bianca Cigno \(feat\. Papa V & Mark Tembo\)](https://open.spotify.com/track/05iaczLYNhNLYBu7EEvA61) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Mark Tembo](https://open.spotify.com/artist/4pR9DSTd8bVJcAh8IkBc2f) | [EP 6/3 \(feat\. Papa V\)](https://open.spotify.com/album/362Pu0LnYuzqbAyqCUp3Ax) | 1:53 |
 | 7 | [Rivalsa \(feat\. 22simba\)](https://open.spotify.com/track/4kt7KzlSvKTup0Oz4VhrQu) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Fame di Rivalsa](https://open.spotify.com/album/79WcSTW52Em1smSlOUupqC) | 2:21 |
 | 8 | [Plastica](https://open.spotify.com/track/3AaeYnKeQ7qehcs0KZj44T) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Plastica](https://open.spotify.com/album/388cfcJn3XVc1Os60btSzr) | 2:46 |
 | 9 | [PUSHER](https://open.spotify.com/track/6H2EMOxII3adbHVH7GdfWO) | [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N), [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [POLVERE EP](https://open.spotify.com/album/57gYWBnL7TIggMExmqB7oZ) | 2:25 |

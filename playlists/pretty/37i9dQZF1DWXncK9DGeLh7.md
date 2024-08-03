@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 
 > 100% soul et funk ! Photo : Silk Sonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,108 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,137 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 | 38 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 |
 | 39 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:06 |
 | 40 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
-| 41 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 |
-| 42 | [Get Down On It](https://open.spotify.com/track/4Cv6ongCvJy9JfSkWVnb5D) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Something Special](https://open.spotify.com/album/1kNUVRC3LbnhjrBruBwvUN) | 4:53 |
+| 41 | [Get Down On It](https://open.spotify.com/track/4Cv6ongCvJy9JfSkWVnb5D) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Something Special](https://open.spotify.com/album/1kNUVRC3LbnhjrBruBwvUN) | 4:53 |
+| 42 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 |
 | 43 | [Brick House](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 3:28 |
 | 44 | [Think](https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:19 |
 | 45 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 |
 | 46 | [Fantasy](https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:46 |
 | 47 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
-| 48 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 |
-| 49 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
+| 48 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
+| 49 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 |
 | 50 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
 | 51 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
 | 52 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |

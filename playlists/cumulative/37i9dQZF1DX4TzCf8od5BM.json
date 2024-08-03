@@ -1273,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "Happy Campers (From \"Disney Jr. Music: Mickey\")",
+        "url": "https://open.spotify.com/album/6ettJ7uzVM4HNxgO9nKrf9"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128041,
+      "name": "Happy Campers - From \"Disney Jr. Music: Mickey\"",
+      "url": "https://open.spotify.com/track/2kagDxwVVifwSKZ5eukzGl"
+    },
+    {
+      "album": {
         "name": "Happy Happy Birthday (From \"Disney Junior Music: Mickey Mornings\")",
         "url": "https://open.spotify.com/album/0flmw15oo87UMkmi6zsbJS"
       },
@@ -2778,6 +2800,28 @@
       "duration_ms": 84771,
       "name": "One Potato, Two Potato",
       "url": "https://open.spotify.com/track/3bdY37qu59mFKskAeZx9qP"
+    },
+    {
+      "album": {
+        "name": "Disney Jr. Music: SuperKitties Su-Purr Charged Pawesome Edition",
+        "url": "https://open.spotify.com/album/1NYcppUPKBsOkPy98Cv6Hc"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151146,
+      "name": "Oopsie Kitty",
+      "url": "https://open.spotify.com/track/4Wy6DJW5SWHji9PhZjUc3U"
     },
     {
       "album": {

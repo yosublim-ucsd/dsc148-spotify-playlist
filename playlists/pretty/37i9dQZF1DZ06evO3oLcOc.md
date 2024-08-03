@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 ### [This Is Tyga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oLcOc)
 
-> This is Tyga\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,766 likes - 52 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,777 likes - 52 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 51 | [Lights Out \(feat\. Fat Trel\)](https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:46 |
 | 52 | [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 |
 
-Snapshot ID: `Zql+gAAAAADprvnxsD035maJw74PlqOV`
+Snapshot ID: `ZqrQAAAAAADDy9w14a1vh19udNGudaAa`

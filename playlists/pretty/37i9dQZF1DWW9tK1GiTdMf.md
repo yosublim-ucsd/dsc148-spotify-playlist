@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🗣️🖤 CALI! in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,638 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,636 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

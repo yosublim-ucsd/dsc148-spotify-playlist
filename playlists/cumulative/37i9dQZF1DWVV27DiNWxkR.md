@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Mitski
 
-406 songs - 1 day 3 hr 15 min
+408 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Fourth of July](https://open.spotify.com/track/1LjVNoqN5YsWf9vGu2JzhF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 4:39 | 2022-07-01 |  |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2022-08-26 |  |
 | [Frederick](https://open.spotify.com/track/1AWSemPzuGu4A9lVhSsFWJ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 3:04 | 2020-08-30 | 2020-09-11 |
+| [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-08-02 |  |
 | [Freedom Now](https://open.spotify.com/track/64raCIYgrD3ymY0bF8IARP) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:05 | 2020-08-30 | 2020-09-11 |
 | [Friends That Break Your Heart](https://open.spotify.com/track/40FsuBI6VgWa0ouG9KcB0c) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:21 | 2021-10-08 | 2022-08-13 |
 | [Funeral](https://open.spotify.com/track/0xF4pgg7PrOG1HccKenJYz) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/1p16WxrdVBNIAAxbpZMWJR) | 3:52 | 2020-06-19 |  |
@@ -154,7 +155,7 @@
 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-02-29 | 2024-04-19 |
 | [I Don't Love You](https://open.spotify.com/track/3yv0PNx5lOY0YQ7P3FOXW8) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/2JSzdaZgvPilynY4B3VrCN) | 4:11 | 2024-03-08 |  |
 | [I Forget Where We Were](https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 4:41 | 2019-09-29\* | 2023-06-17 |
-| [I Guess](https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 | 2024-07-08 |  |
+| [I Guess](https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 | 2024-07-08 | 2024-08-03 |
 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 | 2024-01-03 |  |
 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 | 2022-07-15 | 2024-04-19 |
 | [I Know The End](https://open.spotify.com/track/3cr3oAP4bQFNjZBV7ElKaB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 5:44 | 2020-06-19 |  |
@@ -380,6 +381,7 @@
 | [Velvet Ring](https://open.spotify.com/track/7qshYIOUFQAGgYfWXg1m9N) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 2:35 | 2024-07-08 |  |
 | [Video Games](https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:41 | 2023-08-17 | 2024-04-19 |
 | [Video Games](https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 4:41 | 2024-03-08 |  |
+| [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 | 2024-08-02 |  |
 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 | 2019-09-29\* | 2023-06-17 |
 | [Waiting Room](https://open.spotify.com/track/04mAOoQNsXmDJlyupJwmkO) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Ark Studio Compilation, Vol\. 8](https://open.spotify.com/album/1SiSNGAf4CVJgF63NJyTw9) | 6:33 | 2023-06-09 | 2023-06-11 |
 | [walls](https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [character development](https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj) | 0:55 | 2023-06-16 | 2023-06-28 |

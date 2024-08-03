@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Synchronicity (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192173,
+      "name": "Goodbye Tomorrow",
+      "url": "https://open.spotify.com/track/1SLmGbYOQGG4PPW109de9U"
+    },
+    {
+      "album": {
         "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },

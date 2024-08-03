@@ -1181,6 +1181,48 @@
     },
     {
       "album": {
+        "name": "M\u00fasicas pra Sair na M\u00e3o, Vol. 1",
+        "url": "https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby"
+      },
+      "artists": [
+        {
+          "name": "RAP, falando",
+          "url": "https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "Rodrigo Ogi",
+          "url": "https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291063,
+      "name": "Quebrada Ufc",
+      "url": "https://open.spotify.com/track/2nB4nMit4x0LK6rQMHIUia"
+    },
+    {
+      "album": {
         "name": "Quem Tem Um Amigo (Tem Tudo)",
         "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
       },
@@ -1244,7 +1286,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 200678,
       "name": "Quero Ver Segurar",
       "url": "https://open.spotify.com/track/63g4tLM1priHgH8eqUJSpP"

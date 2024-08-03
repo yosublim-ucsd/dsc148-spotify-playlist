@@ -2,9 +2,9 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites! Cover: Thelma the Unicorn
+> Groove to music from your Netflix Kids favorites! Cover: Saving Bikini Bottom
 
-134 songs - 5 hr 30 min
+135 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [My Dad The Bounty Hunter \(from the Netflix Series\)](https://open.spotify.com/track/7Kb3hPsWavaBMRnOQhHCS0) | [EL3VATORS](https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [My Dad The Bounty Hunter \(from the Netflix Series\)](https://open.spotify.com/album/5qpCeaWlKOBTxsD0AUf9W2) | 1:54 | 2023-01-16 |  |
 | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/track/1nDccJP85l1wcgWhK9C1OZ) | [Kody Kavitha](https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj) | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/album/5GTREiFNEuWKCs9PM2GFLz) | 2:36 | 2022-10-12 | 2024-04-19 |
 | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/track/2iy3ZDCVJW2JAF2Jg69uk7) | [Kody Kavitha](https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj) | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/album/45JlKj9dEb3cHiEnrlk6XQ) | 2:36 | 2022-06-17 |  |
+| [My Name Is Sandy Cheeks](https://open.spotify.com/track/2JHCWXFacFcaWW8VNnaHPe) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj) | [Saving Bikini Bottom: The Sandy Cheeks Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4sEeLcLwy3Xdf9SEtAMj1B) | 2:06 | 2024-08-02 |  |
 | [My Own Drum](https://open.spotify.com/track/2FmFDDnB387rOvN3hpcXuc) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:22 | 2022-04-08 |  |
 | [No Joke](https://open.spotify.com/track/369cUfAg4WPjEH5DIWqYa0) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze), [Shaun Taylor\-Corbett](https://open.spotify.com/artist/6G7liVqZX8ZUcMagOvH2Zi) | [Spirit Rangers: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1lObFcH6qNPWcoASyNwq8N) | 1:08 | 2023-05-05 |  |
 | [Now or Never \(feat\. Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada\)](https://open.spotify.com/track/2h4BV7jx9Ltz9NxC2zgNcW) | [Julie and the Phantoms Cast](https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC), [Charlie Gillespie](https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz), [Owen Patrick Joyner](https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa), [Jeremy Shada](https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W) | [Julie and the Phantoms: Season 1 \(From the Netflix Original Series\)](https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm) | 3:04 | 2022-04-08 |  |

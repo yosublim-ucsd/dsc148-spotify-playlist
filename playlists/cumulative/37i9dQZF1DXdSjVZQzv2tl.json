@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Gusttavo Lima",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Matheus Fernandes, Matheus & Kauan",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Cabelo Loiro (F&J 10 Anos) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3pOoU8C3ThxBi1mdnNiazx"
+      },
+      "artists": [
+        {
+          "name": "Fiduma & Jeca",
+          "url": "https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176277,
+      "name": "Cabelo Loiro (F&J 10 Anos) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Qx8g3zoHsi0GvtYCCAFAT"
+    },
+    {
+      "album": {
         "name": "Sem Contra-Indica\u00e7\u00e3o (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi"
       },
@@ -692,7 +710,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 192156,
       "name": "Calafrio (feat. Henrique & Juliano) - Ao Vivo | B\u00f4nus Track",
       "url": "https://open.spotify.com/track/2pRjaIcGc9LOmu7x9XMswA"
@@ -1060,6 +1078,28 @@
       "duration_ms": 129353,
       "name": "Dar uma Namorada - Ao Vivo",
       "url": "https://open.spotify.com/track/2PZmUFZGlUqkYJL0s0Cl6C"
+    },
+    {
+      "album": {
+        "name": "De Bandeja",
+        "url": "https://open.spotify.com/album/63alAoMzRcSkyxKrPYR05I"
+      },
+      "artists": [
+        {
+          "name": "Bruno Cesar e Rodrigo",
+          "url": "https://open.spotify.com/artist/1LKDfxZdebmgWG4qSR7hO9"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141169,
+      "name": "De Bandeja",
+      "url": "https://open.spotify.com/track/5dYgIl06rPx4gIAZ7kMUTO"
     },
     {
       "album": {
@@ -4092,7 +4132,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 113233,
       "name": "Sonho Dela (Cowboy)",
       "url": "https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk"

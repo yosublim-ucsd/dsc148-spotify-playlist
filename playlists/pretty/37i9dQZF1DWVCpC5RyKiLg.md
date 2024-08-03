@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,991 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,995 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 60 | [Toca um João Mineiro e Marciano \- Ao Vivo](https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [É Divino \- Ao Vivo Em Campo Grande](https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM) | 2:54 |
 | 61 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
 | 62 | [Pode Ir Embora \- Ao Vivo](https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [De Volta aos Bares](https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG) | 3:37 |
-| 63 | [Para, Pensa e Volta \- Ao Vivo](https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo \- EP 2](https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We) | 2:54 |
-| 64 | [Madri \- Ao Vivo](https://open.spotify.com/track/4IPopPf6xn1mx57yuNgjkN) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/4Am9uQ1h1iWP2VdnLg0KVi) | 4:00 |
+| 63 | [Madri \- Ao Vivo](https://open.spotify.com/track/4IPopPf6xn1mx57yuNgjkN) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/4Am9uQ1h1iWP2VdnLg0KVi) | 4:00 |
+| 64 | [Para, Pensa e Volta \- Ao Vivo](https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo \- EP 2](https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We) | 2:54 |
 | 65 | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/track/3056x1XkmICnQmji68rrft) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/album/0aE84qddWXI20A2XliO6CP) | 2:40 |
 | 66 | [Recairei \- Ao Vivo](https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Recairei \(Ao Vivo\)](https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI) | 2:46 |
 | 67 | [Nem Tchum \- Ao Vivo](https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \- Deluxe \(ao Vivo\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:22 |
 | 68 | [Jogado Na Rua](https://open.spotify.com/track/09NdjJyx9HiLhGFd9YinIS) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn) | [Hits Para Namorar](https://open.spotify.com/album/54jwx7wNnFOjaVn82mV3Rd) | 3:26 |
-| 69 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
-| 70 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 |
+| 69 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 |
+| 70 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 71 | [Escreve Aí](https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Escreve Aí \- Single](https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5) | 3:58 |
 | 72 | [Oitava Dose \- Ao Vivo](https://open.spotify.com/track/7kbnk6wMnavcDyIIWDZTxl) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:16 |
 | 73 | [Pesquisa no Google \(feat\. Henrique & Diego\) \- Ao Vivo](https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Pesquisa no Google \(feat\. Henrique & Diego\) \[Ao Vivo\]](https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR) | 2:49 |
-| 74 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 |
-| 75 | [Tchau Brigado \- Ao Vivo](https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Tchau Brigado \(Ao Vivo\)](https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy) | 2:43 |
+| 74 | [Tchau Brigado \- Ao Vivo](https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Tchau Brigado \(Ao Vivo\)](https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy) | 2:43 |
+| 75 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 |
 
 Snapshot ID: `Zo1edwAAAAByvln73dZJxxXJ3WQ1Ic1E`

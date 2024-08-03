@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ponte a jalar sin miedo al \u00e9xito!",
-  "num_followers": 124818,
+  "num_followers": 124822,
   "original_name": "Ponte Chulet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-07-11 01:59:42",
       "album": {
+        "name": "Burbujas de Cristal",
+        "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 224624,
+      "name": "Burbujas de Cristal",
+      "url": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
+    },
+    {
+      "added_at": "2024-07-11 01:59:42",
+      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 184106,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
-    },
-    {
-      "added_at": "2024-07-11 01:59:42",
-      "album": {
-        "name": "Burbujas de Cristal",
-        "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 224624,
-      "name": "Burbujas de Cristal",
-      "url": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
     },
     {
       "added_at": "2024-07-11 01:59:42",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-07-11 01:59:42",
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 205299,
-      "name": "As\u00ed Lo Quiso Dios",
-      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
-    },
-    {
-      "added_at": "2024-07-11 01:59:42",
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
+    },
+    {
+      "added_at": "2024-07-11 01:59:42",
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 205299,
+      "name": "As\u00ed Lo Quiso Dios",
+      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
     },
     {
       "added_at": "2024-07-11 01:59:42",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-07-11 01:59:42",
       "album": {
+        "name": "As\u00ed Soy",
+        "url": "https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "As\u00ed Soy",
+      "url": "https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m"
+    },
+    {
+      "added_at": "2024-07-11 01:59:42",
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
-    },
-    {
-      "added_at": "2024-07-11 01:59:42",
-      "album": {
-        "name": "As\u00ed Soy",
-        "url": "https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "As\u00ed Soy",
-      "url": "https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m"
     },
     {
       "added_at": "2024-07-11 01:59:42",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-07-11 01:59:42",
       "album": {
-        "name": "Me Gusta Mi Vida",
-        "url": "https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9"
-      },
-      "artists": [
-        {
-          "name": "Joan Y Su Elite",
-          "url": "https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1"
-        },
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 227726,
-      "name": "Me Gusta Mi Vida",
-      "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
-    },
-    {
-      "added_at": "2024-07-11 01:59:42",
-      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+    },
+    {
+      "added_at": "2024-07-11 01:59:42",
+      "album": {
+        "name": "Me Gusta Mi Vida",
+        "url": "https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9"
+      },
+      "artists": [
+        {
+          "name": "Joan Y Su Elite",
+          "url": "https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1"
+        },
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 227726,
+      "name": "Me Gusta Mi Vida",
+      "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
     },
     {
       "added_at": "2024-07-11 01:59:42",

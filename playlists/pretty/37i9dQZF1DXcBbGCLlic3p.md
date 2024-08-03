@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,342 likes - 193 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,362 likes - 193 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Slow Ripples](https://open.spotify.com/track/2kIGoBgxrTuqtp8QIS1k8t) | [Kobi Whitaker](https://open.spotify.com/artist/0hWLqsMKD6QA78z57n7onf) | [Slow Ripples](https://open.spotify.com/album/4SpMs8Q51STgwypy6dEqh0) | 2:25 |
 | 2 | [Flying Spirits.](https://open.spotify.com/track/3qfofCNp0UgwHKmgM1EJ6A) | [Ashlynn Vinno](https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ) | [Flying Spirits.](https://open.spotify.com/album/0omGFYMltCOD9AOACXmP9E) | 2:56 |
 | 3 | [Acceptance](https://open.spotify.com/track/2Zqu1o8lbQZ5QBY8DCIM6U) | [Airosa](https://open.spotify.com/artist/4CByXjHMoW0Gq2Y2tenlxY) | [Acceptance](https://open.spotify.com/album/4vTpS7JxsmannhdApN026A) | 2:57 |
-| 4 | [Somewhere in Dreams](https://open.spotify.com/track/7t184VbdZJGRCvWjsFVgBh) | [Natural Space](https://open.spotify.com/artist/6kBh9KP21Uw1fbnq1oY9Nz), [Nazibrola](https://open.spotify.com/artist/6IIKAH6Oj6znfZZC0JsnUj), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Somewhere in Dreams](https://open.spotify.com/album/6ZaH7X5qD38eSMioQ1sp9k) | 2:09 |
+| 4 | [Somewhere in Dreams](https://open.spotify.com/track/7t184VbdZJGRCvWjsFVgBh) | [Nisli](https://open.spotify.com/artist/5VYMquDgNccyHZ4EWTFxHp), [Nazibrola](https://open.spotify.com/artist/6IIKAH6Oj6znfZZC0JsnUj), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Somewhere in Dreams](https://open.spotify.com/album/6ZaH7X5qD38eSMioQ1sp9k) | 2:09 |
 | 5 | [Pulsar](https://open.spotify.com/track/1DS4QEIy4juYscI1xWYnad) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Pulsar](https://open.spotify.com/album/0EVavxdvKSfRqPKoS2gq6s) | 2:42 |
 | 6 | [Astral Meadows](https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Astral Meadows](https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF) | 2:48 |
 | 7 | [Celestial](https://open.spotify.com/track/0vypRNnJJFjiQ7FSa6EpHy) | [Aitne](https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO) | [Reverie](https://open.spotify.com/album/3bRrfUwvy5ePGJKyO6xeGD) | 2:55 |

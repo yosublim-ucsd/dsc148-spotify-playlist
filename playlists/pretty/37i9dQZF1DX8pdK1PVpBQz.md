@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Georgia Gets By
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,615 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,622 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 45 | [Let There Be Nothing](https://open.spotify.com/track/2MCPf0Jn7A8hH50ET4ngFv) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Let There Be Nothing](https://open.spotify.com/album/1o5ujuAe5ocWBwDREFyqOF) | 3:26 |
 | 46 | [Teenager](https://open.spotify.com/track/6NvR92U3AN6FEhzkWuuRyb) | [Manning](https://open.spotify.com/artist/1RKaA4DmhRXFTelAvV3Gen) | [Teenager](https://open.spotify.com/album/2V9Ac1eVfYsGVh5J6XE2VJ) | 3:10 |
 | 47 | [strange](https://open.spotify.com/track/3rMBazPw9A7Of5cyqj0glf) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [small love](https://open.spotify.com/album/4ypZD4hcOuZVEmCBFG3jdB) | 3:24 |
-| 48 | [Open up My Mind](https://open.spotify.com/track/0urfoUZ2UnlH0YV1aPZTDa) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4) | [Open up My Mind](https://open.spotify.com/album/67q73EdnQrTaUkPyIH6QAJ) | 3:29 |
+| 48 | [Open Up My Mind](https://open.spotify.com/track/0urfoUZ2UnlH0YV1aPZTDa) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4) | [Open Up My Mind](https://open.spotify.com/album/67q73EdnQrTaUkPyIH6QAJ) | 3:29 |
 | 49 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
 | 50 | [Haunting](https://open.spotify.com/track/2OGYwH6XwYDSyny4f3Zy0h) | [Stocker](https://open.spotify.com/artist/1iSjvAa746kngRZIVsrWkm) | [Lip Locked](https://open.spotify.com/album/7nrzylMUGiRxGbptIBuWWF) | 3:16 |
 | 51 | [Fear](https://open.spotify.com/track/01Qss5GS3zFangKWlQ7nZt) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Fear](https://open.spotify.com/album/5FUD1SRn2eqvbLHMMFitlH) | 2:24 |

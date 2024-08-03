@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Johnny Cash
 
-288 songs - 16 hr 53 min
+290 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Dusty Old Dust](https://open.spotify.com/track/2WNcZzyx0W4ufueyWSF3qd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Dusty Old Dust](https://open.spotify.com/album/5vrzgbC6QkrdYSXIc6UM68) | 5:40 | 2021-10-15 |  |
 | [Eagle When She Flies](https://open.spotify.com/track/6a253LpGaq8byPMmTuyBPw) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Eagle When She Flies](https://open.spotify.com/album/505DGCQ7YCwILZLmizg0yK) | 3:39 | 2021-10-15 | 2022-03-02 |
 | [Easy Goin](https://open.spotify.com/track/6AoFAz2zZRdC43mzVU01Sf) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Easy Goin](https://open.spotify.com/album/52qFba0o5xWWhpP6CUVxXe) | 3:08 | 2021-10-15 | 2024-06-01 |
+| [Elvira](https://open.spotify.com/track/4hkNsib5QZ3fJ3FOKrdadz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Elvira](https://open.spotify.com/album/6t8Yd791j5xUH8464E1Qbl) | 3:44 | 2024-08-02 |  |
 | [Energy Follows Thought](https://open.spotify.com/track/0r2tqdxv7cs8lXvhZ4RvpL) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Energy Follows Thought](https://open.spotify.com/album/1obdE66inb3o0leVFpWrGS) | 3:17 | 2022-03-11 | 2022-04-29 |
 | [Every Little Honky Tonk Bar](https://open.spotify.com/track/64Zm9wNGj6coqg4zsb0Soj) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Every Little Honky Tonk Bar](https://open.spotify.com/album/3YPIY3nVjvhEGX9yRwwYx6) | 3:14 | 2021-10-15 |  |
 | [Everybody's Talkin'](https://open.spotify.com/track/3zqmP9CKPHOhzVntc2ropS) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Out of Sane](https://open.spotify.com/album/1UUgUFNRDCZlumiG2c2qXJ) | 3:31 | 2021-10-15 |  |
@@ -141,6 +142,7 @@
 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/29OpRCARyWm4wKTnxwJwYm) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Love You Till The Day I Die](https://open.spotify.com/album/3gYh2TfRI8P8xSrQyQPGZl) | 4:11 | 2022-02-11 |  |
 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/7MdWQ5TLm9snNKXpmcwk9l) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:11 | 2022-07-22 | 2024-04-19 |
 | [I'm Already There \- 2023 Version](https://open.spotify.com/track/48WMq2ibt7vG73xJ50pC9J) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [I'm Already There \(2023 Version\)](https://open.spotify.com/album/58e9EZx8cr1MuV7aexLzM4) | 4:08 | 2023-05-26 |  |
+| [I'm Your Puppet](https://open.spotify.com/track/4jB5tcoNY3duJxB4f8o9Fh) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik), [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [From Memphis to Muscle Shoals](https://open.spotify.com/album/6YcBXzmWkLRQCf2jik9UPl) | 3:01 | 2024-08-02 |  |
 | [If the World Had a Front Porch](https://open.spotify.com/track/7AW2WsM8dc5pmXIgdn2SpC) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Good Ole Days](https://open.spotify.com/album/7CHs8peAikJJll2udTEDWh) | 3:01 | 2021-10-15 | 2024-02-17 |
 | [If There Weren't So Many Damn Songs](https://open.spotify.com/track/0zhQYIwWGcjQ3wnCd3qjse) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [If There Weren't So Many Damn Songs](https://open.spotify.com/album/6g0jNAgCfeOKPzgz0LLXwQ) | 3:46 | 2021-10-15 |  |
 | [If You See Him, If You See Her \- Acoustic Version](https://open.spotify.com/track/2BwIm4JJJOv4lbfskscKW1) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [If You See Him, If You See Her \(Acoustic Version\)](https://open.spotify.com/album/0Q2NGzdPFp05YAaLRqudLk) | 3:59 | 2023-04-28 |  |

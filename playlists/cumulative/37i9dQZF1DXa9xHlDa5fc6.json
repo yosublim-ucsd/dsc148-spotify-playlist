@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183693,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/16DgQG7hAb6S7Bb783rRro"
@@ -6226,6 +6226,24 @@
       "duration_ms": 193425,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
+    },
+    {
+      "album": {
+        "name": "Take a Look Inside",
+        "url": "https://open.spotify.com/album/63zgDmHLZgi5FtHJNLFt0R"
+      },
+      "artists": [
+        {
+          "name": "David Shaw",
+          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268015,
+      "name": "Take a Look Inside",
+      "url": "https://open.spotify.com/track/1pWu29hfLPWxqegK7ohVWt"
     },
     {
       "album": {

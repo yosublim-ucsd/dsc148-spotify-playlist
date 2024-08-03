@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 ### [This Is Grupo Firme](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0F6y9e)
 
-> This is Grupo Firme\. The essential tracks, all in one playlist.
+> This Is Grupo Firme\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,598 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,848 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 12 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 |
 | 13 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
 | 14 | [Hasta la Miel Amarga \- En Vivo](https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(En Vivo\)](https://open.spotify.com/album/6zvOKXWumgNxqeTgIhlMDE) | 4:18 |
-| 15 | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf) | 3:46 |
-| 16 | [Amor Borrachito](https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Borrachito](https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d) | 2:55 |
+| 15 | [Amor Borrachito](https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Borrachito](https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d) | 2:55 |
+| 16 | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf) | 3:46 |
 | 17 | [Tronando Ligas](https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Tronando Ligas](https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3) | 2:35 |
 | 18 | [Un Amor Como Este](https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Amor Como Este](https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW) | 3:05 |
 | 19 | [Cada Quien](https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Muchacha \- Con Grupo Firme](https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [CHSM El Higado!](https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB) | 3:13 |
 | 50 | [Te Soñé \(En Vivo\)](https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Soñé \(En Vivo\)](https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX) | 3:43 |
 
-Snapshot ID: `Zql+gAAAAACaVm5q3kK5W2aGrRwhQ54e`
+Snapshot ID: `ZqrQAAAAAAA9gxH9tfFyTxVLMBbckFvP`

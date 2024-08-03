@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-602 songs - 1 day 9 hr 4 min
+603 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [Roll Up](https://open.spotify.com/track/7kClqlbpmpZmGMimROkvh6) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums](https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3) | 3:38 | 2022-03-11 | 2022-04-21 |
 | [Routine](https://open.spotify.com/track/3FYdV1EBv5PDyQy9630ntq) | [POP ETC](https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL) | [Routine](https://open.spotify.com/album/5lKSBHciVbUx635pPmyoCW) | 3:17 | 2022-03-11 | 2022-04-21 |
 | [run away girl](https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [run away girl](https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2) | 3:50 | 2024-03-10 |  |
-| [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 | 2024-05-05 |  |
+| [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 | 2024-05-05 | 2024-08-03 |
 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 | 2024-05-05 | 2024-07-19 |
 | [Running](https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Running](https://open.spotify.com/album/2Z9njMZGVcXYxjmKDEujzW) | 3:09 | 2024-05-05 | 2024-06-06 |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-17 |  |
@@ -586,6 +586,7 @@
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-03-09 |  |
 | [What’s Done is Done](https://open.spotify.com/track/4x4Wf1lCavlpuZQ7yyAswq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [One is One](https://open.spotify.com/album/6SKy6TBTLjbC96dMV8blQJ) | 3:30 | 2022-05-27 | 2022-11-13 |
 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-05-27 | 2023-04-28 |
+| [Where I'm Going](https://open.spotify.com/track/38r2iSNTTK1hsBdrLXAY8I) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc) | [Where I'm Going](https://open.spotify.com/album/6lRVMQtYKpkMIeitaxqFQS) | 3:48 | 2024-07-26 |  |
 | [Why Did You Run?](https://open.spotify.com/track/2xrRl0h13K2kqBpJN6P98Y) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9) | 3:53 | 2022-06-27 | 2022-12-03 |
 | [Why Did You Run?](https://open.spotify.com/track/3IMh0b6bFDuFNB7F0E0A9h) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Why Did You Run?](https://open.spotify.com/album/4sQoMHf0N0lmmpKwHFUrmj) | 3:53 | 2021-03-10 | 2022-07-13 |
 | [Why Did You Run?](https://open.spotify.com/track/4ascbpJ8eelgihjwUnmgwY) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 3:53 | 2022-10-07 | 2023-03-29 |

@@ -1,13 +1,29 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 61106,
+  "num_followers": 61103,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAIeQlM1TmhE5FXynsKtFY0sjL9xByX",
+  "snapshot_id": "AAAIe7cEVA2wOJXvLV2bo7k84W3QSb47",
   "tracks": [
+    {
+      "added_at": "2024-08-02 15:58:09",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/3WBDEQI5gMkdueEQqeQ2hn"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "duration_ms": 204869,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k"
+    },
     {
       "added_at": "2024-04-09 17:09:14",
       "album": {

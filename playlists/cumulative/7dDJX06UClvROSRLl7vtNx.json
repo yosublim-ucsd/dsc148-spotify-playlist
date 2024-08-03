@@ -419,6 +419,32 @@
     },
     {
       "album": {
+        "name": "Angel Face Disaster",
+        "url": "https://open.spotify.com/album/3jonmw2qK26V8cButEMhUe"
+      },
+      "artists": [
+        {
+          "name": "Besso",
+          "url": "https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ"
+        },
+        {
+          "name": "Charlie Besso",
+          "url": "https://open.spotify.com/artist/0ZD6XaZ97qhpiN4t0xdnJ6"
+        },
+        {
+          "name": "blue my mind",
+          "url": "https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "Angel Face Disaster",
+      "url": "https://open.spotify.com/track/4o3KCsVVSDOmyp0tTYyw8S"
+    },
+    {
+      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/0xOTDrruNGZiRnCcWOup9D"
       },
@@ -1971,6 +1997,32 @@
     },
     {
       "album": {
+        "name": "Die For Love",
+        "url": "https://open.spotify.com/album/6TamL3WGQ2f74YiKkSTnMI"
+      },
+      "artists": [
+        {
+          "name": "Boostereo",
+          "url": "https://open.spotify.com/artist/6SwVPmSTMYlcy2vTWyE3aC"
+        },
+        {
+          "name": "B Martin",
+          "url": "https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD"
+        },
+        {
+          "name": "Capri Everitt",
+          "url": "https://open.spotify.com/artist/6EFNRnIRbAh7pHV1FgCQaB"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "Die For Love",
+      "url": "https://open.spotify.com/track/0gWjh743qLdbOiAYoetXZi"
+    },
+    {
+      "album": {
         "name": "Distant Paradise",
         "url": "https://open.spotify.com/album/09xGBhYIX97nVam6N6hfQc"
       },
@@ -2146,7 +2198,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Don't Think Too Hard",
       "url": "https://open.spotify.com/track/5BzOroIN5pjmK4SbCf3Tzy"
@@ -3852,7 +3904,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa"

@@ -1,13 +1,45 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 27532,
+  "num_followers": 27552,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqEk2gAAAADqK441cx1ENBoc7TSgI8u6",
+  "snapshot_id": "ZqxZwAAAAABTSzxNJkirWlvZHrxb8Nsl",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/1Qg8XRievOXg2hhUf7MwSc"
+      },
+      "artists": [
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/38yRij5fxQGBPi7lYQnI4T"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "HOPE / WISH",
+        "url": "https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 191020,
+      "name": "Good One",
+      "url": "https://open.spotify.com/track/4oxWLO2n4rNWH8DYsHTpYw"
+    },
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
@@ -1705,22 +1737,6 @@
       "url": "https://open.spotify.com/track/1DSP5hDksP9AzPrL5NkHwi"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Forever Blue",
-        "url": "https://open.spotify.com/album/1GzikQt3Pwt8jzx1SO9Wwt"
-      },
-      "artists": [
-        {
-          "name": "Starletta",
-          "url": "https://open.spotify.com/artist/72ULrMZm9TVx0SDrpq16Fi"
-        }
-      ],
-      "duration_ms": 214925,
-      "name": "Forever Blue",
-      "url": "https://open.spotify.com/track/6UmDgEOlz63QgZFPn0Xn9K"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "I Don't Love You, and Other Lies",
@@ -1755,22 +1771,6 @@
       "duration_ms": 246375,
       "name": "U Got Me Good",
       "url": "https://open.spotify.com/track/41FpAljevedgZgroxHNGXi"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Slight Variations",
-        "url": "https://open.spotify.com/album/1OcWfQAxxIcL3NqXjLUKaS"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 211444,
-      "name": "Slight Variations",
-      "url": "https://open.spotify.com/track/6UUmEKtqOuhpUO0nJFzNKW"
     },
     {
       "added_at": "2022-11-18 05:01:00",

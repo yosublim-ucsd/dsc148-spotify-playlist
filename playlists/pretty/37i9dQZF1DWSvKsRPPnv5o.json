@@ -1,15 +1,31 @@
 {
   "description": "Holdin' it down for the westside. Cover: Kendrick Lamar",
-  "num_followers": 730586,
+  "num_followers": 730651,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAAAGtzq03iXmruUKsfLubgTx",
+  "snapshot_id": "ZqxZwAAAAADGHDGl3bI8pptTwB5NLv4F",
   "tracks": [
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Boogieman",
+        "url": "https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "duration_ms": 131291,
+      "name": "Boogieman",
+      "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Faith Of A Mustard Seed",
         "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/1pJ7WNomTQrMcZqJH6kjfR"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "HEAT STICK",
         "url": "https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w"
@@ -73,23 +89,7 @@
       "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Boogieman",
-        "url": "https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh"
-      },
-      "artists": [
-        {
-          "name": "EBK Jaaybo",
-          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
-        }
-      ],
-      "duration_ms": 131291,
-      "name": "Boogieman",
-      "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "STUPID (WITH LIL YACHTY & BABYFACE RAY)",
         "url": "https://open.spotify.com/album/0LpnKDM6JGLcZP4haLZpwI"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/7wtUI2bKLWZ23GOmzMkU1Q"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "I'll Always Come Find You",
         "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
@@ -133,27 +133,23 @@
       "url": "https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Faith Of A Mustard Seed",
-        "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
+        "name": "LOVE MAKE",
+        "url": "https://open.spotify.com/album/7ksQrL66SNuch6lmxIlVzJ"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 151200,
-      "name": "Truth Is (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3vg3cG1nFVe8Gru8pvgUEZ"
+      "duration_ms": 214228,
+      "name": "LOVE MAKE",
+      "url": "https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "pink whitney",
         "url": "https://open.spotify.com/album/7yBRQha30RNQeo3JZ3w6VF"
@@ -169,7 +165,7 @@
       "url": "https://open.spotify.com/track/3KQBFQVb1ahszb7Cu7H83T"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "EVERYBODY",
         "url": "https://open.spotify.com/album/2rG2pC1BqTmPrEHgXYuWbo"
@@ -185,7 +181,7 @@
       "url": "https://open.spotify.com/track/7tToMKgUXVNMU54B2ruipf"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -209,7 +205,31 @@
       "url": "https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Summer In Compton",
+        "url": "https://open.spotify.com/album/3lfYMZHKbgySOqM50X0kXA"
+      },
+      "artists": [
+        {
+          "name": "1takejay",
+          "url": "https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu"
+        },
+        {
+          "name": "X4",
+          "url": "https://open.spotify.com/artist/7271ibB4SynaG8JFLqoxUg"
+        },
+        {
+          "name": "Ralfy the Plug",
+          "url": "https://open.spotify.com/artist/1yI0tX9OnfOx9siPj8KNOO"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2oo2o4bIxiBcl6rTqhOj6j"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Streets Don't Love You",
         "url": "https://open.spotify.com/album/5d3H7qe613DkNwaQNhF2yl"
@@ -225,7 +245,23 @@
       "url": "https://open.spotify.com/track/1kV59Fg5fPiuWGYxFurasX"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Faith Of A Mustard Seed",
         "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
@@ -253,23 +289,7 @@
       "url": "https://open.spotify.com/track/3hHDLYScNXL4qBD9T5hhbU"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Vulture",
-        "url": "https://open.spotify.com/album/3NMlQpQmM9UTilzO3WaPM7"
-      },
-      "artists": [
-        {
-          "name": "EBK Jaaybo",
-          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
-        }
-      ],
-      "duration_ms": 188119,
-      "name": "Vulture",
-      "url": "https://open.spotify.com/track/77Q0N60N7yV8JhXPhwWeTQ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "SCOREBOARD",
         "url": "https://open.spotify.com/album/7saguuvqjFPp86owYPcNrY"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/3Qd6dvRJ2vZaMOzVipxHLA"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Colors (feat. stoneda5th & Mozzy)",
         "url": "https://open.spotify.com/album/3fNQh57LtHJ1uOq4oqPe9y"
@@ -313,23 +333,7 @@
       "url": "https://open.spotify.com/track/4dStHgygFvGVwyFPkJLOZO"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Spooky Summer",
-        "url": "https://open.spotify.com/album/3novjYfqJ52IHB2iDrZUfM"
-      },
-      "artists": [
-        {
-          "name": "AzChike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        }
-      ],
-      "duration_ms": 129215,
-      "name": "Loose Cannon",
-      "url": "https://open.spotify.com/track/4BomF4qHwEDXGi4uAABv4A"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/2UyogKVq8SYD2OBXZo6fdG"
@@ -353,27 +357,7 @@
       "url": "https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "LA Nights",
-        "url": "https://open.spotify.com/album/2zDpiDdNVACJmuA2G18EdH"
-      },
-      "artists": [
-        {
-          "name": "Joe Moses",
-          "url": "https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 129601,
-      "name": "She Said (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6im9OQto9Zin7ahSLum3NB"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "KNOCKA",
         "url": "https://open.spotify.com/album/1Yd0XLd4MGjZfp4gQ9hVda"
@@ -389,7 +373,35 @@
       "url": "https://open.spotify.com/track/7hBZnHzSqQxBi4KoMoiWfx"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Remote Job",
+        "url": "https://open.spotify.com/album/7y9keRCffe6NJOF8v7yrsB"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Mike G Beatz",
+          "url": "https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Iiinfinite",
+          "url": "https://open.spotify.com/artist/5tw81TqzE5gbCxMrYU710Y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Remote Job",
+      "url": "https://open.spotify.com/track/2PaLHn5rC6MphhTtiNjYcK"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Sixtape 3",
         "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
@@ -409,7 +421,7 @@
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Survivor\u2019s Remorse",
         "url": "https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W"
@@ -425,7 +437,7 @@
       "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Like a Mack",
         "url": "https://open.spotify.com/album/4JZaRpq2p62Lstkcxn86GQ"
@@ -441,7 +453,7 @@
       "url": "https://open.spotify.com/track/3qoB1rLHEwLqZ08LGYVC1L"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Face no Book",
         "url": "https://open.spotify.com/album/69Z4SGlHRBjljGmHsmS5fu"
@@ -457,7 +469,7 @@
       "url": "https://open.spotify.com/track/5c5qbRMz03GPy7Mj1Fpn6G"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Chilli Season",
         "url": "https://open.spotify.com/album/5H4WujKtDwCEdP1dsvxpwh"
@@ -477,7 +489,7 @@
       "url": "https://open.spotify.com/track/1zxkYiyGSn3t9NuK6IBJOR"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "rock your hips",
         "url": "https://open.spotify.com/album/1AX6HDF2vw86lWVq2yObhz"
@@ -501,7 +513,7 @@
       "url": "https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Don't Believe the Hype",
         "url": "https://open.spotify.com/album/5TmYtzuiszI6Ktlx7jnYM0"
@@ -521,7 +533,27 @@
       "url": "https://open.spotify.com/track/4Op31Q43T5wAkJ2d4I36dn"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Summer In Compton",
+        "url": "https://open.spotify.com/album/3lfYMZHKbgySOqM50X0kXA"
+      },
+      "artists": [
+        {
+          "name": "1takejay",
+          "url": "https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu"
+        },
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Freak Talk",
+      "url": "https://open.spotify.com/track/1tjfYER86brm8Weidwhlae"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "105 West (feat. Ty Dolla $ign, Channel Tres, DJ Quik)",
         "url": "https://open.spotify.com/album/5hQTxZd5TH93SrtETsFB52"
@@ -557,7 +589,7 @@
       "url": "https://open.spotify.com/track/3VvlE7bBzLgEjTLimSIvVl"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "From The Eastside With Love",
         "url": "https://open.spotify.com/album/1ld4ZW84aNerie3A86Rn6r"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/4jhM4BeYzGFauZzhmYorej"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "nights and weekends",
         "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Ain't No Fun",
         "url": "https://open.spotify.com/album/5k3zHgPT6MOqm8KhHYYtR5"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/3JxlN7uRL8thZ5kKBCJe12"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Whole Head",
         "url": "https://open.spotify.com/album/2ylMhg2weVErP87gSJevz7"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/7poIzOeEECievA0UBbz2tZ"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Underrated (Remix) [feat. MoneySign Suede]",
         "url": "https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT"
@@ -661,7 +693,7 @@
       "url": "https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "BIG LA",
         "url": "https://open.spotify.com/album/2XxI56qhPHtyGXnacu5IoZ"
@@ -681,31 +713,7 @@
       "url": "https://open.spotify.com/track/1XYNH6bpj7g0l4FDOTO4f0"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "SHAKE (feat. Kaliii and Stunna Girl)",
-        "url": "https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        }
-      ],
-      "duration_ms": 191538,
-      "name": "SHAKE (feat. Kaliii and Stunna Girl)",
-      "url": "https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Dark Times",
         "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX"
@@ -721,7 +729,7 @@
       "url": "https://open.spotify.com/track/592A3x9nMXoL3Ay5rKgSwW"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "NO BAIL",
         "url": "https://open.spotify.com/album/0DJdrrCNdaxknEG3EEdnYo"
@@ -741,7 +749,7 @@
       "url": "https://open.spotify.com/track/6I2Gk65WZJAqQJgAXDMrIM"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "STAY SAFE",
         "url": "https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt"
@@ -777,7 +785,7 @@
       "url": "https://open.spotify.com/track/1SBOxKzO7BepxapwYn8kmV"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "soak city (do it)",
         "url": "https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW"
@@ -793,7 +801,7 @@
       "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "GURBS & YOUNGS (feat. Larry June)",
         "url": "https://open.spotify.com/album/6LgepmFqbY8ZRQxIyocLol"
@@ -821,7 +829,7 @@
       "url": "https://open.spotify.com/track/5BDDt3tVIa9W5kiJmJZ2Ww"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Forever On That",
         "url": "https://open.spotify.com/album/7veyzptFlB7p7knPCY7FHG"
@@ -841,7 +849,7 @@
       "url": "https://open.spotify.com/track/1FcKQsH3C73Bwxx68M0tyQ"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
@@ -865,7 +873,7 @@
       "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Temper",
         "url": "https://open.spotify.com/album/6AFY7V5XgRyoJB8U6whrYr"
@@ -881,7 +889,7 @@
       "url": "https://open.spotify.com/track/0nipB4z5fkwPSn8MH41jxe"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "euphoria",
         "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
@@ -897,7 +905,7 @@
       "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Still In Shocc",
         "url": "https://open.spotify.com/album/6gStbu2InOcGRzpUAKxTpN"
@@ -913,7 +921,7 @@
       "url": "https://open.spotify.com/track/2dmbxOmABBBJzVNSTVH5T9"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Sleeve Music",
         "url": "https://open.spotify.com/album/2IpZVx5VHq8K6l8x9BeGM1"
@@ -929,23 +937,7 @@
       "url": "https://open.spotify.com/track/4Xq1jF5nPzzP6DQdIRtzPN"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "By Yourself",
-        "url": "https://open.spotify.com/album/45EhlC9ycKcgAx9gQsrMF8"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 164101,
-      "name": "By Yourself",
-      "url": "https://open.spotify.com/track/771vHNqRmLUGEPzzNDo15r"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/70aAcOj02mHv8lsRC0LxqH"
@@ -961,7 +953,7 @@
       "url": "https://open.spotify.com/track/6P6dejZtZTkTjivoYAHSkf"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Daboii Flexin",
         "url": "https://open.spotify.com/album/0Xd4B9pMYvD6RV371tuezu"
@@ -981,7 +973,7 @@
       "url": "https://open.spotify.com/track/6osoye1Uw7190l2ySuq6vm"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Only Problem (feat. 03 Greedo)",
         "url": "https://open.spotify.com/album/7LJ6WRQDtiDVmFhHzuAju6"
@@ -1001,7 +993,7 @@
       "url": "https://open.spotify.com/track/6EVKc55QmVwABXU7cnH7DL"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
@@ -1025,7 +1017,7 @@
       "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "The Bitch Tape",
         "url": "https://open.spotify.com/album/4Qw9EzjCe2qK1VIYOfAXix"
@@ -1045,7 +1037,7 @@
       "url": "https://open.spotify.com/track/7GrSsLy5jgpgkhABBQ1VoB"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "CHIZZLE",
         "url": "https://open.spotify.com/album/4aSqc8dCaaWQho72mHd7ZB"
@@ -1061,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0oIJgGKQYukfFx6I72NuGS"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
@@ -1077,7 +1069,7 @@
       "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "CHILDREN OF THE SLUMS",
         "url": "https://open.spotify.com/album/3uhGsFAXshXmRs9qLiYqGz"
@@ -1101,7 +1093,7 @@
       "url": "https://open.spotify.com/track/0l2qVuy0TMhShe8s0KLLSO"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Guns & Butter",
         "url": "https://open.spotify.com/album/13Ku0eT9WawVkyiXT2nyPK"
@@ -1121,7 +1113,7 @@
       "url": "https://open.spotify.com/track/1LEJOG7vWgjwWNESHC7C4V"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Pose For Me",
         "url": "https://open.spotify.com/album/1V8F5yi1IO7cmAVD6e7Dfw"
@@ -1137,23 +1129,7 @@
       "url": "https://open.spotify.com/track/1sgTUndxucoDRXlJds4fZ9"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "No Cuffin",
-        "url": "https://open.spotify.com/album/0LgOk4IknA8zPAflfjrgJV"
-      },
-      "artists": [
-        {
-          "name": "1takejay",
-          "url": "https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu"
-        }
-      ],
-      "duration_ms": 91428,
-      "name": "No Cuffin",
-      "url": "https://open.spotify.com/track/4MFvXjgB19GThQxcjcWJXh"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Got It on Me",
         "url": "https://open.spotify.com/album/0VTSXHWNWY9OQOUMfi4Ttk"
@@ -1173,7 +1149,7 @@
       "url": "https://open.spotify.com/track/0yvu1rKHRw7r4zaW73P24K"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Say Luv",
         "url": "https://open.spotify.com/album/1jxdGY4MuFGOzgoUTWslet"
@@ -1193,7 +1169,7 @@
       "url": "https://open.spotify.com/track/3a3Tz1TtYuwTJMqbc6IeD1"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Slow It Down (feat. 310babii) [Remix]",
         "url": "https://open.spotify.com/album/07nA13Tm7sd6fnjQtcUWHM"
@@ -1213,7 +1189,7 @@
       "url": "https://open.spotify.com/track/4ZBAIrRUGcRnTWWNEVlnWi"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Parking Lot",
         "url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
@@ -1233,7 +1209,7 @@
       "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Guns & Butter",
         "url": "https://open.spotify.com/album/13Ku0eT9WawVkyiXT2nyPK"
@@ -1253,7 +1229,7 @@
       "url": "https://open.spotify.com/track/7GAP94zr3pzFIapGw5ff4L"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "ALLAT",
         "url": "https://open.spotify.com/album/6Va3zluiLcnhrMfRjTArjU"
@@ -1269,7 +1245,7 @@
       "url": "https://open.spotify.com/track/1KdfIM1ZvzSWBGuk7n1Hie"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Soakin Game",
         "url": "https://open.spotify.com/album/4nkOCaoK62y6u4dYdEXsix"
@@ -1301,7 +1277,7 @@
       "url": "https://open.spotify.com/track/6apHoG0pxkO5UFCZIpTmN7"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Born to Be Important",
         "url": "https://open.spotify.com/album/2voJXvaQst0vgUmNqvykV1"
@@ -1321,7 +1297,7 @@
       "url": "https://open.spotify.com/track/5CjiZexEFaXvgumNLBz8RZ"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Misunderstood",
         "url": "https://open.spotify.com/album/6Ss7AxCRysRhYll4SdCrHX"
@@ -1341,7 +1317,7 @@
       "url": "https://open.spotify.com/track/1NZsaTXHZ8OrNoHavqQHjx"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Hello B*tch",
         "url": "https://open.spotify.com/album/5bWWgmLIujZiZrJUzxbhFn"
@@ -1357,7 +1333,7 @@
       "url": "https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Halfway There",
         "url": "https://open.spotify.com/album/70u9s1ZchOeK4YFEMYPdKZ"
@@ -1373,7 +1349,7 @@
       "url": "https://open.spotify.com/track/1TlCkk6DxbS41hTVQEjhhf"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "SURF OR DROWN, Vol. 2",
         "url": "https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i"
@@ -1397,7 +1373,7 @@
       "url": "https://open.spotify.com/track/1gvuQuIOv3YAtxwR89XMuI"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Sessions At The Grill (Episode: 001)",
         "url": "https://open.spotify.com/album/2nMWvOmprploVFQ4qI7uQo"
@@ -1421,7 +1397,7 @@
       "url": "https://open.spotify.com/track/76cSUBeuio2uFLPFheh1QM"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Figuring Out My Emotions",
         "url": "https://open.spotify.com/album/5twFC7fTYy978vfFyE3iP0"
@@ -1437,7 +1413,7 @@
       "url": "https://open.spotify.com/track/2EyuB5eASgdls49acEyx5J"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Bad (with DB.Boutabag)",
         "url": "https://open.spotify.com/album/7rDrWDOdODwghXZyVq0ZsK"
@@ -1457,7 +1433,7 @@
       "url": "https://open.spotify.com/track/3IilsQYg9OlvJUaYcuRJHo"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Biggest Out The West",
         "url": "https://open.spotify.com/album/6cohykbNrj0qsEkaunf9uL"
@@ -1485,7 +1461,7 @@
       "url": "https://open.spotify.com/track/2aNMJFSgmV7BOCrr2vZKrl"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
@@ -1501,7 +1477,7 @@
       "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "2093 (P2)",
         "url": "https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg"
@@ -1515,6 +1491,42 @@
       "duration_ms": 172500,
       "name": "If We Being R\u00ebal",
       "url": "https://open.spotify.com/track/2NQsRx1Zz1lwKU7JvwZfRW"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Spooky Summer",
+        "url": "https://open.spotify.com/album/3novjYfqJ52IHB2iDrZUfM"
+      },
+      "artists": [
+        {
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "duration_ms": 129215,
+      "name": "Loose Cannon",
+      "url": "https://open.spotify.com/track/4BomF4qHwEDXGi4uAABv4A"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Truth Is (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3vg3cG1nFVe8Gru8pvgUEZ"
     }
   ],
   "unique_name": "Westside Story",

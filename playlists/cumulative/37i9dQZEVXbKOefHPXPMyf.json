@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -14690,7 +14690,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 189560,
       "name": "Esp\u00edritu Guanacasteco",
       "url": "https://open.spotify.com/track/3m2KbuNF6QTPrsssDujM0O"
@@ -20383,6 +20383,24 @@
     },
     {
       "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "album": {
         "name": "No More Tears",
         "url": "https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J"
       },
@@ -21522,7 +21540,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 126493,
       "name": "La Coyolera",
       "url": "https://open.spotify.com/track/55wneaFdiU7wGpPxiaRksA"
@@ -23728,7 +23746,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 116869,
       "name": "Lobster",
       "url": "https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid"
@@ -33624,7 +33642,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -34716,7 +34734,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 99200,
       "name": "Punto guanacasteco",
       "url": "https://open.spotify.com/track/4TCTJgkdeWhbPkFZw9SJyv"
@@ -41996,7 +42014,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1"

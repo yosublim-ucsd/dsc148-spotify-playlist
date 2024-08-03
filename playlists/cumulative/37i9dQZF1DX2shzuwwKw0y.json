@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Peso Pluma, Estevan Plazola en portada. ",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Juanchito, Gabito Ballesteros en portada. ",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 211904,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
@@ -2837,6 +2837,28 @@
     },
     {
       "album": {
+        "name": "Y Lo Que Falta",
+        "url": "https://open.spotify.com/album/7EQkzeNShMds3OuAn8VKRE"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209426,
+      "name": "El Jefe F",
+      "url": "https://open.spotify.com/track/4eGikg72FZdoSXj9k0Zd64"
+    },
+    {
+      "album": {
         "name": "El Jelty",
         "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
       },
@@ -5272,7 +5294,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 187904,
       "name": "MAKABELICOS",
       "url": "https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF"
@@ -6251,6 +6273,24 @@
     },
     {
       "album": {
+        "name": "Pura Adrenalina",
+        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157569,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
+    },
+    {
+      "album": {
         "name": "Puro Campe\u00f3n",
         "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
       },
@@ -6332,7 +6372,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 167775,
       "name": "Quieren Ver",
       "url": "https://open.spotify.com/track/2cJ1grvx1xA2xgJW1Mfg8n"
@@ -6584,6 +6624,28 @@
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/4EAhDuoqyRtV4WiuN49OUe"
+    },
+    {
+      "album": {
+        "name": "SANTAL 33",
+        "url": "https://open.spotify.com/album/0shplQLEuJb5ycfUS7Ngli"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190303,
+      "name": "SANTAL 33",
+      "url": "https://open.spotify.com/track/3VpJtbVmm4GN0UIb4WqNF9"
     },
     {
       "album": {
@@ -7159,6 +7221,28 @@
     },
     {
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/10RqkAt6nOHneiFnTJqQNw"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161746,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5SKvVp2xSnuujJt18fMeSX"
+    },
+    {
+      "album": {
         "name": "T.H.C. (En Vivo)",
         "url": "https://open.spotify.com/album/4CUBg0rluTaV0pOooMoXsv"
       },
@@ -7622,7 +7706,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 245997,
       "name": "VINO TINTO",
       "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"

@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-223 songs - 11 hr 36 min
+224 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,13 +12,13 @@
 | [432 Hz Delta Earth](https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [432 Hz Delta Earth](https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas) | 2:22 | 2023-10-26 | 2024-07-21 |
 | [432 Hz Lotus](https://open.spotify.com/track/2sdrlf1AV9jJqORYxGlIan) | [Vanessa Parson](https://open.spotify.com/artist/59S9QzQL8JVg6lts6OmX7I) | [432 Hz Lotus](https://open.spotify.com/album/4y7l5zPX113XxJE8g1XCeI) | 2:58 | 2024-07-18 |  |
 | [432 Hz Serenity Embrace](https://open.spotify.com/track/2H1JcyE318d91zg3DXI6Zj) | [Juni Willow](https://open.spotify.com/artist/5fyPGApAeuzdkwvW02LjT8) | [432 Hz Serenity Embrace](https://open.spotify.com/album/66mC8CxQZFCfinlZw5QyTh) | 2:41 | 2023-09-25 |  |
-| [432hz Let It Heal \- Studio Edit](https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Let It Heal](https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR) | 3:40 | 2023-03-28 |  |
+| [432hz Let It Heal \- Studio Edit](https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Let It Heal](https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR) | 3:40 | 2023-03-28 | 2024-08-03 |
 | [528 Hz \- Depth](https://open.spotify.com/track/4wir6hzWdheNZVGQQMOrih) | [Willow Bird](https://open.spotify.com/artist/4xVge9wtVXlLcmj9BvDoHy) | [528 Hz \- Depth](https://open.spotify.com/album/4I6ywVOrEHtslVrCFC3tI8) | 2:31 | 2023-12-15 |  |
 | [528 Hz Well Being](https://open.spotify.com/track/1rvSKysJCFSkCWlLkQkJxb) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [528 Hz Well Being](https://open.spotify.com/album/2HejJv1SKHZGpglUpnYeyp) | 3:01 | 2023-02-17 |  |
 | [528 Hz – Delta](https://open.spotify.com/track/2aO8jdjLcUEv7yfEdjdpGL) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [528 Hz – Delta](https://open.spotify.com/album/2eVww2WQchoorYqZJVwHEM) | 2:09 | 2023-03-28 |  |
 | [A Peaceful Spirit](https://open.spotify.com/track/1ixzC6gMewFfnpGIR8tWuV) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [A Peaceful Spirit](https://open.spotify.com/album/7DUxxvDEhFeJshVETcb2uz) | 3:02 | 2023-02-17 | 2023-08-17 |
 | [A Time To Pause](https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [A Time To Pause](https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE) | 3:34 | 2023-02-17 |  |
-| [Acoustic Valley](https://open.spotify.com/track/2Fy8l9obAALKtJHe3IDP67) | [Blauberg Calm](https://open.spotify.com/artist/78Z2LNd3NigoMoYVYBSi8P) | [Acoustic Valley](https://open.spotify.com/album/24xzmt0JEDqo62DwXLUmlc) | 3:16 | 2023-09-25 |  |
+| [Acoustic Valley](https://open.spotify.com/track/2Fy8l9obAALKtJHe3IDP67) | [Blauberg Calm](https://open.spotify.com/artist/78Z2LNd3NigoMoYVYBSi8P) | [Acoustic Valley](https://open.spotify.com/album/24xzmt0JEDqo62DwXLUmlc) | 3:16 | 2023-09-25 | 2024-08-03 |
 | [Aeonian Hope](https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J) | [The Peace Within](https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i) | [Aeonian Hope](https://open.spotify.com/album/3LZYp5sPMmJKpQLKHJgpLH) | 3:22 | 2023-09-25 |  |
 | [Aeterna](https://open.spotify.com/track/5PFe4q5VmBRaYUnXSeZ6EX) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Aeterna](https://open.spotify.com/album/1qlIcbSfHK3qmZUgT2vADm) | 3:08 | 2024-07-18 |  |
 | [Aethaerum](https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Aethaerum](https://open.spotify.com/album/6n5YtNCZaQFCh6PndO9IhI) | 3:06 | 2023-02-17 |  |
@@ -35,7 +35,7 @@
 | [Arrival](https://open.spotify.com/track/3Exl78B577DFANwmYM3bY4) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Arrival](https://open.spotify.com/album/1u7Nad8QXxhyWPKLagu95M) | 3:11 | 2023-02-17 | 2023-03-29 |
 | [Arrivals](https://open.spotify.com/track/6ebuQW1JklhK6vrS02nS8w) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Arrivals](https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8) | 2:42 | 2023-07-27 |  |
 | [Asana](https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Asana](https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo) | 2:31 | 2023-05-19 |  |
-| [Asha](https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Asha](https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p) | 2:34 | 2023-03-10 | 2024-07-25 |
+| [Asha](https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Asha](https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p) | 2:34 | 2023-03-10 |  |
 | [Astral Devotion \- Spa 432Hz](https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Astral Devotion](https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8) | 3:37 | 2023-09-25 | 2024-07-23 |
 | [Aura](https://open.spotify.com/track/5kv8YaBfm2SZQk8YRPjXy5) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Aura Sound Bath](https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo) | 3:06 | 2023-02-17 | 2023-03-29 |
 | [Awakening Gaia](https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU) | [Juno Yang](https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP) | [Awakening Gaia](https://open.spotify.com/album/5josYCC1kuTj4wnYmnV26X) | 2:21 | 2023-02-17 |  |
@@ -63,7 +63,7 @@
 | [Clear Mind \- 432 Hz](https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA) | [Liilia Janes](https://open.spotify.com/artist/3wJTyh4srXwp5jfld7LZ8j) | [Clear Mind \- 432 Hz](https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM) | 2:51 | 2023-09-25 |  |
 | [Clear Skies Ahead](https://open.spotify.com/track/4m1wouuJbxxmeONhfmeeoV) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Clear Skies Ahead](https://open.spotify.com/album/5rKVWByShf5lLqfFwDBsrg) | 2:36 | 2024-07-18 |  |
 | [Clear Thoughts](https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Clear Thoughts](https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn) | 3:00 | 2023-02-17 |  |
-| [Clearing Your Mind](https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Green Haven](https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q) | 2:43 | 2023-02-17 | 2024-07-30 |
+| [Clearing Your Mind](https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Green Haven](https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q) | 2:43 | 2023-02-17 |  |
 | [Clearings](https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Clearings](https://open.spotify.com/album/60o397RIevLIAx8f17RRss) | 2:40 | 2023-04-24 |  |
 | [Clouds](https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Clouds](https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh) | 2:14 | 2023-08-02 |  |
 | [Coastal Route](https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Coastal Route](https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG) | 3:15 | 2023-07-27 |  |
@@ -87,7 +87,7 @@
 | [Earth](https://open.spotify.com/track/5MiVwcz77IjPJ3v81lofEy) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Earth](https://open.spotify.com/album/6pnmHrY94xQ1kAM8r5iRlM) | 4:07 | 2023-10-26 |  |
 | [En Paz 432Hz](https://open.spotify.com/track/4pSt8Vci86ylpq2l2auNWJ) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [En Paz 432Hz](https://open.spotify.com/album/5iEHD2vXDdCPUG14clmldm) | 2:53 | 2023-02-17 |  |
 | [Equilibrio 432Hz](https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF) | [Invocaciones](https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ) | [Equilibrio 432Hz](https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF) | 2:30 | 2024-07-18 |  |
-| [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2023-02-17 |  |
+| [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2023-02-17 | 2024-08-03 |
 | [Exploration](https://open.spotify.com/track/1r4ZJZtYc26u54jIgOhlbM) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Exploration](https://open.spotify.com/album/3u4416QBy5zLXb5Okw0qnC) | 2:49 | 2024-07-18 |  |
 | [Eyes Closed](https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Eyes Closed](https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp) | 2:24 | 2023-04-24 |  |
 | [Fading Warmth](https://open.spotify.com/track/6PmqjvzId79ndygAHCg43g) | [Ollwen](https://open.spotify.com/artist/4OhbuoBhnyQzBvA3Zvo9s9) | [Fading Warmth](https://open.spotify.com/album/3F4Im6U0AIuglRqesQwuBs) | 2:35 | 2023-09-25 | 2024-07-19 |
@@ -144,6 +144,7 @@
 | [Messiah Silica](https://open.spotify.com/track/00dKAndxIdVhbJv0f2IKi7) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Messiah Silica](https://open.spotify.com/album/7xAHXVwAJDpeXlckASpuI9) | 2:34 | 2023-10-16 |  |
 | [Mindful Morning](https://open.spotify.com/track/64bGDaN3r5lhm4diRthu3u) | [Yaminu](https://open.spotify.com/artist/5bTsHhnuBtER2fvtEjTsYG) | [Mindful Morning](https://open.spotify.com/album/0MdLoo2an3hSFefvqc84gW) | 3:05 | 2023-02-17 | 2023-08-17 |
 | [Mirage](https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Mirage](https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx) | 2:18 | 2023-10-26 |  |
+| [Momentum](https://open.spotify.com/track/3lIdE6vUEyqbE5n2wp5Qbw) | [Gustavo Virtanen](https://open.spotify.com/artist/3nBxnqp6bJYMkpyzVR7dF4) | [Momentum](https://open.spotify.com/album/48dUIXdUTDj1p8gHhZRhtU) | 5:21 | 2024-08-02 |  |
 | [Nereal Beauty](https://open.spotify.com/track/1eNHSY3zqCHnBGok3b5hsG) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Nereal Beauty](https://open.spotify.com/album/6jHxOlPcctkQrPcBjtEwwi) | 2:27 | 2023-05-19 |  |
 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 | 2023-10-26 |  |
 | [One Giant Leap](https://open.spotify.com/track/782QwZQiP9OIZcZhEF0lQ9) | [Cosmic Garden Gate](https://open.spotify.com/artist/0EBhS1lnPoM1fPhf3YFWS0) | [One Giant Leap](https://open.spotify.com/album/6fleY1qghIw98enZVZw7u9) | 2:37 | 2023-09-25 | 2024-07-01 |

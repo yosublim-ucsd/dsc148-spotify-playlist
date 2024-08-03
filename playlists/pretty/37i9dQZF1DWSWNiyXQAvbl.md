@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,014 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,066 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 31 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5I9zIwGB6f0edpjO5oX2b9) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Escape...The Best Of](https://open.spotify.com/album/1DNXVmeXx7p959XvA3LtV8) | 4:35 |
 | 32 | [Make It with You](https://open.spotify.com/track/11gfsr13S8qsfN48IILcHU) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [The Best of Bread](https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx) | 3:12 |
 | 33 | [Kiss You All Over](https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Greatest Hits](https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo) | 3:34 |
-| 34 | [Listen to the Music](https://open.spotify.com/track/2fja4gHzPsIXiK4bMeU0hN) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Best of The Doobies](https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA) | 3:47 |
-| 35 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
+| 34 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
+| 35 | [Listen to the Music](https://open.spotify.com/track/2fja4gHzPsIXiK4bMeU0hN) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Best of The Doobies](https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA) | 3:47 |
 | 36 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
 | 37 | [Fire](https://open.spotify.com/track/65lHwG8JFJs67PnOUhCYPq) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Energy \(Expanded Edition\)](https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH) | 3:30 |
 | 38 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 58 | [Rocket Man \(I Think It's Going To Be A Long Long Time\)](https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau \(Remastered\)](https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6) | 4:41 |
 | 59 | [My Sweet Lord](https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M) | 4:41 |
 | 60 | [Take Me Home, Country Roads \- Rerecorded](https://open.spotify.com/track/2xYlyywNgefLCRDG8hlxZq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol\. 1: Take Me Home Country Roads](https://open.spotify.com/album/5erROp1lRW31aNxj9PbAUf) | 3:17 |
-| 61 | [Superstition \- Single Version](https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number Ones](https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz) | 4:04 |
-| 62 | [Stumblin' In](https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ), [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc) | [The Very Best of Suzi Quatro](https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb) | 3:59 |
+| 61 | [Stumblin' In](https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ), [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc) | [The Very Best of Suzi Quatro](https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb) | 3:59 |
+| 62 | [Superstition \- Single Version](https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number Ones](https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz) | 4:04 |
 | 63 | [Give A Little Bit](https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments \(Remastered\)](https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU) | 4:08 |
 | 64 | [Wonderful Tonight](https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G) | 3:45 |
 | 65 | [Sweet Home Alabama](https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Lynyrd Skynyrd \- Rock Legends](https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC) | 4:45 |

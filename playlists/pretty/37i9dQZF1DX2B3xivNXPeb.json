@@ -1,6 +1,6 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 43912,
+  "num_followers": 43919,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 191566,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
         "name": "You Promised A Lifetime",
         "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 149605,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 191566,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
     },
     {
       "added_at": "2024-07-26 11:35:03",
@@ -627,38 +627,6 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/2DECZqJgZddWX9TtPlzPIE"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 175247,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
         "name": "Betting on Us",
         "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
       },
@@ -675,6 +643,22 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
         "name": "Dead Man",
         "url": "https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 203343,
       "name": "Dead Man",
       "url": "https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/2DECZqJgZddWX9TtPlzPIE"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 175247,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI"
     },
     {
       "added_at": "2024-07-26 11:35:03",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "What I Am",
-        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "What I Am",
-      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 158251,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "added_at": "2024-07-26 11:35:03",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "Alienated",
-        "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Alienated",
-      "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
@@ -955,22 +939,6 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "Walk Like This",
-        "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "Walk Like This",
-      "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
         "name": "Remember My Song",
         "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
       },
@@ -983,6 +951,22 @@
       "duration_ms": 395373,
       "name": "I Got The... - 2006 Remaster",
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
+        "name": "Walk Like This",
+        "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Walk Like This",
+      "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
     },
     {
       "added_at": "2024-07-26 11:35:03",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
+        "name": "Alienated",
+        "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Alienated",
+      "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
         "name": "Bruised One",
         "url": "https://open.spotify.com/album/7D3177ySIsW3EfuaLqJRJQ"
       },
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
         "name": "Falling Into Place (ft. Debbie)",
         "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 200000,
       "name": "Falling Into Place (ft. Debbie)",
       "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2024-07-26 11:35:03",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
         "name": "Overglow",
         "url": "https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 182000,
       "name": "How?",
       "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 195862,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M"
     },
     {
       "added_at": "2024-07-26 11:35:03",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
         "name": "Just a Dance",
         "url": "https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
         "name": "All Your Life",
         "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "Boys Like U",
-        "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
-      },
-      "artists": [
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Boys Like U",
-      "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 142906,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
+        "name": "Boys Like U",
+        "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Boys Like U",
+      "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
     },
     {
       "added_at": "2024-07-26 11:35:03",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "Good Books",
-        "url": "https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "Good Books",
-      "url": "https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 190348,
       "name": "Good News",
       "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
+        "name": "Good Books",
+        "url": "https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "Good Books",
+      "url": "https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh"
     },
     {
       "added_at": "2024-07-26 11:35:03",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "Heavy Heavy",
-        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "Rice",
-      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 218253,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
     },
     {
       "added_at": "2024-07-26 11:35:03",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "Hello Lonely",
-        "url": "https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Hello Lonely",
-      "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
-    },
-    {
-      "added_at": "2024-07-26 11:35:03",
-      "album": {
         "name": "Forbidden Fruit",
         "url": "https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2024-07-26 11:35:03",
       "album": {
-        "name": "Little Blue Moon",
-        "url": "https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq"
+        "name": "Hello Lonely",
+        "url": "https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
         }
       ],
-      "duration_ms": 168146,
-      "name": "Little Blue Moon",
-      "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
+      "duration_ms": 211120,
+      "name": "Hello Lonely",
+      "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
     },
     {
       "added_at": "2024-07-26 11:35:03",
@@ -1583,6 +1567,22 @@
       "duration_ms": 249926,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/35Cy7sWZPmCyPL1wsNyOO6"
+    },
+    {
+      "added_at": "2024-07-26 11:35:03",
+      "album": {
+        "name": "Little Blue Moon",
+        "url": "https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Little Blue Moon",
+      "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
     },
     {
       "added_at": "2024-07-26 11:35:03",

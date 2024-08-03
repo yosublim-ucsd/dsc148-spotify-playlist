@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Un Verano",
+  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Clara Cava y Ale Sergi",
   "name": "Esto es Pop",
   "tracks": [
     {
@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "en la cara",
+        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157746,
+      "name": "en la cara",
+      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
+    },
+    {
+      "album": {
         "name": "Conducci\u00f3n Temeraria",
         "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
       },
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 212044,
       "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
       "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
@@ -2778,6 +2796,28 @@
       "duration_ms": 200507,
       "name": "Me hablan de vos",
       "url": "https://open.spotify.com/track/6h5r2AfSvK20SR94dq8v6d"
+    },
+    {
+      "album": {
+        "name": "me hace bien",
+        "url": "https://open.spotify.com/album/5d2U9nTionMO2EQgJDVnIF"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Ale Sergi",
+          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "me hace bien",
+      "url": "https://open.spotify.com/track/3YvPDFVcqKRYI0orNE6zIK"
     },
     {
       "album": {
@@ -4832,7 +4872,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 176520,
       "name": "VIVO",
       "url": "https://open.spotify.com/track/5FiLiXXCn6dd7tESjc8nTt"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 ### [This Is Grupo Frontera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO473sfm)
 
-> This is Grupo Frontera\. The essential tracks, all in one playlist.
+> This Is Grupo Frontera\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,352 likes - 42 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,684 likes - 42 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 41 | [El Ultimo Beso \- En Vivo](https://open.spotify.com/track/1ExVxkQdW1Wb5Z8JEIz5FB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:36 |
 | 42 | [Estos Celos \- En Vivo](https://open.spotify.com/track/01VmJGbwBz19j21aYqR6Ju) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:41 |
 
-Snapshot ID: `Zql+gAAAAABIgKfcRU1EhdnZTINUoPpd`
+Snapshot ID: `ZqrQAAAAAAAT0O2bxQQdBMfIPlRbbn71`

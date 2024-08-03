@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 21777,
+  "num_followers": 21783,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "no sense",
+        "url": "https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 170765,
+      "name": "no sense",
+      "url": "https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "We Win (Space Jam: A New Legacy)",
         "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 194999,
       "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
       "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "no sense",
-        "url": "https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 170765,
-      "name": "no sense",
-      "url": "https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP"
     },
     {
       "added_at": "2022-10-01 16:00:00",

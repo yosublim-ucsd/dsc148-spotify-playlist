@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,054 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,068 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [Loyal To No One](https://open.spotify.com/track/1QPDnXVsateLgY8g75jasM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 2:25 |
 | 50 | [Never Git Drunk No More \(feat\. Nikki Lane\)](https://open.spotify.com/track/7IbJEpBPdVuec0WhORFwHJ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:25 |
 
-Snapshot ID: `Zql+gAAAAADWE2pMVdM5NUkjhJKcvo+Q`
+Snapshot ID: `ZqrQAAAAAABRrMmEUUndXo5cC3XP0yAg`

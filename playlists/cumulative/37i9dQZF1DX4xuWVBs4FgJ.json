@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 174982,
       "name": "Just You and I",
       "url": "https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv"
@@ -4349,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
+    },
+    {
+      "album": {
         "name": "Echos",
         "url": "https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc"
       },
@@ -4656,7 +4674,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 202573,
       "name": "Lucid Girl",
       "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
@@ -5258,7 +5276,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186300,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"

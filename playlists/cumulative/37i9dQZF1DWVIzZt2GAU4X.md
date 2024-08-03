@@ -4,7 +4,7 @@
 
 > Vocals and keys, front and center\. Cover: Adele
 
-239 songs - 15 hr 3 min
+240 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,9 +102,10 @@
 | [I Get to Love You](https://open.spotify.com/track/3CV4lFELdziNM1OnHU8nwz) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [I Get to Love You](https://open.spotify.com/album/1HsdgBRnsxFPpt3HjknZEP) | 3:59 | 2021-11-19 |  |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-11-19 |  |
 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 | 2022-03-25 |  |
-| [I Know](https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [I Know](https://open.spotify.com/album/6auO2yyC62fgBHAXmPf7ap) | 3:05 | 2024-07-12 |  |
+| [I Know](https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [I Know](https://open.spotify.com/album/6auO2yyC62fgBHAXmPf7ap) | 3:05 | 2024-07-12 | 2024-08-03 |
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2021-11-19 |  |
 | [I Should Probably Go To Bed](https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed](https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj) | 2:51 | 2021-11-19 | 2022-11-13 |
+| [I'd Rather Pretend](https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [VANITY](https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g) | 3:04 | 2024-08-02 |  |
 | [I'll Never Love Again \- Film Version](https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 4:41 | 2021-11-19 |  |
 | [I'm Here](https://open.spotify.com/track/4ttrwU0rvD0f4WRQsHDPrh) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 3:42 | 2023-09-22 | 2023-11-10 |
 | [i'm lonely](https://open.spotify.com/track/7uy83XLIbGI7Z7Ef07hgUa) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i'm lonely](https://open.spotify.com/album/3eF1hA0IQHSCsaf7NeZV7S) | 3:01 | 2021-11-19 | 2022-03-01 |

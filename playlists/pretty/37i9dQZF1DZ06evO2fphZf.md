@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 ### [This Is thủy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fphZf)
 
-> This is thủy。アーティストの代表曲をひとつのプレイリストに。
+> This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,045 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,057 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 3 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 |
 | 4 | [close with desires \(feat\. thuy\)](https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [close with desires \(feat\. thuy\)](https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID) | 3:25 |
 | 5 | [playing tricks](https://open.spotify.com/track/6bqdzSnOYEhGkcaNXwxzA9) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:04 |
-| 6 | [All Night Long](https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Lil Kev](https://open.spotify.com/artist/05U8xYmKMe2z0IjNlI2qG6) | [All Night Long](https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs) | 3:34 |
-| 7 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 |
+| 6 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 |
+| 7 | [All Night Long](https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Lil Kev](https://open.spotify.com/artist/05U8xYmKMe2z0IjNlI2qG6) | [All Night Long](https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs) | 3:34 |
 | 8 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 |
 | 9 | [vapor rub](https://open.spotify.com/track/3rpfbgu18wx28HZJEWTlPt) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [vapor rub](https://open.spotify.com/album/3fCcpuwdbjTg2Ul2ZiWsmF) | 2:56 |
 | 10 | [trust \(feat\. RINI\)](https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:17 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 36 | [Options](https://open.spotify.com/track/4CvV6VfT6taArl6ZnO85qK) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Options](https://open.spotify.com/album/0hHfrwPYO6iO340NK28Pw4) | 2:04 |
 | 37 | [Real](https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Real](https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt) | 2:56 |
 | 38 | [distance between us](https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 3:24 |
-| 39 | [The Way](https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [The Way](https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL) | 2:54 |
-| 40 | [Waiting on You](https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Waiting on You](https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH) | 2:47 |
+| 39 | [Waiting on You](https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Waiting on You](https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH) | 2:47 |
+| 40 | [The Way](https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [The Way](https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL) | 2:54 |
 | 41 | [Bad](https://open.spotify.com/track/0LvTcWy1faRiiMWpLAoOkN) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Bad](https://open.spotify.com/album/7ghg4UUVy004mc7lPql9uj) | 3:02 |
 | 42 | [wanted](https://open.spotify.com/track/1YXIzmg0unpW7FlY3UZXsh) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wanted](https://open.spotify.com/album/7hUvM7ObwajUcdqGoH94ZV) | 2:39 |
 | 43 | [Next to You](https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Next to You](https://open.spotify.com/album/0m6yQDokL3mfrVXsObA8Sw) | 3:24 |
 | 44 | [Summers Around The Corner](https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Summers Around The Corner](https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB) | 3:48 |
-| 45 | [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 |
-| 46 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 |
-| 47 | [Hands on Me](https://open.spotify.com/track/77b7Cukvthg7FV7vhOlev1) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Cr Crucial](https://open.spotify.com/artist/2e8j9kR0sPHsN60RtwxBlI) | [Hands on Me](https://open.spotify.com/album/0wP22H6E7VHv5pfWGTIZws) | 3:08 |
+| 45 | [Hands on Me](https://open.spotify.com/track/77b7Cukvthg7FV7vhOlev1) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Cr Crucial](https://open.spotify.com/artist/2e8j9kR0sPHsN60RtwxBlI) | [Hands on Me](https://open.spotify.com/album/0wP22H6E7VHv5pfWGTIZws) | 3:08 |
+| 46 | [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 |
+| 47 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 |
 | 48 | [Ain't No One](https://open.spotify.com/track/5LgYy64uprlaC3fb8ysnte) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Ain't No One](https://open.spotify.com/album/4JuqNqYxtImRT4zhsFZbF9) | 2:53 |
 | 49 | [wishlist](https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wish list](https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF) | 2:44 |
 | 50 | [Love Come Down](https://open.spotify.com/track/1psyxX7jRaZU8qcUxWQx4z) | [Young Gully](https://open.spotify.com/artist/5E5xTsOgXvqOiAidVaiBTy), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [I Don't Wanna Rap No More](https://open.spotify.com/album/2NZQvOFm3oJNXg9q5fbQQg) | 3:52 |
 
-Snapshot ID: `Zql+gAAAAAB/jdMpCvvJFf+sXnHslN3k`
+Snapshot ID: `ZqrQAAAAAACyM5xJmKcvItHpO7RZR3iM`

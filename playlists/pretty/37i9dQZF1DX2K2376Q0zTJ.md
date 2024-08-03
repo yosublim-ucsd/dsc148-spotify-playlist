@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 加藤ミリヤ + LANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,634 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,637 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 23 | [Sunburn](https://open.spotify.com/track/5rNmTueR51ym4tXPot3i4s) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [ati natu ep](https://open.spotify.com/album/4azQrQNfeoBVGK5dQuv716) | 3:12 |
 | 24 | [The Light](https://open.spotify.com/track/6Jf6l54ftlk6rvk14v0kma) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [The Light](https://open.spotify.com/album/3S3qjC95LDdkcmZ8G0w7Tt) | 3:35 |
 | 25 | [A・O・U](https://open.spotify.com/track/031USpgPSo9UPnaCiddg13) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [A・O・U](https://open.spotify.com/album/3NdyX9VKROuSfRraKxbDm6) | 3:19 |
-| 26 | [乙 \(feat\. NENE\)](https://open.spotify.com/track/4S0kTyodr1Ajr4VwgCl8V7) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [NENE](https://open.spotify.com/artist/0GWd1nAGTQBkliv0zhbaqo) | [乙 \(feat\. NENE\)](https://open.spotify.com/album/4oBeNXrvD0bKUdVLBtNo5A) | 3:51 |
+| 26 | [乙 \(feat\. NENE\)](https://open.spotify.com/track/4S0kTyodr1Ajr4VwgCl8V7) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [乙 \(feat\. NENE\)](https://open.spotify.com/album/4oBeNXrvD0bKUdVLBtNo5A) | 3:51 |
 | 27 | [True Feelings](https://open.spotify.com/track/24nL2PxXk3NGcuHi8EH5Nd) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/2aJ0E4mGlgX34vkZlnrvKv) | 2:46 |
 | 28 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 |
 | 29 | [蜃気楼](https://open.spotify.com/track/5uKZfmX2Bel2rlWyuKvpSe) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [蜃気楼](https://open.spotify.com/album/5DJKBXc6OyavLzdYQdHHdg) | 3:14 |

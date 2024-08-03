@@ -4,7 +4,7 @@
 
 > next gen pop Cover: kenzie
 
-2,046 songs - 4 day 3 hr 33 min
+2,047 songs - 4 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-08 | 2022-10-29 |
 | [enough for you](https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:22 | 2021-05-22 | 2021-06-05 |
 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2023-12-11 | 2024-03-23 |
+| [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 | 2024-08-02 |  |
 | [Escalator](https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Escalator](https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG) | 2:26 | 2021-06-12 | 2021-06-26 |
 | [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 | 2024-06-07 | 2024-06-15 |
 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-11-30 | 2023-04-15 |
@@ -1345,7 +1346,7 @@
 | [omg](https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [omg](https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm) | 2:34 | 2023-05-12 | 2023-06-03 |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-02-08 | 2023-02-25 |
 | [On Fire Again \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/2Ug470Bny3tWsLl9iA3wcp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:03 | 2021-02-16\* | 2021-03-31 |
-| [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2024-02-09 |  |
+| [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2024-02-09 | 2024-08-03 |
 | [on my mind](https://open.spotify.com/track/7d1z7GN85H90QkdlV59Twa) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [on my mind](https://open.spotify.com/album/1nONI7Cj70aK4nQjLxObLt) | 3:02 | 2021-04-17 | 2021-05-08 |
 | [On My Own](https://open.spotify.com/track/1f32820VZo8vu4eTzdOWAo) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [On My Own](https://open.spotify.com/album/3Wx2WlJjuVfI5GfpJ2Gb9r) | 2:50 | 2022-01-14 | 2022-01-29 |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-03-14 | 2021-05-15 |

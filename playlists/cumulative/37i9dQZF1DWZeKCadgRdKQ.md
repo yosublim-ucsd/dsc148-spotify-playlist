@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-736 songs - 1 day 14 hr 40 min
+739 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [embraceable](https://open.spotify.com/track/43qHoXJIYjMwJsRNTj9V98) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [embraceable](https://open.spotify.com/album/2IRHiW8GfGY0yZ3BqoWxVG) | 2:40 | 2022-10-15 | 2023-09-26 |
 | [emotions](https://open.spotify.com/track/44DaoGCx5GuHqQI1ZflPs8) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Box of Puzzles](https://open.spotify.com/album/1bF0vGk9X8YhcvJvz2nDYc) | 2:45 | 2023-08-18 | 2023-09-26 |
 | [Entirety](https://open.spotify.com/track/3nvpVuUE9mO7fvFI6E9WYY) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [Entirety](https://open.spotify.com/album/6IFRbKg9C5Uj4NLG6maOsz) | 3:32 | 2019-05-26\* | 2020-08-07 |
+| [Entropy](https://open.spotify.com/track/7IQiA0AS6H75uULh09EoHp) | [Antonio Roberto](https://open.spotify.com/artist/3qfRuoQ6A1uFzEdXfJsUTG) | [Entropy](https://open.spotify.com/album/0TUnPJbHP1krkbxOoTzFr9) | 2:03 | 2024-08-02 |  |
 | [Epilogue](https://open.spotify.com/track/6y0lVyrMuMfpOLBBItogIT) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 4:17 | 2019-07-31 | 2021-09-14 |
 | [Epoque](https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Epoque](https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw) | 2:05 | 2023-02-10 |  |
 | [Escape](https://open.spotify.com/track/3B5CmP4afMVgLJeDvc6ivW) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Brigsby Bear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cySEIjLUYaMv6y34i0N4H) | 1:25 | 2019-06-19\* | 2021-09-03 |
@@ -214,7 +215,7 @@
 | [Farnley Lane](https://open.spotify.com/track/2uI1UogKvnueZl7Xg38UWK) | [The Sleepwalkers](https://open.spotify.com/artist/6vwqHmCmfgwJVzHQn4AAab) | [Farnley Lane](https://open.spotify.com/album/5GiE5fI7Y1bOig9u1oYvTZ) | 3:18 | 2019-09-14 | 2022-10-15 |
 | [Father's Land](https://open.spotify.com/track/3gzNYhVi2CZDrihWHxSVzY) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Kingdom](https://open.spotify.com/album/4cXKlWVyQD0xK0yTsg5nwX) | 5:35 | 2019-06-19\* | 2020-08-07 |
 | [Feathers In The Sky](https://open.spotify.com/track/4Bl2bWpteL5TFmqQ22IQXp) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Feathers In The Sky](https://open.spotify.com/album/4OSbMAvfVs5EX8PyJX2yWX) | 2:23 | 2023-01-13 | 2023-09-26 |
-| [Feel the Breeze](https://open.spotify.com/track/0vUcaGixVs5gRwdmvJapA7) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Feel the Breeze](https://open.spotify.com/album/16dcXv0shy4UYcXIaNhPpR) | 2:48 | 2023-09-01 |  |
+| [Feel the Breeze](https://open.spotify.com/track/0vUcaGixVs5gRwdmvJapA7) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Feel the Breeze](https://open.spotify.com/album/16dcXv0shy4UYcXIaNhPpR) | 2:48 | 2023-09-01 | 2024-08-03 |
 | [Feels Like Flying](https://open.spotify.com/track/3mMd2MGvEIDAfMfvcb9wsC) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Feels Like Flying](https://open.spotify.com/album/4GnIXsJtxjVMPJvR0O1g2f) | 3:18 | 2020-08-07 | 2023-08-25 |
 | [Fill Up The Sky](https://open.spotify.com/track/1UdPbtn1tr1fm1d0FcrgAg) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Fill Up The Sky](https://open.spotify.com/album/6q0wfY19Nrwci3Ika8Vehr) | 3:25 | 2023-02-10 | 2024-07-27 |
 | [Final Mid](https://open.spotify.com/track/7hQiWMz4Xisr6c5VdBsPKT) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Universo en Miniatura Vol\. 1](https://open.spotify.com/album/52PcfX5Yht7LyNjkuJCROB) | 2:09 | 2019-07-12 | 2023-08-25 |
@@ -253,7 +254,7 @@
 | [Glaciers](https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 2:56 | 2019-06-19\* | 2023-08-12 |
 | [Gloaming](https://open.spotify.com/track/6oMUXEiKVDyaXdcJ2YVnuj) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Gloaming](https://open.spotify.com/album/6pSLgjMOClX8LgNDnAdK5J) | 2:15 | 2019-06-27 | 2022-11-18 |
 | [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-01-29 | 2022-11-18 |
-| [Going Forward](https://open.spotify.com/track/2hrXZPJGelk7cCD0zmiDFA) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Going Forward](https://open.spotify.com/album/6QlPjdJ2ZQHYIAB8MPntRj) | 2:32 | 2023-11-10 |  |
+| [Going Forward](https://open.spotify.com/track/2hrXZPJGelk7cCD0zmiDFA) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Going Forward](https://open.spotify.com/album/6QlPjdJ2ZQHYIAB8MPntRj) | 2:32 | 2023-11-10 | 2024-08-03 |
 | [Going Home](https://open.spotify.com/track/4IAXoiaI12FoH8StF4n2tG) | [Intrinsic Focus](https://open.spotify.com/artist/6mvJXUuR2ER5cr8U4Vh4MW) | [Going Home](https://open.spotify.com/album/3FTs8ca556v5oMtQm2a9O7) | 4:12 | 2019-05-26\* | 2020-01-09 |
 | [Golden](https://open.spotify.com/track/6Xgupx0XndCMdA09Nl46wF) | [Clear Blue Skies](https://open.spotify.com/artist/5JhmX2bSHdudmKTpcDZeW1) | [Chasing Rainbows](https://open.spotify.com/album/3Qyilgf7sVReq7GGY1ezgc) | 2:20 | 2020-10-10 | 2024-03-27 |
 | [Good Days](https://open.spotify.com/track/0oXl1pTqskTdXuu46tPCJm) | [Lykke Juno](https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J) | [Good Days](https://open.spotify.com/album/4BIulmAl1QSc3nHogyaFiv) | 1:51 | 2023-03-03 | 2023-07-29 |
@@ -346,7 +347,7 @@
 | [Lift](https://open.spotify.com/track/2dcOprxauIydtyWGbRY7aF) | [GLADE](https://open.spotify.com/artist/20XycE4QYZIKItSVkGu0Gl) | [Lift](https://open.spotify.com/album/2uRNSe2cyyxo1QW5kcac2U) | 1:56 | 2023-02-25 | 2023-07-29 |
 | [Light beams](https://open.spotify.com/track/5gIyj56oo81reKzOLvXjWH) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Light beams](https://open.spotify.com/album/7wzbHoLDvm39D4XpCpdPAC) | 2:48 | 2024-05-11 |  |
 | [Light Beams](https://open.spotify.com/track/1amYIBBF2YFyGSZD7EpiUR) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [Light Beams](https://open.spotify.com/album/4J5be4oSDzSg42E1XAoBNm) | 2:44 | 2024-05-11 |  |
-| [Light Change](https://open.spotify.com/track/2gNFy5yCqo0zTd0g8YCtuI) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Light Change](https://open.spotify.com/album/1hpSWLQhCBt2Ksc1jlCZnH) | 2:04 | 2024-03-08 |  |
+| [Light Change](https://open.spotify.com/track/2gNFy5yCqo0zTd0g8YCtuI) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Light Change](https://open.spotify.com/album/1hpSWLQhCBt2Ksc1jlCZnH) | 2:04 | 2024-03-08 | 2024-08-03 |
 | [Light in the Fog](https://open.spotify.com/track/7A3vuGQKAUXlROjgo1L59k) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 3:04 | 2019-06-19\* | 2020-08-07 |
 | [Light the Night](https://open.spotify.com/track/2POh75IGOgdHVi9cXeSKiy) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 4:52 | 2019-05-26\* | 2020-01-09 |
 | [light up the sky](https://open.spotify.com/track/0j6Ej4SbxM9Qy9dXFLeNkS) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [light up the sky](https://open.spotify.com/album/6YnhyH6pvKC4g3opPtqfNl) | 3:29 | 2024-04-07 |  |
@@ -518,6 +519,7 @@
 | [River Deep](https://open.spotify.com/track/3KBoMRQ6EbCiTzOCzy4pvF) | [2am Fieldscape](https://open.spotify.com/artist/39IAu6WNe9KVJkgaA82Tjq) | [River Deep](https://open.spotify.com/album/7HGtWt7FICdlGLFVQbRAlv) | 3:27 | 2022-05-19 | 2024-05-12 |
 | [River Flowing](https://open.spotify.com/track/7alIC3oj16G5K1JzjjoUpQ) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [River Flowing](https://open.spotify.com/album/7kxXzAyAlFed4vIfYwcyBB) | 2:27 | 2024-02-13 |  |
 | [river song](https://open.spotify.com/track/6f6qUsqIfRIEqHJuL6EFAn) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [river song](https://open.spotify.com/album/63MBllFcU7Ay3MEwyeEwJp) | 2:42 | 2023-03-10 |  |
+| [Rouge](https://open.spotify.com/track/2GDkzLMtW2eAtuB8a2DK96) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Rouge](https://open.spotify.com/album/0T9TKsZ56Sk7XvBknqltc3) | 2:14 | 2024-08-02 |  |
 | [Roundabout](https://open.spotify.com/track/2yR2KTxdGPqpk8krap1Bbl) | [NYMK](https://open.spotify.com/artist/49kckQu5DktnBTpPlsJTDA) | [Roundabout](https://open.spotify.com/album/2CaVkQQRYdavwr3vRVYkMQ) | 3:09 | 2021-10-21 | 2024-05-12 |
 | [Running On Hills](https://open.spotify.com/track/5hNffY1XnXxq6hmZQm6m6A) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Hibernation Way](https://open.spotify.com/album/6B0sGRxzsBBWWFlc7oQSfl) | 3:26 | 2021-07-14 | 2022-01-06 |
 | [Safe And Sound](https://open.spotify.com/track/61nBe7BiDRiwqSNZfAjswA) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Safe And Sound](https://open.spotify.com/album/4dzLEtw4Qusza1go3sfFcf) | 2:49 | 2019-06-19\* | 2020-08-07 |
@@ -589,6 +591,7 @@
 | [Strangeworks](https://open.spotify.com/track/0ADfdoBwxcK2eUuOQciInH) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/0a2yGkTrEviUUZNBolAUXL) | 4:23 | 2019-05-26\* | 2019-06-19 |
 | [Subsolar Stars](https://open.spotify.com/track/5xLdU0RLYHRrNJAnHT51j1) | [We, the Navigators](https://open.spotify.com/artist/2yD5ItKzHsyWvV4PKWBNND) | [Subsolar Stars](https://open.spotify.com/album/3aGqvulNZdcHGJD3bdAqVc) | 2:44 | 2024-06-11 |  |
 | [Suhpratti](https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J) | [Parazal](https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49) | [Hum](https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK) | 3:06 | 2020-08-07 | 2023-04-29 |
+| [summer breeze](https://open.spotify.com/track/14CQdqVFygEls6szbfwuTL) | [The Dawning](https://open.spotify.com/artist/4ev14fn325vhWuykve3QtA) | [summer breeze](https://open.spotify.com/album/2dmrP48hhdCIoxeYJFMSVO) | 2:45 | 2024-08-02 |  |
 | [summer silence](https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [summer silence](https://open.spotify.com/album/2l1GqNZKHiPQxt4dMJr5Oq) | 2:55 | 2022-07-15 | 2024-05-12 |
 | [Summer Vibes](https://open.spotify.com/track/3nBn6Ox2yVzTuAmi2rbo9H) | [Serenity Within](https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp) | [Summer Vibes](https://open.spotify.com/album/3gwWS1s7nf2N4FWUv3J051) | 2:36 | 2023-03-17 |  |
 | [Sunbleached Memory](https://open.spotify.com/track/6JVIfxPhQXAyPcA2Ro94HX) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sunbleached Memory](https://open.spotify.com/album/0uLlVkSLZIBxOgp5CxEU6A) | 2:35 | 2019-06-19\* | 2022-11-18 |

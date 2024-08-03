@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,894 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,905 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: Vy Vy
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: SIXTYUPTOWN
 
-113 songs - 6 hr 37 min
+115 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Cảm ơn và hẹn gặp lại](https://open.spotify.com/track/12a8yIHrvtud0muiOOorLj) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 4:35 | 2024-04-02 |  |
 | [DAM DUOI](https://open.spotify.com/track/1fR5VXsWg8PI1eDiSbV121) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR) | [WRONGWAY](https://open.spotify.com/album/2cRmVgMV3XeYG6ZRd1gu2U) | 3:45 | 2023-04-13 |  |
 | [Dancing Queen](https://open.spotify.com/track/6LRkFj3VN587ilX2tmtcrT) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [Dancing Queen](https://open.spotify.com/album/79ZS0dMdmtRRKH2saCVnwh) | 2:53 | 2023-11-21 | 2024-06-04 |
+| [dieu anh muon noi](https://open.spotify.com/track/6krGXPYEsP3lDTK4ucr9i7) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [4rtus](https://open.spotify.com/artist/0d4mjubm6AmZKPbO56dUS3) | [dieu anh muon noi](https://open.spotify.com/album/4PKFjrxly2dtSZxrBqf8wh) | 3:22 | 2024-08-02 |  |
 | [don't you say goodbye](https://open.spotify.com/track/5vqRtTX0n6Huy6eey2ld1H) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu), [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN), [Cashmel](https://open.spotify.com/artist/3KjC3qk8ZE5JbC4tSj8COh) | [don't you say goodbye](https://open.spotify.com/album/0QEmXtbT1MtTlebDtfjLNF) | 4:03 | 2023-04-29 |  |
 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 | 2023-04-13 |  |
 | [Dumb Mê \- Acoustic Version](https://open.spotify.com/track/1gYCpRi5e6z4C2IqpMLyMY) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/25v8fVEZFohNneJf5stiSu) | 2:30 | 2024-02-01 | 2024-04-03 |
@@ -118,6 +119,7 @@
 | [Đường Tôi Chở Em Về](https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Đường Tôi Chở Em Về](https://open.spotify.com/album/11usBN9oLbxkDegtx4ilUW) | 4:26 | 2022-09-09 | 2024-04-03 |
 | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Duy Mạnh](https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B) | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN) | 3:02 | 2023-04-13 |  |
 | [Đố A Bít](https://open.spotify.com/track/1Z6o6fFPifrjcIuTPqpzeB) | [MAYonair](https://open.spotify.com/artist/4cuCzi4VvHHwwowu56Ejm5), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Đố A Bít](https://open.spotify.com/album/22qEQ7XZR1jpulVdJB0Kpw) | 2:15 | 2023-08-10 | 2024-02-02 |
+| [Đời Ca Sĩ](https://open.spotify.com/track/5LOqHXJ6PA85rVU2E1OTAM) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Đời Ca Sĩ](https://open.spotify.com/album/6gzCUYlVPybbgJCaqmoHNq) | 2:49 | 2024-08-02 |  |
 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 | 2023-06-29 |  |
 | [Ẩn](https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Ẩn](https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo) | 3:16 | 2024-04-02 |  |
 | [Ố 1](https://open.spotify.com/track/3vFYKvXOHHFVD58Bxz98VL) | [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90), [Sương Sâm](https://open.spotify.com/artist/1CaB0XOnPniIKLI8NjMMQL), [TE](https://open.spotify.com/artist/2GIuF9XgNJthcp0oRA1q3G) | [Ố 1](https://open.spotify.com/album/4pHnmegKPqoNpNstTgk5B6) | 3:20 | 2023-06-22 | 2024-04-03 |

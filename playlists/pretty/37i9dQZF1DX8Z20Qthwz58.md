@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,518 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,540 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 29 | [WHY YOU?](https://open.spotify.com/track/76ikZIYciIVbTPfNLTAAwX) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [WHY YOU?](https://open.spotify.com/album/29OG07EpYadviilDMVEgd4) | 2:55 |
 | 30 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 |
 | 31 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
-| 32 | [ntmc](https://open.spotify.com/track/0ATN8hZmrvnWEes18dsdJZ) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [ntmc](https://open.spotify.com/album/0fX3WUSEfcnVU3zXir9iLz) | 3:30 |
+| 32 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 |
 | 33 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 |
-| 34 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 |
-| 35 | [Night Fog](https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 2:38 |
-| 36 | [Garden State Dreamers](https://open.spotify.com/track/4rhU6LPPCcCC9IGOI26Tmw) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEEN TROUBLES](https://open.spotify.com/album/0lO1MX7qJaA3NejSbPoxU8) | 3:40 |
+| 34 | [ntmc](https://open.spotify.com/track/0ATN8hZmrvnWEes18dsdJZ) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [ntmc](https://open.spotify.com/album/0fX3WUSEfcnVU3zXir9iLz) | 3:30 |
+| 35 | [Garden State Dreamers](https://open.spotify.com/track/4rhU6LPPCcCC9IGOI26Tmw) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEEN TROUBLES](https://open.spotify.com/album/0lO1MX7qJaA3NejSbPoxU8) | 3:40 |
+| 36 | [Night Fog](https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 2:38 |
 | 37 | [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 |
 | 38 | [Fantasy](https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Fantasy](https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW) | 3:29 |
-| 39 | [CIRCLE](https://open.spotify.com/track/2aOk5X66c3YwRLp0wuKkUC) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:46 |
-| 40 | [MUNG](https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:59 |
+| 39 | [MUNG](https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:59 |
+| 40 | [CIRCLE](https://open.spotify.com/track/2aOk5X66c3YwRLp0wuKkUC) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:46 |
 | 41 | [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 |
 | 42 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
 | 43 | [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,383 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,424 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 61 | [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 |
 | 62 | [Ayer Pedi](https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Ayer Pedi](https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o) | 3:25 |
 | 63 | [Quiero Que Escuches](https://open.spotify.com/track/1MVxhslgnnGWUt3pWaQM2O) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Quiero Que Escuches](https://open.spotify.com/album/3qUrYi8m4uIyuYZOvIvJu7) | 2:51 |
-| 64 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 |
-| 65 | [Amor Tóxico](https://open.spotify.com/track/7hxfaH77Qepfk8ARHzSp2z) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor Tóxico](https://open.spotify.com/album/0wGToLsV8vdaavtTQiPcUF) | 4:07 |
+| 64 | [Amor Tóxico](https://open.spotify.com/track/7hxfaH77Qepfk8ARHzSp2z) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor Tóxico](https://open.spotify.com/album/0wGToLsV8vdaavtTQiPcUF) | 4:07 |
+| 65 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 |
 
-Snapshot ID: `ZodhsQAAAAA9MmEQ/VlvpFoXjmYosmyq`
+Snapshot ID: `Zq0VnwAAAAA9WQZhIznlTeVNbWu/fMPH`

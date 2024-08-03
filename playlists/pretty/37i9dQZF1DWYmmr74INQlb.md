@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > The most essential R&B songs from the '00s\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,681,959 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,682,433 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 36 | [I Wanna Know](https://open.spotify.com/track/1m2xMsxbtxv21Brome189p) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:56 |
 | 37 | [Un\-thinkable \(I'm Ready\)](https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:09 |
 | 38 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
-| 39 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 |
-| 40 | [Differences](https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt) | 4:25 |
+| 39 | [Differences](https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt) | 4:25 |
+| 40 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 |
 | 41 | [Be Without You \- Kendu Mix](https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Breakthrough](https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV) | 4:06 |
 | 42 | [He Wasn't Man Enough](https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:21 |
 | 43 | [Grind With Me](https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Bluestars](https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE) | 3:57 |
@@ -80,15 +80,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 70 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 |
 | 71 | [Promise](https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:27 |
 | 72 | [Dangerously In Love](https://open.spotify.com/track/0KFuXEdOp5QfIfxHR6TJSm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:53 |
-| 73 | [Butterflies](https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:39 |
-| 74 | [Happy](https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:22 |
+| 73 | [Happy](https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:22 |
+| 74 | [Butterflies](https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:39 |
 | 75 | [More Than A Woman](https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 3:49 |
 | 76 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
-| 77 | [Shawty Is Da Shit](https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:22 |
-| 78 | [I Should Have Cheated](https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 5:27 |
+| 77 | [I Should Have Cheated](https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 5:27 |
+| 78 | [Shawty Is Da Shit](https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:22 |
 | 79 | [Soldier \(feat\. T.I\. & Lil' Wayne\)](https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 5:25 |
-| 80 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
-| 81 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
+| 80 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
+| 81 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
 | 82 | [Just in Case](https://open.spotify.com/track/0YHBvFhfCJHyP5qfgtiX1o) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 4:23 |
 | 83 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
 | 84 | [Ice Box](https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE) | 4:16 |

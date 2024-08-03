@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/3WBDEQI5gMkdueEQqeQ2hn"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204869,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k"
+    },
+    {
+      "album": {
         "name": "AfterLife",
         "url": "https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ"
       },

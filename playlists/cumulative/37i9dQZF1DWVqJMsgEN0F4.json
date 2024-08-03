@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Cage The Elephant along with the hottest alternative songs right now.",
+  "description": "Jack White along with the hottest alternative songs right now.",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 208986,
       "name": "America In Your 20's",
       "url": "https://open.spotify.com/track/11Sd2Py9o6kDgdf6ivQZL7"
@@ -2398,6 +2398,24 @@
       "duration_ms": 192857,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e"
+    },
+    {
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/0Fg9GTE8wRg3bGirHuiduy"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211509,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/2NgvsclHyE5KaOVSxJxPTu"
     },
     {
       "album": {
@@ -5128,10 +5146,32 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 187609,
       "name": "Leave a Light On (Talk Away The Dark)",
       "url": "https://open.spotify.com/track/0b6fNjbiW4uF0W01GAfRVg"
+    },
+    {
+      "album": {
+        "name": "Leave a Light On (Talk Away The Dark)",
+        "url": "https://open.spotify.com/album/6Rhl0PXrNpvezhUrwXZnBa"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Leave a Light On (Talk Away The Dark)",
+      "url": "https://open.spotify.com/track/05N2CVEkUbEd0slHLapdER"
     },
     {
       "album": {
@@ -5240,7 +5280,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 177475,
       "name": "Like I Say (I runaway)",
       "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
@@ -8342,7 +8382,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 153746,
       "name": "Scared",
       "url": "https://open.spotify.com/track/0pyoALipqEy5mQ0RN4UAsI"
@@ -8674,6 +8714,24 @@
       "duration_ms": 168676,
       "name": "Sick of U (with Oliver Tree)",
       "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
+    },
+    {
+      "album": {
+        "name": "Aghori Mhori Mei",
+        "url": "https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174557,
+      "name": "Sighommi",
+      "url": "https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg"
     },
     {
       "album": {
@@ -9247,6 +9305,28 @@
     },
     {
       "album": {
+        "name": "Super Breath",
+        "url": "https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ"
+      },
+      "artists": [
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Super Breath",
+      "url": "https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh"
+    },
+    {
+      "album": {
         "name": "Superbloodmoon (feat. d4vd)",
         "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
       },
@@ -9702,6 +9782,24 @@
       "duration_ms": 191823,
       "name": "Tek It",
       "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
+    },
+    {
+      "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "That's How I'm Feeling",
+      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
     {
       "album": {
@@ -11372,7 +11470,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 255438,
       "name": "Weak In Your Light",
       "url": "https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq"

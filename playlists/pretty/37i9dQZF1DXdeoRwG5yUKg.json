@@ -1,13 +1,29 @@
 {
   "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
-  "num_followers": 93243,
+  "num_followers": 93272,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZodvwAAAAAC4vK7ZXix8T4EG2yDcFB68",
+  "snapshot_id": "ZqxZwAAAAADohZ1UQQz6mXD9Mvq/la+Y",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "So Afraid Of Losing You Again (Cover)",
+        "url": "https://open.spotify.com/album/1JNdCq5mTHHn3K3RIlGabD"
+      },
+      "artists": [
+        {
+          "name": "Danielia Cotton",
+          "url": "https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t"
+        }
+      ],
+      "duration_ms": 252820,
+      "name": "So Afraid of Losing You Again - Cover",
+      "url": "https://open.spotify.com/track/0eHekxtEusjXpOBB0glzdx"
+    },
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
@@ -755,26 +771,6 @@
       "duration_ms": 230386,
       "name": "Me to You",
       "url": "https://open.spotify.com/track/2XBzszqFztAByWUJ82MzKq"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Something To Lose/Better Than You Want",
-        "url": "https://open.spotify.com/album/1palVaI8ZlhKqztsGqSEB7"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        },
-        {
-          "name": "Amy Helm",
-          "url": "https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "Something To Lose",
-      "url": "https://open.spotify.com/track/2m1CK247MhzvfuX3DiBo00"
     },
     {
       "added_at": "2020-11-05 20:25:04",

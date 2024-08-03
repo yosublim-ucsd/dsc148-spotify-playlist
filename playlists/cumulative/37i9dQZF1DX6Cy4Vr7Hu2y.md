@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: KISS OF LIFE\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-416 songs - 22 hr 53 min
+417 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [I Don't Want](https://open.spotify.com/track/3aNsBkmdh6MO8UkLd42BUA) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 3:43 | 2022-03-29 | 2022-04-20 |
 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 | 2023-09-11 | 2024-03-22 |
 | [I want to see you again](https://open.spotify.com/track/1kVjixoK9haTO1NxlBf6hh) | [Kriesha Chu](https://open.spotify.com/artist/3zlxVfcuV4nPjcvTvlPWmZ) | [I want to see you again](https://open.spotify.com/album/2t5dRThQrrFF6nEBKYQ4gj) | 3:21 | 2021-11-21 | 2022-07-22 |
+| [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 | 2024-08-02 |  |
 | [ICON](https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 2:56 | 2021-11-21 | 2022-03-08 |
 | [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 | 2022-10-12 | 2023-07-06 |
 | [Illusion](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 3:15 | 2022-08-18 |  |
@@ -264,7 +265,7 @@
 | [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 | 2022-01-19 | 2022-07-28 |
 | [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 | 2022-07-07 | 2024-04-19 |
 | [PLAYING WITH FIRE](https://open.spotify.com/track/5ANbXf5qR48a4jfFnSq80w) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/1Ovk2wzDGAGYVeHdPj8Eoe) | 3:17 | 2021-11-21 | 2022-07-29 |
-| [POM POM POM](https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [UNFRAMED](https://open.spotify.com/album/09fRNZvZnqJqm7024Sa7uP) | 3:25 | 2024-06-21 |  |
+| [POM POM POM](https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [UNFRAMED](https://open.spotify.com/album/09fRNZvZnqJqm7024Sa7uP) | 3:25 | 2024-06-21 | 2024-08-03 |
 | [Pool Party\(Rollin’ right now\)](https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:00 | 2022-06-18 | 2022-06-20 |
 | [POP](https://open.spotify.com/track/2FzMEX0nP9tFd6phID2tm8) | [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [POP](https://open.spotify.com/album/1ZMNqhcar5rjEgjWZ6WFv1) | 3:14 | 2022-06-18 | 2022-07-05 |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-24 |  |

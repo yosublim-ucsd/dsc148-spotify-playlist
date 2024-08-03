@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 
 ### [This Is Yeah Yeah Yeahs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2h0PGU)
 
-> This is Yeah Yeah Yeahs。アーティストの代表曲をひとつのプレイリストに。
+> This is Yeah Yeah Yeahs\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,451 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,460 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 17 | [Cheated Hearts](https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:58 |
 | 18 | [Blacktop](https://open.spotify.com/track/7qcfqmg6Zf1uwdlVR2ocpP) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:23 |
 | 19 | [Rich](https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:36 |
-| 20 | [Down Boy](https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 3:53 |
+| 20 | [Despair](https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:48 |
 | 21 | [Way Out](https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 2:51 |
 | 22 | [Different Today](https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:27 |
 | 23 | [Black Tongue](https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:59 |
-| 24 | [Despair](https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:48 |
+| 24 | [Down Boy](https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 3:53 |
 | 25 | [Phenomena](https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 4:10 |
 | 26 | [Lovebomb](https://open.spotify.com/track/2YFSU2cMrGevlkNG5J7rOd) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 5:06 |
 | 27 | [Runaway](https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 5:13 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 50 | [10 x 10](https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 3:44 |
 | 51 | [Mystery Girl](https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:57 |
 
-Snapshot ID: `Zql+gAAAAABqAg8xVt2r/4AXRMJu0m5L`
+Snapshot ID: `ZqrQAAAAAADNbcntH1xPCPJE6ogji88U`

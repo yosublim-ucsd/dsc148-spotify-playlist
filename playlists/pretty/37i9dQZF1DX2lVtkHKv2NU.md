@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > Fer Vega nos comparte sus canciones favoritas para enamorarse en verano 🩷
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,913 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,854 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 44 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
 | 45 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 46 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
-| 47 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 |
-| 48 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 47 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 48 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 |
 | 49 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
 | 50 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,358 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,356 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 |
 | 2 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 |
-| 3 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 |
-| 4 | [Can You Feel The Love Tonight](https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [My Dream](https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA) | 2:10 |
-| 5 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
+| 3 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
+| 4 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 |
+| 5 | [Can You Feel The Love Tonight](https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [My Dream](https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA) | 2:10 |
 | 6 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 |
 | 7 | [Beneath your Beutiful](https://open.spotify.com/track/4vWbR3IiMfIbZ3xWh2zpYH) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 3:44 |
 | 8 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 18 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 |
 | 19 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Yoga Savasana](https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
 | 20 | [Petals](https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1) | [Floriscope](https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw) | [Petals](https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L) | 2:37 |
-| 21 | [Sentiment](https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9) | [Sufi Sheman](https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok) | [Sentiment](https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w) | 2:10 |
-| 22 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 |
+| 21 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 |
+| 22 | [Sentiment](https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9) | [Sufi Sheman](https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok) | [Sentiment](https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w) | 2:10 |
 | 23 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
 | 24 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 |
 | 25 | [This night](https://open.spotify.com/track/7DtluO7XUoL5wf2imEgkXl) | [Leny Bhoelai](https://open.spotify.com/artist/1b8ShuRcCfZswFuIjEWsvS) | [This night](https://open.spotify.com/album/4wEvwj51552ftkdHoXQm1G) | 3:10 |

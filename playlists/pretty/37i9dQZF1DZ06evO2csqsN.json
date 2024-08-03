@@ -1,12 +1,12 @@
 {
-  "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 29299,
+  "description": "This is Latto. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 29305,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADGEybi9YXkKfZX5cu5eZo5",
+  "snapshot_id": "ZqrQAAAAAAC/scMGGzAvPMh60l4Fr9jZ",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
         "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 207000,
       "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
       "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Big Mama",
-      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wet (feat. Latto) [Remix]",
-        "url": "https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 211917,
-      "name": "Wet (feat. Latto) - Remix",
-      "url": "https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
         "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 161538,
       "name": "Sex Lies (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wet (feat. Latto) [Remix]",
+        "url": "https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 211917,
+      "name": "Wet (feat. Latto) - Remix",
+      "url": "https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 163481,
       "name": "Live My Best Life (with Snoop Dogg & Latto)",
       "url": "https://open.spotify.com/track/7gqlF5gGTO4aSZV2HPkYwm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
       "added_at": null,

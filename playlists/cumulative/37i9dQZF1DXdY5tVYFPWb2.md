@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-847 songs - 2 day 7 hr 45 min
+848 songs - 2 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [eden](https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ちがう](https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO) | 3:50 | 2023-12-12 |  |
 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 | 2022-05-24 |  |
 | [ENJOY THE RIDE](https://open.spotify.com/track/68yPKpoph3amKSGRZLXlkf) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy), [Neil and Iraiza](https://open.spotify.com/artist/6rAA6xJe1O2ubeZj6xIB2y), [ALL STARS](https://open.spotify.com/artist/1bNTB1MJpFa6LauIlZCInr) | [ENJOY THE RIDE](https://open.spotify.com/album/7IbyAfAKOMdzWQXLMTkMFP) | 3:21 | 2024-01-09 | 2024-01-24 |
+| [enough](https://open.spotify.com/track/0pfAanhCBM7nojn0ePAA3M) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [enough](https://open.spotify.com/album/7D3xyt32oJZM7bOnkTnYqI) | 4:42 | 2024-07-30 |  |
 | [Epiphany](https://open.spotify.com/track/1ccVm2eDAQdHB2HYN0vVyh) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Epiphany](https://open.spotify.com/album/7FG8YlRonpJV9JahGdObsx) | 4:12 | 2023-11-14 | 2023-12-14 |
 | [ERAM](https://open.spotify.com/track/4QDkX55CUmspPJXIUHD1wC) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [ERAM](https://open.spotify.com/album/2GmQJ80lnc8jpOfhHqwcOC) | 3:40 | 2022-05-31 | 2022-06-08 |
 | [error](https://open.spotify.com/track/3uvlV1OsLs1MzJDO7HdI3y) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Bimi](https://open.spotify.com/artist/5iwvrALwQlyajHU3vcwAIf), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [error](https://open.spotify.com/album/5D1RTl6tH5l0ZoiQoztNdx) | 3:13 | 2022-05-24 | 2022-07-06 |
@@ -583,7 +584,7 @@
 | [「サイレント、幻」](https://open.spotify.com/track/4b26gcDNgvu042KWwCEw2D) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [「サイレント、幻」](https://open.spotify.com/album/41ifT8WylRVmPJ8R91TeCR) | 4:37 | 2023-02-07 | 2023-03-08 |
 | [あぁ今夜](https://open.spotify.com/track/3asGK7ycXJC1HtcvewMOG7) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [あぁ今夜](https://open.spotify.com/album/7BX56jR6zhj6mGmGtIqQ1o) | 4:00 | 2022-08-02 | 2022-08-10 |
 | [あいつのLIFE](https://open.spotify.com/track/6BA4MNy5ADPO4A65Cgi3RM) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [Musica Popular Japonesa](https://open.spotify.com/album/01NUYwN3OhNLqkKaDrTy2M) | 4:28 | 2022-11-22 | 2022-12-14 |
-| [あなたはトリコ](https://open.spotify.com/track/2gkYR4SyJu4TDHz8r39B7y) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [あなたはトリコ](https://open.spotify.com/album/6FceyUYmiyCgs67TWi3OhA) | 4:45 | 2024-04-23 |  |
+| [あなたはトリコ](https://open.spotify.com/track/2gkYR4SyJu4TDHz8r39B7y) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [あなたはトリコ](https://open.spotify.com/album/6FceyUYmiyCgs67TWi3OhA) | 4:45 | 2024-04-23 | 2024-08-03 |
 | [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 | 2022-05-24 | 2024-06-27 |
 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 |  |
 | [あらわれないで](https://open.spotify.com/track/64SO6pPvPRA1MrdyepGx1p) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:57 | 2024-05-14 | 2024-07-31 |

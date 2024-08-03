@@ -4,7 +4,7 @@
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-369 songs - 22 hr 52 min
+370 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2023-09-12 |  |
 | [Lean On \(feat\. MØ & DJ Snake\)](https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 2:56 | 2023-09-12 |  |
 | [Let Her Go](https://open.spotify.com/track/5rEvuW4YhwobKwGL1HPrXA) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6WBDLlICqs6YmZPBQJKsKM) | 4:12 | 2023-09-12 | 2023-11-10 |
+| [let's pretend we're numb](https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [let's pretend we're numb](https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V) | 1:20 | 2024-08-02 |  |
 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 | 2023-09-12 |  |
 | [Light It Up \(feat\. Nyla & Fuse ODG\) \[Remix\]](https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 2:46 | 2023-09-12 |  |
 | [Lights \- Single Version](https://open.spotify.com/track/7gUpO6td4OOnu0Lf9vhcIV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:31 | 2023-09-12 |  |

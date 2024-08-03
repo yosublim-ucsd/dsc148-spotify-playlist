@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 202400,
       "name": "About Me",
       "url": "https://open.spotify.com/track/51XoldrreNOGQzUshH9rxh"
@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172506,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
+    },
+    {
+      "album": {
         "name": "Like A Lesson",
         "url": "https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx"
       },
@@ -1576,6 +1594,24 @@
       "duration_ms": 219346,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
+    },
+    {
+      "album": {
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258939,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
     },
     {
       "album": {
@@ -2181,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Pink Cheetah Print Slip",
+        "url": "https://open.spotify.com/album/4gqxim6w1bqZSNOjIJPP6s"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107337,
+      "name": "Pink Cheetah Print Slip",
+      "url": "https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl"
+    },
+    {
+      "album": {
         "name": "Pretty Vicious",
         "url": "https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8"
       },
@@ -2300,7 +2354,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 173028,
       "name": "Run Run Run",
       "url": "https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN"
@@ -3244,7 +3298,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 226680,
       "name": "What Now",
       "url": "https://open.spotify.com/track/1g8becOwXRFEkYukY94L99"

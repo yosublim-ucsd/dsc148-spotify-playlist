@@ -5500,7 +5500,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 192727,
       "name": "Flooded The Face",
       "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
@@ -10073,6 +10073,24 @@
     },
     {
       "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
+    },
+    {
+      "album": {
         "name": "My Friends (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW"
       },
@@ -10938,6 +10956,24 @@
       "duration_ms": 90760,
       "name": "on one tonight",
       "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
+    },
+    {
+      "album": {
+        "name": "On Up",
+        "url": "https://open.spotify.com/album/3YLwQzaO1nUO6E4aMFTt7c"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150763,
+      "name": "On Up",
+      "url": "https://open.spotify.com/track/7k0QYUgeKHmNuroFKUbQbw"
     },
     {
       "album": {

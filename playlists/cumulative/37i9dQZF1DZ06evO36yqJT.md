@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-82 songs - 6 hr 6 min
+83 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Prayer Changes Things](https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 4:59 | 2024-01-11 |  |
 | [Prayer Changes Things](https://open.spotify.com/track/67wseMeCcgKzn4mhQOPBUC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 4:59 | 2023-05-12 | 2024-01-12 |
 | [Sailin' On the Sea of Your Love](https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Sailin'](https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq) | 4:09 | 2023-05-12 |  |
-| [Satan, We're Gonna Tear Your Kingdom Down](https://open.spotify.com/track/6Dr0lUGOB35TMDetHWds1b) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Greenleaf \(Gospel Companion Soundtrack, Vol\. 1\)](https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ) | 4:08 | 2023-05-12 |  |
+| [Satan, We're Gonna Tear Your Kingdom Down](https://open.spotify.com/track/0wgHoxZ4UnCQwEszz2vTZk) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [He Touched Me](https://open.spotify.com/album/3A6EiBRp7ZwUMcMVflxl6a) | 3:39 | 2024-08-03 |  |
+| [Satan, We're Gonna Tear Your Kingdom Down](https://open.spotify.com/track/6Dr0lUGOB35TMDetHWds1b) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Greenleaf \(Gospel Companion Soundtrack, Vol\. 1\)](https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ) | 4:08 | 2023-05-12 | 2024-08-03 |
 | [Satan, You're a Liar](https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:50 | 2023-05-12 |  |
 | [Steal Away to Jesus](https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ) | [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Heart to Yours](https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS) | 3:27 | 2023-05-12 |  |
 | [Strong Man](https://open.spotify.com/track/226jnN4L43ACMq1CdP96py) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 5:40 | 2023-05-12 |  |

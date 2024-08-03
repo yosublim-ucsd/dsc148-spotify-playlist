@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-389 songs - 21 hr 34 min
+390 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Dizzy](https://open.spotify.com/track/1nosxRR4SgRdgqjDdKXYH5) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Dizzy](https://open.spotify.com/album/4MFH523922WoxgMJl5E5Qv) | 3:04 | 2022-10-14 | 2024-02-24 |
 | [Do Better](https://open.spotify.com/track/7xAenjsRQHKDkcduhm1p4C) | [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E), [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [Do Better](https://open.spotify.com/album/4VN9EBrqwRK6LRz4wBaVuO) | 3:40 | 2022-10-14 | 2022-10-29 |
 | [Do It](https://open.spotify.com/track/7qrug3BPDoNHcWphzDywEL) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Have a Seat](https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ) | 3:01 | 2022-01-19 | 2022-07-26 |
-| [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 |  |
+| [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 | 2024-08-03 |
 | [Don't Overthink It](https://open.spotify.com/track/5dMYQTPpg1NaSDFaorUfnK) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Tasjan! Tasjan! Tasjan!](https://open.spotify.com/album/28OiUhh3Dl2HtgPOF5BFPg) | 4:09 | 2022-01-19 | 2023-04-22 |
 | [Don't Stop the Car](https://open.spotify.com/track/72OrO3uJtMEGRlPyKLogvk) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:39 | 2023-02-24 | 2024-03-22 |
 | [Don't Worry \(feat\. Ink\)](https://open.spotify.com/track/4xR2Sd5FsWIXG31JZ8VFgF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 6:41 | 2022-01-19 | 2023-04-29 |
@@ -372,6 +372,7 @@
 | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:08 | 2022-06-03 | 2024-02-17 |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-03 | 2022-09-26 |
 | [we'll be fine](https://open.spotify.com/track/7KKamdf8oLVz1eFcNRjvnq) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we'll be fine](https://open.spotify.com/album/6vLZ785JdIDq7VO3hVX6at) | 4:22 | 2021-10-26 | 2022-01-20 |
+| [What a Day](https://open.spotify.com/track/5jDqkwSr9E0HWUasKwxFyh) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [What a Day](https://open.spotify.com/album/1ugtQU3rTTss14ky8S4TVU) | 3:18 | 2024-08-02 |  |
 | [What Am I Here For](https://open.spotify.com/track/5ZuMDliM4Kf7XYybWxj2mP) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [What Am I Here For](https://open.spotify.com/album/0poQC8eFbBU7KU8yMeEUVX) | 3:15 | 2023-02-03 | 2024-03-22 |
 | [What Doesn’t Kill You Mutates and Tries Again](https://open.spotify.com/track/2AAelyYn8MafDdW5merUfD) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [What Doesn’t Kill You Mutates and Tries Again](https://open.spotify.com/album/3vrrjsR4sOTlg6StJET8xq) | 2:56 | 2022-10-07 | 2022-10-15 |
 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 | 2023-05-05 | 2024-01-27 |

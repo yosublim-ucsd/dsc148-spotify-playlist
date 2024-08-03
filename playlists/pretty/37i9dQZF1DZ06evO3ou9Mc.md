@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,420 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,551 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 49 | [Kick Him When He's Down](https://open.spotify.com/track/5r5pPZLoablansl2iYPohk) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition](https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3) | 3:16 |
 | 50 | [Jennifer Lost The War](https://open.spotify.com/track/1AeosetkVBmPqON7FkWSLu) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [The Offspring](https://open.spotify.com/album/39QzcBdUkrXWc7bhpW66p7) | 2:35 |
 
-Snapshot ID: `Zql+gAAAAAASCQl0eojpu1qzMSvZmO9O`
+Snapshot ID: `ZqrQAAAAAADlQDbQBtz4l+43u2uh0n3b`

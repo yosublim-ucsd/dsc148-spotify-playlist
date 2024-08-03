@@ -4,7 +4,7 @@
 
 > 
 
-1,559 songs - 3 day 12 hr 38 min
+1,562 songs - 3 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Burning Love](https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Critical Mass](https://open.spotify.com/artist/5anwTbhEWgbOnZUs2GbuB9) | [Burning Love](https://open.spotify.com/album/4QtKtnuiJlNiChWgdam1gP) | 3:39 | 2022-11-21 |  |
 | [BUSSIN](https://open.spotify.com/track/5kbchQrlxzXWwncaOcgAjm) | [Strictly Business](https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1) | [BUSSIN](https://open.spotify.com/album/1XCqwxumBYQoss3eTXz0Vr) | 2:30 | 2024-07-21 |  |
 | [But you like that](https://open.spotify.com/track/04uSax1A7LFgGPa797Axfm) | [PunisherDJ](https://open.spotify.com/artist/58fdt49XRhiPHzzrHFME6g), [MYTH](https://open.spotify.com/artist/1XL4fxBGQkPAlo07WU4jdI) | [But you like that](https://open.spotify.com/album/7zCBka2R8uCDWCOX3x0O2I) | 1:57 | 2023-02-07 |  |
+| [By Myself](https://open.spotify.com/track/7t4sipv0D4LhpnusHF9iIK) | [Zetamale](https://open.spotify.com/artist/7kDNYbq3Sz7yBk95R5wmR4) | [By Myself EP](https://open.spotify.com/album/6yU8UbfJqumEl8A9HBRhmq) | 4:15 | 2024-08-02 |  |
 | [By Your Side](https://open.spotify.com/track/3oxnQVhsBICZBtZXhjVoko) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6) | [By Your Side](https://open.spotify.com/album/0tW1vUbaz9OC3k6qlYccju) | 3:19 | 2023-03-21 |  |
 | [Call Back](https://open.spotify.com/track/2a24hhEKIiEVdm8yQfmED5) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [Call Back](https://open.spotify.com/album/75ZnlzkmfvQnbo4juWYHwx) | 3:18 | 2023-02-12 |  |
 | [CALL ME](https://open.spotify.com/track/2jIPVp1oVgpKuq3OAEj3xt) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [CALL ME](https://open.spotify.com/album/1tsdEpLlPCSuiK8nNe6mf5) | 2:33 | 2024-02-02 |  |
@@ -1242,6 +1243,7 @@
 | [Start Walking](https://open.spotify.com/track/0ayvGN30akgA6KsZZrBkLE) | [Vernex](https://open.spotify.com/artist/5OaeD9pHLRaEXNf6qZtgmC), [Sandy Warez](https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM), [Kratox](https://open.spotify.com/artist/1tEULdMAvcimepmjfUkDCO) | [Start Walking](https://open.spotify.com/album/3XsEkFd1pdEpjLfjTHwTfi) | 2:58 | 2024-01-26 |  |
 | [Stasis](https://open.spotify.com/track/4s219wq1R6dmIBQsbINnzl) | [Minamotoya](https://open.spotify.com/artist/1U1YnsPM35df5p4slCVSpp), [motoko](https://open.spotify.com/artist/2dS6BCwERahGzJzNE36kca) | [Hardcore Syndrome 3](https://open.spotify.com/album/0VEmvSB6UQZZmQ3U4dUHVh) | 4:58 | 2024-05-03 |  |
 | [STAY DOWN](https://open.spotify.com/track/3iPxsDR2fAMsX8LLUchz2U) | [XELOR](https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf) | [STAY DOWN](https://open.spotify.com/album/4yYP7GwMj4KB6EhmAorG1w) | 2:49 | 2023-06-09 |  |
+| [Stay High](https://open.spotify.com/track/5elGOS5duBySXvtTrqxD6y) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh) | [Stay High](https://open.spotify.com/album/0HqYKHI0cJOxBYkqooaMBR) | 2:20 | 2024-08-02 |  |
 | [Stay Tonight \- Extended Mix](https://open.spotify.com/track/5u1enW64UeniKZQuFcglut) | [Darren Tyler](https://open.spotify.com/artist/45MTI1GXLIefJC6tgYFMzb), [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Stay Tonight](https://open.spotify.com/album/6vGcQMxDaFhCgX4dmLLPE2) | 3:29 | 2023-10-19 |  |
 | [Stay With Me Tonight](https://open.spotify.com/track/6G6WHlhJq7wPOoyTDh1vHj) | [Madkat](https://open.spotify.com/artist/451lPjl3JgfqNwqoYiZCv8), [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs) | [Stay With Me Tonight](https://open.spotify.com/album/2gxd0LWy1EoXTKfwwCNdC7) | 5:11 | 2023-08-11 |  |
 | [Step By Step](https://open.spotify.com/track/4jsJfGlnvk287nUPHpXo2i) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Step By Step](https://open.spotify.com/album/0UAJBDPq8gzJ3bt7C2Tnmq) | 2:24 | 2024-06-08 |  |
@@ -1496,6 +1498,7 @@
 | [We Ignite](https://open.spotify.com/track/3PdQHt44xlYLjxKXDA759H) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [We Ignite](https://open.spotify.com/album/2y1hu0C9Po1IJwN4ZhOFKh) | 3:03 | 2023-10-03 |  |
 | [We Live for the Night](https://open.spotify.com/track/1aPDLIgrijgoKtZTXPx2BQ) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [We Live for the Night](https://open.spotify.com/album/4FZjK9Sjw0ehnMtcR7km9S) | 2:20 | 2023-08-07 |  |
 | [We Will Rise](https://open.spotify.com/track/4GMvxtkxpfCOupmyH9kA8E) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [Doris](https://open.spotify.com/artist/6GMuNB7yEleCIuMyk0qskf) | [We Will Rise](https://open.spotify.com/album/0ozpy9yeRaNSe8XPX4xhd6) | 3:12 | 2023-09-01 |  |
+| [WEEKEND](https://open.spotify.com/track/3RIHeko0AomqwG0capWJkT) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [WEEKEND](https://open.spotify.com/album/74yxOLteYsb8zILT9XVSfI) | 2:31 | 2024-08-02 |  |
 | [Weekend Offenders](https://open.spotify.com/track/7go0JqxmkRFZoQxvmnjHun) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Samynator](https://open.spotify.com/artist/0stG6nm18OkbJlJHWHxrPw) | [Weekend Offenders](https://open.spotify.com/album/6samftYEZmAZ7MYcY6hqUx) | 2:35 | 2024-03-08 |  |
 | [Weight Up](https://open.spotify.com/track/6wgf8NoJh2TKoRUNAEEHUk) | [Spearbreak](https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE) | [Weight Up](https://open.spotify.com/album/4IFipqjGWYCKLBn6cdUbGI) | 3:31 | 2024-05-15 |  |
 | [Welcome To My Nightmare](https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Welcome To My Nightmare](https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui) | 3:27 | 2023-09-22 |  |

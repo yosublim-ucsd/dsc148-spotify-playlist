@@ -4503,6 +4503,24 @@
     },
     {
       "album": {
+        "name": "Gonna Kill My Way",
+        "url": "https://open.spotify.com/album/0ZUeNzry9q22SNXQ88xIgD"
+      },
+      "artists": [
+        {
+          "name": "Eddy Black",
+          "url": "https://open.spotify.com/artist/5XCoXE7RaDvuyMCghkdmxK"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230697,
+      "name": "Gonna Kill My Way",
+      "url": "https://open.spotify.com/track/3IpWLISMLR0JMuLgXtm8nG"
+    },
+    {
+      "album": {
         "name": "Good God (Sunnery James & Ryan Marciano Remix)",
         "url": "https://open.spotify.com/album/0RbpWANRg0P5mRBrDgSMF9"
       },
@@ -6942,6 +6960,32 @@
       "duration_ms": 170551,
       "name": "Like This",
       "url": "https://open.spotify.com/track/0ivA7bMXyVNFaQOceVI8EX"
+    },
+    {
+      "album": {
+        "name": "Lindos Ojos",
+        "url": "https://open.spotify.com/album/6HB0vckn7uVRysypgXWP3R"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202204,
+      "name": "Lindos Ojos",
+      "url": "https://open.spotify.com/track/0JbwPMowbtRAeN5JGMWjXB"
     },
     {
       "album": {

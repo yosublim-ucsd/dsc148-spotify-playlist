@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Céline Dion
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,891 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,918 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 19 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:43 |
 | 20 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
 | 21 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 |
-| 22 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
-| 23 | [J'ai demandé à la lune](https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Paradize](https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4) | 3:29 |
-| 24 | [beau\-papa](https://open.spotify.com/track/5wXkbtZO1HsOQ1P75zi35p) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [N'attendons pas](https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y) | 3:17 |
-| 25 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'eux \- Édition 15ème Anniversaire](https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk) | 3:27 |
+| 22 | [J'ai demandé à la lune](https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Paradize](https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4) | 3:29 |
+| 23 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
+| 24 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'eux \- Édition 15ème Anniversaire](https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk) | 3:27 |
+| 25 | [beau\-papa](https://open.spotify.com/track/5wXkbtZO1HsOQ1P75zi35p) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [N'attendons pas](https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y) | 3:17 |
 | 26 | [Sous le vent](https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 3:31 |
 | 27 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
 | 28 | [La lettre](https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:17 |

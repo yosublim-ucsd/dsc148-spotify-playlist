@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Cults",
+  "description": "Explore all things indie rock right now. Featuring music from Soccer Mommy",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -134,6 +134,24 @@
       "duration_ms": 154186,
       "name": "19",
       "url": "https://open.spotify.com/track/4eXjrOYY9hxmJkS0hkhZxQ"
+    },
+    {
+      "album": {
+        "name": "1st of the year",
+        "url": "https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207429,
+      "name": "1st of the year",
+      "url": "https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0"
     },
     {
       "album": {
@@ -3478,7 +3496,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 204469,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
@@ -5436,7 +5454,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 207911,
       "name": "cold medicine",
       "url": "https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2"
@@ -5598,7 +5616,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 234563,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS"
@@ -7068,6 +7086,24 @@
       "duration_ms": 126246,
       "name": "Difluoroethane",
       "url": "https://open.spotify.com/track/6wqlEKnSMVq37ZipY04pMp"
+    },
+    {
+      "album": {
+        "name": "Dig Your Man",
+        "url": "https://open.spotify.com/album/7rKNpL7tkiKJmCklMkzvSA"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183857,
+      "name": "Dig Your Man",
+      "url": "https://open.spotify.com/track/0I2wfSfWHOu5vn1LyPN67P"
     },
     {
       "album": {
@@ -11869,6 +11905,24 @@
     },
     {
       "album": {
+        "name": "This Could Be Everything",
+        "url": "https://open.spotify.com/album/1blx6l14QLdPb6rDzzpbov"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121162,
+      "name": "Hotel Toothbrush",
+      "url": "https://open.spotify.com/track/1MagY2liSWTngL3oEJ9TE0"
+    },
+    {
+      "album": {
         "name": "Hotel Window",
         "url": "https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm"
       },
@@ -11934,7 +11988,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 275346,
       "name": "How it Ends",
       "url": "https://open.spotify.com/track/0GcUVARFg3JrhbA8cUuoQU"
@@ -12828,7 +12882,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195431,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0rit0AYEYKJ5mn86WDXM4p"
@@ -14017,6 +14071,24 @@
     },
     {
       "album": {
+        "name": "Joker Lips",
+        "url": "https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
+    },
+    {
+      "album": {
         "name": "Jolie",
         "url": "https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf"
       },
@@ -14104,6 +14176,24 @@
       "duration_ms": 214497,
       "name": "Just Before The Morning",
       "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
+    },
+    {
+      "album": {
+        "name": "Just Like Sunday",
+        "url": "https://open.spotify.com/album/5kPlc6pA23jWDAc3xSIWNn"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "Just Like Sunday",
+      "url": "https://open.spotify.com/track/7F9E8G4iLUz3eJ1kZrdqZ3"
     },
     {
       "album": {
@@ -15753,6 +15843,24 @@
     },
     {
       "album": {
+        "name": "M",
+        "url": "https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "M",
+      "url": "https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj"
+    },
+    {
+      "album": {
         "name": "Campanita",
         "url": "https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W"
       },
@@ -17376,7 +17484,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
@@ -19786,7 +19894,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179775,
       "name": "Power",
       "url": "https://open.spotify.com/track/0sg8OUgbxnOqBJ0ZFFTDxr"
@@ -20679,6 +20787,24 @@
     },
     {
       "album": {
+        "name": "Riff Before Work",
+        "url": "https://open.spotify.com/album/47aFetVSgGTuupxJi49bNP"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166576,
+      "name": "Riff Before Work",
+      "url": "https://open.spotify.com/track/0wFpbcKr0QhZjmobFZMBNz"
+    },
+    {
+      "album": {
         "name": "Right Here, For Now",
         "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
       },
@@ -21464,7 +21590,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179506,
       "name": "Set the Stage",
       "url": "https://open.spotify.com/track/1i01FvuiITNlLIvVZPQhgI"
@@ -21584,6 +21710,24 @@
       "duration_ms": 246536,
       "name": "Sex Sells",
       "url": "https://open.spotify.com/track/6ShHxD0hoJSXajmcpQ5Ri8"
+    },
+    {
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
     },
     {
       "album": {
@@ -21746,7 +21890,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 278226,
       "name": "She's Leaving You",
       "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
@@ -21948,6 +22092,24 @@
       "duration_ms": 230253,
       "name": "Sick",
       "url": "https://open.spotify.com/track/4QL7eo4hZ7ZTk4mcbPZG4N"
+    },
+    {
+      "album": {
+        "name": "Sick Of The Blues",
+        "url": "https://open.spotify.com/album/300fGC25ykyxbLrazATeMP"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203769,
+      "name": "Sick Of The Blues",
+      "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
     },
     {
       "album": {
@@ -25087,6 +25249,24 @@
     },
     {
       "album": {
+        "name": "The L",
+        "url": "https://open.spotify.com/album/3keviBG3OFftoYA2gJRIJl"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184900,
+      "name": "The L",
+      "url": "https://open.spotify.com/track/5puvpMBkEqqj1CacF1kxkS"
+    },
+    {
+      "album": {
         "name": "The Late Show (feat. Jay Som)",
         "url": "https://open.spotify.com/album/2D4shyi2oN3QYSnwPTmTP7"
       },
@@ -26146,6 +26326,24 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
+    },
+    {
+      "album": {
+        "name": "Too Easy",
+        "url": "https://open.spotify.com/album/60lePTuvMcyMMCMe3opZ5Y"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207569,
+      "name": "Too Easy",
+      "url": "https://open.spotify.com/track/6pvaDJcYpJmiFoZYs7Yf2H"
     },
     {
       "album": {
@@ -27396,7 +27594,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 255483,
       "name": "Wasted (YTYKS)",
       "url": "https://open.spotify.com/track/2qSAQ9xQDQUgNduZU4IXbt"
@@ -28312,7 +28510,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 178933,
       "name": "Wink",
       "url": "https://open.spotify.com/track/5IgYoIjoRxfSuAr436g029"

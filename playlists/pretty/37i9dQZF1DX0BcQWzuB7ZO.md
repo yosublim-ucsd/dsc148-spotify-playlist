@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with Adam Port & Stryv
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,921,549 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,921,986 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 74 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |
 | 75 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
 
-Snapshot ID: `ZpCqQAAAAADBv0FEbp8AyB6PM525hYps`
+Snapshot ID: `ZqxZwAAAAABabDjfR04uQmAbohgudMWM`

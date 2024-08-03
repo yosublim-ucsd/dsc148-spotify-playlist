@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 11053,
+  "num_followers": 11057,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAQA8hnjYVxmxgpR2Zr+2kO",
+  "snapshot_id": "ZqrQAAAAAADkHl9YHMHyhZBRkVp+4oJa",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
+        "name": "Valley Of Trappers (feat. Sarkodie) [Remix]",
+        "url": "https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d"
       },
       "artists": [
         {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Juiczx",
+          "url": "https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e"
         }
       ],
-      "duration_ms": 129427,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
+      "duration_ms": 142876,
+      "name": "Valley Of Trappers (feat. Sarkodie) - Remix",
+      "url": "https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH"
     },
     {
       "added_at": null,
@@ -427,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
       },
       "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 187922,
-      "name": "LOYALTY",
-      "url": "https://open.spotify.com/track/5HVada5wfaycUQnf6OFZkI"
+      "duration_ms": 129427,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
     },
     {
       "added_at": null,
@@ -467,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
+      "duration_ms": 187922,
+      "name": "LOYALTY",
+      "url": "https://open.spotify.com/track/5HVada5wfaycUQnf6OFZkI"
     },
     {
       "added_at": null,
@@ -507,26 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Undress You",
-        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
       },
       "artists": [
         {
-          "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 213818,
-      "name": "Undress You",
-      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
     },
     {
       "added_at": null,
@@ -555,22 +555,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+        "name": "Undress You",
+        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
         },
         {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 273256,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5ixH9djj6liGfZB4scbjRF"
+      "duration_ms": 213818,
+      "name": "Undress You",
+      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
     },
     {
       "added_at": null,
@@ -591,6 +595,26 @@
       "duration_ms": 267660,
       "name": "Lucky (feat. Rudeboy)",
       "url": "https://open.spotify.com/track/6GT0hsZ50fyAHHdknAd314"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "duration_ms": 273256,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5ixH9djj6liGfZB4scbjRF"
     },
     {
       "added_at": null,
@@ -655,42 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boy Etiquette 102: Continuous Assessment",
-        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Burn My Cable II",
-      "url": "https://open.spotify.com/track/0X8sQJCQMgKZrfqOdfhSp7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Illuminati",
-      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Epistles of Mama",
         "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
       },
@@ -707,6 +695,22 @@
       "duration_ms": 207150,
       "name": "Odo Bi",
       "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Illuminati",
+      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
     },
     {
       "added_at": null,
@@ -747,6 +751,26 @@
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boy Etiquette 102: Continuous Assessment",
+        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Burn My Cable II",
+      "url": "https://open.spotify.com/track/0X8sQJCQMgKZrfqOdfhSp7"
     },
     {
       "added_at": null,
@@ -811,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -831,22 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+        "name": "Tonga",
+        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
         },
         {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 205578,
-      "name": "Mewu (feat. Akwaboah)",
-      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
+      "duration_ms": 202346,
+      "name": "Tonga",
+      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
     },
     {
       "added_at": null,
@@ -887,26 +931,6 @@
       "duration_ms": 198000,
       "name": "Labadi (feat. King Promise)",
       "url": "https://open.spotify.com/track/4hlm377PiUfxf6kZ1lINWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tonga",
-        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Tonga",
-      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
     },
     {
       "added_at": null,
@@ -1047,26 +1071,6 @@
       "duration_ms": 175368,
       "name": "Bank Alert (feat. Sarkodie, Magnito, Rexxie) - Remix",
       "url": "https://open.spotify.com/track/2907hZ0CqhS6Yc18XEg4wi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oofeets",
-        "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Prince Bright",
-          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Oofeets",
-      "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
     }
   ],
   "unique_name": "This Is Sarkodie",

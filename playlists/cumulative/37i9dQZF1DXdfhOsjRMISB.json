@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country music to accompany you on the open road. Cover: Cody Johnson",
+  "description": "Country music to accompany you on the open road. Cover: Miranda Lambert",
   "name": "Country Drive",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
     },
     {
       "album": {
@@ -92,10 +110,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 221400,
       "name": "7500 OBO",
       "url": "https://open.spotify.com/track/7A4WmJcWx6KrVRfQ2CP8e7"
+    },
+    {
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "album": {
@@ -114,6 +150,42 @@
       "duration_ms": 220880,
       "name": "Ain't Always The Cowboy",
       "url": "https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS"
+    },
+    {
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "album": {
+        "name": "Family Ties",
+        "url": "https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX"
     },
     {
       "album": {
@@ -146,7 +218,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 224626,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
@@ -377,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Back Then Right Now",
+        "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201485,
+      "name": "Back Then Right Now",
+      "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
+    },
+    {
+      "album": {
         "name": "Back Then, Right Now",
         "url": "https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD"
       },
@@ -491,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Beautiful As You",
+        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163894,
+      "name": "Beautiful As You",
+      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+    },
+    {
+      "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
@@ -542,7 +650,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 178278,
       "name": "Beers And Sunshine",
       "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
@@ -810,10 +918,28 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 224333,
       "name": "Brown Eyes Baby",
       "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+    },
+    {
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183919,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J"
     },
     {
       "album": {
@@ -908,7 +1034,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183087,
       "name": "Can't Have Mine (Find You A Girl)",
       "url": "https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN"
@@ -1121,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Cowgirls (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
+    },
+    {
+      "album": {
         "name": "Cross Country",
         "url": "https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4"
       },
@@ -1172,6 +1320,24 @@
       "duration_ms": 179640,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
+    },
+    {
+      "album": {
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192693,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
     },
     {
       "album": {
@@ -1284,7 +1450,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 220120,
       "name": "Done",
       "url": "https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo"
@@ -1888,7 +2054,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 144533,
       "name": "Glad You Exist",
       "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
@@ -2040,6 +2206,24 @@
       "duration_ms": 231832,
       "name": "half of my hometown (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
     },
     {
       "album": {
@@ -2296,7 +2480,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 216533,
       "name": "Here Tonight",
       "url": "https://open.spotify.com/track/38nVuIj9mi5a8oopOJhSJk"
@@ -2552,7 +2736,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 222533,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
@@ -2653,6 +2837,28 @@
     },
     {
       "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -2748,7 +2954,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161103,
       "name": "I Know A Guy",
       "url": "https://open.spotify.com/track/2wAavjh84cV0tH4Pbcz0EF"
@@ -2810,6 +3016,28 @@
       "duration_ms": 171200,
       "name": "I Quit Drinking",
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "album": {
@@ -2980,7 +3208,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195013,
       "name": "If I Was a Cowboy",
       "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
@@ -3056,6 +3284,24 @@
       "duration_ms": 166800,
       "name": "It\u2019s \u2018Cause I Am",
       "url": "https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg"
+    },
+    {
+      "album": {
+        "name": "Jack and Diet Coke",
+        "url": "https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193399,
+      "name": "Jack and Diet Coke",
+      "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
     },
     {
       "album": {
@@ -3323,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Lies Lies Lies",
+        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198068,
+      "name": "Lies Lies Lies",
+      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+    },
+    {
+      "album": {
         "name": "Life With You",
         "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
       },
@@ -3586,7 +3850,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 238400,
       "name": "Made For You",
       "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
@@ -3702,7 +3966,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180616,
       "name": "Memory I Don't Mess With",
       "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
@@ -3724,6 +3988,28 @@
       "duration_ms": 172480,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
+    },
+    {
+      "album": {
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
       "album": {
@@ -3958,7 +4244,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 173533,
       "name": "Never Til Now",
       "url": "https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU"
@@ -4092,7 +4378,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 191360,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
@@ -4172,6 +4458,24 @@
       "duration_ms": 174146,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/0WVvn1HeAGVcnMnQcKPAQg"
+    },
+    {
+      "album": {
+        "name": "Old Dirt Roads",
+        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227891,
+      "name": "Old Dirt Roads",
+      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
     },
     {
       "album": {
@@ -4284,7 +4588,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 213718,
       "name": "One Mississippi",
       "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
@@ -4461,6 +4765,24 @@
     },
     {
       "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
+    {
+      "album": {
         "name": "Porch Light",
         "url": "https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA"
       },
@@ -4476,6 +4798,28 @@
       "duration_ms": 184949,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU"
+    },
+    {
+      "album": {
+        "name": "Pour Me A Drink",
+        "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195122,
+      "name": "Pour Me A Drink (Feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
     },
     {
       "album": {
@@ -4508,7 +4852,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 244797,
       "name": "Pretty Heart",
       "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
@@ -4742,7 +5086,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 197453,
       "name": "Settling Down",
       "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
@@ -4800,7 +5144,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
@@ -4890,7 +5234,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 187683,
       "name": "Single Saturday Night",
       "url": "https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU"
@@ -5128,7 +5472,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183680,
       "name": "Something's Gonna Kill Me",
       "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
@@ -5726,7 +6070,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 220567,
       "name": "The Thing That Wrecks You",
       "url": "https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I"
@@ -5787,6 +6131,24 @@
     },
     {
       "album": {
+        "name": "Think I\u2019m In Love With You",
+        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222800,
+      "name": "Think I'm In Love With You",
+      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
+    },
+    {
+      "album": {
         "name": "I'm Comin' Over",
         "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
       },
@@ -5802,7 +6164,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 218946,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V"
@@ -5933,6 +6295,24 @@
     },
     {
       "album": {
+        "name": "This Town's Been Too Good To Us",
+        "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "This Town's Been Too Good To Us",
+      "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
+    },
+    {
+      "album": {
         "name": "Thought You Should Know",
         "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
       },
@@ -5944,7 +6324,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 215571,
       "name": "Thought You Should Know",
       "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
@@ -6164,7 +6544,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 277659,
       "name": "wait in the truck (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP"
@@ -6755,6 +7135,42 @@
     },
     {
       "album": {
+        "name": "Wildflowers and Wild Horses",
+        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216573,
+      "name": "Wildflowers and Wild Horses (Single Version)",
+      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
+    },
+    {
+      "album": {
+        "name": "Wind Up Missin' You",
+        "url": "https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Wind Up Missin' You",
+      "url": "https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr"
+    },
+    {
+      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
       },
@@ -6788,7 +7204,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
@@ -6846,6 +7262,46 @@
       "duration_ms": 228186,
       "name": "Would You Go With Me",
       "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+    },
+    {
+      "album": {
+        "name": "Wranglers",
+        "url": "https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178196,
+      "name": "Wranglers",
+      "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
+    },
+    {
+      "album": {
+        "name": "you look like you love me (feat. Riley Green)",
+        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224280,
+      "name": "you look like you love me (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
     },
     {
       "album": {
@@ -6975,6 +7431,24 @@
     },
     {
       "album": {
+        "name": "Young Love & Saturday Nights",
+        "url": "https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195357,
+      "name": "Young Love & Saturday Nights",
+      "url": "https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY"
+    },
+    {
+      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -6990,6 +7464,24 @@
       "duration_ms": 211893,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
+    },
+    {
+      "album": {
+        "name": "shot in the dark",
+        "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182086,
+      "name": "your place",
+      "url": "https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo"
     },
     {
       "album": {

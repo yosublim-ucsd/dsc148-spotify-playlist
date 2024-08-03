@@ -2,9 +2,9 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country music that rocks\. Cover: HARDY
+> Country music that rocks\. Cover: A Thousand Horses
 
-368 songs - 21 hr 6 min
+369 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Drowning](https://open.spotify.com/track/22AYv6oubrOclu24nNux0M) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Drowning](https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF) | 4:48 | 2024-07-05 |  |
 | [Drunk Prayer](https://open.spotify.com/track/7w92AueIig6NWpM8kqAwMK) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Drunk Prayer](https://open.spotify.com/album/63JXCuKtwKdcwtZchH17Cb) | 3:21 | 2023-12-08 | 2024-03-09 |
 | [Even The Devil](https://open.spotify.com/track/0R5xOrUdw4bDHlaJ96bWYM) | [Murphy Elmore](https://open.spotify.com/artist/2xAybx0jf6AnUy9I0kO0g9) | [Even The Devil](https://open.spotify.com/album/2lMv82sDWSdhIcva2Wr47e) | 2:52 | 2024-01-05 |  |
-| [Everybody's Friend](https://open.spotify.com/track/4CjH87e1np3OkwlYQdGOmv) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Everybody's Friend](https://open.spotify.com/album/3sHPQGWO16wBCtaS2zZYOk) | 2:53 | 2024-02-23 |  |
+| [Everybody's Friend](https://open.spotify.com/track/4CjH87e1np3OkwlYQdGOmv) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Everybody's Friend](https://open.spotify.com/album/3sHPQGWO16wBCtaS2zZYOk) | 2:53 | 2024-02-23 | 2024-08-03 |
 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 | 2023-01-27 |  |
 | [Excuses](https://open.spotify.com/track/1nfwZ5Q7RBynXAnO1rTV3x) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 3:26 | 2023-12-08 | 2024-04-19 |
 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2021-11-01 | 2023-02-01 |
@@ -179,6 +179,7 @@
 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 | 2021-11-01 | 2024-08-01 |
 | [In Me I Trust](https://open.spotify.com/track/5sdjnLfLl7Xe8UZZ0d0G5f) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Nashville Nights](https://open.spotify.com/album/2ZtxYUnhLlOiDRFwScCtC3) | 3:15 | 2021-11-01 | 2022-05-07 |
 | [In My Head Again](https://open.spotify.com/track/4zgrxZPjYlIpvvZYY3xnO5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In My Head Again](https://open.spotify.com/album/43YBR5WHLqimx95qVDXquE) | 4:12 | 2024-02-23 |  |
+| [INSIGNIFICANT OTHER](https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Lance Vanley](https://open.spotify.com/artist/1WmI9NFp01PHRwNp5Z4K5A), [Sam Canty](https://open.spotify.com/artist/7H8CEzmUyWOH1y07gtNNSd) | [INSIGNIFICANT OTHER](https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y) | 3:27 | 2024-08-02 |  |
 | [It's Alright](https://open.spotify.com/track/2mi9QDPaqsQwqLSGWCBuLa) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [It's Alright](https://open.spotify.com/album/5Uk1gMahaWHFuSYrq38JZQ) | 3:56 | 2021-11-01 | 2022-07-09 |
 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 | 2022-09-30 | 2024-05-18 |
 | [Jealous Love \(feat\. John Osborne\)](https://open.spotify.com/track/3kzzepkRz1iIN0TVT8b5NP) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [John Osborne](https://open.spotify.com/artist/2ykJ3vU8SMONSbIyI2rmdF) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:31 | 2022-01-28 | 2022-07-09 |

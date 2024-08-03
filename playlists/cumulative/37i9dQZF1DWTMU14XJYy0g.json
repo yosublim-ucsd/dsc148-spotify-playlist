@@ -2403,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "JAZMINES",
+        "url": "https://open.spotify.com/album/5AaX07apcNQnIlouDBRJmK"
+      },
+      "artists": [
+        {
+          "name": "Terapia",
+          "url": "https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261398,
+      "name": "JAZMINES",
+      "url": "https://open.spotify.com/track/5stOSNyy1mDr9VKGM3Nsds"
+    },
+    {
+      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 220318,
       "name": "La Era Del Drag\u00f3n",
       "url": "https://open.spotify.com/track/0Vmb4M1Ianl3hxYOOwUUja"
@@ -4709,6 +4727,24 @@
     },
     {
       "album": {
+        "name": "Such A Witch",
+        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242186,
+      "name": "Such A Witch",
+      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
+    },
+    {
+      "album": {
         "name": "Suelto",
         "url": "https://open.spotify.com/album/1Mb36xDeCUR5xmgIEt869k"
       },
@@ -5448,7 +5484,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183592,
       "name": "X siempre",
       "url": "https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB"

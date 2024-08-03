@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,569 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,605 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 42 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
 | 43 | [Aloha](https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aloha](https://open.spotify.com/album/23T1akaF3cPN6Pp27JQ8vi) | 3:07 |
 | 44 | [costas de coral](https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [costas de coral](https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps) | 3:08 |
-| 45 | [chiquita suelta](https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [chiquita suelta](https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL) | 2:40 |
-| 46 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 |
+| 45 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 |
+| 46 | [chiquita suelta](https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [chiquita suelta](https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL) | 2:40 |
 | 47 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 |
 | 48 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 |
 | 49 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 86 | [Cumbia Reggae](https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Easy and Tropical Machine](https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26) | 3:56 |
 | 87 | [YO\-A\-O](https://open.spotify.com/track/522ebhSF4Bquf1OtekBokP) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Aurora](https://open.spotify.com/album/6PuvRbgClBhk71ZfODdmpp) | 2:00 |
 | 88 | [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 |
-| 89 | [Las 4:40](https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las 4:40](https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW) | 3:17 |
-| 90 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 |
+| 89 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 |
+| 90 | [Las 4:40](https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las 4:40](https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW) | 3:17 |
 | 91 | [Paradiso](https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Paradiso](https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv) | 3:01 |
 | 92 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 |
 | 93 | [Me Pierdo Contigo](https://open.spotify.com/track/4KRIHFy34UpHs8RauCwjWg) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [El Afán](https://open.spotify.com/album/3KNX1cziZujwIVFNU6YsyG) | 4:19 |
 | 94 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |
-| 95 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 |
-| 96 | [Todo el Día en la Cama](https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Todo el Día en la Cama](https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz) | 4:16 |
-| 97 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 |
-| 98 | [Gotica](https://open.spotify.com/track/6Zs40HTLJe4AReNqOYqe4K) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Gotica](https://open.spotify.com/album/46DpWWLhStPZ7SvqtsfU04) | 1:44 |
-| 99 | [Amor Frutero](https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ) | [Camila Luna](https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X) | [Flora y Fauna](https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK) | 2:53 |
+| 95 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 |
+| 96 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 |
+| 97 | [Todo el Día en la Cama](https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Todo el Día en la Cama](https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz) | 4:16 |
+| 98 | [Amor Frutero](https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ) | [Camila Luna](https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X) | [Flora y Fauna](https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK) | 2:53 |
+| 99 | [Gotica](https://open.spotify.com/track/6Zs40HTLJe4AReNqOYqe4K) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Gotica](https://open.spotify.com/album/46DpWWLhStPZ7SvqtsfU04) | 1:44 |
 | 100 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 |
 
 Snapshot ID: `ZqfyVQAAAACqtTDzAAgljYvUYWlpz3AA`

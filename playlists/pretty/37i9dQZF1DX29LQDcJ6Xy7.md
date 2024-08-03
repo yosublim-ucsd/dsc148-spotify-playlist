@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,978 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,054 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 27 | [Zeig dich](https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:15 |
 | 28 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 |
 | 29 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 |
-| 30 | [Golgotha Tenement Blues](https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol) | [Machines Of Loving Grace](https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:00 |
-| 31 | [Liar](https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [Anima Inferna](https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS) | 3:37 |
+| 30 | [Liar](https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [Anima Inferna](https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS) | 3:37 |
+| 31 | [Golgotha Tenement Blues](https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol) | [Machines Of Loving Grace](https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:00 |
 | 32 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
 | 33 | [N.W.O.](https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:30 |
 | 34 | [Jagdzeit](https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq) | [Megaherz](https://open.spotify.com/artist/4tM8qmqg5cEZPHNLNQwHeb) | [Götterdämmerung](https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra) | 4:18 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 96 | [PRESIDENT X](https://open.spotify.com/track/3YlXqeGh10AADlm9tt7bbK) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PRESIDENT X](https://open.spotify.com/album/2nEO7xItffDVSNZo4XOIJU) | 3:40 |
 | 97 | [Incubus](https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS) | [Munro](https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg) | [Incubus](https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5) | 5:34 |
 | 98 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 |
-| 99 | [Tech Noir](https://open.spotify.com/track/3pBs4Bc6lz2gib5v7k8H77) | [ssSHhh](https://open.spotify.com/artist/6nqlK6RhS69jFzctPiOWxi), [Krista](https://open.spotify.com/artist/56AziF7rLP07PPGgUTzcxH) | [Tech Noir](https://open.spotify.com/album/2tWjnYbjtjL4U0QzsK935L) | 4:22 |
-| 100 | [Therapy](https://open.spotify.com/track/59xf0j7TD8NOsY4gmS2UcZ) | [The Hunger](https://open.spotify.com/artist/1TzYfIDcBPrD2ICroUPv5H) | [The Hunger](https://open.spotify.com/album/6hJdzDHfOpML4CmTv86gOI) | 4:32 |
+| 99 | [Therapy](https://open.spotify.com/track/59xf0j7TD8NOsY4gmS2UcZ) | [The Hunger](https://open.spotify.com/artist/1TzYfIDcBPrD2ICroUPv5H) | [The Hunger](https://open.spotify.com/album/6hJdzDHfOpML4CmTv86gOI) | 4:32 |
+| 100 | [Tech Noir](https://open.spotify.com/track/3pBs4Bc6lz2gib5v7k8H77) | [ssSHhh](https://open.spotify.com/artist/6nqlK6RhS69jFzctPiOWxi), [Krista](https://open.spotify.com/artist/56AziF7rLP07PPGgUTzcxH) | [Tech Noir](https://open.spotify.com/album/2tWjnYbjtjL4U0QzsK935L) | 4:22 |
 
 Snapshot ID: `ZoggXQAAAACiaZ82FqT97OTj8qf8ZvDi`

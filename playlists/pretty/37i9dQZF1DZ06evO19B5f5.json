@@ -1,12 +1,12 @@
 {
-  "description": "This is Lauren Aquilina. The essential tracks, all in one playlist.",
-  "num_followers": 458,
+  "description": "This is Lauren Aquilina. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 457,
   "original_name": "This Is Lauren Aquilina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABzt0HG7lPE00zu/Ujx7qCW",
+  "snapshot_id": "ZqrQAAAAAACo0+TctMPfgwT1geFWdRpm",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empathy (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Empathy - MUNA Remix",
+      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -251,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empathy (MUNA Remix)",
-        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Empathy - MUNA Remix",
-      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liars",
         "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
@@ -283,6 +283,22 @@
       "duration_ms": 234173,
       "name": "Lovers Or Liars",
       "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Remixes)",
+        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 242552,
+      "name": "Echoes - Edeema Remix",
+      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
     },
     {
       "added_at": null,
@@ -319,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Remixes)",
-        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 242552,
-      "name": "Echoes - Edeema Remix",
-      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Mouths (filous Remix)",
         "url": "https://open.spotify.com/album/316VVViBiKIcbTSamsojmG"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 245624,
       "name": "Midnight Mouths - filous Remix",
       "url": "https://open.spotify.com/track/4AbHAaspsLIQNwGzWR4bqe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fools",
+        "url": "https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Lilo",
+      "url": "https://open.spotify.com/track/1Kqd8jFne2x03rOjzlq648"
     },
     {
       "added_at": null,
@@ -387,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fools",
-        "url": "https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Lilo",
-      "url": "https://open.spotify.com/track/1Kqd8jFne2x03rOjzlq648"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinners",
         "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinners",
         "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
       },
@@ -479,26 +479,6 @@
       "duration_ms": 192000,
       "name": "Ugly Truth",
       "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All of #OneSongAWeek",
-        "url": "https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg"
-      },
-      "artists": [
-        {
-          "name": "Frank Hamilton",
-          "url": "https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa"
-        },
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Flaws & Ceilings",
-      "url": "https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2"
     },
     {
       "added_at": null,
@@ -531,6 +511,26 @@
       "duration_ms": 202848,
       "name": "Suddenly Strangers",
       "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All of #OneSongAWeek",
+        "url": "https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg"
+      },
+      "artists": [
+        {
+          "name": "Frank Hamilton",
+          "url": "https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa"
+        },
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Flaws & Ceilings",
+      "url": "https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2"
     },
     {
       "added_at": null,

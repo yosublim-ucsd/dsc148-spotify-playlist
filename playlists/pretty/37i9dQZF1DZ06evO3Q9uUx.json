@@ -1,12 +1,12 @@
 {
-  "description": "This is BIA. Tutti i brani in un'unica playlist.",
-  "num_followers": 14550,
+  "description": "This is BIA. The essential tracks, all in one playlist.",
+  "num_followers": 14553,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADwhQzJeh6NgDybM4DmPQ3L",
+  "snapshot_id": "ZqrQAAAAAACkXEIUnbYCaM6o3HnjCzUD",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+        "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+      "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Geekin (feat. NLE Choppa & BIA) [Remix]",
         "url": "https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g"
       },
@@ -703,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Savage (feat. BIA)",
+        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
+      },
+      "artists": [
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Savage (feat. BIA)",
+      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIKI",
         "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
       },
@@ -723,26 +771,6 @@
       "duration_ms": 155666,
       "name": "Labels. (ft. Moneybagg Yo, BIA)",
       "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Savage (feat. BIA)",
-        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
-      },
-      "artists": [
-        {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "Savage (feat. BIA)",
-      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
     },
     {
       "added_at": null,
@@ -791,30 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solitude (with BIA & Lucky Daye)",
-        "url": "https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174476,
-      "name": "Solitude (with BIA & Lucky Daye)",
-      "url": "https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The End of an Era",
         "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
       },
@@ -831,6 +835,26 @@
       "duration_ms": 170899,
       "name": "Is That Right",
       "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEACH BALL (feat. BIA)",
+        "url": "https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "BEACH BALL (feat. BIA)",
+      "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
     },
     {
       "added_at": null,
@@ -855,22 +879,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEACH BALL (feat. BIA)",
-        "url": "https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ"
+        "name": "Solitude (with BIA & Lucky Daye)",
+        "url": "https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 144000,
-      "name": "BEACH BALL (feat. BIA)",
-      "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
+      "duration_ms": 174476,
+      "name": "Solitude (with BIA & Lucky Daye)",
+      "url": "https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu"
     },
     {
       "added_at": null,
@@ -1075,22 +1103,6 @@
       "duration_ms": 61916,
       "name": "One Minute Warning",
       "url": "https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER (INTL DELUXE)",
-        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 143999,
-      "name": "RAISE THE STAKES",
-      "url": "https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8"
     }
   ],
   "unique_name": "This Is BIA",

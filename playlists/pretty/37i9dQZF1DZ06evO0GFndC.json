@@ -1,12 +1,12 @@
 {
-  "description": "This Is Grupo Los de la O. Los temas esenciales, todos en una lista.",
-  "num_followers": 54452,
+  "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
+  "num_followers": 54477,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAC/5bjmmKJ8d8zYe+0fG+Jw",
+  "snapshot_id": "ZqrQAAAAAACvmTmVm/zPnTWdjQoER+eA",
   "tracks": [
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kilos De Oro",
-        "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 220947,
-      "name": "Miran Mi Brillo",
-      "url": "https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tras las Rejas",
         "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 219301,
       "name": "Mi C\u00edrculo Vicioso",
       "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kilos De Oro",
+        "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 220947,
+      "name": "Miran Mi Brillo",
+      "url": "https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb"
     },
     {
       "added_at": null,

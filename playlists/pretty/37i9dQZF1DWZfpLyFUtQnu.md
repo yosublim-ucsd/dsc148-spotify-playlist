@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,815 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,861 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 13 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
 | 14 | [Et Bam](https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8) | 3:39 |
 | 15 | [Qui saura](https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:20 |
-| 16 | [Mon amie la rose](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 |
-| 17 | [Couleur menthe à l'eau](https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Happy Birthday](https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA) | 3:30 |
+| 16 | [Couleur menthe à l'eau](https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Happy Birthday](https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA) | 3:30 |
+| 17 | [Mon amie la rose](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 |
 | 18 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
 | 19 | [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 |
 | 20 | [La liste](https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 3:13 |
 | 21 | [Lucie](https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [Superflu](https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY) | 4:15 |
-| 22 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
-| 23 | [Demain c'est toi](https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Effet miroir](https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a) | 2:38 |
+| 22 | [Demain c'est toi](https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Effet miroir](https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a) | 2:38 |
+| 23 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
 | 24 | [Le paradis blanc \- Remasterisé en 2002](https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Ca ne tient pas debout \(Remasterisé en 2002\)](https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM) | 6:36 |
 | 25 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 |
 | 26 | [Ta main](https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:33 |

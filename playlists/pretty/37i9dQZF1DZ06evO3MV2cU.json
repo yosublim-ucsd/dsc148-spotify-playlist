@@ -1,12 +1,12 @@
 {
-  "description": "This is Chris Tomlin. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 135474,
+  "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
+  "num_followers": 135483,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAZbpFj0cQKhpCvdDxeT3IO",
+  "snapshot_id": "ZqrQAAAAAADPNkawdIzsA9OL3UUDhFi7",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sing! The Great Commission - World Tour (Live)",
         "url": "https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 302048,
       "name": "Precious Love - Live",
       "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holy Roar",
+        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Praise Him Forever",
+      "url": "https://open.spotify.com/track/62shNor7VDjzBx8SC9YTPm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 230673,
       "name": "I See You (with Brandon Lake)",
       "url": "https://open.spotify.com/track/5WJbUQV3FbzOxB4tA7yiXF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Roar",
-        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Praise Him Forever",
-      "url": "https://open.spotify.com/track/62shNor7VDjzBx8SC9YTPm"
     },
     {
       "added_at": null,

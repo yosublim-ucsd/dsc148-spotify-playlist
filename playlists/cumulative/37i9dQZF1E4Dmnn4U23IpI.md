@@ -1,14 +1,14 @@
 [pretty](/playlists/pretty/37i9dQZF1E4Dmnn4U23IpI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Dmnn4U23IpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Dmnn4U23IpI)
 
-### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
+### [Radio The Midnight](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With FM\-84, Timecop1983, Kalax and more
+> Con FM\-84, Timecop1983, Kalax y más
 
 1,537 songs - 4 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['85 Again \(feat\. Miss K\)](https://open.spotify.com/track/55ACS6JsMV0OXSaLswoIEw) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD), [Miss K](https://open.spotify.com/artist/4W6G1aOwd26vBChDMlEN2c) | [Crystal City](https://open.spotify.com/album/5b1hSABNZInpfwEBy3qH5m) | 3:29 | 2021-12-02 | 2024-08-02 |
+| ['85 Again \(feat\. Miss K\)](https://open.spotify.com/track/55ACS6JsMV0OXSaLswoIEw) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD), [Miss K](https://open.spotify.com/artist/4W6G1aOwd26vBChDMlEN2c) | [Crystal City](https://open.spotify.com/album/5b1hSABNZInpfwEBy3qH5m) | 3:29 | 2021-12-02 |  |
 | [0:59](https://open.spotify.com/track/4kNrsyS7VKughRmsjwo3W3) | [Danger](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi) | [太鼓](https://open.spotify.com/album/7oBQawcEH4AvrUb1IgSI0p) | 4:14 | 2023-06-04 | 2023-08-31 |
 | [1984](https://open.spotify.com/track/67sJp0ChEsa4mKXUFae0qq) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [1984](https://open.spotify.com/album/2Fm4S5muGDEJoqkEsa3saX) | 4:10 | 2022-04-22 | 2022-10-11 |
 | [1984](https://open.spotify.com/track/5LaHr4DB00BIrKyA9lMH0J) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [1984](https://open.spotify.com/album/1Evt4IVeA6N4oFbhASa8iC) | 3:12 | 2022-10-05 | 2024-03-12 |
@@ -999,7 +999,7 @@
 | [Outlaw Star](https://open.spotify.com/track/4BVfCHuKVvcJqeZ71QrGft) | [Eagle Eyed Tiger](https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8) | [Apotheosis](https://open.spotify.com/album/19iJ7OOS9XjyhFP7fomH1h) | 2:47 | 2022-06-24 | 2022-06-25 |
 | [Outlines](https://open.spotify.com/track/5WadbKBeWzWAICRVRkYMtJ) | [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Outlines](https://open.spotify.com/album/41KhQM76qYhJgvVzz64FsU) | 3:26 | 2022-05-22 | 2022-05-23 |
 | [Outrun This!](https://open.spotify.com/track/02fSxVKwfRglhkXt03wVJg) | [Arcade High](https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI) | [Pixel Passion](https://open.spotify.com/album/3uDYSThuKWpeqb61ozIU3G) | 4:09 | 2021-12-01\* | 2022-07-17 |
-| [Overcome](https://open.spotify.com/track/1p8v4SgTEELMfOg4z3jFMD) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 3:34 | 2022-03-11 |  |
+| [Overcome](https://open.spotify.com/track/1p8v4SgTEELMfOg4z3jFMD) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 3:34 | 2022-03-11 | 2024-08-03 |
 | [Overcome the Night](https://open.spotify.com/track/45Dr33MV8VaIYJW8ohdR60) | [Immortal Girlfriend](https://open.spotify.com/artist/3BRdjtA6y3mQYgGgqNFydC) | [Daybreak](https://open.spotify.com/album/0na1JoLuHtcNbmCiM8Xt4O) | 3:24 | 2022-09-11 | 2022-09-12 |
 | [Overflow](https://open.spotify.com/track/5ZZWGV8NuWHmV4r09IEv7A) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Overflow](https://open.spotify.com/album/3VKGfIp0JGNAm1j7rxCO5h) | 2:58 | 2022-06-26 | 2022-06-29 |
 | [Overtime](https://open.spotify.com/track/3IXBvJvpUHNwwqnjzNg7Ih) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:33 | 2023-01-19 | 2023-01-20 |

@@ -4,7 +4,7 @@
 
 > essa é pros apaixonados
 
-169 songs - 10 hr 4 min
+170 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Anel de Coco \- Acústico \| Ao Vivo](https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Anel de Coco Acústico \(Ao Vivo\)](https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8) | 3:02 | 2021-09-03 |  |
 | [Anjo Protetor](https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Outono](https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y) | 3:39 | 2021-09-03 |  |
 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 | 2021-09-03 |  |
+| [Até o Topo do Mundo](https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF) | [Gabriela](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM) | [Gabriela](https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9) | 2:45 | 2024-08-02 |  |
 | [Azul](https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Azul](https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu) | 3:27 | 2024-03-08 |  |
 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 | 2023-10-23 |  |
 | [Baby \- Ao Vivo](https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Baby \(Ao Vivo\)](https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z) | 3:07 | 2023-05-31 | 2023-06-10 |
@@ -35,7 +36,7 @@
 | [Bela Flor](https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:03 | 2021-09-03 |  |
 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 | 2021-09-03 |  |
 | [BOSSA \(feat\. Péricles\)](https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [PRISCILLA](https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik) | 3:25 | 2024-05-10 | 2024-07-13 |
-| [calor do momento](https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:19 | 2024-05-08 |  |
+| [calor do momento](https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:19 | 2024-05-08 | 2024-08-03 |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-01 | 2024-04-19 |
 | [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-09-01 |  |
 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 | 2021-09-03 | 2023-06-10 |

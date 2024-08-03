@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-166 songs - 11 hr 0 min
+167 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 | 2022-05-13 |  |
 | [Angelic Reiki](https://open.spotify.com/track/68OOxuLvwLFPj78cKciaL3) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Angelic Reiki](https://open.spotify.com/album/6dy2c18h4b2It784yk9uuE) | 3:08 | 2023-02-10 |  |
 | [Anmol Khazana](https://open.spotify.com/track/47EwnKSHTiz2hddZZQTE7N) | [Kshitij Lata](https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0) | [Anmol Khazana](https://open.spotify.com/album/0PNCvRLeJo5PlTqpxZ40at) | 4:28 | 2024-03-08 |  |
-| [Anupam Rahasya](https://open.spotify.com/track/3xg08C7H2cgIQ96lpA5gBB) | [Ganesh Punja](https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx) | [Anupam Rahasya](https://open.spotify.com/album/0w3gxbpQLCho2phuTzK1Ec) | 4:37 | 2023-09-05 |  |
+| [Anupam Rahasya](https://open.spotify.com/track/3xg08C7H2cgIQ96lpA5gBB) | [Ganesh Punja](https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx) | [Anupam Rahasya](https://open.spotify.com/album/0w3gxbpQLCho2phuTzK1Ec) | 4:37 | 2023-09-05 | 2024-08-03 |
 | [Baagh](https://open.spotify.com/track/55OXtWmZJuNMoy1MSKsGsj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Baagh](https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN) | 3:23 | 2022-08-10 |  |
 | [Bansuri Heaven](https://open.spotify.com/track/6fdGoJ7yoQFuhUzQrIilwt) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Curing Rhythms](https://open.spotify.com/album/529HbjzW3Tr01wmu7dginb) | 4:02 | 2022-08-10 |  |
 | [Barsaa Paani](https://open.spotify.com/track/6y5EJ69G3DZmM1lzWMuxA4) | [Kapila Upsani](https://open.spotify.com/artist/1I8JjaC5qvXYmY4vRT3x1W) | [Chote Hiran](https://open.spotify.com/album/5Ks9dlzmU0BGfoqZYDP7gc) | 5:00 | 2022-05-13 | 2024-03-09 |
@@ -36,6 +36,7 @@
 | [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 | 2023-02-10 |  |
 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 | 2022-05-13 | 2024-03-09 |
 | [Crystal Mind](https://open.spotify.com/track/3Dej28jw6dF2X0zLXgEfGr) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Crystal Mind](https://open.spotify.com/album/6LtdVeYI047UzzS8AXAC7c) | 2:26 | 2024-03-08 |  |
+| [Darma Karma](https://open.spotify.com/track/6ztM1Tfblptt8WPceaYzX7) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Darma Karma](https://open.spotify.com/album/3MSb27LzvO7txXUL0qu9Xk) | 2:56 | 2024-08-02 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-05-13 | 2024-03-27 |
 | [Deep Healing](https://open.spotify.com/track/0De7FekWhM84Dp5bUiWILn) | [Adela Rynsburger](https://open.spotify.com/artist/4SkN6vgI1t8Es1N7KTjc22) | [Deep Healing](https://open.spotify.com/album/6OYzbw0sJhn5atna6Xy0VK) | 5:10 | 2022-12-16 |  |
 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 | 2022-05-13 |  |
@@ -75,7 +76,7 @@
 | [Lost in Space](https://open.spotify.com/track/7tmMkS0oXNav28iAVjTTZS) | [Buddha's Beats](https://open.spotify.com/artist/5hrlkj4oC4Qk4d7o2MKzCh) | [Lost in Space](https://open.spotify.com/album/7bZQaOZ6NYsSocCZPc2Jqq) | 2:18 | 2023-08-16 | 2023-09-06 |
 | [Lost in the Echoes](https://open.spotify.com/track/1HPwwcg5XRVStAHMDStgl8) | [Ganesh Punja](https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx) | [Lost in the Echoes](https://open.spotify.com/album/2OSxPSCUN9rA3ZbrdWuKDx) | 4:23 | 2024-03-08 |  |
 | [Luminous Mind](https://open.spotify.com/track/0QrazvL9WC3OhJGlnhKBuo) | [Ben Aum](https://open.spotify.com/artist/0n5q0SfkA7CSU2x4Ka0KDC) | [Luminous Mind](https://open.spotify.com/album/5CDzqXg3M6vnVBuCoSG7br) | 3:15 | 2023-02-10 |  |
-| [Man Ka Mandir](https://open.spotify.com/track/43mzu03R8Ip3zCYvP3nuY3) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Man Ka Mandir](https://open.spotify.com/album/1mrNA94MmVxARRGR9ij57z) | 4:00 | 2024-03-26 |  |
+| [Man Ka Mandir](https://open.spotify.com/track/43mzu03R8Ip3zCYvP3nuY3) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Man Ka Mandir](https://open.spotify.com/album/1mrNA94MmVxARRGR9ij57z) | 4:00 | 2024-03-26 | 2024-08-03 |
 | [Manipur Winds](https://open.spotify.com/track/0UhVwa60Zm8twFtSEmVTmf) | [Vera Eikon](https://open.spotify.com/artist/5GWPPcK9rmFZvw8Gy4TQOj) | [Manipur Winds](https://open.spotify.com/album/4uQrOVzatkBTjnie3N6QYT) | 3:09 | 2024-03-08 |  |
 | [Marari Vibes](https://open.spotify.com/track/7FGXxtTLhPXusdPJox3q8R) | [The Surrealers](https://open.spotify.com/artist/6G9OIA19uLnfd7PNELBJI9) | [Marari Vibes](https://open.spotify.com/album/7El5vb5cGWoy9shvwiZYBT) | 2:57 | 2024-03-08 |  |
 | [Masal \- Instrumental](https://open.spotify.com/track/0J0f4HTpSzV5szjahBbSmA) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Neval](https://open.spotify.com/artist/3xsWhJ3BXOnSewlzawH8RU) | [Masal](https://open.spotify.com/album/38ODX8TSmkn3iKYjCDxYlh) | 2:52 | 2022-07-14 |  |

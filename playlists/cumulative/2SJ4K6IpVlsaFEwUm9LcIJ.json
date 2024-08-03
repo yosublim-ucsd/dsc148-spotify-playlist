@@ -2443,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Breakup Song",
+        "url": "https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1"
+      },
+      "artists": [
+        {
+          "name": "Deerhoof",
+          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150959,
+      "name": "Mario's Flaming Whiskers III",
+      "url": "https://open.spotify.com/track/3Bktyrnmrdw05133ofR9Dl"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },

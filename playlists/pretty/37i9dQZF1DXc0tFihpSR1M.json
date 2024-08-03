@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 84452,
+  "num_followers": 84469,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 186359,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 186359,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 202414,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "You're Losing Me (From The Vault)",
         "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 202414,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 200010,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Stick Season (Forever)",
         "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 268353,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "something to remember",
         "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
       },
@@ -1023,38 +1039,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 180381,
-      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Save You a Seat",
-        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Save You a Seat",
-      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Death Wish Love (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+        "name": "Save You a Seat",
+        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "ten",
         "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 213213,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
     },
     {
       "added_at": "2024-08-01 22:00:00",

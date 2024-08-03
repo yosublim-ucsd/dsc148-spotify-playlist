@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 173000,
       "name": "Can\u2019t Let You Go",
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
@@ -1788,6 +1788,46 @@
       "duration_ms": 192459,
       "name": "Cruel World - Jim-E Stack Remix",
       "url": "https://open.spotify.com/track/1xKNnjZkSyj2QbkqruJyCr"
+    },
+    {
+      "album": {
+        "name": "Dance at the Function",
+        "url": "https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd"
+      },
+      "artists": [
+        {
+          "name": "Amilli",
+          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205901,
+      "name": "Dance at the Function",
+      "url": "https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW"
+    },
+    {
+      "album": {
+        "name": "Dancing",
+        "url": "https://open.spotify.com/album/73tRDpQ3wEf82ohFjRC8an"
+      },
+      "artists": [
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        },
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230329,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/7igoCizq9AA9dtbjUMx0ic"
     },
     {
       "album": {
@@ -7778,7 +7818,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 215686,
       "name": "Somethin Bout You (feat. Betsy)",
       "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"

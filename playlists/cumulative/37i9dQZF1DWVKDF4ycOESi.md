@@ -4,7 +4,7 @@
 
 > Charli xcx e Billie Eilish in cover + le migliori uscite di questa settimana!
 
-1,359 songs - 2 day 19 hr 51 min
+1,361 songs - 2 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,6 +810,7 @@
 | [Musica di Plastica](https://open.spotify.com/track/16Iw4a24u1TicRhZjisiBg) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [Musica di Plastica](https://open.spotify.com/album/6rcZbGfaeE6Dc0kqpjDwFl) | 2:50 | 2024-07-04 | 2024-07-12 |
 | [MUSICA ESPECIAL](https://open.spotify.com/track/28mZlmVrofwqdZ3sVIFxJJ) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Sebra Cruz](https://open.spotify.com/artist/2OaoLYNZqzNVMM4H7KL5ye) | [MUSICA ESPECIAL](https://open.spotify.com/album/6Tk4yBFG7aLLMzuJMkVQkr) | 3:11 | 2024-07-18 | 2024-07-27 |
 | [MVP](https://open.spotify.com/track/0Nojgk52ObYMvHlPQ4wq37) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [MVP](https://open.spotify.com/album/0lJMVcHNpeGzKGTAytrCqP) | 2:10 | 2024-05-09 | 2024-05-17 |
+| [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-02 |  |
 | [My City](https://open.spotify.com/track/3lyyGluwpCXpeMyTThC5Va) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [My City](https://open.spotify.com/album/25X7luR42Dez44ne83fCVV) | 2:52 | 2024-05-23 | 2024-06-01 |
 | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 | 2024-07-11 | 2024-07-19 |
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-02 | 2024-05-10 |
@@ -1256,6 +1257,7 @@
 | [TRYING](https://open.spotify.com/track/6hMHse2LWe5kI1gEF4fbkt) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [THE TAKEOFF](https://open.spotify.com/album/4aydi1lM0ILF8tD6pfJ9nF) | 2:25 | 2024-06-20 | 2024-06-28 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-08-02 |
 | [tt ok](https://open.spotify.com/track/1ntCSSTtth70lJMh37pRw3) | [Saphe](https://open.spotify.com/artist/0PfwY5WJuVYmUc6PJzQ9TO) | [tt ok](https://open.spotify.com/album/0QKkoDaj88IerPtWlAbsoF) | 1:53 | 2024-06-06 | 2024-06-14 |
+| [TU ROPA](https://open.spotify.com/track/4ZgNkauy7LD2e4Fl1k26lb) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [PERMANENTE](https://open.spotify.com/album/3iA6lFPydNrgFd6s1Hojii) | 2:09 | 2024-08-02 |  |
 | [Tulipano](https://open.spotify.com/track/1YnODCsdwUw3d0dyO7qogW) | [APOLLO QUATTRO](https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8) | [Tulipano](https://open.spotify.com/album/7pitv105FPuAQIKwiKGpLU) | 2:02 | 2024-06-27 | 2024-07-05 |
 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-05-23 | 2024-06-01 |
 | [Turn The Page](https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Turn The Page](https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq) | 4:22 | 2024-04-26 | 2024-05-03 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 ### [This Is Vilma Palma e Vampiros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3uRjKu)
 
-> This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
+> This Is Vilma Palma e Vampiros\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,378 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,401 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 49 | [Si Eso Te Pone Mejor](https://open.spotify.com/track/1qVTpnGqccuRquqfGyvvBo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 4:17 |
 | 50 | [Voy a Seguir Bailando](https://open.spotify.com/track/6fOAa742Fu17tI39hrtnDN) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:23 |
 
-Snapshot ID: `Zql+gAAAAAAmusz0LO8Lo8AV2TAOLG7v`
+Snapshot ID: `ZqrQAAAAAAANl+tSn1zYflFgoPDkvqbA`

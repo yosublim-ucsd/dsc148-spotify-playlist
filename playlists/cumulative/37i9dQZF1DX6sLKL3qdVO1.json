@@ -8119,6 +8119,28 @@
     },
     {
       "album": {
+        "name": "Mejores Jordans",
+        "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234077,
+      "name": "Mejores Jordans",
+      "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
+    },
+    {
+      "album": {
         "name": "Mela",
         "url": "https://open.spotify.com/album/7q5XH7ugzAYII887WeYT44"
       },
@@ -9334,7 +9356,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
@@ -11945,6 +11967,28 @@
     },
     {
       "album": {
+        "name": "SERIO CON ESE Q",
+        "url": "https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247468,
+      "name": "SERIO CON ESE Q",
+      "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
+    },
+    {
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
       },
@@ -13804,7 +13848,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 184266,
       "name": "Un Cigarrillo",
       "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
@@ -13844,7 +13888,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 165582,
       "name": "UN PREVIEW",
       "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"

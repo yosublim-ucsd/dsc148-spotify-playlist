@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,853 likes - 325 songs - 20 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,851 likes - 325 songs - 20 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 190 | [You're Mine](https://open.spotify.com/track/3wfiYtFeCtlijiqmTIlBFQ) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:38 |
 | 191 | [I Am Me](https://open.spotify.com/track/3DV7noSx1US7DCWIlF2OC6) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [I Am Me](https://open.spotify.com/album/7Bgtodjks7aKmZHI91xwUg) | 4:08 |
 | 192 | [I Am](https://open.spotify.com/track/3kCNhgO03URvgUqVtv2z8C) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:52 |
-| 193 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 |
-| 194 | [Little Wing](https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:18 |
+| 193 | [Little Wing](https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:18 |
+| 194 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 |
 | 195 | [Playground](https://open.spotify.com/track/3RgMXNXwRoxxdJpRwGNfZE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:28 |
 | 196 | [The Bully](https://open.spotify.com/track/0UUNAZasnJ37nGFZH46AWF) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [Ground Trouble Jaw](https://open.spotify.com/album/5Bz9Xq3rMsruOs0WUkhMid) | 2:27 |
 | 197 | [All I Need](https://open.spotify.com/track/2LxEhLrEDpm2lZ5wj8tT48) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:33 |
@@ -252,8 +252,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 242 | [Toy Box](https://open.spotify.com/track/1ox13aJPqqpqb6Ej1HO3Db) | [Mylene Cruz \(Herizen Guardiola\) & The Soul Madonnas](https://open.spotify.com/artist/1qCN3pqJTenBwFzJvtaXMS), [The Soul Madonnas](https://open.spotify.com/artist/5tvgyJ5URflCCNGKEZ7iB4) | [The Get Down Part II: Original Soundtrack From The Netflix Original Series](https://open.spotify.com/album/0UqBp39R5ARECBnxnVk25l) | 3:45 |
 | 243 | [Don't Give Up \(Heaven Edit\)](https://open.spotify.com/track/50nNOHPUI1HCmbLpnHSTo9) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Don't Give Up \(Heaven Edit\)](https://open.spotify.com/album/3L9ufHivNkSdvYiVDnY1OT) | 3:26 |
 | 244 | [Cares At The Door](https://open.spotify.com/track/21MIfQxzau3lmiPtnwQzJX) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:51 |
-| 245 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 |
-| 246 | [One Night](https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:58 |
+| 245 | [One Night](https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:58 |
+| 246 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 |
 | 247 | [Broken Biscuit](https://open.spotify.com/track/3IWBbQlGtsZgCO16AffdKE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 4:55 |
 | 248 | [12 Nights](https://open.spotify.com/track/2k5F4391ld0tzQCZf6vV7h) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 4:07 |
 | 249 | [Go On](https://open.spotify.com/track/5gKW4Zbd2A6NcD6iAF2JQ1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:14 |
@@ -273,8 +273,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 263 | [Green Card](https://open.spotify.com/track/6J7vprT8CB5vy5KA1KIwgY) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Wish Bone](https://open.spotify.com/album/0ohYHaVFBYh7qYI5zXbvD6) | 4:08 |
 | 264 | [Godzillionaire](https://open.spotify.com/track/2OQXPBsZcPpmyoyTkFFf6p) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:55 |
 | 265 | [Judge Me](https://open.spotify.com/track/66fhJHov6sAsZz7qCEJxDw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:15 |
-| 266 | [Treasure \- Acoustic Version](https://open.spotify.com/track/2cXjZJGfTGZLPFFKLpbSgo) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs, Vol.1](https://open.spotify.com/album/7f8XKrpjldzXBpnkkzmFyY) | 3:24 |
-| 267 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 266 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 267 | [Treasure \- Acoustic Version](https://open.spotify.com/track/2cXjZJGfTGZLPFFKLpbSgo) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs, Vol.1](https://open.spotify.com/album/7f8XKrpjldzXBpnkkzmFyY) | 3:24 |
 | 268 | [Insidiously](https://open.spotify.com/track/5TG35p7Ns9LJYa7Wkfcujf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 8:50 |
 | 269 | [Dim The Lights](https://open.spotify.com/track/7EvMgSKZFwMKyu7IhvBlC8) | [Creep](https://open.spotify.com/artist/7uxdd0kdUdXLwkJKBQkVtP) | [Echoes](https://open.spotify.com/album/7N2cWgNd4fFlaMKmiK61N5) | 3:26 |
 | 270 | [Luckie](https://open.spotify.com/track/1c0HMSYtaT5LGLBEUKpHxR) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV) | [Eli And The Thirteenth Confession](https://open.spotify.com/album/533zqKatpy90jse2K5IaiQ) | 3:00 |
@@ -334,4 +334,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 324 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 325 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbYSIgAAAABAySVqf68lQcFLsDas964y`
+Snapshot ID: `AbYX/gAAAACfmRuKAotO51eKPPjwCLyw`

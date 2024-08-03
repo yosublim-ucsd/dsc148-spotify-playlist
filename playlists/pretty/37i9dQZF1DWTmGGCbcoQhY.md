@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,320,830 likes - 125 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,320,951 likes - 125 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 5 | [ES EL AMOR](https://open.spotify.com/track/6OfZTJqKYJ4QM8WNJt0ky3) | [Los gatos mojados](https://open.spotify.com/artist/0ibSNu8s3dD6H7oW9frGqn) | [ES EL AMOR](https://open.spotify.com/album/4DudCZWhCksvU55qJ4SJPL) | 4:49 |
 | 6 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 |
 | 7 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 |
-| 8 | [Tus Mentiras](https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Tus Mentiras](https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ) | 4:13 |
-| 9 | [Donde Estaras](https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 3:43 |
+| 8 | [Donde Estaras](https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 3:43 |
+| 9 | [Tus Mentiras](https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Tus Mentiras](https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ) | 4:13 |
 | 10 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 |
 | 11 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 |
 | 12 | [No Me Llames Mas](https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [No Me Llames Mas](https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd) | 4:27 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 49 | [Caricias \- Acaríciame](https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p) | [Los Javugoh](https://open.spotify.com/artist/6WpqijLQ174As9uCl0RbP5) | [Toquin en América](https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj) | 3:27 |
 | 50 | [El Final De Nuestra Historia](https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [El Final De Nuestra Historia](https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu) | 3:55 |
 | 51 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 |
-| 52 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
-| 53 | [La Inconforme](https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:13 |
-| 54 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 |
-| 55 | [Quedate Con Él](https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:36 |
+| 52 | [La Inconforme](https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:13 |
+| 53 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
+| 54 | [Quedate Con Él](https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:36 |
+| 55 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 |
 | 56 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 |
 | 57 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 |
 | 58 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 66 | [Amapola](https://open.spotify.com/track/1NTJqSvw0dWzU68EQPfKNs) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Amapola](https://open.spotify.com/album/4wQyFooTbXzKtuQcFY9nCD) | 3:30 |
 | 67 | [Tu y yo](https://open.spotify.com/track/778AFISUlRVyMbzmASfOBx) | [Grupo Konfusion](https://open.spotify.com/artist/3xYkx6c8tr6YewKD3xqpH4) | [Tu y Yo](https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q) | 4:31 |
 | 68 | [Todo Lo Encuentro En Ti](https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Fake Lover](https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz) | 3:24 |
-| 69 | [Embrujo de Cumbia](https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:19 |
-| 70 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
+| 69 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
+| 70 | [Embrujo de Cumbia](https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:19 |
 | 71 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
 | 72 | [Por Un Rato](https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Enamoradas](https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA) | 2:57 |
 | 73 | [La Triste Despedida](https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif) | [Grupo Ju\-Juy](https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m) | [Un Monton De Estrellas](https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH) | 4:43 |

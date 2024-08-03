@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "I Built A World",
+        "url": "https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191336,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/2yRzV2QZe4fFrKE2mCfZ9E"
+    },
+    {
+      "album": {
         "name": "Arkansas Bound",
         "url": "https://open.spotify.com/album/3t8WAwO2kpqHHyMvRII1TO"
       },
@@ -1908,6 +1930,24 @@
       "duration_ms": 174512,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/64E7Uomo77yvmBsjcscFFk"
+    },
+    {
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/3zZD6Y3GxAQOtuz9lDxE52"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161776,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/1kOylvQAHwZPhZkYOeH70f"
     },
     {
       "album": {
@@ -4857,6 +4897,24 @@
     },
     {
       "album": {
+        "name": "Leap Year",
+        "url": "https://open.spotify.com/album/7nLGwzyeB9zzYinbCdhltJ"
+      },
+      "artists": [
+        {
+          "name": "Maygen & The Birdwatcher",
+          "url": "https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "Old Dreams",
+      "url": "https://open.spotify.com/track/2H4BiN1bezzrdB7wcwzUKC"
+    },
+    {
+      "album": {
         "name": "Common Nation Of Sorrow",
         "url": "https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo"
       },
@@ -4980,6 +5038,24 @@
       "duration_ms": 212106,
       "name": "On the Highway",
       "url": "https://open.spotify.com/track/7eUUVjMaFRITv5dus01J5V"
+    },
+    {
+      "album": {
+        "name": "One Stone",
+        "url": "https://open.spotify.com/album/0I95GG5y07fHUvPs8Cd4EE"
+      },
+      "artists": [
+        {
+          "name": "Nash Hamilton",
+          "url": "https://open.spotify.com/artist/3gjMRRFZxevWPIoFolErpP"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "One Stone",
+      "url": "https://open.spotify.com/track/0jdqODVNwErfnlyVYvg22S"
     },
     {
       "album": {
@@ -5626,6 +5702,24 @@
       "duration_ms": 123386,
       "name": "Running Out Of Hope, Arkansas - Acoustic",
       "url": "https://open.spotify.com/track/0W6gyNHsRDjj4EXfJM0u7o"
+    },
+    {
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210639,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW"
     },
     {
       "album": {
@@ -7966,7 +8060,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 234750,
       "name": "Where Good Things Grow",
       "url": "https://open.spotify.com/track/7qBmQHHhWUJUqBGhFHoLs4"

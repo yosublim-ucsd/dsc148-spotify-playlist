@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Bien",
-  "num_followers": 578063,
+  "num_followers": 578143,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-08-02 00:02:00",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 156763,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
-    },
-    {
-      "added_at": "2024-08-02 00:02:00",
-      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 175842,
       "name": "42",
       "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
+    },
+    {
+      "added_at": "2024-08-02 00:02:00",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 156763,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
     },
     {
       "added_at": "2024-08-02 00:02:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-08-02 00:02:00",
       "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
+    },
+    {
+      "added_at": "2024-08-02 00:02:00",
+      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
-    },
-    {
-      "added_at": "2024-08-02 00:02:00",
-      "album": {
-        "name": "TZA",
-        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 153941,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
       "added_at": "2024-08-02 00:02:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-02 00:02:00",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
-    },
-    {
-      "added_at": "2024-08-02 00:02:00",
-      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 149170,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z"
+    },
+    {
+      "added_at": "2024-08-02 00:02:00",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
     },
     {
       "added_at": "2024-08-02 00:02:00",

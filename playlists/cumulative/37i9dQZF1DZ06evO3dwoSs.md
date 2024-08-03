@@ -2,9 +2,9 @@
 
 ### [This Is Five Finger Death Punch](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dwoSs)
 
-> This is Five Finger Death Punch\. The essential tracks, all in one playlist.
+> This Is Five Finger Death Punch\. Los temas esenciales, todos en una lista.
 
-121 songs - 7 hr 34 min
+122 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Jekyll and Hyde](https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:26 | 2023-08-27 | 2023-09-22 |
 | [Judgement Day](https://open.spotify.com/track/28pN19lOLb7o6CZlCAcflX) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:52 | 2022-08-21 |  |
 | [Judgement Day \- Acoustic](https://open.spotify.com/track/1Dgm07q9zjUWD9JjYtZHSR) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Judgement Day \(Acoustic\)](https://open.spotify.com/album/4L9X1gMJPax2KkazZTBllV) | 4:32 | 2024-01-19 | 2024-04-20 |
-| [Lift Me Up \(feat\. Rob Halford of Judas Priest\)](https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:06 | 2022-05-30 |  |
+| [Lift Me Up](https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 4:06 | 2024-08-03 |  |
+| [Lift Me Up \(feat\. Rob Halford of Judas Priest\)](https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:06 | 2022-05-30 | 2024-08-03 |
 | [Living The Dream](https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:34 | 2022-05-30 |  |
 | [M.I.N.E \(End This Way\)](https://open.spotify.com/track/0DZihiarNaosLsRuI4DcLK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/2yGFWQDxP5lN9aLL6hKfsq) | 4:05 | 2023-11-10 | 2024-01-09 |
 | [M.I.N.E \(End This Way\)](https://open.spotify.com/track/1aZZjgzJGwJVLXaAj20TWU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:05 | 2022-05-30 | 2023-08-26 |

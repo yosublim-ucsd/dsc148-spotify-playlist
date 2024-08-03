@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Karan Aujla & Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,654 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,671 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 45 | [Morni Banke \(From "Badhaai Ho"\)](https://open.spotify.com/track/2Wu9PNpLUCBl3W1GaPqkhl) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [Morni Banke \(From "Badhaai Ho"\)](https://open.spotify.com/album/1lTV7wbMeSmLrBOjf42FER) | 3:18 |
 | 46 | [Hookah Bar](https://open.spotify.com/track/4AoQVhME8Ko6LNm4lV2wwQ) | [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Vineet Singh](https://open.spotify.com/artist/4reUTWYBJ5qo98SW1sXMGv), [Aaman Trikha](https://open.spotify.com/artist/2MMPzBpMeCZVPRnV5mddc3) | [Khiladi 786](https://open.spotify.com/album/5BoZm7cUUN5BpcXrNk1Z0v) | 4:14 |
 | 47 | [Akh Lad Jaave](https://open.spotify.com/track/5SVpD60u9vjoQ2OeoKsTkb) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Loveyatri \- A Journey Of Love](https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio) | 3:00 |
-| 48 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 |
+| 48 | [Oo Antava Oo Oo Antava \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Oo Antava Oo Oo Antava \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 |
 | 49 | [Oh Ho Ho Ho \(Remix\)](https://open.spotify.com/track/3F0I9AkbRwz12yz7Hxn0bF) | [Sukhbir](https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Hindi Medium](https://open.spotify.com/album/5wUJ0hK8HJMpf5WEotPihO) | 4:04 |
 | 50 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 

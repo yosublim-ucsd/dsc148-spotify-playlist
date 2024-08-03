@@ -741,10 +741,14 @@
     },
     {
       "album": {
-        "name": "Prince (Tamil)",
+        "name": "Bimbilikki Pilapi (From \"Prince \")(Tamil)",
         "url": "https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA"
       },
       "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
@@ -756,13 +760,17 @@
         {
           "name": "Sahithi Chaganti",
           "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247000,
-      "name": "Bimbilikki Pilapi",
+      "name": "Bimbilikki Pilapi (From \"Prince \")(Tamil)",
       "url": "https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV"
     },
     {
@@ -2663,20 +2671,28 @@
     },
     {
       "album": {
-        "name": "Pushpa - The Rise",
+        "name": "Saami Saami (From \"Pushpa - The Rise\")(Tamil)",
         "url": "https://open.spotify.com/album/602rAkHAZiAsKB8BcxEiCM"
       },
       "artists": [
         {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
           "name": "Rajalakshmi Senthiganesh",
           "url": "https://open.spotify.com/artist/1JIPdCqj5nSYLwHHD4vS5v"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
         }
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224016,
-      "name": "Saami Saami",
+      "name": "Saami Saami (From \"Pushpa - The Rise\")(Tamil)",
       "url": "https://open.spotify.com/track/397k2vS0xPDxKKVXV46KtV"
     },
     {

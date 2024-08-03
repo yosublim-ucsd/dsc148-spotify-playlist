@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,946 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,942 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 22 | [Se Le Moja la Canoa \(La Canoa\)](https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:18 |
 | 23 | [Todo el Mundo Necesita un Beso](https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:11 |
 | 24 | [Junto A Tu Corazon](https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx) | [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Y Como Se Mata El Gusano?](https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK) | 3:16 |
-| 25 | [La Canoa Ranchaa](https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [10 De Colección](https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk) | 4:40 |
+| 25 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/5UgfYKsfRexKoIMVbVvlBo) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Navidades Con la Sonora Dinamita: 16 Grandes Éxitos Navideños](https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE) | 4:04 |
 | 26 | [En Barranquilla Me Quedo](https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Inmortal \(Vol\. 2\)](https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX) | 5:11 |
 | 27 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
-| 28 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/5UgfYKsfRexKoIMVbVvlBo) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Navidades Con la Sonora Dinamita: 16 Grandes Éxitos Navideños](https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE) | 4:04 |
+| 28 | [La Canoa Ranchaa](https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [10 De Colección](https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk) | 4:40 |
 | 29 | [Cariñito](https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Listos para Bailar](https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM) | 3:46 |
 | 30 | [El Pichón](https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 3:11 |
 | 31 | [Charanga Campesina](https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Homenaje a una Leyenda Viva \(Vol\. 1\)](https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX) | 2:38 |

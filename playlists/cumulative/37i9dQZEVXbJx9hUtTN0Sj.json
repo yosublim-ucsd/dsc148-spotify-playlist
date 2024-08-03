@@ -5588,7 +5588,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 226621,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
@@ -7673,6 +7673,24 @@
     },
     {
       "album": {
+        "name": "Miss Me (Bad Vibes)",
+        "url": "https://open.spotify.com/album/3TIpMfHHSHcxAK21dznS1k"
+      },
+      "artists": [
+        {
+          "name": "Bex",
+          "url": "https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153823,
+      "name": "Miss Me (Bad Vibes)",
+      "url": "https://open.spotify.com/track/15e0X7dZpR6r4bE6lpmNGW"
+    },
+    {
+      "album": {
         "name": "Modern Love",
         "url": "https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA"
       },
@@ -9498,7 +9516,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 188674,
       "name": "Red - From \"Descendants: The Rise of Red\"",
       "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
@@ -10826,6 +10844,24 @@
       "duration_ms": 176585,
       "name": "Sun is Dark",
       "url": "https://open.spotify.com/track/6ON2gyL84H0thd0euvuCNB"
+    },
+    {
+      "album": {
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585374,
+      "name": "Supernature",
+      "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
     },
     {
       "album": {

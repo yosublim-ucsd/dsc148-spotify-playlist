@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💜 Tones And I
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,917 likes - 91 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,913 likes - 91 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

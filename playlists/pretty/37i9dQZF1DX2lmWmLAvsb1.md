@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 
 > The biggest songs in Latin America in 2019\. Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,226 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,258 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 | 41 | [Contando Lunares \(feat\. Cruz Cafuné\)](https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD) | [Don Patricio](https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [La Dura Vida del Joven Rapero](https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y) | 3:39 |
 | 42 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 |
 | 43 | [Otro Trago](https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:45 |
-| 44 | [Indeciso](https://open.spotify.com/track/59s0s39NFWScuHDbHytI14) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Indeciso](https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P) | 3:37 |
-| 45 | [Cristina](https://open.spotify.com/track/703iVQrfbQsXt7Uzgy1h8k) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:21 |
+| 44 | [Cristina](https://open.spotify.com/track/703iVQrfbQsXt7Uzgy1h8k) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:21 |
+| 45 | [Indeciso](https://open.spotify.com/track/59s0s39NFWScuHDbHytI14) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Indeciso](https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P) | 3:37 |
 | 46 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
 | 47 | [La Playa](https://open.spotify.com/track/0jeS8PyyIRAG0A3t5DtL71) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Playa](https://open.spotify.com/album/5PCQtgStgFE0UMZXd9YuYz) | 3:27 |
 | 48 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 |

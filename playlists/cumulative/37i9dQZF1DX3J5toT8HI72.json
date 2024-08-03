@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165382,
+      "name": "At\u00e9 o Topo do Mundo",
+      "url": "https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF"
+    },
+    {
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu"
       },
@@ -534,7 +552,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 199081,
       "name": "calor do momento",
       "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"

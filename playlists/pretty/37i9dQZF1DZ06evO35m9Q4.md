@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 ### [This Is Stevie Ray Vaughan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO35m9Q4)
 
-> This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
+> This is Stevie Ray Vaughan\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,268 likes - 48 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,304 likes - 48 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pride and Joy](https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 3:39 |
 | 2 | [Life by the Drop](https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:27 |
-| 3 | [Little Wing](https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 6:48 |
+| 3 | [Scuttle Buttin'](https://open.spotify.com/track/18PhtDBBYxE0vN4YvsZnMy) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 1:51 |
 | 4 | [The House Is Rockin'](https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 2:23 |
 | 5 | [Mary Had a Little Lamb](https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 2:46 |
 | 6 | [First We Take Manhattan \- Digitally Remastered](https://open.spotify.com/track/6IRkoSxV526waQU14HQ3cE) | [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Famous Blue Raincoat: 20th Anniversary Edition \(Digitally Remastered\)](https://open.spotify.com/album/3658N94yX3heWmnz4BToOA) | 3:46 |
-| 7 | [Scuttle Buttin'](https://open.spotify.com/track/18PhtDBBYxE0vN4YvsZnMy) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 1:51 |
+| 7 | [Little Wing](https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 6:48 |
 | 8 | [Crossfire](https://open.spotify.com/track/0jlLHrrb4aR9evd3ZwNs5I) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 4:08 |
 | 9 | [Love Struck Baby](https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 2:21 |
 | 10 | [The Things \(That\) I Used to Do](https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:54 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 26 | [Love Me Darlin'](https://open.spotify.com/track/1sjUHvDjIh4pCjAVwvbB4D) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 3:18 |
 | 27 | [So Excited](https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 3:29 |
 | 28 | [Chitlins Con Carne](https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Sky Is Crying](https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B) | 3:56 |
-| 29 | [Superstition \- Live](https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:40 |
-| 30 | [Lookin' out the Window](https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 2:47 |
+| 29 | [Lookin' out the Window](https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 2:47 |
+| 30 | [Superstition \- Live](https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:40 |
 | 31 | [Shake 'N Bake](https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:51 |
 | 32 | [Willie The Wimp \- Live](https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live Alive](https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW) | 4:37 |
 | 33 | [Pride And Joy](https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:59 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 47 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 |
 | 48 | [Ask Me No Questions](https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:02 |
 
-Snapshot ID: `Zql+gAAAAABXOrwDNpn1iu9MUL6CXdkY`
+Snapshot ID: `ZqrQAAAAAACgslTDH3qVcoCH5nSGLsG9`

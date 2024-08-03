@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,832 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,869 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 92 | [A Los Ojos](https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Calamaro Querido!! Cantando Al Salmón Parte 1](https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT) | 4:06 |
 | 93 | [Llegaste A Mí](https://open.spotify.com/track/5grcUqpWzP1TPr4cmTGGnR) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Llegaste A Mí](https://open.spotify.com/album/29bASZaLBI3n4wfIh9dren) | 3:32 |
 | 94 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 |
-| 95 | [La Musica](https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Codigos Del Alma](https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS) | 5:07 |
-| 96 | [No Fuí Tu Maestro](https://open.spotify.com/track/4m9tGI5WmzIjlGmu6j4HxB) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Unity Sound](https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH) | [No Fuí Tu Maestro](https://open.spotify.com/album/61j6BJdMGTF8DUOLhUMaJA) | 3:10 |
+| 95 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
+| 96 | [La Musica](https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Codigos Del Alma](https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS) | 5:07 |
 | 97 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 |
-| 98 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
+| 98 | [No Fuí Tu Maestro](https://open.spotify.com/track/4m9tGI5WmzIjlGmu6j4HxB) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Unity Sound](https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH) | [No Fuí Tu Maestro](https://open.spotify.com/album/61j6BJdMGTF8DUOLhUMaJA) | 3:10 |
 | 99 | [Gaia](https://open.spotify.com/track/43pdManuxxQh80XyU51ybY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Dēlian](https://open.spotify.com/artist/5n94TmRaYAFTLipsCmiDA3) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:44 |
 | 100 | [Como Un Volcán](https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Como Un Volcán](https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL) | 3:47 |
 

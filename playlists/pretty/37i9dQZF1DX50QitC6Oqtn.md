@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,480,862 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,480,822 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 |
 | 2 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
-| 3 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
-| 4 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
+| 3 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
+| 4 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
 | 5 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 6 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 7 | [Rewrite The Stars \(with James Arthur & Anne\-Marie\)](https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Rewrite The Stars \(with James Arthur & Anne\-Marie\)](https://open.spotify.com/album/4i7GEsKuuCtECD5l0VUctL) | 3:38 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 35 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
 | 36 | [South of the Border \(feat\. Camila Cabello & Cardi B\)](https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 |
 | 37 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 |
-| 38 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
+| 38 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
 | 39 | [I'll Never Love Again \- Film Version](https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 4:41 |
-| 40 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
+| 40 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
 | 41 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
 | 42 | [She's The One](https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 4:18 |
 | 43 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 94 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
 | 95 | [My Heart](https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) | 3:16 |
 | 96 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |
-| 97 | [Like No One Does](https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Like No One Does](https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2) | 2:38 |
-| 98 | [Don't Let Me Down](https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 |
+| 97 | [Don't Let Me Down](https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 |
+| 98 | [Like No One Does](https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Like No One Does](https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2) | 2:38 |
 | 99 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
 | 100 | [Kiss from a Rose](https://open.spotify.com/track/0z5E34e7ZT3XKMYQNXh6tH) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Best 1991 \- 2004](https://open.spotify.com/album/3Fb7L1abcJbTt729nCq2eZ) | 4:48 |
 

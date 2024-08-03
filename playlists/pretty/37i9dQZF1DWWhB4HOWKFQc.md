@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Meiska
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,407 likes - 93 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310,131 likes - 93 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

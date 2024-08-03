@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,703 likes - 65 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,748 likes - 65 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 47 | [The Life Of Riley](https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Life Of Riley \- The Lightning Seeds Collection](https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd) | 4:04 |
 | 48 | [The Only One I Know](https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj) | 3:58 |
 | 49 | [Wide Open Space](https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ) | 4:31 |
-| 50 | [Sit Down](https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6) | 4:04 |
-| 51 | [Disco 2000](https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw) | 4:33 |
+| 50 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
+| 51 | [Sit Down](https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6) | 4:04 |
 | 52 | [The Drugs Don't Work](https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:05 |
-| 53 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
+| 53 | [Disco 2000](https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw) | 4:33 |
 | 54 | [You're Gorgeous](https://open.spotify.com/track/44OnyhrKWViHX8aHnMk0PU) | [Babybird](https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh) | [Best of Babybird](https://open.spotify.com/album/7AHO6a0Xt8U95Rsf5CVXM3) | 3:43 |
 | 55 | [Just](https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 3:54 |
 | 56 | [Laid](https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [James: The Best Of](https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb) | 2:36 |

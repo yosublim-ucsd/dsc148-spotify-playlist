@@ -4,7 +4,7 @@
 
 > This is Rex Orange County\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 12 min
+38 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Corduroy Dreams](https://open.spotify.com/track/2ravLKGYnJWa7szKSBRTRJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 3:26 | 2023-12-18 |  |
 | [Edition](https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/4Ao4KDoCp2AuONTk5XO2F4) | 1:55 | 2023-12-18 |  |
 | [Face to Face](https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 3:39 | 2023-12-18 |  |
+| [Forever Always](https://open.spotify.com/track/1Ioxy6OY4NwwxHFS7XLh8I) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [CATCH](https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi) | 3:35 | 2024-08-03 |  |
 | [Foreword \(feat\. Rex Orange County\)](https://open.spotify.com/track/33i3xxHB4YSYGYbtJrwwO8) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:14 | 2023-12-18 |  |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-21 |  |
 | [Happiness](https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 4:39 | 2023-12-18 |  |

@@ -4,10 +4,13 @@
 
 > Tranquil flute music from around the world.
 
-214 songs - 12 hr 19 min
+219 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [528 Hz Beliefs](https://open.spotify.com/track/4Ol5b9fF8DDil3Q37BccMH) | [Infinite Imagination](https://open.spotify.com/artist/2PQdqbfdZhfs3BAKayChbv) | [528 Hz Beliefs](https://open.spotify.com/album/18CU8X1UA82VXq38CSW1BR) | 2:28 | 2024-08-02 |  |
+| [528 Hz Clarity](https://open.spotify.com/track/6LiHwvBFOyOi6z7BGdZ2bB) | [Infinite Imagination](https://open.spotify.com/artist/2PQdqbfdZhfs3BAKayChbv) | [528 Hz Clarity](https://open.spotify.com/album/2vkNGw46yIEjOLlmow2N4B) | 2:10 | 2024-08-02 |  |
+| [A Day of Peace](https://open.spotify.com/track/3EVh0iqH4LhGGBjt1zNMDP) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [A Day of Peace](https://open.spotify.com/album/4PyrDB3T18XD44jUpW2CYa) | 2:35 | 2024-08-02 |  |
 | [A New Beginning \- Spa](https://open.spotify.com/track/0k8Bc6ooJoCGMeZgAZOrQY) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [A New Beggining](https://open.spotify.com/album/1GYqZ8jMnTBABZnWkAeaCE) | 3:42 | 2022-09-30 |  |
 | [A Sense Of Peace 432 Hz](https://open.spotify.com/track/6lZyRaZIuJrf7BO1EPGx6r) | [Jaranda Mills](https://open.spotify.com/artist/6zH98FDJyjnXV38CgAApE0) | [A Sense Of Peace 432 Hz](https://open.spotify.com/album/5vzyfqoiSo1PY3Nb61qx7o) | 2:39 | 2023-07-11 |  |
 | [Aashchary](https://open.spotify.com/track/6CfGvzMZH5TQ0SCmbOm5Br) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Aashchary](https://open.spotify.com/album/25TMsMiB5NoYZqvTX082Xp) | 5:10 | 2022-09-30 | 2024-01-20 |
@@ -131,6 +134,7 @@
 | [Mystical Flute Meditation](https://open.spotify.com/track/5L1pWVP4ZrtjYuqoLqhScu) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Mystical Flute Meditation](https://open.spotify.com/album/0jCMSNyYb5ctbVFwYIGNGg) | 2:14 | 2024-01-19 |  |
 | [Namaste Divine](https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Namaste Divine](https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP) | 4:04 | 2023-01-05 |  |
 | [Native Flute Music](https://open.spotify.com/track/5LGBZ69z9fTW6b9pycICa9) | [Flute Music Meditation DEA Channel](https://open.spotify.com/artist/3JwH8swvnqAq6y4BKmwSe3), [Deep Sleep Music DEA Channel](https://open.spotify.com/artist/58EFY0ThOAiwT3zm9PEvFd), [Spa Music Relaxation](https://open.spotify.com/artist/6JKzNyyRN128rILrhNBscX) | [Shamanic Journey: Native American Flute, Essential Music for Sleep, Relax, Yoga and Meditation](https://open.spotify.com/album/0H20zklqf2ydcYAC2dQiSf) | 2:28 | 2022-09-30 | 2023-10-05 |
+| [New Heights](https://open.spotify.com/track/2dRGLnWoSUU4p1MJ91aLtl) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [New Heights](https://open.spotify.com/album/1MY0YY8yXxEjiehCojNy8u) | 2:44 | 2024-08-02 |  |
 | [Niang Beach](https://open.spotify.com/track/6G9ruTXuzSeREtSUhT1OFM) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [My Heaven](https://open.spotify.com/album/0MdDvpezYmodpUTFTe6IGz) | 3:21 | 2023-07-11 |  |
 | [Northern Shaman](https://open.spotify.com/track/2xtVu9SUREW1IubdATzzAh) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Northern Shaman](https://open.spotify.com/album/2wpjyeRC643byytLwOhAwl) | 2:12 | 2023-10-04 |  |
 | [Ocean](https://open.spotify.com/track/0kpDVHMMg5eFXae7ddvfyr) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Ocean](https://open.spotify.com/album/6u1hbwcRrB06KPB9YZeIOZ) | 2:58 | 2022-09-30 |  |
@@ -161,7 +165,7 @@
 | [Sacred Ground](https://open.spotify.com/track/6PxTMB5LMGPjvR9dWBuitM) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Sacred Ground](https://open.spotify.com/album/0wq8hoYD8OuWRBV4CiDb0u) | 1:40 | 2023-07-11 | 2023-10-05 |
 | [Sacred Spaces](https://open.spotify.com/track/501zYIHH32JnpZQvt9YTeF) | [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Hearts, Hands & Hides](https://open.spotify.com/album/7FBaZcKjaD4HPCXNP6Tqzn) | 4:24 | 2022-09-30 | 2024-01-20 |
 | [Savasana](https://open.spotify.com/track/0Oo43tIk2HAlwAJQxyDC5c) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Savasana](https://open.spotify.com/album/7r2n1hUEX5PNl1NEyyWxnu) | 4:34 | 2022-09-30 |  |
-| [Savasana Dream](https://open.spotify.com/track/1UJSTJmCGyVMiF66dlIvLv) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Savasana Dream](https://open.spotify.com/album/6McMuE7IKh65r5Gj8YciCS) | 2:44 | 2022-09-30 |  |
+| [Savasana Dream](https://open.spotify.com/track/1UJSTJmCGyVMiF66dlIvLv) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Savasana Dream](https://open.spotify.com/album/6McMuE7IKh65r5Gj8YciCS) | 2:44 | 2022-09-30 | 2024-08-03 |
 | [Sed Diabolus](https://open.spotify.com/track/7uaiSM60iVyJa0OruigVwH) | [Hildegard von Bingen](https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d), [Riley Kelly Lee](https://open.spotify.com/artist/504sqdx7lGgBHusaJ3XjgJ), [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Sed Diabolus](https://open.spotify.com/album/1hWVdLI2sQk3ceuUwtMV2D) | 3:13 | 2022-09-30 | 2024-01-20 |
 | [Serenade](https://open.spotify.com/track/4S5fjLovqyU2TLgwdHaQMS) | [Alfred Blue](https://open.spotify.com/artist/68RZ0KbVL20s47Mj3mU40o) | [Serenade](https://open.spotify.com/album/1bKkTN4YE7EFBZQaPXkr2b) | 2:37 | 2022-09-30 | 2024-07-17 |
 | [Serenity's Song](https://open.spotify.com/track/0qg3uSI3ZG7MrS9U5j0yol) | [Eliza Tench](https://open.spotify.com/artist/5O9PTsfaoZj1yPtLBATqxG) | [Serenity's Song](https://open.spotify.com/album/3tlLoLYPqDlqwBVu1UiDUc) | 2:01 | 2023-07-11 |  |
@@ -215,6 +219,7 @@
 | [Voyage Destiny \- Meditation](https://open.spotify.com/track/23Ksi28REyLkoyWUF7uX6M) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Voyage Destiny](https://open.spotify.com/album/3XBTzw8FTw0Hc7Pzp2bAR7) | 2:32 | 2024-01-19 |  |
 | [Warm Breeze](https://open.spotify.com/track/1LtXfSiSlCUnLPDjJV0FPR) | [Ocean Tides](https://open.spotify.com/artist/1B4yvrnL53icZnmR4y6upU) | [Warm Breeze](https://open.spotify.com/album/6CMRXqcYOR3X37UDG3GqsI) | 3:19 | 2023-03-09 | 2024-04-19 |
 | [Warm Breeze](https://open.spotify.com/track/4T5OICEpPY57v3xqHwEQ3X) | [Ocean Tides](https://open.spotify.com/artist/1B4yvrnL53icZnmR4y6upU) | [Warm Breeze](https://open.spotify.com/album/4xdDaS4SrS6rctBC4IyVM8) | 3:19 | 2022-09-30 | 2024-07-17 |
+| [Waŋblí Feather](https://open.spotify.com/track/0LM55TH6KXKU4PwRjWByVA) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Waŋblí Feather](https://open.spotify.com/album/7GqynaPAAHrCrR5WOAEkXg) | 2:47 | 2024-08-02 |  |
 | [Whispers of the Wind](https://open.spotify.com/track/3S37Jc5BpUnJyPbjVbWD7V) | [Rosen Hill](https://open.spotify.com/artist/3sllty9KYyjGkrdbPb8i5I) | [Whispers of the Wind](https://open.spotify.com/album/7rZ9fSdHmJYNTYOOPO3Jdc) | 2:13 | 2023-07-11 |  |
 | [White Lotus](https://open.spotify.com/track/15HDi1beJ2txFyX2Cugg87) | [Vaishnavi Voyage](https://open.spotify.com/artist/6eS4n8Fr2GdJS3gF9WdvhD) | [White Lotus](https://open.spotify.com/album/6cbIfNUOSHiWug6rEbl26Y) | 2:05 | 2023-02-10 |  |
 | [Wildflower](https://open.spotify.com/track/3HVDFnWP10WXt6HEhyqWnp) | [Ari Urban](https://open.spotify.com/artist/47f1M0PYnPfGDCUeLd32Y0) | [Wildflower](https://open.spotify.com/album/5xskZBfYv6WitYwveIU0A9) | 3:50 | 2022-09-30 | 2023-10-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Rizwan Fadilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,889 likes - 36 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,901 likes - 36 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

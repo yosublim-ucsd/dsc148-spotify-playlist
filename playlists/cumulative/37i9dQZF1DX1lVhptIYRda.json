@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Luke Combs and Post Malone",
+  "description": "Today's top country hits. Cover: Kacey Musgraves",
   "name": "Hot Country",
   "tracks": [
     {
@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "A Cigarette",
+        "url": "https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179882,
+      "name": "A Cigarette",
+      "url": "https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U"
+    },
+    {
+      "album": {
         "name": "A Song to Remember",
         "url": "https://open.spotify.com/album/4KGKWE4V71HwOH7hCfuR79"
       },
@@ -438,7 +456,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 228346,
       "name": "All Again",
       "url": "https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX"
@@ -788,6 +806,24 @@
       "duration_ms": 183477,
       "name": "Arkansas Diamond",
       "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
+    },
+    {
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
       "album": {
@@ -4800,7 +4836,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 187333,
       "name": "Good On You",
       "url": "https://open.spotify.com/track/4rgtVCZ85aJHX0MVPM6fjw"
@@ -7708,6 +7744,28 @@
       "duration_ms": 175066,
       "name": "Lonely If You Are",
       "url": "https://open.spotify.com/track/1Ut1A8UaNqGuwsHgWq75PW"
+    },
+    {
+      "album": {
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
       "album": {
@@ -12324,7 +12382,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 187880,
       "name": "The Devil I Know",
       "url": "https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7"

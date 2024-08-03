@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1164206,
+  "num_followers": 1164183,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Some People I Know",
         "url": "https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 139060,
       "name": "Red And Gold",
       "url": "https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -871,34 +871,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Jenny Jenkins (Acoustic)",
-        "url": "https://open.spotify.com/album/2KMCjuIn9c73564EGhRH9u"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 241215,
-      "name": "Jenny Jenkins (Acoustic)",
-      "url": "https://open.spotify.com/track/2oF3Ipzuj03PoAmRX9LDXf"
+      "duration_ms": 154491,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -919,18 +903,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
       "artists": [
         {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 154491,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -947,6 +931,22 @@
       "duration_ms": 356522,
       "name": "Better Way",
       "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Jenny Jenkins (Acoustic)",
+        "url": "https://open.spotify.com/album/2KMCjuIn9c73564EGhRH9u"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 241215,
+      "name": "Jenny Jenkins (Acoustic)",
+      "url": "https://open.spotify.com/track/2oF3Ipzuj03PoAmRX9LDXf"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Joy Alchemy",
-        "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
-      },
-      "artists": [
-        {
-          "name": "Tow'rs",
-          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Southern Facing Room",
-      "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Joy Alchemy",
+        "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
+      },
+      "artists": [
+        {
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Southern Facing Room",
+      "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Orange Tree",
         "url": "https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 192106,
       "name": "Orange Tree",
       "url": "https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Northern Winds (Live at the Elmwood Hall)",
+        "url": "https://open.spotify.com/album/62xX4MkPWcOc0bNTtutJLZ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Northern Winds - Live at the Elmwood Hall",
+      "url": "https://open.spotify.com/track/0Prb5h6luP4VKhudkrMPFy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Northern Winds (Live at the Elmwood Hall)",
-        "url": "https://open.spotify.com/album/62xX4MkPWcOc0bNTtutJLZ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Northern Winds - Live at the Elmwood Hall",
-      "url": "https://open.spotify.com/track/0Prb5h6luP4VKhudkrMPFy"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Note to Self",
         "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Pocket Full of Rain",
-      "url": "https://open.spotify.com/track/7bUbLYm0GJoTF7ct92WnXm"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "All the Things That I Did and All the Things That I Didn't Do",
         "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 184040,
       "name": "Mourning in America",
       "url": "https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Pocket Full of Rain",
+      "url": "https://open.spotify.com/track/7bUbLYm0GJoTF7ct92WnXm"
     },
     {
       "added_at": "2023-10-27 04:00:00",

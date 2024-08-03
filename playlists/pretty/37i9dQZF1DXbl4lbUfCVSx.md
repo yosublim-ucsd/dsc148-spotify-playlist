@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,255 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,256 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Se Pa Pou dat](https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Se Pa Pou Dat](https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn) | 5:41 |
-| 2 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
+| 1 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
+| 2 | [Se Pa Pou dat](https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Se Pa Pou Dat](https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn) | 5:41 |
 | 3 | [Mon Soleil](https://open.spotify.com/track/5R6kK3ZRUlb2dkI0E3psXo) | [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [Juste Moi \(Part 1\)](https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo) | 4:17 |
 | 4 | [C'est toi](https://open.spotify.com/track/7nHGMX1tgemCoNTwuEnYm5) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 2:41 |
 | 5 | [Ti doudou](https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Option](https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz) | 4:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 39 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 |
 | 40 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 |
 
-Snapshot ID: `ZoWjQAAAAACoSpwWLQuh0nf+3wqYpqT5`
+Snapshot ID: `ZqxZwAAAAAAFxvZLh9oT6o95SrNEwBQa`

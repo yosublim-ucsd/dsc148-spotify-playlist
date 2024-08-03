@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: MILLY",
+  "description": "The perfect mix of punk, rock, alt & indie. Cover: Porridge Radio",
   "name": "Noisy",
   "tracks": [
     {
@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 222908,
       "name": "Away From The Castle",
       "url": "https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 263973,
       "name": "Brass Bell",
       "url": "https://open.spotify.com/track/0vNu5t0o0R57Xy1e10d5zI"
@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 209800,
       "name": "Build a Bridge",
       "url": "https://open.spotify.com/track/04X3gZTOCcaBtoTYCV3X3K"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 238213,
       "name": "Can\u2019t Believe We're Here",
       "url": "https://open.spotify.com/track/6EwGSVvfTqgykrkExXCsQG"
@@ -3456,7 +3456,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 216949,
       "name": "Enjoyer",
       "url": "https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI"
@@ -6375,6 +6375,24 @@
     },
     {
       "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214507,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj"
+    },
+    {
+      "album": {
         "name": "Jump!! (Or Get Jumped!!!)((by the future))",
         "url": "https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8"
       },
@@ -7182,7 +7200,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183128,
       "name": "Love Is Fire",
       "url": "https://open.spotify.com/track/2h2LCucFMULWhAhRAKJdNn"
@@ -7200,7 +7218,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 238773,
       "name": "Love On The Outside",
       "url": "https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh"
@@ -7816,7 +7834,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 185914,
       "name": "Moonstruck",
       "url": "https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i"
@@ -7978,7 +7996,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196000,
       "name": "My Best Friend",
       "url": "https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2"
@@ -9314,7 +9332,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 247520,
       "name": "Quarry",
       "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
@@ -10326,10 +10344,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 123337,
       "name": "Sick Day",
       "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+    },
+    {
+      "album": {
+        "name": "Sick Of The Blues",
+        "url": "https://open.spotify.com/album/300fGC25ykyxbLrazATeMP"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203769,
+      "name": "Sick Of The Blues",
+      "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
     },
     {
       "album": {
@@ -10348,6 +10384,24 @@
       "duration_ms": 188342,
       "name": "Sick of The Silence",
       "url": "https://open.spotify.com/track/2x9Hr7Fuf9E8Z7vONIHPyM"
+    },
+    {
+      "album": {
+        "name": "Sick Sweet",
+        "url": "https://open.spotify.com/album/6L6seQappAQPbm2rf0YZRb"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Sick Sweet",
+      "url": "https://open.spotify.com/track/4nWJkUQsbhL411zU29VNYK"
     },
     {
       "album": {
@@ -10848,7 +10902,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 118595,
       "name": "Stay Golden",
       "url": "https://open.spotify.com/track/2LdXeZ4g5veCIln1UvC1ke"
@@ -11770,7 +11824,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 129923,
       "name": "The Thief",
       "url": "https://open.spotify.com/track/4VgwQttkrdly8kcYM2DXdc"

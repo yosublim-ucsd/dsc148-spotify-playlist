@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-248 songs - 13 hr 2 min
+249 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Make My Bed](https://open.spotify.com/track/1st16i7UZSXuNteGAJ5pMR) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 2:00 | 2024-03-20 | 2024-05-16 |
 | [March 8](https://open.spotify.com/track/4jRcB4wbhwhYVLYQr6fB8Y) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Ya Chaika](https://open.spotify.com/album/4tVFs4nSvfiD2TubHFYR0B) | 1:21 | 2024-01-31 | 2024-03-10 |
 | [Mario's Cafe](https://open.spotify.com/track/0DphBni42F0bpa2E7ptWjV) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [So Tough](https://open.spotify.com/album/2FTeecYAHUqD087fRHHuNF) | 4:37 | 2024-06-02 | 2024-07-12 |
+| [Mario's Flaming Whiskers III](https://open.spotify.com/track/3Bktyrnmrdw05133ofR9Dl) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 2:30 | 2024-08-02 |  |
 | [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:09 | 2024-06-14 | 2024-07-12 |
 | [Microtronics 20](https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx) | 1:35 | 2024-04-18 | 2024-05-16 |
 | [Mint](https://open.spotify.com/track/0RYwEPSvf7KSj5YI0VA72t) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 3:23 | 2024-01-08 | 2024-03-10 |

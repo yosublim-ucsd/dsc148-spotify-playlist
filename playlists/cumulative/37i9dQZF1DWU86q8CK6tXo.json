@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 137946,
       "name": "all these little words",
       "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
@@ -2396,6 +2396,24 @@
       "duration_ms": 180949,
       "name": "Bayam\u00f3n",
       "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "album": {
+        "name": "Be My Glory",
+        "url": "https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf"
+      },
+      "artists": [
+        {
+          "name": "Trulah",
+          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262213,
+      "name": "Be My Glory",
+      "url": "https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s"
     },
     {
       "album": {

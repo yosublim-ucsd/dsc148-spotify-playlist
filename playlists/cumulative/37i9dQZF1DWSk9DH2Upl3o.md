@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-207 songs - 19 hr 16 min
+208 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [My Mans Was a Funky Cat](https://open.spotify.com/track/7yvrKIBMBgPwbBWmb6ZO9K) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [My Mans Was a Funky Cat](https://open.spotify.com/album/5Psv09dk1wPIoiPTUz5F4s) | 4:29 | 2024-05-31 | 2024-06-29 |
 | [Myrtle](https://open.spotify.com/track/3w58LambC0n9cuwxJ0wuXW) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [Scary Blankets](https://open.spotify.com/album/0yYqSumt1RNjNJDnt1OnHh) | 9:18 | 2022-06-23 | 2023-06-03 |
 | [New Eyes](https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Joyfunk Is Dead](https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7) | 2:53 | 2022-06-23 | 2023-05-06 |
-| [New Sol](https://open.spotify.com/track/3vrivUYRw4s9cMKzJTuNhV) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [New Sol](https://open.spotify.com/album/1Jo3CNhZXWLmUzaOSYIizE) | 4:20 | 2024-07-12 |  |
+| [New Sol](https://open.spotify.com/track/3vrivUYRw4s9cMKzJTuNhV) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [New Sol](https://open.spotify.com/album/1Jo3CNhZXWLmUzaOSYIizE) | 4:20 | 2024-07-12 | 2024-08-03 |
 | [Not Just a Word](https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Not Just a Word](https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1) | 5:38 | 2022-08-26 | 2023-06-03 |
 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 | 2022-06-23 |  |
 | [Oblivion](https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Oblivion](https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv) | 6:03 | 2024-05-24 | 2024-06-15 |
@@ -203,6 +203,7 @@
 | [Waltz of a Thousand Stars](https://open.spotify.com/track/7t81QaJ5tYzJVbX17Damcc) | [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE) | [Waltz of a Thousand Stars](https://open.spotify.com/album/26JiCjMeocXoE0wra5IcxB) | 2:40 | 2022-09-30 | 2023-06-24 |
 | [Warming Up](https://open.spotify.com/track/5atSKRkn8KIc6juTtZuRja) | [Jon Sullivan Band](https://open.spotify.com/artist/23FBB7KARNDUnKXhzo93Pb) | [Warming Up](https://open.spotify.com/album/37LcA7IfthCIjmFG4v1Vsn) | 5:38 | 2023-07-07 |  |
 | [Water Level](https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Arise](https://open.spotify.com/album/4gpAq0kaZMRURC4mn8zBGm) | 6:09 | 2022-10-28 | 2024-02-10 |
+| [We Push Mountains](https://open.spotify.com/track/3giJAslwDu6NiMDb45hJgs) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [Dangermuffin](https://open.spotify.com/album/2y4DRNJCI177adj2JME16M) | 4:25 | 2024-08-02 |  |
 | [Weeknight Revival](https://open.spotify.com/track/5GrPSvu8FuPiYITxj3LDOW) | [Lucky Gallops](https://open.spotify.com/artist/3HHY9PnBoxmGUQBHasbGtt), [Caveman::Beta](https://open.spotify.com/artist/21PE7CMxuh99lWEkp0udZs) | [Weeknight Revival](https://open.spotify.com/album/2Z36IOgQMrFSgV8MDaGQtl) | 7:29 | 2022-10-07 |  |
 | [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 |  |
 | [When Ya Hustle](https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq) | [Cytrus](https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q) | [Extraction](https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA) | 4:07 | 2022-09-09 |  |

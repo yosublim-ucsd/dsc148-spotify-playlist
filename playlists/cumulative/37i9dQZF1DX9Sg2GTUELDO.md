@@ -4,7 +4,7 @@
 
 > 感受超級女聲力量。Cover：VIVA
 
-347 songs - 20 hr 57 min
+348 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 | 2024-06-27 |  |
 | [垃圾女星](https://open.spotify.com/track/2tAHyOEk02Ao7hGMazvaFg) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [垃圾女星](https://open.spotify.com/album/7hIgg1r3CdA8OgHHbFCDtN) | 3:31 | 2024-06-27 |  |
 | [報復式浪漫](https://open.spotify.com/track/6HITvIt0YrLqYbDzyl1pbI) | [Elly艾妮](https://open.spotify.com/artist/1Qr8KvDLnY4wY8ndgYOu9S) | [TOKYO BLOOM](https://open.spotify.com/album/5bwMm6xNRjR4s55ADigscJ) | 4:09 | 2024-06-27 |  |
+| [外星少女失語症](https://open.spotify.com/track/1b3RrSZo4YlfMld5CwwFez) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [外星少女失語症](https://open.spotify.com/album/2pBDOiVOij3gFzBGsE1IkS) | 3:03 | 2024-08-01 |  |
 | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/track/0lvs3h7idaLPhnG1eslC75) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [夜風中 \(電視劇《繁花》歌曲\)](https://open.spotify.com/album/0VuHTFO8gQFu81ggO0yuVP) | 3:40 | 2024-06-27 |  |
 | [夢想與夢](https://open.spotify.com/track/2aVETk75kz1k0xh7zxi83q) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX), [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [WE ARE TWINS](https://open.spotify.com/album/3SKJDhMkmIFrE4RQRtiMDS) | 3:11 | 2024-06-27 |  |
 | [大半夜未肯睡](https://open.spotify.com/track/0fucNPeujolYdigae25LyP) | [駱胤鳴](https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq) | [大半夜未肯睡](https://open.spotify.com/album/0xZ83szptwJfrtcZkIR1Ih) | 4:25 | 2024-06-27 |  |

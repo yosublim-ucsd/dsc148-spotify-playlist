@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,337 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,344 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Iluminame, por Favor](https://open.spotify.com/track/4yrVod77eUOgvpBkLwHIgn) | [Chifladas Tango](https://open.spotify.com/artist/6ECEEja2Mu2I8UxShoTgfB), [Suarez&Torres](https://open.spotify.com/artist/3iSir4AjnV4yakBYqKQfti) | [Iluminame, por Favor](https://open.spotify.com/album/5Gx8hAOqxeUOpk4gfbHdrs) | 3:41 |
 | 55 | [Madrugada y Soledad](https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if) | [Marisa Vázquez](https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR) | [Esa Mujer: Buenos Aires](https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF) | 2:35 |
 
-Snapshot ID: `ZkdnUQAAAACdrd1qkEKmSiYgOPZVR6zB`
+Snapshot ID: `Zq0U5QAAAACPiUjICeILP4buk8Z648Z1`

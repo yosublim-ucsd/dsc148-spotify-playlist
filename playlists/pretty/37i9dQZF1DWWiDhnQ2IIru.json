@@ -1,6 +1,6 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3126521,
+  "num_followers": 3127176,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 189386,
-      "name": "Get Back - Remastered 2009",
-      "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 201693,
       "name": "Refugee",
       "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "Get Back - Remastered 2009",
+      "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 365626,
-      "name": "Baker Street",
-      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Bellamy Brothers",
         "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 196826,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
     },
     {
       "added_at": "2022-04-14 15:08:02",
@@ -831,6 +831,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Live!",
+        "url": "https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 427800,
+      "name": "No Woman, No Cry - Live At The Lyceum, London/1975",
+      "url": "https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Live!",
-        "url": "https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik"
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 427800,
-      "name": "No Woman, No Cry - Live At The Lyceum, London/1975",
-      "url": "https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY"
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -911,22 +927,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Endless Flight",
         "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Guitar Man",
-      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 288720,
       "name": "Thunder Road",
       "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Guitar Man",
+      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "At Home",
         "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 187533,
       "name": "Venus",
       "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 197160,
       "name": "O-o-h Child",
       "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Wings At The Speed Of Sound (Archive Collection)",
-        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 354240,
-      "name": "Silly Love Songs - 2014 Remaster",
-      "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Parallel Lines",
         "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "461 Ocean Blvd. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+        "name": "Wings At The Speed Of Sound (Archive Collection)",
+        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 263746,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
+      "duration_ms": 354240,
+      "name": "Silly Love Songs - 2014 Remaster",
+      "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1211,6 +1195,22 @@
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - Remastered 2011",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "461 Ocean Blvd. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 263746,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "One Way Or Another",
-      "url": "https://open.spotify.com/track/1gKmnrz6SzJlGMNRKBLx1V"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "It Ain't Easy",
@@ -1469,20 +1453,20 @@
       "url": "https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "A Nod Is as Good as a Wink... to a Blind Horse",
-        "url": "https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK"
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
       "artists": [
         {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 279360,
-      "name": "Stay with Me",
-      "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"
+      "duration_ms": 216400,
+      "name": "One Way Or Another",
+      "url": "https://open.spotify.com/track/1gKmnrz6SzJlGMNRKBLx1V"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1499,6 +1483,22 @@
       "duration_ms": 315400,
       "name": "Rocky Mountain Way",
       "url": "https://open.spotify.com/track/2XHjFJVXYlEzoDvN82h8s5"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "A Nod Is as Good as a Wink... to a Blind Horse",
+        "url": "https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"
     },
     {
       "added_at": "2021-02-10 18:00:33",

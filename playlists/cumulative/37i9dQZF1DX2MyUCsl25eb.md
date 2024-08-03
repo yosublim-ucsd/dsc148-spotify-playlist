@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-871 songs - 2 day 2 hr 20 min
+873 songs - 2 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-21 | 2023-03-11 |
 | [Antidote \(feat\. Sam Fischer\)](https://open.spotify.com/track/2xjWiL4bvoU8HuQKCPc74M) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Antidote \(feat\. Sam Fischer\)](https://open.spotify.com/album/5RNKvbH8ofonEcdkXcReyA) | 4:40 | 2024-02-23 |  |
 | [Aren't You Tired \(La Di Da\)](https://open.spotify.com/track/6GPy7ZN7SGEtMG3sM3uCpP) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [Aren't You Tired \(La Di Da\)](https://open.spotify.com/album/2TOyNg86Aa8H4YYbg9ba9f) | 3:09 | 2022-12-09 | 2023-03-25 |
+| [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 | 2024-08-02 |  |
 | [Artery](https://open.spotify.com/track/1wJbNrBJ3Bwh4HJvS0NNxT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Artery](https://open.spotify.com/album/2DNglHje1BeqeInOWoFvSX) | 3:42 | 2022-01-28 | 2022-04-21 |
 | [At Your Worst](https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [At Your Worst](https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU) | 2:47 | 2023-08-18 |  |
 | [Baby Don't Leave Me Alone With My Thoughts](https://open.spotify.com/track/6pro0cjgB0tU0V1tifYA2i) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:33 | 2021-08-04 | 2022-03-27 |
@@ -192,6 +193,7 @@
 | [Didn't Say](https://open.spotify.com/track/1N8TRZPLLeWakoc1T1SGYt) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Didn't Say](https://open.spotify.com/album/6CHakQh4FSomvAr2j5MiRV) | 3:26 | 2023-07-28 | 2023-09-30 |
 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 | 2022-10-28 | 2023-07-08 |
 | [Different in My Mind](https://open.spotify.com/track/4IXgNDKg9vjKrVPHtFLrWJ) | [Emily Hackett](https://open.spotify.com/artist/4dTcd3R8sIuVhoOlqgqr0V) | [Different in My Mind](https://open.spotify.com/album/3RLhUqat4saK5RRHi3xZ56) | 4:02 | 2022-06-17 | 2022-06-25 |
+| [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 | 2024-08-02 |  |
 | [Dirty Nikes](https://open.spotify.com/track/2wjkqe0TNPljHEBXknWviW) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:18 | 2021-08-04 | 2022-05-03 |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-05-17 |  |
 | [Distance](https://open.spotify.com/track/4XBdvip0omItMcq8fkbey6) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Distance](https://open.spotify.com/album/1rx6ln0XAM0F8hXVCKjMFN) | 2:40 | 2023-09-01 | 2024-04-06 |
@@ -411,7 +413,7 @@
 | [Innocence and Sadness](https://open.spotify.com/track/3UvLwVk149N2YDwTzpGM2b) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 4:12 | 2022-10-14 | 2023-08-05 |
 | [Inside Out](https://open.spotify.com/track/5K0kxnRaObm0I8ocGBE0pA) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Inside Out](https://open.spotify.com/album/1vt7X7XyjmXidzZqmL8Sz2) | 2:33 | 2023-08-11 | 2023-10-28 |
 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-09-22 | 2024-02-10 |
-| [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 |  |
+| [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 | 2024-08-03 |
 | [It Doesn’t Matter \(feat\. Snøw\)](https://open.spotify.com/track/4F7OOfDDI5ps49NiNS1nNY) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [It Doesn’t Matter \(feat\. Snøw\)](https://open.spotify.com/album/6otl8UZ12KSpqHz9DP4SVL) | 2:28 | 2022-04-08 | 2022-04-20 |
 | [It Never Went Away \- From the Netflix Documentary “American Symphony”](https://open.spotify.com/track/2CcghfG9z26lruSjyRPZiK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [It Never Went Away \(From the Netflix Documentary “American Symphony”\)](https://open.spotify.com/album/5A6ONAnU3RT1vjOvqInUzm) | 3:48 | 2023-11-24 | 2024-06-08 |
 | [It Only Takes Two](https://open.spotify.com/track/7L92GcnLG3bAi7veJRXIe7) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/05ABj8AloK0QlVarxcu4XJ) | 2:38 | 2022-08-26 | 2023-02-18 |
@@ -754,7 +756,7 @@
 | [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 | 2022-05-27 | 2022-06-04 |
 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 | 2021-08-05 | 2022-12-10 |
 | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz) | 2:56 | 2023-06-16 | 2024-03-16 |
-| [The Howl](https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Gravity Stairs](https://open.spotify.com/album/1Fy7fMGY3g1lGy8Wzg0bua) | 3:26 | 2024-05-31 |  |
+| [The Howl](https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Gravity Stairs](https://open.spotify.com/album/1Fy7fMGY3g1lGy8Wzg0bua) | 3:26 | 2024-05-31 | 2024-08-03 |
 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 | 2023-06-16 |  |
 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 |  |
 | [The Messenger](https://open.spotify.com/track/4K9ZhFfPbXbmznYX5EffPE) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [The Messenger](https://open.spotify.com/album/4TvZKVQAUSfTmZgrBj9sCU) | 3:05 | 2023-04-14 | 2023-07-29 |

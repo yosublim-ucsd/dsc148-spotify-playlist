@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 188860,
+  "num_followers": 188880,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/6dOjBEMjKsBu498Zxs2a5f"
+        "name": "Chango",
+        "url": "https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV"
       },
       "artists": [
         {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
         }
       ],
-      "duration_ms": 225320,
-      "name": "Yo Vendo Unos Ojos Negros",
-      "url": "https://open.spotify.com/track/4dQUKpts49oFxLV1rxS2NZ"
+      "duration_ms": 231733,
+      "name": "Zamba de Abril",
+      "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Chango",
-        "url": "https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/6dOjBEMjKsBu498Zxs2a5f"
       },
       "artists": [
         {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
         }
       ],
-      "duration_ms": 231733,
-      "name": "Zamba de Abril",
-      "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
+      "duration_ms": 225320,
+      "name": "Yo Vendo Unos Ojos Negros",
+      "url": "https://open.spotify.com/track/4dQUKpts49oFxLV1rxS2NZ"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Recordando Zambas Con Los Chalchaleros",
-        "url": "https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR"
-      },
-      "artists": [
-        {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Luna Tucumana - Remastered 2003",
-      "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 306586,
       "name": "Oraci\u00f3n del remanso",
       "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Hernan Figueroa Reyes El Unico",
+        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
+      },
+      "artists": [
+        {
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+        }
+      ],
+      "duration_ms": 168948,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Hernan Figueroa Reyes El Unico",
-        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
+        "name": "Recordando Zambas Con Los Chalchaleros",
+        "url": "https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR"
       },
       "artists": [
         {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
         }
       ],
-      "duration_ms": 168948,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
+      "duration_ms": 214493,
+      "name": "Luna Tucumana - Remastered 2003",
+      "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Todos Los Dias Un Poco...",
-        "url": "https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Ojos de Cielo",
-      "url": "https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "MILENA",
         "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 198234,
       "name": "Florcita Del Monte",
       "url": "https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Todos Los Dias Un Poco...",
+        "url": "https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Ojos de Cielo",
+      "url": "https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Luna Tucumana",
-        "url": "https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 261055,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "En Vivo en Argentina, Vol. 2",
         "url": "https://open.spotify.com/album/7CRO8hkgX3b6s07QWkSR61"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 285280,
       "name": "Canci\u00f3n Con Todos (En Vivo)",
       "url": "https://open.spotify.com/track/6fT6G52U6LSLchKQDVx9ai"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Luna Tucumana",
+        "url": "https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 261055,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Como P\u00e1jaros en el Aire",
+      "url": "https://open.spotify.com/track/1h0XaQjEBN3WOiLAOjhRVe"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Canci\u00f3n en Nuestra Casa",
         "url": "https://open.spotify.com/album/4acj7Ja3ihQwCOnKvvDjuM"
       },
@@ -1931,18 +1947,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
+        "name": "Antig\u00fcedades (En Vivo)",
+        "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
       },
       "artists": [
         {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Como P\u00e1jaros en el Aire",
-      "url": "https://open.spotify.com/track/1h0XaQjEBN3WOiLAOjhRVe"
+      "duration_ms": 303555,
+      "name": "Run Run Se Fue Pa'l Norte - En Vivo",
+      "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1963,22 +1979,6 @@
       "duration_ms": 198000,
       "name": "Tarumba",
       "url": "https://open.spotify.com/track/4dkqq32PpBTmzWHiYEYy0Q"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Antig\u00fcedades (En Vivo)",
-        "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
-      },
-      "artists": [
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
-        }
-      ],
-      "duration_ms": 303555,
-      "name": "Run Run Se Fue Pa'l Norte - En Vivo",
-      "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
-        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
-      },
-      "artists": [
-        {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
-        }
-      ],
-      "duration_ms": 238027,
-      "name": "Por Hacer la Am\u00e9rica",
-      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Conjunto Folcl\u00f3rico Salte\u00f1o",
         "url": "https://open.spotify.com/album/0JW1hhUaxu7fxo9n2oz3Kr"
       },
@@ -2079,6 +2063,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
+        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
+      },
+      "artists": [
+        {
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+        }
+      ],
+      "duration_ms": 238027,
+      "name": "Por Hacer la Am\u00e9rica",
+      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Soy Santiague\u00f1o, Soy Chacarera",
         "url": "https://open.spotify.com/album/3z3QEtltCiANqaYu8c4Scy"
       },
@@ -2095,8 +2095,8 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Juan de la Calle",
-        "url": "https://open.spotify.com/album/6HRTNRUeBVVntGVR5e6Amf"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p"
       },
       "artists": [
         {
@@ -2104,9 +2104,9 @@
           "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
         }
       ],
-      "duration_ms": 192026,
-      "name": "Juan de la Calle",
-      "url": "https://open.spotify.com/track/0FEY980G19GmeiVBK2AYzA"
+      "duration_ms": 195266,
+      "name": "Amor Salvaje",
+      "url": "https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6"
     },
     {
       "added_at": "2024-07-12 03:00:00",

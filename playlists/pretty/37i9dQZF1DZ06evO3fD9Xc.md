@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,225 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,231 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 17 | [A Lo Mejor](https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:33 |
 | 18 | [No Le Hago Falta](https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 2:33 |
 | 19 | [Mi Razón de Ser](https://open.spotify.com/track/4yiLCbreyJh6tt8O6VLCkI) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:40 |
-| 20 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
-| 21 | [Por Siempre Mi Amor](https://open.spotify.com/track/6zLXcNShtPIECN9uNjETh6) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:07 |
+| 20 | [Por Siempre Mi Amor](https://open.spotify.com/track/6zLXcNShtPIECN9uNjETh6) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:07 |
+| 21 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
 | 22 | [Buena Señal](https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Buena Señal](https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e) | 3:06 |
 | 23 | [Cicatrices](https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:55 |
 | 24 | [Complicado](https://open.spotify.com/track/40fBOKWD0ophwpsjE9kBcD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:01 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 29 | [Tu Postura](https://open.spotify.com/track/7HQukhNUX9auhsatuRIaVs) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 4:03 |
 | 30 | [Nadie Es Indispensable](https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:02 |
 | 31 | [Si Quieres \- Versión Mariachi](https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Si Quieres \(Versión Mariachi\)](https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc) | 4:18 |
-| 32 | [Dos Balas](https://open.spotify.com/track/0nFrXmyVlEN34M29mN1xiv) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [Dos Balas](https://open.spotify.com/album/76v60AQbzVgs6YyKUtOVgb) | 2:35 |
-| 33 | [Para No Pensar En Ti](https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:29 |
+| 32 | [Para No Pensar En Ti](https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:29 |
+| 33 | [Dos Balas](https://open.spotify.com/track/0nFrXmyVlEN34M29mN1xiv) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [Dos Balas](https://open.spotify.com/album/76v60AQbzVgs6YyKUtOVgb) | 2:35 |
 | 34 | [Tengo Que Colgar](https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 4:02 |
 | 35 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:46 |
 | 36 | [No Me Hubiera Enamorado](https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:17 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 43 | [Merecemos Perdonarnos \(En Vivo\)](https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Merecemos Perdonarnos \(En Vivo\)](https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS) | 3:15 |
 | 44 | [El Barco](https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:46 |
 | 45 | [Jugar a Los Besos](https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Jugar a Los Besos](https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD) | 2:48 |
-| 46 | [Netflix](https://open.spotify.com/track/1OFFyKAkVabL9STnv8bg2f) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Netflix](https://open.spotify.com/album/70oBLKCu7qEnxym8FsabML) | 3:15 |
-| 47 | [Te Lo Pido por Favor](https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:44 |
+| 46 | [Te Lo Pido por Favor](https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:44 |
+| 47 | [Netflix](https://open.spotify.com/track/1OFFyKAkVabL9STnv8bg2f) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Netflix](https://open.spotify.com/album/70oBLKCu7qEnxym8FsabML) | 3:15 |
 | 48 | [Si Me Tenías](https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 4:00 |
 | 49 | [Y Tú](https://open.spotify.com/track/2yPP1AqeDgkVK1H2cZPsLS) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:06 |
 
-Snapshot ID: `Zql+gAAAAAAYTmg40k585PNW5E0be6Gi`
+Snapshot ID: `ZqrQAAAAAACFJg3xMJOIX/iVStgqKV2+`

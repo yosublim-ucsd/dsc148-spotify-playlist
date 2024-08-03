@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 57,
+  "num_followers": 56,
   "original_name": "Works by Mert \u00c7odur ",
   "owner": {
     "name": "Mert \u00c7odur",
     "url": "https://open.spotify.com/user/mertcodur"
   },
-  "snapshot_id": "AAAATokOYGYLcRoOeeArb4krqYm2Wu7Q",
+  "snapshot_id": "AAAAUCfj7LAC27zJloM19FkZQo2kmdwO",
   "tracks": [
+    {
+      "added_at": "2024-08-02 06:16:39",
+      "album": {
+        "name": "zalim",
+        "url": "https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "duration_ms": 130060,
+      "name": "zalim",
+      "url": "https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC"
+    },
     {
       "added_at": "2024-03-22 09:29:36",
       "album": {

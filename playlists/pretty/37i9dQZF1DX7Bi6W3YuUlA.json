@@ -1,6 +1,6 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  <a href=\"spotify:artist:2d8NsBa8O4C6bgQatFP5V4\">nobigdyl.</a>",
-  "num_followers": 46846,
+  "num_followers": 46922,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "No Loss",
+        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "No Loss",
+      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Working it out",
         "url": "https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 176470,
       "name": "Working it out",
       "url": "https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "No Loss",
-        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "No Loss",
-      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Main",
-        "url": "https://open.spotify.com/album/7MBZXqvG8VyUt6FV5Bnd4M"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Main",
-      "url": "https://open.spotify.com/track/0vYQS3JfEzjAa8g2SBuMEa"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 182487,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Main",
+        "url": "https://open.spotify.com/album/7MBZXqvG8VyUt6FV5Bnd4M"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Main",
+      "url": "https://open.spotify.com/track/0vYQS3JfEzjAa8g2SBuMEa"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 181416,
       "name": "I's On Him",
       "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+      },
+      "artists": [
+        {
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Everywhere + Nowhere (Black Edition Deluxe)",
         "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 188443,
       "name": "Very Original",
       "url": "https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
-      },
-      "artists": [
-        {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1527,18 +1527,26 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Already Won",
-        "url": "https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ"
+        "name": "PROBLEMATIC (Remix) [feat. Travis Hobson]",
+        "url": "https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86"
       },
       "artists": [
         {
-          "name": "Yung Titan",
-          "url": "https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU"
+          "name": "Kham",
+          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
+        },
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        },
+        {
+          "name": "Travis Hobson",
+          "url": "https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR"
         }
       ],
-      "duration_ms": 245643,
-      "name": "Already Won",
-      "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
+      "duration_ms": 143512,
+      "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
+      "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1567,26 +1575,34 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "PROBLEMATIC (Remix) [feat. Travis Hobson]",
-        "url": "https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86"
+        "name": "Reality Checks",
+        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
       },
       "artists": [
         {
-          "name": "Kham",
-          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
-        },
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        },
-        {
-          "name": "Travis Hobson",
-          "url": "https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR"
+          "name": "Dru Bex",
+          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
         }
       ],
-      "duration_ms": 143512,
-      "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
-      "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
+      "duration_ms": 190909,
+      "name": "Reality Checks",
+      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ"
+      },
+      "artists": [
+        {
+          "name": "Yung Titan",
+          "url": "https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU"
+        }
+      ],
+      "duration_ms": 245643,
+      "name": "Already Won",
+      "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1603,22 +1619,6 @@
       "duration_ms": 211636,
       "name": "Everybody Else",
       "url": "https://open.spotify.com/track/4OFaELbI7nZV7bPqk4WLPW"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Reality Checks",
-        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
-      },
-      "artists": [
-        {
-          "name": "Dru Bex",
-          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Reality Checks",
-      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1643,54 +1643,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "I Can't Let Up",
-        "url": "https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF"
-      },
-      "artists": [
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "I Can't Let Up",
-      "url": "https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ"
-      },
-      "artists": [
-        {
-          "name": "Kelo",
-          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
-        }
-      ],
-      "duration_ms": 162899,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Find a Way to Smile Again",
-        "url": "https://open.spotify.com/album/0AMPhQCVq4L6dYWMa2Zi2e"
-      },
-      "artists": [
-        {
-          "name": "Taelor Gray",
-          "url": "https://open.spotify.com/artist/581tKXVRFKxu6aSyhYMqan"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "Put Me Back Together",
-      "url": "https://open.spotify.com/track/2qU8O6nsI8smkXTgG21IDf"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Yahweh",
         "url": "https://open.spotify.com/album/7fobcrGBcDBoIizpcIEFFP"
       },
@@ -1711,22 +1663,34 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Accelerate",
-        "url": "https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l"
+        "name": "Find a Way to Smile Again",
+        "url": "https://open.spotify.com/album/0AMPhQCVq4L6dYWMa2Zi2e"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "Taelor Gray",
+          "url": "https://open.spotify.com/artist/581tKXVRFKxu6aSyhYMqan"
         }
       ],
-      "duration_ms": 127409,
-      "name": "Accelerate",
-      "url": "https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW"
+      "duration_ms": 200470,
+      "name": "Put Me Back Together",
+      "url": "https://open.spotify.com/track/2qU8O6nsI8smkXTgG21IDf"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ"
+      },
+      "artists": [
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        }
+      ],
+      "duration_ms": 162899,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1743,6 +1707,42 @@
       "duration_ms": 187285,
       "name": "POSSIBLE",
       "url": "https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "I Can't Let Up",
+        "url": "https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "I Can't Let Up",
+      "url": "https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 127409,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW"
     },
     {
       "added_at": "2024-06-28 07:29:32",

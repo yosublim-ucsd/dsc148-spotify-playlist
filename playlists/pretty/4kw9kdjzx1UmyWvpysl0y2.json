@@ -6,8 +6,32 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASyQTr59ekRcaM29KpADwtJE7ufme/",
+  "snapshot_id": "AAASy5UMsSsvu+us5sfEC1OEDse1rIKo",
   "tracks": [
+    {
+      "added_at": "2024-08-02 14:42:42",
+      "album": {
+        "name": "Feral",
+        "url": "https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        },
+        {
+          "name": "$teven Cannon",
+          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
+        }
+      ],
+      "duration_ms": 134543,
+      "name": "All Black",
+      "url": "https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB"
+    },
     {
       "added_at": "2024-08-01 14:23:29",
       "album": {
@@ -1111,26 +1135,6 @@
       "duration_ms": 204370,
       "name": "Face Lift",
       "url": "https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr"
-    },
-    {
-      "added_at": "2024-05-14 14:42:43",
-      "album": {
-        "name": "Underneath",
-        "url": "https://open.spotify.com/album/0yJwLlRNz1oBjf24GqqteA"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        },
-        {
-          "name": "Nina Carr",
-          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
-        }
-      ],
-      "duration_ms": 182033,
-      "name": "Underneath",
-      "url": "https://open.spotify.com/track/5ysXuifk655k82MjxXHxzS"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

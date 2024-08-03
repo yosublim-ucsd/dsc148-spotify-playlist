@@ -1,12 +1,12 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10138,
+  "num_followers": 10147,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvOCQAAAACGWBnAhRzmLwMMQr/xXFaA",
+  "snapshot_id": "Zq0PZgAAAABeuZoypVCj5WJcLg7NX1Po",
   "tracks": [
     {
       "added_at": "2024-06-07 12:38:26",
@@ -23,6 +23,22 @@
       "duration_ms": 235328,
       "name": "Tuuu",
       "url": "https://open.spotify.com/track/7LuHyWjXwdmxxmFl9g3H68"
+    },
+    {
+      "added_at": "2024-08-02 16:55:02",
+      "album": {
+        "name": "Somethin' Sweet",
+        "url": "https://open.spotify.com/album/5nTvNsfsG1iEpcU0AQZ646"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 232064,
+      "name": "Somethin' Sweet",
+      "url": "https://open.spotify.com/track/3IgTKP8ZsJeu1oHj7UQlKJ"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -59,22 +75,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "VISTO",
         "url": "https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR"
       },
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 238266,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
       "added_at": "2024-06-14 04:58:49",
@@ -171,6 +171,22 @@
       "duration_ms": 213648,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/7GYl5XD9z5bTzy3N1eMhSW"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -223,22 +239,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Estamos Perdidas",
         "url": "https://open.spotify.com/album/7yqfisVo6s0jbTgCbPG9pO"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 155204,
       "name": "Te Recuerdo",
       "url": "https://open.spotify.com/track/0m3vz8XYMyDvWz00o6X80n"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -599,22 +615,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
-        "url": "https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 257379,
-      "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
-      "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "XT4S1S",
         "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 219320,
       "name": "XT4S1S",
       "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
+        "url": "https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 257379,
+      "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
+      "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -871,22 +887,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "entre las piernas",
-        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 211454,
-      "name": "entre las piernas",
-      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Aqui",
-        "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
+        "name": "entre las piernas",
+        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 198560,
-      "name": "De Mis Pasos",
-      "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
+      "duration_ms": 211454,
+      "name": "entre las piernas",
+      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -935,6 +935,22 @@
       "duration_ms": 168426,
       "name": "El Disfraz",
       "url": "https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Aqui",
+        "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "De Mis Pasos",
+      "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1307,22 +1323,6 @@
       "duration_ms": 237324,
       "name": "\u00d3rdenes para M\u00ed",
       "url": "https://open.spotify.com/track/7qeEHOZM2fVxT0UugDPAiW"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
-        "name": "me da miedo que escuches esto",
-        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Paralizado",
-      "url": "https://open.spotify.com/track/3hLwTsuqKBakewprxOK1b4"
     }
   ],
   "unique_name": "Ruidosas",

@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-155 songs - 8 hr 44 min
+156 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Muñeca brava](https://open.spotify.com/track/2SPb8awMSxa5NmSaBQKWGN) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Alberto Castillo \- Asi se baila el tango](https://open.spotify.com/album/1fFBzmIUSdNaejKSM44y5l) | 2:55 | 2022-03-18 | 2023-02-21 |
 | [Niebla del Riachuelo](https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Docke](https://open.spotify.com/album/73sutmVaIOSflj6XV4hjAL) | 2:59 | 2022-03-18 | 2024-04-19 |
 | [Niebla del Riachuelo](https://open.spotify.com/track/54cqNtVbLCEFmMofNrimg2) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Docke](https://open.spotify.com/album/4mGOSY8fK91VywKGJzHbJG) | 2:59 | 2022-03-18 | 2022-07-29 |
-| [Otoño porteño](https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM) | [Ventarrón](https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX) | [Otoño Porteño](https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT) | 4:51 | 2022-03-18 |  |
+| [Otoño porteño](https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM) | [Ventarrón](https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX) | [Otoño Porteño](https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT) | 4:51 | 2022-03-18 | 2024-08-03 |
 | [Pasional](https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0) | [Jorge Vázquez](https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab) | [Pasional](https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc) | 3:28 | 2022-03-18 |  |
 | [Payada Gardel\-Razzano](https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J), [Walter Laborde](https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ) | [De Criollos y Tangueros](https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU) | 4:13 | 2022-03-18 |  |
 | [Percal](https://open.spotify.com/track/1jV9ArJvr56HZgqfcCnqxR) | [Alberto Podestá](https://open.spotify.com/artist/6NaKJLakKOpxelAHi5MIaz) | [Imprescindibles](https://open.spotify.com/album/3ork4Pl5JERJrWIFK2ymqP) | 2:59 | 2022-03-18 | 2022-07-13 |
@@ -152,6 +152,7 @@
 | [Tinta Roja](https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tinta Roja](https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4) | 3:08 | 2023-06-09 | 2024-07-19 |
 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 | 2022-03-18 |  |
 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 | 2022-03-18 |  |
+| [Tuve El Corazon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/0LB7newoKqj7d6IPWxsDk8) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Tuve El Corazon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qQMunB3IfjKVAuq3MRf9O) | 3:17 | 2024-08-02 |  |
 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 | 2022-03-18 |  |
 | [Uno](https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs) | 2:34 | 2022-03-18 | 2023-11-11 |
 | [Uno](https://open.spotify.com/track/6kDLsaJF6yNhgGXRH4IcNP) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU) | 2:34 | 2023-10-06 | 2024-04-19 |

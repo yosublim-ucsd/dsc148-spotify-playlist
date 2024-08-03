@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PIAZMcbo2T.md) - [plain]
 
 > Energetic tracks from the 2010s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,867 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,852 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PIAZMcbo2T.md) - [plain]
 | 24 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
 | 25 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 |
 | 26 | [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 |
-| 27 | [Club Can't Handle Me \(feat\. David Guetta\)](https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:54 |
+| 27 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 |
 | 28 | [Cooler Than Me \- Single Mix](https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [31 Minutes to Takeoff](https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl) | 3:33 |
 | 29 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 |
 | 30 | [Good Time](https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Midsummer Station](https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p) | 3:25 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PIAZMcbo2T.md) - [plain]
 | 32 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |
 | 33 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
 | 34 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 |
-| 35 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 |
+| 35 | [Club Can't Handle Me \(feat\. David Guetta\)](https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:54 |
 | 36 | [Promises \(with Sam Smith\)](https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Promises \(with Sam Smith\)](https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1) | 3:33 |
 | 37 | [All Around The World \(La La La\)](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ) | 2:27 |
 | 38 | [Get Lucky \(feat\. Pharrell Williams and Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 |

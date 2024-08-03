@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-965 songs - 2 day 21 hr 11 min
+966 songs - 2 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Ghost](https://open.spotify.com/track/7AQjYCNDaxvnLzajPn6tmd) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Ghost](https://open.spotify.com/album/6obE8PUQth0vzbAH5IeQnp) | 3:47 | 2019-05-26\* | 2020-08-26 |
 | [Ghost Plant](https://open.spotify.com/track/0l5yzyUkyFbGcFPPdRGLOl) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Ghost Plant](https://open.spotify.com/album/3pUXaUfatJq2Whvk6ECeRp) | 1:16 | 2019-07-26 | 2020-08-26 |
 | [Ghosted](https://open.spotify.com/track/4zCWCBENCHWgSag7BXsuJL) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [Ghosted](https://open.spotify.com/album/0DCNR7DuF8b0MDU3wAH10w) | 2:37 | 2021-01-30 |  |
-| [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2019-06-19\* |  |
+| [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2019-06-19\* | 2024-08-03 |
 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2019-06-19\* |  |
 | [Gjuijar](https://open.spotify.com/track/36vmHQWDFTkiihU3YTMXO5) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/1RwMFMZCSBvlr8QrPuBgC4) | 4:41 | 2021-07-23 | 2022-07-29 |
 | [Gjuijar](https://open.spotify.com/track/4bN14h0cAjKYGS7GqfKjBp) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/0mYfyjA0zCp3n6RkdB0rLC) | 4:41 | 2022-09-09 | 2023-04-02 |
@@ -685,6 +685,7 @@
 | [Rising from the Ashes](https://open.spotify.com/track/6GygZN0o9JNs1x3adaLBBh) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [New Edge](https://open.spotify.com/album/33fn2sXWPDkFRKJe58KJbr) | 3:19 | 2019-06-19\* | 2020-10-19 |
 | [Rising Urge \(Lost Tapes\) \- Original](https://open.spotify.com/track/4D2zAaCFuDMlIboD7UH8X5) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\) \[Original\]](https://open.spotify.com/album/2d6veFrbZmMkQucorw6HhG) | 5:06 | 2022-07-01 | 2024-04-19 |
 | [Rising Urge \- Lost Tapes](https://open.spotify.com/track/7Bm0j8ALNJ7ledPN0fKfBw) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\)](https://open.spotify.com/album/6vWgySuOqxQcfOyvzYV74B) | 5:06 | 2019-06-19\* | 2022-04-16 |
+| [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 | 2024-08-02 |  |
 | [Roman](https://open.spotify.com/track/6xIoTyFvqpswNNiLPpfLvz) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Young Alaska](https://open.spotify.com/album/2DstkNuTgbUk6hcHHMaVed) | 7:28 | 2019-06-19\* | 2020-08-26 |
 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 | 2022-07-01 | 2024-01-24 |
 | [Rose's Thorn](https://open.spotify.com/track/2hlqCFahLVgdBIbY3yTrAb) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/1L879cRp3hbkvCaMRQ7d1l) | 4:24 | 2019-06-19\* | 2022-04-17 |

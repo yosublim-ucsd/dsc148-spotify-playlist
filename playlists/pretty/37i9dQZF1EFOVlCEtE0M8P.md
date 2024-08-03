@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127 likes - 227 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128 likes - 227 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 86 | [Fake Sugar](https://open.spotify.com/track/1WDVZNals95SINqXbGPHgs) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:29 |
 | 87 | [Long Time Coming](https://open.spotify.com/track/6Asx1JqGcQGEjbmJuhEDdY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:24 |
 | 88 | [Here Is Home](https://open.spotify.com/track/0INX6z1BBtUN0mHLTRU0rC) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 4:20 |
-| 89 | [We Could Run](https://open.spotify.com/track/4rL7wJv8tEpt6ND1cFjj0a) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:30 |
-| 90 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
+| 89 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
+| 90 | [We Could Run](https://open.spotify.com/track/4rL7wJv8tEpt6ND1cFjj0a) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:30 |
 | 91 | [Savoir Faire](https://open.spotify.com/track/28ob4ectuSLvn5gkefESsp) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:37 |
 | 92 | [Disintegration \- Memtrix Remix](https://open.spotify.com/track/58rw1aBngMLC7bh6fOZYfO) | [Le Castle Vania](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv), [Memtrix](https://open.spotify.com/artist/3bffaBH7akOhsSLsVJcJug) | [Prophication \(Remixes\)](https://open.spotify.com/album/118lzP3BexBAS4HzhwLxtz) | 4:33 |
 | 93 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 |
@@ -137,9 +137,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 127 | [Some People](https://open.spotify.com/track/32PhQGVwurZaoJrCvrh0nl) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Take Me To The Disco](https://open.spotify.com/album/1R5NwXzxNPMFcUQAeh0Tfn) | 3:56 |
 | 128 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 |
 | 129 | [Love Burning Alive](https://open.spotify.com/track/3EixVTTtetiZbDX40ODLoV) | [Lena Fayre](https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ) | [Lena Fayre \- EP](https://open.spotify.com/album/0vo0tNvOdKdVd0etko25Iw) | 3:55 |
-| 130 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
+| 130 | [Kill For You](https://open.spotify.com/track/0BuW1JbaKtMpAxLyjpHf9n) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:44 |
 | 131 | [Glue](https://open.spotify.com/track/4EbwhvDv0TFLN7SjuOUjym) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 5:17 |
-| 132 | [Kill For You](https://open.spotify.com/track/0BuW1JbaKtMpAxLyjpHf9n) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:44 |
+| 132 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
 | 133 | [Dreamland](https://open.spotify.com/track/1umUupybnbrgaNTrkFyxWI) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland](https://open.spotify.com/album/3ukgoRejo9Q8pYkjID1M6b) | 5:05 |
 | 134 | [Moonlight](https://open.spotify.com/track/14wmygeqZmKG6RHsFajAPc) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Moonlight](https://open.spotify.com/album/5RKSpTmjGC1fmRkLL0pq7f) | 3:09 |
 | 135 | [Ferrari](https://open.spotify.com/track/4ReNjPY2hVS5AutX2wJeDw) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Clare Dunn](https://open.spotify.com/album/4Xwds3CwPNqNxV7GT877Se) | 3:34 |
@@ -176,8 +176,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 166 | [fever](https://open.spotify.com/track/3HjOcLYE63CNxrV9xnjB3V) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:30 |
 | 167 | [Kills Me To Be Kind](https://open.spotify.com/track/5iup3v0ACOZxhjmEa1Uc1z) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 4:40 |
 | 168 | [Real Thing](https://open.spotify.com/track/1r4YhgOx3OYHsjRF8NgF5e) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [REAL THING](https://open.spotify.com/album/2uigbDgEe5WhlYbPID5Aqe) | 3:40 |
-| 169 | [I Don't Care](https://open.spotify.com/track/1IbsTBaHXh15yc7kb041Ve) | [Brandon](https://open.spotify.com/artist/3mMlNCX0juOKPTTkSsiOie), [Savannah](https://open.spotify.com/artist/1NmrIlbg3XEPGnsKyQ0pDB) | [Adolescent Summer \- EP](https://open.spotify.com/album/4KIPIQ1jyctI8bfRUPiLZF) | 3:21 |
-| 170 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
+| 169 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
+| 170 | [I Don't Care](https://open.spotify.com/track/1IbsTBaHXh15yc7kb041Ve) | [Brandon](https://open.spotify.com/artist/3mMlNCX0juOKPTTkSsiOie), [Savannah](https://open.spotify.com/artist/1NmrIlbg3XEPGnsKyQ0pDB) | [Adolescent Summer \- EP](https://open.spotify.com/album/4KIPIQ1jyctI8bfRUPiLZF) | 3:21 |
 | 171 | [Good Times to Come](https://open.spotify.com/track/6Ax3UATQ5dvCE0OMeY8f3c) | [DanDlion](https://open.spotify.com/artist/6dLGrJfOwF5gdyI8Ga7b76) | [FRUITION](https://open.spotify.com/album/1mfewN8zutQBuDzvHfB70U) | 3:04 |
 | 172 | [SLUG](https://open.spotify.com/track/4rrC8ISPknjED8ziBKosO9) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 2:42 |
 | 173 | [Rose Garden](https://open.spotify.com/track/3iDx3DfuNqVmhlpgd6gY7N) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Someone Out There](https://open.spotify.com/album/3h30Uo7ctjnKADgYzcUj40) | 3:56 |
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 226 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 227 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbYSXgAAAAA6XenRsxT7dfgsSZbFajVu`
+Snapshot ID: `AbYX/gAAAABXIvv7JQthOLlhiiCozFog`

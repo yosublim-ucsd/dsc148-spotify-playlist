@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-601 songs - 1 day 8 hr 43 min
+602 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 | [Out of My League](https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:29 | 2022-02-07 |  |
 | [Oysters in My Pocket](https://open.spotify.com/track/5nkeTRV4E4ZAlc4s1aRgYK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters in My Pocket](https://open.spotify.com/album/4NLfJvUyJCT7itpeVvHY0K) | 2:42 | 2022-03-11 | 2022-07-27 |
 | [Painkiller](https://open.spotify.com/track/1YlulsUKDduOmC7WxvXYPW) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:33 | 2021-12-29 | 2022-06-16 |
-| [palm of my hands](https://open.spotify.com/track/6y5HLopYu7Uu0hYwVBj4T6) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 2:11 | 2024-07-12 |  |
+| [palm of my hands](https://open.spotify.com/track/6y5HLopYu7Uu0hYwVBj4T6) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 2:11 | 2024-07-12 | 2024-08-03 |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-03-28 |  |
 | [Paradise](https://open.spotify.com/track/1FsxkwFz98EN7BufWfTemM) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Paradise](https://open.spotify.com/album/5fxA3kF1DmB1o9jJC8f63T) | 3:09 | 2022-04-01 | 2022-04-06 |
 | [Paradise](https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Soul Searching](https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW) | 2:49 | 2022-03-28 | 2022-04-20 |
@@ -499,6 +499,7 @@
 | [Stay](https://open.spotify.com/track/7wGoRwE6MZnm9flIMKWPul) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Stay](https://open.spotify.com/album/6eRhTVavbbpeYhcSOjpJwr) | 3:13 | 2022-03-25 | 2022-04-18 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2023-01-20 | 2024-04-19 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2022-04-01 | 2023-01-22 |
+| [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-02 |  |
 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2022-03-28 |  |
 | [Stolen Dance](https://open.spotify.com/track/2jiPHbFX5XM8TjaTfYJ0eo) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/1CEBG1qVlHZr6v7eHAVF4W) | 5:13 | 2022-03-25 | 2022-04-21 |
 | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd) | 4:02 | 2022-01-13 | 2022-07-28 |

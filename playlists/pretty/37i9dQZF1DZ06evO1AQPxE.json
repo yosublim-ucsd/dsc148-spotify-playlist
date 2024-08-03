@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 184371,
+  "num_followers": 184392,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAU6nH2fRb4BYHr9DymuJGn",
+  "snapshot_id": "ZqrQAAAAAAAWIaAbUnTji652v5jXRyJS",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honest Living",
-        "url": "https://open.spotify.com/album/1gNtAquFhKwk3qlsYLPpDT"
-      },
-      "artists": [
-        {
-          "name": "The Homies",
-          "url": "https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 151213,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/608NQtdZfObC1BGy067JG7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Florida Jit",
         "url": "https://open.spotify.com/album/5z3ZfPgoJDN2y1QXbYg4zY"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 144874,
       "name": "Tide Pen (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/4Wh3znTCMTIKAZ2stlikRX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honest Living",
+        "url": "https://open.spotify.com/album/1gNtAquFhKwk3qlsYLPpDT"
+      },
+      "artists": [
+        {
+          "name": "The Homies",
+          "url": "https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 151213,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/608NQtdZfObC1BGy067JG7"
     },
     {
       "added_at": null,

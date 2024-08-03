@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "The Big Night",
         "url": "https://open.spotify.com/album/0tmajlJTpuxh2HRXfZmbat"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 339760,
       "name": "Bo Diddley Santa Claus",
       "url": "https://open.spotify.com/track/5b36XrEjIUeXE40biZ7cKF"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Christmas Gumbo",
-        "url": "https://open.spotify.com/album/3v7yoCGisdwfvIBnU9RYmp"
-      },
-      "artists": [
-        {
-          "name": "Allen Toussaint",
-          "url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "The Day It Snows On Christmas",
-      "url": "https://open.spotify.com/track/7dhgZvhWgeDhp1GpIfYcGq"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "An Austin Rhythm And Blues Christmas",
         "url": "https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 146493,
       "name": "Boogie Woogie Santa Claus",
       "url": "https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Christmas Gumbo",
+        "url": "https://open.spotify.com/album/3v7yoCGisdwfvIBnU9RYmp"
+      },
+      "artists": [
+        {
+          "name": "Allen Toussaint",
+          "url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "The Day It Snows On Christmas",
+      "url": "https://open.spotify.com/track/7dhgZvhWgeDhp1GpIfYcGq"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -711,38 +711,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Merry Blue Christmas",
-        "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 154919,
-      "name": "Christmas Date Blues",
-      "url": "https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "The Very Best of Roy Milton",
-        "url": "https://open.spotify.com/album/47FXnQf2Q3UL2tIP82nMSv"
-      },
-      "artists": [
-        {
-          "name": "Roy Milton",
-          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Christmas Time Blues",
-      "url": "https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Christmas Blues: Savoy Jazz Christmas Album",
         "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
       },
@@ -759,6 +727,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Merry Blue Christmas",
+        "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 154919,
+      "name": "Christmas Date Blues",
+      "url": "https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "A Blues Christmas",
         "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 161779,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "The Very Best of Roy Milton",
+        "url": "https://open.spotify.com/album/47FXnQf2Q3UL2tIP82nMSv"
+      },
+      "artists": [
+        {
+          "name": "Roy Milton",
+          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Christmas Time Blues",
+      "url": "https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4W32kJML1IfiPlSmAQ1hU8"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/3jMryalIecyAt3f4PiCGtf"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "Christmas Blues: Savoy Jazz Christmas Album",
         "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 201760,
       "name": "Far Away Christmas Blues",
       "url": "https://open.spotify.com/track/01GFlck1TZRWWaZ87kwtUH"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/4W32kJML1IfiPlSmAQ1hU8"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/3jMryalIecyAt3f4PiCGtf"
     },
     {
       "added_at": "2023-11-22 12:51:56",

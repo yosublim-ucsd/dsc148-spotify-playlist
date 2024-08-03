@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Cosang, yungest Moonstar, Finesse e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,763 likes - 88 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,823 likes - 88 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 6 | [Luce](https://open.spotify.com/track/2LePbhaSoQarOepEmSfzWF) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Luce](https://open.spotify.com/album/1qS01H03tyiABFyzE0tNS5) | 3:11 |
 | 7 | [FDTCK \- Red Bull Posse](https://open.spotify.com/track/4A3DlSk3JKCvuiqT5cwq8u) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [FDTCK \- Red Bull Posse](https://open.spotify.com/album/0izUSwLKrtdBdoZ8zQboi9) | 3:29 |
 | 8 | [netflixXx](https://open.spotify.com/track/4DwKZTDZNQ3tldSCgjV8ct) | [yungest Moonstar](https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [sFaCioLaTe miXTaPe](https://open.spotify.com/album/7qj8awQvM423Uvc0VpxtXq) | 1:52 |
-| 9 | [Bianca Cigno \(feat\. PapaV & Mark Tembo\)](https://open.spotify.com/track/05iaczLYNhNLYBu7EEvA61) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [PapaV](https://open.spotify.com/artist/7mdVdDxyTpGnwEf4qr2HHY), [Mark Tembo](https://open.spotify.com/artist/4pR9DSTd8bVJcAh8IkBc2f) | [EP 6/3 \(feat\. PapaV\)](https://open.spotify.com/album/362Pu0LnYuzqbAyqCUp3Ax) | 1:53 |
+| 9 | [Bianca Cigno \(feat\. Papa V & Mark Tembo\)](https://open.spotify.com/track/05iaczLYNhNLYBu7EEvA61) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Mark Tembo](https://open.spotify.com/artist/4pR9DSTd8bVJcAh8IkBc2f) | [EP 6/3 \(feat\. Papa V\)](https://open.spotify.com/album/362Pu0LnYuzqbAyqCUp3Ax) | 1:53 |
 | 10 | [TOOTHGEM \(4ever\)](https://open.spotify.com/track/6FTcWxKTqQZFhkl3g3v5Oe) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [Toothgem](https://open.spotify.com/album/1M72r0COgp4KE101CvnMRt) | 2:31 |
 | 11 | [COME FANNO](https://open.spotify.com/track/29CqjSgueQYgqG227LyQ87) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [LONDON TAPE](https://open.spotify.com/album/6jw0TkCbdgpcRtJnFTEvyC) | 1:59 |
 | 12 | [CARIOCA \(feat\. Slings & Random\)](https://open.spotify.com/track/6ZF9vZTKJ76EmoqSA38NkR) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [CARIOCA \(feat\. Slings & Random\)](https://open.spotify.com/album/1eVU1ZoZj3uZYKFjP9xmoy) | 3:00 |

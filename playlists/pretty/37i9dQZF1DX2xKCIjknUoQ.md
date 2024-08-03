@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,996 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,006 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 46 | [Cinglés](https://open.spotify.com/track/47D4jhH08KvIh0cDCT66Jv) | [Enhancer](https://open.spotify.com/artist/1ZMwAUWdG4agL20Lxsv5Ah) | [Street Trash](https://open.spotify.com/album/5H5wogwt7titOvQyo6r1rS) | 3:20 |
 | 47 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
 | 48 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
-| 49 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:28 |
-| 50 | [Le pire et le meilleur](https://open.spotify.com/track/3SrUddck55h8vSltaiRGdi) | [F.F.F.](https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL) | [F F F](https://open.spotify.com/album/3dl7Hqd2srZudubpaD8sTC) | 3:25 |
+| 49 | [Le pire et le meilleur](https://open.spotify.com/track/3SrUddck55h8vSltaiRGdi) | [F.F.F.](https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL) | [F F F](https://open.spotify.com/album/3dl7Hqd2srZudubpaD8sTC) | 3:25 |
+| 50 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:28 |
 
 Snapshot ID: `ZnnPXwAAAADVRnByv8BMAd3S8gN3uXv8`

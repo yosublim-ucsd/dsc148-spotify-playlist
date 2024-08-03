@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "El hogar de tu nueva canci\u00f3n favorita. Foto: Billie Eillish",
+  "description": "El hogar de tu nueva canci\u00f3n favorita. Foto: Djo",
   "name": "bops.",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
+    },
+    {
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc"
       },
@@ -60,6 +78,32 @@
       "duration_ms": 195446,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC"
+    },
+    {
+      "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
       "album": {
@@ -324,6 +368,24 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "album": {
@@ -899,6 +961,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
@@ -1214,6 +1294,24 @@
       "duration_ms": 164718,
       "name": "girls like me don't cry (sped up)",
       "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "album": {
@@ -1716,7 +1814,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 192000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
@@ -1824,7 +1922,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 233880,
       "name": "Light On",
       "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
@@ -2228,7 +2326,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
@@ -2688,7 +2786,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 191566,
       "name": "Risk",
       "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
@@ -3154,7 +3252,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -3226,7 +3324,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -3342,7 +3440,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 223771,
       "name": "The Love I Give",
       "url": "https://open.spotify.com/track/2jzUjAfUTJ8zDRxDFdWRmd"
@@ -3490,6 +3588,24 @@
       "duration_ms": 216466,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
+    },
+    {
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "album": {
@@ -3848,6 +3964,24 @@
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ"
+    },
+    {
+      "album": {
+        "name": "X's",
+        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183761,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
     },
     {
       "album": {

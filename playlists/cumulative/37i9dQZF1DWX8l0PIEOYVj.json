@@ -2970,7 +2970,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 248275,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
@@ -9001,6 +9001,28 @@
     },
     {
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7JDPq2m2r8VV5oqcpQ5sid"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Luxtides",
+          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298736,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/2dfhrd0GPiffQjHaGWQCiE"
+    },
+    {
+      "album": {
         "name": "Oceans & Galaxies",
         "url": "https://open.spotify.com/album/68ktA77AGDVlrifYU53GzL"
       },
@@ -11169,6 +11191,24 @@
     },
     {
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/0iLc7PUs0lw2pQiDATYlN8"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203460,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/61jTmmE6BNfmAFZ8zrBttX"
+    },
+    {
+      "album": {
         "name": "Someone To Forget",
         "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
       },
@@ -12532,7 +12572,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 197538,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"

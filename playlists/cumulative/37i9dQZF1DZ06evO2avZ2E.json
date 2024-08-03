@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "ISABEL LP",
+        "url": "https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333750,
+      "name": "Castillo De Arena",
+      "url": "https://open.spotify.com/track/0CYNGsiMY2VjOBdIh2fWIO"
+    },
+    {
+      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -124,7 +146,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180866,
       "name": "Control",
       "url": "https://open.spotify.com/track/6eEzLREEDhrE4ib9JSTNcv"
@@ -342,7 +364,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 172687,
       "name": "Horizonte (feat. Vanessa Zamora)",
       "url": "https://open.spotify.com/track/35E2vrO2uLzUJrh84lv84S"
@@ -849,6 +871,28 @@
     },
     {
       "album": {
+        "name": "Atl\u00e1ntica",
+        "url": "https://open.spotify.com/album/0PuoGSBHsnkCWKtZQSQXLi"
+      },
+      "artists": [
+        {
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Sonidos y Leyendas (feat. Vanessa Zamora)",
+      "url": "https://open.spotify.com/track/5swZ6J3habONISd330y55t"
+    },
+    {
+      "album": {
         "name": "DAMALEONA",
         "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
@@ -864,6 +908,28 @@
       "duration_ms": 158492,
       "name": "SUBCONSCIENTE",
       "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
+    },
+    {
+      "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/7HOiXAYWzXNh37P8DROZaJ"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130021,
+      "name": "Te Choca Te Checa",
+      "url": "https://open.spotify.com/track/1Twvcodfxn69xkCHNghbQr"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 10708,
+  "num_followers": 10709,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAWak1MO32UbRLSq3KORQrW",
+  "snapshot_id": "ZqrQAAAAAABLP8oYdJuROBVGv4ufmmfq",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
       },
       "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 307586,
-      "name": "We Are Victorious (feat. Tye Tribbett)",
-      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
+      "duration_ms": 101280,
+      "name": "Most High God (Lude)",
+      "url": "https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK"
     },
     {
       "added_at": null,
@@ -396,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 50188,
-      "name": "There Is Nothing Like - Live",
-      "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
+      "duration_ms": 199725,
+      "name": "Same God - Live",
+      "url": "https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
       },
       "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 101280,
-      "name": "Most High God (Lude)",
-      "url": "https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK"
+      "duration_ms": 307586,
+      "name": "We Are Victorious (feat. Tye Tribbett)",
+      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 199725,
-      "name": "Same God - Live",
-      "url": "https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo"
+      "duration_ms": 50188,
+      "name": "There Is Nothing Like - Live",
+      "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
     },
     {
       "added_at": null,

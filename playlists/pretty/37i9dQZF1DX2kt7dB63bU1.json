@@ -1,13 +1,65 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 143860,
+  "num_followers": 143906,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAABUjN+wsJ/LKRSncr1jam53",
+  "snapshot_id": "ZqxZwAAAAACad2/VMYy1lpzqENs8nnIZ",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "A New Day, a New Life, a New Love",
+        "url": "https://open.spotify.com/album/0xqQrBIKvA6wn8en6nBZ8g"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 306165,
+      "name": "A New Day, a New Life, a New Love",
+      "url": "https://open.spotify.com/track/46UO3NuWwrFg6Fl030tRmT"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "P.S. I Love You",
+        "url": "https://open.spotify.com/album/71wXFz3FCn2JlvrRNfNBDR"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 258440,
+      "name": "P.S. I Love You",
+      "url": "https://open.spotify.com/track/7IbXt8rAf2Qwcvdb4S8utc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Speak Low",
+        "url": "https://open.spotify.com/album/2aGnHaEzKIiX0MEix3wXiK"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        },
+        {
+          "name": "Lou Pomanti",
+          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
+        }
+      ],
+      "duration_ms": 180565,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/5cAnj53nrI1OdAXAieTFOd"
+    },
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
@@ -147,26 +199,6 @@
       "duration_ms": 213707,
       "name": "Release me",
       "url": "https://open.spotify.com/track/3OQS20U3O3UEgRdF2SqffP"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "The Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/4MEgtXTEwwJUjQ5iEpk7F4"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        },
-        {
-          "name": "Lou Pomanti",
-          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
-        }
-      ],
-      "duration_ms": 280312,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/3f8XyknPqIZStelk8c04tE"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1193,22 +1225,6 @@
       "url": "https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Day Dream",
-        "url": "https://open.spotify.com/album/406jynG8Y0juiFhyOaviak"
-      },
-      "artists": [
-        {
-          "name": "Ashley Henry",
-          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
-        }
-      ],
-      "duration_ms": 295846,
-      "name": "Day Dream",
-      "url": "https://open.spotify.com/track/0pmfzrYIaHzPQ0DYnRWLwi"
-    },
-    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Lean In",
@@ -1291,22 +1307,6 @@
       "duration_ms": 353920,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/6I6ZvbjUPX4BH1fGZaODy2"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Spark Bird",
-        "url": "https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 246672,
-      "name": "Little Jazz Bird",
-      "url": "https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG"
     },
     {
       "added_at": "2023-05-26 04:01:00",

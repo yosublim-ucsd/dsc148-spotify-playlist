@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,007 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,029 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,19 +40,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 30 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 |
 | 31 | [Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Communiqué](https://open.spotify.com/album/2xQBCPq2gQ7l8thLUUZSKu) | 3:44 |
 | 32 | [Love Her Madly](https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:18 |
-| 33 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
-| 34 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
+| 33 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
+| 34 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
 | 35 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:20 |
 | 36 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 37 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 |
 | 38 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
 | 39 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:50 |
 | 40 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
-| 41 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
-| 42 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 |
+| 41 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 |
+| 42 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
 | 43 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
-| 44 | [Come Sail Away](https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 6:07 |
-| 45 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 |
+| 44 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 |
+| 45 | [Come Sail Away](https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 6:07 |
 | 46 | [Money \- 2011 Remastered Version](https://open.spotify.com/track/7Gx2q0ueNwvDp2BOZYGCMO) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side Of The Moon \(2011 Remastered Version\)](https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH) | 6:20 |
 | 47 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 | 48 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |

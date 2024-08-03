@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,878 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,896 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 44 | [Our New World \- with Kyson](https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Our New World \(with Kyson\)](https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB) | 3:39 |
 | 45 | [Amma](https://open.spotify.com/track/7du1Gswo6FI0iOqFS6fqpD) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Jag Changa](https://open.spotify.com/album/6zeb7EfUZzNJ6YJTmeIL0V) | 5:28 |
 | 46 | [Be Free](https://open.spotify.com/track/25iXD24rJ3QByQl58vG5hB) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Kuthu Fire](https://open.spotify.com/album/1t6ey57jKPumpSusx0mMKn) | 3:27 |
-| 47 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 |
+| 47 | [Saami Saami \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Saami Saami \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 |
 | 48 | [Fade Into You](https://open.spotify.com/track/4h7WDNloLUhJgPPuqgaMS7) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Fade Into You](https://open.spotify.com/album/2ELqd8jEtBWMidcQsERbqk) | 3:46 |
 | 49 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 |
 | 50 | [Breaking Apart](https://open.spotify.com/track/5OPRQwlJJpW71T2F3YIdpy) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Heaven's Just A Flight](https://open.spotify.com/album/74XAANgs1sgl5VmiDxJLd6) | 3:18 |

@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ＆TEAM
 
-1,137 songs - 2 day 13 hr 22 min
+1,139 songs - 2 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [BBB](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) | 2:46 | 2024-03-19 | 2024-04-19 |
 | [BBB](https://open.spotify.com/track/3GvSGqmMKcTMrJZ7PftHq6) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3EfFYYLERgVflC4sKSOgkP) | 2:46 | 2024-04-18 | 2024-05-08 |
 | [BBB \- Japanese ver\. \-](https://open.spotify.com/track/3gxK3qULU1oGMBBzbcb94c) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [ON THE VIOLET](https://open.spotify.com/album/3mSt4t8JUxngS6ftaqEdio) | 2:46 | 2024-07-17 |  |
+| [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-08-03 |  |
 | [BE MY BABY \(KwangSoo Cover\) \[feat\. AIR OUCCI\]](https://open.spotify.com/track/4Nltlmj5YPZO1CWZmfmox1) | [KwangSoo](https://open.spotify.com/artist/5mxnis3jwujdkkXv9DO0hz) | [BE MY BABY \(KwangSoo Cover\) \[feat\. AIR OUCCI\]](https://open.spotify.com/album/4yoAVAdfpYjFQR7Kb40IS3) | 4:03 | 2022-04-21 | 2022-06-24 |
 | [Be There For Me](https://open.spotify.com/track/1Lkd4pjGFQilS5zPoMnLL7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Be There For Me \- Winter Special Single](https://open.spotify.com/album/0uJxcHEh5lpFMd971KU7Wd) | 3:37 | 2023-12-21 | 2024-02-09 |
 | [Be With You](https://open.spotify.com/track/2NTSWLUiZqrIBDGYbHUB6o) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:41 | 2021-12-23 | 2022-03-16 |
@@ -919,6 +920,7 @@
 | [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-06 | 2022-11-01 |
 | [SWEAT](https://open.spotify.com/track/4ZctVsBwqHcq5sHW9FMDiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/1xAi69VFSIh8aoY0qFaWxE) | 3:11 | 2024-04-23 |  |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-06-16 | 2022-08-24 |
+| [Sweet Dreams](https://open.spotify.com/track/0ekANUuUFZeWZMNQRmYhvs) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:09 | 2024-08-03 |  |
 | [Sweet Juice](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 3:12 | 2023-02-16 | 2023-05-31 |
 | [Sweet Juice](https://open.spotify.com/track/3ujkoh6d5Pm2HUsnWS4zuI) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/23dciQRIqQfqAFpw7jecMb) | 3:12 | 2023-02-16 | 2023-02-18 |
 | [Sweet Juice \-Japanese ver.\-](https://open.spotify.com/track/1hz0qhT9BCpv9KiW3DNc3K) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [DEAR VIOLET](https://open.spotify.com/album/4AFyJpgsZwTeHMjg227ZJC) | 3:13 | 2023-03-21 | 2023-03-23 |

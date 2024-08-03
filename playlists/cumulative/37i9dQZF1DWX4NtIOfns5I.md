@@ -4,7 +4,7 @@
 
 > salt air and the rust on your door 🍃 cover: Kacey Musgraves
 
-297 songs - 17 hr 27 min
+300 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 | 2024-02-10 |
 | [4 foot 2](https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [4 foot 2](https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz) | 2:34 | 2024-07-08 |  |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-01-05 | 2024-04-06 |
+| [A Tree Falls](https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [A Tree Falls](https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn) | 3:13 | 2024-08-02 |  |
 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 | 2023-10-06 | 2024-04-13 |
 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2023-10-06 | 2023-10-21 |
 | [Allergy Season](https://open.spotify.com/track/7iABcQjrZuN8bZaQyYLJcf) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Allergy Season](https://open.spotify.com/album/4Mz9ZrzR4jm3wwsbIXArvp) | 3:33 | 2023-10-06 | 2024-03-13 |
@@ -124,6 +125,7 @@
 | [I Promise](https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [I Promise](https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs) | 3:41 | 2024-01-14 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-10-06 | 2024-05-11 |
 | [I Told You So](https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [I Told You So](https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j) | 4:14 | 2024-01-26 | 2024-04-06 |
+| [I Wanna Love You \(But I Don't\)](https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I Wanna Love You \(But I Don't\) / I hope you die first](https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8) | 4:17 | 2024-08-02 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-14 | 2024-03-02 |
 | [I'd Have to Think About It](https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI) | 2:30 | 2023-11-10 | 2024-04-19 |
 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 | 2023-10-06 | 2024-07-13 |
@@ -194,6 +196,7 @@
 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 | 2024-04-12 |  |
 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 | 2024-04-05 | 2024-07-27 |
 | [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 | 2024-05-24 |  |
+| [Perfection \(feat\. Tiny Habits\)](https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 2:56 | 2024-08-02 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 |  |
 | [Please Be Rude](https://open.spotify.com/track/1MLYuzjhAUt254cNOnjmts) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Please Be Rude](https://open.spotify.com/album/0SW9RZVTLHaA1JtNPj0cNz) | 3:00 | 2024-05-10 |  |
 | [Please Love Me](https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Love Letters](https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe) | 2:29 | 2024-01-05 | 2024-02-24 |

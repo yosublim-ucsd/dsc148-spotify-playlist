@@ -4,7 +4,7 @@
 
 > Charli xcx, Billie Eilish au top des nouveautés de la semaine !
 
-1,207 songs - 2 day 15 hr 9 min
+1,208 songs - 2 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [4U](https://open.spotify.com/track/2T1s4mN3JybGmimFX8zDTD) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Mi Amigo Slow Joy](https://open.spotify.com/album/3GLPZqpHxiB1H2ayDNV1BS) | 3:32 | 2024-06-06 | 2024-06-14 |
 | [50G](https://open.spotify.com/track/0JaCXZzj9Rb6cwz8wKN0pk) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [SUR LE CHEMIN \(Phase finale\)](https://open.spotify.com/album/4iEr3dDioblHwjpXLXBpS0) | 3:58 | 2024-06-20 | 2024-06-28 |
 | [50¢](https://open.spotify.com/track/23Vfw3quYZrSLLVJMpARPr) | [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Dose héroïque](https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq) | 2:32 | 2024-06-13 | 2024-06-21 |
+| [6AM Thoughts \(with Cash Cobain & Bay Swag\)](https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [6AM Thoughts](https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx) | 3:20 | 2024-08-01 |  |
 | [9 Circles](https://open.spotify.com/track/0yo0S4H7hSS79S2C2vptGV) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 4:00 | 2024-05-23 | 2024-06-01 |
 | [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 | 2024-06-27 | 2024-07-05 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-20 | 2024-06-28 |
@@ -560,7 +561,7 @@
 | [JOUJOU](https://open.spotify.com/track/0oNi80I33VmeM46tpDXStY) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [JOUJOU](https://open.spotify.com/album/467vsThuQRDFNtGFo54Jip) | 2:32 | 2024-07-11 | 2024-07-19 |
 | [Joyride](https://open.spotify.com/track/6n8KUQZOne1iMIyJYhWUrj) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 2:59 | 2024-05-23 | 2024-06-01 |
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-04 | 2024-07-12 |
-| [Jr Vini](https://open.spotify.com/track/01Kk6uiaKZJp9Kd6m9HdcP) | [Saamou](https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg) | [Jr Vini](https://open.spotify.com/album/1OWiyg19gXGmwGgMRDL0Fy) | 2:42 | 2024-08-01 |  |
+| [Jr Vini](https://open.spotify.com/track/01Kk6uiaKZJp9Kd6m9HdcP) | [Saamou](https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg) | [Jr Vini](https://open.spotify.com/album/1OWiyg19gXGmwGgMRDL0Fy) | 2:57 | 2024-08-01 |  |
 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 | 2024-07-11 | 2024-07-19 |
 | [Jusqu'au bout du monde](https://open.spotify.com/track/5OCjtxa5T8soJUDbWNpFQV) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Jusqu'au bout du monde](https://open.spotify.com/album/3tsXYeNP7p45Nf9DCHWMLc) | 3:33 | 2024-07-04 | 2024-07-12 |
 | [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 | 2024-06-06 | 2024-06-14 |

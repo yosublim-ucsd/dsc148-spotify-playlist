@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,644 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,659 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 33 | [Just for Me](https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:35 |
 | 34 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
 | 35 | [123 Victory](https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 3:57 |
-| 36 | [Silver and Gold \- Live](https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:52 |
-| 37 | [Give Me \(feat\. Mali Music\)](https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 6:28 |
+| 36 | [Give Me \(feat\. Mali Music\)](https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 6:28 |
+| 37 | [Silver and Gold \- Live](https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:52 |
 | 38 | [Melodies From Heaven \(feat\. Maryanne J\. George\)](https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 3:22 |
 | 39 | [The Storm Is Over Now](https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:46 |
 | 40 | [Try Love](https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Try Love](https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Something About The Name Jesus Pt\. 2 \(feat\. Rance Allen, Marvin Winans, John P\. Kee & Isaac Carree\)](https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Rance Allen](https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:36 |
 | 50 | [You Still Love Us](https://open.spotify.com/track/3dlU9kLdhOL2dwEFQYJuHI) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 3:24 |
 
-Snapshot ID: `Zql+gAAAAADHkBdmRL6N+86SkshayrPt`
+Snapshot ID: `ZqrQAAAAAAD2Vt8SBnCRvTmhmNs94Dnb`

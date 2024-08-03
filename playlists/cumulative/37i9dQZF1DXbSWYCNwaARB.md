@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: KATSEYE
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: JEON SOMI
 
-469 songs - 1 day 0 hr 44 min
+470 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [ALIVE](https://open.spotify.com/track/1tjDKrtdCKtVCGEG35jqdI) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/5HYN8soZop2qOtyuUnTobz) | 3:06 | 2022-05-24 | 2022-06-10 |
 | [Allure \- Jazz Version](https://open.spotify.com/track/4xeC0YjQ9M0FREWGvu2ReI) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Allure](https://open.spotify.com/album/2e0XolxTGtF620kitKaRwb) | 3:10 | 2021-02-26 | 2021-03-15 |
 | [Amigo \(Feat\. Babysoul of Lovelyz\)](https://open.spotify.com/track/4czctkvzB1Yjn0OYNgRNyW) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Babysoul](https://open.spotify.com/artist/2Mq5D1zR3yQIQWhiXOAoeL) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:30 | 2021-12-20 | 2022-04-11 |
-| [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-29 |  |
+| [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-29 | 2024-08-03 |
 | [Apple](https://open.spotify.com/track/3jg1u32Pn1c2M5r6SAQBCC) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Song of the Sirens](https://open.spotify.com/album/7nv3pBVVG6Zoc6DmaQ9fVG) | 3:27 | 2020-10-13\* | 2021-03-16 |
 | [ARIA](https://open.spotify.com/track/1T4GQxjwqrGGQ60N3q5Xpw) | [CRAXY](https://open.spotify.com/artist/3C13AlJZ4QWHSruAWe9VPI) | [My Universe](https://open.spotify.com/album/20K3dLngjcAJy2pCEFwQET) | 3:31 | 2021-01-17 | 2022-04-17 |
 | [Armageddon](https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:16 | 2024-05-27 |  |
@@ -206,6 +206,7 @@
 | [i'm okay](https://open.spotify.com/track/4lx2hRVHn8tcLFxu5c48Cc) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [i'm okay](https://open.spotify.com/album/535nY9o9I2EOOwzJgPiopL) | 3:10 | 2024-05-24 | 2024-06-04 |
 | [I'm so sick](https://open.spotify.com/track/3lSM3Wn3RJbzAAHzJ3sX1f) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/5xP2GsTFLRJCtAwYYaNKWh) | 3:19 | 2021-01-23 | 2022-07-03 |
 | [i'M THE TREND](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i'M THE TREND](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) | 3:25 | 2020-10-13\* | 2022-06-10 |
+| [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 | 2024-08-02 |  |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/60jpDubMmVyR5molJp2TCm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/0J1uiXQshfRtz2R8lgUlQk) | 2:55 | 2020-10-13\* | 2022-06-26 |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 | 2022-07-25 | 2022-09-17 |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-10-01 | 2022-06-22 |
@@ -285,7 +286,7 @@
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-14 | 2023-02-15 |
 | [Naughty](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Naughty](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) | 3:18 | 2020-10-13\* | 2022-04-19 |
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-25 | 2022-08-19 |
-| [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-07 | 2024-07-29 |
+| [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-07 |  |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-07-04 |  |
 | [No More](https://open.spotify.com/track/1ypNdSl9XomFIt4dgor2QR) | [UNI.T](https://open.spotify.com/artist/3iui2F01zrPbNx91td4LJZ) | [line](https://open.spotify.com/album/4BWULSJ2Sw9QM49M1Hb8UJ) | 3:26 | 2021-03-02 | 2022-05-30 |
 | [NO MORE \(MA BOY\)](https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [NO MORE \(MA BOY\)](https://open.spotify.com/album/3dmsztvqxTfUqTrsu0Z7Ke) | 2:44 | 2024-01-16 | 2024-02-16 |
@@ -338,7 +339,7 @@
 | [Remember](https://open.spotify.com/track/2ukD1180Mw0HYDIuS3Lcqu) | [9MUSES](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) | [Remember](https://open.spotify.com/album/5jHGdQ70hzjdgPtjoOgo2B) | 3:39 | 2021-03-02 | 2022-04-15 |
 | [Remember](https://open.spotify.com/track/2eJAj4Jw8XfVz2Ywy7hyj3) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Remember](https://open.spotify.com/album/7lNHpLeY44QipZ73VToWmO) | 3:06 | 2021-04-23 | 2022-04-19 |
 | [Respect](https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt) | [안신애](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Respect](https://open.spotify.com/album/3oikuOBybmjw4rW7SBFWwD) | 3:01 | 2023-09-26 | 2023-10-05 |
-| [RISE UP \(Korean ver.\)](https://open.spotify.com/track/1dRjox4xKpbrMHanzC2rNq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP \(English & Korean ver.\)](https://open.spotify.com/album/5tUbuoBQvv7bbvDNO6jfP8) | 2:59 | 2024-07-10 |  |
+| [RISE UP \(Korean ver.\)](https://open.spotify.com/track/1dRjox4xKpbrMHanzC2rNq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP \(English & Korean ver.\)](https://open.spotify.com/album/5tUbuoBQvv7bbvDNO6jfP8) | 2:59 | 2024-07-10 | 2024-08-03 |
 | [Rising](https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [ASSEMBLE](https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5) | 2:39 | 2023-02-14 | 2023-03-28 |
 | [Roll Up](https://open.spotify.com/track/2KIyd36V2ejCrvlYU1Ci1K) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [Roll Up](https://open.spotify.com/album/2mIf1bG4rK1Z9XHn04gSZE) | 2:32 | 2024-08-01 |  |
 | [Roller Coaster](https://open.spotify.com/track/4xTqgN4ej7EHMd0gWXJdrI) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/4FO6zeenyyhew9sB4ErG9z) | 3:32 | 2021-01-21 | 2022-06-19 |

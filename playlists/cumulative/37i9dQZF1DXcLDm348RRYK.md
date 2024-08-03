@@ -4,7 +4,7 @@
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-85 songs - 5 hr 14 min
+86 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [The Wide Ocean](https://open.spotify.com/track/07XrG4a5oft3R57zH3IZeI) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [The Wide Ocean](https://open.spotify.com/album/1jMKJoAV8gm5Vn8V26UnS3) | 3:35 | 2020-10-02 |  |
 | [These Moments](https://open.spotify.com/track/2LSfUlr1YPUgHE3QLpBxPK) | [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo), [Van Larkins](https://open.spotify.com/artist/7kP1fOzswDN61C3oV3JMJH) | [These Moments](https://open.spotify.com/album/19BrnNH9dPJ6ZArTijLG8E) | 5:02 | 2020-10-02 |  |
 | [Tiffany Falls](https://open.spotify.com/track/64DGZauPKihie7TgNccWD3) | [Emilio Bonito](https://open.spotify.com/artist/2IfsWJpQDkbX21LUME6KvO) | [Tiffany Falls](https://open.spotify.com/album/7uwReBkPLCXlsRQW4XD9yz) | 3:32 | 2024-02-07 |  |
+| [Too Cool \- Guitar Version](https://open.spotify.com/track/35rahlp0arpoCBwGD2DrK3) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Too Cool \(Guitar Version\)](https://open.spotify.com/album/57h428gf55rR9knDH48UFO) | 2:12 | 2024-08-02 |  |
 | [Two Tigers](https://open.spotify.com/track/0p3coZjTD0Gno4gxmwJjoL) | [Dylan Ryche](https://open.spotify.com/artist/0GvFKjJTMXpX16KPTxFw2i) | [Two Tigers](https://open.spotify.com/album/7FvDer0ts1pXPBfliAND0e) | 4:08 | 2021-04-16 |  |
 | [Walking the Shoreline](https://open.spotify.com/track/7u6jE7wpHtSrLhkCGHqcSC) | [Franco Morone](https://open.spotify.com/artist/00L3DU7naaW3XOIX26HXVz) | [Walking the Shoreline](https://open.spotify.com/album/5Cd0AZKJnovD8HXXlZTV5Y) | 3:14 | 2020-10-30 |  |
 | [Yellow](https://open.spotify.com/track/43v2xg67VkZVCIDZsKZSPh) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA) | [Yellow](https://open.spotify.com/album/0TrzZEQ2vFrpRwysBPqxxb) | 4:42 | 2020-10-02 |  |

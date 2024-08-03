@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 
 ### [This Is Bratty](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tKTQI)
 
-> This is Bratty\. The essential tracks, all in one playlist.
+> This Is Bratty\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,938 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,944 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 | 44 | [Interlude](https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 1:23 |
 | 45 | [Charlie](https://open.spotify.com/track/3Hb1Nmc4Bil5yyO0g03hLZ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 2:57 |
 
-Snapshot ID: `Zql+gAAAAADG1IKVjjgSwGZOmNd0EsRu`
+Snapshot ID: `ZqrQAAAAAACwaWBNpvy0YFHJ/jgS2Mlb`

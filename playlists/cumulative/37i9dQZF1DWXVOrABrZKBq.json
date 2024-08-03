@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 144576,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/2YUa2oLlzz7JS8KjqDadjn"
@@ -2869,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Qatari",
+        "url": "https://open.spotify.com/album/5oi3ALMyUrNN30w15GGrAB"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182328,
+      "name": "Qatari",
+      "url": "https://open.spotify.com/track/3PWHqGQuaqrVomxbkOzaBo"
+    },
+    {
+      "album": {
         "name": "Quali",
         "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
       },
@@ -3369,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "T.I.A - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "T.I.A - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
+    },
+    {
+      "album": {
         "name": "DZ D\u2019AMERIQUE",
         "url": "https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi"
       },
@@ -3694,7 +3730,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 120000,
       "name": "X",
       "url": "https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO"

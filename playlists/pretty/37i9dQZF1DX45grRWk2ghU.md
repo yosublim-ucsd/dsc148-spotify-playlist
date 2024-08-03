@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > ✨ life in plastic is fantastic ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,275 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,814 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 13 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 | 14 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
 | 15 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
-| 16 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
-| 17 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
+| 16 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
+| 17 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
 | 18 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 19 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 |
 | 20 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 54 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 |
 | 55 | [Not Your Barbie Girl](https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Not Your Barbie Girl](https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF) | 3:06 |
 | 56 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
-| 57 | [Thot Shit](https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 3:04 |
-| 58 | [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 |
+| 57 | [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 |
+| 58 | [Thot Shit](https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 3:04 |
 | 59 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 |
 | 60 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
 | 61 | [BAHAMA](https://open.spotify.com/track/1dY5W7IZHUSpvTuCUWeXNE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:10 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 71 | [Cool Girl](https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Lady Wood](https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y) | 3:19 |
 | 72 | [Stars Are Blind](https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:56 |
 | 73 | [F\* OFF](https://open.spotify.com/track/4c46OwwVzZ2TpWCfvxCrUC) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:13 |
-| 74 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
-| 75 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 |
+| 74 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 |
+| 75 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 
 Snapshot ID: `Zqo6WgAAAADfUod0SIJZ596iSGhY273z`

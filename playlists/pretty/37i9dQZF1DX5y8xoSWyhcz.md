@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,746 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,750 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
-| 2 | [W.O.W.Y.](https://open.spotify.com/track/0cPe1dk3g5AiNXmZ122sSF) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [W.O.W.Y.](https://open.spotify.com/album/2fc71wTzm1Ddun26yslWG1) | 3:17 |
-| 3 | [you wore it better](https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [you wore it better](https://open.spotify.com/album/0xFm8Bo12l57apTa52n2US) | 1:56 |
+| 2 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
+| 3 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 |
 | 4 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
-| 5 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
-| 6 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 |
-| 7 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 |
+| 5 | [W.O.W.Y.](https://open.spotify.com/track/0cPe1dk3g5AiNXmZ122sSF) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [W.O.W.Y.](https://open.spotify.com/album/2fc71wTzm1Ddun26yslWG1) | 3:17 |
+| 6 | [you wore it better](https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [you wore it better](https://open.spotify.com/album/0xFm8Bo12l57apTa52n2US) | 1:56 |
+| 7 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 |
 | 8 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
 | 9 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
 | 10 | [trophy wife](https://open.spotify.com/track/0PhejYk9QZijuKAvBI43x9) | [Molly Annelle](https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz) | [trophy wife](https://open.spotify.com/album/2iJc8FbBbIw0Vpx84dL0xv) | 2:49 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Last One Standing](https://open.spotify.com/track/2ZZ4WodBWj4MRVP9Ec8bd6) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Last One Standing](https://open.spotify.com/album/1DuRlF9tv9aYCRQkNu80or) | 3:04 |
 | 125 | [Honeymoon](https://open.spotify.com/track/6lbV4fjdidtNPvjo0sGDZr) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeymoon](https://open.spotify.com/album/1Ux3c9n4YtI45ZvBZmllhs) | 3:17 |
 
-Snapshot ID: `ZqMfQAAAAACH123sm+jIdDtyG4N+fnbB`
+Snapshot ID: `ZqxZwAAAAABF/vYlAeqxXWGv7d7hBSCL`

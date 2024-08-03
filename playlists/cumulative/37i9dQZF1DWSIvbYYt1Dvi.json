@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "xam\u00e3 e leall \u00e9 AULAS",
+  "description": "aula da AULAS \u00e9 marcelo d2 - eu tiro \u00e9 onda",
   "name": "AULAS",
   "tracks": [
     {
@@ -2715,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "DissAposta",
+        "url": "https://open.spotify.com/album/4sSviVVd2CfJYjCanKzGOR"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187283,
+      "name": "DissAposta",
+      "url": "https://open.spotify.com/track/0826YXDvd2ZnTohSHsiGGB"
+    },
+    {
+      "album": {
         "name": "Document\u00e1rio",
         "url": "https://open.spotify.com/album/4bAbUUH5bndP2unEm1lwed"
       },
@@ -3110,6 +3128,24 @@
       "duration_ms": 204230,
       "name": "Eu Te Vi Dan\u00e7ando",
       "url": "https://open.spotify.com/track/4ycPdxPOOcLoo8vSgeBtZL"
+    },
+    {
+      "album": {
+        "name": "Eu Tiro \u00c9 Onda",
+        "url": "https://open.spotify.com/album/2vVnF0WNcbkW0YG7noVf2q"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221533,
+      "name": "Eu Tiro \u00c9 Onda",
+      "url": "https://open.spotify.com/track/0osb9qfKR4Trh80x7GmiZ9"
     },
     {
       "album": {

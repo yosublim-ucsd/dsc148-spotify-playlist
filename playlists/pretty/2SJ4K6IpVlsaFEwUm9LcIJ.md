@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,725 likes - 39 songs - 2 hr 18 min
+[margeaux](https://open.spotify.com/user/1220511975) - 20,735 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 37 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 |
 | 38 | [There's That Grin](https://open.spotify.com/track/2rV6guDDixTkeYco2wJSST) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 3:18 |
 | 39 | [The European Female \(In Celebration Of\)](https://open.spotify.com/track/5OCtkcIWYCJ8OTCixDREZh) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Feline](https://open.spotify.com/album/7zLCiI9gWYWyn9E0SNWVki) | 4:00 |
+| 40 | [Mario's Flaming Whiskers III](https://open.spotify.com/track/3Bktyrnmrdw05133ofR9Dl) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 2:30 |
 
-Snapshot ID: `AAAK1gCPqZeoComfYEWVxoah0nU3038W`
+Snapshot ID: `AAAK12r3yTWqnm/QEq8WZLGEhmKWETpb`

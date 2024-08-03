@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-471 songs - 1 day 9 hr 23 min
+472 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Groovin' at the Symphony Hall](https://open.spotify.com/track/3qVuajH5vjMaypGAuw4hTr) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Groovin' at the Symphony Hall](https://open.spotify.com/album/4VSFMb03AlbMAuELJFwS0X) | 4:13 | 2024-03-15 |  |
 | [H.A.D\. \(featuring Chieli Minucci\)](https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0), [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [H.A.D.](https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ) | 4:13 | 2022-09-30 | 2024-03-16 |
 | [Happy](https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Happy](https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv) | 4:19 | 2023-03-10 | 2023-05-13 |
+| [Happy Smooth Jazz](https://open.spotify.com/track/1aKkIqj3xTy2p41Le9uThV) | [Little Mary](https://open.spotify.com/artist/71hy1MirADf5VEb3BqgmKz), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Happy Smooth Jazz](https://open.spotify.com/album/3HRdOUQrnMrSrvhbSzEJx5) | 2:23 | 2024-08-02 |  |
 | [Hear At Last](https://open.spotify.com/track/7nklnyVct8QNhGodPcjygu) | [Mark Jaimes](https://open.spotify.com/artist/2nhYg2H9CEvbgfDynTHK0E) | [Hear at Last](https://open.spotify.com/album/3QWI2FECarl04d4WF2COUe) | 3:56 | 2021-07-23 | 2022-07-24 |
 | [Heart To Heart](https://open.spotify.com/track/3BB10qk3KvJ5dfUYpIG3yU) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Heart To Heart](https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq) | 4:11 | 2020-10-30 | 2022-03-18 |
 | [Heartwood](https://open.spotify.com/track/2v3nj34zNc1gt2cySA9992) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [Heartwood](https://open.spotify.com/album/5v508FMhSlWdwqg5kUXqsX) | 5:14 | 2023-05-19 |  |
@@ -250,7 +251,7 @@
 | [Light Within \(feat\. LaShawn D\. Gary and Dave McMurray\)](https://open.spotify.com/track/3v0OEwQsVjR5Rx2ESj5dSk) | [Jeff Canady](https://open.spotify.com/artist/0Oa1kpHHpgTQaxQ9dZUKAI), [LaShawn D\. Gary](https://open.spotify.com/artist/0nzXlRRHKYsEIn6zAmmCvq), [Dave McMurray](https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x) | [Light Within \(feat\. Lashawn D\. Gary and Dave McMurray\)](https://open.spotify.com/album/1SFrUYKE6Zlk8gzac3aRSZ) | 4:15 | 2023-03-17 |  |
 | [Like Butter \- radio single](https://open.spotify.com/track/0An6pi6xlDUYBeEoy1ln7k) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Like Butter](https://open.spotify.com/album/3uoqyLYjUzMIL33UdX9Ggc) | 4:09 | 2024-03-22 |  |
 | [Limitless \(feat\. Althea Rene\)](https://open.spotify.com/track/4zqOfFCfXkADvDjDPrAiCE) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Limitless \(feat\. Althea Rene\)](https://open.spotify.com/album/24ECA9LpmOuurQIioCabKC) | 4:20 | 2024-03-29 |  |
-| [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 | 2023-02-17 |  |
+| [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 | 2023-02-17 | 2024-08-03 |
 | [Living Inside Myself](https://open.spotify.com/track/1BWIZEEJVbE0nkbGtVgkbg) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Authentic Life](https://open.spotify.com/album/0dwwTaGfMvpCOv7Ikgo8Uq) | 4:20 | 2021-01-29 | 2022-03-18 |
 | [Living Out Loud](https://open.spotify.com/track/1Q1nRtRd98S6tXW3IWkNB2) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Living Out Loud](https://open.spotify.com/album/5XW3CWsPobrM7nItWAO2ym) | 4:23 | 2021-04-23 | 2022-03-18 |
 | [Look Both Ways](https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Look Both Ways](https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj) | 4:43 | 2022-10-07 | 2023-04-29 |
@@ -357,7 +358,7 @@
 | [SHINE!](https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt) | 4:21 | 2022-01-21 | 2023-03-25 |
 | [Shore Thing](https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [The Collaborations](https://open.spotify.com/album/7M0tYO1VeOg9TjIUDe5Ik6) | 4:02 | 2023-09-29 |  |
 | [Side by Side Radio Edit](https://open.spotify.com/track/0mWrMcMOWIB5w5ilmWKkwB) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Side by Side Radio Edit](https://open.spotify.com/album/74R005FKgC9qS7AniLVX0C) | 4:01 | 2020-10-30 | 2022-03-18 |
-| [Simplified Era](https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Simplified Era](https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ) | 2:12 | 2024-04-19 |  |
+| [Simplified Era](https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Simplified Era](https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ) | 2:12 | 2024-04-19 | 2024-08-03 |
 | [Skyway](https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Skyway](https://open.spotify.com/album/5rlf26FLZWrcLBZWzxT6Z6) | 3:41 | 2023-04-28 | 2024-03-16 |
 | [Slick \- radio single](https://open.spotify.com/track/1v6OP1ljBqa2EGWL8FgDlL) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Slick](https://open.spotify.com/album/3keeHfxRE4zD6YahhiyEY8) | 4:11 | 2022-04-15 | 2023-08-12 |
 | [Slingshot](https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Slingshot](https://open.spotify.com/album/0YocPxGvt5sccdAsZKqvgX) | 3:52 | 2021-10-15 | 2022-09-17 |

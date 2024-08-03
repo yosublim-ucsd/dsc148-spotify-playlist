@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 ### [This Is Mac Miller](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NufN6)
 
-> This is Mac Miller\. The essential tracks, all in one playlist.
+> This Is Mac Miller\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,170 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,341 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 49 | [The Quest](https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Quest](https://open.spotify.com/album/59h4HNypq1jgCHOkYUtyoW) | 3:53 |
 | 50 | [Coming Back \(feat\. Mac Miller\)](https://open.spotify.com/track/1WsRuvitfegWXQJKRgRZrj) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Genesis](https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW) | 2:41 |
 
-Snapshot ID: `Zql+gAAAAADB0ecg7kQiPg5F8Y/hNJMR`
+Snapshot ID: `ZqrQAAAAAACQcBinY9tiQXAhwXqRG8XJ`

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-330 songs - 15 hr 54 min
+333 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Headlights](https://open.spotify.com/track/3OLuiRmi5DtpHq8SZiCtW3) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Headlights](https://open.spotify.com/album/7Fixp63EZJVwpQduqCJCBi) | 2:20 | 2023-11-22 |  |
 | [heavy metals](https://open.spotify.com/track/4sI100hB4VQQqHQonPq9I2) | [plumpy](https://open.spotify.com/artist/50OV9n9Rnrf8BqUdzEVZMI), [daisy maize](https://open.spotify.com/artist/6SAsm9v5Z1fJpbrXGvuQu4) | [heavy metals](https://open.spotify.com/album/1l3e0TB5IdVOwFuOleUmjo) | 3:21 | 2022-05-10 | 2022-11-19 |
 | [Higher \(feat\. Eso.XO.Supreme\)](https://open.spotify.com/track/5SETcigvLiz4rQ3eUjR0k4) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Eso.XO.Supreme](https://open.spotify.com/artist/12VfdgL4i9hoFoaIFdE7qV) | [Higher \(feat\. Eso.XO.Supreme\)](https://open.spotify.com/album/5sMgGok0VfV3zg5uhopzXj) | 3:25 | 2023-03-17 |  |
+| [Hold My Love \(feat\. Piper Byers\)](https://open.spotify.com/track/6DagmGXA13lYuPCI2ZUDRt) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Piper Byers](https://open.spotify.com/artist/2m0Pc2TS4246t620Ut4Dk3) | [Hold My Love \(feat\. Piper Byers\)](https://open.spotify.com/album/5UtWnVXS5XFXJU8geS49K6) | 2:44 | 2024-08-02 |  |
 | [Home 2 Me](https://open.spotify.com/track/34fH6Q1MOz5xT4PMItdvnV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Home 2 Me](https://open.spotify.com/album/4W4GQvDqlb18eNR4tl87vE) | 2:38 | 2022-07-08 | 2022-10-12 |
 | [Hooligans](https://open.spotify.com/track/7Mow5Lz2LdsDSmMrX92uz7) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [Hooligans](https://open.spotify.com/album/6nfkGM6u9yAbSCQ9BPsg7x) | 2:54 | 2023-11-22 |  |
 | [Hooyah!](https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Hooyah!](https://open.spotify.com/album/15IjJw4B6jvRPPtbuwHHkI) | 2:12 | 2023-02-03 |  |
@@ -182,6 +183,7 @@
 | [Loco](https://open.spotify.com/track/0jpJNvfr7oBTn5AQnpjEoC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SAYMYNAME](https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv) | [Loco](https://open.spotify.com/album/6mhUBbGECknvUeH5TzmrCi) | 2:45 | 2022-07-27 | 2023-04-09 |
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-01 | 2022-12-21 |
 | [Look At Me](https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Look At Me](https://open.spotify.com/album/1dzxMhanj9kriQCS1PDwzU) | 2:27 | 2024-05-24 |  |
+| [Lost Cause](https://open.spotify.com/track/0T1avwj6YeeUZAAw2s26tQ) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt), [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ) | [Lost Cause](https://open.spotify.com/album/0ZelRbO1gxg9Qw8s55vohG) | 3:26 | 2024-08-02 |  |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2022-05-06 | 2022-06-25 |
 | [Lullaby](https://open.spotify.com/track/4zalizeajaM4COAsb04Ihh) | [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Lullaby](https://open.spotify.com/album/5a6dggnsI1SEbenUoqZtFO) | 2:47 | 2023-11-22 |  |
 | [MACH 10](https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [MACH 10](https://open.spotify.com/album/3Uj5FjcVPVhC8UHUt1wfhV) | 3:19 | 2023-11-22 |  |
@@ -304,6 +306,7 @@
 | [Traces Of You \- Luca Lush Remix](https://open.spotify.com/track/2YfkhjbPbmnkRfXZ2q1cVI) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Traces Of You \(Luca Lush Remix\)](https://open.spotify.com/album/22sXlmZEldxRakyvyv6GyW) | 5:23 | 2023-03-17 | 2023-04-09 |
 | [Traces Of You \- Luca Lush Remix](https://open.spotify.com/track/7uKaLfNSrTcRmRdKO8f1vG) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Traces Of You \(REMIXES\)](https://open.spotify.com/album/4IBnE0hUcJTHemHPNMc27Q) | 5:23 | 2023-04-07 |  |
 | [Treat U Wrong](https://open.spotify.com/track/0TtPLbRdf1d6paRb1XAXFg) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Treat U Wrong](https://open.spotify.com/album/2h2VFBu0mviDo2RXXU9Yzm) | 2:02 | 2022-12-19 | 2023-04-09 |
+| [Trip To Roma \(feat\. Loubna\)](https://open.spotify.com/track/0lNQhhSOt8fFtk9PhOt2kF) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Loubna](https://open.spotify.com/artist/0kUyt4y4iqxMqLs9a0Cs9R) | [Trip To Roma \(feat\. Loubna\)](https://open.spotify.com/album/19psBNUTIkl6KyFJe7qAa6) | 3:21 | 2024-08-02 |  |
 | [Trouble](https://open.spotify.com/track/6hgRyyRDRpiEa4eaqfq3nS) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Trouble](https://open.spotify.com/album/258Bb0r7QEzRADEv9r0MSN) | 2:28 | 2024-07-12 |  |
 | [Trunk](https://open.spotify.com/track/3hx3VuB81vvTStn4gkke0D) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Trunk](https://open.spotify.com/album/48Cw18pZx79ctaYTDAtD41) | 2:02 | 2023-05-12 |  |
 | [Trust](https://open.spotify.com/track/50vMrcUtcsnf0TuLjWmy9N) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Trust](https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo) | 3:14 | 2023-07-28 | 2023-12-14 |

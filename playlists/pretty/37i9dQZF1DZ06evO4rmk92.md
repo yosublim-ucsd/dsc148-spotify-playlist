@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,992 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,020 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 11 | [Pretend](https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 2:44 |
 | 12 | [Almost Like Being In Love \- Remastered](https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 1:53 |
 | 13 | [Nature Boy](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
-| 14 | [I Don't Want To See Tomorrow](https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:36 |
+| 14 | [Quizas, Quizas, Quizas \(Perhaps, Perhaps, Perhaps\)](https://open.spotify.com/track/6VuJLPtBlEOaR5oYI51ueN) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:45 |
 | 15 | [Mona Lisa](https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:14 |
-| 16 | [Quizas, Quizas, Quizas \(Perhaps, Perhaps, Perhaps\)](https://open.spotify.com/track/6VuJLPtBlEOaR5oYI51ueN) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:45 |
+| 16 | [I Don't Want To See Tomorrow](https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:36 |
 | 17 | [Perfidia](https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:20 |
 | 18 | [Acércate Más](https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Natalie Cole En Español \(Track By Track Commentary\)](https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H) | 2:47 |
 | 19 | [The Very Thought Of You](https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:48 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 36 | [Ramblin' Rose](https://open.spotify.com/track/6bZlab0NrNteVppLu9C2Zy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ramblin Rose](https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP) | 2:47 |
 | 37 | [Red Sails In The Sunset](https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:17 |
 | 38 | [The Girl From Ipanema](https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Ultimate Nat King Cole](https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4) | 2:54 |
-| 39 | [I Could Have Danced All Night](https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [My Fair Lady](https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I) | 2:30 |
-| 40 | [You Made Me Love You \(I Didn't Want To Do It\) \- Remastered](https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Thank You, Pretty Baby](https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2) | 2:52 |
-| 41 | [Walkin' My Baby Back Home](https://open.spotify.com/track/4HI45rr7RtHDxuR1sy63x9) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Still Unforgettable \(Expanded Edition\)](https://open.spotify.com/album/5DoaC07Tzl170xtqz0f2oU) | 2:59 |
-| 42 | [Answer Me, My Love](https://open.spotify.com/track/4i7bU18iUPKxPMrld9W48M) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:55 |
-| 43 | [You're My Everything](https://open.spotify.com/track/0TRQeUKT5X3gWA4LUZsrvc) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:49 |
-| 44 | [The Party's Over](https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Just One Of Those Things](https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek) | 2:44 |
+| 39 | [You Made Me Love You \(I Didn't Want To Do It\) \- Remastered](https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Thank You, Pretty Baby](https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2) | 2:52 |
+| 40 | [I Could Have Danced All Night](https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [My Fair Lady](https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I) | 2:30 |
+| 41 | [Answer Me, My Love](https://open.spotify.com/track/4i7bU18iUPKxPMrld9W48M) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:55 |
+| 42 | [Walkin' My Baby Back Home](https://open.spotify.com/track/4HI45rr7RtHDxuR1sy63x9) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Still Unforgettable \(Expanded Edition\)](https://open.spotify.com/album/5DoaC07Tzl170xtqz0f2oU) | 2:59 |
+| 43 | [The Party's Over](https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Just One Of Those Things](https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek) | 2:44 |
+| 44 | [You're My Everything](https://open.spotify.com/track/0TRQeUKT5X3gWA4LUZsrvc) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:49 |
 | 45 | [Just You, Just Me \- Remastered 1999](https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:02 |
 | 46 | [Sweet Lorraine](https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:22 |
 | 47 | [Fantastico](https://open.spotify.com/track/6lREZJIPtXSX31YxI5gP3C) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 1:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 49 | [My Kind Of Girl](https://open.spotify.com/track/3F4W9lrEsEcpVnlcGSBXb0) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 3:11 |
 | 50 | [Cachito](https://open.spotify.com/track/68XbEHDqjefcO6fVfNssfb) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:50 |
 
-Snapshot ID: `Zql+gAAAAADQy7/WJIhyWBLa6XigciuE`
+Snapshot ID: `ZqrQAAAAAAB4Src1qBJwrVIO1Dfv15ja`

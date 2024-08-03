@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,571 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,568 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 31 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 |
 | 32 | [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 |
 | 33 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
-| 34 | [Another Dream](https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:22 |
-| 35 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
+| 34 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
+| 35 | [Another Dream](https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:22 |
 | 36 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 |
 | 37 | [Graduation](https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Graduation](https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1) | 3:43 |
 | 38 | [Happiness](https://open.spotify.com/track/23F5idO5E81O3VatxedjQM) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Happiness](https://open.spotify.com/album/54Or2CfKCxw4UK1U0Sbgc8) | 4:07 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 42 | [My Day \(Acoustic Ver.\)](https://open.spotify.com/track/3U5ex6nJznAHjxjQoMOe1j) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [YUMI's Cells 2, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7iCgUlIHBbHCPWM08m3yYJ) | 4:12 |
 | 43 | [Listen to this song](https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Listen to this song](https://open.spotify.com/album/6Jq8RAeVPIY6mlr6uj1yir) | 3:43 |
 | 44 | [Nostalgia](https://open.spotify.com/track/2dfk8VM64Xe22itp2bn4rX) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [WE:TH](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) | 3:03 |
-| 45 | [Night Drive](https://open.spotify.com/track/7azmn7M9mRnHzyqxzjMsNe) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:27 |
-| 46 | [Happier \(feat\. Crush\)](https://open.spotify.com/track/5HOzA1X13wwOJKF0cFKkQx) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 4:11 |
-| 47 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
+| 45 | [Happier \(feat\. Crush\)](https://open.spotify.com/track/5HOzA1X13wwOJKF0cFKkQx) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 4:11 |
+| 46 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
+| 47 | [Night Drive](https://open.spotify.com/track/7azmn7M9mRnHzyqxzjMsNe) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:27 |
 | 48 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
 | 49 | [내일이 있잖아 \(Feat\. Jayci yucca\)](https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [내일이 있잖아](https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb) | 3:02 |
 | 50 | [It's fine](https://open.spotify.com/track/6zl8VOP7l8kFd2nLfmJ2Kg) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [It's fine](https://open.spotify.com/album/2DIn3u50PH4rezsVxjH6IT) | 3:13 |

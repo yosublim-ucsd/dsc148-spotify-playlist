@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,421 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,488 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 6 | [Hasta Siempre](https://open.spotify.com/track/1UQ1jzCK5oqGU6OEkCsngb) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Hasta Siempre](https://open.spotify.com/album/27eNAjsgjBSBp3LXTxpysl) | 3:31 |
 | 7 | [Pregúntele a mi ex](https://open.spotify.com/track/0BvZUuW2QmQ9OgAoNIyyI0) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK) | [Pregúntele a mi ex](https://open.spotify.com/album/08wW249B1Fh2EbhrOkGrF4) | 2:41 |
 | 8 | [Contentoso](https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6) | 2:49 |
-| 9 | [Lágrimas De Amor](https://open.spotify.com/track/4qs5X0Iujdxb83U6KUdG3o) | [Chakal Del Sur](https://open.spotify.com/artist/0KeCyvIzTo589Y5RUba49t) | [Lágrimas De Amor](https://open.spotify.com/album/5jKlZ1QzWRyaYcLVgkCIhR) | 2:32 |
-| 10 | [El atrevimiento](https://open.spotify.com/track/1OMjCkMpT8xdjIacSUq4lL) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [El atrevimiento](https://open.spotify.com/album/5fysK9TQ4HlLDJnIxNhYZI) | 3:33 |
-| 11 | [El Provinciano](https://open.spotify.com/track/0Bm7IA6LFnU5KwlT3A8emi) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Provinciano](https://open.spotify.com/album/6QsYzYrVwGxP0YtqsXbjNy) | 3:08 |
+| 9 | [Me Llamó Mi Ex \- Remix](https://open.spotify.com/track/0FcAVXegYuB0UTAQOdhBoZ) | [Dany Cardona](https://open.spotify.com/artist/3JgApvKfEl4tdErCKQEhIv), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/album/0Whs8AXifgHtgXauwndBLe) | 3:09 |
+| 10 | [Lágrimas De Amor](https://open.spotify.com/track/4qs5X0Iujdxb83U6KUdG3o) | [Chakal Del Sur](https://open.spotify.com/artist/0KeCyvIzTo589Y5RUba49t) | [Lágrimas De Amor](https://open.spotify.com/album/5jKlZ1QzWRyaYcLVgkCIhR) | 2:32 |
+| 11 | [El atrevimiento](https://open.spotify.com/track/1OMjCkMpT8xdjIacSUq4lL) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [El atrevimiento](https://open.spotify.com/album/5fysK9TQ4HlLDJnIxNhYZI) | 3:33 |
 | 12 | [No Me 100to Bien](https://open.spotify.com/track/4ojX5C1upQBxlVLvZt8AgD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Me 100to Bien](https://open.spotify.com/album/3FYnU0zDcAikblh1uTYQ95) | 3:22 |
 | 13 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
 | 14 | [Mi Debilidad](https://open.spotify.com/track/0WTgAgwnqTQsFgq01hXnb4) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mi Debilidad](https://open.spotify.com/album/7gkYUuQbtMUDxkJof4FNpq) | 2:46 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 84 | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \- Versión Ranchera](https://open.spotify.com/track/2zGN2Pjf8FRZb3xYM0PkF3) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \[Versión Ranchera\]](https://open.spotify.com/album/6Xg3KAks81uVX1lzsvg4gu) | 2:51 |
 | 85 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 |
 
-Snapshot ID: `ZpomnAAAAACWnjc7nWjC5JLlyfns/Y4s`
+Snapshot ID: `Zq0NeAAAAADGlWuLRXdXCIBiBK53QEca`

@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 536060,
+  "num_followers": 536082,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "In\u00e9dits 68-97",
+        "url": "https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "Laissons entrer le soleil",
+      "url": "https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Comment te dire adieu ?",
         "url": "https://open.spotify.com/album/5lX198dectE8fpkow4UXrf"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "La poup\u00e9e qui fait non",
-      "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Fais Comme L'Oiseau",
         "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
       },
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "La poup\u00e9e qui fait non",
+      "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Mon Vieux",
         "url": "https://open.spotify.com/album/1i0NyVofMiqLPfZwiiQ79f"
       },
@@ -1019,6 +1035,22 @@
       "duration_ms": 212466,
       "name": "Mon vieux",
       "url": "https://open.spotify.com/track/05GcBfZY8Zno2DkWToHyIw"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1071,22 +1103,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Hier encore",
-      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Infiniment",
         "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
       },
@@ -1099,6 +1115,22 @@
       "duration_ms": 186533,
       "name": "Vesoul",
       "url": "https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "La boh\u00e8me",
+      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1167,22 +1199,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "In\u00e9dits 68-97",
-        "url": "https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "Laissons entrer le soleil",
-      "url": "https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4WDKGsDi7616S6Egs0quLq"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 251666,
       "name": "Ne Me Quitte Pas",
       "url": "https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "La boh\u00e8me",
-      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
     },
     {
       "added_at": "2024-07-25 13:22:22",

@@ -4,7 +4,7 @@
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-134 songs - 7 hr 48 min
+135 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Agora Eu Quero Ir](https://open.spotify.com/track/0wHLjfLyc26xILjHVMGIHN) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:12 | 2023-10-13 | 2024-04-19 |
 | [Agora Eu Quero Ir](https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:12 | 2024-03-18 |  |
 | [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 | 2023-10-13 | 2024-07-13 |
-| [Ainda Bem Que Chegou \(Acoustic Version\)](https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Bem Que Chegou \(Acoustic Version\)](https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK) | 3:01 | 2024-03-18 |  |
+| [Ainda Bem Que Chegou \(Acoustic Version\)](https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Bem Que Chegou \(Acoustic Version\)](https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK) | 3:01 | 2024-03-18 | 2024-08-03 |
 | [Ainda Bem Que Chegou \- Acoustic Version](https://open.spotify.com/track/6pY5YWYHk7CWxmf0IwD7RX) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Bem Que Chegou \(Acoustic Version\)](https://open.spotify.com/album/6bB5V8MnfPZrUXVMZe75IE) | 3:01 | 2023-10-13 | 2024-04-19 |
 | [Aindas](https://open.spotify.com/track/64RrdeZbeiMKvhhSbWKPso) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Ana Vilela Sessions](https://open.spotify.com/album/2MwxQxJrzlYkkvLnIvpwVM) | 3:18 | 2023-10-13 | 2024-07-13 |
 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 | 2023-10-13 |  |
@@ -66,6 +66,7 @@
 | [Interestelar](https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x) | [Pedro Pascual](https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4) | [Interestelar](https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ) | 3:46 | 2023-10-13 |  |
 | [Júpiter \- Ao Vivo](https://open.spotify.com/track/0TkJ5VPDunXaQYNhScQyN4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 2:16 | 2023-10-13 | 2024-04-19 |
 | [Júpiter \- Ao Vivo](https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter \(Ao Vivo\)](https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf) | 2:16 | 2024-03-18 |  |
+| [Linguagem Não Verbal](https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Linguagem Não Verbal](https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5) | 3:21 | 2024-08-02 |  |
 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 | 2023-10-13 |  |
 | [Mande um Sinal \- Acústico](https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mande um Sinal \(Acústico\)](https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq) | 3:58 | 2024-07-12 |  |
 | [Me Diz](https://open.spotify.com/track/10lmdxhXzNHFUPL3spPCvf) | [Ariane Villa Lobos](https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz) | [Me Diz](https://open.spotify.com/album/0mkif5b8SW3koODDQbwN9l) | 3:26 | 2023-10-13 | 2024-04-19 |

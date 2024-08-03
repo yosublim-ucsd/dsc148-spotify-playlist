@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,607 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,634 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 33 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
 | 34 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 |
 | 35 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
-| 36 | [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 |
-| 37 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 |
+| 36 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 |
+| 37 | [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 |
 | 38 | [My Brother](https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [My Brother](https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6) | 2:38 |
 | 39 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 |
 | 40 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 53 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 |
 | 54 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
 | 55 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 |
-| 56 | [Glory Days](https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [What Would You Do Without Me](https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM) | 2:37 |
-| 57 | [Ogologo](https://open.spotify.com/track/2FIo6itkvFUH8Gze6SWh4V) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Ogologo](https://open.spotify.com/album/0YDsVfN2COubjqikZUnDTq) | 2:26 |
+| 56 | [Ogologo](https://open.spotify.com/track/2FIo6itkvFUH8Gze6SWh4V) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Ogologo](https://open.spotify.com/album/0YDsVfN2COubjqikZUnDTq) | 2:26 |
+| 57 | [Glory Days](https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [What Would You Do Without Me](https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM) | 2:37 |
 | 58 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:16 |
 | 59 | [Peace of Mind](https://open.spotify.com/track/7grcWNFVuikupo8Q4hJ9E8) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peace of Mind](https://open.spotify.com/album/2JVeQNTDzn9CePwaPqiS01) | 2:51 |
 | 60 | [DND](https://open.spotify.com/track/24RnCHp1JaRJAANJXAZCPu) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/0rq0mponMq2JxvmnPbQWhg) | 2:48 |

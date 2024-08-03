@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: davey. Artwork by Rewina Beshue.",
-  "num_followers": 181895,
+  "num_followers": 181955,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqurigAAAADM2iSP/7AkfNDmRMs+GSdT",
+  "snapshot_id": "ZqxZwAAAAAD/rMR3RUfKOIdMhWslBiMT",
   "tracks": [
     {
       "added_at": "2024-07-31 17:23:25",
@@ -39,6 +39,22 @@
       "duration_ms": 200744,
       "name": "Come To My House",
       "url": "https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "NOT ANGRY",
+        "url": "https://open.spotify.com/album/3JJC8SfFjR0yKGV2SEOWSF"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "duration_ms": 111483,
+      "name": "NOT ANGRY",
+      "url": "https://open.spotify.com/track/7h0ki5H7W4EUqrAiXm7nFJ"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -145,6 +161,22 @@
       "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
     },
     {
+      "added_at": "2024-05-08 19:36:43",
+      "album": {
+        "name": "Beb\u00e9",
+        "url": "https://open.spotify.com/album/65gP9MmcCUBQHGTovrOoGx"
+      },
+      "artists": [
+        {
+          "name": "Sloujin",
+          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
+        }
+      ],
+      "duration_ms": 178908,
+      "name": "Beb\u00e9",
+      "url": "https://open.spotify.com/track/3toqyoTLmmXxqf9JmGdiLX"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Is This Real Love",
@@ -201,6 +233,38 @@
       "url": "https://open.spotify.com/track/47CYEfRZNEHq9UXALEP7Z4"
     },
     {
+      "added_at": "2024-03-27 17:04:34",
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/06kpYtVBDrzzipOgmQGsLp"
+      },
+      "artists": [
+        {
+          "name": "FINNfm",
+          "url": "https://open.spotify.com/artist/0WRoMuHi5PCTTgFoW2BonE"
+        }
+      ],
+      "duration_ms": 214797,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/4duR82PBAYcWSfMXKe8B42"
+    },
+    {
       "added_at": "2024-07-24 17:53:28",
       "album": {
         "name": "Wouldn't Believe",
@@ -215,6 +279,30 @@
       "duration_ms": 198363,
       "name": "Wouldn't Believe",
       "url": "https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Manu Mamu",
+        "url": "https://open.spotify.com/album/0UKYipd9HNVAuF2IeuqycR"
+      },
+      "artists": [
+        {
+          "name": "JAMZ",
+          "url": "https://open.spotify.com/artist/7kYh4aJ1wzORt9hqML1IWZ"
+        },
+        {
+          "name": "Costa Leon",
+          "url": "https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh"
+        },
+        {
+          "name": "All One",
+          "url": "https://open.spotify.com/artist/1YFqP7Bw1SBL1xjFCQM940"
+        }
+      ],
+      "duration_ms": 206813,
+      "name": "Manu Mamu",
+      "url": "https://open.spotify.com/track/3VY2FgTTEM263GSpGAt7lt"
     },
     {
       "added_at": "2024-06-20 04:47:08",
@@ -233,22 +321,6 @@
       "url": "https://open.spotify.com/track/4aoEq1EDG90hq53DR9DT2w"
     },
     {
-      "added_at": "2024-04-10 18:23:48",
-      "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/5IeQsReRuYJwuME8j9hnV3"
-      },
-      "artists": [
-        {
-          "name": "Stresshead",
-          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/6ul9aRluTKN8OIPgUF8qZS"
-    },
-    {
       "added_at": "2024-07-31 17:23:25",
       "album": {
         "name": "pattern",
@@ -263,6 +335,22 @@
       "duration_ms": 130041,
       "name": "pattern",
       "url": "https://open.spotify.com/track/3z7mJURng2kqpyUkCofoQt"
+    },
+    {
+      "added_at": "2024-04-10 18:23:48",
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/5IeQsReRuYJwuME8j9hnV3"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/6ul9aRluTKN8OIPgUF8qZS"
     },
     {
       "added_at": "2024-06-12 18:22:48",
@@ -393,22 +481,6 @@
       "url": "https://open.spotify.com/track/7p53cGdgUVxLosFQcr1cHL"
     },
     {
-      "added_at": "2024-05-08 19:36:43",
-      "album": {
-        "name": "Beb\u00e9",
-        "url": "https://open.spotify.com/album/65gP9MmcCUBQHGTovrOoGx"
-      },
-      "artists": [
-        {
-          "name": "Sloujin",
-          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
-        }
-      ],
-      "duration_ms": 178908,
-      "name": "Beb\u00e9",
-      "url": "https://open.spotify.com/track/3toqyoTLmmXxqf9JmGdiLX"
-    },
-    {
       "added_at": "2024-07-24 17:53:28",
       "album": {
         "name": "Porto Vecchio",
@@ -443,22 +515,6 @@
       "duration_ms": 202758,
       "name": "See Through You",
       "url": "https://open.spotify.com/track/67YgZAdBAl28xaqNTHapnz"
-    },
-    {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2024-07-03 22:16:33",
@@ -985,22 +1041,6 @@
       "url": "https://open.spotify.com/track/27XjCIgU1ary0knYdhfNiZ"
     },
     {
-      "added_at": "2024-07-10 17:56:31",
-      "album": {
-        "name": "I Don't Know",
-        "url": "https://open.spotify.com/album/5V8g8h721FP2YyisESZyVL"
-      },
-      "artists": [
-        {
-          "name": "Kara Okay",
-          "url": "https://open.spotify.com/artist/6KyV1kU48HwGZpcQYy9cpR"
-        }
-      ],
-      "duration_ms": 321103,
-      "name": "Passion Through My Mind",
-      "url": "https://open.spotify.com/track/5hdENNfodo1kDj62oIcISk"
-    },
-    {
       "added_at": "2024-07-17 16:00:00",
       "album": {
         "name": "DRM",
@@ -1305,22 +1345,6 @@
       "url": "https://open.spotify.com/track/3GaP7JuzwFr6bjhIgSMHyG"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Jeez Louix",
-        "url": "https://open.spotify.com/album/2OnrwDcRuILSlLX1tr96av"
-      },
-      "artists": [
-        {
-          "name": "J. Louix",
-          "url": "https://open.spotify.com/artist/2WYMIlGoKw0QcSrbinrsQP"
-        }
-      ],
-      "duration_ms": 247916,
-      "name": "Still Outside",
-      "url": "https://open.spotify.com/track/49L0b6fBU0MzvUOf264oqF"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Bring The Beat",
@@ -1495,22 +1519,6 @@
       "duration_ms": 163548,
       "name": "For Now Im Here",
       "url": "https://open.spotify.com/track/09U4YwzvgxtN3lRv3Mu4sf"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "F*ck Me Up",
-        "url": "https://open.spotify.com/album/3B6xfUUzl67e1FksVzcJT0"
-      },
-      "artists": [
-        {
-          "name": "131bpm",
-          "url": "https://open.spotify.com/artist/3RYtFUGt7gnNuYeDu83zw6"
-        }
-      ],
-      "duration_ms": 267025,
-      "name": "F*ck Me Up",
-      "url": "https://open.spotify.com/track/3tNDcctgStetfyUZQsaAPp"
     },
     {
       "added_at": "2024-06-21 04:00:00",

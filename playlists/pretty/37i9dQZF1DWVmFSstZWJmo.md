@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Is "indie sleaze" in the room with us now? ft\. Peaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,029 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,165 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 43 | [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 4:45 |
 | 44 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
 | 45 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
-| 46 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 |
-| 47 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
+| 46 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
+| 47 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 |
 | 48 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
 | 49 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 |
 | 50 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |

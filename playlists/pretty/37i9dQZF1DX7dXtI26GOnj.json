@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Karol G ",
-  "num_followers": 187262,
+  "num_followers": 187438,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-07-26 14:58:48",
       "album": {
+        "name": "Volv\u00ed",
+        "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230125,
+      "name": "Volv\u00ed",
+      "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "added_at": "2024-07-26 14:58:48",
+      "album": {
         "name": "QUEMA",
         "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
-    },
-    {
-      "added_at": "2024-07-26 14:58:48",
-      "album": {
-        "name": "Volv\u00ed",
-        "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230125,
-      "name": "Volv\u00ed",
-      "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
     },
     {
       "added_at": "2024-07-26 14:58:48",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-07-26 14:58:48",
       "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
-    },
-    {
-      "added_at": "2024-07-26 14:58:48",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2024-07-26 14:58:48",
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
       "added_at": "2024-07-26 14:58:48",
@@ -955,42 +955,6 @@
     {
       "added_at": "2024-07-26 14:58:48",
       "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 187986,
-      "name": "EL TONTO",
-      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
-    },
-    {
-      "added_at": "2024-07-26 14:58:48",
-      "album": {
-        "name": "UN PREVIEW",
-        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 165582,
-      "name": "UN PREVIEW",
-      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
-    },
-    {
-      "added_at": "2024-07-26 14:58:48",
-      "album": {
         "name": "ESE VATO",
         "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
       },
@@ -1011,18 +975,22 @@
     {
       "added_at": "2024-07-26 14:58:48",
       "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
+      "duration_ms": 187986,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
     },
     {
       "added_at": "2024-07-26 14:58:48",
@@ -1043,6 +1011,38 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "added_at": "2024-07-26 14:58:48",
+      "album": {
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
+    },
+    {
+      "added_at": "2024-07-26 14:58:48",
+      "album": {
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
     },
     {
       "added_at": "2024-07-26 14:58:48",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-07-26 14:58:48",
       "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
+    },
+    {
+      "added_at": "2024-07-26 14:58:48",
+      "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2024-07-26 14:58:48",
-      "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2024-07-26 14:58:48",

@@ -4,7 +4,7 @@
 
 > 
 
-797 songs - 1 day 16 hr 43 min
+798 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,6 +735,7 @@
 | [too easy](https://open.spotify.com/track/1t55dGrBkLvKDzNa9QJ3LV) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:18 | 2022-12-28 |  |
 | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/track/3A3S5pdCJdePtJ0oKeCrCP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:17 | 2022-12-23 |  |
 | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp) | 3:36 | 2023-04-01 |  |
+| [Took A While \(Be Us\)](https://open.spotify.com/track/2hM9XK7CRG631EdAbu5zFQ) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Took A While \(Be Us\)](https://open.spotify.com/album/3rE930Bcle8R4AEzVZm5sP) | 2:36 | 2024-08-02 |  |
 | [Took Her To The O](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 3:16 | 2022-05-25 |  |
 | [TOP FLOOR \(feat\. Travis Scott\)](https://open.spotify.com/track/4YhJ3a6kBPGJWX4Ek77sDd) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:49 | 2022-12-22 |  |
 | [Top Off](https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:17 | 2023-01-07 |  |

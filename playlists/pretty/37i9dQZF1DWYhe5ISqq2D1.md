@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 碧海祐人
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,189 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,201 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 36 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
 | 37 | [サラダステーション](https://open.spotify.com/track/2l0Mtli9Vi9JyXpcMdAjlk) | [kiss the gampler](https://open.spotify.com/artist/2b7i2PuYkVMs9fAbKpLlCZ) | [サラダステーション](https://open.spotify.com/album/7woGN0kSv27obF3sbopRu7) | 5:19 |
 | 38 | [ギリギリガール](https://open.spotify.com/track/3l5PqJmUaIxzKTex48pfiT) | [ゆうやけしはす](https://open.spotify.com/artist/3CwuIn6tAOwZiPt8e0ydoi) | [ギリギリガール](https://open.spotify.com/album/5BeUOqlFuZiacNLBWAuIrw) | 3:00 |
-| 39 | [満ちてゆく](https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [満ちてゆく](https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W) | 5:10 |
+| 39 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
 | 40 | [GHOST](https://open.spotify.com/track/35o3WMFCxU73xrS95rFjhi) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [GHOST](https://open.spotify.com/album/5oede8TqUcdeuKX7cBbK5y) | 2:38 |
-| 41 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
+| 41 | [満ちてゆく](https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [満ちてゆく](https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W) | 5:10 |
 | 42 | [Paradise Forever](https://open.spotify.com/track/3uOLzqlQhPqlgLJJxDJ7kD) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [Paradise Forever](https://open.spotify.com/album/34xVl32E3CiI11lzqO6cH2) | 3:58 |
 | 43 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 |
 | 44 | [オートバイ](https://open.spotify.com/track/1bM3A3MWfIimzfbTHpXMjk) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [Tree](https://open.spotify.com/album/3VSpG9QwOEz4k3nrtRBgKG) | 4:22 |
-| 45 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 |
+| 45 | [ラッキーカラー](https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ラッキーカラー](https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H) | 3:39 |
 | 46 | [かえりみち](https://open.spotify.com/track/2rF7Tk0fx5zWx5TDKFfRx4) | [ちたへんりー](https://open.spotify.com/artist/6xSuKSmaiLEgoRt2tHeL1R) | [かえりみち](https://open.spotify.com/album/7IJ0P9CWWmbDpuh3PcpFMj) | 2:32 |
 | 47 | [不可幸力](https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:20 |
 | 48 | [29](https://open.spotify.com/track/4mdRh20aUVLSThTikKaKYC) | [桃野陽介](https://open.spotify.com/artist/0PdgrJnkphPuXlJp3wjcDw) | [29](https://open.spotify.com/album/6bNqSbLyFMlyLiIiaGBrbH) | 4:18 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 50 | [フォーエバー・ヤング](https://open.spotify.com/track/5XLUElJXOJmJB6804vKVjD) | [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [フォーエバー・ヤング](https://open.spotify.com/album/3ijkUYtYmRwAjRjZf8FRmu) | 4:38 |
 | 51 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 |
 | 52 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
-| 53 | [ラッキーカラー](https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ラッキーカラー](https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H) | 3:39 |
+| 53 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 |
 | 54 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 55 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
 | 56 | [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 66 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 |
 | 67 | [想望](https://open.spotify.com/track/2jTXs5PwRmPRWyJQ4lKfIR) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [想望](https://open.spotify.com/album/5FximYjhARhnGEDF1A6fWZ) | 4:24 |
 | 68 | [鱗\(うろこ\)](https://open.spotify.com/track/4IubwxgmXeZtDtYjTaT9gN) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [コントラスト](https://open.spotify.com/album/3zQQfkeOgbjCwjA2585J0P) | 5:24 |
-| 69 | [紡ぐ](https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [紡ぐ](https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ) | 3:51 |
+| 69 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
 | 70 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
-| 71 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
+| 71 | [紡ぐ](https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [紡ぐ](https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ) | 3:51 |
 | 72 | [少しだけ](https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [少しだけ](https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc) | 3:35 |
 | 73 | [Workin' Hard](https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Workin' Hard](https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt) | 3:59 |
 | 74 | [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 88 | [Véranda](https://open.spotify.com/track/6h5ndow0y3PdcW6nFsxLFz) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [Véranda](https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT) | 3:23 |
 | 89 | [カーニバル](https://open.spotify.com/track/5XGhwqu1TB391if1pD4lje) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:23 |
 | 90 | [宝者](https://open.spotify.com/track/1htuhBLEvnY2s2k9juFQJG) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝者](https://open.spotify.com/album/4urlo8qlVk7bwSKlwcDIc2) | 4:17 |
-| 91 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 |
-| 92 | [BANDAGE](https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BANDAGE](https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz) | 3:08 |
+| 91 | [BANDAGE](https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BANDAGE](https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz) | 3:08 |
+| 92 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 |
 | 93 | [常緑](https://open.spotify.com/track/42dM8WcW6SUxueqABK1LmQ) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [常緑](https://open.spotify.com/album/36Wwao113URCTIu6PoR9sH) | 2:51 |
 | 94 | [ダーリン](https://open.spotify.com/track/3mkRGh8v7AOH31yQ38SVdt) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ダーリン](https://open.spotify.com/album/3nxQoSo8OVyL1wvdiW9Vva) | 2:28 |
 | 95 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 |

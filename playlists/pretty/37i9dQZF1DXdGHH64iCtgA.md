@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,440 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,462 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 14 | [Some Nights](https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv) | [Class Fools](https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt) | [Some Nights](https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r) | 2:48 |
 | 15 | [La Rua Madureira](https://open.spotify.com/track/2NTZ1nzUqueH7odDcjLq5s) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:41 |
 | 16 | [PLACES](https://open.spotify.com/track/6mW2IiQDrp66AUjCsRu6Kg) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/6WbMZYQ1SAU8HrgZSuH0xJ) | 3:34 |
-| 17 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
-| 18 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
+| 17 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
+| 18 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
 | 19 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 |
 | 20 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 |
 | 21 | [Han Jan \- Edit](https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Han Jan](https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc) | 4:02 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 38 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 |
 | 39 | [Set Me Free \- Extended Mix](https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Set Me Free \(Extended Mix\)](https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln) | 3:30 |
 | 40 | [Let the Beat Control Your Body](https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP) | [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK), [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW) | [Bromance \#1 \- Single](https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt) | 5:11 |
-| 41 | [VSOD \- Velvet Sky of Dreams](https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [VSOD \(Velvet Sky of Dreams\)](https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK) | 5:42 |
-| 42 | [Pick Up \- Even Shorter Version](https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up \(Even Shorter Version\)](https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO) | 3:48 |
+| 41 | [Pick Up \- Even Shorter Version](https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up \(Even Shorter Version\)](https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO) | 3:48 |
+| 42 | [VSOD \- Velvet Sky of Dreams](https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [VSOD \(Velvet Sky of Dreams\)](https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK) | 5:42 |
 | 43 | [they told us it was hard, but they were wrong.](https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 6:00 |
 | 44 | [TASTY \- Boys Noize Remix](https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 3:50 |
 | 45 | [PFW \(Paris Fashion Week\)](https://open.spotify.com/track/46N9KCJKR8cu1CatN5UKPi) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [PFW \(Paris Fashion Week\)](https://open.spotify.com/album/3WxKZSS3o5PK9p87ILCbbJ) | 3:30 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 87 | [YSL](https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY) | [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [HYPNOTIZE EP](https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud) | 2:42 |
 | 88 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 |
 | 89 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 |
-| 90 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 |
-| 91 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 |
+| 90 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 |
+| 91 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 |
 | 92 | [Time Stands Still](https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Time Warps](https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE) | 16:37 |
 | 93 | [Rock To The Beat](https://open.spotify.com/track/6urOPAkDfSK1LZ3jeHVgGA) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:23 |
 | 94 | [1 Bump](https://open.spotify.com/track/0qw6U1nveUfBG6wggthDt8) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [1 Bump](https://open.spotify.com/album/7FPkZoWVcrTs8fN48C3ayy) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 |
 | 100 | [LOFF IS ALL YOU SPEED](https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [SITA](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI) | [LOFF IS ALL YOU SPEED](https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT) | 3:03 |
 
-Snapshot ID: `ZjpssgAAAACbPcVyqne7Qoj0F9N87Isk`
+Snapshot ID: `Zq0YcwAAAACH8qzhDCWWcnjwCMnZiIWF`

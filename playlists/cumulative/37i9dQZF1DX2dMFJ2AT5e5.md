@@ -4,7 +4,7 @@
 
 > una lloradita y a seguirle 🥲
 
-227 songs - 12 hr 48 min
+228 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2024-02-08 |  |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 | 2024-02-08 | 2024-06-29 |
 | [La Vida Sin Ti](https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:44 | 2024-05-10 | 2024-07-05 |
-| [La Vida Sin Ti](https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [La Vida Sin Ti](https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP) | 2:44 | 2024-07-05 |  |
+| [La Vida Sin Ti](https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [La Vida Sin Ti](https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP) | 2:44 | 2024-07-05 | 2024-08-03 |
 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 | 2024-02-08 |  |
 | [LAGUNAS](https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:51 | 2024-02-08 |  |
 | [Lay Low](https://open.spotify.com/track/5Y9v0SLYfeDtgToS3dxtMg) | [Gallway Flex](https://open.spotify.com/artist/6DZylFpDS9LLQYsGRUpa9t) | [Lay Low](https://open.spotify.com/album/16xU2UigXjzJUR4AxW6I0U) | 3:06 | 2021-07-16 | 2024-02-09 |
@@ -138,6 +138,7 @@
 | [Myself](https://open.spotify.com/track/39DQ77c4J3fJiRNQCDDqox) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Myself](https://open.spotify.com/album/29GHool4MoV8vE9o0RxYKF) | 3:47 | 2021-07-16 | 2024-02-09 |
 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-08 | 2024-06-20 |
 | [not alone](https://open.spotify.com/track/4muWNZ5n69p9tnjTfDz7GO) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 2:34 | 2021-07-16 | 2024-02-09 |
+| [NTP](https://open.spotify.com/track/7e6N0J6tRXXYP2TTo67zW2) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NTP](https://open.spotify.com/album/1n8Yj5JW2WrY4ODhDj4eMP) | 3:15 | 2024-08-02 |  |
 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 | 2021-07-16 | 2024-02-09 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 | 2024-02-26 |  |
 | [Nunca Estoy](https://open.spotify.com/track/6N4ioa3XSbvjmwdVEERl8F) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:42 | 2024-02-14 | 2024-05-11 |

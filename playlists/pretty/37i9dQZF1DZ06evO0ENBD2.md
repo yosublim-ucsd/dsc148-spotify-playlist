@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,874,882 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,875,273 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 50 | [Face It Alone](https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT) | 4:07 |
 | 51 | [Heaven For Everyone \- Remastered 2011](https://open.spotify.com/track/3Klfd4rsRO53fYpxmdQmYV) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(2011 Remaster\)](https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0) | 5:36 |
 
-Snapshot ID: `Zql+gAAAAADbfCu/fGMILehCuE0qD7mh`
+Snapshot ID: `ZqrQAAAAAADME2jRxm213Td4TSSaga6j`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,242 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,317 likes - 52 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 51 | [LIKE ME \(feat\. 42 Dugg & Lil Baby\)](https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:12 |
 | 52 | [Real Spill](https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:18 |
 
-Snapshot ID: `Zql+gAAAAADLCkh9ApGeT5Ct4iXjSq/7`
+Snapshot ID: `ZqrQAAAAAABwbkENsHG9Etpz0ZlLDFg4`

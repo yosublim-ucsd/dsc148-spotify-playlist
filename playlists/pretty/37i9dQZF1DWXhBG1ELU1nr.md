@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 
 > Uma seleção de hits pra te acompanhar no home office.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,752 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,758 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 54 | [Anybody Seen My Baby? \- Remastered 2009](https://open.spotify.com/track/4tXr9v3K7nWW1aebWqR1B7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 4:31 |
 | 55 | [Hoje A Noite Não Tem Luar \(Hoy Me Voy Para México\) \- Ao Vivo Em São Paulo / 1999](https://open.spotify.com/track/0dHTMMFAzlk164gZ7YB1rG) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Acústico \(Ao Vivo Em São Paulo / 1999\)](https://open.spotify.com/album/1vx6Vefn21ZLVTdlymgqSg) | 4:32 |
 | 56 | [Fall to Pieces](https://open.spotify.com/track/2amzrvbxYiq8AxGntIiw5V) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 4:31 |
-| 57 | [O Passageiro \(The Passenger\) \- Ao Vivo](https://open.spotify.com/track/3jCV9CuT2Hzazecm49uqnZ) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Acústico Capital Inicial](https://open.spotify.com/album/2mt6segSup7hVNxC12Pji0) | 4:39 |
-| 58 | [Pet Sematary](https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:29 |
+| 57 | [Pet Sematary](https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:29 |
+| 58 | [O Passageiro \(The Passenger\) \- Ao Vivo](https://open.spotify.com/track/3jCV9CuT2Hzazecm49uqnZ) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Acústico Capital Inicial](https://open.spotify.com/album/2mt6segSup7hVNxC12Pji0) | 4:39 |
 | 59 | [Wicked Game \- Remastered](https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 4:46 |
 | 60 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 |
 | 61 | [Nothing Compares 2 U \- Live At SiriusXM/2015](https://open.spotify.com/track/0tUELgOuOJ3KCsYMDDsNvD) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Chris Cornell \(Deluxe Edition\)](https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe) | 5:03 |
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 72 | [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 |
 | 73 | [Casa](https://open.spotify.com/track/1BtC7C60DWciq1BffrMi2P) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 4:51 |
 | 74 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
-| 75 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
+| 75 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
 | 76 | [You Learn \- Acoustic](https://open.spotify.com/track/6auEoWun0WEXGMseCkBuGU) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(Acoustic\)](https://open.spotify.com/album/0qsuMHaweGJqyC3zIAjo9N) | 4:10 |
-| 77 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
+| 77 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
 | 78 | [Ode To My Family](https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L) | 4:31 |
 | 79 | [Cryin'](https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:08 |
 | 80 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:49 |
-| 81 | [Don't Speak](https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 4:23 |
-| 82 | [Patience](https://open.spotify.com/track/7D5n2kpYH2WSqIyEO9MeXf) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 5:54 |
+| 81 | [Patience](https://open.spotify.com/track/7D5n2kpYH2WSqIyEO9MeXf) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 5:54 |
+| 82 | [Don't Speak](https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 4:23 |
 | 83 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered\)](https://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK) | 4:13 |
 | 84 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
 | 85 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 |

@@ -1,6 +1,6 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1280721,
+  "num_followers": 1280706,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-07-03 14:21:21",
       "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2024-07-03 14:21:21",
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2024-07-03 14:21:21",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2024-07-03 14:21:21",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-07-03 14:21:21",
       "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "added_at": "2024-07-03 14:21:21",
+      "album": {
         "name": "M\u00e4dchen auf dem Pferd",
         "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 157058,
       "name": "M\u00e4dchen auf dem Pferd",
       "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
-    },
-    {
-      "added_at": "2024-07-03 14:21:21",
-      "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "MONEY ON THE DASH",
-      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
     },
     {
       "added_at": "2024-07-03 14:21:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 
 > A lazy Sunday vibe, whatever day of the week it is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,056 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,110 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 36 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 | 37 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 38 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 |
-| 39 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
-| 40 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
+| 39 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
+| 40 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 41 | [Mess](https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:33 |
 | 42 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 |
 | 43 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 77 | [Saturday in the Park](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:55 |
 | 78 | [Even After All](https://open.spotify.com/track/096O9QxDBQ1xPIyLskGwbq) | [Finley Quaye](https://open.spotify.com/artist/1pf3joSSGlPRxmUoWSsh1W) | [Maverick A Strike](https://open.spotify.com/album/7wvOewuyOTcqyE5Xog0dp8) | 3:54 |
 | 79 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 |
-| 80 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
-| 81 | [Heaven Knows](https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Heaven Knows](https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg) | 3:01 |
+| 80 | [Heaven Knows](https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Heaven Knows](https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg) | 3:01 |
+| 81 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
 | 82 | [Jealous Guy \- Live](https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Live](https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5) | 3:09 |
 | 83 | [More Than a Love Song](https://open.spotify.com/track/38D3zXvwHjwtGMUSO4mOmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 4:47 |
 | 84 | [Long Yellow Dress](https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Long Yellow Dress](https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H) | 3:09 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 87 | [Late To The Party](https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa) | 3:37 |
 | 88 | [Inside And Out](https://open.spotify.com/track/6rouj6pwJgrh6whnljzXPd) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 4:17 |
 | 89 | [Summer Wind](https://open.spotify.com/track/5ZXHIeyneAhJHjR1JQ2cYs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:54 |
-| 90 | [Oh My My! \(In Love Again\)](https://open.spotify.com/track/6jCu0UWhzcwSA2HBjNRSb9) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Stand By You](https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT) | 2:44 |
-| 91 | [Friends \- Extended Version](https://open.spotify.com/track/69Z2l0fNje3fG2S8XOarJm) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Amii Stewart : Great Classics Revisited](https://open.spotify.com/album/2qlmKLKOE2fNV5kSfqiZtK) | 4:48 |
+| 90 | [Friends \- Extended Version](https://open.spotify.com/track/69Z2l0fNje3fG2S8XOarJm) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Amii Stewart : Great Classics Revisited](https://open.spotify.com/album/2qlmKLKOE2fNV5kSfqiZtK) | 4:48 |
+| 91 | [Oh My My! \(In Love Again\)](https://open.spotify.com/track/6jCu0UWhzcwSA2HBjNRSb9) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Stand By You](https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT) | 2:44 |
 | 92 | [Betcha By Golly, Wow](https://open.spotify.com/track/187gUYsK3pDe3yoYNqGjBO) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 3:48 |
 | 93 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
 | 94 | [I'd Like To](https://open.spotify.com/track/28MnrToCUJIrVRGNr0jcxk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:08 |

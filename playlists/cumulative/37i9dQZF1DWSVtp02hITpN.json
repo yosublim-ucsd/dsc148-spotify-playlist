@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The biggest pop tracks right now. Cover: Halsey",
+  "description": "The biggest pop tracks right now. Cover: Mimi Webb",
   "name": "The Pop List",
   "tracks": [
     {
@@ -330,10 +330,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 230795,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
+    },
+    {
+      "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
     },
     {
       "album": {
@@ -366,7 +384,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 153160,
       "name": "Coming Back For More",
       "url": "https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 177453,
       "name": "dead to me",
       "url": "https://open.spotify.com/track/1IdsmtCr9Uf0mDDaI9vONX"
@@ -499,6 +517,60 @@
     },
     {
       "album": {
+        "name": "domino szn",
+        "url": "https://open.spotify.com/album/5ZahMu7KEBe4Gzf2bR61Ew"
+      },
+      "artists": [
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224590,
+      "name": "domino szn",
+      "url": "https://open.spotify.com/track/5jpVbqCqZadexyOSoJnwSS"
+    },
+    {
+      "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149683,
+      "name": "Erase You",
+      "url": "https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5"
+    },
+    {
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -550,7 +622,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 156000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
@@ -789,6 +861,28 @@
     },
     {
       "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
         "name": "Guy For That",
         "url": "https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ"
       },
@@ -891,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
       },
@@ -985,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Love Worth Believing",
+        "url": "https://open.spotify.com/album/20ytKvRFBexNfIPs5s4qkM"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189177,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/1i18b7rRxYr3XBI32LMgao"
+    },
+    {
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS"
       },
@@ -1040,7 +1170,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 143211,
       "name": "I Wanna Thank Me (feat. Niecy Nash)",
       "url": "https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr"
@@ -1150,10 +1280,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 160932,
       "name": "Just a Dance",
       "url": "https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J"
+    },
+    {
+      "album": {
+        "name": "KEHLANI (REMIX) [feat. Kehlani]",
+        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     },
     {
       "album": {
@@ -1552,7 +1704,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 151177,
       "name": "Party In My Head",
       "url": "https://open.spotify.com/track/6s2jzhB86kZwMgDSRTkslw"
@@ -1570,7 +1722,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 173503,
       "name": "Perfect Revenge",
       "url": "https://open.spotify.com/track/7eh46uUIwMCTs0XoU3Xm42"
@@ -1614,6 +1766,24 @@
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
+    },
+    {
+      "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "push me over",
+      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
     },
     {
       "album": {
@@ -1694,6 +1864,28 @@
       "duration_ms": 209640,
       "name": "Seasons & Narcissus",
       "url": "https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv"
+    },
+    {
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/69eqA59bgh09wQ2MT1AlnL"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253770,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/3OGlklVPmFmu6Tm0fQ1JpB"
     },
     {
       "album": {
@@ -1816,7 +2008,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 111229,
       "name": "sweeeet",
       "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
@@ -1852,7 +2044,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161757,
       "name": "Talk talk",
       "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
@@ -1993,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
+    },
+    {
+      "album": {
         "name": "To The Moon",
         "url": "https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r"
       },
@@ -2066,7 +2276,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 231684,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9"
@@ -2150,7 +2360,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 152290,
       "name": "Vitamins",
       "url": "https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil"
@@ -2168,7 +2378,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 190474,
       "name": "What Do You Believe In?",
       "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
@@ -2208,6 +2418,24 @@
       "duration_ms": 168600,
       "name": "WHO AM I",
       "url": "https://open.spotify.com/track/45QAHW16P5rMhuMnITapGu"
+    },
+    {
+      "album": {
+        "name": "You Don't Know How to Drive",
+        "url": "https://open.spotify.com/album/5Ul7nxr0KsPt4vde0Ue5zY"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "You Don't Know How to Drive",
+      "url": "https://open.spotify.com/track/10eGximnbByN1OCjAS4IoZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSVtp02hITpN"

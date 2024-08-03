@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LEMONY",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: lnwza0072535",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 232071,
       "name": "0",
       "url": "https://open.spotify.com/track/0r2bwvtnNhPqfvowmoNLEX"
+    },
+    {
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/0o0qppFXlAQbE7PhAT5syJ"
+      },
+      "artists": [
+        {
+          "name": "lnwza0072535",
+          "url": "https://open.spotify.com/artist/0Ksnd5mm5rWFvWbptJFCFx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240644,
+      "name": "1",
+      "url": "https://open.spotify.com/track/7C0iw6P8SwYz8FJrN7SGaj"
     },
     {
       "album": {
@@ -100,7 +118,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 258750,
       "name": "Jinna",
       "url": "https://open.spotify.com/track/4sTpyVCItKsKf9yduwZMIF"
@@ -262,7 +280,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 278068,
       "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
       "url": "https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj"
@@ -752,7 +770,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196117,
       "name": "\u0e21\u0e2d\u0e1a\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (one date)",
       "url": "https://open.spotify.com/track/1J4aLl39aBpfsR8M7p0VFx"
@@ -868,6 +886,24 @@
       "duration_ms": 312000,
       "name": "\u0e25\u0e21\u0e2b\u0e19\u0e32\u0e27 (Winter wind)",
       "url": "https://open.spotify.com/track/3vETn8UpNq9P3JSjqYYjvF"
+    },
+    {
+      "album": {
+        "name": "\u0e27\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e25\u0e48\u0e32 (Me On The Road)",
+        "url": "https://open.spotify.com/album/0a5GBgOBrke7E4NNVlxbqb"
+      },
+      "artists": [
+        {
+          "name": "Banana Jogging",
+          "url": "https://open.spotify.com/artist/2Y1efsJI1aQw1subyVEW8W"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u0e27\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e25\u0e48\u0e32 (Me On The Road)",
+      "url": "https://open.spotify.com/track/54Up0c46YsjdsS0xYfdIjZ"
     },
     {
       "album": {
@@ -990,7 +1026,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 279036,
       "name": "\u0e2d\u0e31\u0e25\u0e44\u0e0b\u0e40\u0e21\u0e2d\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/4t0sPKSccteTN07TJ6X8X9"
@@ -1044,10 +1080,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 345661,
       "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (about you)",
       "url": "https://open.spotify.com/track/1XTnPEPekA4VvA0uMtpgC8"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c \u0e01\u0e31\u0e1a\u0e04\u0e33\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e22 80",
+        "url": "https://open.spotify.com/album/3XJDmq6lMLE9FbvTdqiw4T"
+      },
+      "artists": [
+        {
+          "name": "Romancerr",
+          "url": "https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X"
+        },
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219713,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c \u0e01\u0e31\u0e1a\u0e04\u0e33\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e22 80",
+      "url": "https://open.spotify.com/track/6paXQeuhshazXjplp6OTXX"
     },
     {
       "album": {
@@ -1271,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "\u0e43\u0e19\u0e1d\u0e31\u0e19 (Krueger)",
+        "url": "https://open.spotify.com/album/65S7j4KnZY8nQSDqUIhJo6"
+      },
+      "artists": [
+        {
+          "name": "Syrup",
+          "url": "https://open.spotify.com/artist/5l6R9L8qJTRP2kFfxtmjGm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242922,
+      "name": "\u0e43\u0e19\u0e1d\u0e31\u0e19 (Krueger)",
+      "url": "https://open.spotify.com/track/5Kt6NUklWl2rzexBr07KBC"
+    },
+    {
+      "album": {
         "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e43\u0e04\u0e23 (Lost it all)",
         "url": "https://open.spotify.com/album/5LpBEKIcnhqpslAWcZAmS8"
       },
@@ -1304,6 +1380,24 @@
       "duration_ms": 190188,
       "name": "\u0e43\u0e19\u0e40\u0e27\u0e25\u0e32\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/3KjSED3yuZ7MKpXJPYK0W2"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e1b\u0e25\u0e2d\u0e1a\u0e40\u0e18\u0e2d (Kindness)",
+        "url": "https://open.spotify.com/album/5SRoUoABPIt0wyGPjsjF2M"
+      },
+      "artists": [
+        {
+          "name": "Kindness Message",
+          "url": "https://open.spotify.com/artist/3GP8iyMzfDrIkxAB3iZtz3"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316506,
+      "name": "\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e1b\u0e25\u0e2d\u0e1a\u0e40\u0e18\u0e2d (Kindness)",
+      "url": "https://open.spotify.com/track/3eenD2b7MtpKqOJjmyy10X"
     },
     {
       "album": {

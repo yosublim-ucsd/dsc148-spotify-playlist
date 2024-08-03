@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,748 likes - 80 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,824 likes - 80 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 26 | [One Room Country Shack](https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 5:38 |
 | 27 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
 | 28 | [Without You](https://open.spotify.com/track/78WaOAO3xm45gOXqMhI09d) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Original Fleetwood Mac](https://open.spotify.com/album/6tbQdb3SyIPzwOZDvsETk5) | 4:30 |
-| 29 | [Along About Midnight](https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O) | 4:05 |
-| 30 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
+| 29 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
+| 30 | [Along About Midnight](https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O) | 4:05 |
 | 31 | [Me And The Blues](https://open.spotify.com/track/0xxbcXo99r5cJItylWkKNh) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:09 |
 | 32 | [Wednesday Evenin' Blues](https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 3:34 |
 | 33 | [Blue Midnight](https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:24 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 52 | [Sweet Slumber](https://open.spotify.com/track/0jEaukzFANr3SRJC53KkBb) | [Jimmy Witherspoon](https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb), [Jack McDuff](https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs) | [The Blues Is Now](https://open.spotify.com/album/7eIAMxI6NVQuDVwoFGrA3o) | 3:49 |
 | 53 | [Weak Days](https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 7:00 |
 | 54 | [Wish Her Well](https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB) | [Emma Wilson](https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2) | [Wish Her Well](https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c) | 4:23 |
-| 55 | [Midnight Hour Blues](https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [Big City Blues](https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl) | 4:04 |
-| 56 | [Last Night](https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw) | [Jantso Jokelin](https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA) | [Silver Lining](https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC) | 3:39 |
+| 55 | [Last Night](https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw) | [Jantso Jokelin](https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA) | [Silver Lining](https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC) | 3:39 |
+| 56 | [Midnight Hour Blues](https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [Big City Blues](https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl) | 4:04 |
 | 57 | [Double Lovin´](https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo) | [Aynsley Dunbar Retaliation](https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX) | [Aynsley Dunbar Retaliation](https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB) | 3:49 |
 | 58 | [Everytime I Get to Drinkin' \- Remastered](https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:45 |
 | 59 | [Blue Because Of You](https://open.spotify.com/track/0dvTYGTfv30BCYbLCORKcb) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY) | [I Feel Like Steppin' Out](https://open.spotify.com/album/577wQlMr4FANgCxSxGuC24) | 2:31 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 72 | [The Moon Is Rising](https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:13 |
 | 73 | [Kind Hearted Woman Blues](https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV) | 4:06 |
 | 74 | [Hoodoo Man](https://open.spotify.com/track/2BjtzMioX7p1F7yiIMQn1B) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [Packing My Bags](https://open.spotify.com/album/1y27gJjOVIB19RrTBUw7Km) | 4:54 |
-| 75 | [Personal Manager](https://open.spotify.com/track/3rdggOvseyMgqFFbWLLp8W) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa) | 4:30 |
-| 76 | [Since I Fell For You](https://open.spotify.com/track/1OuJhCr6p1n5XYbaUNScvl) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Sings The Blues](https://open.spotify.com/album/14VAZhx1Qgx05WedZMVCG2) | 2:50 |
+| 75 | [Since I Fell For You](https://open.spotify.com/track/1OuJhCr6p1n5XYbaUNScvl) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Sings The Blues](https://open.spotify.com/album/14VAZhx1Qgx05WedZMVCG2) | 2:50 |
+| 76 | [Personal Manager](https://open.spotify.com/track/3rdggOvseyMgqFFbWLLp8W) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa) | 4:30 |
 | 77 | [Gotta Leave](https://open.spotify.com/track/0YO5SB9ZBMEsIpVzXZNrE0) | [Back Door Slam](https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34) | [Roll Away](https://open.spotify.com/album/71UC2xt4eqLqntVo9LsP1v) | 5:49 |
 | 78 | [Baby I Love You](https://open.spotify.com/track/5etgVyV2lvxJMf7Sd8BBrS) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Deuces Wild](https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT) | 4:01 |
 | 79 | [Sweet Little Angel](https://open.spotify.com/track/0vUyPyd5cuIZIxTrvrtbR1) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/1JQtDephsJMr9tWdtYgv2y) | 5:30 |

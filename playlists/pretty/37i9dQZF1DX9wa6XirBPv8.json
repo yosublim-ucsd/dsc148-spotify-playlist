@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1722989,
+  "num_followers": 1723298,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-07-24 15:14:51",
       "album": {
+        "name": "Everything In Transit",
+        "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
+      },
+      "artists": [
+        {
+          "name": "Jack's Mannequin",
+          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "The Mixed Tape - 2015 Remastered",
+      "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
+    },
+    {
+      "added_at": "2024-07-24 15:14:51",
+      "album": {
         "name": "Dear Diary, My Teen Angst Has A Body Count",
         "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-07-24 15:14:51",
       "album": {
-        "name": "Everything In Transit",
-        "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
-      },
-      "artists": [
-        {
-          "name": "Jack's Mannequin",
-          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "The Mixed Tape - 2015 Remastered",
-      "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
-    },
-    {
-      "added_at": "2024-07-24 15:14:51",
-      "album": {
         "name": "Full Collapse",
         "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 264546,
       "name": "Understanding In A Car Crash",
       "url": "https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7"
-    },
-    {
-      "added_at": "2024-07-24 15:14:51",
-      "album": {
-        "name": "The Lonesome Crowded West",
-        "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Polar Opposites",
-      "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
     },
     {
       "added_at": "2024-07-24 15:14:51",
@@ -1311,22 +1295,6 @@
     {
       "added_at": "2024-07-24 15:14:51",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
-    },
-    {
-      "added_at": "2024-07-24 15:14:51",
-      "album": {
         "name": "Commit This To Memory",
         "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
       },
@@ -1339,6 +1307,22 @@
       "duration_ms": 186893,
       "name": "L.G. FUAD",
       "url": "https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC"
+    },
+    {
+      "added_at": "2024-07-24 15:14:51",
+      "album": {
+        "name": "The Lonesome Crowded West",
+        "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Polar Opposites",
+      "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
     },
     {
       "added_at": "2024-07-24 15:14:51",
@@ -1407,6 +1391,38 @@
     {
       "added_at": "2024-07-24 15:14:51",
       "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
+    },
+    {
+      "added_at": "2024-07-24 15:14:51",
+      "album": {
+        "name": "I Am The Movie",
+        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "My Favorite Accident",
+      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
+    },
+    {
+      "added_at": "2024-07-24 15:14:51",
+      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 199959,
       "name": "I Just Wanna Run",
       "url": "https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R"
-    },
-    {
-      "added_at": "2024-07-24 15:14:51",
-      "album": {
-        "name": "I Am The Movie",
-        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "My Favorite Accident",
-      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
     },
     {
       "added_at": "2024-07-24 15:14:51",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-24 15:14:51",
       "album": {
-        "name": "What It Is To Burn",
-        "url": "https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "What It Is To Burn - New Version",
-      "url": "https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ"
-    },
-    {
-      "added_at": "2024-07-24 15:14:51",
-      "album": {
         "name": "Casually Dressed And Deep In Conversation",
         "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 216853,
       "name": "Juneau",
       "url": "https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9"
+    },
+    {
+      "added_at": "2024-07-24 15:14:51",
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "What It Is To Burn - New Version",
+      "url": "https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ"
     },
     {
       "added_at": "2024-07-24 15:14:51",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-07-24 15:14:51",
       "album": {
-        "name": "Brother, Sister",
-        "url": "https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg"
-      },
-      "artists": [
-        {
-          "name": "mewithoutYou",
-          "url": "https://open.spotify.com/artist/3D4qYDvoPn5cQxtBm4oseo"
-        }
-      ],
-      "duration_ms": 326066,
-      "name": "In A Sweater Poorly Knit",
-      "url": "https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH"
-    },
-    {
-      "added_at": "2024-07-24 15:14:51",
-      "album": {
         "name": "Emotion Is Dead",
         "url": "https://open.spotify.com/album/6BfOCDtxUy6ixkS68vZSll"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 197400,
       "name": "We're At The Top Of The World",
       "url": "https://open.spotify.com/track/4BejqreqjhlN3FcR2irbKg"
+    },
+    {
+      "added_at": "2024-07-24 15:14:51",
+      "album": {
+        "name": "Brother, Sister",
+        "url": "https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg"
+      },
+      "artists": [
+        {
+          "name": "mewithoutYou",
+          "url": "https://open.spotify.com/artist/3D4qYDvoPn5cQxtBm4oseo"
+        }
+      ],
+      "duration_ms": 326066,
+      "name": "In A Sweater Poorly Knit",
+      "url": "https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH"
     },
     {
       "added_at": "2024-07-24 15:14:51",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-24 15:14:51",
       "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 281040,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z"
-    },
-    {
-      "added_at": "2024-07-24 15:14:51",
-      "album": {
         "name": "The Ugly Organ",
         "url": "https://open.spotify.com/album/3ZoVW62G8g8GC0yzpXOcKz"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 213413,
       "name": "Goodbye My Love",
       "url": "https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM"
+    },
+    {
+      "added_at": "2024-07-24 15:14:51",
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 281040,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z"
     },
     {
       "added_at": "2024-07-24 15:14:51",

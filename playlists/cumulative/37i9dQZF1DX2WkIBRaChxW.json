@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Aqyila.",
+  "description": "What's happening in r&b, right now \u2013 featuring Muni Long.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 230795,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
@@ -2488,6 +2488,24 @@
       "duration_ms": 225246,
       "name": "Cheatback",
       "url": "https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN"
+    },
+    {
+      "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
     },
     {
       "album": {
@@ -7389,6 +7407,28 @@
     },
     {
       "album": {
+        "name": "Keen",
+        "url": "https://open.spotify.com/album/7Ej5UEFKXWLmQ6g5lYkpWL"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237066,
+      "name": "Keen",
+      "url": "https://open.spotify.com/track/5FjgNCKyg3yYHHTMNQiMgl"
+    },
+    {
+      "album": {
         "name": "Keep Calling",
         "url": "https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs"
       },
@@ -7964,7 +8004,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 140965,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN"
@@ -8391,6 +8431,28 @@
     },
     {
       "album": {
+        "name": "The Mind",
+        "url": "https://open.spotify.com/album/5V0Nqn3w1C11avw7i8UhQ8"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        },
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226574,
+      "name": "Little Things (feat. Yaya Bey)",
+      "url": "https://open.spotify.com/track/7eUxbqEPlbf9rccIDDOy5D"
+    },
+    {
+      "album": {
         "name": "Lock Up",
         "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
@@ -8646,6 +8708,24 @@
       "duration_ms": 183893,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+    },
+    {
+      "album": {
+        "name": "LOVE MAKE",
+        "url": "https://open.spotify.com/album/7ksQrL66SNuch6lmxIlVzJ"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214228,
+      "name": "LOVE MAKE",
+      "url": "https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd"
     },
     {
       "album": {
@@ -12508,7 +12588,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
@@ -12636,6 +12716,24 @@
       "duration_ms": 174400,
       "name": "SELF CARE",
       "url": "https://open.spotify.com/track/6xJ8pLfdfnJBpQR6i8J4jq"
+    },
+    {
+      "album": {
+        "name": "Selfie",
+        "url": "https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Selfie",
+      "url": "https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH"
     },
     {
       "album": {
@@ -13584,7 +13682,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 185142,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp"
@@ -14326,7 +14424,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 231691,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q"

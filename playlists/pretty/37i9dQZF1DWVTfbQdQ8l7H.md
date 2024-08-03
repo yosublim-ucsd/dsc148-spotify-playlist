@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 
 > Unforgettable love songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,806 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,982 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 22 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 |
 | 23 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 |
 | 24 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
-| 25 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
-| 26 | [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 |
+| 25 | [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 |
+| 26 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
 | 27 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 |
 | 28 | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS) | 3:49 |
 | 29 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 62 | [Shout Out to My Ex](https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:06 |
 | 63 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
 | 64 | [Somebody Else](https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 5:47 |
-| 65 | [She Looks So Perfect](https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV) | 3:22 |
-| 66 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/563SfWAHJs4FBZMkRN0IFN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 3:43 |
+| 65 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/563SfWAHJs4FBZMkRN0IFN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 3:43 |
+| 66 | [She Looks So Perfect](https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV) | 3:22 |
 | 67 | [jar of hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 |
 | 68 | [Lay Me Down](https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 4:13 |
-| 69 | [Say Something](https://open.spotify.com/track/5TvE3pk05pyFIGdSY9j4DJ) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There? \- Track by Track Commentary](https://open.spotify.com/album/3kwbwO3wtwyNo7zCFzWkcW) | 3:49 |
-| 70 | [Love Someone](https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [3 \(The Purple Album\)](https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj) | 3:25 |
+| 69 | [Love Someone](https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [3 \(The Purple Album\)](https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj) | 3:25 |
+| 70 | [Say Something](https://open.spotify.com/track/5TvE3pk05pyFIGdSY9j4DJ) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There? \- Track by Track Commentary](https://open.spotify.com/album/3kwbwO3wtwyNo7zCFzWkcW) | 3:49 |
 | 71 | [Girls Like You](https://open.spotify.com/track/7npLlaPu9Mfno8hjk5OagD) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:35 |
 | 72 | [YOUTH](https://open.spotify.com/track/0nhBKubnVz9yFNNprBniWz) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/2mRBvhDWqm8Fj2U0F6mMY4) | 3:05 |
 | 73 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 |

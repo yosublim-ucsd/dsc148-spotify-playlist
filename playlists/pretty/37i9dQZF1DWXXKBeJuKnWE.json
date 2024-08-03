@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Trash Boat",
-  "num_followers": 510413,
+  "num_followers": 510380,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-07-19 10:40:31",
       "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 281052,
+      "name": "Too Close / Too Late",
+      "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
+    },
+    {
+      "added_at": "2024-07-19 10:40:31",
+      "album": {
         "name": "Novocaine",
         "url": "https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 295775,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz"
-    },
-    {
-      "added_at": "2024-07-19 10:40:31",
-      "album": {
-        "name": "The Fear of Fear",
-        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 281052,
-      "name": "Too Close / Too Late",
-      "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
     },
     {
       "added_at": "2024-07-19 10:40:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-19 10:40:31",
       "album": {
-        "name": "SELF HELL",
-        "url": "https://open.spotify.com/album/3vUzV2wdNrDubtH2gG7rb5"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        }
-      ],
-      "duration_ms": 262537,
-      "name": "RAINBOWS",
-      "url": "https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT"
-    },
-    {
-      "added_at": "2024-07-19 10:40:31",
-      "album": {
         "name": "Bone Church",
         "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 327240,
       "name": "Bone Church",
       "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
+    },
+    {
+      "added_at": "2024-07-19 10:40:31",
+      "album": {
+        "name": "SELF HELL",
+        "url": "https://open.spotify.com/album/3vUzV2wdNrDubtH2gG7rb5"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 262537,
+      "name": "RAINBOWS",
+      "url": "https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT"
     },
     {
       "added_at": "2024-07-19 10:40:31",
@@ -1021,7 +1021,7 @@
         }
       ],
       "duration_ms": 172353,
-      "name": "$wing",
+      "name": "$WING",
       "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
     },
     {
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-19 10:40:31",
       "album": {
-        "name": "Under The Skin",
-        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Under The Skin",
-      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
-    },
-    {
-      "added_at": "2024-07-19 10:40:31",
-      "album": {
         "name": "Back With Another One",
         "url": "https://open.spotify.com/album/3eHN1YdgT8aGewySxzHdeK"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 226874,
       "name": "Social Blackout",
       "url": "https://open.spotify.com/track/2S5ev6ECcvAnBdZkgQWjyg"
+    },
+    {
+      "added_at": "2024-07-19 10:40:31",
+      "album": {
+        "name": "Under The Skin",
+        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Under The Skin",
+      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
     },
     {
       "added_at": "2024-07-19 10:40:31",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-07-19 10:40:31",
       "album": {
-        "name": "The Return Of Tomorrow",
-        "url": "https://open.spotify.com/album/3iQnDyZOXW8xaMxWEXvomX"
+        "name": "Break You",
+        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
       },
       "artists": [
         {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Roads Of The Lowly",
-      "url": "https://open.spotify.com/track/4VyrZgmNUfnNIZh16wuhGG"
+      "duration_ms": 139593,
+      "name": "Break You",
+      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
     },
     {
       "added_at": "2024-07-19 10:40:31",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-07-19 10:40:31",
       "album": {
-        "name": "Break You",
-        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
+        "name": "The Return Of Tomorrow",
+        "url": "https://open.spotify.com/album/3iQnDyZOXW8xaMxWEXvomX"
       },
       "artists": [
         {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
         }
       ],
-      "duration_ms": 139593,
-      "name": "Break You",
-      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
+      "duration_ms": 222720,
+      "name": "Roads Of The Lowly",
+      "url": "https://open.spotify.com/track/4VyrZgmNUfnNIZh16wuhGG"
     },
     {
       "added_at": "2024-07-19 10:40:31",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-19 10:40:31",
       "album": {
-        "name": "Over The Threshold",
-        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Over The Threshold",
-      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
-    },
-    {
-      "added_at": "2024-07-19 10:40:31",
-      "album": {
         "name": "unpeople",
         "url": "https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 205590,
       "name": "going numb",
       "url": "https://open.spotify.com/track/4PBJo0f4fyAHektLZXxhOL"
+    },
+    {
+      "added_at": "2024-07-19 10:40:31",
+      "album": {
+        "name": "Over The Threshold",
+        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Over The Threshold",
+      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
     },
     {
       "added_at": "2024-07-19 10:40:31",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-07-19 10:40:31",
       "album": {
+        "name": "smother",
+        "url": "https://open.spotify.com/album/05NqH0AXhKrCSes5CQJdYk"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "smother",
+      "url": "https://open.spotify.com/track/2HcGm8GCzfYJGmCZuxweT2"
+    },
+    {
+      "added_at": "2024-07-19 10:40:31",
+      "album": {
         "name": "Poison Pill",
         "url": "https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca"
       },
@@ -1715,38 +1731,6 @@
     {
       "added_at": "2024-07-19 10:40:31",
       "album": {
-        "name": "Go Tobann",
-        "url": "https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN"
-      },
-      "artists": [
-        {
-          "name": "AILSHA",
-          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
-        }
-      ],
-      "duration_ms": 144430,
-      "name": "Go Tobann",
-      "url": "https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV"
-    },
-    {
-      "added_at": "2024-07-19 10:40:31",
-      "album": {
-        "name": "smother",
-        "url": "https://open.spotify.com/album/05NqH0AXhKrCSes5CQJdYk"
-      },
-      "artists": [
-        {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
-        }
-      ],
-      "duration_ms": 201265,
-      "name": "smother",
-      "url": "https://open.spotify.com/track/2HcGm8GCzfYJGmCZuxweT2"
-    },
-    {
-      "added_at": "2024-07-19 10:40:31",
-      "album": {
         "name": "BLOODSUCKERS",
         "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 202693,
       "name": "Bloodsuckers",
       "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
+    },
+    {
+      "added_at": "2024-07-19 10:40:31",
+      "album": {
+        "name": "Go Tobann",
+        "url": "https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN"
+      },
+      "artists": [
+        {
+          "name": "AILSHA",
+          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
+        }
+      ],
+      "duration_ms": 144430,
+      "name": "Go Tobann",
+      "url": "https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV"
     },
     {
       "added_at": "2024-07-19 10:40:31",
@@ -1807,22 +1807,6 @@
       "duration_ms": 196045,
       "name": "UNLOVED",
       "url": "https://open.spotify.com/track/16Kev1zgczcoaHfHpVVrFR"
-    },
-    {
-      "added_at": "2024-07-19 10:40:31",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/6qnp9qiW7lBpM2mTUGtIOr"
-      },
-      "artists": [
-        {
-          "name": "AILSHA",
-          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
-        }
-      ],
-      "duration_ms": 212821,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/38NEzzR2y74D41NvB09VBn"
     },
     {
       "added_at": "2024-07-19 10:40:31",
@@ -1927,6 +1911,22 @@
     {
       "added_at": "2024-07-19 10:40:31",
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/6qnp9qiW7lBpM2mTUGtIOr"
+      },
+      "artists": [
+        {
+          "name": "AILSHA",
+          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
+        }
+      ],
+      "duration_ms": 212821,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/38NEzzR2y74D41NvB09VBn"
+    },
+    {
+      "added_at": "2024-07-19 10:40:31",
+      "album": {
         "name": "Limousine",
         "url": "https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh"
       },
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-07-19 10:40:31",
       "album": {
-        "name": "DON'T HOLD ME DOWN",
-        "url": "https://open.spotify.com/album/4TYkhMh8yHxNxCOK3j68z8"
-      },
-      "artists": [
-        {
-          "name": "Florence Black",
-          "url": "https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "DON'T HOLD ME DOWN",
-      "url": "https://open.spotify.com/track/2NvjbR2qhfILBblL36Fchm"
-    },
-    {
-      "added_at": "2024-07-19 10:40:31",
-      "album": {
         "name": "How To Disappear",
         "url": "https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 236181,
       "name": "For Katie",
       "url": "https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb"
+    },
+    {
+      "added_at": "2024-07-19 10:40:31",
+      "album": {
+        "name": "DON'T HOLD ME DOWN",
+        "url": "https://open.spotify.com/album/4TYkhMh8yHxNxCOK3j68z8"
+      },
+      "artists": [
+        {
+          "name": "Florence Black",
+          "url": "https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "DON'T HOLD ME DOWN",
+      "url": "https://open.spotify.com/track/2NvjbR2qhfILBblL36Fchm"
     },
     {
       "added_at": "2024-07-19 10:40:31",

@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Mark Ronson & Sabrina Carpenter",
-  "num_followers": 4098066,
+  "num_followers": 4097879,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAABNzgznc1rBzIAcUAnKTir5",
+  "snapshot_id": "ZqxZwAAAAAAlVZl9wJpwYe1nW5/d/raR",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -33,24 +33,24 @@
       "url": "https://open.spotify.com/track/03duS4fiU5jSVOZFR7TTQa"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Black Friday (pretty like the sun)",
-        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+        "name": "Angel Of My Dreams (The Blessed Madonna Remix)",
+        "url": "https://open.spotify.com/album/1n8kIJGPh8kYDo7uq61nlm"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
         },
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
         }
       ],
-      "duration_ms": 145599,
-      "name": "Black Friday (pretty like the sun)",
-      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+      "duration_ms": 233517,
+      "name": "Angel Of My Dreams - The Blessed Madonna Remix",
+      "url": "https://open.spotify.com/track/4RHuNJ15rehEsv1vyaBvpf"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -73,24 +73,64 @@
       "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Austin (Boots Stop Workin') [Distant Matter Remix]",
-        "url": "https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc"
+        "name": "Illusion (Honey Dijon Remix)",
+        "url": "https://open.spotify.com/album/6wVYRf3FlcuZH36q8hnnxZ"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Distant Matter",
-          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         }
       ],
-      "duration_ms": 176670,
-      "name": "Austin (Boots Stop Workin') - Distant Matter Remix",
-      "url": "https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho"
+      "duration_ms": 304235,
+      "name": "Illusion - Honey Dijon Remix",
+      "url": "https://open.spotify.com/track/2c4oHJ9FtXiAkRHgxsSGAy"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "feelslikeimfallinginlove (Zerb x Coldplay)",
+        "url": "https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        }
+      ],
+      "duration_ms": 236612,
+      "name": "feelslikeimfallinginlove - Zerb x Coldplay",
+      "url": "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 145599,
+      "name": "Black Friday (pretty like the sun)",
+      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -115,26 +155,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Match My Freak EP",
-        "url": "https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 182643,
-      "name": "Nasty (Match My Chic Remix)",
-      "url": "https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Murder On The Dancefloor (PNAU Remix)",
-        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "Murder On The Dancefloor - PNAU Remix",
-      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -187,34 +187,6 @@
       "duration_ms": 136580,
       "name": "These Words",
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Sofi Tukker Remix]",
-        "url": "https://open.spotify.com/album/5cCmg8456rs4GJehZTqkCa"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/5js0S06HeHofz7ZtlXV7In"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -275,6 +247,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Memories (feat. Kid Cudi) [2021 Remix]",
+        "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 162992,
+      "name": "Memories (feat. Kid Cudi) - 2021 Remix",
+      "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
         "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
       },
@@ -315,26 +307,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Memories (feat. Kid Cudi) [2021 Remix]",
-        "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 162992,
-      "name": "Memories (feat. Kid Cudi) - 2021 Remix",
-      "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
       },
@@ -371,6 +343,30 @@
       "duration_ms": 162352,
       "name": "Unstoppable - R3HAB Remix",
       "url": "https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 151929,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -439,6 +435,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Murder On The Dancefloor (PNAU Remix)",
+        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "Murder On The Dancefloor - PNAU Remix",
+      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "More Than A Woman (SG's Paradise Edit)",
         "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
       },
@@ -455,26 +471,6 @@
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Your Love (Diplo Remix)",
-        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
-      },
-      "artists": [
-        {
-          "name": "The Outfield",
-          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "Your Love - Diplo Remix",
-      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -499,8 +495,8 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Perfect (Exceeder)",
-        "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
+        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
       },
       "artists": [
         {
@@ -508,17 +504,37 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         },
         {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 151929,
-      "name": "Perfect (Exceeder)",
-      "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
+      "duration_ms": 211428,
+      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Your Love (Diplo Remix)",
+        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 155625,
+      "name": "Your Love - Diplo Remix",
+      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -675,6 +691,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Austin (Boots Stop Workin') [Distant Matter Remix]",
+        "url": "https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        },
+        {
+          "name": "Distant Matter",
+          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
+        }
+      ],
+      "duration_ms": 176670,
+      "name": "Austin (Boots Stop Workin') - Distant Matter Remix",
+      "url": "https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Ferrari (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
       },
@@ -695,30 +731,6 @@
       "duration_ms": 188640,
       "name": "Ferrari - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
-        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
-      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -899,6 +911,46 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Sinnerman (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 232632,
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 155676,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -963,26 +1015,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Sinnerman (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 232632,
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "exes (Regard Remix)",
         "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
       },
@@ -999,6 +1031,26 @@
       "duration_ms": 182508,
       "name": "exes - Regard Remix",
       "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Illusion (The Blaze Remix)",
+        "url": "https://open.spotify.com/album/1eQnfWI0gVyTFV1aT3DQwE"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 250683,
+      "name": "Illusion - The Blaze Remix",
+      "url": "https://open.spotify.com/track/2Z8bXQpJTjR78t7nu4FRCk"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1039,26 +1091,6 @@
       "duration_ms": 171265,
       "name": "Don't Go Yet - Major Lazer Remix",
       "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Illusion (The Blaze Remix)",
-        "url": "https://open.spotify.com/album/1eQnfWI0gVyTFV1aT3DQwE"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 250683,
-      "name": "Illusion - The Blaze Remix",
-      "url": "https://open.spotify.com/track/2Z8bXQpJTjR78t7nu4FRCk"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1227,6 +1259,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Lose You (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 156404,
+      "name": "Lose You - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Seven (feat. Latto) (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4a8HKe6jKdCemtBCh5LnYH"
       },
@@ -1247,26 +1299,6 @@
       "duration_ms": 157440,
       "name": "Seven (David Guetta Remix)",
       "url": "https://open.spotify.com/track/1JedlGqkzYvVUITKsvhbPh"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Lose You (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 156404,
-      "name": "Lose You - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1335,6 +1367,26 @@
       "duration_ms": 248594,
       "name": "Hold Me Closer - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Match My Freak EP",
+        "url": "https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 182643,
+      "name": "Nasty (Match My Chic Remix)",
+      "url": "https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1531,74 +1583,6 @@
       "duration_ms": 162480,
       "name": "Seven (feat. Latto) (Alesso Remix)",
       "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sunshine. The EP",
-        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188825,
-      "name": "Sunshine - MOTi Remix",
-      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "One in a Million (Alok Remix)",
-        "url": "https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 142816,
-      "name": "One in a Million - Alok Remix",
-      "url": "https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Lovers In A Past Life (with Rag'n'Bone Man) [Felix Jaehn Remix]",
-        "url": "https://open.spotify.com/album/5nUzwTEVEA9BWtlxMJdyuY"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 172694,
-      "name": "Lovers In A Past Life (with Rag'n'Bone Man) - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/3hHMzB7MDbmj9DYVHqju9T"
     }
   ],
   "unique_name": "Pop Remix",

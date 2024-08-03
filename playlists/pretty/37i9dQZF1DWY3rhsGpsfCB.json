@@ -1,6 +1,6 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 21332,
+  "num_followers": 21337,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Female Intuition",
         "url": "https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 134457,
       "name": "Female Intuition",
       "url": "https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 205000,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Algorithm",
-        "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "HERicane",
-      "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "SUNSET BLVD",
+        "url": "https://open.spotify.com/album/7KHNgbzkWGvK13wzjvUCig"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 159131,
+      "name": "SUNSET BLVD",
+      "url": "https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "GOLD II",
         "url": "https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "SUNSET BLVD",
-        "url": "https://open.spotify.com/album/7KHNgbzkWGvK13wzjvUCig"
+        "name": "Love & Romance",
+        "url": "https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
         }
       ],
-      "duration_ms": 159131,
-      "name": "SUNSET BLVD",
-      "url": "https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM"
+      "duration_ms": 133343,
+      "name": "Love & Romance",
+      "url": "https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1051,6 +1067,22 @@
       "duration_ms": 187159,
       "name": "A Million Things",
       "url": "https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "see u soon",
+        "url": "https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 160557,
+      "name": "show u luv",
+      "url": "https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1075,22 +1107,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Love & Romance",
-        "url": "https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 133343,
-      "name": "Love & Romance",
-      "url": "https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Feels Good - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1cwSgENMx2F7DOJgVANJ6o"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 147428,
       "name": "Feels Good - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5sufqLTHrxCbXhRDeYownS"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "see u soon",
-        "url": "https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 160557,
-      "name": "show u luv",
-      "url": "https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "duration_ms": 224002,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Tattoos",
         "url": "https://open.spotify.com/album/6LEOZsxUOuB68ZG29xYmxG"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 152319,
       "name": "Honey & Spice - Remix",
       "url": "https://open.spotify.com/track/4oADK0NfY8u1RlW7IKFTFz"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM"
-      },
-      "artists": [
-        {
-          "name": "Shekhinah",
-          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
-        }
-      ],
-      "duration_ms": 224002,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Wild Ride - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 162313,
-      "name": "Wild Ride - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/7rfG2qzNG150rC2L3UzCAi"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 160200,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0V8My1NtUo51470iBrav0Y"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Wild Ride - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 162313,
+      "name": "Wild Ride - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "MONOCHROME RADIO",
-        "url": "https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo"
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X"
       },
       "artists": [
         {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        },
-        {
-          "name": "BenjiFlow",
-          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 153126,
-      "name": "UNO (feat. BenjiFlow)",
-      "url": "https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn"
+      "duration_ms": 172687,
+      "name": "Lost Time",
+      "url": "https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1435,34 +1431,42 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Lost Time",
-        "url": "https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X"
+        "name": "MONOCHROME RADIO",
+        "url": "https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        },
+        {
+          "name": "BenjiFlow",
+          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
         }
       ],
-      "duration_ms": 172687,
-      "name": "Lost Time",
-      "url": "https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL"
+      "duration_ms": 153126,
+      "name": "UNO (feat. BenjiFlow)",
+      "url": "https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn"
     },
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH"
+        "name": "SPEED DIAL",
+        "url": "https://open.spotify.com/album/15uK0warT7iSjTh8FvzgUL"
       },
       "artists": [
         {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         }
       ],
-      "duration_ms": 204413,
-      "name": "Phases",
-      "url": "https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi"
+      "duration_ms": 178604,
+      "name": "SPEED DIAL",
+      "url": "https://open.spotify.com/track/2he239VQ9kzPwd4YtOHvVu"
     }
   ],
   "unique_name": "Cocoa Butter ",

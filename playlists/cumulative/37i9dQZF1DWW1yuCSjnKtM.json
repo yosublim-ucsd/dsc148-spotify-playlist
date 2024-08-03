@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-26",
-  "description": "These ones are taking off \ud83d\ude80\ud83d\ude80\ud83d\ude80 Cover: Eminem",
+  "description": "These ones are taking off \ud83d\ude80\ud83d\ude80\ud83d\ude80 Cover: Kehlani & Jordan Adetunji",
   "name": "!!!",
   "tracks": [
     {
@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -480,6 +502,28 @@
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "album": {
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145599,
+      "name": "Black Friday (pretty like the sun)",
+      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
       "album": {
@@ -708,7 +752,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
@@ -916,6 +960,24 @@
       "duration_ms": 183741,
       "name": "Doomsday Blue",
       "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
+    },
+    {
+      "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
     },
     {
       "album": {
@@ -1459,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
         "name": "Happier (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
       },
@@ -1982,10 +2066,32 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
+    },
+    {
+      "album": {
+        "name": "KEHLANI (REMIX) [feat. Kehlani]",
+        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     },
     {
       "album": {
@@ -2374,7 +2480,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 151405,
       "name": "Man In Finance (G6 Trust Fund)",
       "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
@@ -3142,7 +3248,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
@@ -3410,7 +3516,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179016,
       "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
@@ -3494,6 +3600,28 @@
       "duration_ms": 280016,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
+    },
+    {
+      "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253770,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
     },
     {
       "album": {
@@ -3732,7 +3860,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161757,
       "name": "Talk talk",
       "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
@@ -3758,7 +3886,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/2vhyG6wMN64nlNakXJeKZ1"
@@ -4392,6 +4520,24 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
       "album": {

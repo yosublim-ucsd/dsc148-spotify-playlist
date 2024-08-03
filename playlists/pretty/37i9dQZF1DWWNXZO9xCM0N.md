@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,730 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,788 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 44 | [Yo Puedo Vivir Del Amor](https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The Last Fight](https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR) | 8:33 |
 | 45 | [El Paso De Encarnación](https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W) | [Salsa](https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c) | 5:14 |
 | 46 | [Magdalena](https://open.spotify.com/track/6Sh5qYcUgtlj2OJ6UU8Au9) | [Orquesta La Conspiración](https://open.spotify.com/artist/7hsBFT561tLiwvZrylykQG) | [Ernie's Conspiracy](https://open.spotify.com/album/4ct08H1cKeyDlskmRyTHwi) | 5:47 |
-| 47 | [Soy Feliz](https://open.spotify.com/track/5x0psqrizkI9QJzKTcrlJs) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Soy Feliz](https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi) | 3:12 |
-| 48 | [Guararé](https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Barretto](https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ) | 5:38 |
+| 47 | [Guararé](https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Barretto](https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ) | 5:38 |
+| 48 | [Soy Feliz](https://open.spotify.com/track/5x0psqrizkI9QJzKTcrlJs) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Soy Feliz](https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi) | 3:12 |
 | 49 | [Cúcala](https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 3:49 |
 | 50 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
 

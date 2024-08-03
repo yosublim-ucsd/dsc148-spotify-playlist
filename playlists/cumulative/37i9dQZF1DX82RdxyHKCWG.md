@@ -4,7 +4,7 @@
 
 > Tudo de novo que tá rolando no pop! Atualizada toda semana ✨ Foto: Paris Hilton, Meghan Trainor
 
-1,016 songs - 2 day 4 hr 42 min
+1,017 songs - 2 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Grip](https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 1:50 | 2024-04-26 | 2024-06-22 |
 | [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 | 2024-07-19 |  |
 | [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 | 2022-06-10 | 2022-06-25 |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 | 2023-10-13 | 2023-12-09 |
 | [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 | 2023-06-02 | 2023-08-05 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2022-05-23 | 2022-06-11 |
@@ -1016,7 +1017,7 @@
 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2022-12-02 | 2023-02-25 |
 | [You Love Who You Love](https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [You Love Who You Love](https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb) | 3:05 | 2024-01-19 | 2024-04-13 |
 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/1lda5hogfvK9CY3vLyJbZ0) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/album/1kWLZZlF4UNEgxzjE8gBNw) | 3:25 | 2023-06-02 | 2023-08-12 |
-| [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-03-22 |  |
+| [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-03-22 | 2024-08-03 |
 | [You Only Love Me](https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You Only Love Me](https://open.spotify.com/album/5Vqzr0g0cyJES3rIs4IkTq) | 2:28 | 2023-01-27 | 2023-04-22 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2022-05-23 | 2022-09-24 |
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-12-01 | 2024-07-06 |

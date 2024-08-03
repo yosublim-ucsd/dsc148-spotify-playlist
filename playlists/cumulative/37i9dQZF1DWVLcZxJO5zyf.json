@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165382,
+      "name": "At\u00e9 o Topo do Mundo",
+      "url": "https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF"
+    },
+    {
+      "album": {
         "name": "Avisa L\u00e1 (feat. Rebecca)",
         "url": "https://open.spotify.com/album/1PjqEdDTxIKyujzgdLG4K8"
       },
@@ -4884,7 +4902,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 70153,
       "name": "Quero Te Ver Pelada",
       "url": "https://open.spotify.com/track/5a5YuCUYrM8yNowoHilHQh"

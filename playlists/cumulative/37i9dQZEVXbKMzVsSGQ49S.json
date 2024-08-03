@@ -2005,6 +2005,28 @@
     },
     {
       "album": {
+        "name": "Andvaka",
+        "url": "https://open.spotify.com/album/7Dq9vXLX3tDD256JjbdrN9"
+      },
+      "artists": [
+        {
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146600,
+      "name": "Andvaka",
+      "url": "https://open.spotify.com/track/5p8cnx65q4YJPGeCNlBbdI"
+    },
+    {
+      "album": {
         "name": "Annan Hring",
         "url": "https://open.spotify.com/album/4geH6dH0NBBPwHwBDb26EB"
       },
@@ -15476,7 +15498,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 207911,
       "name": "Hj\u00e1 \u00fe\u00e9r",
       "url": "https://open.spotify.com/track/6bMexmPJgSkZyNDV0QZGsI"
@@ -22071,6 +22093,36 @@
     },
     {
       "album": {
+        "name": "\u00cd dalnum - Eyjal\u00f6gin s\u00edvins\u00e6lu",
+        "url": "https://open.spotify.com/album/57hd2zWY7wRaMXsDR7J2S4"
+      },
+      "artists": [
+        {
+          "name": "Bergsveinn",
+          "url": "https://open.spotify.com/artist/5iZQPGKEVJj1aEBbYxpAKX"
+        },
+        {
+          "name": "Magni",
+          "url": "https://open.spotify.com/artist/4TtHWUNqH65KPY075VxsmD"
+        },
+        {
+          "name": "Hreimur",
+          "url": "https://open.spotify.com/artist/3JqhkiwnK1tNP7CZj4vAKQ"
+        },
+        {
+          "name": "Grettisk\u00f3rinn",
+          "url": "https://open.spotify.com/artist/1sBsS0m5sZyZNur46MQw36"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233499,
+      "name": "L\u00edfi\u00f0 er yndislegt",
+      "url": "https://open.spotify.com/track/6iFWnrgsxG0o4YH28Qu14R"
+    },
+    {
+      "album": {
         "name": "Lengi lifum vi\u00f0",
         "url": "https://open.spotify.com/album/2CMdGmSXOv4k0k35t3u9Z6"
       },
@@ -24944,7 +24996,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -25668,7 +25720,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -33752,7 +33804,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180733,
       "name": "Sumar \u00ed RVK",
       "url": "https://open.spotify.com/track/2mpoRaaGqOltcKFPHDF7aP"
@@ -34616,7 +34668,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -39586,7 +39638,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -40756,7 +40808,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 236966,
       "name": "\u00c1stin \u00e1 s\u00e9r sta\u00f0",
       "url": "https://open.spotify.com/track/0rKRoNSGc9JlfR5Jpta1NP"
@@ -41692,7 +41744,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 269815,
       "name": "\u00dear sem hjarta\u00f0 sl\u00e6r (\u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0arlag 2012)",
       "url": "https://open.spotify.com/track/2lWTuFXXVJJ6VEBbXQqLkF"
@@ -42076,7 +42128,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
@@ -42332,6 +42384,24 @@
       "duration_ms": 220783,
       "name": "\u00de\u00fasund hj\u00f6rtu",
       "url": "https://open.spotify.com/track/1W6mzbheNeBCNWv2KjcaVe"
+    },
+    {
+      "album": {
+        "name": "\u00de\u00fasund hj\u00f6rtu",
+        "url": "https://open.spotify.com/album/1u9BVof63qbPVlmSVFjOFQ"
+      },
+      "artists": [
+        {
+          "name": "Emmsj\u00e9 Gauti",
+          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220783,
+      "name": "\u00de\u00fasund hj\u00f6rtu",
+      "url": "https://open.spotify.com/track/1jx4M4EiNJWh3aRvfXXwla"
     },
     {
       "album": {

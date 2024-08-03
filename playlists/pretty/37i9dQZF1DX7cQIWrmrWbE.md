@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 
 > Las canciones que suenan en todas partes están aquí 🔥  🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,528 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,554 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 | 5 | [Yeah! \(feat\. Lil Jon & Ludacris\)](https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:10 |
 | 6 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
 | 7 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 |
-| 8 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
-| 9 | [Amor](https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA) | 3:22 |
+| 8 | [Amor](https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA) | 3:22 |
+| 9 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
 | 10 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 11 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 |
 | 12 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 |

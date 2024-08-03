@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,139 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,469 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 59 | [次回予告](https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [次回予告](https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3) | 3:08 |
 | 60 | [運命](https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [運命](https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e) | 3:43 |
 | 61 | [ハルノヒ](https://open.spotify.com/track/1oNeSCt0CMekCyyLo06kFs) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [おいしいパスタがあると聞いて](https://open.spotify.com/album/4UcEHspatQwGvtfR6AVwZl) | 5:26 |
-| 62 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 |
-| 63 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
+| 62 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
+| 63 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 |
 | 64 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 65 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 |
 | 66 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 81 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 |
 | 82 | [Black Rover](https://open.spotify.com/track/04LCCxG3pbOYeENiyUc7Xb) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [ウララ](https://open.spotify.com/album/3zS9R7KJTSgwfhcmL4ckjl) | 3:28 |
 | 83 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |
-| 84 | [オン・ザ・フロントライン](https://open.spotify.com/track/4jAUeWwomc0Pn0O8gq5Y0u) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [オン・ザ・フロントライン](https://open.spotify.com/album/1pq42uX8b2tbs5K1HvW5MP) | 3:27 |
-| 85 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
-| 86 | [無敵](https://open.spotify.com/track/4BshTGhwGSKKf3PzbBtO7e) | [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [無敵](https://open.spotify.com/album/1JHmrWJdzanjqKN0MTHP0o) | 3:23 |
-| 87 | [永遠に光れ \(Everlasting Shine\)](https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [DRAMA](https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf) | 3:11 |
+| 84 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
+| 85 | [永遠に光れ \(Everlasting Shine\)](https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [DRAMA](https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf) | 3:11 |
+| 86 | [オン・ザ・フロントライン](https://open.spotify.com/track/4jAUeWwomc0Pn0O8gq5Y0u) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [オン・ザ・フロントライン](https://open.spotify.com/album/1pq42uX8b2tbs5K1HvW5MP) | 3:27 |
+| 87 | [無敵](https://open.spotify.com/track/4BshTGhwGSKKf3PzbBtO7e) | [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [無敵](https://open.spotify.com/album/1JHmrWJdzanjqKN0MTHP0o) | 3:23 |
 | 88 | [Get Wild](https://open.spotify.com/track/7MBCVS5iqoAY6F106jdLOb) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:00 |
 | 89 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 |
 | 90 | [Hello,world!](https://open.spotify.com/track/1YqVJ2YSgwxWpfuENocF2t) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Butterflies](https://open.spotify.com/album/7xEb9qTZuR3LMPETeHR1A5) | 4:08 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 93 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 |
 | 94 | [大脳的なランデブー](https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [大脳的なランデブー](https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx) | 2:12 |
 | 95 | [ガムシャラ](https://open.spotify.com/track/3D9yweVjHsSyfINp2Kbyx8) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ガムシャラ](https://open.spotify.com/album/5xSqBRiOF07Ho37CzrdxoS) | 3:17 |
-| 96 | [Stormy](https://open.spotify.com/track/7FDgraktDTcuA8uc8ixBM6) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Stormy](https://open.spotify.com/album/4hwKWHczO6iNFJtdaxNuD7) | 3:24 |
-| 97 | [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 |
-| 98 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
-| 99 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 |
-| 100 | [DAN DAN 心魅かれてく](https://open.spotify.com/track/0F1G4ssr0RMdm9h0GEbt40) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [TODAY IS ANOTHER DAY](https://open.spotify.com/album/7nGUYK8tHjuKsHgq3qIDhE) | 4:29 |
+| 96 | [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 |
+| 97 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
+| 98 | [Stormy](https://open.spotify.com/track/7FDgraktDTcuA8uc8ixBM6) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Stormy](https://open.spotify.com/album/4hwKWHczO6iNFJtdaxNuD7) | 3:24 |
+| 99 | [DAN DAN 心魅かれてく](https://open.spotify.com/track/0F1G4ssr0RMdm9h0GEbt40) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [TODAY IS ANOTHER DAY](https://open.spotify.com/album/7nGUYK8tHjuKsHgq3qIDhE) | 4:29 |
+| 100 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 |
 
 Snapshot ID: `Zqj/8AAAAABkajGaTE5MEBftCjumabeE`

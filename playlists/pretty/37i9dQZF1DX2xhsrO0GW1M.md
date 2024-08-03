@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,820 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,800 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 5 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 |
 | 6 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
 | 7 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 |
-| 8 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
+| 8 | [Naive](https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:23 |
 | 9 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
-| 10 | [Naive](https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:23 |
+| 10 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
 | 11 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
 | 12 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 13 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 28 | [Bad Decisions](https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:53 |
 | 29 | [How You Like Me Now](https://open.spotify.com/track/0kHwTHf8ye0mSd66pwcrEN) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [The House That Dirt Built](https://open.spotify.com/album/7DjSNptx7IUVoWuSeN4rxA) | 3:37 |
 | 30 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
-| 31 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 |
-| 32 | [Soul Meets Body](https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:49 |
+| 31 | [Soul Meets Body](https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:49 |
+| 32 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 |
 | 33 | [Yoshimi Battles the Pink Robots, Pt\. 1](https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:47 |
 | 34 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
 | 35 | [Alligator](https://open.spotify.com/track/797qMUoU74C6xc45n2vAMK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 3:04 |

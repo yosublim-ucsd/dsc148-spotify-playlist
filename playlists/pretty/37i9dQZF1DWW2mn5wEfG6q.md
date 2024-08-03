@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > 2013 highlights from the home of indie music\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,617 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,655 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 31 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
 | 32 | [Modern Jesus](https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:14 |
 | 33 | [Arabella](https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:27 |
-| 34 | [Raspberry](https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:16 |
-| 35 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
+| 34 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
+| 35 | [Raspberry](https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:16 |
 | 36 | [Wasting My Young Years](https://open.spotify.com/track/0CzKeBPCiBrGZRV9eLzzBo) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 3:24 |
 | 37 | [Oblivion](https://open.spotify.com/track/79npfYK6N5RnBc1jiaoHCr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oblivion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O5pnKHDJrwvL6w9Ne1mka) | 5:56 |
 | 38 | [Sex](https://open.spotify.com/track/67ispalOAo3jnZWYSTTfZk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:27 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 75 | [Life Round Here](https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:37 |
 | 76 | [Falling](https://open.spotify.com/track/1vSEwZtoQA0sJxkOgF7MtG) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:17 |
 | 77 | [Atomic Man](https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:47 |
-| 78 | [DNA](https://open.spotify.com/track/3WISqO5EtteMYlfpmJhqHg) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al) | 3:53 |
-| 79 | [Late Night](https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 5:27 |
+| 78 | [Late Night](https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 5:27 |
+| 79 | [DNA](https://open.spotify.com/track/3WISqO5EtteMYlfpmJhqHg) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al) | 3:53 |
 | 80 | [Cardiac Arrest](https://open.spotify.com/track/0VUKyt3fMjws3me8rZJDua) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/45Q2zfxADpUcev6U5MS8KA) | 3:02 |
 | 81 | [So High](https://open.spotify.com/track/6UUOkhXDWTqVYjzqNJ1F0x) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [So High](https://open.spotify.com/album/4o4SfH08cmiHk2aRlTcPqj) | 3:07 |
 | 82 | [XOXO](https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 4:51 |

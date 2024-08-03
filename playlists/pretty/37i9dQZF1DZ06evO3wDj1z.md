@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 
 ### [This Is Sergio Vega "El Shaka"](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wDj1z)
 
-> This Is Sergio Vega "El Shaka"\. Los temas esenciales, todos en una lista.
+> This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,390 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,420 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 5 | [La Número 20](https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 2:48 |
 | 6 | [Me Gusta Estar Contigo](https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 2:18 |
 | 7 | [Cuando el Sol Salga Al Revés](https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:07 |
-| 8 | [Disculpe Usted](https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 3:00 |
-| 9 | [Soy Tu Amante Y Que](https://open.spotify.com/track/1iNP2rLmcCCoXuqsjNkSE2) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:34 |
+| 8 | [Soy Tu Amante Y Que](https://open.spotify.com/track/1iNP2rLmcCCoXuqsjNkSE2) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:34 |
+| 9 | [Disculpe Usted](https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 3:00 |
 | 10 | [Necesito Dueña \- Ranchera Version](https://open.spotify.com/track/5nQusPyVdSNdpBJdX5uSq4) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Necesito Dueña](https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY) | 3:01 |
 | 11 | [Muchachita de Ojos Tristes \- Banda Version](https://open.spotify.com/track/1PzeC9bXESHGvPhNMYn0hd) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Plaza Nueva](https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7) | 3:27 |
 | 12 | [Musico, Poeta y Loco](https://open.spotify.com/track/1J8WH97XXerjrLqOTgoeAx) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 49 | [Plaza Nueva](https://open.spotify.com/track/4MXM9jLq0ut2QXg1NPZRAm) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/2aiwlEGVGSWyYF8HwooOpd) | 3:20 |
 | 50 | [La Captura](https://open.spotify.com/track/79RyBdM6shRCcdYIFtyWoo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 2:26 |
 
-Snapshot ID: `Zql+gAAAAAAKEbrMRIGBRA3oq09DNWrK`
+Snapshot ID: `ZqrQAAAAAABxt2jX2ByLbsyBxLACOAjs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Psycho YP, Magixx, Jeriq and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,420 likes - 47 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,530 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 39 | [Tell Nobody](https://open.spotify.com/track/3ex4n03yOotY0eirXAJzbT) | [Eony](https://open.spotify.com/artist/35PHHSNJJEoq7yVYbOnl7G) | [Tell Nobody](https://open.spotify.com/album/6gq9iQ7St0zEkcwIXJrvd2) | 2:32 |
 | 40 | [UEFA](https://open.spotify.com/track/5qYYofJmpgigudaj3HENQN) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc), [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR) | [UEFA](https://open.spotify.com/album/1hKN16Z7UmAnqKP6dtkBWe) | 2:08 |
 | 41 | [Something Something](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 |
-| 42 | [MONEY MAKER](https://open.spotify.com/track/0GlW8vwkMu1WAn0JjVD2eK) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [MONEY MAKER](https://open.spotify.com/album/5Kr7Q1ER46eHhHyvG68Ds0) | 1:13 |
-| 43 | [What If?](https://open.spotify.com/track/5PN3owalUOgi57RFVZ7H9N) | [Leczy](https://open.spotify.com/artist/58mxed076t8Hn7mAdxtLzT) | [What If?](https://open.spotify.com/album/2X114z5ioHbh4GSUAMmVuA) | 2:36 |
-| 44 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 |
-| 45 | [One Percent](https://open.spotify.com/track/2mKjAQIldbFrUlVyb704vu) | [H.E.C](https://open.spotify.com/artist/1YLynmLJiAmfdgGeuSmudq), [Hotyce](https://open.spotify.com/artist/1X9C7PsO7fveD0clZCexU3), [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [One Percent](https://open.spotify.com/album/4Yykl9GtAiONTgfFQQGuVd) | 3:05 |
-| 46 | [LOTDF](https://open.spotify.com/track/5lDAysaKeH4QWcjrsjHCrP) | [Joel Prodigee](https://open.spotify.com/artist/18Dw5YShp4bW9ljfOEP9dd) | [LOTDF & TRUTH](https://open.spotify.com/album/55fXp59Q6qa9nAA2GqZ2wt) | 2:05 |
-| 47 | [My Smoke](https://open.spotify.com/track/1Q5WEyGCb6duyzvXan6RAr) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV) | [My Smoke](https://open.spotify.com/album/2KiEgxP3XdHgDakatza7e8) | 2:50 |
+| 42 | [Echoes of Dad Beat](https://open.spotify.com/track/4NYBkk8Af6f97pVkaIChQV) | [Dj khalipha](https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB) | [Echoes of Dad Beat](https://open.spotify.com/album/7tmUr3kfBAlpD79IlYTf8G) | 2:41 |
+| 43 | [MONEY MAKER](https://open.spotify.com/track/0GlW8vwkMu1WAn0JjVD2eK) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [MONEY MAKER](https://open.spotify.com/album/5Kr7Q1ER46eHhHyvG68Ds0) | 1:13 |
+| 44 | [What If?](https://open.spotify.com/track/5PN3owalUOgi57RFVZ7H9N) | [Leczy](https://open.spotify.com/artist/58mxed076t8Hn7mAdxtLzT) | [What If?](https://open.spotify.com/album/2X114z5ioHbh4GSUAMmVuA) | 2:36 |
+| 45 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 |
+| 46 | [One Percent](https://open.spotify.com/track/2mKjAQIldbFrUlVyb704vu) | [H.E.C](https://open.spotify.com/artist/1YLynmLJiAmfdgGeuSmudq), [Hotyce](https://open.spotify.com/artist/1X9C7PsO7fveD0clZCexU3), [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [One Percent](https://open.spotify.com/album/4Yykl9GtAiONTgfFQQGuVd) | 3:05 |
+| 47 | [LOTDF](https://open.spotify.com/track/5lDAysaKeH4QWcjrsjHCrP) | [Joel Prodigee](https://open.spotify.com/artist/18Dw5YShp4bW9ljfOEP9dd) | [LOTDF & TRUTH](https://open.spotify.com/album/55fXp59Q6qa9nAA2GqZ2wt) | 2:05 |
+| 48 | [My Smoke](https://open.spotify.com/track/1Q5WEyGCb6duyzvXan6RAr) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV) | [My Smoke](https://open.spotify.com/album/2KiEgxP3XdHgDakatza7e8) | 2:50 |
 
 Snapshot ID: `ZqwhvAAAAADNsqQqGOAxlaKlIj/vCCnl`

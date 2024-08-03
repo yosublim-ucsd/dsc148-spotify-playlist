@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp?si=DHvMs4YfRhiTs7PEvQCSDQ"> أمير عيد </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,050 likes - 49 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,248 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 48 | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/track/4VBJjLh7pIvW7cTWmmW3DX) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/album/0Lz5buevocRlWNTzBMyIjG) | 2:57 |
 | 49 | [Kol Elly Eshto](https://open.spotify.com/track/3PsPaxw4KgRJXAVWxnUu7q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kol Elly Eshto](https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0) | 3:08 |
 
-Snapshot ID: `ZqU1+QAAAAAJwhZxohYYmaGW/8J3RgZm`
+Snapshot ID: `ZqzIHQAAAABvq8fbhQvX4pQ9KX1oFVTG`

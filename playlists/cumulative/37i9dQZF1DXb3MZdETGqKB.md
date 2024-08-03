@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Judith Hill
 
-310 songs - 18 hr 15 min
+311 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [NOT A GOOD MAN WALKING](https://open.spotify.com/track/679ZxPQna36dJmMRvhFwU9) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [NOT A GOOD MAN WALKING](https://open.spotify.com/album/3BXZGAUiUVPOygUqn8meVI) | 2:56 | 2022-03-04 | 2023-02-14 |
 | [Not the Blues Again](https://open.spotify.com/track/5hfrnLlkK3Q8sRja0GVlXc) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Not the Blues Again](https://open.spotify.com/album/2FRKxEkUPDkztNFpCWovqv) | 3:09 | 2022-07-29 | 2022-08-06 |
 | [Off the Rails](https://open.spotify.com/track/42WticpVQhPU1H2seAjX9y) | [Cross Country Driver](https://open.spotify.com/artist/7yVGyHGB9ZrxNMBZK0mirb), [Rhonda Smith](https://open.spotify.com/artist/2uYKHg4WYpDVVxZVj7gFgN) | [The New Truth](https://open.spotify.com/album/20uVF4qSvDD7P7LvJ6jDoh) | 3:52 | 2023-03-17 |  |
+| [Oil & Water](https://open.spotify.com/track/3BIxy1SXeYRybqVgqID10B) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Highway 17](https://open.spotify.com/album/7DejChlWq4GfKaIBvBs0BY) | 2:24 | 2024-08-02 |  |
 | [On Fire Like Zsa Zsa](https://open.spotify.com/track/1jkRCIT4lbw927QNmt0NGh) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad) | 3:21 | 2021-02-05 | 2022-03-26 |
 | [On the Road \(with G Love & Special Sauce and Cas Haley\)](https://open.spotify.com/track/0vM8fRYfCtW3VRbant8FnC) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [The Ries Brothers](https://open.spotify.com/album/09eneEPZDcWiWd2x8Mkhyw) | 3:55 | 2022-08-26 |  |
 | [On the Road \(with G Love & Special Sauce and Cas Haley\)](https://open.spotify.com/track/7srWCCNonVXruKp9FpciVD) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [The Ries Brothers](https://open.spotify.com/album/6SexAEAVGOjYvGBJxgiLdk) | 3:55 | 2022-08-26 | 2024-04-19 |
@@ -249,7 +250,7 @@
 | [Stuttering On](https://open.spotify.com/track/7cQ8RzcVQQ6fawdR8MckRP) | [Joe Marson](https://open.spotify.com/artist/4nFQ7IhLVK3MsKRjhq9LKi) | [Stuttering On](https://open.spotify.com/album/074dmQt7MgsULq32kNC4Uy) | 4:16 | 2024-06-14 |  |
 | [Sugar](https://open.spotify.com/track/0iDxRzwE0EeV24jWkxg2Kx) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Sugar](https://open.spotify.com/album/6BvARv37XBzBaZB848IREa) | 3:00 | 2024-04-05 |  |
 | [Sugar Man](https://open.spotify.com/track/0fxPI5BMCQYo0nPV7ysef4) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Sugar Man](https://open.spotify.com/album/2EzBNH4CaSRJRL8fUjovip) | 3:29 | 2023-12-01 | 2024-06-08 |
-| [Sundress Season](https://open.spotify.com/track/2UCJ0tbxu54jEgU48YmAff) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Sundress Season](https://open.spotify.com/album/1mNHEGbZUdWu89QMma3bym) | 2:38 | 2023-05-05 |  |
+| [Sundress Season](https://open.spotify.com/track/2UCJ0tbxu54jEgU48YmAff) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Sundress Season](https://open.spotify.com/album/1mNHEGbZUdWu89QMma3bym) | 2:38 | 2023-05-05 | 2024-08-03 |
 | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/track/55xFE3JPlWpKoqRGg9j4L0) | [Soldier Story](https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0) | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/album/20qgm11dR7wDnfauXFeuMx) | 2:13 | 2022-09-02 |  |
 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 | 2022-04-08 | 2023-12-18 |
 | [Sunshine Blue](https://open.spotify.com/track/6m1g7OX6k0CFK9y9LTFwQc) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/41AYEHSwnXU7Gmrw4DVrKC) | 2:40 | 2022-04-08 | 2024-03-16 |

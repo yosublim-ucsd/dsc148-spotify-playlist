@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Archimedes",
+        "url": "https://open.spotify.com/album/6wVDnC1pOc8e3274c7Ep0c"
+      },
+      "artists": [
+        {
+          "name": "Alfa Cognitive",
+          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193874,
+      "name": "Archimedes",
+      "url": "https://open.spotify.com/track/7JD5pmj7dqDmLGAarMgWYD"
+    },
+    {
+      "album": {
         "name": "Arctic",
         "url": "https://open.spotify.com/album/0Zq6Iv1Mzxjj2TJ5qHldja"
       },
@@ -2133,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "Caelum",
+        "url": "https://open.spotify.com/album/1mcJ4I2cOBHVJNekeRJq6A"
+      },
+      "artists": [
+        {
+          "name": "Hector Warrens",
+          "url": "https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205944,
+      "name": "Caelum",
+      "url": "https://open.spotify.com/track/1PtfPf0XqCwJhcT3mJBGhJ"
+    },
+    {
+      "album": {
         "name": "Planetary Funnel",
         "url": "https://open.spotify.com/album/0oFdp4vvnuv17yLJAEz8M4"
       },
@@ -3231,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/1XjbO2qB44WoiUEALnsOYP"
+      },
+      "artists": [
+        {
+          "name": "So Lis",
+          "url": "https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/2f8XntdwMp79jR0H5OAsXx"
+    },
+    {
+      "album": {
         "name": "Delta Sinus Noise Pad",
         "url": "https://open.spotify.com/album/4tpiv36su2Y9b9BPAJgPNH"
       },
@@ -3822,6 +3876,24 @@
       "duration_ms": 187200,
       "name": "Drifting Clouds",
       "url": "https://open.spotify.com/track/6hoPDZRDYnh2RSy5tfGwoi"
+    },
+    {
+      "album": {
+        "name": "Drifting into Dreams",
+        "url": "https://open.spotify.com/album/3Z2e71SuBzWO2Qhf7JylnV"
+      },
+      "artists": [
+        {
+          "name": "Massimu",
+          "url": "https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Drifting into Dreams",
+      "url": "https://open.spotify.com/track/4VmxB3G8UMqU3NvisBZ4lb"
     },
     {
       "album": {
@@ -4856,6 +4928,24 @@
       "duration_ms": 139501,
       "name": "Falling Leaves",
       "url": "https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/53jnzdCH66pwSDm80hqyMs"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171541,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/5WTAIHxz7B582RBLpPdsBk"
     },
     {
       "album": {
@@ -6062,6 +6152,24 @@
       "duration_ms": 145800,
       "name": "Hygga",
       "url": "https://open.spotify.com/track/5wkoZ9boDE4xt4wtam3a4e"
+    },
+    {
+      "album": {
+        "name": "I'll Be Right Here",
+        "url": "https://open.spotify.com/album/4qb8UF7g7UPi0P1WHeOtbV"
+      },
+      "artists": [
+        {
+          "name": "Stellanova",
+          "url": "https://open.spotify.com/artist/29isfMEaWmykULDpeyBXlk"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152337,
+      "name": "I'll Be Right Here",
+      "url": "https://open.spotify.com/track/31UmrBFlgzUM2iLM0GtJln"
     },
     {
       "album": {
@@ -9932,7 +10040,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 177200,
       "name": "Reaching For The Light",
       "url": "https://open.spotify.com/track/1Qs8bAVpciEuLUgyBr14XZ"
@@ -11073,6 +11181,24 @@
     },
     {
       "album": {
+        "name": "Silentium",
+        "url": "https://open.spotify.com/album/6BrlaXo2h7dmZKPS9M0yye"
+      },
+      "artists": [
+        {
+          "name": "Liv Joy",
+          "url": "https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156317,
+      "name": "Silentium",
+      "url": "https://open.spotify.com/track/0dAxt0dG9QZdjUEm5ytOtu"
+    },
+    {
+      "album": {
         "name": "Contemplate",
         "url": "https://open.spotify.com/album/4YPmrvr0GCO4errUctduu7"
       },
@@ -11444,7 +11570,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 205909,
       "name": "Soft Feather",
       "url": "https://open.spotify.com/track/6AwNPeCte9bFMEmIC0ZbNT"
@@ -12996,6 +13122,24 @@
       "duration_ms": 156923,
       "name": "Unravel",
       "url": "https://open.spotify.com/track/23rZmyaskgvvJ0ddEAoSdn"
+    },
+    {
+      "album": {
+        "name": "Until",
+        "url": "https://open.spotify.com/album/1UCKBs3b9lHettINgdf9Qh"
+      },
+      "artists": [
+        {
+          "name": "Noah Florence",
+          "url": "https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172901,
+      "name": "Until",
+      "url": "https://open.spotify.com/track/0DCwSrGQxGTAyxmWy1q7Al"
     },
     {
       "album": {

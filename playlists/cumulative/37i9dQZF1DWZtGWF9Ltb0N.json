@@ -3179,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/7vZcwbfpxJoSlWvcrtGmBB"
+      },
+      "artists": [
+        {
+          "name": "Dwonji",
+          "url": "https://open.spotify.com/artist/3LPN9SczhFaeLnDmGEYW9F"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/310Nn9tFyZz9w2UbdBUxUX"
+    },
+    {
+      "album": {
         "name": "Faded / Spear",
         "url": "https://open.spotify.com/album/5uQiS0pSr2O0hPwtzbMEl1"
       },
@@ -11356,7 +11374,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 197768,
       "name": "Underground",
       "url": "https://open.spotify.com/track/7u8p3u6rE0zwWOHVQbpfdq"
@@ -11662,7 +11680,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 222664,
       "name": "Warrior Mentality",
       "url": "https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE"
@@ -11830,6 +11848,24 @@
       "duration_ms": 192214,
       "name": "Who's the Best",
       "url": "https://open.spotify.com/track/3zKMchlxXeERZIkqKXXeA4"
+    },
+    {
+      "album": {
+        "name": "Whoop D Don't",
+        "url": "https://open.spotify.com/album/3wnlvDJ9FQm4FOM6LhqIUO"
+      },
+      "artists": [
+        {
+          "name": "Kotek",
+          "url": "https://open.spotify.com/artist/5JD5mJBIRz9pisqHn7SM7W"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208457,
+      "name": "Whoop D Don't",
+      "url": "https://open.spotify.com/track/7o9s5UllrblOHSW18IKs3s"
     },
     {
       "album": {

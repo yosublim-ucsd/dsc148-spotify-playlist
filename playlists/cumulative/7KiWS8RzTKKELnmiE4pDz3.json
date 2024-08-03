@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "9k Freestyle",
+        "url": "https://open.spotify.com/album/0av82aRcZgT5tDynSdVThi"
+      },
+      "artists": [
+        {
+          "name": "Chris Travis",
+          "url": "https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132668,
+      "name": "9k Freestyle",
+      "url": "https://open.spotify.com/track/3P2g3b9uT8k2SoOmGbDco4"
+    },
+    {
+      "album": {
         "name": "Drunk",
         "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
       },

@@ -4,7 +4,7 @@
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 43 min
+88 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Grand](https://open.spotify.com/track/36ckQ6GqvcqeYeiWBnl6uz) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:58 | 2023-08-09 |  |
 | [Grand](https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Grand](https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4) | 2:58 | 2022-09-08 | 2023-08-10 |
 | [Granddaddy's Chair](https://open.spotify.com/track/7rQ2kjuqhqyMuYA1IenxrM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:45 | 2022-09-08 | 2022-10-13 |
-| [Grits & Glamour \(feat\. Kane Brown\)](https://open.spotify.com/track/3mxfnoWPnSxcuxj897oDX7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:53 | 2023-02-05 |  |
+| [Grits & Glamour \(feat\. Kane Brown\)](https://open.spotify.com/track/3mxfnoWPnSxcuxj897oDX7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:53 | 2023-02-05 | 2024-08-03 |
 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 | 2022-09-08 |  |
 | [Hit the Gas](https://open.spotify.com/track/3PqLcOCKMKvhVDEcwFUcVd) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Closer](https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv) | 2:54 | 2022-09-08 | 2022-10-22 |
 | [Homesick](https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:25 | 2022-09-08 |  |
@@ -79,6 +79,7 @@
 | [See You Like I Do](https://open.spotify.com/track/4UZvxMfQRMqj24WHj0VNEf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:09 | 2022-09-14 |  |
 | [Setting the Night On Fire \(with Chris Young\)](https://open.spotify.com/track/2OeyphE568es62xmmJTt1z) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:20 | 2022-09-09 | 2024-07-24 |
 | [Short Skirt Weather](https://open.spotify.com/track/6PN7QeNItfzZBpCTQvsLyq) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:14 | 2022-09-08 |  |
+| [Take Me Home \(with Kane Brown\)](https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Restless Road \- EP](https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh) | 3:21 | 2024-08-03 |  |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-11 |  |
 | [The one \(Pero no como yo\)](https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:56 | 2024-06-15 |  |
 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1) | 2:56 | 2024-05-07 | 2024-06-15 |

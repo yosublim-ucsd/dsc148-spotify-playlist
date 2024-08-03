@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > sounds to accompany the fading sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,352 likes - 41 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,316 likes - 41 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

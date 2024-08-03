@@ -2,7 +2,7 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Lesti, Judika
+> Dendang Dangdut teratas\. Cover: Iqhbal
 
 182 songs - 14 hr 14 min
 

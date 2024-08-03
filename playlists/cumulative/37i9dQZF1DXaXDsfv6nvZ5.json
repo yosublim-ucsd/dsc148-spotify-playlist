@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 287332,
       "name": "Can I Have This Groove",
       "url": "https://open.spotify.com/track/0jZb3hm5NSnwHaLjiwZoV0"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 284945,
       "name": "controllin",
       "url": "https://open.spotify.com/track/1Tmbe21KTdlEZcTXYPU7M3"
@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196792,
       "name": "Damn",
       "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
@@ -4011,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "Sophcore",
+        "url": "https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
+    },
+    {
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
       },
@@ -5266,6 +5284,46 @@
       "duration_ms": 200252,
       "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj"
+    },
+    {
+      "album": {
+        "name": "The Mind",
+        "url": "https://open.spotify.com/album/5V0Nqn3w1C11avw7i8UhQ8"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        },
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226574,
+      "name": "Little Things (feat. Yaya Bey)",
+      "url": "https://open.spotify.com/track/7eUxbqEPlbf9rccIDDOy5D"
+    },
+    {
+      "album": {
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
       "album": {
@@ -8303,6 +8361,24 @@
     },
     {
       "album": {
+        "name": "Simply Beautiful",
+        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Simply Beautiful",
+      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
+    },
+    {
+      "album": {
         "name": "Since You've Been Gone",
         "url": "https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8"
       },
@@ -9796,7 +9872,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 169545,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc"
@@ -9822,6 +9898,24 @@
       "duration_ms": 209446,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj"
+    },
+    {
+      "album": {
+        "name": "No More Water: The Gospel Of James Baldwin",
+        "url": "https://open.spotify.com/album/2ba5r7icQRIInoWJYUrsSJ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438306,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/69fuXJMALq5dfj6f9NFiJi"
     },
     {
       "album": {
@@ -10040,7 +10134,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 192520,
       "name": "Untitled (How Does It Feel?) - Live From 525",
       "url": "https://open.spotify.com/track/2YJnUBbDDQ83tPEfAxcVOu"
@@ -10642,7 +10736,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 156500,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo"
@@ -10696,7 +10790,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 205229,
       "name": "Why (Spare Me Tears)",
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Fleur de Peau
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,157 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,161 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 40 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 |
 | 41 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 |
 | 42 | [Ton hôtel](https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 2:25 |
-| 43 | [Demande\-moi](https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:20 |
+| 43 | [La hiérarchill](https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 4:46 |
 | 44 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 |
-| 45 | [La hiérarchill](https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 4:46 |
+| 45 | [Demande\-moi](https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:20 |
 | 46 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |
 | 47 | [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 |
 | 48 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 52 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 |
 | 53 | [La photo](https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:39 |
 | 54 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
-| 55 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 |
-| 56 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
+| 55 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
+| 56 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 |
 | 57 | [Maïa](https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Premier juin](https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86) | 4:28 |
 | 58 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 |
 | 59 | [Fleur en polyéthylène](https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Bizou](https://open.spotify.com/album/274PDh5BGP9Bk2u3DoFcuj) | 3:04 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 61 | [Ah ouin](https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer Looloo](https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg) | 2:30 |
 | 62 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 |
 | 63 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 |
-| 64 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
-| 65 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 |
-| 66 | [Sempre Juntos](https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa) | [Beat Sexü](https://open.spotify.com/artist/3cWR22THTKKRQnhA5o1Bjr) | [Deuxième chance](https://open.spotify.com/album/5EsXwDuMbfnbUo9Hm1GcLL) | 3:32 |
+| 64 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 |
+| 65 | [Sempre Juntos](https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa) | [Beat Sexü](https://open.spotify.com/artist/3cWR22THTKKRQnhA5o1Bjr) | [Deuxième chance](https://open.spotify.com/album/5EsXwDuMbfnbUo9Hm1GcLL) | 3:32 |
+| 66 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
 | 67 | [Transition](https://open.spotify.com/track/04kYZnX9jdDETsPM3SqJm8) | [We Are Wolves](https://open.spotify.com/artist/1Mt6gJbSKbLoSXWbgb44LW) | [Transition](https://open.spotify.com/album/44mjt0AeyiJwBWsO2boazA) | 3:34 |
 | 68 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
 | 69 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 |
 | 70 | [Où est?](https://open.spotify.com/track/17iQ6UIeisPmIHX8fuMSYo) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Où est?](https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d) | 4:31 |
 | 71 | [OMG \(oiseau\)](https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Totalement Sublime](https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td) | 4:03 |
 | 72 | [K9](https://open.spotify.com/track/6vKKnSBuPeE7ZQLfwjW4re) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 5:02 |
-| 73 | [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 |
-| 74 | [INDIGESTE](https://open.spotify.com/track/3ZDi3WHqcMnKmzkURhullh) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [INDIGESTE](https://open.spotify.com/album/2M6g0osfsD5esMvkZUX5JX) | 4:19 |
+| 73 | [INDIGESTE](https://open.spotify.com/track/3ZDi3WHqcMnKmzkURhullh) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [INDIGESTE](https://open.spotify.com/album/2M6g0osfsD5esMvkZUX5JX) | 4:19 |
+| 74 | [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 |
 | 75 | [Chambre d'écho](https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 3:57 |
 
 Snapshot ID: `ZqMfQAAAAAAWxcZZtMV0/0WZ9bYAzWnv`

@@ -4,7 +4,7 @@
 
 > Country hits that will have you singing every word\. Cover: Koe Wetzel
 
-369 songs - 20 hr 3 min
+370 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 | 2023-06-08 | 2023-11-18 |
 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 | 2022-07-21 | 2023-08-05 |
 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 | 2022-11-15 | 2023-10-21 |
-| [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-07-19 |  |
+| [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-07-19 | 2024-08-03 |
 | [New Truck](https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [New Truck](https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM) | 2:54 | 2022-08-05 | 2023-11-11 |
 | [No Bad Days](https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr) | 2:25 | 2023-06-30 | 2024-05-04 |
 | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx) | 2:25 | 2024-01-19 | 2024-04-19 |
@@ -295,6 +295,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 | 2024-06-14 |  |
 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 | 2024-05-24 |  |
 | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa) | 3:13 | 2023-08-25 | 2024-06-29 |
+| [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2024-08-02 |  |
 | [Take Me Out](https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Take Me Out](https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ) | 4:03 | 2023-08-11 | 2024-06-29 |
 | [Taking It Easy](https://open.spotify.com/track/4cymUHqMBOwxcI6HuaI4i0) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Throw Down \(Deluxe Remastered\)](https://open.spotify.com/album/0DOWHM6JBa9U0agPsDQDXY) | 2:49 | 2023-09-08 | 2024-03-30 |
 | [Tell Me Tennessee](https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Tell Me Tennessee](https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke) | 3:30 | 2024-03-01 |  |

@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 181602,
       "name": "Say",
       "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
@@ -5480,7 +5480,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 264080,
       "name": "\u59a5\u5354",
       "url": "https://open.spotify.com/track/0m1cI6aV1jq537JamnL592"
@@ -5808,7 +5808,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 216607,
       "name": "\u60f3\u592a\u591a",
       "url": "https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ"
@@ -5866,6 +5866,24 @@
       "duration_ms": 250941,
       "name": "\u611b\u4e0a\u4f60\u7b97\u6211\u8ce4",
       "url": "https://open.spotify.com/track/3jdy4aOla1dwYIqwp69JJN"
+    },
+    {
+      "album": {
+        "name": "\u60c5\u6b4c\u624b",
+        "url": "https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5"
+      },
+      "artists": [
+        {
+          "name": "\u90b1\u8ecd",
+          "url": "https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "\u611b\u4e0d\u611b\u6211",
+      "url": "https://open.spotify.com/track/5Mxrr2d5V0f5btmaxm1w3X"
     },
     {
       "album": {
@@ -6345,6 +6363,24 @@
     },
     {
       "album": {
+        "name": "\u66ae\u8272\u56de\u54cd (\u7535\u5f71\u300a\u9ed8\u6740\u300b\u63a8\u5e7f\u66f2)",
+        "url": "https://open.spotify.com/album/5DS3v9OmWKA0bKb3SudXV2"
+      },
+      "artists": [
+        {
+          "name": "\u5f20\u97f6\u6db5",
+          "url": "https://open.spotify.com/artist/0nMPxtQGOjtIiaSg0LKaMX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181380,
+      "name": "\u66ae\u8272\u56de\u54cd - \u7535\u5f71\u300a\u9ed8\u6740\u300b\u63a8\u5e7f\u66f2",
+      "url": "https://open.spotify.com/track/34lHeTk1cdLlQLJgmqSY9y"
+    },
+    {
+      "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
@@ -6468,7 +6504,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"
@@ -6912,7 +6948,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 173822,
       "name": "\u82e5\u6708\u4eae\u6ca1\u6765\uff08\u82e5\u662f\u6708\u4eae\u8fd8\u6ca1\u6765\uff09",
       "url": "https://open.spotify.com/track/414Mr8wR2m7fs2K0n8Bx3I"

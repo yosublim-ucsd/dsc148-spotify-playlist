@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Aoife O’Donovan
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,015 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,022 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 87 | [Dust and Magic](https://open.spotify.com/track/6hTNf8zgq7BtA9ZNwQFa0i) | [Anna Tivel](https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs) | [Dust and Magic](https://open.spotify.com/album/5DoLax81MjuvuOwH6mBrPn) | 2:59 |
 | 88 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 |
 | 89 | [For Now](https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:18 |
-| 90 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 |
+| 90 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 |
 
 Snapshot ID: `ZeqbUAAAAAA+92jTnmr6RnjgRmul/nK2`

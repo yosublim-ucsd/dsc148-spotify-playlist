@@ -1162,6 +1162,24 @@
     {
       "album": {
         "name": "Heaven",
+        "url": "https://open.spotify.com/album/6SpOIcNPfOeTAkvmE2JQNB"
+      },
+      "artists": [
+        {
+          "name": "jsthebg",
+          "url": "https://open.spotify.com/artist/5ONZgilB1BdnWtMfDITKSD"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222730,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5rUfUCTCWPWOWkx5zN081i"
+    },
+    {
+      "album": {
+        "name": "Heaven",
         "url": "https://open.spotify.com/album/6mluibQ80Nxg9sqCUHtZli"
       },
       "artists": [

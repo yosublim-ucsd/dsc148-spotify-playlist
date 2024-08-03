@@ -2,7 +2,7 @@
 
 ### [This Is Bob Dylan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bqAta)
 
-> This is Bob Dylan\. The essential tracks, all in one playlist.
+> This is Bob Dylan\. Todos os maiores hits em uma só playlist.
 
 111 songs - 8 hr 2 min
 
@@ -36,7 +36,7 @@
 | [From a Buick 6](https://open.spotify.com/track/6txGFpco4cfgG1sA1MxLCp) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 3:15 | 2022-09-24 | 2022-10-13 |
 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 | 2022-09-24 |  |
 | [Going, Going, Gone \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Complete Budokan 1978 \(Live\)](https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni) | 4:03 | 2023-12-13 | 2024-01-22 |
-| [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 | 2022-09-29 |  |
+| [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 | 2022-09-29 | 2024-08-03 |
 | [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 5:24 | 2022-10-16 |  |
 | [Highway 61 Revisited](https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 3:25 | 2024-06-04 | 2024-07-21 |
 | [House of the Risin' Sun](https://open.spotify.com/track/647lCwgfjMjzeZVEblEq09) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Music Legends Bob Dylan : The Poet's Folk Hits](https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc) | 5:09 | 2024-04-27 | 2024-05-27 |
@@ -62,7 +62,7 @@
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 | 2022-09-24 |  |
 | [Lay, Lady, Lay](https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:17 | 2022-09-24 |  |
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2022-09-24 |  |
-| [Love Minus Zero](https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:51 | 2022-11-06 | 2024-07-23 |
+| [Love Minus Zero](https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:51 | 2022-11-06 |  |
 | [Love Sick \- Version 2](https://open.spotify.com/track/2faGmidIwyUHhBafWzwocg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Love Sick \(Version 2\)](https://open.spotify.com/album/3TfZy4IYawdOfA2bNVq4Rr) | 6:46 | 2022-11-20 | 2023-02-06 |
 | [Make You Feel My Love](https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Time Out Of Mind](https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt) | 3:31 | 2022-09-24 |  |
 | [Man Gave Names to All the Animals](https://open.spotify.com/track/5mGq3cybgQDZgTEbu9ldV9) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 4:27 | 2023-01-03 | 2024-06-18 |

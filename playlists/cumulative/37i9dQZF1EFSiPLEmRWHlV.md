@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-120 songs - 6 hr 57 min
+123 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Are You With Me?](https://open.spotify.com/track/1EjxFbCPnKL84gXL2CGTRv) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:45 | 2024-06-13 |  |
 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 | 2024-06-13 |  |
 | [Auras](https://open.spotify.com/track/4Wvsrukadmez0ICo0C5mVX) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Auras \(Club Mix\)](https://open.spotify.com/album/13wDgIRCykM0nPAu4KgT88) | 4:20 | 2024-06-13 |  |
+| [Back Around](https://open.spotify.com/track/3m7qHRUPOWazct8oCarycj) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/6OYYBT80KKtInCsTQEDN5c) | 2:36 | 2024-08-02 |  |
 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/2nuQAULY22Sm8s4LsALj84) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:08 | 2024-06-13 |  |
 | [Black Light](https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj) | [SJAY Music](https://open.spotify.com/artist/3EwtOLCqfnvcF2CY9b64gN), [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Black Light](https://open.spotify.com/album/6RL4nOMfiTDBjhzRnpiMas) | 2:55 | 2024-06-13 |  |
 | [Call Out](https://open.spotify.com/track/3nONMKE40ClWSyT7zMqxdl) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Call Out](https://open.spotify.com/album/5MvloWk6nlyJ53zMcwLijk) | 4:10 | 2024-06-13 |  |
@@ -92,6 +93,7 @@
 | [Pull Up](https://open.spotify.com/track/14ypcMSqXvuiGFcaMrGreK) | [DJ Hanzel](https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [anti everything](https://open.spotify.com/album/2VhtWe9LsmM3Ckhdpj1Tqu) | 2:40 | 2024-06-13 |  |
 | [Ready For My Love \(feat\. Kudu Blue\)](https://open.spotify.com/track/2qfKlNXwBtGGzUuJBGZYVF) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ready For My Love \(feat\. Kudu Blue\)](https://open.spotify.com/album/2M6A1kotD0LIMOokRXJF5J) | 2:23 | 2024-06-13 |  |
 | [Rely On Me](https://open.spotify.com/track/5TRKlUDbL1cASdoB2YEqcM) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 2:54 | 2024-06-13 |  |
+| [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 | 2024-08-02 |  |
 | [Right Direction](https://open.spotify.com/track/0thgGzOsrXtd4LvmbvOyx4) | [Gok Wan](https://open.spotify.com/artist/6QZpNKFFfeDnT0mC2yxszE) | [Right Direction](https://open.spotify.com/album/0SjCHCGfMup38P8YhMQPOS) | 3:34 | 2024-06-13 |  |
 | [Romeo](https://open.spotify.com/track/5sRjSBt7feBd03mXz4xatE) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ) | [Romeo](https://open.spotify.com/album/60e37EefKU4IwwgjZgjB0M) | 2:28 | 2024-06-13 |  |
 | [Room for Love](https://open.spotify.com/track/7fzNR6GEyrK9TYDfl7bvAl) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 4:08 | 2024-06-13 |  |
@@ -113,7 +115,8 @@
 | [Sugar Lemz](https://open.spotify.com/track/2Ns9uTsZgJO1zSWqsdnCQs) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Shaded](https://open.spotify.com/album/606voFlzDUI4Ozt1VUqACG) | 3:26 | 2024-06-13 |  |
 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 | 2024-06-13 |  |
 | [Surrender \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7ungYgCb89FcPwKE3tr4fc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [More Than You'll Ever Know / Surrender \(feat\. Clementine Douglas\)](https://open.spotify.com/album/7pd9eEy552EVVqscaYry4Z) | 4:47 | 2024-06-13 |  |
-| [Take Control](https://open.spotify.com/track/7l9b0AZg0rgkUUsoUD0TiR) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 4:58 | 2024-06-13 |  |
+| [Take Control](https://open.spotify.com/track/31733EiuBEBNhelaSW8yAI) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Take Control](https://open.spotify.com/album/56tUVhEvrYo9J3lPZzTy9v) | 4:58 | 2024-08-02 |  |
+| [Take Control](https://open.spotify.com/track/7l9b0AZg0rgkUUsoUD0TiR) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 4:58 | 2024-06-13 | 2024-08-03 |
 | [Take It Easy](https://open.spotify.com/track/7tcHhUpBMuIqToolN3ZPD3) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Take It Easy](https://open.spotify.com/album/43bkp1b2lPlULq9vpfXNvu) | 2:20 | 2024-06-13 |  |
 | [Take My Chance](https://open.spotify.com/track/2tsi5AlhJ166vmYdj741jX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/4r0902mKJfgNkLjKBmRWn0) | 3:18 | 2024-06-13 |  |
 | [Tell Me Where](https://open.spotify.com/track/338rDlKC6cSQ1hT3scDyrK) | [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [Puzzles](https://open.spotify.com/album/2tRCZOp6egFlp7ZINBNuaW) | 3:55 | 2024-06-13 |  |

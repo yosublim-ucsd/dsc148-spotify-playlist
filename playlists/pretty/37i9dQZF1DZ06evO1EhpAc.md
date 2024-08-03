@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 ### [This Is Yaeji](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1EhpAc)
 
-> This is Yaeji\. The essential tracks, all in one playlist.
+> This Is Yaeji\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,423 likes - 31 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,426 likes - 32 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 27 | [SPELL 주문](https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:06 |
 | 28 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 |
 | 29 | [Drink Redux](https://open.spotify.com/track/4sX1Kyk2p8tS7PffqH6qjw) | [DJ OG Uncle Skip](https://open.spotify.com/artist/3BbyKFr0ezUecGOTFkaEUL), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EAST Vs\. WEST](https://open.spotify.com/album/68wu3CBa3CvLooOkAahxbV) | 3:46 |
-| 30 | [WHEN I GROW UP](https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:42 |
-| 31 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 |
+| 30 | [Swim Me](https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5) | [Ellie Herring](https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [What a Joy](https://open.spotify.com/album/66awLlAFni3514drN79wdh) | 3:28 |
+| 31 | [WHEN I GROW UP](https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:42 |
+| 32 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 |
 
-Snapshot ID: `Zql+gAAAAADIDc/ezH2VrFSw4dQvs1bM`
+Snapshot ID: `ZqrQAAAAAAAiNbo77eSMo4CLLANN4JPW`

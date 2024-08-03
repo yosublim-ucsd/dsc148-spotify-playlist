@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 711767,
+  "num_followers": 712010,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Live Like You Were Dying",
-        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "Live Like You Were Dying",
-      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 230600,
       "name": "Blue Ain't Your Color",
       "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Live Like You Were Dying",
+        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "Live Like You Were Dying",
+      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+      "duration_ms": 323040,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 323040,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Just To See You Smile",
-      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Pure Country",
         "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 199413,
       "name": "Ain't Nothing 'Bout You",
       "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "No Holdin' Back",
-        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "It's Just a Matter of Time",
-      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Behind Closed Doors (Expanded Edition)",
         "url": "https://open.spotify.com/album/79s7QjTPGEFwbpQsMhAYGw"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 174826,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "No Holdin' Back",
+        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "It's Just a Matter of Time",
+      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
     },
     {
       "added_at": "2024-06-13 21:28:36",

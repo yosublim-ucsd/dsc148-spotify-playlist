@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Halsey",
+  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Charlie xcx, Billie Eillish",
   "name": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c Inner Inter",
   "tracks": [
     {
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
+    },
+    {
+      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
       },
@@ -208,6 +226,28 @@
       "duration_ms": 203343,
       "name": "Dead Man",
       "url": "https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ"
+    },
+    {
+      "album": {
+        "name": "Dirty (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173361,
+      "name": "Dirty (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
     },
     {
       "album": {
@@ -453,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Grieving",
+        "url": "https://open.spotify.com/album/4C3JSLCk8UVhA1kUtjdU2k"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259466,
+      "name": "Grieving",
+      "url": "https://open.spotify.com/track/6g35sGpaj86cez2KwB4BNn"
+    },
+    {
+      "album": {
         "name": "Ground",
         "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
       },
@@ -464,10 +522,32 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182093,
       "name": "Ground",
       "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
+    },
+    {
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
     },
     {
       "album": {
@@ -508,10 +588,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 162051,
       "name": "Healing (Shattered Heart)",
       "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
+    },
+    {
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
       "album": {
@@ -530,7 +628,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 151392,
       "name": "Hello World - Song of the Olympics\u2122",
       "url": "https://open.spotify.com/track/5Y9HJkaDmUlIfgNZzUYd5x"
@@ -588,7 +686,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161976,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
@@ -636,6 +734,24 @@
       "duration_ms": 229999,
       "name": "In The Night (feat. Jorja Smith & Amaarae)",
       "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
+    },
+    {
+      "album": {
+        "name": "Infatuated",
+        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226714,
+      "name": "Infatuated",
+      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
     },
     {
       "album": {
@@ -769,6 +885,24 @@
     },
     {
       "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -870,7 +1004,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 194000,
       "name": "Nothing To Miss",
       "url": "https://open.spotify.com/track/0TvFEvuJJtOgCldWnvdT3p"
@@ -892,7 +1026,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161119,
       "name": "Oh Shhh...(with Travis Scott)",
       "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
@@ -958,7 +1092,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
@@ -1030,7 +1164,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196852,
       "name": "Ruined Me",
       "url": "https://open.spotify.com/track/6EPxltlaBzRzoe2tQtsyvb"
@@ -1255,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
+    },
+    {
+      "album": {
         "name": "Tobey (feat. Big Sean and BabyTron)",
         "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
       },
@@ -1350,7 +1502,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 231173,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
@@ -1492,6 +1644,24 @@
       "duration_ms": 214994,
       "name": "yes, and? (with Mariah Carey) - Remix",
       "url": "https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361"
+    },
+    {
+      "album": {
+        "name": "Securely Insecure",
+        "url": "https://open.spotify.com/album/1OetRpfHW0L7PYoo4UBnDb"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232991,
+      "name": "You Don't Remember Me",
+      "url": "https://open.spotify.com/track/4XjU4hwBk4KOajDgDQX4yq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTj5RrzpGbto"

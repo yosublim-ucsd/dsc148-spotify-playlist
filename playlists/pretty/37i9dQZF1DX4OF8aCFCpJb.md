@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,480 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,484 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 5 | [You Are My Angel](https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:20 |
 | 6 | [Jag hade en gång en båt](https://open.spotify.com/track/5szr4bzNGqGkLeYgSMMHso) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S) | [Jag hade en gång en båt](https://open.spotify.com/album/7bCBdPT2hSbaWhIBqyYgqd) | 3:51 |
 | 7 | [När solen går ner \- Kap10 Reggae Remix](https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [När solen går ner](https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h) | 3:41 |
-| 8 | [Miss Fatty](https://open.spotify.com/track/3GzN0uzkz3OzVaEsG4my2n) | [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [From A Far \(2007 Edition\)](https://open.spotify.com/album/3OHHIT1fjnhOigxPE74x9z) | 3:57 |
+| 8 | [Tribulations](https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Labababa](https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB) | 4:33 |
 | 9 | [Polisen slår](https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7) | [Ras Cricket](https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH) | [Min Tid](https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv) | 3:46 |
-| 10 | [Tribulations](https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Labababa](https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB) | 4:33 |
+| 10 | [Miss Fatty](https://open.spotify.com/track/3GzN0uzkz3OzVaEsG4my2n) | [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [From A Far \(2007 Edition\)](https://open.spotify.com/album/3OHHIT1fjnhOigxPE74x9z) | 3:57 |
 | 11 | [Likadant](https://open.spotify.com/track/7ghbl9klH7MAjvofXyuGkb) | [Rhymes & Riddim](https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3) | [Revolution](https://open.spotify.com/album/6dbPOlI0wAWA80pJRpmxyo) | 2:46 |
 | 12 | [Kärlek](https://open.spotify.com/track/3ZnZPPqpDO3kR8aY3zBtaj) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Kärlek](https://open.spotify.com/album/3wjpMLo7H6dN3NAG3cbZVZ) | 3:37 |
 | 13 | [Ugly Girls](https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:35 |

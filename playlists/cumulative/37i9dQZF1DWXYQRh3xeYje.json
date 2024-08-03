@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9 / Gift",
+        "url": "https://open.spotify.com/album/6kC9BUz7ObZ0PR0IRR1BpC"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242993,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/76gAyGyyhDuHh2r4TdHKaP"
+    },
+    {
+      "album": {
         "name": "\u88f8\u306e\u52c7\u8005",
         "url": "https://open.spotify.com/album/1tLmGtOgNhMFgPR5bQpigb"
       },

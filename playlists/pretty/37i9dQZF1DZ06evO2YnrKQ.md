@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,841 likes - 39 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,848 likes - 39 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 38 | [Jubella \- Live](https://open.spotify.com/track/2DeLdi7dH3cb57BMXe8GiS) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [\(LIVE\) \- Born & Raised 2022, St Catharines ON](https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip) | 3:04 |
 | 39 | [Thrones](https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis \(Bonus Tracks\)](https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT) | 4:15 |
 
-Snapshot ID: `Zql+gAAAAACGtKC50T2NdVH9kgfJKjjQ`
+Snapshot ID: `ZqrQAAAAAACuga9ms68c95myqBVFSDBP`

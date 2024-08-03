@@ -3991,6 +3991,24 @@
     },
     {
       "album": {
+        "name": "Follow Back",
+        "url": "https://open.spotify.com/album/0RqjqgfSxS7hA9654aPLk0"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124803,
+      "name": "Follow Back",
+      "url": "https://open.spotify.com/track/2xPj7wIXgUmBcvrdVTPDax"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/4hafkA50kP0LGQ95eRejCE"
       },

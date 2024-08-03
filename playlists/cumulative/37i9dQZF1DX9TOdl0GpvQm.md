@@ -4,7 +4,7 @@
 
 > Walk the threshold into the netherworld...
 
-253 songs - 18 hr 37 min
+254 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Theme Number Sixty Eight](https://open.spotify.com/track/4Ug4rbQ666U9pputB0E3kV) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Black Mill Tapes \(10th Anniversary Box\)](https://open.spotify.com/album/2f66SoAOTGtwKBXjOhF57z) | 1:50 | 2021-10-27 | 2022-07-29 |
 | [Theme The Antwerp Killer](https://open.spotify.com/track/2etGfO1DiRu4miFJiiwhMm) | [Eric Feremans](https://open.spotify.com/artist/1H8r19XbTTVokkSkSzdU5n) | [The Antwerp Killer](https://open.spotify.com/album/2ySpwANL8Kge95gRWjXmAN) | 11:26 | 2021-10-27 | 2022-07-29 |
 | [Thistledown](https://open.spotify.com/track/3g7cZxCC45GPg0Zq43sBDl) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Across The Meridian](https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg) | 4:15 | 2021-10-27 |  |
-| [Tinnitus Titles \(Tinnitus OST\)](https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK) | [David Boulter](https://open.spotify.com/artist/5VUBJKfJCbFqezm6lHrLHp) | [Tinnitus](https://open.spotify.com/album/1Ql9iOzse7nbLemXldLd1J) | 2:02 | 2023-07-18 |  |
+| [Tinnitus Titles \(Tinnitus OST\)](https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK) | [David Boulter](https://open.spotify.com/artist/5VUBJKfJCbFqezm6lHrLHp) | [Tinnitus](https://open.spotify.com/album/1Ql9iOzse7nbLemXldLd1J) | 2:02 | 2023-07-18 | 2024-08-03 |
 | [Titoli](https://open.spotify.com/track/2Rvjpyr0IV4LlJ2O7o6jVh) | [Listening Center](https://open.spotify.com/artist/0aRECIgfOv83734a9YRnki) | [Study Series 09: "Projections"](https://open.spotify.com/album/2up3mfykEEM2l8IKMi60vb) | 4:31 | 2021-10-27 |  |
 | [Tloque Nahuaque](https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu), [Orquesta Invisible de Lagos de Moreno](https://open.spotify.com/artist/4uCE0x1AQV3x4VGBV18WRW) | [Tloque Nahuaque](https://open.spotify.com/album/4Jb0KPq6u9VcGkGPuaio7N) | 6:31 | 2022-05-24 |  |
 | [Toast, Marmite, & Crack](https://open.spotify.com/track/4DHYglJXgyw4sDEh0whI3J) | [Hologram Teen](https://open.spotify.com/artist/1u5weRHG0G3kj2VLqO2DUA) | [Pizza Conspiracy](https://open.spotify.com/album/47B5MFZpfzFXEHEkmawURz) | 2:57 | 2021-10-27 | 2022-07-29 |
@@ -261,5 +261,6 @@
 | [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 | 2021-10-27 |  |
 | [You Ain't Takin' My Man](https://open.spotify.com/track/0zAQd8HPcb720jtBnU4YMF) | [SPARKLE DIVISION](https://open.spotify.com/artist/2qJTi04qBpG3C0RR62l1Du) | [To Feel Embraced](https://open.spotify.com/album/6pEg6rRDGKqsrQjCiY5AUc) | 4:14 | 2021-10-27 | 2024-04-19 |
 | [You Ain't Takin' My Man](https://open.spotify.com/track/1D0yQA4n1yF5P6YGQHEnmw) | [SPARKLE DIVISION](https://open.spotify.com/artist/2qJTi04qBpG3C0RR62l1Du) | [To Feel Embraced](https://open.spotify.com/album/3mAE83dKTwjGmGaK2wP3tu) | 4:14 | 2021-10-27 | 2022-07-29 |
+| [Young Archimedes \(feat\. BBC National Orchestra Of Wales\)](https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc) | [Will Gregory Moog Ensemble](https://open.spotify.com/artist/6DTcZj1lWLJB690Y65Aa9l), [Will Gregory](https://open.spotify.com/artist/32KmawYmxJ5tcL7Qkbegff), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [Heat Ray: The Archimedes Project](https://open.spotify.com/album/26jUvZEETVKfAZQe7XwygQ) | 3:39 | 2024-08-02 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

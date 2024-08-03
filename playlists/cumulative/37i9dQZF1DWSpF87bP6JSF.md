@@ -2,7 +2,7 @@
 
 ### [La Lista Pop](https://open.spotify.com/playlist/37i9dQZF1DWSpF87bP6JSF)
 
-> Los éxitos del pop latino con KAROL G.
+> Los éxitos del pop latino con Kapo.
 
 461 songs - 23 hr 48 min
 

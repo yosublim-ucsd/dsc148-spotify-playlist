@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Knocked Loose on top of today's best Metal playlist.",
+  "description": "Opeth on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 227335,
       "name": "A.F. Day",
       "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 240539,
       "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
       "url": "https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 190200,
       "name": "Barely Breathing (feat. Against The Current)",
       "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
@@ -3419,6 +3419,28 @@
     },
     {
       "album": {
+        "name": "DON'T KILL ME",
+        "url": "https://open.spotify.com/album/2lZ4vKKM3D9alxwFMcvKvS"
+      },
+      "artists": [
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        },
+        {
+          "name": "Of Virtue",
+          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "DON'T KILL ME",
+      "url": "https://open.spotify.com/track/6JDsYqbQFdHb7xK0L5kvLG"
+    },
+    {
+      "album": {
         "name": "Don't Pray For Me",
         "url": "https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf"
       },
@@ -5396,6 +5418,24 @@
     {
       "album": {
         "name": "Hostage",
+        "url": "https://open.spotify.com/album/31ABP3oxNXYvlIGdnzxf36"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279506,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/7qHbY5PvQVGYRiQKE2Qojx"
+    },
+    {
+      "album": {
+        "name": "Hostage",
         "url": "https://open.spotify.com/album/4nElAmQfKidEz20r1DFuRT"
       },
       "artists": [
@@ -5498,7 +5538,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 210600,
       "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
       "url": "https://open.spotify.com/track/4ddvYUYsefYyjGoajARAJm"
@@ -5852,7 +5892,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 82105,
       "name": "Imposing Will",
       "url": "https://open.spotify.com/track/1DctDqwwzM62QrJgktLtHK"
@@ -6256,6 +6296,24 @@
       "duration_ms": 204676,
       "name": "Just Pretend",
       "url": "https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2"
+    },
+    {
+      "album": {
+        "name": "Justice Will Shine On",
+        "url": "https://open.spotify.com/album/7JlX2Ju7lEiIzjXK8ew72O"
+      },
+      "artists": [
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229778,
+      "name": "Justice Will Shine On",
+      "url": "https://open.spotify.com/track/3DwjMFo9ph8ItBBU75owDY"
     },
     {
       "album": {
@@ -11776,7 +11834,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 167264,
       "name": "This Is The Way (feat. DMX)",
       "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
@@ -13558,6 +13616,24 @@
       "duration_ms": 218520,
       "name": "ZOMBIFIED",
       "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
+    },
+    {
+      "album": {
+        "name": "\u00a71 (Radio Edit)",
+        "url": "https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286173,
+      "name": "\u00a71 - Radio Edit",
+      "url": "https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc"
     },
     {
       "album": {

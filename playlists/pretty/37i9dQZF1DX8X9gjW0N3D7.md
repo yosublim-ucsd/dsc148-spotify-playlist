@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: William Cloutier
+> De la musique québécoise pour tous les goûts\. Photo: Billie du Page
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,021 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,023 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Notre p'tit refrain](https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Notre p'tit refrain](https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw) | 3:29 |
-| 2 | [Fake Friends](https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Fake Friends](https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO) | 3:00 |
-| 3 | [Ta bouche](https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [Ta bouche](https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE) | 2:43 |
-| 4 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 |
-| 5 | [LVL UP](https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [LVL UP](https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB) | 3:17 |
-| 6 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 |
-| 7 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 |
-| 8 | [Un peu trop](https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:34 |
-| 9 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 |
-| 10 | [Deux jours et deux nuits](https://open.spotify.com/track/35yR1gITsGHb2BgbJO84b8) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Deux jours et deux nuits](https://open.spotify.com/album/7wrN8Vv62SbkI13lqllXos) | 2:36 |
-| 11 | [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 |
-| 12 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 |
-| 13 | [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 |
-| 14 | [Se laisser aller](https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Se laisser aller](https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX) | 3:18 |
+| 1 | [Fake Friends](https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Fake Friends](https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO) | 3:00 |
+| 2 | [Notre p'tit refrain](https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Notre p'tit refrain](https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw) | 3:29 |
+| 3 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 |
+| 4 | [LVL UP](https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [LVL UP](https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB) | 3:17 |
+| 5 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 |
+| 6 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 |
+| 7 | [Un peu trop](https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:34 |
+| 8 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 |
+| 9 | [Ta bouche](https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [Ta bouche](https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE) | 2:43 |
+| 10 | [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 |
+| 11 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 |
+| 12 | [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 |
+| 13 | [Se laisser aller](https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Se laisser aller](https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX) | 3:18 |
+| 14 | [Deux jours et deux nuits](https://open.spotify.com/track/35yR1gITsGHb2BgbJO84b8) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Deux jours et deux nuits](https://open.spotify.com/album/7wrN8Vv62SbkI13lqllXos) | 2:36 |
 | 15 | [Une bouteille à la mer](https://open.spotify.com/track/5RAOn9UuZ1mHdh8eZBtnIh) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Submergé](https://open.spotify.com/album/1VFQdOkNGpV8kYZ9xESRv4) | 2:22 |
 | 16 | [Danser la nuit](https://open.spotify.com/track/1VID3HWSIYV3y5v87ESX1K) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Danser la nuit](https://open.spotify.com/album/2Isdr3D3UD0Bj97Z6QcLHB) | 2:12 |
 | 17 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [LAISSE LES BONS TEMPS ROULER](https://open.spotify.com/track/21lHmyEpEhciv3hvqRLLY3) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [El GRANDE TORPEDO](https://open.spotify.com/album/0GPARm2KCkGhIhNPQFnKeQ) | 3:45 |
 | 75 | [Comme Avant](https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/102GkrErk0tQ4aqUOayWtg) | 2:26 |
 
-Snapshot ID: `ZqMfQAAAAADxVpivrF1i+Yck+sl3U/eQ`
+Snapshot ID: `ZqxZwAAAAAD56Vk5fBTHRiNw2Lxv+KhB`

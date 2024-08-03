@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,637 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,652 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 47 | [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 |
 | 48 | [ツキミソウ](https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [開幕宣言](https://open.spotify.com/album/2l0vCKtHcqHyticG9vDDCg) | 5:12 |
 | 49 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
-| 50 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
-| 51 | [花火](https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [桜の木の下](https://open.spotify.com/album/7v9ufrlhEHFc8jdAbdZObo) | 4:38 |
+| 50 | [花火](https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [桜の木の下](https://open.spotify.com/album/7v9ufrlhEHFc8jdAbdZObo) | 4:38 |
+| 51 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 52 | [青と夏](https://open.spotify.com/track/0a3587n25Xhw098UeEbeJq) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [青と夏](https://open.spotify.com/album/3U7I6bqhI8IsRvPLLaVN6v) | 4:30 |
 | 53 | [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:09 |
 | 54 | [プロローグ](https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プロローグ](https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA) | 5:02 |

@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-233 songs - 12 hr 38 min
+234 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Mannat](https://open.spotify.com/track/26elzgFl8tvajnDfeoY1YF) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:39 | 2024-02-22 |  |
 | [Manzoor](https://open.spotify.com/track/3BhhplcKXDnZ8ZI5CmKUhp) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Manzoor](https://open.spotify.com/album/5UdzrqE7eV4Npo7E4tIQgw) | 2:50 | 2021-11-11 | 2022-07-19 |
 | [Mehmaan](https://open.spotify.com/track/0Rf3Vv9vgZrMgJd6egLYrQ) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24), [Noorima Rehan](https://open.spotify.com/artist/29kMoXQCAKBsVOM9HeO5KY), [Nizam Torwali](https://open.spotify.com/artist/0su8mE6eq8ds8JdPipTfBx) | [Mehmaan](https://open.spotify.com/album/6J7sz4kdwoWvK1kfxjOqce) | 6:13 | 2024-07-15 |  |
+| [Mehrbaan](https://open.spotify.com/track/2iBaJVyzkRj1JipRiCqzUL) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Mehrbaan](https://open.spotify.com/album/41Icl2KLg9TmtJFGlzCtXg) | 2:32 | 2024-08-02 |  |
 | [Mere Paas](https://open.spotify.com/track/2kqRMwtyPRzGfkSrW84uC1) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Mere Paas](https://open.spotify.com/album/7aiDLxBfJ7ct2oEdZLrKdC) | 3:18 | 2021-11-11 | 2022-07-19 |
 | [Mere Saath](https://open.spotify.com/track/5ylvA51qDXIqTsqAsgfGPX) | [Bhai](https://open.spotify.com/artist/2NnN8kaWWfvuL35FmpNKtR) | [Mere Saath](https://open.spotify.com/album/7xN27PZtjRyAyRy4Il2SOW) | 2:16 | 2021-11-11 | 2022-07-19 |
 | [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 | 2024-02-22 |  |

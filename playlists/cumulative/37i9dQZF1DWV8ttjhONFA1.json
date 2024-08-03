@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: planta",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Babeblade",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 219360,
       "name": "AIRE",
       "url": "https://open.spotify.com/track/3tdbrXujlOuWK62lhxBhVV"
+    },
+    {
+      "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3WqltOe3n18x6UGOeCqynI"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Falsete",
+          "url": "https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252021,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/5r8tolaXEEWIRyabeqDZZs"
     },
     {
       "album": {
@@ -596,6 +614,24 @@
       "duration_ms": 203826,
       "name": "Cabildo y Juramento",
       "url": "https://open.spotify.com/track/0fQbLONJQqFSePMz1I4UNT"
+    },
+    {
+      "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/5p9ZmyEOHBMRG0d2MsBeB5"
+      },
+      "artists": [
+        {
+          "name": "Ele Mariani",
+          "url": "https://open.spotify.com/artist/4E4wkESgUKE5VTB9zo308S"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/1UjqPxX0ctIYOX5tlKSKGa"
     },
     {
       "album": {
@@ -1420,7 +1456,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 228400,
       "name": "EL APAG\u00d3N",
       "url": "https://open.spotify.com/track/1xLIUx6fhZxWllAnu6vYM1"
@@ -1817,6 +1853,28 @@
     },
     {
       "album": {
+        "name": "Festejemos",
+        "url": "https://open.spotify.com/album/2BxTTdZC2ir2o3Nrg0tnSr"
+      },
+      "artists": [
+        {
+          "name": "Color Sirena",
+          "url": "https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk"
+        },
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187650,
+      "name": "Festejemos",
+      "url": "https://open.spotify.com/track/4toTjDlXShrN3iMrntu0QZ"
+    },
+    {
+      "album": {
         "name": "flashi\u00e9",
         "url": "https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP"
       },
@@ -2020,7 +2078,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 192755,
       "name": "la barrera",
       "url": "https://open.spotify.com/track/7MTx6v0rWL7SNGmUgZGXcD"
@@ -2190,7 +2248,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 128802,
       "name": "Lago Eterno",
       "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
@@ -2345,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Lpm",
+        "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
+      },
+      "artists": [
+        {
+          "name": "Babeblade",
+          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219881,
+      "name": "Lpm",
+      "url": "https://open.spotify.com/track/0rtzPxprZcyDhDz9SP3N25"
+    },
+    {
+      "album": {
         "name": "Como Bailan los Dem\u00e1s (Lado B)",
         "url": "https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk"
       },
@@ -2480,6 +2556,28 @@
       "duration_ms": 215866,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
+    },
+    {
+      "album": {
+        "name": "me hace bien",
+        "url": "https://open.spotify.com/album/5d2U9nTionMO2EQgJDVnIF"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Ale Sergi",
+          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "me hace bien",
+      "url": "https://open.spotify.com/track/3YvPDFVcqKRYI0orNE6zIK"
     },
     {
       "album": {
@@ -3634,7 +3732,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 225600,
       "name": "Soy d\u00e9bil Sr.",
       "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
@@ -3982,7 +4080,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 145085,
       "name": "TRON",
       "url": "https://open.spotify.com/track/2bUGKZBkgUnhSy3BOgsVSV"

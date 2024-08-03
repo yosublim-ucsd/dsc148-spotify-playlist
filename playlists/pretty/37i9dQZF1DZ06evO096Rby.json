@@ -1,12 +1,12 @@
 {
   "description": "This Is Edgardo Nu\u00f1ez. Los temas esenciales, todos en una lista.",
-  "num_followers": 34159,
+  "num_followers": 34187,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAACxKWDa1UxoNRisK3GIglwC",
+  "snapshot_id": "ZqrQAAAAAAAR1h6C/NOUZFVnJvAazHSw",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ando Solo",
-        "url": "https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0"
+        "name": "El Humo De Mi Gallo",
+        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         },
         {
-          "name": "Adrian Chaparro",
-          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 245738,
-      "name": "Los 5 Pesos",
-      "url": "https://open.spotify.com/track/2rv7odMbWI4Hn9h3COlMUA"
+      "duration_ms": 144080,
+      "name": "El Humo De Mi Gallo",
+      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
     },
     {
       "added_at": null,
@@ -539,22 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Humo De Mi Gallo",
-        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
         }
       ],
-      "duration_ms": 144080,
-      "name": "El Humo De Mi Gallo",
-      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+      "duration_ms": 245738,
+      "name": "Los 5 Pesos",
+      "url": "https://open.spotify.com/track/2rv7odMbWI4Hn9h3COlMUA"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Chavo F\u00e9lix",
+      "url": "https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tolin Infante",
         "url": "https://open.spotify.com/album/5ljf8NoVanAOnvAdIXGDg3"
       },
@@ -683,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailemos Bebe",
-        "url": "https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 157589,
-      "name": "No Me Trates De Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/5tI3iJOrGyxdvcVbpCcxy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
@@ -715,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
+        "name": "Bailemos Bebe",
+        "url": "https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG"
       },
       "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Chavo F\u00e9lix",
-      "url": "https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W"
+      "duration_ms": 157589,
+      "name": "No Me Trates De Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/5tI3iJOrGyxdvcVbpCcxy5"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailemos Bebe",
-        "url": "https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG"
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 293412,
-      "name": "Micaela / La Mar\u00eda",
-      "url": "https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig"
+      "duration_ms": 162197,
+      "name": "El Kiri",
+      "url": "https://open.spotify.com/track/0HjBnIOpeszbXDQRn37ftK"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
       "duration_ms": 168224,
       "name": "Golpe De Suerte",
       "url": "https://open.spotify.com/track/00fZZHPY9KBft8kB2nz8Xe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailemos Bebe",
+        "url": "https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 293412,
+      "name": "Micaela / La Mar\u00eda",
+      "url": "https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 162197,
-      "name": "El Kiri",
-      "url": "https://open.spotify.com/track/0HjBnIOpeszbXDQRn37ftK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602 Vol.3 (En Vivo)",
         "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
       },
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 142357,
-      "name": "En Los Puritos Huesos - En Vivo",
-      "url": "https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL"
+      "duration_ms": 126591,
+      "name": "Andamos Enclicados - En Vivo",
+      "url": "https://open.spotify.com/track/2W7tzc89J9aWW99jHj4UwE"
     },
     {
       "added_at": null,
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 126591,
-      "name": "Andamos Enclicados - En Vivo",
-      "url": "https://open.spotify.com/track/2W7tzc89J9aWW99jHj4UwE"
+      "duration_ms": 142357,
+      "name": "En Los Puritos Huesos - En Vivo",
+      "url": "https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Cover: A$AP Rocky",
-  "num_followers": 209944,
+  "num_followers": 209931,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
-    },
-    {
-      "added_at": "2024-08-01 22:01:00",
-      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 156444,
       "name": "Wanna Be (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -771,18 +771,26 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+        "name": "Cap\u00edtulo 1",
+        "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "K y B",
+          "url": "https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f"
         }
       ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+      "duration_ms": 211456,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -811,26 +819,18 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "Cap\u00edtulo 1",
-        "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
       },
       "artists": [
         {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "K y B",
-          "url": "https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 211456,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 225132,
-      "name": "U My Everything (feat. Drake)",
-      "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
-    },
-    {
-      "added_at": "2024-08-01 22:01:00",
-      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
       },
@@ -935,6 +915,22 @@
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "gen z luv",
+        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "gen z luv",
+      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "gen z luv",
-        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 153693,
-      "name": "gen z luv",
-      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
+      "duration_ms": 225132,
+      "name": "U My Everything (feat. Drake)",
+      "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "FUK SUMN",
-      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
-    },
-    {
-      "added_at": "2024-08-01 22:01:00",
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -1211,6 +1187,30 @@
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 191711,
-      "name": "Where Them Girls At",
-      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
-    },
-    {
-      "added_at": "2024-08-01 22:01:00",
-      "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "Where Them Girls At",
+      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
+        "name": "BOA",
+        "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 154732,
+      "name": "BOA",
+      "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 156645,
       "name": "Survivor\u2019s Remorse",
       "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
-    },
-    {
-      "added_at": "2024-08-01 22:01:00",
-      "album": {
-        "name": "BOA",
-        "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 154732,
-      "name": "BOA",
-      "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
-    },
-    {
-      "added_at": "2024-08-01 22:01:00",
-      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 127022,
-      "name": "911",
-      "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
-    },
-    {
-      "added_at": "2024-08-01 22:01:00",
-      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 127022,
+      "name": "911",
+      "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -2139,6 +2139,26 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
+        "name": "We Won",
+        "url": "https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "duration_ms": 166314,
+      "name": "We Won",
+      "url": "https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
       },
@@ -2179,46 +2199,6 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "We Won",
-        "url": "https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        }
-      ],
-      "duration_ms": 166314,
-      "name": "We Won",
-      "url": "https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief"
-    },
-    {
-      "added_at": "2024-08-01 22:01:00",
-      "album": {
-        "name": "JEALOUSY (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "JEALOUSY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
-    },
-    {
-      "added_at": "2024-08-01 22:01:00",
-      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -2243,18 +2223,22 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "Cannelloni",
-        "url": "https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO"
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
       "artists": [
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 198146,
-      "name": "Cannelloni",
-      "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "added_at": "2024-08-01 22:01:00",
@@ -2271,6 +2255,22 @@
       "duration_ms": 166581,
       "name": "Sunday Service",
       "url": "https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "Cannelloni",
+        "url": "https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Cannelloni",
+      "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
     },
     {
       "added_at": "2024-08-01 22:01:00",

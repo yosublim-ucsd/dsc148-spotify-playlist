@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Clairo
 
-987 songs - 2 day 3 hr 16 min
+989 songs - 2 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Bends](https://open.spotify.com/track/31hlhFQVLQS4VADMTPl59i) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Bends](https://open.spotify.com/album/3LIYf4uhGMwW4ccnXLWPpQ) | 2:35 | 2020-06-29 | 2022-07-29 |
 | [Bends](https://open.spotify.com/track/7neXef29cogkuASB5rTafo) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Cut Out](https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB) | 2:35 | 2021-02-27 | 2022-12-15 |
 | [BERNADETTE](https://open.spotify.com/track/1Vr58OrTTkru2xyFEwEf6z) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [BERNADETTE](https://open.spotify.com/album/753cAFVuIEKz16wM8K7B38) | 2:24 | 2021-03-19 | 2022-04-29 |
+| [best day ever](https://open.spotify.com/track/1dDxFfGse3z7OuWSM6ApL8) | [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [best day ever](https://open.spotify.com/album/6TMVATY5T9p1vFTrvYVvas) | 3:29 | 2024-08-02 |  |
 | [Best Friend](https://open.spotify.com/track/6YM4q2BaSNMQZgSVsMT2ar) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 2:30 | 2020-06-12 | 2021-03-21 |
 | [Best Person You Know](https://open.spotify.com/track/4lGu6pGvisz3Zvv1ThCEPd) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Best Person You Know](https://open.spotify.com/album/40f3HSi3lKHsv84Cu15xYX) | 4:21 | 2022-01-11 | 2022-07-27 |
 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-07-18 |  |
@@ -535,7 +536,7 @@
 | [Lover Is a Day](https://open.spotify.com/track/7saliZ9OxOgVZvac91pnHH) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Wannabewithu](https://open.spotify.com/album/6uOJGKQMmk2LyNeEwRewTe) | 7:36 | 2019-07-31 | 2022-04-20 |
 | [Loverboy](https://open.spotify.com/track/3eKvhQ3qNnxlZBwq8uP8fz) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [Loverboy](https://open.spotify.com/album/6lrOEu5jfjS4BpJDFeZJaQ) | 2:50 | 2021-08-27 | 2022-04-18 |
 | [Loverboy](https://open.spotify.com/track/375MmzTJHKB4cL7kEfTgKy) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy) | [Loverboy](https://open.spotify.com/album/3tZtehud2gmrnNNm9IsMOi) | 3:26 | 2019-12-23 | 2020-04-12 |
-| [lovers](https://open.spotify.com/track/0nDPiOmDMOzUBBLdrpnqmM) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [lovers](https://open.spotify.com/album/3oBBhAVngxucbdMcQhFY8k) | 3:50 | 2024-07-05 |  |
+| [lovers](https://open.spotify.com/track/0nDPiOmDMOzUBBLdrpnqmM) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [lovers](https://open.spotify.com/album/3oBBhAVngxucbdMcQhFY8k) | 3:50 | 2024-07-05 | 2024-08-03 |
 | [LoveSick](https://open.spotify.com/track/1zS5TccQwMDp5ZsEnt4FAh) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/3PDjhTtjrjMLcNXjnfykz7) | 2:26 | 2021-09-10 | 2022-12-15 |
 | [LoveSick](https://open.spotify.com/track/6MEHkS9tjO4ztPmqlXtzGr) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:26 | 2021-09-10 | 2022-04-19 |
 | [Lovetripper](https://open.spotify.com/track/0BfHjBugow6VGOvj66cFGr) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 5:09 | 2019-08-09 | 2019-08-10 |
@@ -904,6 +905,7 @@
 | [Unbothered](https://open.spotify.com/track/3PoKFnMD0zAVtQrkJ4e8XH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2B3NraIzKiBZXFTUhyxYfe) | 2:04 | 2019-07-31 | 2020-04-24 |
 | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv) | 3:23 | 2021-10-08 | 2024-04-24 |
 | [UNFAIR](https://open.spotify.com/track/35ohdMj17ie2y5I8cTWzbt) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [UNFAIR](https://open.spotify.com/album/1fYjRRgUP0hpl4jgN8avC1) | 3:51 | 2019-10-11 | 2020-04-13 |
+| [Unifying Thought](https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 1:59 | 2024-08-02 |  |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-04-29 | 2023-04-18 |
 | [Untitled](https://open.spotify.com/track/3cFG2erCQQVAejCoDiRncV) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Untitled](https://open.spotify.com/album/63ALKLsJZgpwXrBBx0G7sW) | 2:15 | 2019-07-31 | 2021-05-27 |
 | [UWU](https://open.spotify.com/track/4aTKyYeIzC0ask2ZJicjIJ) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [UWU](https://open.spotify.com/album/2y3j37VWgEukjKgmKthfG9) | 1:49 | 2021-01-12 | 2021-03-22 |
@@ -946,7 +948,7 @@
 | [What Can I Say?](https://open.spotify.com/track/46PqBgfqrVVkuQgZJaK0SD) | [Sam Woods](https://open.spotify.com/artist/0mJP3OOM9MbqWmuEjgabcV) | [What Can I Say?](https://open.spotify.com/album/2Xnt0Apm23tipW2wXx1uXc) | 2:41 | 2020-05-17 | 2021-05-27 |
 | [What Happens In Your Head?](https://open.spotify.com/track/4wzVFbvPQB9Rz24NqkoWgQ) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [What Happens In Your Head?](https://open.spotify.com/album/7wjvbNdWmNkdyYy5FSfi5O) | 3:34 | 2023-07-14 | 2024-06-01 |
 | [What Is Love? Tell Me, Is It Easy?](https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Spoonfed](https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg) | 3:50 | 2019-07-30\* | 2024-04-24 |
-| [What Should I Do?](https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [What Should I Do?](https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr) | 3:03 | 2024-01-12 |  |
+| [What Should I Do?](https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [What Should I Do?](https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr) | 3:03 | 2024-01-12 | 2024-08-03 |
 | [What U Give U Receive](https://open.spotify.com/track/5ep5oVYuJo4BJX2P8q1QbX) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [barista boy](https://open.spotify.com/album/4S6zDcqTEP5TjGudLb7eUA) | 2:05 | 2021-02-27 | 2022-04-21 |
 | [What You Do To Me](https://open.spotify.com/track/0QuQCTJL4UXkDx111mXrbL) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [What You Do To Me](https://open.spotify.com/album/3P2eHCVYVyfzYRlmG5I2qO) | 3:16 | 2021-02-27 | 2024-04-24 |
 | [What You Do To Me](https://open.spotify.com/track/755fpw1IGAFIZ0uqjMfTvc) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [Some Days](https://open.spotify.com/album/3IFCd1wLD6M7rCntUsltk2) | 4:14 | 2021-05-01 | 2022-04-19 |

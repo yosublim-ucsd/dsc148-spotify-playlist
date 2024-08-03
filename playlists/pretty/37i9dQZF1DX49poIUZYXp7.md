@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Tigirlily Gold
+> The extraordinary women making great country music today\. Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,846 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,967 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Tried A Ring On](https://open.spotify.com/track/6ouFl8UDdMc9zuzmzvmh7v) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [I Tried A Ring On](https://open.spotify.com/album/6R8KPrq6T7SpQFvJoEOlKI) | 3:31 |
-| 2 | [Things A Man Oughta Know](https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Redneck Hollywood](https://open.spotify.com/album/613QlECyZpEDa6DTgkNAJ6) | 3:26 |
-| 3 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 |
-| 4 | [Bluebird](https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:29 |
-| 5 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 |
-| 6 | [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 |
-| 7 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
-| 8 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
-| 9 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
-| 10 | [Wide Open Spaces](https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:43 |
-| 11 | [Country Boy's Dream Girl](https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Country Boy's Dream Girl](https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ) | 3:03 |
+| 1 | [paint the town blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [paint the town blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 |
+| 2 | [I Tried A Ring On](https://open.spotify.com/track/6ouFl8UDdMc9zuzmzvmh7v) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [I Tried A Ring On](https://open.spotify.com/album/6R8KPrq6T7SpQFvJoEOlKI) | 3:31 |
+| 3 | [Things A Man Oughta Know](https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Redneck Hollywood](https://open.spotify.com/album/613QlECyZpEDa6DTgkNAJ6) | 3:26 |
+| 4 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 |
+| 5 | [Bluebird](https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:29 |
+| 6 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 |
+| 7 | [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 |
+| 8 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
+| 9 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
+| 10 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
+| 11 | [Wide Open Spaces](https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:43 |
 | 12 | [One Night Standards](https://open.spotify.com/track/5JZ5lObvzCf8tGLz6PW5He) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Martha Divine](https://open.spotify.com/album/3SdwaIzeZU9eTtqU0bwrZn) | 3:10 |
 | 13 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
 | 14 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 31 | [Make It Look Easy](https://open.spotify.com/track/2g6WCOlZS7mePH81Bxxa9s) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Make It Look Easy](https://open.spotify.com/album/1ylXu63fdiBSoVrdnx6YXE) | 2:33 |
 | 32 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 |
 | 33 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
-| 34 | [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 |
-| 35 | [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 |
+| 34 | [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 |
+| 35 | [Good On You](https://open.spotify.com/track/4rgtVCZ85aJHX0MVPM6fjw) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Good On You](https://open.spotify.com/album/4FgGirHiQSaQS5BApIploW) | 3:07 |
 | 36 | [Buy My Own Drinks](https://open.spotify.com/track/3WBY2lhKzkxaG5bNscQrOG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/0BUbVHeDmGXl3lzOENF9Wc) | 3:26 |
 | 37 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
 | 38 | [The Girls](https://open.spotify.com/track/0x2GjJRg2nqYixOcdFx3c8) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:06 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 124 | [Strong Stuff](https://open.spotify.com/track/23s3bRv964KvfEvaH3AxmF) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Strong Stuff](https://open.spotify.com/album/4JQepaQFm9y7VpYzfgID8j) | 2:57 |
 | 125 | [I'm A Survivor](https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Greatest Hits Volume III \- I'm A Survivor](https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj) | 3:07 |
 
-Snapshot ID: `ZpUyOQAAAAAuEO1WV5GlJK0LW2odipwX`
+Snapshot ID: `ZqxZwAAAAAAkB9T1pW43e+EtDagczRZg`

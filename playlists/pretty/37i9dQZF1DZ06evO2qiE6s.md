@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,029 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,033 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 26 | [The Oldest Established \(Permanent Floating Crap Game In New York\)](https://open.spotify.com/track/0AIRdaGvVN6uEEsB3iD3C3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Reprise Rarities \(Vol\. 5\)](https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2) | 2:31 |
 | 27 | [It Looks Like Love](https://open.spotify.com/track/08QMFKQ4jbwh6N6ZuEHdEg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:20 |
 | 28 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
-| 29 | [Gentle on My Mind](https://open.spotify.com/track/0znQyUrJwmuLenUzJXawEY) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 2:36 |
-| 30 | [Return To Me \(Ritorna\-Me\) \- 1997 Remaster](https://open.spotify.com/track/6YAgmqaeo8Fm3pne8OJEBo) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 2:24 |
+| 29 | [Return To Me \(Ritorna\-Me\) \- 1997 Remaster](https://open.spotify.com/track/6YAgmqaeo8Fm3pne8OJEBo) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 2:24 |
+| 30 | [Gentle on My Mind](https://open.spotify.com/track/0znQyUrJwmuLenUzJXawEY) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 2:36 |
 | 31 | [The Birds and the Bees](https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:06 |
 | 32 | [The One I Love \(Belongs to Somebody Else\)](https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin TV Show](https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR) | 2:13 |
 | 33 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:02 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 38 | [Somewhere There's a Someone](https://open.spotify.com/track/6o6SjSnjl1uFjvAMDhmZ3H) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Somewhere There's a Someone](https://open.spotify.com/album/4xl7kIvmXiZCZ9UYQoluaH) | 2:14 |
 | 39 | [All In A Night's Work](https://open.spotify.com/track/6o04w9JEOuexVW0LuIs8xK) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 11 \(1960\-1961\)](https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF) | 2:39 |
 | 40 | [I Have But One Heart \('O Marenariello\)](https://open.spotify.com/track/4B2PkwShniUthCG4UiAYtd) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 3:05 |
-| 41 | [Red Roses for a Blue Lady](https://open.spotify.com/track/3dP26yhAx1murb5j0Y833W) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:45 |
-| 42 | [Arrivederci Roma \- Remastered 1998](https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:41 |
+| 41 | [Arrivederci Roma \- Remastered 1998](https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:41 |
+| 42 | [Red Roses for a Blue Lady](https://open.spotify.com/track/3dP26yhAx1murb5j0Y833W) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:45 |
 | 43 | [True Love \(Duet\)](https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau) | [Deana Martin](https://open.spotify.com/artist/1LeG1CIzi0OnjP8CTcnSVV), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Destination Moon](https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k) | 3:09 |
 | 44 | [Corrine, Corrina](https://open.spotify.com/track/6hhuQN1IIAFir8fthpN9cH) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 2:41 |
 | 45 | [My Rifle, My Pony And Me \- Remastered](https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [The Door Is Still Open to My Heart](https://open.spotify.com/track/45tNymiGXb2afxk7opDlmA) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 2:51 |
 | 50 | [C'est si bon](https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [French Style](https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm) | 2:52 |
 
-Snapshot ID: `Zql+gAAAAAApXiZz8d84VMYxuF9EryQk`
+Snapshot ID: `ZqrQAAAAAAAHfaVNjv90GND37ur+caAU`

@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16061,
+  "num_followers": 16062,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAEu1YadYKiQlxbc6bZLKMi",
+  "snapshot_id": "ZqrQAAAAAABiF7LYAU3sJyJrpZ8N21vx",
   "tracks": [
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Blood And Empire",
-        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
+        "name": "Die for the Government",
+        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 219240,
-      "name": "Hymn For The Dead",
-      "url": "https://open.spotify.com/track/01iUSHBgeMR1Zz23XTZzwX"
+      "duration_ms": 141026,
+      "name": "You'd Do the Same",
+      "url": "https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die for the Government",
-        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
+        "name": "For Blood And Empire",
+        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 141026,
-      "name": "You'd Do the Same",
-      "url": "https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs"
+      "duration_ms": 219240,
+      "name": "Hymn For The Dead",
+      "url": "https://open.spotify.com/track/01iUSHBgeMR1Zz23XTZzwX"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 191040,
-      "name": "THE HAZARDOUS",
-      "url": "https://open.spotify.com/track/7aPB5zuIXtCBNSu0w4FjxO"
+      "duration_ms": 90773,
+      "name": "SOLD EVERYTHING",
+      "url": "https://open.spotify.com/track/7kzA7SqzbyU2ZhSBKGmyjC"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 90773,
-      "name": "SOLD EVERYTHING",
-      "url": "https://open.spotify.com/track/7kzA7SqzbyU2ZhSBKGmyjC"
+      "duration_ms": 191040,
+      "name": "THE HAZARDOUS",
+      "url": "https://open.spotify.com/track/7aPB5zuIXtCBNSu0w4FjxO"
     },
     {
       "added_at": null,

@@ -462,7 +462,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 202387,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/1Ln6nNE0NKKCEmxSkBNGsT"
@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "comatose",
+        "url": "https://open.spotify.com/album/6ogAdVYy0rIrNP1tTBF9vi"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200738,
+      "name": "comatose",
+      "url": "https://open.spotify.com/track/6ztreKmSmNhlCC7n3iNHe4"
+    },
+    {
+      "album": {
         "name": "the life and death of a dog",
         "url": "https://open.spotify.com/album/3zzzsk0VzmLORaVtENlOHY"
       },
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 208988,
       "name": "Detective Alice \u795e\u63a2\u57c3\u7c92\u53f8",
       "url": "https://open.spotify.com/track/1MvsGEgABBgz9F5DgW5s2c"
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 129705,
       "name": "DON'T",
       "url": "https://open.spotify.com/track/09KcJTiSWfibriFPchj0Jt"
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 212287,
       "name": "even forever",
       "url": "https://open.spotify.com/track/1OicUu8wILtHnqX7VTv2MI"
@@ -2368,6 +2386,24 @@
     {
       "album": {
         "name": "Ghost",
+        "url": "https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238726,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2"
+    },
+    {
+      "album": {
+        "name": "Ghost",
         "url": "https://open.spotify.com/album/53UOHPXIiiPi4bgo8QKphr"
       },
       "artists": [
@@ -2440,6 +2476,24 @@
       "duration_ms": 263859,
       "name": "Girl With No Face",
       "url": "https://open.spotify.com/track/0EQJc4WYegeTU1VDaiI8Tj"
+    },
+    {
+      "album": {
+        "name": "Girls On The Internet",
+        "url": "https://open.spotify.com/album/2ZKruwObcyv0WoHPRN1dvM"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Girls On The Internet",
+      "url": "https://open.spotify.com/track/2p646IXQ5NldzSmZmpHqC1"
     },
     {
       "album": {
@@ -2771,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "Heatstroke",
+        "url": "https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH"
       },
@@ -2858,6 +2930,24 @@
       "duration_ms": 211120,
       "name": "Hello Lonely",
       "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
+    },
+    {
+      "album": {
+        "name": "Sophcore",
+        "url": "https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
     },
     {
       "album": {
@@ -3808,7 +3898,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 126511,
       "name": "Lesbians <3",
       "url": "https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY"
@@ -4068,6 +4158,24 @@
       "duration_ms": 173964,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0TdDzdFqhMizy5Bxg4TGWK"
+    },
+    {
+      "album": {
+        "name": "MAKE ME YOUR MONSTER",
+        "url": "https://open.spotify.com/album/1xBDETRvO7zwDC5pEUvzAv"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200637,
+      "name": "MAKE ME YOUR MONSTER",
+      "url": "https://open.spotify.com/track/4bNCgx7wGWP98iP2euzF12"
     },
     {
       "album": {
@@ -4774,7 +4882,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 149164,
       "name": "paris",
       "url": "https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk"
@@ -5759,6 +5867,24 @@
     },
     {
       "album": {
+        "name": "still around",
+        "url": "https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217871,
+      "name": "still around",
+      "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/7DkhdPN2rSpYG0tXqDljIh"
       },
@@ -6088,7 +6214,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 174029,
       "name": "Switchblade",
       "url": "https://open.spotify.com/track/0r46kyvgK2QfkbotYjI5FK"
@@ -6226,6 +6352,24 @@
       "duration_ms": 173560,
       "name": "Tennessee (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv"
+    },
+    {
+      "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "That's How I'm Feeling",
+      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
     {
       "album": {
@@ -6388,7 +6532,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 145735,
       "name": "this is what slow dancing feels like",
       "url": "https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6"

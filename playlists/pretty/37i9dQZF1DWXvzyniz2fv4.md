@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,141 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,154 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 32 | [Mensagem](https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Mensagem](https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26) | 2:19 |
 | 33 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 |
 | 34 | [Alta Definição](https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Alta Definição](https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6) | 2:03 |
-| 35 | [Me Diz](https://open.spotify.com/track/7BCBv9I6K5QbYiuYy9Vz5n) | [Família Madá](https://open.spotify.com/artist/7ChygUWxLcKr1ZVd7fBdVw), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Me Diz](https://open.spotify.com/album/1JbWAwjKBIMADDcH9Xgk3P) | 2:41 |
-| 36 | [TÁ FAZENDO OQ?](https://open.spotify.com/track/1t0DfSB27SnpNjzBGEf89q) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [SEUS CARACTERES & CARACTERÍSTICAS](https://open.spotify.com/album/78S4kQ996iN4h62IWnvtGz) | 2:43 |
+| 35 | [TÁ FAZENDO OQ?](https://open.spotify.com/track/1t0DfSB27SnpNjzBGEf89q) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [SEUS CARACTERES & CARACTERÍSTICAS](https://open.spotify.com/album/78S4kQ996iN4h62IWnvtGz) | 2:43 |
+| 36 | [Me Diz](https://open.spotify.com/track/7BCBv9I6K5QbYiuYy9Vz5n) | [Família Madá](https://open.spotify.com/artist/7ChygUWxLcKr1ZVd7fBdVw), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Me Diz](https://open.spotify.com/album/1JbWAwjKBIMADDcH9Xgk3P) | 2:41 |
 | 37 | [Boa Noite Moça](https://open.spotify.com/track/2PbzRTnmac3yqvI1bjk1ri) | [Sergin](https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [50 Tons De Um Sentimento](https://open.spotify.com/album/4jeMgRuSSLiFiYZDvndksH) | 2:42 |
 | 38 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
 | 39 | [Ela É Um Vício](https://open.spotify.com/track/4rn4T3egGnLa8i7TsKaozp) | [Flay](https://open.spotify.com/artist/7aaNhMElpyzTnU2LgccyR3), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ela É Um Vício](https://open.spotify.com/album/53fQ4HgmJBcrmjxC6z9NYJ) | 2:55 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 57 | [Mapa Astral](https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7) | [Zoli](https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mapa Astral](https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF) | 3:13 |
 | 58 | [Tudo Começou](https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8), [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw) | [Tudo Começou](https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi) | 2:25 |
 | 59 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [K.E](https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 |
-| 60 | [Perto do Sol](https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib) | [RNT](https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d) | [Perto do Sol](https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r) | 2:48 |
+| 60 | [Deixa Queimar](https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf) | [Gabi Terreiro](https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G), [Theus Terreiro](https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Elementar](https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq) | 2:50 |
 
 Snapshot ID: `ZqMR5AAAAABX1MSrrw89aJAICXOHM6zB`

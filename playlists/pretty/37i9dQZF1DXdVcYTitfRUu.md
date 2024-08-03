@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,169 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,179 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 14 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 |
 | 15 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 |
 | 16 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 |
-| 17 | [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 |
-| 18 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
+| 17 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
+| 18 | [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 |
 | 19 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 |
 | 20 | [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 |
 | 21 | [Melody](https://open.spotify.com/track/3Jshe6lnGtBKqEJosdHa8M) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:07 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 62 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 |
 | 63 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
 | 64 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 |
-| 65 | [Blooming just for you](https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Blooming just for you](https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd) | 3:27 |
-| 66 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
+| 65 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
+| 66 | [Blooming just for you](https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Blooming just for you](https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd) | 3:27 |
 | 67 | [In The Mood](https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [IN the mood](https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet) | 2:48 |
 | 68 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 |
 | 69 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 72 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 |
 | 73 | [Breath](https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Alchemy of Souls, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa) | 4:27 |
 | 74 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 |
-| 75 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 |
+| 75 | [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 |
 | 76 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 |
-| 77 | [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 |
-| 78 | [Yoonseul](https://open.spotify.com/track/6nB4wOUWBnvAMJvHb8BNc5) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Yoonseul](https://open.spotify.com/album/2Ur4NrDdVubOUCBR4pfhOM) | 2:34 |
-| 79 | [Hello](https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Romantic Doctor 3 OST Part.1](https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE) | 3:50 |
-| 80 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
+| 77 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 |
+| 78 | [The Moment You Arrive](https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Tell Me That You Love Me, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq) | 4:10 |
+| 79 | [Yoonseul](https://open.spotify.com/track/6nB4wOUWBnvAMJvHb8BNc5) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Yoonseul](https://open.spotify.com/album/2Ur4NrDdVubOUCBR4pfhOM) | 2:34 |
+| 80 | [Hello](https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Romantic Doctor 3 OST Part.1](https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE) | 3:50 |
 
 Snapshot ID: `ZoZu0QAAAADRlkmUHLjbjOnH6194X+aP`

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
-  "num_followers": 239798,
+  "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
+  "num_followers": 239927,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAACKLGkYfB/ac23CNZ37H4R5",
+  "snapshot_id": "ZqrQAAAAAACdJ3oO2+Eei+QtXetwVJNO",
   "tracks": [
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 205681,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Sab\u00eda Cu\u00e1nto",
         "url": "https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 165750,
       "name": "No Sab\u00eda Cu\u00e1nto",
       "url": "https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 205681,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reca\u00edda en Los Excesos",
-        "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 183724,
-      "name": "Mi Reca\u00edda en Los Excesos",
-      "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEPTUNO",
         "url": "https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 161985,
       "name": "NEPTUNO",
       "url": "https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Reca\u00edda en Los Excesos",
+        "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 183724,
+      "name": "Mi Reca\u00edda en Los Excesos",
+      "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
     },
     {
       "added_at": null,

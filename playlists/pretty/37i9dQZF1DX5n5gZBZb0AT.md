@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,003 likes - 40 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,322 likes - 40 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 |
 | 2 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
-| 3 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
-| 4 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
+| 3 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
+| 4 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
 | 5 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
 | 6 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
 | 7 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 12 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 13 | [MONTAGEM INVASÃO](https://open.spotify.com/track/2b9JG7m7tvwHONER43us1n) | [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG) | [MONTAGEM INVASÃO](https://open.spotify.com/album/5rl2NDQDv9VpZLoEFOaYNg) | 1:14 |
 | 14 | [DERNIERE DANCE FUNK](https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [YXUNGXROTICA](https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D), [MC KRAKEN](https://open.spotify.com/artist/3Uy7W2zcbfxQWLDAXTPugq) | [DERNIERE DANCE FUNK](https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT) | 1:31 |
-| 15 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 |
-| 16 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
+| 15 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
+| 16 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 |
 | 17 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 18 | [Life in Rio](https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Life in Rio](https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5) | 1:34 |
 | 19 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 |

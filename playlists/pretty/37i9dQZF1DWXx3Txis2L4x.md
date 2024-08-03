@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,158 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,167 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 29 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 |
 | 30 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 31 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
-| 32 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 |
-| 33 | [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
+| 32 | [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
+| 33 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 |
 | 34 | [Out of the Black](https://open.spotify.com/track/1INksmStBpxdNlBzwGUvsg) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 4:00 |
 | 35 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 |
 | 36 | [The Borders](https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 5:32 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 42 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
 | 43 | [Body Talks](https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [YOUNG&DANGEROUS](https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g) | 2:58 |
 | 44 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
-| 45 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
-| 46 | [When Your Heart Stops Beating](https://open.spotify.com/track/6yT4ww7r7wDBlwMDUazx0U) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/1u59jNVLIMqS6h3YUsMNPc) | 3:12 |
+| 45 | [When Your Heart Stops Beating](https://open.spotify.com/track/6yT4ww7r7wDBlwMDUazx0U) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/1u59jNVLIMqS6h3YUsMNPc) | 3:12 |
+| 46 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
 | 47 | [Los Angeles](https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Lights Out](https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc) | 3:57 |
 | 48 | [Two\-Timing Touch and Broken Bones](https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Tyrannosaurus Hives](https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV) | 2:00 |
 | 49 | ["45"](https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Deluxe Version\)](https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY) | 3:27 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 75 | [Major System Error](https://open.spotify.com/track/7DHaf24CxsjF8mbXmoJv7G) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [Knowing What You Know Now](https://open.spotify.com/album/6ugcC7DaLDApGMJbGQtg5w) | 3:25 |
 | 76 | [Nimble Bastard](https://open.spotify.com/track/2uaWEm24SEHUWlCVopjDbh) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [8](https://open.spotify.com/album/3YdvnTLTd343C1osvUChnA) | 3:39 |
 | 77 | [Bones](https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [Bones](https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy) | 3:13 |
-| 78 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 |
-| 79 | [You're Gonna Say Yeah](https://open.spotify.com/track/3rWNmpZM3vPiRwbFToDLoO) | [Hushpuppies](https://open.spotify.com/artist/115KcJpRFQWDqnZkqruT1k) | [The Trap](https://open.spotify.com/album/52kMCauBToTYQPUjCwiVVj) | 3:11 |
+| 78 | [You're Gonna Say Yeah](https://open.spotify.com/track/3rWNmpZM3vPiRwbFToDLoO) | [Hushpuppies](https://open.spotify.com/artist/115KcJpRFQWDqnZkqruT1k) | [The Trap](https://open.spotify.com/album/52kMCauBToTYQPUjCwiVVj) | 3:11 |
+| 79 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 |
 | 80 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
 
 Snapshot ID: `ZlTpmgAAAABIC5wyay7mdPo6XmAfqkYW`

@@ -2,7 +2,7 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: KAROL G
+> Voici les hits du moment\. Photo: Sevdaliza, Pabllo Vittar, Yseult
 
 432 songs - 22 hr 39 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,623 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,637 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 32 | [Narrative Of Soul Against Soul](https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:29 |
 | 33 | [Aurelia](https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:54 |
 | 34 | [God Called In Sick Today](https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI](https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw) | 3:21 |
-| 35 | [File 13](https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:48 |
+| 35 | [Begging For Trouble](https://open.spotify.com/track/19elq0F6glRZAResdR1XTR) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 |
 | 36 | [Exsanguination](https://open.spotify.com/track/6OdabvInaZXWONggJSLncn) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:48 |
-| 37 | [Begging For Trouble](https://open.spotify.com/track/19elq0F6glRZAResdR1XTR) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 |
+| 37 | [File 13](https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:48 |
 | 38 | [I Hope You Suffer](https://open.spotify.com/track/1bl434nynICAlETvh9kf4e) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14) | 4:37 |
 | 39 | [Too Shy To Scream](https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 2:56 |
 | 40 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Wake\-Up Call](https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:42 |
 | 50 | [Dulcería](https://open.spotify.com/track/1WYNUo0tr0mOWzRdeGS8YC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 4:53 |
 
-Snapshot ID: `Zql+gAAAAADMBdQQ0XOUZm33Ugj2kITv`
+Snapshot ID: `ZqrQAAAAAAC5smzDJAEkzUKSzLKN8fdt`

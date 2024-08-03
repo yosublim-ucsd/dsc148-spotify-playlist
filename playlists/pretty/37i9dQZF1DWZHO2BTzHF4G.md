@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 
 > Rock on repeat during the summers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,992 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,035 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 11 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:07 |
 | 12 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 | 13 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
-| 14 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
-| 15 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
+| 14 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
+| 15 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
 | 16 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 |
 | 17 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
 | 18 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 80 | [No Surprise](https://open.spotify.com/track/6q4XLE5WeOBWftoc9gTl2P) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [It's Not Over....The Hits So Far](https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE) | 4:30 |
 | 81 | [Champagne](https://open.spotify.com/track/3C5cvFzAklAzMffGjirEVw) | [Cavo](https://open.spotify.com/artist/7a06JYLmZG3txQqr9uzvbg) | [Bright Nights \* Dark Days](https://open.spotify.com/album/6VxhmV2m5nlaVS0aF8VItG) | 3:07 |
 | 82 | [Meant to Live](https://open.spotify.com/track/79cAPxneo5AvbNgR6ch3Cj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Best Yet](https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc) | 3:19 |
-| 83 | [In Love With a Girl](https://open.spotify.com/track/3zcmWxxUA7Em7X3IBqZGUo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Gavin DeGraw](https://open.spotify.com/album/5FbUXif3rTa8DX7TTwxegZ) | 3:26 |
-| 84 | [Forever](https://open.spotify.com/track/4oJ4XZwQA2cLMBnRtYSSIb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA) | 4:06 |
+| 83 | [Forever](https://open.spotify.com/track/4oJ4XZwQA2cLMBnRtYSSIb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA) | 4:06 |
+| 84 | [In Love With a Girl](https://open.spotify.com/track/3zcmWxxUA7Em7X3IBqZGUo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Gavin DeGraw](https://open.spotify.com/album/5FbUXif3rTa8DX7TTwxegZ) | 3:26 |
 | 85 | [Pork And Beans](https://open.spotify.com/track/5txH6topQylTHnb4lZMdQ1) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/58UmKPMguFuYtGMVNol95V) | 3:09 |
 | 86 | [Somewhere Else](https://open.spotify.com/track/1xDPUKoyQuIiea7Le9ZNgn) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Up All Night](https://open.spotify.com/album/4HKGobgiysyDLsWp86chaK) | 3:16 |
 | 87 | [One Last Breath \- Radio Version](https://open.spotify.com/track/0eFklulxFnNCypNSrywzSB) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [With Arms Wide Open: A Retrospective](https://open.spotify.com/album/6mOXPtswKccKSx5dYmCXAc) | 4:02 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 92 | [Mr\. Brightside](https://open.spotify.com/track/7d8GetOsjbxYnlo6Y9e5Kw) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/1ujPmNlTMp41h4EG6OOBGR) | 3:42 |
 | 93 | [Seven Nation Army](https://open.spotify.com/track/47wPvRG8FEwbZP22UBgTQr) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/4bud6XY9UtafCOiYzv2vOl) | 3:51 |
 | 94 | [Girlfriend](https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing](https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK) | 3:36 |
-| 95 | [Is It Any Wonder?](https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/3g7Ba6diNryAEMk2LWIgfB) | 3:06 |
-| 96 | [Hella Good](https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady](https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352) | 4:02 |
+| 95 | [Hella Good](https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady](https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352) | 4:02 |
+| 96 | [Is It Any Wonder?](https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/3g7Ba6diNryAEMk2LWIgfB) | 3:06 |
 | 97 | [Smokers Outside the Hospital Doors](https://open.spotify.com/track/7CPiFuM7R0Os87sl3UJqPB) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [An End Has a Start](https://open.spotify.com/album/3csSbF72syMhIYq89doRha) | 4:57 |
 | 98 | [Somebody Told Me](https://open.spotify.com/track/59XNy4523UcEvQfYM8fdQB) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/1ujPmNlTMp41h4EG6OOBGR) | 3:17 |
 | 99 | [New Divide](https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 4:28 |

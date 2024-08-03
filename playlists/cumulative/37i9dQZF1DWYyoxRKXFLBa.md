@@ -4,7 +4,7 @@
 
 > pura morra rifada\. RPLK en portada.
 
-217 songs - 12 hr 9 min
+218 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2024-03-13 |  |
 | [para\(ra\)guas](https://open.spotify.com/track/2HmYJOJtJiw19g8IEwBL6t) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [Teseo Drunco](https://open.spotify.com/album/67j5P40cmXrvnzqfAaF7OX) | 3:29 | 2023-07-28 | 2024-03-14 |
 | [Paralizado](https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Paralizado](https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa) | 3:07 | 2023-02-03 | 2023-07-29 |
-| [Paralizado](https://open.spotify.com/track/3hLwTsuqKBakewprxOK1b4) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 3:07 | 2024-03-13 |  |
+| [Paralizado](https://open.spotify.com/track/3hLwTsuqKBakewprxOK1b4) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 3:07 | 2024-03-13 | 2024-08-03 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-07 |  |
 | [POLVO](https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [POLVO](https://open.spotify.com/album/4vdhfstIdiL9CkqhnUSAaD) | 4:00 | 2023-07-28 | 2024-03-14 |
 | [Prisma Lunar](https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re) | [The Centellas](https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD) | [Espécimen Surf](https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT) | 2:29 | 2023-07-28 | 2024-03-14 |
@@ -185,6 +185,7 @@
 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 | 2024-03-13 | 2024-06-08 |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4JDztFi8c4WN8UR8u8RTrD) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Deep Cuts](https://open.spotify.com/album/2gYN6MGOcgcd6UuWIta4ba) | 3:10 | 2023-07-28 | 2024-03-14 |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4b3ZcXUbkJu32F5xKJaXTz) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Deep Cuts](https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb) | 3:10 | 2023-06-17 | 2024-01-18 |
+| [Somethin' Sweet](https://open.spotify.com/track/3IgTKP8ZsJeu1oHj7UQlKJ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Somethin' Sweet](https://open.spotify.com/album/5nTvNsfsG1iEpcU0AQZ646) | 3:52 | 2024-08-02 |  |
 | [somos flores](https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [somos flores](https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd) | 3:26 | 2023-03-31 | 2024-03-14 |
 | [Soy Vertical](https://open.spotify.com/track/5JHvSr5jry0K2miFIJ5whI) | [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx) | [Soy Vertical](https://open.spotify.com/album/0GgXrrPAu26XWuakFBi0ph) | 3:24 | 2023-03-31 | 2024-03-14 |
 | [Stay in the Car](https://open.spotify.com/track/7koczHxYr1lXuMXNdOLPvT) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin' Sun](https://open.spotify.com/album/0eVcVsr64cQbiGAOVefybc) | 2:44 | 2023-02-03 | 2023-07-29 |

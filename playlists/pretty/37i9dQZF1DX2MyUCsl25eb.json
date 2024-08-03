@@ -1,13 +1,49 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 970219,
+  "num_followers": 970201,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAAD4PILqRD3djEW+OiXCNwQ0",
+  "snapshot_id": "ZqxZwAAAAABJmJJlmAA+YTxkPbZFi34N",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Dirty (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 173361,
+      "name": "Dirty (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
+    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -27,22 +63,6 @@
       "duration_ms": 204893,
       "name": "Allergies (feat. Delaney Bailey)",
       "url": "https://open.spotify.com/track/0QH4XjlKSY8Gdory7hG4ZN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Irish Goodbye",
-        "url": "https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Irish Goodbye",
-      "url": "https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K"
     },
     {
       "added_at": "2024-07-09 13:23:23",
@@ -423,22 +443,6 @@
       "duration_ms": 228026,
       "name": "Fill My Cup",
       "url": "https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Gravity Stairs",
-        "url": "https://open.spotify.com/album/1Fy7fMGY3g1lGy8Wzg0bua"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "The Howl",
-      "url": "https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6"
     },
     {
       "added_at": "2024-06-07 04:00:00",

@@ -2,9 +2,9 @@
 
 ### [Rockeras](https://open.spotify.com/playlist/37i9dQZF1DXbFNjGW0o442)
 
-> Guerreras del rock latinoamericano\. Foto: Barbi Recanati
+> Guerreras del rock latinoamericano\. Foto: Zöelle
 
-284 songs - 16 hr 53 min
+287 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Cuentos](https://open.spotify.com/track/0lGL5kvifiLpsn6hEbJAAs) | [Las Otras](https://open.spotify.com/artist/0AOY1Sj0V5URW5vLabuXbM) | [Amarilla](https://open.spotify.com/album/1eIFqYqqIgR2EmjoqFcDNZ) | 1:59 | 2022-01-20 | 2022-07-27 |
 | [De chispa fuego](https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7) | [Privia](https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4) | [De chispa fuego](https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds) | 2:41 | 2023-04-14 | 2023-11-25 |
 | [Denadie](https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Denadie](https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G) | 3:06 | 2022-01-20 | 2023-04-15 |
-| [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 | 2022-01-20 |  |
+| [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 | 2022-01-20 | 2024-08-03 |
 | [Desordenar](https://open.spotify.com/track/1FAht60T3avEUv7qG058Um) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV) | 4:43 | 2022-01-20 | 2023-01-10 |
 | [Desordenar](https://open.spotify.com/track/2Pha6dxvBxVmwwpGkwjWRb) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7) | 4:43 | 2022-12-09 | 2024-04-19 |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2022-01-20 |  |
@@ -118,7 +118,7 @@
 | [Fuego Sobre Fuego](https://open.spotify.com/track/4ADs3Ll9cdUmwKwrrFhaNv) | [Las Blacanblus](https://open.spotify.com/artist/1UuFRYPMp8wxqiEbYhFc1I) | [Suena En Mí](https://open.spotify.com/album/3mMP2TeePypmXn6MSgOftr) | 4:10 | 2022-01-20 | 2023-12-09 |
 | [Fuelle](https://open.spotify.com/track/42QHBGWom9xsyQWuZFCbZ8) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Cromático](https://open.spotify.com/album/3GS37VPkPoUmvh4606wr2E) | 2:50 | 2022-01-20 | 2022-07-28 |
 | [Fumar de día](https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 2:58 | 2022-01-20 | 2024-04-19 |
-| [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 | 2022-07-15 |  |
+| [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 | 2022-07-15 | 2024-08-03 |
 | [Gira por el Interior](https://open.spotify.com/track/5vfifUxxB7OdXiqNSlGAvE) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Gira por el Interior](https://open.spotify.com/album/3PdyLzRWeHoOAnkD4dONO3) | 3:54 | 2022-01-20 | 2022-10-28 |
 | [Girando](https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Girando](https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM) | 3:31 | 2024-03-14 |  |
 | [give/UP](https://open.spotify.com/track/2rVDacOFhSBzcPzfG9ITfm) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/74buoPf0UxcLGAI0oUjkGn) | 3:40 | 2023-11-24 | 2024-04-19 |
@@ -165,6 +165,7 @@
 | [MANIQUÍ](https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Buenas Noches Terrícolas](https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD) | 4:07 | 2022-10-07 |  |
 | [Marcando el Compás \- En Vivo](https://open.spotify.com/track/6PkbzQLraURi34mbDTCuHO) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Marcando el Compás \(En Vivo\)](https://open.spotify.com/album/2KpgkNZfdYZiV9lbzo0te2) | 3:56 | 2022-01-20 | 2022-07-29 |
 | [Mariana](https://open.spotify.com/track/30xSITDKpCkn5TnsABmQHO) | [Isabel De Sebastian](https://open.spotify.com/artist/6rgRWv9QW0LOCwpJxYfKFh), [Bob Telson](https://open.spotify.com/artist/54Wo220RzJhwhjKRTRxuwA) | [Trip](https://open.spotify.com/album/3eH5KxTvBazT7Wtr806ekr) | 3:04 | 2022-04-01 | 2022-07-22 |
+| [Medalla De Oro A La Mejor Canción de Amor](https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3) | [Erin Memento](https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Medalla De Oro A La Mejor Canción De Amor](https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN) | 3:27 | 2024-08-02 |  |
 | [Mi Elemento](https://open.spotify.com/track/1LlMcgHwbls4Q2YCBWzcl1) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Celesteacústica \(Veinteaniversario\)](https://open.spotify.com/album/6tQ0Kj4WjIJDobEpCxlRIy) | 4:27 | 2022-01-20 | 2022-07-13 |
 | [Mi Playa](https://open.spotify.com/track/3C8l5qDzec8poDxsCUIZXp) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Singles](https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg) | 3:42 | 2022-01-20 |  |
 | [Mi Voz](https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Mi Voz](https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG) | 3:12 | 2024-03-07 |  |
@@ -224,7 +225,7 @@
 | [Piedra del Águila](https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Piedra del Águila](https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ) | 3:14 | 2023-03-16 | 2024-04-19 |
 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 | 2022-01-20 |  |
 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 | 2022-01-20 |  |
-| [Por Mil Noches](https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI) | [Maggie Sky](https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6) | [Por Mil Noches](https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d) | 4:43 | 2024-07-12 |  |
+| [Por Mil Noches](https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI) | [Maggie Sky](https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6) | [Por Mil Noches](https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d) | 4:43 | 2024-07-12 | 2024-08-03 |
 | [Por Tu Bien](https://open.spotify.com/track/2ZYlH2nDsECjJPw51fBHlj) | [Cirse](https://open.spotify.com/artist/4lXlGJYomLAcfO6rVOchfz) | [Rompiente](https://open.spotify.com/album/3w4O98Q6qpxEBUalrwu9XM) | 3:44 | 2022-07-15 | 2024-04-19 |
 | [Por Tu Bien](https://open.spotify.com/track/4VxkDwiETA9AY7HZX9U4bI) | [Cirse](https://open.spotify.com/artist/4lXlGJYomLAcfO6rVOchfz) | [Rompiente](https://open.spotify.com/album/4tRBO7YHevGjSZy9myXTDQ) | 3:44 | 2022-01-20 | 2022-07-29 |
 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 | 2022-01-20 |  |
@@ -249,6 +250,7 @@
 | [Sin Llorar](https://open.spotify.com/track/4uz6AXTY8ZoP2SzICAl36i) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8) | [Sin Llorar](https://open.spotify.com/album/0RsUW4X7DQofjxZMXEKzG5) | 5:20 | 2022-01-20 | 2022-07-24 |
 | [Sola en los Bares \(2020 Remasterizado\)](https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX) | [Man Ray](https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm) | [Perro de Playa \(2020 Remasterizado\)](https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z) | 3:06 | 2022-01-20 |  |
 | [Sola y Feliz](https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo) | [Tiburona](https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3) | [Sola y Feliz](https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP) | 3:08 | 2022-01-20 | 2023-02-05 |
+| [Somethin' Sweet](https://open.spotify.com/track/3IgTKP8ZsJeu1oHj7UQlKJ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Somethin' Sweet](https://open.spotify.com/album/5nTvNsfsG1iEpcU0AQZ646) | 3:52 | 2024-08-02 |  |
 | [Somos](https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [Somos](https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik) | 3:00 | 2022-01-20 |  |
 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 | 2022-01-20 | 2024-04-19 |
 | [Somos Aire](https://open.spotify.com/track/5rr2cc38UmXKfMuWdwsPIB) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o Trato \(Capítulo I\)](https://open.spotify.com/album/0m1UbEq22R11P2SABak84s) | 3:31 | 2022-01-20 | 2022-07-28 |
@@ -257,6 +259,7 @@
 | [Sorojchi](https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:50 | 2022-01-20 | 2024-01-28 |
 | [Sorojchi \- En Vivo en La Ballena Azul](https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera en Vivo en La Ballena Azul](https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv) | 4:58 | 2022-09-23 | 2022-12-10 |
 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 | 2022-01-20 |  |
+| [Such A Witch](https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Such A Witch](https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr) | 4:02 | 2024-08-02 |  |
 | [Sugar Beat](https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Friends And Lovers](https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf) | 4:12 | 2022-01-20 | 2023-01-23 |
 | [Sólo por Hoy](https://open.spotify.com/track/2UMa4VWvyVFFL9tkj97V8B) | [Noe Terceros](https://open.spotify.com/artist/5oTyACsGm1q37MoTfXSDA4) | [Umbral](https://open.spotify.com/album/6leuMDWQtzDmrxgiIyuADB) | 2:39 | 2022-01-20 | 2022-07-28 |
 | [Sólo Quiero Rock and Roll](https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P) | [La Torre](https://open.spotify.com/artist/2OL1Rpd8YwI243JOKhC02L) | [Sólo Quiero Rock & Roll](https://open.spotify.com/album/0f7XdhLccYIYBdyOeOT5jP) | 3:55 | 2022-01-20 |  |

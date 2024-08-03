@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Don Diablo, Lufthouse w/ Robbie Williams, Sophya Nzau
 
-1,116 songs - 2 day 11 hr 54 min
+1,117 songs - 2 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,7 +1035,8 @@
 | [Unlovable](https://open.spotify.com/track/0RpCSYoRQNoUAjYBozv5P4) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Armada Music \- Miami 2023](https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY) | 4:02 | 2023-03-16 | 2023-07-29 |
 | [Unlovable](https://open.spotify.com/track/0mPDsawVHviPjbUw67yEbb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Unlovable](https://open.spotify.com/album/6uXqIAEVfndXVq4KPNMiHo) | 4:02 | 2023-01-26 | 2023-03-03 |
 | [Unlovable](https://open.spotify.com/track/1oEkuhUqgkeVto8NDvLobE) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Chill Executive Officer \(CEO\), Vol\. 24 \[Selected by Maykel Piron\]](https://open.spotify.com/album/51N2Qs0Inr0BhN9WlVpEOW) | 4:02 | 2023-03-02 | 2023-03-18 |
-| [Up All Night](https://open.spotify.com/track/1aZJUDVqAnASubqDxs6RJb) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Up All Night](https://open.spotify.com/album/2OTgZzSvpK9BAE83jZaqxX) | 3:13 | 2024-07-18 |  |
+| [Up All Night](https://open.spotify.com/track/1aZJUDVqAnASubqDxs6RJb) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Up All Night](https://open.spotify.com/album/2OTgZzSvpK9BAE83jZaqxX) | 3:13 | 2024-07-18 | 2024-08-03 |
+| [Up All Night \- Tensnake Remix](https://open.spotify.com/track/6W3ZpzH0y3RPPUMMFtct8a) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Up All Night \(Tensnake Remix\)](https://open.spotify.com/album/2ZiuNZYRnGCGkRWYlGIVCy) | 2:48 | 2024-08-02 |  |
 | [Use Me \- MK Mix](https://open.spotify.com/track/7IBn02XpmTS8nAAuonK0ZP) | [R\-Tyme](https://open.spotify.com/artist/1MKvHKK88iWuiDRIqIHjhw), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [The Best of KMS Classics, Pt\. 1](https://open.spotify.com/album/4bnznvnhBQStxpIBMlV5G7) | 3:40 | 2023-09-22 | 2023-12-14 |
 | [Used To Be](https://open.spotify.com/track/0uKUrWHPcoQjZPOqFx9xpB) | [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh), [Keirah Kirton](https://open.spotify.com/artist/1RAKrevX6uY0u6vs5FjafT) | [Used To Be](https://open.spotify.com/album/1NHeJi4r9Fz8kT4q9XHYBP) | 3:12 | 2022-11-03 | 2022-12-02 |
 | [Vai Sentar](https://open.spotify.com/track/2v1S5uN5Rww6Tlm51CS9B6) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Mc Leléto](https://open.spotify.com/artist/7qga9VgjmVrAAawr8WwUAH) | [Vai Sentar](https://open.spotify.com/album/5pm7hTNZcnTOBEUBZUYzmj) | 2:20 | 2024-02-15 |  |

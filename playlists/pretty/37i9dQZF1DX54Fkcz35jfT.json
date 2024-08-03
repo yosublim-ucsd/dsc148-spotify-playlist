@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: The BONEZ",
-  "num_followers": 45395,
+  "num_followers": 45396,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u307c\u3061\u307c\u3061\u30d9\u30c6\u30e9\u30f3",
-        "url": "https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm"
-      },
-      "artists": [
-        {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
-      "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "\u30e1\u30bf\u308a\uff01\uff01 (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/5ZuHwoWf9rMyj5F1DsexIt"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 208600,
       "name": "\u30e1\u30bf\u308a\uff01\uff01 (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/213nQotWKjNWnD92F6NWVx"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u307c\u3061\u307c\u3061\u30d9\u30c6\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
+      "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "ENTH",
-        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
-      },
-      "artists": [
-        {
-          "name": "ENTH",
-          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "SCUM DOGS FART",
-      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "LEAVE IT ALL BEHIND",
         "url": "https://open.spotify.com/album/0nBFE2T0w9ioMdSjGMOYAR"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 247500,
       "name": "LEAVE IT ALL BEHIND",
       "url": "https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "ENTH",
+        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
+      },
+      "artists": [
+        {
+          "name": "ENTH",
+          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "SCUM DOGS FART",
+      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
     },
     {
       "added_at": "2024-07-30 15:00:00",

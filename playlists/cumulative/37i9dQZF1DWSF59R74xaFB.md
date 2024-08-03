@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-474 songs - 1 day 4 hr 18 min
+475 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Besos y Pendientes](https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Besos y Pendientes](https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF) | 2:51 | 2023-09-08 | 2023-12-09 |
 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 | 2022-03-18 | 2022-04-20 |
 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 | 2021-10-21 | 2022-07-29 |
-| [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 | 2024-04-19 |  |
+| [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 | 2024-04-19 | 2024-08-03 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2021-10-21 | 2022-04-18 |
 | [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 | 2023-09-08 | 2023-10-21 |
 | [Caballero](https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Caballero](https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C) | 3:48 | 2021-10-21 | 2022-07-29 |
@@ -325,6 +325,7 @@
 | [Polvo De Gigantes](https://open.spotify.com/track/7K3h4TeHfK3cLWB1H6nzfO) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 2:32 | 2024-06-28 |  |
 | [Por Primera Vez](https://open.spotify.com/track/0gWbAFRcUyZKdfUxEOuOiD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Por Primera Vez](https://open.spotify.com/album/5DeSD9bKMtDQCN1ErYy7jj) | 3:03 | 2021-10-21 | 2023-06-13 |
 | [Por Qué Me Haces Llorar](https://open.spotify.com/track/1G0Nf7ektuutnvhNY0q0Kk) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Los Dúo 3](https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5) | 3:17 | 2022-11-24 | 2022-12-30 |
+| [Por Si Me Vuelves a Querer](https://open.spotify.com/track/1rBeu1vaULdjMNOBa7JerW) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Regresa](https://open.spotify.com/album/4LMUMQt5TC9rXcXLaQoFNb) | 3:38 | 2024-08-02 |  |
 | [Por Si No Vuelves](https://open.spotify.com/track/7mdXNWnWEa5fOJPP9x4ixZ) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW), [Soraya](https://open.spotify.com/artist/4HsWGs7hJKcbM1aiRnUDWj) | [Por Si No Vuelves](https://open.spotify.com/album/2tgvEGCCPZPWdQaIm6Q2nX) | 3:28 | 2021-10-21 | 2022-04-20 |
 | [Por Ti](https://open.spotify.com/track/1pR68GqUGbbH6aogiIgjHL) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Por Ti](https://open.spotify.com/album/6oRie5UdfiDPjd7t4od18I) | 3:25 | 2021-10-21 | 2022-07-27 |
 | [Preso](https://open.spotify.com/track/6HlIwEASZhw0cO2YtzxQ8f) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 3:46 | 2021-10-21 | 2022-04-19 |

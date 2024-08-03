@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,650 likes - 150 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,649 likes - 150 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 19 | [Fantasi](https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:38 |
 | 20 | [Dumebi](https://open.spotify.com/track/6CJD4LDNULzE645JA2XHpx) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5) | 2:59 |
 | 21 | [Ayer Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/track/1PWEqRVXqXhRDeS4OznL01) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/album/14gxHpwmrORODOPNQCZ8lC) | 4:16 |
-| 22 | [Maldita Foto](https://open.spotify.com/track/1v5vVHgk25NTXz97R7T7uJ) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 3:10 |
-| 23 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 |
+| 22 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 |
+| 23 | [Maldita Foto](https://open.spotify.com/track/1v5vVHgk25NTXz97R7T7uJ) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 3:10 |
 | 24 | [De Una Vez](https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:35 |
 | 25 | [Mal de Amores](https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:08 |
 | 26 | [Pa Ti](https://open.spotify.com/track/4AuVISGGuyTc1XstdrJ8Xu) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:50 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 149 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 150 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AbYSXgAAAAA/Xbzy4qAvA+loi3J6mr/I`
+Snapshot ID: `AbYX/gAAAAA1dvESCjhCI0fa85ELda0q`

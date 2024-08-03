@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1401159,
+  "num_followers": 1401331,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAe2fmmUxyBO30QjezqNMlL",
+  "snapshot_id": "ZqrQAAAAAAAz07XUK9wZoEO79ssQA6cR",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 222500,
       "name": "She Wolf (Falling to Pieces) [feat. Sia]",
       "url": "https://open.spotify.com/track/1SgdUjvppHnIp6L7DZSnwc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 172246,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
     },
     {
       "added_at": null,
@@ -551,6 +551,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sophie Barker",
+          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
+        }
+      ],
+      "duration_ms": 338279,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -583,30 +607,6 @@
       "duration_ms": 213632,
       "name": "Incredible (feat. Labrinth)",
       "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sophie Barker",
-          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
-        }
-      ],
-      "duration_ms": 338279,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Big Girls Cry",
-      "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Marshall Mathers LP2 (Deluxe)",
         "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 265025,
       "name": "Beautiful Pain",
       "url": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Big Girls Cry",
+      "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Fire Meet Gasoline",
-      "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 198920,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "Fire Meet Gasoline",
+      "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 259902,
-      "name": "I Forgive You",
-      "url": "https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Still Here",
         "url": "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 241910,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 259902,
+      "name": "I Forgive You",
+      "url": "https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6"
     },
     {
       "added_at": null,

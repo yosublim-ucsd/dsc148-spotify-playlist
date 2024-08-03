@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 
 ### [This Is Krewella](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iw5UY)
 
-> This Is Krewella\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Krewella\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,282 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,288 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 18 | [Alarm \- WE ARE FURY Remix](https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x) | [Lucid \(The Remixes\)](https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ) | 3:07 |
 | 19 | [Lights & Thunder \- Darren Styles Remix](https://open.spotify.com/track/7na8xV9Zf1IOQtTFbvbCKO) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Drive: Refueled](https://open.spotify.com/album/40YSOHKAENpcTCFQqlMAc5) | 4:16 |
 | 20 | [Team](https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Team](https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R) | 3:06 |
-| 21 | [Surrender The Throne](https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:15 |
-| 22 | [Come & Get It](https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:25 |
+| 21 | [Come & Get It](https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:25 |
+| 22 | [Surrender The Throne](https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:15 |
 | 23 | [Superstar](https://open.spotify.com/track/49mrGrTON4QYZri9gEHSFl) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Superstar](https://open.spotify.com/album/2ZklcEqT1pZUX0hTNFNVOa) | 3:24 |
 | 24 | [Ghost](https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:06 |
-| 25 | [Beggars](https://open.spotify.com/track/0UBgJMgfxiIsuL9zfiEuKn) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Diskord](https://open.spotify.com/artist/3o8BMojuQONFOJ0cJ0qOEc) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:47 |
-| 26 | [Be There](https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:18 |
+| 25 | [Be There](https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:18 |
+| 26 | [Beggars](https://open.spotify.com/track/0UBgJMgfxiIsuL9zfiEuKn) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Diskord](https://open.spotify.com/artist/3o8BMojuQONFOJ0cJ0qOEc) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:47 |
 | 27 | [Drive Away](https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:00 |
 | 28 | [Killin' It](https://open.spotify.com/track/3rHFo3c176QQnZ3Ucdbp21) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 3:27 |
 | 29 | [Good On You \- MOTi Remix](https://open.spotify.com/track/30PysXbn5cVodLBPGV2FWb) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [zer0 \(The Remixes, Pt\. 1\)](https://open.spotify.com/album/1tKNZiieRvhgkQce7FufKC) | 2:36 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 34 | [Somewhere to Run](https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Somewhere to Run](https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR) | 3:42 |
 | 35 | [We Go Down](https://open.spotify.com/track/5QxkroIQPiY8UKgSFFuYQd) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:05 |
 | 36 | [TH2C](https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:11 |
-| 37 | [Set Yourself Free](https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:39 |
-| 38 | [dead af](https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [dead af](https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q) | 3:28 |
+| 37 | [dead af](https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [dead af](https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q) | 3:28 |
+| 38 | [Set Yourself Free](https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:39 |
 | 39 | [Broken Record](https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:28 |
 | 40 | [Runaway](https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Runaway](https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4) | 3:39 |
 | 41 | [Ain't That Why \- Skytech Remix](https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Ain't That Why \(Skytech Remix\)](https://open.spotify.com/album/5SBbYFv2EbBbZh9GqX7CJi) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 49 | [Play Hard](https://open.spotify.com/track/1fXmeYsGbs8Mtp6ozgzB8r) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 4:26 |
 | 50 | [zer0](https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:47 |
 
-Snapshot ID: `Zql+gAAAAACxZpWRyFcyZoSHSRP7gBIB`
+Snapshot ID: `ZqrQAAAAAADxlU42/bymrjrvbfLZAwjL`

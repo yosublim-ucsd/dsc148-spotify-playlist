@@ -1,12 +1,12 @@
 {
   "description": "Porque no to' e' Dembow en RD loco. Portada: El Alfa, Nfasis",
-  "num_followers": 243090,
+  "num_followers": 243181,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAACUKT+nulbAb0ZwoMgwln72",
+  "snapshot_id": "ZqxZwAAAAABj+dYy/ZhhNpniJNKx9a7s",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -47,6 +47,26 @@
       "duration_ms": 137264,
       "name": "Suano",
       "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/3hxPoGmqQO9iVxthYnIhY0"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 195658,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/54SxKnMV1na7LvI5xVoA5e"
     },
     {
       "added_at": "2024-03-27 20:37:44",
@@ -165,6 +185,22 @@
       "url": "https://open.spotify.com/track/0c1ctKLU6NrzBXYJBz8z4p"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Tu Va Dobla",
+        "url": "https://open.spotify.com/album/7KoHMmeRMnEc4BvPgqRtpV"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "duration_ms": 225045,
+      "name": "Tu Va Dobla",
+      "url": "https://open.spotify.com/track/1MdRheKsZwj6sAbjaIJh2R"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Libras En El Duffle",
@@ -253,6 +289,34 @@
       "url": "https://open.spotify.com/track/0d0DyH6aH6wcTPplWxfQXd"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Cualto Y La Pistola Remix",
+        "url": "https://open.spotify.com/album/7LZVHEaSZ4DlRG86zOVwXz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        },
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        },
+        {
+          "name": "Eli Fross",
+          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
+        }
+      ],
+      "duration_ms": 227767,
+      "name": "Cualto Y La Pistola Remix",
+      "url": "https://open.spotify.com/track/27Ibh3TC55sAwzzIqUCgth"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Mi Viejo",
@@ -325,24 +389,28 @@
       "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
     },
     {
-      "added_at": "2024-07-19 06:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Caretu",
-        "url": "https://open.spotify.com/album/4IqENBiD4QFLRqzMs7VLSe"
+        "name": "Eh Un Bobo",
+        "url": "https://open.spotify.com/album/6A7BR9X999JhWyYPoVPQQH"
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Daya La Del Bobo",
+          "url": "https://open.spotify.com/artist/2elF27bcdzvdrkrwqq3fqb"
         },
         {
-          "name": "Mo El 28",
-          "url": "https://open.spotify.com/artist/7A0JW8yMQHeSD85f0bZvPu"
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "Moncholo La Vainilla",
+          "url": "https://open.spotify.com/artist/11QRlEwbooxjVZNRQHH1KX"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Caretu",
-      "url": "https://open.spotify.com/track/0qGVGmlwgTSZtoUXr1TM3i"
+      "duration_ms": 186600,
+      "name": "Eh Un Bobo",
+      "url": "https://open.spotify.com/track/0T3KM5rHrIGc9vXMgLrdpi"
     },
     {
       "added_at": "2024-02-23 07:01:51",
@@ -413,28 +481,24 @@
       "url": "https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y"
     },
     {
-      "added_at": "2024-07-19 06:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Un Dato",
-        "url": "https://open.spotify.com/album/2xYQ5KDoq1Dctuy4d7mzre"
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4IAsIJScSYsen7jq7KjNRK"
       },
       "artists": [
         {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+          "name": "Eklectico Diablo",
+          "url": "https://open.spotify.com/artist/2i81dh40yW90vNCpJYOunK"
         },
         {
-          "name": "Findy RD",
-          "url": "https://open.spotify.com/artist/2CnGNUq5lcAhNvdeb2HtWI"
-        },
-        {
-          "name": "Rey Henrii",
-          "url": "https://open.spotify.com/artist/2YPwU6sI8opMU7rlpaUSlF"
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Un Dato",
-      "url": "https://open.spotify.com/track/7Ms17wvMbuIgyBYpJFYWAx"
+      "duration_ms": 147692,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/43nliT1KgLI88OmHRSqstJ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -473,26 +537,6 @@
       "url": "https://open.spotify.com/track/3pjh4rGnTgLPOUb2diydH9"
     },
     {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Mi Chico",
-        "url": "https://open.spotify.com/album/54lAVXBkFU7de4mBBWYhu5"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Sammy The Greatest",
-          "url": "https://open.spotify.com/artist/51NCx9Br54qYPezwKIvIz3"
-        }
-      ],
-      "duration_ms": 194387,
-      "name": "Mi Chico",
-      "url": "https://open.spotify.com/track/3EOzK14fWquSyJ5gOH2vl1"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Fan de su Relacion",
@@ -525,24 +569,20 @@
       "url": "https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH"
     },
     {
-      "added_at": "2024-07-19 06:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Enchulao",
-        "url": "https://open.spotify.com/album/48P7aRcuvQSXAtwdnzhwK8"
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/6KX02CSspsaKId41ZQI65u"
       },
       "artists": [
         {
-          "name": "Jc La Nevula",
-          "url": "https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc"
-        },
-        {
-          "name": "Hasly",
-          "url": "https://open.spotify.com/artist/3CGQDCqSnBMwYxoZQxQJHV"
+          "name": "lejazzy",
+          "url": "https://open.spotify.com/artist/6Xjmpnt9WtUHfeBRBD9aER"
         }
       ],
-      "duration_ms": 210170,
-      "name": "Enchulao",
-      "url": "https://open.spotify.com/track/66hbvQhKgCeI0oYE3diZiN"
+      "duration_ms": 155688,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/4gSCux1nBQmZWR9SUL0XIe"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -625,6 +665,22 @@
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "ENEMIGOS",
+        "url": "https://open.spotify.com/album/3zMTA6YZOi3ewJoZk3FCtO"
+      },
+      "artists": [
+        {
+          "name": "Don Forty Five",
+          "url": "https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "ENEMIGOS",
+      "url": "https://open.spotify.com/track/6uaGI50aeUZiDi9wG5pyS7"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Una Flor",
@@ -647,26 +703,6 @@
       "duration_ms": 182278,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/71wH2jpfkQRbLDOznDgVq1"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "3 X 1",
-        "url": "https://open.spotify.com/album/70Lh6yhlFrIPCb4T5B74Vf"
-      },
-      "artists": [
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        },
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        }
-      ],
-      "duration_ms": 311770,
-      "name": "3 X 1",
-      "url": "https://open.spotify.com/track/7lBnqp8VXTtvC1nSsIO1nb"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -719,22 +755,6 @@
       "duration_ms": 264827,
       "name": "Lokisla",
       "url": "https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Yo Enfocado",
-        "url": "https://open.spotify.com/album/1NwXale8SgifEbslKgf0Xn"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Yo Enfocado",
-      "url": "https://open.spotify.com/track/3Oi5p52ULUtCgeAsbIBRJg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -931,22 +951,6 @@
       "duration_ms": 180048,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Not Like Us (Spanish Remix)",
-        "url": "https://open.spotify.com/album/7afSfqRIx0JW0BtGyybsUw"
-      },
-      "artists": [
-        {
-          "name": "El Fother",
-          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
-        }
-      ],
-      "duration_ms": 199601,
-      "name": "Not Like Us (Spanish Remix)",
-      "url": "https://open.spotify.com/track/52pYQKgN23DDPh4ELW9UJC"
     },
     {
       "added_at": "2024-07-26 04:00:00",

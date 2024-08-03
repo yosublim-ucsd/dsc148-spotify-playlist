@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12265,
+  "num_followers": 12271,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -1049,20 +1049,24 @@
       "url": "https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK"
     },
     {
-      "added_at": "2024-04-12 00:45:23",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Le jour et la nuit du r\u00e9el",
-        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
+        "name": "Wandering II (Ed Carlsen Rework)",
+        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
       },
       "artists": [
         {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        },
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
         }
       ],
-      "duration_ms": 131120,
-      "name": "Night looping - Movement I",
-      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
+      "duration_ms": 190754,
+      "name": "Wandering II - Ed Carlsen Rework",
+      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
     },
     {
       "added_at": "2022-09-15 12:57:17",
@@ -1085,24 +1089,20 @@
       "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
+      "added_at": "2024-04-12 00:45:23",
       "album": {
-        "name": "Wandering II (Ed Carlsen Rework)",
-        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
+        "name": "Le jour et la nuit du r\u00e9el",
+        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        },
-        {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
         }
       ],
-      "duration_ms": 190754,
-      "name": "Wandering II - Ed Carlsen Rework",
-      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
+      "duration_ms": 131120,
+      "name": "Night looping - Movement I",
+      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
     },
     {
       "added_at": "2024-03-21 23:52:34",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU"
     },
     {
+      "added_at": "2022-02-15 01:09:46",
+      "album": {
+        "name": "1981",
+        "url": "https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin"
+      },
+      "artists": [
+        {
+          "name": "Hautefort",
+          "url": "https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg"
+        }
+      ],
+      "duration_ms": 254954,
+      "name": "1981",
+      "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Pyramid",
@@ -1223,22 +1239,6 @@
       "duration_ms": 288068,
       "name": "AM Prosperita\u0308t",
       "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
-    },
-    {
-      "added_at": "2022-02-15 01:09:46",
-      "album": {
-        "name": "1981",
-        "url": "https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin"
-      },
-      "artists": [
-        {
-          "name": "Hautefort",
-          "url": "https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg"
-        }
-      ],
-      "duration_ms": 254954,
-      "name": "1981",
-      "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
     },
     {
       "added_at": "2021-10-06 04:38:12",

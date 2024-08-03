@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 18992,
+  "num_followers": 19001,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,22 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "NEW REAL",
-        "url": "https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt"
+        "name": "DISTORTION",
+        "url": "https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI"
       },
       "artists": [
         {
-          "name": "Watson",
-          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
         },
         {
-          "name": "Young zetton",
-          "url": "https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
         }
       ],
-      "duration_ms": 195375,
-      "name": "NEW REAL",
-      "url": "https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5"
+      "duration_ms": 161057,
+      "name": "27CLUB feat. LEX",
+      "url": "https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -691,22 +691,22 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "DISTORTION",
-        "url": "https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI"
+        "name": "NEW REAL",
+        "url": "https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt"
       },
       "artists": [
         {
-          "name": "kZm",
-          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
         },
         {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+          "name": "Young zetton",
+          "url": "https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS"
         }
       ],
-      "duration_ms": 161057,
-      "name": "27CLUB feat. LEX",
-      "url": "https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1"
+      "duration_ms": 195375,
+      "name": "NEW REAL",
+      "url": "https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "SAICO",
-        "url": "https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 167429,
-      "name": "SAICO",
-      "url": "https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "Step Into The Arena",
         "url": "https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 226126,
       "name": "Step Into The Arena",
       "url": "https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "SAICO",
+        "url": "https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 167429,
+      "name": "SAICO",
+      "url": "https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

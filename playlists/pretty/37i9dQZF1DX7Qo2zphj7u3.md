@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Las románticas de hoy y de siempre\. Foto: Cali Y El Dandee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,002,131 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,002,076 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 49 | [Por Amarte Así](https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Vida Sin Tu Amor](https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl) | 4:32 |
 | 50 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
 | 51 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |
-| 52 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Cama Incendiada](https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa) | 4:32 |
-| 53 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
-| 54 | [No Querías Lastimarme](https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:44 |
+| 52 | [No Querías Lastimarme](https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:44 |
+| 53 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Cama Incendiada](https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa) | 4:32 |
+| 54 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
 | 55 | [Te Quiero](https://open.spotify.com/track/5sO5U27s6EUGMBj4fkqUyz) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Te Quiero](https://open.spotify.com/album/0YmzPJsNmuM10SAWwjhIBR) | 3:12 |
 | 56 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
 | 57 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 66 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
 | 67 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
 | 68 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 |
-| 69 | [Te quiero](https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te quiero](https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe) | 3:34 |
-| 70 | [Yo Te Amo](https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 4:48 |
+| 69 | [Yo Te Amo](https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 4:48 |
+| 70 | [Te quiero](https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te quiero](https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe) | 3:34 |
 | 71 | [Bésame](https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:12 |
 | 72 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
 | 73 | [Lo Que No Fue No Será](https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:33 |
-| 74 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
-| 75 | [Me Enamoré de Ti](https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [No Hay Imposibles](https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07) | 4:23 |
+| 74 | [Me Enamoré de Ti](https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [No Hay Imposibles](https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07) | 4:23 |
+| 75 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
 | 76 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 |
 | 77 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 |
 | 78 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 95 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 |
 | 96 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 |
 | 97 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
-| 98 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 |
+| 98 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
 | 99 | [Caminar de Tu Mano \(feat\. Fonseca\)](https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Eres la Persona Correcta en el Momento Equivocado \(Deluxe Edition\)](https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr) | 3:26 |
-| 100 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
+| 100 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 |
 
-Snapshot ID: `ZpnkwAAAAABhqXDcBr1+MNJZm/+kwBy5`
+Snapshot ID: `ZqxZwAAAAAAUmI79ycIhJln5lSzVW7/p`

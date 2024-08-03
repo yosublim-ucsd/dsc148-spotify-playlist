@@ -2,9 +2,9 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: KCee
+> Afro sounds crossing borders\. Cover: Victony
 
-561 songs - 1 day 5 hr 32 min
+562 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Fever](https://open.spotify.com/track/142W4sghig6ntEtYlT3RvH) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Pheelz Good II](https://open.spotify.com/album/0XggRVMapMGMuh55fKDD4Y) | 2:33 | 2024-06-28 | 2024-07-06 |
 | [Fiction \(feat\. Busy Signal\)](https://open.spotify.com/track/27FUxZMduwKmhhCmnXjqTO) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [All or Nothing](https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V) | 3:26 | 2021-09-10 | 2023-05-15 |
 | [Fiesta](https://open.spotify.com/track/2cmGT9BaqDrmJKK4iZ3mXf) | [Opvibes](https://open.spotify.com/artist/6v3w7B5qtF8NdhIsM7qQq0) | [Fiesta](https://open.spotify.com/album/5Z4Ey7p69GEXq8KcTM06MQ) | 3:05 | 2021-09-10 | 2022-07-06 |
-| [Finally Finally](https://open.spotify.com/track/7bzOg4aR7E0z4aigy7zwwt) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Mr\. Versatile](https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA) | 2:09 | 2024-07-26 |  |
+| [Finally Finally](https://open.spotify.com/track/7bzOg4aR7E0z4aigy7zwwt) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Mr\. Versatile](https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA) | 2:09 | 2024-07-26 | 2024-08-03 |
 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 | 2021-09-10 | 2023-10-16 |
 | [FIND YOUR WAY BACK \- MELO\-X Remix](https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Melo\-X](https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 3:36 | 2021-09-10 | 2022-09-26 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-07-25 |  |
@@ -286,6 +286,7 @@
 | [Lo Lo](https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL) | 2:51 | 2021-09-10 | 2024-01-26 |
 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 | 2021-09-10 | 2024-01-26 |
 | [Loko](https://open.spotify.com/track/7BghVXfFshkZ07LNeBLkdS) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Healing Process EP](https://open.spotify.com/album/5kOz3pdFtl1mGsb4sH0pwm) | 3:32 | 2022-03-25 | 2022-04-17 |
+| [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 | 2024-08-02 |  |
 | [Lonely](https://open.spotify.com/track/7CEtMPWyALbePUNSi5Ak3F) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Lonely](https://open.spotify.com/album/7venGVbmyCI4UBIgyYxW0M) | 2:56 | 2021-09-10 | 2022-07-27 |
 | [Lonely At The Top](https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:37 | 2023-10-15 |  |
 | [Lonely At The Top \- Remix](https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Lonely At The Top \(Remix\)](https://open.spotify.com/album/4uKPsyfeHc4KFn0mxPa59y) | 2:37 | 2023-11-24 | 2024-01-26 |

@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 510382,
       "name": "207",
       "url": "https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde"
@@ -2295,6 +2295,32 @@
     },
     {
       "album": {
+        "name": "Big Za",
+        "url": "https://open.spotify.com/album/4HsFqCewIHsBBEVloE0lKa"
+      },
+      "artists": [
+        {
+          "name": "Suburban XJ",
+          "url": "https://open.spotify.com/artist/33sc1RuYF53bpbfbgTuvxn"
+        },
+        {
+          "name": "Von DKG",
+          "url": "https://open.spotify.com/artist/0c4m6MAKEV2fBPD667AM7w"
+        },
+        {
+          "name": "Shamrokk",
+          "url": "https://open.spotify.com/artist/3JBXyRz3nV2xAgq7kYWx5V"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172216,
+      "name": "Big Za",
+      "url": "https://open.spotify.com/track/5iYRYD4LD6kWUCO3HSjS5V"
+    },
+    {
+      "album": {
         "name": "Billions",
         "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
       },
@@ -4212,7 +4238,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
@@ -5842,6 +5868,32 @@
       "duration_ms": 199313,
       "name": "Falling Up (with Pharrell Williams & Nile Rodgers)",
       "url": "https://open.spotify.com/track/3zc7EnOlA5beOhw46BKPb1"
+    },
+    {
+      "album": {
+        "name": "Fashion Killer",
+        "url": "https://open.spotify.com/album/0xpHYjPOkLSP0LtnXvCPhj"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "ZiiBeats",
+          "url": "https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137411,
+      "name": "Fashion Killer",
+      "url": "https://open.spotify.com/track/1j5hSr4QLeAdAFyr6sbZUT"
     },
     {
       "album": {
@@ -13590,7 +13642,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 250624,
       "name": "One Love",
       "url": "https://open.spotify.com/track/0WXElLx0sMJO3iReyZoNf4"
@@ -17943,6 +17995,24 @@
     },
     {
       "album": {
+        "name": "Strictly The Best Vol. 45",
+        "url": "https://open.spotify.com/album/44J9e1B5poRr0yEprAGbbS"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0fQeh4MYcX7VvRwfeSjnwz"
+    },
+    {
+      "album": {
         "name": "Sungba (Remix) [feat. Burna Boy]",
         "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
       },
@@ -19048,6 +19118,32 @@
       "duration_ms": 135651,
       "name": "Tikitak",
       "url": "https://open.spotify.com/track/6z2pL9JslKLIWbsm68s1V4"
+    },
+    {
+      "album": {
+        "name": "Tip (London Bridge)",
+        "url": "https://open.spotify.com/album/6DNwvY2SIguBKBT8AYqJ4o"
+      },
+      "artists": [
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        },
+        {
+          "name": "Roze Don",
+          "url": "https://open.spotify.com/artist/6PUMb9DPJ9l0j0goEYBFHX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168448,
+      "name": "Tip (London Bridge)",
+      "url": "https://open.spotify.com/track/3KgTZZGXsZ4CVlfikGqtkW"
     },
     {
       "album": {
@@ -21516,7 +21612,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 150760,
       "name": "YAYO",
       "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"

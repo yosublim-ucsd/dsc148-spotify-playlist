@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 246000,
       "name": "Apa Kabar Mantan",
       "url": "https://open.spotify.com/track/36hZ4BvcFwJqpmQDO2vFq0"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 346000,
       "name": "Bubrah",
       "url": "https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ"
@@ -508,6 +508,24 @@
       "duration_ms": 233500,
       "name": "Gede Roso",
       "url": "https://open.spotify.com/track/3WdcGNxJHzyjZdu6Y15E6G"
+    },
+    {
+      "album": {
+        "name": "HTS",
+        "url": "https://open.spotify.com/album/1ZZMNuAJlEXBfcKL7kGOkl"
+      },
+      "artists": [
+        {
+          "name": "Nayla Fardila",
+          "url": "https://open.spotify.com/artist/3j0qZWmFuvRwN6OcG4m4Fh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283979,
+      "name": "HTS",
+      "url": "https://open.spotify.com/track/04RtfxsXh0VDrEKfnvpXFI"
     },
     {
       "album": {
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 290000,
       "name": "Tresno Liyane",
       "url": "https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR"

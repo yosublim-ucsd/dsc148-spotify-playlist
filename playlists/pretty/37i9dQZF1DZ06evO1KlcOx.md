@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 
 > This is Grouper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,756 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,759 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 | 30 | [Lighthouse](https://open.spotify.com/track/10dTTsgL5hPujRahg22tan) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 5:44 |
 | 31 | [No Other](https://open.spotify.com/track/2zmNpl4DSTf388swxiV7F3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 3:46 |
 | 32 | [STS](https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 6:06 |
-| 33 | [Opened Space](https://open.spotify.com/track/4qL78jNDOxMqRhjH5nKf1Z) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:22 |
+| 33 | [Unclean mind](https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 34 | [Labyrinth](https://open.spotify.com/track/3qKYIZTq1u62J2o98CzmGR) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 3:47 |
-| 35 | [Unclean mind](https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
+| 35 | [Opened Space](https://open.spotify.com/track/4qL78jNDOxMqRhjH5nKf1Z) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:22 |
 | 36 | [Difference \(Voices\)](https://open.spotify.com/track/14FUKDzHnmJQc9leR0ripj) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 5:48 |
 | 37 | [Make Me Over](https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Wide](https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE) | 1:59 |
 | 38 | [Made of Metal](https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 1:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 | 49 | [Heart Current](https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 4:41 |
 | 50 | [Driving](https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 3:48 |
 
-Snapshot ID: `Zql+gAAAAAADuWyKLCFPhRkj22uvIVXl`
+Snapshot ID: `ZqrQAAAAAABH5fZMwTbfyMvZfJesXV4J`

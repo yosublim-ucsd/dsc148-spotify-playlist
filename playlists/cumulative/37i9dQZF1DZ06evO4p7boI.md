@@ -4,7 +4,7 @@
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 7 min
+61 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Hit](https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 2:49 | 2023-12-13 |  |
 | [Interstellar \(with Lil Uzi Vert\)](https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 2:44 | 2023-12-13 |  |
 | [It's A Flex \(feat\. NAV\)](https://open.spotify.com/track/1gR8SPZg0pDh2F0Ridi3e1) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [88GLAM2](https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd) | 3:18 | 2024-05-22 | 2024-05-24 |
-| [Kukoč \(feat\. NAV\)](https://open.spotify.com/track/188Y8ny5w1GArwFjXE2arA) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Flu Game](https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7) | 3:15 | 2023-12-13 |  |
+| [Kukoč \(feat\. NAV\)](https://open.spotify.com/track/188Y8ny5w1GArwFjXE2arA) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Flu Game](https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7) | 3:15 | 2023-12-13 | 2024-08-03 |
 | [Lately](https://open.spotify.com/track/46DB28jumopDyMuYhjoydV) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lately](https://open.spotify.com/album/7r2z3mRulccCz5XgmAaCcr) | 3:50 | 2023-12-13 |  |
 | [Leaders \(feat\. NAV\)](https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Eternal Atake \(Deluxe\) \- LUV vs\. The World 2](https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2) | 3:14 | 2023-12-13 |  |
 | [Lemonade \(feat\. NAV\)](https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [B4 The Storm](https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a) | 3:15 | 2023-12-13 |  |
@@ -56,6 +56,7 @@
 | [Price On My Head \(feat\. The Weeknd\)](https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:37 | 2023-12-13 |  |
 | [Pull Up \(feat\. NAV\)](https://open.spotify.com/track/76vviJBqmRdMMb9u9npgfj) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:13 | 2023-12-13 | 2024-07-23 |
 | [Recap \(feat\. Don Toliver\)](https://open.spotify.com/track/67LB1vZuG114LqRN8h8bQ2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:23 | 2023-12-13 |  |
+| [Rexdale](https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Rexdale](https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4) | 2:05 | 2024-08-03 |  |
 | [Run It Up \(feat\. Pop Smoke\)](https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:59 | 2023-12-13 |  |
 | [Saint Laurenttt](https://open.spotify.com/track/2oPQVgCTYqA4FBknwAroWf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:50 | 2024-05-19 | 2024-06-13 |
 | [Some Way](https://open.spotify.com/track/7zxRMhXxJMQCeDDg0rKAVo) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:59 | 2023-12-13 |  |

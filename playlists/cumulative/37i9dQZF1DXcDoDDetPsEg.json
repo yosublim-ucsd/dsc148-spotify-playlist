@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Young T & Bugsey",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Skillibeng",
   "name": "Who We Be",
   "tracks": [
     {
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 136800,
       "name": "Beretta",
       "url": "https://open.spotify.com/track/0f8chi9Bk1SstR3Rla6bJs"
@@ -2794,6 +2794,28 @@
       "duration_ms": 168394,
       "name": "Bong Bing",
       "url": "https://open.spotify.com/track/2Nk5EgP9wXa3bpTU8V4i5t"
+    },
+    {
+      "album": {
+        "name": "Boom (feat. Tokischa)",
+        "url": "https://open.spotify.com/album/4Liw2H1qC6Nq3ojx8wQBOB"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132644,
+      "name": "Boom (feat. Tokischa)",
+      "url": "https://open.spotify.com/track/0OCdChh8IoBCIm3kVGY3GN"
     },
     {
       "album": {
@@ -3770,6 +3792,24 @@
     {
       "album": {
         "name": "Check",
+        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
+    },
+    {
+      "album": {
+        "name": "Check",
         "url": "https://open.spotify.com/album/5BEBSJT2cUo5CkpS7UBiZw"
       },
       "artists": [
@@ -4282,7 +4322,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180720,
       "name": "Continental (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz"
@@ -4464,6 +4504,28 @@
       "duration_ms": 152368,
       "name": "Crazy Crazy",
       "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
+    },
+    {
+      "album": {
+        "name": "Crazy Girl",
+        "url": "https://open.spotify.com/album/7okCYdU1tkTLt7Cz1BdxLg"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214226,
+      "name": "Crazy Girl",
+      "url": "https://open.spotify.com/track/405LD5JwS0BTkV4Ba6ci0A"
     },
     {
       "album": {
@@ -7815,6 +7877,24 @@
     },
     {
       "album": {
+        "name": "Galahad",
+        "url": "https://open.spotify.com/album/721nvr0OG4VoFIm7TBHLVC"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Galahad",
+      "url": "https://open.spotify.com/track/2EafSuRnstn5xtJXO9adat"
+    },
+    {
+      "album": {
         "name": "Galore",
         "url": "https://open.spotify.com/album/7jY8hs48odLE9qcMHeXxJb"
       },
@@ -10334,7 +10414,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 172444,
       "name": "I'M TRYNA",
       "url": "https://open.spotify.com/track/1ca2jDAcDOT79MYLRoaciZ"
@@ -11662,10 +11742,32 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
+    },
+    {
+      "album": {
+        "name": "KEHLANI (REMIX) [feat. Kehlani]",
+        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     },
     {
       "album": {
@@ -12726,6 +12828,28 @@
       "duration_ms": 155500,
       "name": "Loketu",
       "url": "https://open.spotify.com/track/1z1QfpUCH0tp9T5aAVLStB"
+    },
+    {
+      "album": {
+        "name": "Lomo Lomo",
+        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175130,
+      "name": "Lomo Lomo",
+      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
       "album": {
@@ -14920,7 +15044,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 160496,
       "name": "NASTII",
       "url": "https://open.spotify.com/track/3zPzkOXvineaTCwRsYKZyG"
@@ -15724,6 +15848,24 @@
       "duration_ms": 213066,
       "name": "Not",
       "url": "https://open.spotify.com/track/2A6nUIicRakdC5VwkytMa9"
+    },
+    {
+      "album": {
+        "name": "Not A Gold Digger",
+        "url": "https://open.spotify.com/album/750CWMNi7dk4sItvrjhDfk"
+      },
+      "artists": [
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "Not A Gold Digger",
+      "url": "https://open.spotify.com/track/1Bs1wTR7nQznl6SaKgMq4X"
     },
     {
       "album": {
@@ -20953,6 +21095,24 @@
     },
     {
       "album": {
+        "name": "Stress Free",
+        "url": "https://open.spotify.com/album/0xDQfHj9i7SAwQX0MyGr72"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131673,
+      "name": "Stress Free - Raw",
+      "url": "https://open.spotify.com/track/6SJiWvwpl8A6Q9swnk1j5k"
+    },
+    {
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -21177,6 +21337,24 @@
     },
     {
       "album": {
+        "name": "Suns Out",
+        "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151788,
+      "name": "Suns Out",
+      "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
+    },
+    {
+      "album": {
         "name": "Super Freaky Girl",
         "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
       },
@@ -21316,7 +21494,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 111229,
       "name": "sweeeet",
       "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
@@ -22228,7 +22406,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 169560,
       "name": "Tipsy (feat. Aitch)",
       "url": "https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh"
@@ -22272,7 +22450,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 284892,
       "name": "Tobey (feat. Big Sean and BabyTron)",
       "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
@@ -23010,7 +23188,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179857,
       "name": "UK Baddie (with SL)",
       "url": "https://open.spotify.com/track/7u1fskxxb0itXZZyGkKjFI"
@@ -23797,6 +23975,28 @@
     },
     {
       "album": {
+        "name": "We Uh Shoot (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153842,
+      "name": "We Uh Shoot (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH"
+    },
+    {
+      "album": {
         "name": "We Won",
         "url": "https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7"
       },
@@ -24088,7 +24288,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1768299,
+  "num_followers": 1768377,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lj7zGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LkBEmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Harpy Hare",
         "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Dil Tu Jaan Tu",
         "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
@@ -137,7 +137,23 @@
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Tu Silueta",
         "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
@@ -153,23 +169,7 @@
       "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "Star, Fire, Night and Such Things",
-        "url": "https://open.spotify.com/album/1iTrNvgfc1ZVU4mNBdtKDM"
-      },
-      "artists": [
-        {
-          "name": "We Are The Night",
-          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
-        }
-      ],
-      "duration_ms": 190386,
-      "name": "Tiramisu Cake",
-      "url": "https://open.spotify.com/track/07u4MPxsapzsCy9F64p5G2"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Chihiro",
         "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
@@ -185,7 +185,23 @@
       "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "Star, Fire, Night and Such Things",
+        "url": "https://open.spotify.com/album/1iTrNvgfc1ZVU4mNBdtKDM"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "duration_ms": 190386,
+      "name": "Tiramisu Cake",
+      "url": "https://open.spotify.com/track/07u4MPxsapzsCy9F64p5G2"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Proud",
         "url": "https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -265,23 +281,23 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "De\u011fi\u015fmene Ra\u011fmen",
         "url": "https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Bunga Abadi",
         "url": "https://open.spotify.com/album/3mfUQStqcygHEOJjI7nZm4"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/0hPIuo3qZgyjDKJTI7xu8A"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
         "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
@@ -405,7 +421,39 @@
       "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "TOO COOL TO BE CARELESS",
+        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220046,
+      "name": "TOO COOL TO BE CARELESS",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
@@ -425,23 +473,23 @@
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
-        "name": "TOO COOL TO BE CARELESS",
-        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 220046,
-      "name": "TOO COOL TO BE CARELESS",
-      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Descendants: The Rise of Red (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
@@ -461,39 +509,7 @@
       "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 195109,
-      "name": "Juna",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Beckham",
         "url": "https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw"
@@ -525,7 +541,23 @@
       "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
         "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
@@ -549,7 +581,7 @@
       "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -565,23 +597,7 @@
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
-      },
-      "artists": [
-        {
-          "name": "JYEUHAIR",
-          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
-        }
-      ],
-      "duration_ms": 121043,
-      "name": "Peace - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/44aVBwrB5qGHvsp9e8wVby"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Aasa Kooda (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
@@ -617,23 +633,39 @@
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
-        "name": "Double Life (From \"Despicable Me 4\")",
-        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
         }
       ],
-      "duration_ms": 190782,
-      "name": "Double Life - From \"Despicable Me 4\"",
-      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+      "duration_ms": 184670,
+      "name": "Lama-Lama",
+      "url": "https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
+      },
+      "artists": [
+        {
+          "name": "JYEUHAIR",
+          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
+        }
+      ],
+      "duration_ms": 121043,
+      "name": "Peace - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/44aVBwrB5qGHvsp9e8wVby"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Red (From \"Descendants: The Rise of Red\")",
         "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
@@ -657,87 +689,7 @@
       "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "Bando Stone and The New World",
-        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Lithonia",
-      "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "DOMDOM",
-        "url": "https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X"
-      },
-      "artists": [
-        {
-          "name": "Keskin",
-          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
-        }
-      ],
-      "duration_ms": 133973,
-      "name": "DOMDOM",
-      "url": "https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "MARKERS AND SUCH PENS FLASHDISKS",
-        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
-      },
-      "artists": [
-        {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-        }
-      ],
-      "duration_ms": 209693,
-      "name": "Gala bunga matahari",
-      "url": "https://open.spotify.com/track/5eBk8ZXcd0pb0AO4a5PpOg"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "Hai Yorokonde",
-        "url": "https://open.spotify.com/album/1wz8OHzR2Z9DduiN8v86Tz"
-      },
-      "artists": [
-        {
-          "name": "Kocchi no Kento",
-          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Hai Yorokonde",
-      "url": "https://open.spotify.com/track/6woV8uWxn7rcLZxJKYruS1"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "Sialnya, Hidup Harus Tetap Berjalan",
-        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 184670,
-      "name": "Lama-Lama",
-      "url": "https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "de l'accordeoniste a milord",
         "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
@@ -753,7 +705,71 @@
       "url": "https://open.spotify.com/track/7wQEazOrLEHSCMo3gEuV88"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "Hai Yorokonde",
+        "url": "https://open.spotify.com/album/1wz8OHzR2Z9DduiN8v86Tz"
+      },
+      "artists": [
+        {
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Hai Yorokonde",
+      "url": "https://open.spotify.com/track/6woV8uWxn7rcLZxJKYruS1"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "DOMDOM",
+        "url": "https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X"
+      },
+      "artists": [
+        {
+          "name": "Keskin",
+          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
+        }
+      ],
+      "duration_ms": 133973,
+      "name": "DOMDOM",
+      "url": "https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 209693,
+      "name": "Gala bunga matahari",
+      "url": "https://open.spotify.com/track/5eBk8ZXcd0pb0AO4a5PpOg"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Untungnya, Hidup Harus Tetap Berjalan",
+      "url": "https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
         "url": "https://open.spotify.com/album/4rsN93FJo8QLv2MLSiMivc"
@@ -769,39 +785,39 @@
       "url": "https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
-        "name": "MINIMI",
-        "url": "https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "Bryan Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 150000,
-      "name": "MINIMI",
-      "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
-        "name": "Museo",
-        "url": "https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr"
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
       },
       "artists": [
         {
-          "name": "Eliza Maturan",
-          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 270400,
-      "name": "Museo",
-      "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
+      "duration_ms": 178960,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -817,27 +833,23 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
-        "name": "you look like you love me (feat. Riley Green)",
-        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
+        "name": "Museo",
+        "url": "https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr"
       },
       "artists": [
         {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
         }
       ],
-      "duration_ms": 224280,
-      "name": "you look like you love me (feat. Riley Green)",
-      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
+      "duration_ms": 270400,
+      "name": "Museo",
+      "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "Suniyan Suniyan",
         "url": "https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR"
@@ -857,7 +869,59 @@
       "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"
     },
     {
-      "added_at": "2024-08-01 13:36:10",
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "MINIMI",
+        "url": "https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "MINIMI",
+      "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 167291,
+      "name": "SIN MIEDO",
+      "url": "https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
+      "album": {
+        "name": "you look like you love me (feat. Riley Green)",
+        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "you look like you love me (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
+    },
+    {
+      "added_at": "2024-08-02 19:40:26",
       "album": {
         "name": "R\u00f3\u017c",
         "url": "https://open.spotify.com/album/1yshQQ9rEmfZTWqNccWAZ1"
@@ -879,82 +943,6 @@
       "duration_ms": 171694,
       "name": "R\u00f3\u017c",
       "url": "https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
-      },
-      "artists": [
-        {
-          "name": "Yorssy",
-          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
-        }
-      ],
-      "duration_ms": 129153,
-      "name": "CRF - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "The Spark",
-        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
-      },
-      "artists": [
-        {
-          "name": "Kabin Crew",
-          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
-        },
-        {
-          "name": "Lisdoonvarna Crew",
-          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
-        }
-      ],
-      "duration_ms": 146384,
-      "name": "The Spark",
-      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
-    },
-    {
-      "added_at": "2024-08-01 13:36:10",
-      "album": {
-        "name": "zosta\u0144, prosz\u0119",
-        "url": "https://open.spotify.com/album/4ZCCHJbKdusUv15RU5lJZH"
-      },
-      "artists": [
-        {
-          "name": "kuqe 2115",
-          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
-        },
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        }
-      ],
-      "duration_ms": 164691,
-      "name": "zosta\u0144, prosz\u0119",
-      "url": "https://open.spotify.com/track/5i0KjwixfbjGyD1Dxa6vxS"
     }
   ],
   "unique_name": "Viral 50 - Global",

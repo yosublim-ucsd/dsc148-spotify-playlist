@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This Is Los Traileros Del Norte\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,314 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,316 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 33 | [Aprendí Contigo](https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:51 |
 | 34 | [La Francis](https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:51 |
 | 35 | [La Paga](https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:52 |
-| 36 | [Islas Marías](https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:03 |
+| 36 | [Trigueñita De Ojos Negros](https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:38 |
 | 37 | [El Conejito](https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:05 |
-| 38 | [Trigueñita De Ojos Negros](https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:38 |
+| 38 | [Islas Marías](https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:03 |
 | 39 | [Mudo Por Tu Amor](https://open.spotify.com/track/0zItQwc6k71g0smaBjrng1) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:20 |
 | 40 | [Ultimo Amor, Ultimo Dueño](https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:56 |
 | 41 | [La Entrega](https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 49 | [Ven](https://open.spotify.com/track/1yUMetUWBf8xoh8XBa4PZm) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Como Decirte](https://open.spotify.com/album/3zMm3HTIhFivAyQOSHjfYy) | 2:48 |
 | 50 | [Ahora Que Estuviste Lejos](https://open.spotify.com/track/3g9YsvJjIeKa2W2sXg7tae) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amnesia](https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz) | 2:34 |
 
-Snapshot ID: `Zql+gAAAAAAd0cY/zyqRakiBMVQwGVBa`
+Snapshot ID: `ZqrQAAAAAAC0BbzMq527FRzVYIaZGp/f`

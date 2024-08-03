@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 3 | [Hypothetically](https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Hypothetically](https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO) | 2:41 |
 | 4 | [Girlhood, Godhood](https://open.spotify.com/track/50arhjErqvGjMz07YgebJx) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Girlhood, Godhood](https://open.spotify.com/album/3Zq5xW18jIthd3jr4jt7ga) | 2:24 |
 | 5 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 |
-| 6 | [blip](https://open.spotify.com/track/3jUa8gNaETKW2Ru4iQNFDy) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [blip](https://open.spotify.com/album/7HPsarF1rEJvl7lCma3nG8) | 4:20 |
-| 7 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 |
+| 6 | [out of your league \(but i want you so bad\)](https://open.spotify.com/track/2dtkCu5kL120SjaxDDUAz6) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [out of your league \(but i want you so bad\)](https://open.spotify.com/album/1wQRVj37kpigywws7RBID7) | 4:15 |
+| 7 | [Mentos and Coke](https://open.spotify.com/track/1vohIWnkOUnCv60Od198Ma) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Mentos and Coke](https://open.spotify.com/album/4Mk0oTQwMaQcQYSQHt08Gf) | 2:49 |
 | 8 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 |
 | 9 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 10 | [The Scientist \- Spotify Singles](https://open.spotify.com/track/3yDvl8B6st6XZ67gL9nLNK) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Spotify Singles](https://open.spotify.com/album/0G9aTAmGvg1q1ZWELfLwSQ) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 99 | [Radiohead](https://open.spotify.com/track/5IL0nIQHoYJk4FEYItYnys) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Radiohead](https://open.spotify.com/album/40ZbrZkjuFVvTNF0LbijLf) | 3:17 |
 | 100 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
 
-Snapshot ID: `AAAFZMRRUkqFrlp7wiQbRngYk0Qj8N1H`
+Snapshot ID: `AAAFbE7eEfQ3Qd6slSAhOdmvoTlU65Dz`

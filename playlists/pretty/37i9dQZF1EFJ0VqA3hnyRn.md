@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 255 songs - 15 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 255 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,8 +244,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 234 | [Sex in the Bathroom \[Ph Electro Remix\]](https://open.spotify.com/track/72B0PF7qmqPYLCbgIzZrvQ) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [PH Electro](https://open.spotify.com/artist/6bwJA8gugndMQxiuMsnYDV) | [Swagg \(Remix Edition\)](https://open.spotify.com/album/1yBOFhH3Sb4HgPxo8M2jRf) | 3:35 |
 | 235 | [Hustle \(feat\. Turf Talk & R\. City\)](https://open.spotify.com/track/2Ciludxr3qvZ0Qo1FeDfXF) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Turf Talk](https://open.spotify.com/artist/4KaPpMa2dJyBtUS2UoJTyM) | [The Ball Street Journal \(Explicit Version\)](https://open.spotify.com/album/0BQ8wXGS0WNrNiTEQpJDwv) | 4:17 |
 | 236 | [Everything Reminds Me Of You](https://open.spotify.com/track/4gM4RFCxPbBnkOsbrhqzxV) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:51 |
-| 237 | [L.A\. Love \(La La\)](https://open.spotify.com/track/518UEkLkoqUipreT1FySZI) | [Universales](https://open.spotify.com/artist/07zqSxVJNb2W8jIt5UAZJc) | [L.A\. Love \(La La\) \[Tribute to Fergie\]](https://open.spotify.com/album/7ooCz1DPsgDUBsnJPH1vcl) | 3:11 |
-| 238 | [Sexy!](https://open.spotify.com/track/0wp7AroqGCIs8Nb0bw52Jg) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Being Human](https://open.spotify.com/album/62zlCb4XOCVGwfRssn3TZB) | 3:05 |
+| 237 | [Sexy!](https://open.spotify.com/track/0wp7AroqGCIs8Nb0bw52Jg) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Being Human](https://open.spotify.com/album/62zlCb4XOCVGwfRssn3TZB) | 3:05 |
+| 238 | [L.A\. Love \(La La\)](https://open.spotify.com/track/518UEkLkoqUipreT1FySZI) | [Universales](https://open.spotify.com/artist/07zqSxVJNb2W8jIt5UAZJc) | [L.A\. Love \(La La\) \[Tribute to Fergie\]](https://open.spotify.com/album/7ooCz1DPsgDUBsnJPH1vcl) | 3:11 |
 | 239 | [Damn](https://open.spotify.com/track/6eLephqDNlNZAMOLZonDSO) | [Candice Glover](https://open.spotify.com/artist/1rHf7vRCsDRBkbA1XGT9e1) | [Music Speaks](https://open.spotify.com/album/47mWsvx5dcJMenKsgvSURG) | 3:43 |
 | 240 | [Die Without You](https://open.spotify.com/track/4wD7iI8HPEjq4XfQFH4XQo) | [Candice Glover](https://open.spotify.com/artist/1rHf7vRCsDRBkbA1XGT9e1) | [Music Speaks](https://open.spotify.com/album/47mWsvx5dcJMenKsgvSURG) | 4:04 |
 | 241 | [Kiss Me](https://open.spotify.com/track/2QUoGcL44jWRcK2RwK1Ncu) | [Candice Glover](https://open.spotify.com/artist/1rHf7vRCsDRBkbA1XGT9e1) | [Music Speaks](https://open.spotify.com/album/47mWsvx5dcJMenKsgvSURG) | 4:36 |
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 254 | [Sunshine \(feat\. JRDN\)](https://open.spotify.com/track/3eWXjX7WDpyGA6btOQTZj2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Kardi Gras Vol\. 1: The Clash](https://open.spotify.com/album/4ZyGxmDt2ugDMQsaBmSKi5) | 3:46 |
 | 255 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AbYSLAAAAACCDtEpJ5wbMB80KdI4qSEU`
+Snapshot ID: `AbYXzAAAAADS50A9qJkl18OX3ux/V2C/`

@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: Jelani Aryeh",
-  "num_followers": 48028,
+  "num_followers": 48054,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-05 16:37:13",
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3Z7kvXoVeOtj9KcR0JzLKe"
+      },
+      "artists": [
+        {
+          "name": "Scarlet House",
+          "url": "https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/4tgCLCpF1MkdNzjTw7lLwh"
+    },
+    {
+      "added_at": "2024-07-05 16:37:13",
+      "album": {
         "name": "Junebug (feat. JPEGMAFIA)",
         "url": "https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-07-05 16:37:13",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3Z7kvXoVeOtj9KcR0JzLKe"
-      },
-      "artists": [
-        {
-          "name": "Scarlet House",
-          "url": "https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/4tgCLCpF1MkdNzjTw7lLwh"
-    },
-    {
-      "added_at": "2024-07-05 16:37:13",
-      "album": {
         "name": "React",
         "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-07-05 16:37:13",
       "album": {
-        "name": "gin and wine (ginuwine)",
-        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
+        "name": "Cruzafied",
+        "url": "https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv"
       },
       "artists": [
         {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
         }
       ],
-      "duration_ms": 129473,
-      "name": "gin and wine (ginuwine)",
-      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
+      "duration_ms": 217600,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
     }
   ],
   "unique_name": "Indie Frequency",

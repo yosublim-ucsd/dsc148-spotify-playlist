@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 9 min
+52 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo) | 2:52 | 2024-04-27 |  |
 | [Brand New \(feat\. Layton Green\)](https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:46 | 2022-10-28 |  |
 | [Buss It Open \(feat\. Lakeyah\)](https://open.spotify.com/track/0Ps4MNq0PYDasTbmF3Uorq) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Distractions](https://open.spotify.com/album/2joAdhMvatZfWwfOSzzxLe) | 1:45 | 2022-10-28 |  |
+| [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 | 2024-08-03 |  |
 | [Check \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:52 | 2022-10-28 |  |
 | [Don’t Go](https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Don't Go](https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H) | 2:58 | 2022-10-28 |  |
 | [Easy](https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:25 | 2022-10-28 |  |

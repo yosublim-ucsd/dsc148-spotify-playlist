@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Adifa
 
-3,741 songs - 9 day 13 hr 27 min
+3,742 songs - 9 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Aku Lepas Kamu Cinta](https://open.spotify.com/track/3qvefqqFosXEuRlC5TOLcr) | [Haico](https://open.spotify.com/artist/4dtkXlej2FOunvRbr6KiqC) | [Aku Lepas Kamu Cinta](https://open.spotify.com/album/6VKkX8f6eUJXNdyXWVWxvJ) | 3:46 | 2022-05-26 | 2023-01-13 |
 | [aku mau](https://open.spotify.com/track/3GBErZUjzGaPFD5VFlbwoh) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [aku mau](https://open.spotify.com/album/7xdJ39zTLC2PgqNOMGKKOh) | 3:25 | 2022-03-10 | 2022-03-25 |
 | [Aku Menangis](https://open.spotify.com/track/7Eiijm7ZjjQRrNuaCCuYjx) | [Rega Poetra](https://open.spotify.com/artist/5MPk7LVQc13bWJCk0qc8bJ) | [Aku Menangis](https://open.spotify.com/album/1qKJGQLx7xKdbD7fIK49HY) | 4:02 | 2024-01-11 | 2024-02-09 |
+| [Aku Rindu](https://open.spotify.com/track/1ZYFY7V6tlcIZC9ILv3KGx) | [Nouraz Kkhan](https://open.spotify.com/artist/3j1vbpljQsKdIedWNpMr4n) | [Aku Rindu](https://open.spotify.com/album/4RE7vFWWz5cokuGkByu1qz) | 5:11 | 2024-08-02 |  |
 | [Aku Salah](https://open.spotify.com/track/4XjqDmV3ef8b9kdeikTlrs) | [Hdey](https://open.spotify.com/artist/6aAvlsPsksZyDvurvjLjfR) | [Aku Salah](https://open.spotify.com/album/2FTwB3rn7NL1jmNCpuNlOm) | 3:34 | 2022-01-13 | 2022-01-28 |
 | [Aku Salah Apa](https://open.spotify.com/track/2xm9SzAsxdqC6hrJsyi8T3) | [Sulthan](https://open.spotify.com/artist/2rcchaiXMLGPk7d4KolRp5) | [Aku Salah Apa](https://open.spotify.com/album/5354tYMqyXuqsvEzHotOG7) | 3:45 | 2023-09-07 | 2023-09-23 |
 | [Aku Tak Tau](https://open.spotify.com/track/226Hn5VcX3y5n1sIlPXL2F) | [D Song](https://open.spotify.com/artist/7xRyNb7eIpwmkmN5jfyLIY) | [Aku Tak Tau](https://open.spotify.com/album/4UJGmcrbNjUOQ6L5ntv2YO) | 2:28 | 2024-05-31 | 2024-06-21 |
@@ -2510,7 +2511,7 @@
 | [PERHAPS](https://open.spotify.com/track/01y3OabHdhWuIftpTRnBop) | [Jordie Yose](https://open.spotify.com/artist/6VywJDkajUQLLBojKT4C4L) | [PERHAPS](https://open.spotify.com/album/4Bpo3M80eDEaeMZcpIJCKu) | 3:11 | 2022-10-13 | 2022-11-12 |
 | [Perih](https://open.spotify.com/track/2TaBAWtzmGzBxfgiEyHfoO) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Perih](https://open.spotify.com/album/0eHWyZD3PKXVZsIix3TrO5) | 4:21 | 2022-11-30 | 2023-01-13 |
 | [Perih Sak Lawase](https://open.spotify.com/track/0SESIvSdCsReZm2CUP2Zxn) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Perih Sak Lawase](https://open.spotify.com/album/1SI2xwjTh7xligANwMajdB) | 4:01 | 2023-02-16 | 2023-03-03 |
-| [Perihal Omongan Belaka](https://open.spotify.com/track/5NvkE6eEGrEsRRtaeesrzS) | [Bahtera](https://open.spotify.com/artist/28a3YGz0pW3DZb5Dvr9M0d) | [Perihal Omongan Belaka](https://open.spotify.com/album/4JIgzeMbWz9zaTwJxCUnbT) | 5:08 | 2024-07-25 |  |
+| [Perihal Omongan Belaka](https://open.spotify.com/track/5NvkE6eEGrEsRRtaeesrzS) | [Bahtera](https://open.spotify.com/artist/2WDrCD9s0OofV19aGzNbib) | [Perihal Omongan Belaka](https://open.spotify.com/album/4JIgzeMbWz9zaTwJxCUnbT) | 5:08 | 2024-07-25 |  |
 | [Perihal Pulang](https://open.spotify.com/track/420i2P4Gg179PmG4uumSJS) | [Jendela dan Pena](https://open.spotify.com/artist/2gNbl2QJk1HD3pkcU0sch0) | [Perihal Pulang](https://open.spotify.com/album/6dqDg9Xs4NyLerf9B60kDy) | 4:54 | 2024-04-11 | 2024-05-14 |
 | [Perjalanan \(New Version\)](https://open.spotify.com/track/6CZXseNaWiVF17iXZciE47) | [The Frustaters](https://open.spotify.com/artist/1KMfGHRqiSUTgFmnQ4126U) | [Perjalanan \(New Version\)](https://open.spotify.com/album/4aPVOpmyrXLISai7KYGefl) | 3:25 | 2024-02-15 | 2024-03-08 |
 | [Perjalanan Kita](https://open.spotify.com/track/4Ey1OEej8W1dqhEmpzJl9u) | [rivaldi](https://open.spotify.com/artist/3hY39wwOW6zJDgN4TwUSqH) | [Perjalanan Kita](https://open.spotify.com/album/2JooHJa3u9ugTvVW6Z3twM) | 3:54 | 2023-02-03 | 2023-02-17 |

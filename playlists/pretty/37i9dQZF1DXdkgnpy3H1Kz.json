@@ -1,31 +1,35 @@
 {
   "description": "<a href=\"spotify:artist:5lsC3H1vh9YSRQckyGv0Up\">Ellen Allien</a>'s favorite tracks. Updated regularly. Curated by Ellen Allien. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 45831,
+  "num_followers": 45856,
   "original_name": "Ellen Allien's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpUlPgAAAABMfs1F9WCYqEmgrNWc9wy0",
+  "snapshot_id": "ZqyZpwAAAAAMfVXzo/NChPNBNhnndsEv",
   "tracks": [
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
-        "name": "Please Remain Calm EP",
-        "url": "https://open.spotify.com/album/2JmLwMFBFG78Lv0PSmzTCA"
+        "name": "Witch Coast (Ellen Allien Remix)",
+        "url": "https://open.spotify.com/album/68KZ7D5PoCiVhSIZlxx5Lt"
       },
       "artists": [
         {
-          "name": "Tigerhead",
-          "url": "https://open.spotify.com/artist/53UMZDKX6Ddh8KV5MYDlcE"
+          "name": "Sad Madona",
+          "url": "https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU"
+        },
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
         }
       ],
-      "duration_ms": 322877,
-      "name": "I Like Him",
-      "url": "https://open.spotify.com/track/30IqKvFuE5MpxURq0NIzQw"
+      "duration_ms": 285043,
+      "name": "Witch Coast - Ellen Allien Remix",
+      "url": "https://open.spotify.com/track/5ikhM41Iy13CletkMQXEF0"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Hanging In The Stars, Pt. 1",
         "url": "https://open.spotify.com/album/76QAw981qCCRQZS6WZ4mBo"
@@ -41,7 +45,7 @@
       "url": "https://open.spotify.com/track/5VVfYWHXIQ8ogrUllILgES"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/499wTI0GUAMJ17VF1uqnzA"
@@ -57,7 +61,7 @@
       "url": "https://open.spotify.com/track/4W8CoVWd6dKBXt4soWsHXM"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Rubi's Acid Spa",
         "url": "https://open.spotify.com/album/3eQDPZHWKbb6CpED23EuRV"
@@ -73,7 +77,7 @@
       "url": "https://open.spotify.com/track/7uVuz6M2USTY1MC5SNXMQp"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Amotik 004",
         "url": "https://open.spotify.com/album/52kwjaCBmI7Ztw4BMuHPew"
@@ -89,7 +93,7 @@
       "url": "https://open.spotify.com/track/56Oyajufk49phvZHXne2pH"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "OFF GRID",
         "url": "https://open.spotify.com/album/3UOU9WTB5g313LT4KMiicc"
@@ -105,7 +109,7 @@
       "url": "https://open.spotify.com/track/4peP7wFC7zdOGz4guPJLhy"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Msb4000-06",
         "url": "https://open.spotify.com/album/2FwlwD1g60OsfVp65bbHwr"
@@ -125,7 +129,7 @@
       "url": "https://open.spotify.com/track/5c1oLsAu5OEGJFZdh5OIku"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
@@ -141,7 +145,7 @@
       "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Letters to a Future Palestine",
         "url": "https://open.spotify.com/album/1TzJLo9AN3TIaI4kcZu6Cj"
@@ -161,7 +165,7 @@
       "url": "https://open.spotify.com/track/1ErU4i3eV4LSh3qhZzbCwH"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Fuck Love",
         "url": "https://open.spotify.com/album/2y9xNYG44V75PzytUenH10"
@@ -177,7 +181,7 @@
       "url": "https://open.spotify.com/track/27mbOLrjAxZlpLnrBH4HqI"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "De Rio 001",
         "url": "https://open.spotify.com/album/6zOn6RfO8WglRoyXvygjum"
@@ -193,7 +197,7 @@
       "url": "https://open.spotify.com/track/6XNt3K0zI8x54IJfJ5TiCk"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Club Cult (Remixes)",
         "url": "https://open.spotify.com/album/1v6Iy2iifmv0RrMQUOjdVf"
@@ -213,7 +217,7 @@
       "url": "https://open.spotify.com/track/1HktzHwL6qkxpfSXHtgcrE"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "The Bastet Mission Remixes",
         "url": "https://open.spotify.com/album/4ESCM9uOnjhKxOxr7yOatB"
@@ -233,7 +237,7 @@
       "url": "https://open.spotify.com/track/4Nu5bOBPQrku7miOcsfYKl"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Stargazer",
         "url": "https://open.spotify.com/album/3EjnQ07Cm61AVXQ6Oxu8iV"
@@ -249,7 +253,7 @@
       "url": "https://open.spotify.com/track/6fh6mzYKgqH8aI32TXt3s5"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Dimensions",
         "url": "https://open.spotify.com/album/4YpNjiocEwwJ9ZI4JpkG46"
@@ -265,7 +269,7 @@
       "url": "https://open.spotify.com/track/2ieYOHCwV7wl2oyjPa4yyT"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Standard Deviation 2",
         "url": "https://open.spotify.com/album/0wuAbWI6ufYWrIxy2oHnvg"
@@ -281,7 +285,7 @@
       "url": "https://open.spotify.com/track/7sScKjNBzwW5yni3XbIWCR"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Lessons with Bob",
         "url": "https://open.spotify.com/album/3JDZzkukFNtUK1uUgNLFI5"
@@ -301,7 +305,7 @@
       "url": "https://open.spotify.com/track/52BLO4LJQMaueHy5nw9BZ1"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Unknown EP",
         "url": "https://open.spotify.com/album/0fEl6H08THJWhJHmdNZ4u0"
@@ -317,7 +321,7 @@
       "url": "https://open.spotify.com/track/7rA3kktAmzpa1V9KzD0cCY"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Running Out Of Sand",
         "url": "https://open.spotify.com/album/3DRTW3eTAeKSL4mkSniLq9"
@@ -333,7 +337,7 @@
       "url": "https://open.spotify.com/track/6AWTpujaAqLT6rhqEarhEE"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "White Lines",
         "url": "https://open.spotify.com/album/3T8MCCspCBdBoeUSZ76pgj"
@@ -349,7 +353,7 @@
       "url": "https://open.spotify.com/track/6Vts02oDvOD1gXk1NKUgFl"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Capricorn Rising",
         "url": "https://open.spotify.com/album/5Hk7gLE1kj7ngGuZfRvEyi"
@@ -365,7 +369,7 @@
       "url": "https://open.spotify.com/track/0Cw80vyJzBfxKemOgpUOyz"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Kyiv",
         "url": "https://open.spotify.com/album/6nkWdmlEYipx7HW3VAMhk7"
@@ -381,7 +385,7 @@
       "url": "https://open.spotify.com/track/3xcVp40SKQ6P4yc6MrnBUa"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Secrets EP",
         "url": "https://open.spotify.com/album/3u8ztFsOmcYx1vBwj9DorT"
@@ -401,7 +405,7 @@
       "url": "https://open.spotify.com/track/5p7mqvfxsEtC2cpf3VWCNc"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Point Of No Return EP",
         "url": "https://open.spotify.com/album/3MCsUrB4JOnaYQfZ3ChMet"
@@ -417,7 +421,7 @@
       "url": "https://open.spotify.com/track/1TaFr7E7e9ss0bHiCZNEYX"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "They Just Want Pictures",
         "url": "https://open.spotify.com/album/6w5RVQlVwFesnmpgtqZ8oZ"
@@ -433,7 +437,7 @@
       "url": "https://open.spotify.com/track/52v65YN9KNafr6DU96k2Z5"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Letters to a Future Palestine",
         "url": "https://open.spotify.com/album/1TzJLo9AN3TIaI4kcZu6Cj"
@@ -453,7 +457,7 @@
       "url": "https://open.spotify.com/track/25lLmBflLdnQgVz09r9zvC"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Unusual Photograph",
         "url": "https://open.spotify.com/album/0hng7XuBJvau9RseBZjX0G"
@@ -469,7 +473,7 @@
       "url": "https://open.spotify.com/track/6PtQm78K2qPr6aLC9t5hw9"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Photon Radiation EP",
         "url": "https://open.spotify.com/album/6MMC5TGEbpnB9CquFt5QWF"
@@ -485,7 +489,7 @@
       "url": "https://open.spotify.com/track/0bhf0Y5XRGEvcePVLOGvUp"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Cyber City, Vol. 1",
         "url": "https://open.spotify.com/album/6nSXN5Azm9faxxJeRj4qSg"
@@ -501,7 +505,23 @@
       "url": "https://open.spotify.com/track/7eEMFstAbfWcGHAgJ6yHia"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
+      "album": {
+        "name": "Please Remain Calm EP",
+        "url": "https://open.spotify.com/album/2JmLwMFBFG78Lv0PSmzTCA"
+      },
+      "artists": [
+        {
+          "name": "Tigerhead",
+          "url": "https://open.spotify.com/artist/53UMZDKX6Ddh8KV5MYDlcE"
+        }
+      ],
+      "duration_ms": 322877,
+      "name": "I Like Him",
+      "url": "https://open.spotify.com/track/30IqKvFuE5MpxURq0NIzQw"
+    },
+    {
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Rave Luv",
         "url": "https://open.spotify.com/album/4A474towWs0lkhRxQaCTs9"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/7lgdQfRT3013oGywUorbKH"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Dancing For Freedom",
         "url": "https://open.spotify.com/album/4Nyy2PbX8SRuJJUeHgPMvP"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/2VTvhpXp0a0NKn57f6vG07"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/0l1qb3GRRnVZ5TV87O586H"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/585nN5GXqQIfc6pGXkBCJK"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Autoboicot",
         "url": "https://open.spotify.com/album/6IMR8iKxx3ozUmtLo2CqJ2"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/5Ewo68UDgrqmfiXtKq4daj"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Sol EP",
         "url": "https://open.spotify.com/album/1XzNKzw4k3jPDpJ01d78K7"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/0Ygctq0vSiMdcmuUwMebgF"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Don't Cross The Line",
         "url": "https://open.spotify.com/album/2PrYDThyqeMDSdiwytToKB"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/3ZtAWgX10pkJX47AkuhBqv"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Goldener Strom Remixes 1",
         "url": "https://open.spotify.com/album/2Oa9B5Rlku6LgDvKahNhSj"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/4VSV8oyD0wSDWZ36IcaP0i"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "5 AM (Remix)",
         "url": "https://open.spotify.com/album/3VW8jIDWEYhbF2gWqaPVaH"
@@ -645,7 +665,7 @@
       "url": "https://open.spotify.com/track/4vB8VWkulyMRHP9k7bHxC7"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Hydraulic Booty",
         "url": "https://open.spotify.com/album/2WTdnBBCxH1NKbgJ2hLEDr"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/5M5BVkJuxDLXMIabehB0z3"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "SArmxRD",
         "url": "https://open.spotify.com/album/6pLJUhMCxaqlMC1hP8ncv8"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/5ymKMMtIvEJb8KuIwhoOVI"
     },
     {
-      "added_at": "2024-07-15 13:33:50",
+      "added_at": "2024-08-02 08:32:39",
       "album": {
         "name": "Berlinette",
         "url": "https://open.spotify.com/album/6VYrpIIWwjFcOrEaFTxsNf"

@@ -2,7 +2,7 @@
 
 ### [This Is Brian Eno](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4C4Xm0)
 
-> This Is Brian Eno\. Los temas esenciales, todos en una lista.
+> This is Brian Eno\. Todos os maiores hits em uma só playlist.
 
 165 songs - 12 hr 53 min
 

@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 226666,
       "name": "Oofeets",
       "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
@@ -3492,6 +3492,32 @@
       "duration_ms": 240000,
       "name": "Unfortunately",
       "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
+    },
+    {
+      "album": {
+        "name": "Valley Of Trappers (feat. Sarkodie) [Remix]",
+        "url": "https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d"
+      },
+      "artists": [
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Juiczx",
+          "url": "https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142876,
+      "name": "Valley Of Trappers (feat. Sarkodie) - Remix",
+      "url": "https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH"
     },
     {
       "album": {

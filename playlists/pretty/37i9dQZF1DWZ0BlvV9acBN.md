@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Novo Som
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,722 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,732 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 2 | [Os Que Confiam \- Live](https://open.spotify.com/track/09iuGgLJ4mr4bLjLvRptye) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 5:38 |
 | 3 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 |
 | 4 | [Salmo 13](https://open.spotify.com/track/1KGq39KlJKihbiRxcMebeT) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Live Sessions](https://open.spotify.com/album/32wLGts5FSsd3ll1Kupg6F) | 5:01 |
-| 5 | [Deus Me Livre](https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6) | [Igor Pinheiro de Lima](https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku) | [Deus Me Livre](https://open.spotify.com/album/4Jrber98XBRx0un047U9Wv) | 3:40 |
-| 6 | [Retrato](https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Retrato](https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8) | 5:33 |
+| 5 | [Retrato](https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Retrato](https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8) | 5:33 |
+| 6 | [Deus Me Livre](https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6) | [Igor Pinheiro de Lima](https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku) | [Deus Me Livre](https://open.spotify.com/album/4Jrber98XBRx0un047U9Wv) | 3:40 |
 | 7 | [De Malas Prontas](https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [De Malas Prontas](https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng) | 6:34 |
 | 8 | [Grita! \(Shout!\) \- Ao Vivo](https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Deixa Vir \- Vol II \(Ao Vivo\)](https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE) | 4:41 |
 | 9 | [Ninguém Pode Parar \- Ao Vivo](https://open.spotify.com/track/7jm9CmeGfY42Dq3xCSn7oA) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Ninguém Pode Parar \(Ao Vivo\)](https://open.spotify.com/album/74ecO8nFOGDmRiXXjnUYFn) | 5:41 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 46 | [Falhas \- Ao Vivo](https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn) | [Daniel Juan](https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH) | [Falhas \(Ao Vivo\)](https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714) | 6:19 |
 | 47 | [Peregrino](https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Peregrino](https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG) | 4:18 |
 | 48 | [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 |
-| 49 | [Êxodo \- ao vivo em São Paulo](https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Homem Litúrgico, Ao Vivo](https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5) | 3:54 |
-| 50 | [Me Ensina a Seguir](https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Me Ensina a Seguir](https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq) | 4:06 |
+| 49 | [Me Ensina a Seguir](https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Me Ensina a Seguir](https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq) | 4:06 |
+| 50 | [Êxodo \- ao vivo em São Paulo](https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Homem Litúrgico, Ao Vivo](https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5) | 3:54 |
 | 51 | [Nova criatura \(AO VIVO\)](https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival, Pt.1 \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 5:09 |
 | 52 | [Em Coma](https://open.spotify.com/track/7Cvut5AmV0X1O7Xtg8Nd7H) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Vulgo Raph](https://open.spotify.com/artist/31Gjt5HPHlXltWWVh1LmKA) | [Em Coma](https://open.spotify.com/album/3wPtlL06LbcxZnNwwXz4LE) | 3:35 |
 | 53 | [Trindade](https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Trindade](https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK) | 12:49 |

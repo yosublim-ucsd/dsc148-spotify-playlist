@@ -4,7 +4,7 @@
 
 > Family friendly country songs to listen to together.
 
-169 songs - 9 hr 45 min
+170 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2024-01-15 |  |
 | [5\-1\-5\-0](https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:02 | 2024-01-15 |  |
 | [Ain't Always The Cowboy](https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 3:40 | 2020-09-29 |  |
-| [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 | 2024-02-16 |  |
+| [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 | 2024-02-16 | 2024-08-03 |
 | [Are You Gonna Kiss Me Or Not](https://open.spotify.com/track/2oyJMZrw1DGvvkT2NbCZ0Y) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Thompson Square](https://open.spotify.com/album/1yf8bz1b5QKWWyCEJb32S8) | 3:04 | 2024-01-15 | 2024-03-19 |
 | [Babe \(feat\. Taylor Swift\)](https://open.spotify.com/track/7FFfYM4JE1vj5n4rhHxg8q) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Babe \(feat\. Taylor Swift\)](https://open.spotify.com/album/6tnr0khD5AaIXzNbmqHsKx) | 3:35 | 2020-09-29 | 2024-01-16 |
 | [Back Then, Right Now](https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Back Then, Right Now](https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD) | 3:02 | 2023-07-12 |  |
@@ -155,6 +155,7 @@
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2020-09-29 | 2024-04-19 |
 | [The Good Ones](https://open.spotify.com/track/5OS2vP6hEJfp5bLzaWNkTj) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The Good Ones](https://open.spotify.com/album/7ffPgoB9VEJ5AaqcLWeKxW) | 3:35 | 2020-09-29 |  |
 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 | 2024-01-15 |  |
+| [The Man He Sees in Me](https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 2:45 | 2024-08-02 |  |
 | [The Thing That Wrecks You](https://open.spotify.com/track/6o2P8nIA5PNWggvohN2cjU) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 4:35 | 2020-09-29 | 2024-01-16 |
 | [The Way You Look Tonight \(feat\. Keelan Donovan\)](https://open.spotify.com/track/6Bs5nI15JPJyZ90HMs5GR3) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 4:17 | 2020-09-29 | 2024-01-16 |
 | [This Is It](https://open.spotify.com/track/34DFpyq5NJJ79GnGbbJH3p) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON) | 3:50 | 2020-09-29 | 2022-07-29 |

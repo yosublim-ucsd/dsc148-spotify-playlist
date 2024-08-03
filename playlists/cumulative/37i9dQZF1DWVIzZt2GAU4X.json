@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 185785,
       "name": "I Know",
       "url": "https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX"
@@ -1776,6 +1776,24 @@
       "duration_ms": 171826,
       "name": "I Should Probably Go To Bed",
       "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
+    },
+    {
+      "album": {
+        "name": "VANITY",
+        "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "I'd Rather Pretend",
+      "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
     },
     {
       "album": {

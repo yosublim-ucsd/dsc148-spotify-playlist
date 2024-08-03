@@ -1,6 +1,6 @@
 {
   "description": "Cuddle up and relax with these country tunes.",
-  "num_followers": 71320,
+  "num_followers": 71344,
   "original_name": "Cozy Country",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-05 21:09:59",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Ain't Nothin' to It",
-      "url": "https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds"
-    },
-    {
-      "added_at": "2024-07-05 21:09:59",
-      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 225693,
       "name": "Make You Miss Me",
       "url": "https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo"
+    },
+    {
+      "added_at": "2024-07-05 21:09:59",
+      "album": {
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Ain't Nothin' to It",
+      "url": "https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds"
     },
     {
       "added_at": "2024-07-05 21:09:59",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-07-05 21:09:59",
       "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 221240,
-      "name": "Country Again",
-      "url": "https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG"
+      "duration_ms": 197453,
+      "name": "Settling Down",
+      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
     },
     {
       "added_at": "2024-07-05 21:09:59",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-07-05 21:09:59",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Settling Down",
-      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
+      "duration_ms": 221240,
+      "name": "Country Again",
+      "url": "https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG"
     },
     {
       "added_at": "2024-07-05 21:09:59",

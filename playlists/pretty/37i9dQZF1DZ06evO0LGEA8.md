@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,239 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,384 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 50 | [No Cambio](https://open.spotify.com/track/7ArwxXsucZMkx6iSD8fQTk) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Éxitos, Vol\. 2](https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7) | 4:41 |
 | 51 | [Noche de Lokera](https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 1](https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok) | 4:24 |
 
-Snapshot ID: `Zql+gAAAAADoYMCuPtF5EqZLm0gZFN2x`
+Snapshot ID: `ZqrQAAAAAAC2ySZRHX+xv+UnzSOBFacs`

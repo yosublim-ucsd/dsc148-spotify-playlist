@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,905 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,938 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 11 | [Dona Cila](https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:31 |
 | 12 | [Só Hoje \- Acústico](https://open.spotify.com/track/3dQlFoNRi1mjKBPVXXEjYt) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Acústico Jota Quest](https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9) | 5:07 |
 | 13 | [Oceano](https://open.spotify.com/track/3iof6EclqePezHDibBiykI) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA) | 4:56 |
-| 14 | [Brasil pandeiro](https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:55 |
-| 15 | [Bem Melhor](https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Bem Melhor](https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4) | 3:03 |
+| 14 | [Bem Melhor](https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Bem Melhor](https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4) | 3:03 |
+| 15 | [Brasil pandeiro](https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:55 |
 | 16 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
 | 17 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
 | 18 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 61 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 |
 | 62 | [I Don't Want To Talk About It](https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Na Medida do Impossível Ao Vivo No Inhotim \(Álbum Comentado\)](https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB) | 3:27 |
 | 63 | [Lança Perfume](https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Lanca Perfume E Outras Manias](https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS) | 5:14 |
-| 64 | [Calmô](https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Calmô](https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1) | 4:14 |
-| 65 | [Concrete Jungle](https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 3:32 |
+| 64 | [Concrete Jungle](https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 3:32 |
+| 65 | [Calmô](https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Calmô](https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1) | 4:14 |
 | 66 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 67 | [Logo agora](https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Logo agora](https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC) | 3:07 |
 | 68 | [Amanheceu](https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Real / Surreal \(Deluxe\)](https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP) | 2:50 |

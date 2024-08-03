@@ -4,7 +4,7 @@
 
 > A mix of the biggest pop, dance, and hip hop party songs\. Cover: Charli xcx
 
-579 songs - 1 day 6 hr 18 min
+580 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 | 2021-12-02 | 2022-08-10 |
 | [GREECE \(feat\. Drake\)](https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GREECE \(feat\. Drake\)](https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN) | 3:38 | 2022-03-18 | 2022-04-21 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-22 |  |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Gun](https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:56 | 2023-09-22 | 2023-10-21 |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2022-04-22 | 2022-06-11 |
 | [Happy Hour](https://open.spotify.com/track/0Q8I9WVpuNEFPiF83ZpcvU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Happy Hour](https://open.spotify.com/album/2ybIpaoCiSTikOtfruJeyg) | 2:48 | 2021-12-02 | 2022-07-29 |
@@ -502,7 +503,7 @@
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2022-07-27 | 2024-03-16 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-12-02 | 2023-08-15 |
 | [THE BADDEST](https://open.spotify.com/track/4zop1FQ0ukwsBtXv4zrv5X) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [NO HANDS](https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA) | 2:23 | 2024-07-22 | 2024-07-31 |
-| [THE BADDEST \(BADDER\) \[feat\. Ayesha Erotica\]](https://open.spotify.com/track/5tzcByvFyzRPHXrBgOaxkk) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [THE BADDEST \(BADDER\) \[feat\. Ayesha Erotica\]](https://open.spotify.com/album/1G7CTjjWqcPtHXaqLT8KSJ) | 2:23 | 2024-07-30 |  |
+| [THE BADDEST \(BADDER\) \[feat\. Ayesha Erotica\]](https://open.spotify.com/track/5tzcByvFyzRPHXrBgOaxkk) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [THE BADDEST \(BADDER\) \[feat\. Ayesha Erotica\]](https://open.spotify.com/album/1G7CTjjWqcPtHXaqLT8KSJ) | 2:23 | 2024-07-30 | 2024-08-03 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-03-15 |  |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2022-07-27 | 2023-01-14 |
 | [The Business, Pt\. II](https://open.spotify.com/track/0SZPXD0uEl72YjUVY2K3E9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Business, Pt\. II](https://open.spotify.com/album/2E5YkarkawdVYhDaoygvih) | 2:44 | 2022-03-18 | 2022-04-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,481 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,485 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 36 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 |
 | 37 | [Adoration](https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Adoration](https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2) | 2:37 |
 | 38 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 |
-| 39 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |
-| 40 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 |
+| 39 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 |
+| 40 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |
 | 41 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
 | 42 | [New Era For Me](https://open.spotify.com/track/3e1LaYRy3UgTqOzVEvkaAz) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [New Era For Me](https://open.spotify.com/album/3ZnZYWFkWrgSZNWGg1sOl4) | 2:37 |
 | 43 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |

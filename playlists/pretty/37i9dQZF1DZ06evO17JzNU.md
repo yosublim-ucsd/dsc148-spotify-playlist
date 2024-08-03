@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 ### [This Is Los Gemelos De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17JzNU)
 
-> This is Los Gemelos De Sinaloa\. Tutti i brani in un'unica playlist.
+> This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,131 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,150 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 15 | [Bulgari](https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bulgari](https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L) | 2:44 |
 | 16 | [Padre Nuestro](https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Padre Nuestro](https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9) | 3:28 |
 | 17 | [Suerte No Fue](https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Suerte No Fue](https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi) | 3:11 |
-| 18 | [Se Me Quedan Viendo Raro](https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Me Quedan Viendo Raro](https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR) | 3:17 |
-| 19 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 |
+| 18 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 |
+| 19 | [Se Me Quedan Viendo Raro](https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Me Quedan Viendo Raro](https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR) | 3:17 |
 | 20 | [NOS TORCIERON](https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 3:22 |
 | 21 | [Todo Gracias Al Señor](https://open.spotify.com/track/5uVPqmFDUeveJ1bQFtWTyY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Todo Gracias Al Señor](https://open.spotify.com/album/7AJ5n8CY216ToSbc9MhICq) | 2:34 |
 | 22 | [Sapo 777](https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Sapo 777](https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo) | 3:16 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 44 | [Van Hablar](https://open.spotify.com/track/5h5rqA8YRL0gta5b4MbD8j) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Van Hablar](https://open.spotify.com/album/7HZDMGM4Mp7le8j321qYZs) | 3:00 |
 | 45 | [El Achillo](https://open.spotify.com/track/1wV8nsIBPLpovpqOZnb24y) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Achillo](https://open.spotify.com/album/1J6Edxly1ds40IcPhE6Fvx) | 4:32 |
 | 46 | [Pasos Lentos](https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:04 |
-| 47 | [Nos Traicionamos](https://open.spotify.com/track/2QoKoiOyMDhqXll6ldKoMp) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Nos Traicionamos](https://open.spotify.com/album/3Rq5R5vEESkgS4IkSpXqJ2) | 4:43 |
-| 48 | [El Muchacho Criticado](https://open.spotify.com/track/6KjjvZf9wLdYMGLDcL2HMS) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchacho Criticado](https://open.spotify.com/album/3dLoxjr5S4Rt98kxZrpHjz) | 2:55 |
+| 47 | [El Muchacho Criticado](https://open.spotify.com/track/6KjjvZf9wLdYMGLDcL2HMS) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchacho Criticado](https://open.spotify.com/album/3dLoxjr5S4Rt98kxZrpHjz) | 2:55 |
+| 48 | [Nos Traicionamos](https://open.spotify.com/track/2QoKoiOyMDhqXll6ldKoMp) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Nos Traicionamos](https://open.spotify.com/album/3Rq5R5vEESkgS4IkSpXqJ2) | 4:43 |
 | 49 | [Ya Extrano Mi Rancho](https://open.spotify.com/track/5qAzmxc7zqn5CD0eE3yckL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ya Extrano Mi Rancho](https://open.spotify.com/album/14X4dL52C10ejPsocWndY8) | 2:16 |
 | 50 | [Apellido Guzman](https://open.spotify.com/track/0CrErg58IbHXNzDqiMBTfT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 3:26 |
 
-Snapshot ID: `Zql+gAAAAACrJ0QEzR5Do163FhLzPERM`
+Snapshot ID: `ZqrQAAAAAABaJR2sULAn4N5y8chZGFxV`

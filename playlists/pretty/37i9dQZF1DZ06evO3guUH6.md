@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 ### [This Is Alfredo Olivas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3guUH6)
 
-> This is Alfredo Olivas\. The essential tracks, all in one playlist.
+> This Is Alfredo Olivas\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,556 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,914 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 45 | [Así Es Esto](https://open.spotify.com/track/2VEGCGMsMoPIqnocO2pE0q) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 |
 | 46 | [Soy Lo Que Ves](https://open.spotify.com/track/3Kl7sIgzMYQvxZxjEV9sC0) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Soy Lo Que Ves](https://open.spotify.com/album/77yCHIWHHK6KeQynu3NbJ5) | 3:40 |
 | 47 | [Los Tres Mandos](https://open.spotify.com/track/0wS4OuuXKAXN8aUCG6f3tE) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Tino Acosta](https://open.spotify.com/artist/2KDJtRiuNSnTiyxYZnhhBN) | [Con El Pie Derecho](https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP) | 2:30 |
+| 48 | [Otro Perdedor](https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 4:10 |
 
-Snapshot ID: `Zql+gAAAAACiuYl7f+ZrLJN/tNxkQJqG`
+Snapshot ID: `ZqrQAAAAAADHMr9QXPsgvOHxmA7XEtEq`

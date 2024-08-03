@@ -247,6 +247,40 @@
     },
     {
       "album": {
+        "name": "CATCH",
+        "url": "https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi"
+      },
+      "artists": [
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215426,
+      "name": "Forever Always",
+      "url": "https://open.spotify.com/track/1Ioxy6OY4NwwxHFS7XLh8I"
+    },
+    {
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },

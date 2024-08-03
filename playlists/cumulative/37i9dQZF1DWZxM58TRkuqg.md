@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: NIKI
 
-191 songs - 12 hr 41 min
+192 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bukan Karena Tak Cinta](https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Karena Tak Cinta](https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x) | 4:18 | 2024-06-06 |  |
 | [Bukan Sebuah Rindu](https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Sebuah Rindu](https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy) | 3:51 | 2024-05-09 | 2024-06-07 |
 | [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-02-01 | 2024-04-12 |
+| [Bunga Abadi](https://open.spotify.com/track/0hPIuo3qZgyjDKJTI7xu8A) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Bunga Abadi](https://open.spotify.com/album/3mfUQStqcygHEOJjI7nZm4) | 4:03 | 2024-08-02 |  |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2024-01-26 | 2024-07-27 |
 | [Cahaya](https://open.spotify.com/track/4ZJ0hcwJ69NyY0x8TlbnQV) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Cahaya](https://open.spotify.com/album/3XnIcjWBfEuKeLRsL6743o) | 3:05 | 2024-05-23 | 2024-06-28 |
 | [CANDYRELLA \- sweeter](https://open.spotify.com/track/4qG74FcxHBeDcveHfOlqtQ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [CANDYRELLA](https://open.spotify.com/album/1n9VJFm671VITcO2VnttNh) | 3:10 | 2024-05-16 | 2024-07-05 |

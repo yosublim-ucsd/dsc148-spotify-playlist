@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Royel Otis
 
-460 songs - 1 day 4 hr 7 min
+462 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [agora hills \- Spotify Singles](https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [Spotify Singles](https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa) | 4:54 | 2024-06-14 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/7oIr9pjTvm9FKMEQwZvEiv) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Ain't No Sunshine](https://open.spotify.com/album/6aPAue76teQzfiZTliyHIE) | 2:31 | 2021-03-12 | 2022-06-26 |
 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 | 2022-05-20 | 2024-02-06 |
-| [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-03-12 |  |
+| [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-03-12 | 2024-08-03 |
 | [Alaska](https://open.spotify.com/track/36U3x7FsoB17GsOKAJKl7b) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Alaska](https://open.spotify.com/album/3y5VfET7NXVwdcgvluZ4vV) | 3:49 | 2021-04-19 | 2022-07-29 |
 | [Andalucia](https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Andalucia](https://open.spotify.com/album/5zXISZR58hyQgTxGA8tnVK) | 3:32 | 2021-03-12 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/5BfNjlCclZMXlCv6o1PSQA) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Angel](https://open.spotify.com/album/2oNUBA3KULK55FUlzDBBxm) | 2:49 | 2022-02-25 | 2022-04-21 |
@@ -242,7 +242,7 @@
 | [La Vie En Rose](https://open.spotify.com/track/0KohaUnLZU0PNJC3RZYDZ0) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [La Vie En Rose](https://open.spotify.com/album/4uWWvb7rkoUhYvaO8VEIC6) | 2:50 | 2021-03-12 | 2022-08-03 |
 | [La Vie En Rose](https://open.spotify.com/track/0d4qCmNoQ7D8Hv0azn7Ozu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [La Vie En Rose](https://open.spotify.com/album/238gzyCPHIjz1GxXqdOY6T) | 2:50 | 2021-03-12 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2021-03-12 | 2022-08-10 |
-| [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-09-03 |  |
+| [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-09-03 | 2024-08-03 |
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2021-03-12 | 2022-07-29 |
 | [Lavender Haze](https://open.spotify.com/track/0uds6C87jkBsk9gShJcuRz) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Lavender Haze](https://open.spotify.com/album/3anKF2HvkkACb8cozbL5Zg) | 3:26 | 2024-03-08 | 2024-05-18 |
 | [Lay All Your Love on Me](https://open.spotify.com/track/1XfbGoHFVubq0t4Bw8dPre) | [Pale Honey](https://open.spotify.com/artist/5vINmZdKrgF32tSV2adC7q) | [Lay All Your Love on Me](https://open.spotify.com/album/25LbjtI4lwZKcYhkHxPcwx) | 3:59 | 2021-03-12 | 2022-04-12 |
@@ -281,6 +281,7 @@
 | [Need You Tonight \- Spotify Singles](https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 3:02 | 2022-04-08 | 2024-05-15 |
 | [Neon Moon](https://open.spotify.com/track/010gJrV78swYwVNAWjmWAb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2kVYjc8G4UFWWc9QfLuFU8) | 3:45 | 2021-03-12 | 2022-06-30 |
 | [Neon Moon](https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm) | 3:45 | 2021-03-12 | 2022-08-10 |
+| [Never Meant](https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Never Meant](https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94) | 3:19 | 2024-08-02 |  |
 | [Never Said](https://open.spotify.com/track/2kM0E8Ho9dXXY4vogX6yIc) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Never Said](https://open.spotify.com/album/4W84KSXDyJuYmI8jbBMOjT) | 3:50 | 2021-03-12 | 2022-07-09 |
 | [Never Tear Us Apart](https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Never Tear Us Apart](https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk) | 3:18 | 2021-03-12 | 2023-08-09 |
 | [New Slang](https://open.spotify.com/track/7lCzEKcxTwvRlAT2hOwBIp) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Film Songs](https://open.spotify.com/album/2QF2nWpC2y5Gy8uNrUz4sg) | 3:18 | 2021-03-12 | 2022-04-21 |
@@ -409,6 +410,7 @@
 | [Today](https://open.spotify.com/track/51687Ggg1BMhFGufB2WmrF) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Today](https://open.spotify.com/album/3tSFoDl4xhYkcUadWfCY6N) | 4:15 | 2021-03-12 | 2022-07-29 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-09 |  |
 | [Tonight Tonight](https://open.spotify.com/track/0jzYWajrQdUtNzcFtBOtNl) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Tonight Tonight](https://open.spotify.com/album/5UMoMmwxOJFOlF2JQguF56) | 3:34 | 2021-10-08 | 2022-07-29 |
+| [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 | 2024-08-02 |  |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/2J1eKLPP56xKQxDbrsA9z4) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Total Eclipse of the Heart](https://open.spotify.com/album/5IFLjnOtcyHEJpZ2uWVfHV) | 5:18 | 2021-07-21 | 2022-07-29 |
 | [Toxic](https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Spotify Singles](https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3) | 4:29 | 2023-05-05 |  |
 | [True Colors](https://open.spotify.com/track/4NkHXFlCQ7dWfnfmsWVnwG) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [True Colors](https://open.spotify.com/album/7x4f4UYybb8FvGcWygj5Xb) | 2:20 | 2021-03-12 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-375 songs - 21 hr 45 min
+376 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 | 2021-12-09 | 2024-07-10 |
 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 | 2021-12-09 |  |
 | [Bolerito Sad](https://open.spotify.com/track/5QmGrwScqr4hWk2U3SNUUm) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/1Tckecb6OWb7UaZRakuyel) | 3:01 | 2023-11-10 | 2024-04-19 |
-| [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 | 2021-12-09 | 2024-07-15 |
+| [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 | 2021-12-09 |  |
 | [Bonita](https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:14 | 2021-12-09 |  |
 | [bossa nova](https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [bossa nova](https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN) | 3:08 | 2024-03-14 |  |
 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 | 2022-04-07 | 2022-09-22 |
@@ -189,6 +189,7 @@
 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 | 2022-08-05 | 2024-04-19 |
 | [La Costura De Dios](https://open.spotify.com/track/41Ez6Qx8cqV6eE1MFhYJeb) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [+ Bien](https://open.spotify.com/album/6Hfm9k5H74TN25V2cYLFiu) | 2:40 | 2022-04-07 | 2022-10-28 |
 | [La Creatividad](https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [La Creatividad](https://open.spotify.com/album/3Id0GaC7qtQlVsBcWoXdBN) | 2:04 | 2021-12-09 |  |
+| [La Fortuna](https://open.spotify.com/track/1fHp293tqlQYfAU7vDWIFc) | [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [La Fortuna](https://open.spotify.com/album/4QUUUIiRzrs9pQYRbckcTT) | 3:28 | 2024-07-26 |  |
 | [La Fortuna \(feat\. Tommy Torres\)](https://open.spotify.com/track/6TKdsVl3GeAJrcuTGbvUzq) | [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Libre](https://open.spotify.com/album/6j0sCAm0cmrq0sPpcjttjn) | 3:28 | 2022-08-05 | 2024-04-19 |
 | [La Peninsula](https://open.spotify.com/track/5OtvhDI7MTXUNJD4bd4RhZ) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz](https://open.spotify.com/album/6UJu3BPFmTGvzclsV8k4bI) | 3:00 | 2022-12-30 |  |
 | [La Sanadora](https://open.spotify.com/track/0GxzmQ5sE5Uq50LkQB3DO4) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [La Sanadora](https://open.spotify.com/album/4OvtUIqRsuqKFKRWABUTCy) | 4:27 | 2022-04-07 | 2022-04-19 |
@@ -310,7 +311,7 @@
 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 | 2021-12-09 | 2022-10-28 |
 | [Sin respirar](https://open.spotify.com/track/62HdGq5m6wEOY7Pvlc75GE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Sin respirar](https://open.spotify.com/album/0qTZiyp0vUHvUFt0xSIOMl) | 3:09 | 2024-05-13 |  |
 | [Sin Ti](https://open.spotify.com/track/1AsDi1YPkSy9ZuVBN4XHje) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Sin Ti](https://open.spotify.com/album/0CCFzerylMGnuPxFaolglv) | 3:10 | 2021-12-09 | 2024-05-14 |
-| [Sin Vergüenza](https://open.spotify.com/track/4bhJA7OPeieBHWfHMgNV0Q) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Sin Vergüenza](https://open.spotify.com/album/1es98oWk5HeScQbQo4nX3Z) | 4:01 | 2021-12-09 |  |
+| [Sin Vergüenza](https://open.spotify.com/track/4bhJA7OPeieBHWfHMgNV0Q) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Sin Vergüenza](https://open.spotify.com/album/1es98oWk5HeScQbQo4nX3Z) | 4:01 | 2021-12-09 | 2024-08-03 |
 | [Sin Vergüenza](https://open.spotify.com/track/52LqScn3sNgUk9nfMLN6yS) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Sin Vergüenza](https://open.spotify.com/album/2Ct6wEvggnGK0Res4HIlCD) | 4:01 | 2023-11-10 | 2024-04-19 |
 | [Sofá de Cuero](https://open.spotify.com/track/6dNYrFxETEqQjnmF1HtBTj) | [Jah Chango](https://open.spotify.com/artist/0JL51D0tX8800NfzXLaNqM), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Sofá de Cuero](https://open.spotify.com/album/6InJpyc0Y7eyBv3Rhm49n7) | 3:04 | 2022-04-07 | 2022-04-21 |
 | [Sola](https://open.spotify.com/track/3fqCowFYUnGI63qmxrrmmS) | [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Cariño](https://open.spotify.com/album/5BRqHpMjkqHfdlFa2O397S) | 3:25 | 2024-03-14 |  |
@@ -322,7 +323,7 @@
 | [Tan Difícil de Entender](https://open.spotify.com/track/4rdAUffaRjWdjKnpjtM6W5) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/1aiX9cvuhGDTTSqCqgyUO7) | 2:05 | 2021-12-09 | 2024-05-23 |
 | [TANTO PARA NADA](https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [RUBEDO](https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8) | 2:40 | 2024-06-21 |  |
 | [Tarde](https://open.spotify.com/track/1NAkjq9yvkryYOXK4HtsA0) | [La Pepe](https://open.spotify.com/artist/06tTCnJuihrOEh2hCuwWLX) | [Tarde](https://open.spotify.com/album/6LOK3oyliemSEju4OsqIXb) | 3:52 | 2022-04-07 | 2022-04-17 |
-| [tbb](https://open.spotify.com/track/1pTpdcsCrVf1gFKpDFJMzh) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv) | [tbb](https://open.spotify.com/album/2hthjfFHdByKsE59P68CXI) | 2:51 | 2022-12-30 |  |
+| [tbb](https://open.spotify.com/track/1pTpdcsCrVf1gFKpDFJMzh) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv) | [tbb](https://open.spotify.com/album/2hthjfFHdByKsE59P68CXI) | 2:51 | 2022-12-30 | 2024-08-03 |
 | [tbb](https://open.spotify.com/track/3JObJGc3II0h6eIWjOHwcJ) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:51 | 2023-10-27 | 2024-01-25 |
 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 | 2021-12-09 |  |
 | [Te Alejas De Mi](https://open.spotify.com/track/4svhcNN5RbjAkOUxqy5fcR) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY), [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Te Alejas De Mi](https://open.spotify.com/album/3P1K7eXFnH8SgXneLPNZQP) | 3:30 | 2024-03-14 | 2024-05-14 |

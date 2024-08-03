@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "A Solas",
+        "url": "https://open.spotify.com/album/3ZZnHpqJ7DA3GYMJDIxiDY"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Dj Dacel",
+          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147301,
+      "name": "A Solas",
+      "url": "https://open.spotify.com/track/4a9cPsCXOQ4xH05P2b2NBS"
+    },
+    {
+      "album": {
         "name": "A Breukelen Story",
         "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
       },
@@ -330,7 +356,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 203716,
       "name": "Corporal Punishment",
       "url": "https://open.spotify.com/track/2PHFvMWtHTnoXITzj1fOgl"
@@ -590,7 +616,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 227498,
       "name": "E.A.T.",
       "url": "https://open.spotify.com/track/5wf4rbeLC7w5vh5mRGuPWN"
@@ -2144,7 +2170,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 221266,
       "name": "Wrong One",
       "url": "https://open.spotify.com/track/40H22sFbazRwISu76U1qh0"

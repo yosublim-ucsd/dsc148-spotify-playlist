@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-138 songs - 10 hr 27 min
+139 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Jungle Riders](https://open.spotify.com/track/1j8XUIPtQI1DIC8dMALW2F) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:59 | 2022-10-06 |  |
 | [Juventude Actual](https://open.spotify.com/track/4IaQs3UZ9M7xIx4qIVVDQB) | [Sam Mangwana](https://open.spotify.com/artist/2p7l0MAzxkEwRHgtCcLVFB), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lubamba](https://open.spotify.com/album/2gGtpY3immTLCzAYR2kter) | 3:52 | 2022-10-12 | 2023-09-22 |
 | [Kamer Lion](https://open.spotify.com/track/09iL4gDXyDbQiFZd0A75mP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Slim Pezin](https://open.spotify.com/artist/1g8NXo2ny4jfebf55BwY1z), [Chantal Ayissi](https://open.spotify.com/artist/5IqR92nQBNNbxhOByISy3n) | [Past Present Future \(French version\)](https://open.spotify.com/album/3z8UgxUtuEumt2Hj6pUMEF) | 0:58 | 2022-11-06 | 2023-01-29 |
+| [Kwele](https://open.spotify.com/track/77mPkxBLi0zaYGorJTWs9Y) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/1akHGNTcQLSYfW9absfZul) | 3:21 | 2024-08-03 |  |
 | [Lagos Go Slow](https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 3:48 | 2021-12-28 | 2024-01-06 |
 | [Lagos Go Slow](https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Woodoo](https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv) | 3:50 | 2024-02-05 |  |
 | [Lemba](https://open.spotify.com/track/5WwoxtB0mX4FtumB5bLJJF) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Kirikou Et Les Bêtes Sauvages](https://open.spotify.com/album/3jPFCv3MmeFm529jkzUfIM) | 5:57 | 2022-01-20 | 2022-01-22 |
@@ -113,7 +114,7 @@
 | [Reggae Makossa](https://open.spotify.com/track/7yVaY0KgC79HynS5qJPJ72) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 6:36 | 2024-01-09 |  |
 | [Reggae Makossa](https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 6:37 | 2021-12-28 | 2024-01-05 |
 | [Rumba Makossa](https://open.spotify.com/track/3IBDRtyRDiyj6ZjbyPHWdF) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 4:36 | 2022-05-21 | 2022-06-10 |
-| [Rumba Makossa](https://open.spotify.com/track/4djQmaWEGTHjRpoLJJQSVt) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:36 | 2021-12-28 |  |
+| [Rumba Makossa](https://open.spotify.com/track/4djQmaWEGTHjRpoLJJQSVt) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:36 | 2021-12-28 | 2024-08-03 |
 | [Salvamm' o munno](https://open.spotify.com/track/48Kndus44tCfMKa7JoV2FE) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Bottari](https://open.spotify.com/artist/5REMQdXJQ6H1R3Od8I5dtF), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Salvamm 'o munno](https://open.spotify.com/album/4ND2SQRQDgP7J1UzD350Jn) | 3:53 | 2023-02-22 |  |
 | [Salvamm' o munno \(feat\. Manu Dibango\)](https://open.spotify.com/track/2GAky0AIrEJA4mDEnmyxN1) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Pelle differente](https://open.spotify.com/album/2QubH6SCDhcUYg5jmxiFt0) | 3:53 | 2022-10-12 | 2023-02-23 |
 | [Sango Yesu Cristo](https://open.spotify.com/track/7uQVyVvcvCQYK6Kj1QOdzl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Mboa' Su Kamer Feelin'](https://open.spotify.com/album/7oBL9kG8zwtGGfGst2W0Iv) | 5:11 | 2021-12-28 | 2022-10-13 |

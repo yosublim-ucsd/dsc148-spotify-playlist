@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,960 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,969 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 93 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
 | 94 | [All I Need](https://open.spotify.com/track/51ygW389BW4Dut3B69pSwc) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 3:48 |
 | 95 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 |
-| 96 | [Old Pine](https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH) | 5:28 |
-| 97 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
+| 96 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
+| 97 | [Old Pine](https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH) | 5:28 |
 | 98 | [Youuu](https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Youuu](https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z) | 3:55 |
 | 99 | [Hold On](https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj) | 3:46 |
 | 100 | [Dreaming My Dreams](https://open.spotify.com/track/45ipml9tB0PVrLFAJegcWE) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 3:36 |

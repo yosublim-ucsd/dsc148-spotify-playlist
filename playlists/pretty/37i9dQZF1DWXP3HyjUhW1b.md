@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 
 > Aquí están las meras\-meras petateras de nuestro cancionero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,957 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,983 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 21 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
 | 22 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
 | 23 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 |
-| 24 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 |
+| 24 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
 | 25 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 |
 | 26 | [La Chona](https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Robaste El Corazon](https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y) | 3:18 |
 | 27 | [Fuerte No Soy](https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 4:27 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 29 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 |
 | 30 | [Que No Quede Huella](https://open.spotify.com/track/0aPRt8ARHfeQx1nbFnpTzy) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [A Todo Galope](https://open.spotify.com/album/7kYO9wfvxwhrxQRINgBDj8) | 2:56 |
 | 31 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
-| 32 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
+| 32 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 |
 | 33 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 34 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 |
 | 35 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 79 | [No Discutamos](https://open.spotify.com/track/1kEWmwBPNkG1LtMb1H0xtZ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 2:16 |
 | 80 | [Nube Viajera](https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:04 |
 | 81 | [Me Gustas Mucho](https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:04 |
-| 82 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
-| 83 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
+| 82 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
+| 83 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
 | 84 | [Hasta la Miel Amarga](https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:36 |
 | 85 | [Cien años](https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 3:32 |
 | 86 | [Por Las Calles De Chihuahua \- En Vivo](https://open.spotify.com/track/6BYPMlys5yt6pJlYZIGRtU) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [La Más Completa Colección \- Mexico \(Disc 2\)](https://open.spotify.com/album/1XYrp5zF2JR45KOO83uJZj) | 2:35 |

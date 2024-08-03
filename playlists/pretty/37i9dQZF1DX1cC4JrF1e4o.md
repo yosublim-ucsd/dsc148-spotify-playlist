@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,325 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,440 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 25 | [Georgia on My Mind \- Original Master Recording](https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Georgia on My Mind \(Original Master Recording\)](https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb) | 3:37 |
 | 26 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 |
 | 27 | [Let There Be Love](https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 2:45 |
-| 28 | [We Three \(My Echo, My Shadow, And Me\)](https://open.spotify.com/track/43a4zqUZL1vHH93EKBFkLj) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:18 |
-| 29 | [Misty](https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:59 |
+| 28 | [Misty](https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:59 |
+| 29 | [We Three \(My Echo, My Shadow, And Me\)](https://open.spotify.com/track/43a4zqUZL1vHH93EKBFkLj) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:18 |
 | 30 | [As Time Goes By](https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:14 |
 | 31 | [Spanish Eyes](https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [My Cherie](https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0) | 2:46 |
 | 32 | ['Deed I Do](https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:13 |

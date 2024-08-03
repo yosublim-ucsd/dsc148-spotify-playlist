@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 27756,
+  "num_followers": 27780,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -95,26 +95,6 @@
     {
       "added_at": "2024-07-08 07:25:10",
       "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
-        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Paul Desmond Quartet",
-          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
-        }
-      ],
-      "duration_ms": 345920,
-      "name": "Fall Out",
-      "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
-    },
-    {
-      "added_at": "2024-07-08 07:25:10",
-      "album": {
         "name": "The Ivory Hunters",
         "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 446066,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
+    },
+    {
+      "added_at": "2024-07-08 07:25:10",
+      "album": {
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
+        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
+        }
+      ],
+      "duration_ms": 345920,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
     },
     {
       "added_at": "2024-07-08 07:25:10",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-08 07:25:10",
       "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Inside Impromptu",
+      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
+    },
+    {
+      "added_at": "2024-07-08 07:25:10",
+      "album": {
         "name": "The Latin Side Of Vince Guaraldi",
         "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
       },
@@ -235,26 +251,6 @@
       "duration_ms": 216440,
       "name": "Star Song",
       "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
-    },
-    {
-      "added_at": "2024-07-08 07:25:10",
-      "album": {
-        "name": "Blowin' Country",
-        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
-      },
-      "artists": [
-        {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "Steve Allen Theme",
-      "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
     },
     {
       "added_at": "2024-07-08 07:25:10",
@@ -275,18 +271,22 @@
     {
       "added_at": "2024-07-08 07:25:10",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+        "name": "Blowin' Country",
+        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
         }
       ],
-      "duration_ms": 332333,
-      "name": "Inside Impromptu",
-      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
+      "duration_ms": 251933,
+      "name": "Steve Allen Theme",
+      "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
     },
     {
       "added_at": "2024-07-08 07:25:10",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-08 07:25:10",
       "album": {
-        "name": "The Quartet and the Quintet",
-        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
-      },
-      "artists": [
-        {
-          "name": "Jack Sheldon",
-          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "Ahmoore",
-      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
-    },
-    {
-      "added_at": "2024-07-08 07:25:10",
-      "album": {
         "name": "Verve Jazz Masters 52: Maynard Ferguson",
         "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 185493,
       "name": "Willie Nillie",
       "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
+    },
+    {
+      "added_at": "2024-07-08 07:25:10",
+      "album": {
+        "name": "The Quartet and the Quintet",
+        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
+      },
+      "artists": [
+        {
+          "name": "Jack Sheldon",
+          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "Ahmoore",
+      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
     },
     {
       "added_at": "2024-07-08 07:25:10",

@@ -1,13 +1,29 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Luck Ra x Chayanne",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Camila",
   "num_followers": 53694,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAASexEm024MmvGwCQBUvj1fGYuMWRRL",
+  "snapshot_id": "AAASfdqUSgTd+H4JWfpxnEMDRKyiPwrp",
   "tracks": [
+    {
+      "added_at": "2024-08-02 10:43:44",
+      "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/4LMUMQt5TC9rXcXLaQoFNb"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "Por Si Me Vuelves a Querer",
+      "url": "https://open.spotify.com/track/1rBeu1vaULdjMNOBa7JerW"
+    },
     {
       "added_at": "2024-07-26 13:36:07",
       "album": {

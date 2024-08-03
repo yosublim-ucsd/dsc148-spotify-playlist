@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Charli xcx, Billie Eilish
 
-13,302 songs - 27 day 16 hr 49 min
+13,305 songs - 27 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7850,6 +7850,7 @@
 | [Monster \(with Alok\)](https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Monster \(with Alok\)](https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX) | 2:55 | 2024-02-29 | 2024-03-08 |
 | [Monsters](https://open.spotify.com/track/4YaeJORzwNpa0mcGoswsHy) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Monsters](https://open.spotify.com/album/1EoZo3AQcdo3rdBc87UotU) | 2:48 | 2023-12-21 | 2024-01-05 |
 | [Monsters Inc\. \(feat\. Future\)](https://open.spotify.com/track/22IvmyP4Sy8g9j9Jk6iRL3) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 3:03 | 2024-06-06 | 2024-06-14 |
+| [Monsun](https://open.spotify.com/track/3Sphuz17xKF7hBSKIGWs3Z) | [Freezy](https://open.spotify.com/artist/246r0Tdt5EFMQvxoANmkvK), [Didi](https://open.spotify.com/artist/618CkKAZvvzRlKwFRMY4Yp) | [Monsun](https://open.spotify.com/album/0Fqt5N2NOFXYcfp2Q0WUbd) | 2:40 | 2024-08-02 |  |
 | [MONTENEGRO \(feat\. RAF Camora\)](https://open.spotify.com/track/0xuaMTaQFsfaLPuMoYUQoP) | [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [AKELA](https://open.spotify.com/album/2J4MQ5VDmWZ1P5ZPtfp3OI) | 2:56 | 2024-02-01 | 2024-02-09 |
 | [Mood Swings](https://open.spotify.com/track/1fj905r3NdwA2XOnhYy9Z6) | [Jamal](https://open.spotify.com/artist/1tYOWKifYJqpVJ3nnHR3FC) | [Mood Swings](https://open.spotify.com/album/1WYR2qCJwbhdArvSgnz1Gk) | 3:08 | 2022-09-15 | 2022-09-23 |
 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 | 2024-02-08 | 2024-02-16 |
@@ -7980,6 +7981,7 @@
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-02-16 | 2023-02-24 |
 | [My Bad](https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [My Bad](https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b) | 2:27 | 2023-07-27 | 2023-08-04 |
 | [My Bed](https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn) | 2:44 | 2022-12-15 | 2022-12-24 |
+| [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-02 |  |
 | [My Best Friend](https://open.spotify.com/track/3o78I4WzEYmIgWOAAqbziA) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [My Best Friend](https://open.spotify.com/album/36Ovo2PptT0rS5WOrw8X8O) | 2:49 | 2024-04-11 | 2024-04-19 |
 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 | 2023-06-15 | 2023-06-23 |
 | [My Body](https://open.spotify.com/track/4mLoA8TNI6j5eb2YbpoCaz) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Zz\-Sides](https://open.spotify.com/album/4PHuRajmQJaW2c36QQbUHU) | 2:42 | 2023-11-23 | 2023-12-01 |
@@ -8397,6 +8399,7 @@
 | [No Spell for Moving Water](https://open.spotify.com/track/7rSqcSpvYzoCyrHDqnSvyl) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [No Spell for Moving Water](https://open.spotify.com/album/0mgAbJPNlK2uolzUK8Gmmm) | 3:22 | 2023-05-11 | 2023-05-19 |
 | [No Stress \(feat\. VillaBanks\)](https://open.spotify.com/track/7tsElhgryjaCRhBYUBcgBs) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [No Stress \(feat\. VillaBanks\)](https://open.spotify.com/album/3Piq4K3vyu572kJjRlLtmU) | 2:38 | 2024-03-21 | 2024-03-29 |
 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 | 2024-01-18 | 2024-01-26 |
+| [No Strings Attached](https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [No Strings Attached](https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi) | 2:59 | 2024-08-02 |  |
 | [no talk rn](https://open.spotify.com/track/4dlqOTQfRbk5AlBzdAvwlg) | [Nativ](https://open.spotify.com/artist/7ufLkxlHrq3NRaS1fCHOgq) | [no talk rn](https://open.spotify.com/album/5w18x9fLzctOZtZFZUG8r5) | 2:30 | 2024-04-11 | 2024-04-19 |
 | [No Tears](https://open.spotify.com/track/0EMf4IJNkMeAlzNpwysdME) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [No Tears](https://open.spotify.com/album/3PpwRE5cwEI7bBKIRQOX76) | 2:37 | 2023-10-26 | 2023-11-03 |
 | [No Time](https://open.spotify.com/track/0Xh4Zat16i2iBe6kjWZ8SU) | [Jule X](https://open.spotify.com/artist/1TSeKOGQXY1ERc745kFTJ0), [Lil Bruzy](https://open.spotify.com/artist/4GEAT0ISivahTQUZLSdJfN) | [No Time](https://open.spotify.com/album/10vl1M5A5Shjs6FmPEDBOh) | 2:26 | 2023-06-29 | 2023-07-07 |

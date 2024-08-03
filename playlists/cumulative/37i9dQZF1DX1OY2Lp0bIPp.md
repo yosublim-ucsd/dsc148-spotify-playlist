@@ -4,7 +4,7 @@
 
 > Giving motivation to your Monday\. You got this!
 
-259 songs - 15 hr 38 min
+260 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Inner Smile](https://open.spotify.com/track/6i3kIF4sosXFhkoSLMV7bP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Greatest Hits](https://open.spotify.com/album/6pM8nZgJqCrdBGLzjkBey0) | 3:50 | 2020-08-27 | 2022-07-29 |
 | [JCB](https://open.spotify.com/track/6CWCgRZ0Hxa2dnrCCvq5bA) | [Nizlopi](https://open.spotify.com/artist/7HorCYRsMBxPIRFYQE4Ch9) | [JCB](https://open.spotify.com/album/2rEK37JMgCij9KgAO40PUF) | 3:48 | 2021-06-07 | 2021-11-22 |
 | [Juliet & Romeo](https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Juliet & Romeo](https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh) | 3:24 | 2020-08-27 | 2022-03-14 |
-| [Katy on a Mission](https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:39 | 2024-03-20 |  |
+| [Katy on a Mission](https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:39 | 2024-03-20 | 2024-08-03 |
 | [Keep On Movin'](https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 3:18 | 2020-08-27 | 2022-07-29 |
 | [Keeping Your Head Up](https://open.spotify.com/track/5vuwXvQTpavYCgcPFnCMS4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Beautiful Lies \(Deluxe\)](https://open.spotify.com/album/2uNFpEVey5RsxzTdoDmjiz) | 3:28 | 2020-08-27 |  |
 | [Ladbroke Grove](https://open.spotify.com/track/7AODNxFNPnKaz4hURLzw5l) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [AJ Tracey](https://open.spotify.com/album/45UWSDr4RrFAwNfqiFelNj) | 3:10 | 2020-08-27 | 2024-04-19 |
@@ -232,6 +232,7 @@
 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 | 2020-08-27 | 2022-07-29 |
 | [The King of Wishful Thinking](https://open.spotify.com/track/4UQLQJu3DNvVkMVglwElU2) | [Go West](https://open.spotify.com/artist/7bKupnlF7XOfR1En3K8oAL) | [Indian Summer](https://open.spotify.com/album/3z3WKWIzEwKJ2T0YoOIGy4) | 4:01 | 2020-08-27 | 2022-07-29 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2020-08-27 |  |
+| [The Man](https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 4:15 | 2024-03-20 |  |
 | [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 | 2020-08-27 |  |
 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 | 2020-08-27 |  |
 | [Things Can Only Get Better](https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy) | [D:Ream](https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA) | [On Vol.1](https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj) | 4:18 | 2020-08-27 | 2022-07-29 |

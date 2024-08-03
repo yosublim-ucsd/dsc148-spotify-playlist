@@ -1,13 +1,77 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Abi Carter",
-  "num_followers": 97197,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Alex Sampson",
+  "num_followers": 97253,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqqvxgAAAADcw0+IjvrBxv+Hw43jmWxb",
+  "snapshot_id": "ZqxZwAAAAAA2OFaI4FOvZ6zYCP0J9wAh",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "If You Were My Girl",
+        "url": "https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 187874,
+      "name": "If You Were My Girl",
+      "url": "https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "A Tree Falls",
+        "url": "https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 193187,
+      "name": "A Tree Falls",
+      "url": "https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "VCR Home Video",
+        "url": "https://open.spotify.com/album/7qBk7vFJkG2K73yGruM5Ow"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 203711,
+      "name": "VCR Home Video",
+      "url": "https://open.spotify.com/track/12Tsnabj0nuyrLwG7yvxDb"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
+    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -25,6 +89,22 @@
       "url": "https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "young wild & free",
+        "url": "https://open.spotify.com/album/4P0267ISb7jOxFTe6Gxe4L"
+      },
+      "artists": [
+        {
+          "name": "Harvey Brittain",
+          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "young wild & free",
+      "url": "https://open.spotify.com/track/4YNmGqdF81pCTRO2YWp0ST"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Let's Talk",
@@ -39,22 +119,6 @@
       "duration_ms": 211161,
       "name": "A Hollywood Sign",
       "url": "https://open.spotify.com/track/3e5pd6rXyzoM7Rd6e8P4gq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Pretty Baby",
-        "url": "https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO"
-      },
-      "artists": [
-        {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
-        }
-      ],
-      "duration_ms": 203522,
-      "name": "Pretty Baby",
-      "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -415,22 +479,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "NEED ME",
-        "url": "https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 223189,
-      "name": "NEED ME",
-      "url": "https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Stuck Up",
         "url": "https://open.spotify.com/album/5mvwo5vHABNejQeADXkTeI"
       },
@@ -587,22 +635,6 @@
       "duration_ms": 261794,
       "name": "Paper Rose",
       "url": "https://open.spotify.com/track/6pGh07Y3T2zQLAuFTvjAXm"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Drama in Doses",
-        "url": "https://open.spotify.com/album/6FIHQn3metCrRMo2q8XpLc"
-      },
-      "artists": [
-        {
-          "name": "Sid Dorey",
-          "url": "https://open.spotify.com/artist/6UcErG934cEadG4q16v37T"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Drama in Doses",
-      "url": "https://open.spotify.com/track/2LbcamjmZDFMOj6dNVaIwA"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1343,22 +1375,6 @@
       "duration_ms": 171904,
       "name": "If You'll Be Mine",
       "url": "https://open.spotify.com/track/7zU6Wxahb3l4ZOz4V0RljM"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Isn't It Obvious",
-        "url": "https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 158130,
-      "name": "Isn't It Obvious",
-      "url": "https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj"
     },
     {
       "added_at": "2024-07-19 04:00:00",

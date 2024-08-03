@@ -4,12 +4,12 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: PK shampoo
 
-782 songs - 1 day 17 hr 39 min
+783 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!](https://open.spotify.com/track/2l8y4xSzP1b7oZBvFnpWdA) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:05 | 2024-03-07 |  |
-| ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 | 2022-07-14 |  |
+| ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 | 2022-07-14 | 2024-08-03 |
 | [1986](https://open.spotify.com/track/5d0XlR9EKCpbQHX8g0JbQh) | [DOTSUITARUNEN](https://open.spotify.com/artist/3AVCjqVpripxn9rQ1sC7Vb) | [1986](https://open.spotify.com/album/61uS7DM6h3la9sI1iTuuwS) | 5:56 | 2022-05-19 | 2022-07-27 |
 | [20th CENTURY BOY](https://open.spotify.com/track/4O2v3PvNY0BlVuq4oyAqMA) | [PET](https://open.spotify.com/artist/7GYpun631o8dGqDi1vpTJL) | [DANCE!DANCE!DANCE!](https://open.spotify.com/album/3vbuPOde056RverUHaTuBz) | 3:39 | 2022-12-20 | 2023-01-11 |
 | [22](https://open.spotify.com/track/54v2yRvHP4rdKNZLtyBbbQ) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:22 | 2024-03-07 |  |
@@ -750,6 +750,7 @@
 | [極彩色の夜へ\(Remastered\)](https://open.spotify.com/track/5RXTd9C3TYxXSaFAA73slU) | [climbgrow](https://open.spotify.com/artist/1VbfBuY3YBwQ5431bDLBD7) | [EL\-RODAR\(Selected Edition\)](https://open.spotify.com/album/4q3Sp4FtxrZ8c2s3kBsxEV) | 5:15 | 2022-05-12 | 2022-08-19 |
 | [欠けボタンの浜](https://open.spotify.com/track/1w4z24d1WsNzAiSgvMegOe) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [FOUR COLOR PROBLEM](https://open.spotify.com/album/6UPDZijSd4tsuTQnp1cvRh) | 3:15 | 2022-05-12 | 2022-07-27 |
 | [死がふたりを分かつまで](https://open.spotify.com/track/2VrInjH5nNuehjX97Zq4hq) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [死がふたりを分かつまで](https://open.spotify.com/album/2WoNMJ9rbmpGFEMYOFB272) | 3:17 | 2023-11-21 | 2024-02-28 |
+| [死ぬまでに俺がやりたいこと](https://open.spotify.com/track/4TF6wD2NlUn8CpZrQFSqUl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [死ぬまでに俺がやりたいこと](https://open.spotify.com/album/4hwgXFx90Z2BmAOXu897c0) | 1:40 | 2024-07-30 |  |
 | [死亡フラグを立てないで](https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [死亡フラグを立てないで](https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG) | 4:35 | 2024-04-16 |  |
 | [永久に](https://open.spotify.com/track/4bqBqH6zYVgIZXQO4ZyZJ7) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [永久に](https://open.spotify.com/album/0VeAIIbyFuQS7WeWqxa0PP) | 4:06 | 2023-08-08 | 2023-08-10 |
 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 | 2023-12-19 | 2024-03-23 |

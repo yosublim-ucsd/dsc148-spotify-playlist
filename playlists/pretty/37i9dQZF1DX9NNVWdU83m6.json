@@ -1,13 +1,29 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 53516,
+  "num_followers": 53531,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2b/AAAAADzkpUTv+hoP2fGm+U7mKBu",
+  "snapshot_id": "ZqxZwAAAAAAzIedz8D6UxLAhhQc5OlWJ",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 240315,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
+    },
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {

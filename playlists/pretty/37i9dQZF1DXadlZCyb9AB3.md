@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,678 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,843 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 17 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 |
 | 18 | [Mind Your Own Business](https://open.spotify.com/track/6bEjOYezTuD2gYq5X7tGlP) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/7dyzbiN0P6EfoxdRIgk6lL) | 3:13 |
 | 19 | [Beg For The Torture](https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Beg For The Torture](https://open.spotify.com/album/3xyCcmV6rCwlkn25PSFudQ) | 1:25 |
-| 20 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 |
-| 21 | [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 |
+| 20 | [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 |
+| 21 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 |
 | 22 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |
 | 23 | [superiority complex \(big noise\)](https://open.spotify.com/track/4RAPGBiC5HJN7sFr1B6EsG) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [FREE I.H: This Is Not the One You've Been Waiting For](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw) | 1:34 |
 | 24 | [Double Dare Ya](https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:40 |
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 41 | [Ha Ha Ha Armageddon](https://open.spotify.com/track/0brTq66ZftMGbr6OfKFUM9) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 3:16 |
 | 42 | [Dead Men Don't Rape](https://open.spotify.com/track/4iGxxqZaZ2Z0YFiXgd8n8O) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Sick'em](https://open.spotify.com/album/39vMdABPceCzciL1mlolsg) | 2:47 |
 | 43 | [Fairytale in the Supermarket](https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:00 |
-| 44 | [Make America Great Again](https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 3:15 |
-| 45 | [A Living Human Girl](https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 2:37 |
+| 44 | [A Living Human Girl](https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 2:37 |
+| 45 | [Make America Great Again](https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 3:15 |
 | 46 | [Eating Toothpaste](https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ) | 2:26 |
 | 47 | [Dress](https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo) | 3:18 |
 | 48 | [Handsome & Gretel](https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 1:50 |
 | 49 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
 | 50 | [No One's Little Girl](https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:30 |
 | 51 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
-| 52 | [Too Many Creeps](https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 4:03 |
-| 53 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
+| 52 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
+| 53 | [Too Many Creeps](https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 4:03 |
 | 54 | [Me & Her](https://open.spotify.com/track/6P4UiEsyyjHkgrdqfhXsa5) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [These Monsters Are Real](https://open.spotify.com/album/4G89Sw4wnfauYwhSAT0lke) | 2:44 |
 | 55 | [Just My Kind](https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [Run Fast](https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f) | 3:51 |
 | 56 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 |

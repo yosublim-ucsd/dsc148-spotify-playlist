@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,463 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,490 likes - 99 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 2 | [The Girl From Cagayan De Oro](https://open.spotify.com/track/7hpy2vrgp2duIotpoYPxSl) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jonathan Wesley](https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO) | [The Girl From Cagayan De Oro](https://open.spotify.com/album/7qU0xAK2XDVk4Qiq2sNzBt) | 4:27 |
 | 3 | [Newport Nights \- Radio Edit](https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Newport Nights \(Radio Edit\)](https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj) | 3:49 |
 | 4 | [Dream Maker](https://open.spotify.com/track/2qoRdks21e71gFc9zVBSHt) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Dream Maker](https://open.spotify.com/album/2KQxEMbI2vReIpBtTZDYAp) | 4:13 |
-| 5 | [Brown Sugar](https://open.spotify.com/track/649DBqP4FrmmK7blTlp7Pa) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco) | [Brown Sugar](https://open.spotify.com/album/1DzPhhXalSEevmRGicXZSu) | 4:31 |
-| 6 | [Road Block](https://open.spotify.com/track/0HMyfgtGDcCvcXSYmY38CF) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Road Block](https://open.spotify.com/album/1CBHUjIsLWB0kpyhpUQ8xr) | 3:30 |
-| 7 | [Later Together](https://open.spotify.com/track/0EEmz4rs2yKfEIE9ODHVUg) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Later Together](https://open.spotify.com/album/0cQOJUaBWc8h7iCBTHEUd9) | 4:05 |
-| 8 | [Levante](https://open.spotify.com/track/0cAJLGx79bybrE8ix7hOpC) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Levante](https://open.spotify.com/album/3es4r2kxay6xjDFi20KRMG) | 4:33 |
-| 9 | [Because of Who You Are \(Instrumental\)](https://open.spotify.com/track/7mBype4FhRTYuF4u9rdmdc) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Because of Who You Are \(Instrumental\)](https://open.spotify.com/album/7CCKQMYC2LEy4or4Wq0Il6) | 4:26 |
-| 10 | [A Beautiful Story](https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo) | [Ludovic Louis](https://open.spotify.com/artist/7dzml0MudQRS956whBQ455) | [If Everything Is Written](https://open.spotify.com/album/1I8wcOWPePOc82xh72vGlk) | 2:57 |
-| 11 | [I'm Back](https://open.spotify.com/track/3chwkGmDu1xrZP47I4NPK2) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [I'm Back](https://open.spotify.com/album/3YYROryULM8VUZKgKq0aIK) | 3:51 |
-| 12 | [Dare To Dream](https://open.spotify.com/track/7yTEsgjkPcFXOw6K9jgPf9) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [In Real Life](https://open.spotify.com/album/6NAnNSObthOkTd3GH0Ib7q) | 4:52 |
-| 13 | [Pillow Talk](https://open.spotify.com/track/3nkzHkfXixW2X79TYwzdbd) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Pillow Talk](https://open.spotify.com/album/5R4zxG9jGuY4IFYkqQL0z8) | 4:32 |
-| 14 | [Embrace \(feat\. Bill Moio\)](https://open.spotify.com/track/0A60YL05a4dKpmwxVGSxMk) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw), [Bill Moio](https://open.spotify.com/artist/57KNtssASqOvVdx2230rGg) | [Embrace \(feat\. Bill Moio\)](https://open.spotify.com/album/6SBpoAb0N3eziBGGLAHrSU) | 4:58 |
-| 15 | [Simplified Era](https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Simplified Era](https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ) | 2:12 |
+| 5 | [Happy Smooth Jazz](https://open.spotify.com/track/1aKkIqj3xTy2p41Le9uThV) | [Little Mary](https://open.spotify.com/artist/71hy1MirADf5VEb3BqgmKz), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Happy Smooth Jazz](https://open.spotify.com/album/3HRdOUQrnMrSrvhbSzEJx5) | 2:23 |
+| 6 | [Brown Sugar](https://open.spotify.com/track/649DBqP4FrmmK7blTlp7Pa) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco) | [Brown Sugar](https://open.spotify.com/album/1DzPhhXalSEevmRGicXZSu) | 4:31 |
+| 7 | [Road Block](https://open.spotify.com/track/0HMyfgtGDcCvcXSYmY38CF) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Road Block](https://open.spotify.com/album/1CBHUjIsLWB0kpyhpUQ8xr) | 3:30 |
+| 8 | [Later Together](https://open.spotify.com/track/0EEmz4rs2yKfEIE9ODHVUg) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Later Together](https://open.spotify.com/album/0cQOJUaBWc8h7iCBTHEUd9) | 4:05 |
+| 9 | [Levante](https://open.spotify.com/track/0cAJLGx79bybrE8ix7hOpC) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Levante](https://open.spotify.com/album/3es4r2kxay6xjDFi20KRMG) | 4:33 |
+| 10 | [Because of Who You Are \(Instrumental\)](https://open.spotify.com/track/7mBype4FhRTYuF4u9rdmdc) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Because of Who You Are \(Instrumental\)](https://open.spotify.com/album/7CCKQMYC2LEy4or4Wq0Il6) | 4:26 |
+| 11 | [A Beautiful Story](https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo) | [Ludovic Louis](https://open.spotify.com/artist/7dzml0MudQRS956whBQ455) | [If Everything Is Written](https://open.spotify.com/album/1I8wcOWPePOc82xh72vGlk) | 2:57 |
+| 12 | [I'm Back](https://open.spotify.com/track/3chwkGmDu1xrZP47I4NPK2) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [I'm Back](https://open.spotify.com/album/3YYROryULM8VUZKgKq0aIK) | 3:51 |
+| 13 | [Dare To Dream](https://open.spotify.com/track/7yTEsgjkPcFXOw6K9jgPf9) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [In Real Life](https://open.spotify.com/album/6NAnNSObthOkTd3GH0Ib7q) | 4:52 |
+| 14 | [Pillow Talk](https://open.spotify.com/track/3nkzHkfXixW2X79TYwzdbd) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Pillow Talk](https://open.spotify.com/album/5R4zxG9jGuY4IFYkqQL0z8) | 4:32 |
+| 15 | [Embrace \(feat\. Bill Moio\)](https://open.spotify.com/track/0A60YL05a4dKpmwxVGSxMk) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw), [Bill Moio](https://open.spotify.com/artist/57KNtssASqOvVdx2230rGg) | [Embrace \(feat\. Bill Moio\)](https://open.spotify.com/album/6SBpoAb0N3eziBGGLAHrSU) | 4:58 |
 | 16 | [Time Out](https://open.spotify.com/track/7ivjwPHFoM9MzbyuWYf50T) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/6belLLcGyIpignX9wYStN8) | 4:29 |
 | 17 | [Foreplay](https://open.spotify.com/track/2IlRDMMruJWUHrMr4b1vzl) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3) | [Foreplay](https://open.spotify.com/album/2z8agb6cD8BozTL49Mx5Ap) | 4:23 |
 | 18 | [Low Down](https://open.spotify.com/track/5dxOLud7aVA9cWTqrfOlxz) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [Low Down](https://open.spotify.com/album/3SmcxCHqMgh4Qj4MCQC4jz) | 4:19 |
@@ -107,6 +107,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 97 | [On Cue](https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [On Cue](https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI) | 3:49 |
 | 98 | [Reasons](https://open.spotify.com/track/3wo1wi09snMqZ9T3KQu3VT) | [Akshin Alizadeh](https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy) | [Reasons](https://open.spotify.com/album/5VxTgmfCEn2I9YmuoCEuqt) | 2:57 |
 | 99 | [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 |
-| 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `ZpCqfAAAAADkY15vsG8FrSXzJ3AGEyaJ`
+Snapshot ID: `ZqxZwAAAAAAXWcAgVdnSO3Yh0HVsmKJv`

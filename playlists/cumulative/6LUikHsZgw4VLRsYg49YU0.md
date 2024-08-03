@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-216 songs - 12 hr 44 min
+218 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 | 2024-01-19 |  |
 | [RISE UP](https://open.spotify.com/track/4GdYcBziM4hqHJSXYSntQe) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/0DMBH4ZFc1QS5XsAWKvdxM) | 3:00 | 2024-07-12 |  |
 | [Rising Hope](https://open.spotify.com/track/6cjLwn9Y6xm2laGb9BV3um) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rising Hope](https://open.spotify.com/album/2GMe4oDPk85ZVhF2aBhdkH) | 4:12 | 2022-12-09 | 2024-04-13 |
+| [Rival](https://open.spotify.com/track/58buWmTxt2T1MVwKZHfNSY) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Spice and Wolf: MERCHANT MEETS THE WISE WOLF \(Original Soundtrack\) \[Volume 3\]](https://open.spotify.com/album/7L6s9A3DNnd5NFXFnoJt5T) | 2:14 | 2024-08-02 |  |
 | [Rock\-Solid Hero](https://open.spotify.com/track/6YF7XbKCxeEoH8sETcJekg) | [Masaru Yokoyama](https://open.spotify.com/artist/3RN3VTAcHI62WWV3PlwlLK) | [マッシュル\-MASHLE\- Soundtrack Vol.2](https://open.spotify.com/album/4wwUSUAchrcq0PiukiU1Cs) | 1:37 | 2024-03-29 |  |
 | [ROCKETMAN](https://open.spotify.com/track/2V7nTRSHSdkj0QJcxp3Mfq) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Sivert Tinius](https://open.spotify.com/artist/64qbbpTXBTfi21M1mo7eJ6) | [ROCKETMAN](https://open.spotify.com/album/6pqlw7v4QBMkNJH9TCqEIf) | 2:50 | 2022-02-18 | 2022-12-10 |
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2022-02-18 | 2022-12-10 |
@@ -146,6 +147,7 @@
 | [The Cruel Angel's Thesis](https://open.spotify.com/track/1QFPI3slA71XOdiBV5qti1) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 4:06 | 2022-12-09 | 2024-05-25 |
 | [The Cruel Angel's Thesis <TV\. Size Version>](https://open.spotify.com/track/1FgSwJSeTq4MnemMcfqpoW) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [NEON GENESIS EVANGELION II \(Original Soundtrack\)](https://open.spotify.com/album/6o1pux1ryskKRd4LX3c3AC) | 1:33 | 2023-01-27 |  |
 | [The Everlasting Guilty Crown](https://open.spotify.com/track/76jRSSkd4pLwUflgwSeuB0) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 5:25 | 2022-12-09 | 2023-12-14 |
+| [The Joker's Rhapsody](https://open.spotify.com/track/2Ej7kbzsqYIGiZB0lJHibP) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [Suicide Squad Isekai \(Original Series Soundtrack\)](https://open.spotify.com/album/2xnR1m98SM92yNm4GIVT3U) | 3:04 | 2024-08-02 |  |
 | [The Roundhouse](https://open.spotify.com/track/3e4B1vU34QgwjVlWcykToT) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Pokémon Detective Pikachu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jE5ifgXfepCiYc9pEZFHg) | 1:50 | 2022-02-18 | 2022-12-10 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2023-01-13 |  |
 | [THE SCOTTS](https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk) | [THE SCOTTS](https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [THE SCOTTS](https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus) | 2:45 | 2022-02-18 | 2022-12-10 |

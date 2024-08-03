@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,117 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,101 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 13 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
 | 14 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
 | 15 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
-| 16 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
-| 17 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
+| 16 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
+| 17 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
 | 18 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
 | 19 | [I Don't Care](https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K) | 3:34 |
 | 20 | [Testify](https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:30 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 86 | [Cry Wolf](https://open.spotify.com/track/2d1HZ8HtdvqI5oqt7gpnB8) | [Sundazer](https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ) | [Cry Wolf](https://open.spotify.com/album/2mSsjlndP7hegCkRi8udPm) | 4:24 |
 | 87 | [Buddha For Mary](https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 5:45 |
 | 88 | [Smother!](https://open.spotify.com/track/3fbqRfChbrtlPOg1imoOsN) | [Post Profit](https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg) | [When You Think It's Right It's Always Wrong](https://open.spotify.com/album/1IZxAgVHBH8Z3iBsh8EBxd) | 4:06 |
-| 89 | [Bad Idea](https://open.spotify.com/track/28xq4spFVerqM5bDxVFgH4) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [Best Mistake](https://open.spotify.com/album/4fwRrnCLidomYVB8O5qNVu) | 3:50 |
-| 90 | [Let You Down](https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish](https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58) | 4:10 |
+| 89 | [Let You Down](https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish](https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58) | 4:10 |
+| 90 | [Bad Idea](https://open.spotify.com/track/28xq4spFVerqM5bDxVFgH4) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [Best Mistake](https://open.spotify.com/album/4fwRrnCLidomYVB8O5qNVu) | 3:50 |
 | 91 | [Fortress](https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Fortress](https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH) | 3:01 |
 | 92 | [Parallax Error](https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [What Does Your Soul Look Like](https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV) | 3:24 |
 | 93 | [Passenger](https://open.spotify.com/track/5EUp0KuPvWprwkD5HVhzmv) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Passenger](https://open.spotify.com/album/4uupmE8nv4sRZQf62HRSM4) | 3:26 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 97 | [Drug Emporium](https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5) | [Post Profit](https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg) | [Self Defeater](https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn) | 2:55 |
 | 98 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
 | 99 | [\~Cya Later\~](https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Breakfast For Pathetics](https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo) | 3:20 |
-| 100 | [Engage](https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr) | [Rain Check](https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj) | [Engage](https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f) | 3:06 |
+| 100 | [Semi\-Stable](https://open.spotify.com/track/7ic8ykAwMc1wQQXl8GaHlm) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Semi\-Stable](https://open.spotify.com/album/1CF3grRrEVPVHL2imwMuRG) | 2:47 |
 
 Snapshot ID: `ZlTlhAAAAAB0y0gwn0532FYq6VDAS8Zz`

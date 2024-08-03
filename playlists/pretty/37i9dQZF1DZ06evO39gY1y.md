@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 ### [This Is Charles Ans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y)
 
-> This is: Charles Ans\. Alle wichtigen Tracks in einer Playlist.
+> This Is Charles Ans\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,210 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,250 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 30 | [No Se Sobrepase](https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:03 |
 | 31 | [Ynlpa](https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ynlpa](https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9) | 3:03 |
 | 32 | [Lumbre](https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY) | 3:51 |
-| 33 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 |
-| 34 | [No Hay Palabras Bonitas](https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo Fu](https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:20 |
+| 33 | [No Hay Palabras Bonitas](https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo Fu](https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:20 |
+| 34 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 |
 | 35 | [El Último Tango](https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Último Tango](https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W) | 4:10 |
 | 36 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
 | 37 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 49 | [Vamos a Dar el Roll](https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:40 |
 | 50 | [¿Dónde Estarás?](https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [¿Dónde Estarás?](https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL) | 3:24 |
 
-Snapshot ID: `Zql+gAAAAABig3ItotjM3GUgTaXcYBbE`
+Snapshot ID: `ZqrQAAAAAABPwSTd25skaNzyQf96Xe61`

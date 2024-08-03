@@ -1,12 +1,12 @@
 {
-  "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 170091,
+  "description": "This is Miranda Lambert. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 170114,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAACPezzp93m8TpWHNlrYmac2",
+  "snapshot_id": "ZqrQAAAAAACj0Kg/s92YGD7EGK6QWnea",
   "tracks": [
     {
       "added_at": null,
@@ -1007,42 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 330693,
-      "name": "Smokin' and Drinkin' (feat. Little Big Town)",
-      "url": "https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Crazy Ex-Girlfriend",
-      "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Annie Up",
         "url": "https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG"
       },
@@ -1067,6 +1031,42 @@
       "duration_ms": 203493,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/2zwN5UpzCDnxk4tqWDaJF4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Crazy Ex-Girlfriend",
+      "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 330693,
+      "name": "Smokin' and Drinkin' (feat. Little Big Town)",
+      "url": "https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X"
     },
     {
       "added_at": null,

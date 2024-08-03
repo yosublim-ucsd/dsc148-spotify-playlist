@@ -1,12 +1,12 @@
 {
-  "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 870176,
+  "description": "This Is Joan Sebastian. Los temas esenciales, todos en una lista.",
+  "num_followers": 870477,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADQsKSKu3dkSCGzvxc6ErhC",
+  "snapshot_id": "ZqrQAAAAAABoFOgcihIa1U/5EOdshJNb",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Un Vestido de Besos",
-      "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colecci\u00f3n De Oro, Vol. 3: Con Tambora",
         "url": "https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 180337,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Un Vestido de Besos",
+      "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 133120,
-      "name": "Muchachita De Ojos Claros",
-      "url": "https://open.spotify.com/track/6KHHFJARqCRhevKe3ozHct"
+      "duration_ms": 181812,
+      "name": "Y Las Mariposas",
+      "url": "https://open.spotify.com/track/1uYRtqTqOw0KIihWtu8lUK"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 181812,
-      "name": "Y Las Mariposas",
-      "url": "https://open.spotify.com/track/1uYRtqTqOw0KIihWtu8lUK"
+      "duration_ms": 133120,
+      "name": "Muchachita De Ojos Claros",
+      "url": "https://open.spotify.com/track/6KHHFJARqCRhevKe3ozHct"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Celebrando El 13",
-        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 173786,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/4hTgRXA7Zp7wxPcKmMLNzc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian Con Tambora",
         "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 139691,
       "name": "Ojitos De Golondrina",
       "url": "https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 173786,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/4hTgRXA7Zp7wxPcKmMLNzc"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186734,
-      "name": "Melod\u00eda Para Dos",
-      "url": "https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 \u00c9xitos Con Orquesta/Grupo",
         "url": "https://open.spotify.com/album/28imweMDfB3oyByj6MySDQ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 164440,
       "name": "Lobo Domesticado",
       "url": "https://open.spotify.com/track/7g4RwwhSrmX9iuNFE8wk2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186734,
+      "name": "Melod\u00eda Para Dos",
+      "url": "https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Juliantla",
-      "url": "https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 195117,
       "name": "Afortunado",
       "url": "https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Juliantla",
+      "url": "https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5"
     },
     {
       "added_at": null,

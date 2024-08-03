@@ -1,12 +1,12 @@
 {
-  "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 75944,
+  "description": "This Is Ramon Ayala Y Sus Bravos Del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 75964,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABxCIlO8zDdpEusj2GxSzai",
+  "snapshot_id": "ZqrQAAAAAABJJCEaYQ7TkSGNOYH2wZb5",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Central Camionera",
+        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Central Camionera",
+      "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 226360,
       "name": "Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
-        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 189853,
-      "name": "Chaparra De Mi Amor",
-      "url": "https://open.spotify.com/track/6O520IZgFxvuPnBms0But5"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Central Camionera",
-        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
+        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 202373,
-      "name": "Central Camionera",
-      "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
+      "duration_ms": 189853,
+      "name": "Chaparra De Mi Amor",
+      "url": "https://open.spotify.com/track/6O520IZgFxvuPnBms0But5"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Autenticos",
-        "url": "https://open.spotify.com/album/58oq7ubxQKCUxOVvha9mZL"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "La Venganza del Tah\u00far",
-      "url": "https://open.spotify.com/track/5yb5ILBgqJLPaESPA5llsd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Vengas A Rogarme",
         "url": "https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 180880,
       "name": "Hay Unos Ojos",
       "url": "https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Autenticos",
+        "url": "https://open.spotify.com/album/58oq7ubxQKCUxOVvha9mZL"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "La Venganza del Tah\u00far",
+      "url": "https://open.spotify.com/track/5yb5ILBgqJLPaESPA5llsd"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CELEBRANDO CINCO DE MAYO",
-        "url": "https://open.spotify.com/album/2rETwAEuv7UBSkbvBJL1ag"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Juramos Amarnos",
-      "url": "https://open.spotify.com/track/0SQOdZUCfqKk8j3xBWMW2A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pero Yo No La Conozco",
         "url": "https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 173120,
       "name": "Y Lloro Por Ella Mi Gorri\u00f3n",
       "url": "https://open.spotify.com/track/0ZjZPINvCCjbARJfesaiQT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CELEBRANDO CINCO DE MAYO",
+        "url": "https://open.spotify.com/album/2rETwAEuv7UBSkbvBJL1ag"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Juramos Amarnos",
+      "url": "https://open.spotify.com/track/0SQOdZUCfqKk8j3xBWMW2A"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
-        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "La Latosa",
-      "url": "https://open.spotify.com/track/74aQZ1NHn8RjsZKGgCKZ7p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ret\u00e9n",
         "url": "https://open.spotify.com/album/6POuZHyrJbMslvhuFwprTF"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 220501,
       "name": "El Ret\u00e9n",
       "url": "https://open.spotify.com/track/1YWy4nUHysy7EhTbldcMmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
+        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 156920,
+      "name": "La Latosa",
+      "url": "https://open.spotify.com/track/74aQZ1NHn8RjsZKGgCKZ7p"
     }
   ],
   "unique_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",

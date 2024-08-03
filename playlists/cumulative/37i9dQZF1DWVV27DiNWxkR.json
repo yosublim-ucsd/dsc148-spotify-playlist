@@ -1851,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+    },
+    {
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5"
       },
@@ -2708,7 +2726,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 224413,
       "name": "I Guess",
       "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
@@ -6870,6 +6888,24 @@
       "duration_ms": 281960,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343360,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
     },
     {
       "album": {

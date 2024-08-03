@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 202528,
       "name": "Caliope",
       "url": "https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS"
@@ -1618,6 +1618,28 @@
       "duration_ms": 225306,
       "name": "COLOGNE",
       "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
+    },
+    {
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/6UPdsEVKadhjafllM5p2rc"
+      },
+      "artists": [
+        {
+          "name": "Thega Diaz",
+          "url": "https://open.spotify.com/artist/5IikrGLvqxeVqr1Sco72eG"
+        },
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180451,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/6MAB4oCZtECXRj7vybPb40"
     },
     {
       "album": {
@@ -2521,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "ELLOS SI SABEN",
+        "url": "https://open.spotify.com/album/7t99Oeqqm0MPJmQ5QUTwAk"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "ELLOS SI SABEN",
+      "url": "https://open.spotify.com/track/2J7BZgycaRKE4Ynvkb1Tsy"
+    },
+    {
+      "album": {
         "name": "Drama Vol. 1",
         "url": "https://open.spotify.com/album/5SoVXEF6lDQzvKAHqdf5sM"
       },
@@ -2884,7 +2924,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 186285,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
@@ -3841,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "LA PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/4kpXc2TtBaQZaRGxKH6lOu"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163252,
+      "name": "LA PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/4R3OVN8aUfF4LTXyjohnQc"
+    },
+    {
+      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/60xVlVhg4LbjGca3VaUqo7"
       },
@@ -4073,6 +4131,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Nunca Vas a Dar",
+        "url": "https://open.spotify.com/album/6WzisNeeRU4zRjpnRsAJLK"
+      },
+      "artists": [
+        {
+          "name": "Lalo Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258613,
+      "name": "Lo Que Nunca Vas a Dar",
+      "url": "https://open.spotify.com/track/1JpMgbEvtjkMNXDbK2gEcH"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V"
       },
@@ -4156,7 +4232,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 172235,
       "name": "Los Dos",
       "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
@@ -5396,7 +5472,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 171882,
       "name": "No Me Hagas Seguir",
       "url": "https://open.spotify.com/track/6Ylv3sfQITiT3szgTKAXE6"
@@ -6092,7 +6168,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 156461,
       "name": "Promesas",
       "url": "https://open.spotify.com/track/4354fubltNCknagyX8ZirV"
@@ -8164,7 +8240,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 150186,
       "name": "YNQNP",
       "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,200 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,201 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:07 |
 | 2 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 | 3 | [Lonely Day](https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:47 |
-| 4 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
-| 5 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
+| 4 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
+| 5 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
 | 6 | [I Hate Everything About You](https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace](https://open.spotify.com/album/13topfW33NjnACjnRiZBX7) | 3:51 |
 | 7 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 | 8 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 |
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 10 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
 | 11 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
 | 12 | [DONTTRUSTME](https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [WANT](https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm) | 3:12 |
-| 13 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
-| 14 | [My Happy Ending](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 4:02 |
+| 13 | [My Happy Ending](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 4:02 |
+| 14 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 15 | [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 |
 | 16 | [That's What You Get](https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:40 |
 | 17 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |

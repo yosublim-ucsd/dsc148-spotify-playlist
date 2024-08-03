@@ -1,12 +1,12 @@
 {
-  "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 247619,
+  "description": "This is Dolly Parton. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 247648,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAc6Xi/HY1gZG2uy7rhAIuI",
+  "snapshot_id": "ZqrQAAAAAAB2VIhPWUfwG4yajhKm7huw",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTX Vol. IV - Classics",
-        "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
+        "name": "Forever More (Love Songs, Hits & Duets)",
+        "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
       },
       "artists": [
         {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
         },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 131893,
-      "name": "Jolene (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
+      "duration_ms": 245000,
+      "name": "The Day I Fall In Love - Featuring Dolly Parton",
+      "url": "https://open.spotify.com/track/0bi3Yuwv936oMxD2VIK2Ci"
     },
     {
       "added_at": null,
@@ -403,22 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever More (Love Songs, Hits & Duets)",
-        "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
+        "name": "PTX Vol. IV - Classics",
+        "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
       },
       "artists": [
         {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
         },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 245000,
-      "name": "The Day I Fall In Love - Featuring Dolly Parton",
-      "url": "https://open.spotify.com/track/0bi3Yuwv936oMxD2VIK2Ci"
+      "duration_ms": 131893,
+      "name": "Jolene (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 315613,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Is Like A Song (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 193906,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 315613,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
     },
     {
       "added_at": null,

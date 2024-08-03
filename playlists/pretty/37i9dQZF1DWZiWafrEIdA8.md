@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,243 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,239 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 40 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 |
 | 41 | [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 |
 | 42 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |
-| 43 | [Fire Up](https://open.spotify.com/track/66aRjw9DruRf9J40t1Wm9i) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Fire Up](https://open.spotify.com/album/6LsnwhszwrWSHWQh9f4kv6) | 3:39 |
-| 44 | [HANGANG](https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [HANGANG](https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg) | 3:20 |
+| 43 | [HANGANG](https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [HANGANG](https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg) | 3:20 |
+| 44 | [Fire Up](https://open.spotify.com/track/66aRjw9DruRf9J40t1Wm9i) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Fire Up](https://open.spotify.com/album/6LsnwhszwrWSHWQh9f4kv6) | 3:39 |
 | 45 | [365&7 \(Feat\. JAMIE\)](https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [365&7](https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL) | 2:49 |
 | 46 | [Black Heart \(feat\. Leellamarz, BE'O\)](https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Between Sat & Sun](https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio) | 3:55 |
 | 47 | [OHAYO MY NIGHT](https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp) | [OHAYO MY NIGHT](https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8) | 3:58 |

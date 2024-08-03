@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-322 songs - 20 hr 25 min
+323 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [CRY](https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [CRY](https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8) | 3:57 | 2021-12-17 |  |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-07-22 | 2024-04-19 |
 | [Cry Wolf](https://open.spotify.com/track/2O3VFSBrlQBe13zmEAOqnv) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Cry Wolf](https://open.spotify.com/album/5ZeEIUij4TN4IUdbD6wGfU) | 3:16 | 2021-12-17 |  |
+| [Dance To The Music](https://open.spotify.com/track/4CBDFhxrhcop3lRIMPpNGJ) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Dance To The Music](https://open.spotify.com/album/6cnadGskko2D3kOJsro8Wb) | 3:44 | 2024-08-02 |  |
 | [Dead Eyes](https://open.spotify.com/track/22eir1Hfkwn0fYNgJXEti3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Dead Eyes](https://open.spotify.com/album/3DkZKoCTBT3ruS9To8hi9N) | 2:21 | 2021-12-17 | 2022-06-04 |
 | [Dead In The Water](https://open.spotify.com/track/2xlz1tmWu6dx4kF06LyWnL) | [Randall Bramblett](https://open.spotify.com/artist/3v7rZDkM01Le1Sxma0sLoT) | [Devil Music](https://open.spotify.com/album/3gkhZjEhH075NMrAW9byLX) | 4:23 | 2021-12-17 | 2022-07-29 |
 | [Dead In The Water](https://open.spotify.com/track/5tFg8himaf7zeYyXhaDqaI) | [Randall Bramblett](https://open.spotify.com/artist/3v7rZDkM01Le1Sxma0sLoT) | [Devil Music](https://open.spotify.com/album/3HKe2roAMFPmMMy5QRSjZl) | 4:23 | 2022-07-22 | 2023-12-02 |

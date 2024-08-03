@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 ### [This Is Lenny Kravitz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO361paU)
 
-> This Is Lenny Kravitz\. Los temas esenciales, todos en una lista.
+> This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,302 likes - 52 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,349 likes - 52 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 51 | [Minister Of Rock 'N Roll](https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 3:34 |
 | 52 | [We Can Get It All Together](https://open.spotify.com/track/4VCvcqaN8JZUtArycNezHm) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:40 |
 
-Snapshot ID: `Zql+gAAAAAD0WIawZI53VygTCyA1jBgj`
+Snapshot ID: `ZqrQAAAAAAC8kI59kiKlmh96vown8E9V`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Maria Becerra, Gloria Trevi en portada.",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Hern\u00e1n Sep\u00falveda en portada.",
   "name": "La Miscel\u00e1nea: Banda, Corridos & m\u00e1s...",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 168896,
       "name": "(Entre Par\u00e9ntesis)",
       "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
@@ -450,6 +450,24 @@
       "duration_ms": 183768,
       "name": "Bandido de Amores",
       "url": "https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT"
+    },
+    {
+      "album": {
+        "name": "Basta Ya (En Vivo)",
+        "url": "https://open.spotify.com/album/5OMumz9gbdzfjrMgx1zJ9y"
+      },
+      "artists": [
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291285,
+      "name": "Basta Ya (En Vivo)",
+      "url": "https://open.spotify.com/track/5sfYk58Wk3bEC6QpwIZuKl"
     },
     {
       "album": {
@@ -1181,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "GT3",
+        "url": "https://open.spotify.com/album/6NQ6OnEavgeMBkFZlVwAkP"
+      },
+      "artists": [
+        {
+          "name": "El Colorado",
+          "url": "https://open.spotify.com/artist/6eqWqn0QAGLuktQBzgU20F"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "GT3",
+      "url": "https://open.spotify.com/track/0txqKUMibb0dxsjeA7XpEp"
+    },
+    {
+      "album": {
         "name": "Hasta Que Me Duermo",
         "url": "https://open.spotify.com/album/1mLcet0qvEtwU5QnGpROrx"
       },
@@ -1228,7 +1264,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 188346,
       "name": "Hojas de Oto\u00f1o",
       "url": "https://open.spotify.com/track/3H4QNsxSfRoc42ooUWZllJ"
@@ -1250,6 +1286,24 @@
       "duration_ms": 280166,
       "name": "Homenaje a Valent\u00edn Elizalde - En Vivo",
       "url": "https://open.spotify.com/track/5wg7yhyo2jPJBbjphZORIP"
+    },
+    {
+      "album": {
+        "name": "Ilusi\u00f3n 98",
+        "url": "https://open.spotify.com/album/2vsVaOp6BKaDFrHNFzWetm"
+      },
+      "artists": [
+        {
+          "name": "Banda Perla de Michoacan",
+          "url": "https://open.spotify.com/artist/3XQKGbfsPMbgMCt0OXUZVf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Ilusi\u00f3n 98",
+      "url": "https://open.spotify.com/track/4bvfI3qmILgkvqdq7txFQl"
     },
     {
       "album": {
@@ -1606,6 +1660,24 @@
       "duration_ms": 226250,
       "name": "Labios de Cereza 2",
       "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
+    },
+    {
+      "album": {
+        "name": "Las Solicitudes",
+        "url": "https://open.spotify.com/album/2wLx6AguseKODAAwsetCHR"
+      },
+      "artists": [
+        {
+          "name": "Don Zares",
+          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222581,
+      "name": "Las Solicitudes",
+      "url": "https://open.spotify.com/track/51kLagUGoJepiE2VjK8xoR"
     },
     {
       "album": {
@@ -2122,6 +2194,24 @@
       "duration_ms": 193728,
       "name": "Muchacha - Con Grupo Firme",
       "url": "https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Que Amigos",
+        "url": "https://open.spotify.com/album/3OehShEKrLDaWhIZynhc0P"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "M\u00e1s Que Amigos",
+      "url": "https://open.spotify.com/track/3RuURBMNIZvEh5kEJO2j0I"
     },
     {
       "album": {
@@ -2745,6 +2835,28 @@
     },
     {
       "album": {
+        "name": "A\u00fan Me Sigo Encontrando",
+        "url": "https://open.spotify.com/album/5h5LYj1q3fHaol9hIF6sQx"
+      },
+      "artists": [
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171671,
+      "name": "Solitos",
+      "url": "https://open.spotify.com/track/69xdXyltln7iQExXgY9Xtw"
+    },
+    {
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -2854,7 +2966,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 212071,
       "name": "Sue\u00f1o G\u00fcajiro",
       "url": "https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G"
@@ -3230,7 +3342,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 240413,
       "name": "Vida",
       "url": "https://open.spotify.com/track/09AQH4pekoe8dUmjdDPsDk"
@@ -3350,7 +3462,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179066,
       "name": "Ya Me La Deb\u00edas",
       "url": "https://open.spotify.com/track/2Qr69HxvmlfpxBbnqrEbOa"
@@ -3480,7 +3592,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 210000,
       "name": "\u00bfQu\u00e9 Fuimos?",
       "url": "https://open.spotify.com/track/5Sk8yWDVdxN4Z4YXhsfm60"

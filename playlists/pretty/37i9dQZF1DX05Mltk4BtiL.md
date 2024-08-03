@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,825 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,850 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 36 | [Das erste Mal](https://open.spotify.com/track/7gsAQKpCsXV8i31cljdW6u) | [Milliarden](https://open.spotify.com/artist/1GltDYqF7Pl8qKkIuN85GA) | [Das erste Mal](https://open.spotify.com/album/3XTth7s9YmgxGuMoYd15IM) | 4:07 |
 | 37 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
 | 38 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
-| 39 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
-| 40 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
+| 39 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
+| 40 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
 | 41 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
 | 42 | [Leon](https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Leon](https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms) | 3:15 |
 | 43 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 46 | [Die Hitze ist heiß](https://open.spotify.com/track/4AbH6roYbLNcjZmZEkkbtw) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Die Hitze ist heiß](https://open.spotify.com/album/1gtzF9NqsPorWOxmICuHSr) | 2:34 |
 | 47 | [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Marmelade Und Himbeereis](https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di) | 3:48 |
 | 48 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
-| 49 | [I.C.E\. 2 \(feat\. Kryptik Joe and Rocko Schamoni\)](https://open.spotify.com/track/3fcIZ7Ia4Rr4DdBlWfjfDh) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Kryptik Joe](https://open.spotify.com/artist/1NmLear8QhZBLkRxsnY1iR), [Rocko Schamoni](https://open.spotify.com/artist/1Enw1OhPzkUmYl8daiaBtS) | [I.C.E\. 2 \(feat\. Kryptik Joe and Rocko Schamoni\)](https://open.spotify.com/album/74u87GFTbOrj1PiRtY8Nh1) | 2:46 |
-| 50 | [All meine Angst](https://open.spotify.com/track/0rE6YPbzad41mlswdKI43l) | [vian](https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N) | [All meine Angst](https://open.spotify.com/album/2QDzccyAFESmxf8ZdWPHfk) | 2:17 |
+| 49 | [All meine Angst](https://open.spotify.com/track/0rE6YPbzad41mlswdKI43l) | [vian](https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N) | [All meine Angst](https://open.spotify.com/album/2QDzccyAFESmxf8ZdWPHfk) | 2:17 |
+| 50 | [ICH WEISS ES NICHT](https://open.spotify.com/track/7L2c0Gy88eOncmLPQ2PF9V) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [ICH WEISS ES NICHT](https://open.spotify.com/album/0DgFYFrptZIulH79F3zGe9) | 2:35 |
 
 Snapshot ID: `ZqwFYAAAAACzRzEmqYPEN6MdzvMDPEij`

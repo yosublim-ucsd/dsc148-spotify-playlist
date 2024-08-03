@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 
 > The essential pop rock songs from the 2000s\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,432 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,618 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 16 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 17 | [Snow \(Hey Oh\)](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 5:34 |
 | 18 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
-| 19 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
-| 20 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 19 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 20 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
 | 21 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |
 | 22 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 23 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 94 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 |
 | 95 | [Only The Young](https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:18 |
 | 96 | [Her Diamonds](https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Cradlesong](https://open.spotify.com/album/72aNaOna8AV0GZADXRbFlX) | 4:40 |
-| 97 | [In A Little While](https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:40 |
-| 98 | [Imitation Of Life](https://open.spotify.com/track/32kmXl5F8I3XDVKNfwwM4J) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Reveal](https://open.spotify.com/album/43goi7G5yXOoI7bLaowtpy) | 3:56 |
+| 97 | [Imitation Of Life](https://open.spotify.com/track/32kmXl5F8I3XDVKNfwwM4J) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Reveal](https://open.spotify.com/album/43goi7G5yXOoI7bLaowtpy) | 3:56 |
+| 98 | [In A Little While](https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:40 |
 | 99 | [Nine in the Afternoon](https://open.spotify.com/track/59kTVUKhpcFw9zMLPSbFvH) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/78EcStHa23JPRmLNan5fST) | 3:12 |
 | 100 | [Hey Julie](https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 2:36 |
 

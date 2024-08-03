@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: La Kuppe & Amar Azul.",
-  "num_followers": 223058,
+  "num_followers": 223119,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
+      },
+      "artists": [
+        {
+          "name": "Los Cadiz",
+          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
+        }
+      ],
+      "duration_ms": 200071,
+      "name": "Te Voy a Amar",
+      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Si Esta Casa Hablara",
         "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 200575,
       "name": "Si Esta Casa Hablara",
       "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
-      },
-      "artists": [
-        {
-          "name": "Los Cadiz",
-          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "Te Voy a Amar",
-      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "APD",
-        "url": "https://open.spotify.com/album/1Dy7ZCsu6OElfEgoE3L8Zb"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 169024,
-      "name": "APD",
-      "url": "https://open.spotify.com/track/5osrCuTDdYz50A8CVgZBBI"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "APD",
+        "url": "https://open.spotify.com/album/1Dy7ZCsu6OElfEgoE3L8Zb"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 169024,
+      "name": "APD",
+      "url": "https://open.spotify.com/track/5osrCuTDdYz50A8CVgZBBI"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Tuyo Siempre",
-        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Tuyo Siempre",
-      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/260Sbv1NKuKSMi9QunvtsI"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 192120,
       "name": "El Soy Yo",
       "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Tuyo Siempre",
+        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Tuyo Siempre",
+      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 204659,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Sigo Mi Camino",
         "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
       },
@@ -1443,58 +1427,6 @@
       "duration_ms": 164022,
       "name": "Yo Te Esperare",
       "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Messirve Mix 7",
-        "url": "https://open.spotify.com/album/4eHuMe6gkLf1XkXN3Hu3nS"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 133829,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/3K17sPli1ZwYitB1rBQH0l"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Vete de Mi Lado",
-        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
-      },
-      "artists": [
-        {
-          "name": "Los Chakales",
-          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Vete de Mi Lado",
-      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Noche de Estrellas",
-        "url": "https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        },
-        {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "Noche de Estrellas",
-      "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1515,6 +1447,74 @@
       "duration_ms": 323334,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 204659,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Vete de Mi Lado",
+        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
+      },
+      "artists": [
+        {
+          "name": "Los Chakales",
+          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Vete de Mi Lado",
+      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Messirve Mix 7",
+        "url": "https://open.spotify.com/album/4eHuMe6gkLf1XkXN3Hu3nS"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 133829,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/3K17sPli1ZwYitB1rBQH0l"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Noche de Estrellas",
+        "url": "https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "Noche de Estrellas",
+      "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Partido",
-        "url": "https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "Coraz\u00f3n Partido",
-      "url": "https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Amor, Familia y Respeto",
         "url": "https://open.spotify.com/album/434Iw6Hpknzb3altfTyF71"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 197775,
       "name": "Me Va Mejor Con el Alcohol",
       "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n Partido",
+        "url": "https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "Coraz\u00f3n Partido",
+      "url": "https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4"
     },
     {
       "added_at": "2024-07-26 03:00:00",

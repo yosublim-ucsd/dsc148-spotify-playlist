@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-171 songs - 10 hr 5 min
+172 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Mande um Sinal \- Acústico](https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mande um Sinal \(Acústico\)](https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq) | 3:58 | 2024-07-12 |  |
 | [Mantra](https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Mantra](https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR) | 2:48 | 2022-11-15 | 2023-02-06 |
 | [Meant to Be \- Acoustic](https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Meant to Be \(Acoustic\)](https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI) | 2:38 | 2021-11-05 |  |
+| [Memória Degradê](https://open.spotify.com/track/6OegJfS05TKWZzAVk1Jc8k) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Memória Degradê](https://open.spotify.com/album/7lcd90LcAx66MZ67yymMRE) | 3:19 | 2024-08-02 |  |
 | [Mistakes](https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Mistakes](https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ) | 2:29 | 2022-09-30 |  |
 | [More Than Words](https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp) | 3:34 | 2023-11-03 | 2024-04-19 |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2021-11-05 | 2023-08-31 |
@@ -165,7 +166,7 @@
 | [Tudo Pah \- Casa Filtr](https://open.spotify.com/track/5QPj2GvEMAsca12RmRiMoX) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Pah \(Casa Filtr\)](https://open.spotify.com/album/4UKtzqwGYpn2miqMvpDfhO) | 2:43 | 2022-09-02 | 2022-10-08 |
 | [Two Commas](https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Two Commas](https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt) | 3:34 | 2021-11-05 | 2022-12-13 |
 | [Unfinished \- Acoustic](https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Unfinished \(Acoustic\)](https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq) | 4:07 | 2022-10-14 | 2023-02-12 |
-| [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 | 2021-11-05 |  |
+| [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 | 2021-11-05 | 2024-08-03 |
 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 | 2021-11-05 |  |
 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 | 2021-11-05 |  |
 | [Viva La Vida \- Live from Spotify London](https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live from Spotify London](https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c) | 3:54 | 2021-11-05 |  |

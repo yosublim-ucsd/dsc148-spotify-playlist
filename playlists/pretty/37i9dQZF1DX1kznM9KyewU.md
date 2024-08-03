@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,796 likes - 90 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,861 likes - 90 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 53 | [The Freshmen](https://open.spotify.com/track/21jEuMn2lf37715rwjow2M) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Villains](https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi) | 4:29 |
 | 54 | [Love of a Lifetime \(2024 Remaster\)](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:45 |
 | 55 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 |
-| 56 | [Selling The Drama](https://open.spotify.com/track/5hE3T2329sdMmIrHxjhQDL) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2) | 3:28 |
-| 57 | [Blaze Of Glory](https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:40 |
+| 56 | [Blaze Of Glory](https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:40 |
+| 57 | [Selling The Drama](https://open.spotify.com/track/5hE3T2329sdMmIrHxjhQDL) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2) | 3:28 |
 | 58 | [Remedy](https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [The Southern Harmony And Musical Companion](https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk) | 5:22 |
 | 59 | [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 3:09 |
 | 60 | [Human Touch](https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Human Touch](https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF) | 6:28 |

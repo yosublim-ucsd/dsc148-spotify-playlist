@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: JINJIN (ASTRO)",
-  "num_followers": 811366,
+  "num_followers": 811425,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqrvUAAAAACn0PBx76ysFCVl4FLHBrRI",
+  "snapshot_id": "Zqyf9AAAAABWa4seysUfzrQEFZfFdATv",
   "tracks": [
+    {
+      "added_at": "2024-08-02 08:59:31",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
     {
       "added_at": "2024-07-30 09:55:05",
       "album": {
@@ -559,22 +575,6 @@
     {
       "added_at": "2024-07-24 09:04:47",
       "album": {
-        "name": "SABOTAGE",
-        "url": "https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL"
-      },
-      "artists": [
-        {
-          "name": "KWON EUNBI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "SABOTAGE",
-      "url": "https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe"
-    },
-    {
-      "added_at": "2024-07-24 09:04:47",
-      "album": {
         "name": "All The Way",
         "url": "https://open.spotify.com/album/1s3QsCUiHLP0kbKUulGUMc"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-24 09:04:47",
       "album": {
-        "name": "\ufeffcignature 5th EP Album 'Sweetie but Saltie'",
-        "url": "https://open.spotify.com/album/2b1k5XuKhLK0zkCS7B85pY"
-      },
-      "artists": [
-        {
-          "name": "cignature",
-          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Poongdung",
-      "url": "https://open.spotify.com/track/3k37BDB7RmEl4TvmsdLNdI"
-    },
-    {
-      "added_at": "2024-07-24 09:04:47",
-      "album": {
         "name": "Every Night",
         "url": "https://open.spotify.com/album/354EqtesmKX1F6ioEZL49h"
       },
@@ -763,22 +747,6 @@
       "duration_ms": 187920,
       "name": "Girls Never Die",
       "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
-    },
-    {
-      "added_at": "2024-07-24 09:04:47",
-      "album": {
-        "name": "KING KONG",
-        "url": "https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 196221,
-      "name": "KING KONG",
-      "url": "https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq"
     },
     {
       "added_at": "2024-07-24 09:04:47",

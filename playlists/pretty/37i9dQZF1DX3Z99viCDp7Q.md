@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 
 > Special songs for your special day\. Congrats to our cover stars Alex Warren and Kouvr Annon 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,146 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,247 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 36 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
 | 37 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 | 38 | [Bless The Broken Road](https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Feels Like Today](https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy) | 3:46 |
-| 39 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
-| 40 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
-| 41 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
+| 39 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
+| 40 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
+| 41 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 42 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 43 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
 | 44 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 48 | [Falling Like The Stars](https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:31 |
 | 49 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 |
 | 50 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 |
-| 51 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
-| 52 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 |
+| 51 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 |
+| 52 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
 | 53 | [I Will \- Remastered 2009](https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 1:45 |
 | 54 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 |
 | 55 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 74 | [Is That Alright?](https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:11 |
 | 75 | [One Day Like This](https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 6:34 |
 
-Snapshot ID: `ZowLfAAAAAALT/Lcw5lFyyi/V6YfX7dS`
+Snapshot ID: `ZqxZwAAAAABGhYZXEHO7kzl9igg4e6RK`

@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 327818,
+  "num_followers": 327976,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,18 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
+        "name": "Need U",
+        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
       },
       "artists": [
         {
-          "name": "Houssem Amari",
-          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
-        },
-        {
-          "name": "Amelie Martinez",
-          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
+          "name": "John Neo",
+          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
         }
       ],
-      "duration_ms": 200950,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
+      "duration_ms": 131070,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -255,18 +251,22 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Need U",
-        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
       },
       "artists": [
         {
-          "name": "John Neo",
-          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
+          "name": "Houssem Amari",
+          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
+        },
+        {
+          "name": "Amelie Martinez",
+          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
         }
       ],
-      "duration_ms": 131070,
-      "name": "Need U",
-      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
+      "duration_ms": 200950,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        },
-        {
-          "name": "Elnur Mikayilov",
-          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
         "name": "Le Beirut",
         "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 431520,
       "name": "Le Beirut",
       "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Elnur Mikayilov",
+          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Ya Ghayeb",
-        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
-      },
-      "artists": [
-        {
-          "name": "DJ Maximus",
-          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
-        },
-        {
-          "name": "Bob Zoabi",
-          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
-        }
-      ],
-      "duration_ms": 217211,
-      "name": "Ya Ghayeb",
-      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
         "name": "MIRAN",
         "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 129145,
       "name": "MIRAN",
       "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
+        "name": "Ya Ghayeb",
+        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
+      },
+      "artists": [
+        {
+          "name": "DJ Maximus",
+          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
+        },
+        {
+          "name": "Bob Zoabi",
+          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
+        }
+      ],
+      "duration_ms": 217211,
+      "name": "Ya Ghayeb",
+      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Ormila",
-        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
-      },
-      "artists": [
-        {
-          "name": "Majed Zane",
-          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
-        },
-        {
-          "name": "Sam Abdullah",
-          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
-        }
-      ],
-      "duration_ms": 298867,
-      "name": "Ormila",
-      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
+        "name": "Ormila",
+        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+      },
+      "artists": [
+        {
+          "name": "Majed Zane",
+          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
+        },
+        {
+          "name": "Sam Abdullah",
+          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+        }
+      ],
+      "duration_ms": 298867,
+      "name": "Ormila",
+      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
         "name": "Cairo's Scent",
         "url": "https://open.spotify.com/album/1PNCLHV2FhaDjvjcyqqyv0"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 206610,
       "name": "Cairo's Scent",
       "url": "https://open.spotify.com/track/6qd4ckl2MEeBgrhotAvxga"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "1980",
-        "url": "https://open.spotify.com/album/39aFTWfO0P1eJzyIdJAsIC"
-      },
-      "artists": [
-        {
-          "name": "Ilhan Ersahin",
-          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
-        },
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 297146,
-      "name": "1980",
-      "url": "https://open.spotify.com/track/6EuNxyzQs4CyJop38QPRHr"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
         "name": "Sahra On The Moon",
         "url": "https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 159272,
       "name": "Sahra On The Moon",
       "url": "https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
+        "name": "1980",
+        "url": "https://open.spotify.com/album/39aFTWfO0P1eJzyIdJAsIC"
+      },
+      "artists": [
+        {
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        },
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 297146,
+      "name": "1980",
+      "url": "https://open.spotify.com/track/6EuNxyzQs4CyJop38QPRHr"
     },
     {
       "added_at": "2024-08-01 19:05:18",

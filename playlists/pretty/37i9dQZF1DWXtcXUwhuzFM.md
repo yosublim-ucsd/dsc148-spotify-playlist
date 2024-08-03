@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Charli xcx ja Billie Eilish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,652 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,692 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 89 | [Realms](https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Realms](https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu) | 2:50 |
 | 90 | [He's A Pirate \(Save Me\)](https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [He's A Pirate \(Save Me\)](https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z) | 2:33 |
 | 91 | [Cray Cray](https://open.spotify.com/track/21aZ0rxNLbh50x0srJTAx7) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Cray Cray](https://open.spotify.com/album/4t5jMtlXpE1l0dx410QagB) | 4:11 |
-| 92 | [Can't Be Found](https://open.spotify.com/track/0KKFxmsnh8HHWTLwpbODrp) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf), [Vernon Reid](https://open.spotify.com/artist/1nCiDbYWnN9G4VQ4LxeyxD), [Dennis Thompson](https://open.spotify.com/artist/6gcylHnfmVjVFjy6RvzG7K) | [Can't Be Found](https://open.spotify.com/album/5aSCYVxvfTuHp4I2E2jQAk) | 3:48 |
+| 92 | [Can't Be Found](https://open.spotify.com/track/0KKFxmsnh8HHWTLwpbODrp) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf), [Vernon Reid](https://open.spotify.com/artist/1nCiDbYWnN9G4VQ4LxeyxD), [Dennis Thompson](https://open.spotify.com/artist/2hbZBc4rnEISOTbvlGPvUl) | [Can't Be Found](https://open.spotify.com/album/5aSCYVxvfTuHp4I2E2jQAk) | 3:48 |
 | 93 | [A Matter Of Time](https://open.spotify.com/track/5Wm4JghwVYcP8uf5bXFv8U) | [Smalltime Players](https://open.spotify.com/artist/6xPvYqJ0OYe8mmvho2DaJm), [Edu Kettunen](https://open.spotify.com/artist/2XvAlQuearzAh1HZAacD5N), [Johanna Iivanainen](https://open.spotify.com/artist/6JLhQyUs3ACecvseS1YaK3), [Mikko Iivanainen](https://open.spotify.com/artist/6UibpPVpf8NqFsgNKXbcHL), [Mika Kuokkanen](https://open.spotify.com/artist/3PreQdG7tyhhSV90KaDko2) | [A Matter Of Time](https://open.spotify.com/album/6L2A2FSEF4Rw2tggaeFEKG) | 3:00 |
 | 94 | [Valotus](https://open.spotify.com/track/3Q34KJgFoUykhy5ymytTcx) | [Oranssi Pazuzu](https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW) | [Valotus](https://open.spotify.com/album/1igeXrzU7P8omTsSr30BKe) | 6:57 |
 | 95 | [Big Time](https://open.spotify.com/track/2HYk48orNTSJ8HD5fwRUis) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Big Time](https://open.spotify.com/album/6DkQTJbcWwmwLxfVpqiACv) | 3:46 |

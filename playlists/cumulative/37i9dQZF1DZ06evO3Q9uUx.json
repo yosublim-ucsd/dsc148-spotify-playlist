@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is BIA. Tutti i brani in un'unica playlist.",
+  "description": "This is BIA. The essential tracks, all in one playlist.",
   "name": "This Is BIA",
   "tracks": [
     {
@@ -510,6 +510,36 @@
       "duration_ms": 214838,
       "name": "BRING IT ON",
       "url": "https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+        "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208163,
+      "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+      "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
     },
     {
       "album": {
@@ -1734,7 +1764,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 143999,
       "name": "RAISE THE STAKES",
       "url": "https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8"

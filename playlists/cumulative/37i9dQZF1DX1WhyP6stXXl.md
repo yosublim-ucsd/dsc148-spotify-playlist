@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Mimi Webb
 
-192 songs - 9 hr 38 min
+193 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [NEW FRIENDS](https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [NEW FRIENDS](https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y) | 2:53 | 2024-06-28 | 2024-07-27 |
 | [New Light](https://open.spotify.com/track/2QkD8IuhRFhIjIuIQaYXCe) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [New Light](https://open.spotify.com/album/3YHnGJ4dRXDOt9nwOsdEyK) | 2:33 | 2024-06-28 | 2024-07-12 |
 | [No Heroes](https://open.spotify.com/track/2K7vmv62BpMRIySly2w4nO) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9), [ANY](https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L) | [No Heroes](https://open.spotify.com/album/5d6t6Chkt2KDFkfrcjA9Qu) | 2:01 | 2024-06-28 | 2024-07-27 |
+| [No Strings Attached](https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [No Strings Attached](https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi) | 2:59 | 2024-08-01 |  |
 | [Nothing To Miss](https://open.spotify.com/track/0TvFEvuJJtOgCldWnvdT3p) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Nothing To Miss](https://open.spotify.com/album/4rh4CdBWQ5piiVtq2QTxyP) | 3:14 | 2024-06-28 | 2024-07-19 |
 | [One Day](https://open.spotify.com/track/77mWGue0DTf1Aj2YzWLmoi) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [One Day](https://open.spotify.com/album/6XNZZuRxJMwpgrBqgPAgoN) | 4:54 | 2024-06-28 | 2024-07-27 |
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-06-28 | 2024-07-12 |

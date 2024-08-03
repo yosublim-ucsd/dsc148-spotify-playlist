@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,711 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,720 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 42 | [Single](https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Single](https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY) | 2:45 |
 | 43 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 |
 | 44 | [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 |
-| 45 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
-| 46 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |
+| 45 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |
+| 46 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
 | 47 | [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 |
 | 48 | [WANT U](https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 2:52 |
 | 49 | [Love So Beautiful](https://open.spotify.com/track/1Q7vzuuqv96muUUBDgFNoI) | [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [The Midnight Studio, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/05RRa78WXts7BSKxNHFT7a) | 3:29 |

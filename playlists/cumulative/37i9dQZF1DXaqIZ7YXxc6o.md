@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Confidence Man
 
-2,481 songs - 5 day 17 hr 19 min
+2,482 songs - 5 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -906,6 +906,7 @@
 | [Hard To Move](https://open.spotify.com/track/0KfmzjWrVshAosQWvsnJod) | [DB7](https://open.spotify.com/artist/1xz6Lk1mQbSsegvxuHj5Lq) | [Hard To Move](https://open.spotify.com/album/2JgTGvZ5JGso6j7xX7fsRP) | 3:33 | 2023-09-28 | 2023-10-20 |
 | [Harry Styles](https://open.spotify.com/track/1g19VRm1PqWQxRP3A4whEd) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Harry Styles](https://open.spotify.com/album/3ZUIIqKh1xoRxxS7QU2PRd) | 2:26 | 2023-06-01 | 2023-07-14 |
 | [Harry Styles](https://open.spotify.com/track/53k6XDdSvncfK19WnCeCfz) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Harry Styles](https://open.spotify.com/album/3Ah9GyVf8M0eMxXax8Lozx) | 2:26 | 2023-07-13 | 2023-07-28 |
+| [Haunted](https://open.spotify.com/track/1HcHTKTG3C0WhcL5CXTFxn) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Lohrasp Kansara](https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Haunted](https://open.spotify.com/album/5QiKKKZ3IPwkJMDM5DZBHe) | 3:21 | 2024-08-02 |  |
 | [Haunted Room](https://open.spotify.com/track/0POKwNaIcJSAcRRlaRCMaW) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Yarpo](https://open.spotify.com/artist/6AcXFmh4HYJ1sjjMiAVc2I) | [Haunted Room](https://open.spotify.com/album/0eb96GoEFwC7S8eyhDMjxZ) | 3:18 | 2022-12-08 | 2022-12-16 |
 | [Hawt \- Willo Remix](https://open.spotify.com/track/0Tl1S36YzLkoL6NU410cap) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Hawt \(Willo Remix\)](https://open.spotify.com/album/653TU1j0nyZAEibhG9xw2U) | 3:45 | 2023-05-18 | 2023-06-09 |
 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [I](https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l) | 2:36 | 2023-03-03 | 2023-03-25 |

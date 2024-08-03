@@ -764,7 +764,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 141398,
       "name": "Aperol Spritz - Techno Version",
       "url": "https://open.spotify.com/track/4EyIzK0CZRZXciGIQP5ouP"
@@ -1222,11 +1222,15 @@
         {
           "name": "KJ Swervo",
           "url": "https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
         }
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 124931,
       "name": "Beckham",
       "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
@@ -1588,7 +1592,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 152080,
       "name": "blackout in der gegend",
       "url": "https://open.spotify.com/track/7vfrLfrmwb06yTpxqtqCCU"
@@ -8141,6 +8145,28 @@
     },
     {
       "album": {
+        "name": "Meine Mumu brummt",
+        "url": "https://open.spotify.com/album/3VPyOrMYnop2a4Ut8gDQ4L"
+      },
+      "artists": [
+        {
+          "name": "MelodAI_Official",
+          "url": "https://open.spotify.com/artist/5pQLiPIBfAIMZjGhjaqKwM"
+        },
+        {
+          "name": "Karina Funke",
+          "url": "https://open.spotify.com/artist/01ZmorbFSnEdYIOlkHf6U4"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146794,
+      "name": "Meine Mumu brummt",
+      "url": "https://open.spotify.com/track/7GZvVUSpSCypZufAngA57H"
+    },
+    {
+      "album": {
         "name": "meinen die uns",
         "url": "https://open.spotify.com/album/0tJ2DBgAhFaeE3AgTLYNaU"
       },
@@ -8280,6 +8306,24 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY (VHS)",
       "url": "https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/6F7xofvKdMKQRhtmBqKCfJ"
+      },
+      "artists": [
+        {
+          "name": "Billi Royce",
+          "url": "https://open.spotify.com/artist/0t5043yIoMTnAwLa0uNuic"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135463,
+      "name": "Missing You - Gassed Up",
+      "url": "https://open.spotify.com/track/4GBDAlro6Z64L788LB8rxA"
     },
     {
       "album": {
@@ -10262,7 +10306,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 129854,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2rltMhQFEAV7UtuXGjcmyO"
@@ -10972,7 +11016,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 167263,
       "name": "SESSO E SAMBA (feat. Gaia)",
       "url": "https://open.spotify.com/track/2Q4Z2js0C6DDUVc7GuLGdF"
@@ -11124,7 +11168,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 166000,
       "name": "Si Ai",
       "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"

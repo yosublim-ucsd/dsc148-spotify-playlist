@@ -5,6 +5,60 @@
   "tracks": [
     {
       "album": {
+        "name": "528 Hz Beliefs",
+        "url": "https://open.spotify.com/album/18CU8X1UA82VXq38CSW1BR"
+      },
+      "artists": [
+        {
+          "name": "Infinite Imagination",
+          "url": "https://open.spotify.com/artist/2PQdqbfdZhfs3BAKayChbv"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148281,
+      "name": "528 Hz Beliefs",
+      "url": "https://open.spotify.com/track/4Ol5b9fF8DDil3Q37BccMH"
+    },
+    {
+      "album": {
+        "name": "528 Hz Clarity",
+        "url": "https://open.spotify.com/album/2vkNGw46yIEjOLlmow2N4B"
+      },
+      "artists": [
+        {
+          "name": "Infinite Imagination",
+          "url": "https://open.spotify.com/artist/2PQdqbfdZhfs3BAKayChbv"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130905,
+      "name": "528 Hz Clarity",
+      "url": "https://open.spotify.com/track/6LiHwvBFOyOi6z7BGdZ2bB"
+    },
+    {
+      "album": {
+        "name": "A Day of Peace",
+        "url": "https://open.spotify.com/album/4PyrDB3T18XD44jUpW2CYa"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155850,
+      "name": "A Day of Peace",
+      "url": "https://open.spotify.com/track/3EVh0iqH4LhGGBjt1zNMDP"
+    },
+    {
+      "album": {
         "name": "A New Beggining",
         "url": "https://open.spotify.com/album/1GYqZ8jMnTBABZnWkAeaCE"
       },
@@ -2299,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "New Heights",
+        "url": "https://open.spotify.com/album/1MY0YY8yXxEjiehCojNy8u"
+      },
+      "artists": [
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "New Heights",
+      "url": "https://open.spotify.com/track/2dRGLnWoSUU4p1MJ91aLtl"
+    },
+    {
+      "album": {
         "name": "My Heaven",
         "url": "https://open.spotify.com/album/0MdDvpezYmodpUTFTe6IGz"
       },
@@ -2874,7 +2946,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 164000,
       "name": "Savasana Dream",
       "url": "https://open.spotify.com/track/1UJSTJmCGyVMiF66dlIvLv"
@@ -3888,6 +3960,24 @@
       "duration_ms": 199456,
       "name": "Warm Breeze",
       "url": "https://open.spotify.com/track/4T5OICEpPY57v3xqHwEQ3X"
+    },
+    {
+      "album": {
+        "name": "Wa\u014bbl\u00ed Feather",
+        "url": "https://open.spotify.com/album/7GqynaPAAHrCrR5WOAEkXg"
+      },
+      "artists": [
+        {
+          "name": "Yoga Sonique",
+          "url": "https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Wa\u014bbl\u00ed Feather",
+      "url": "https://open.spotify.com/track/0LM55TH6KXKU4PwRjWByVA"
     },
     {
       "album": {

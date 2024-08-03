@@ -2707,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "Kruela",
+        "url": "https://open.spotify.com/album/5KCs98xl6Gn8ZRnhfID3rN"
+      },
+      "artists": [
+        {
+          "name": "Kat Deluna",
+          "url": "https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247173,
+      "name": "Kruela",
+      "url": "https://open.spotify.com/track/6CdC51KG7NyeL77OSIYT3e"
+    },
+    {
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },

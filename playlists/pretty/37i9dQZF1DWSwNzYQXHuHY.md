@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,790 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,799 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 18 | [something between us \(Romance 101 X george\)](https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [something between us \(Romance 101 X george\)](https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv) | 4:08 |
 | 19 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
 | 20 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
-| 21 | [Natural](https://open.spotify.com/track/6NTqjlA3cY297AfumSxm2o) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Natural](https://open.spotify.com/album/23Z11DRgeIQQhsNJWSuxKq) | 3:25 |
-| 22 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
+| 21 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
+| 22 | [Natural](https://open.spotify.com/track/6NTqjlA3cY297AfumSxm2o) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Natural](https://open.spotify.com/album/23Z11DRgeIQQhsNJWSuxKq) | 3:25 |
 | 23 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 |
 | 24 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 |
 | 25 | [Actually I Love You](https://open.spotify.com/track/1UCIegzDnHhiMmjNB2BLml) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Doctor Slump \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/4GMSuAqkTBvijLIPSlqR67) | 3:45 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 47 | [Blossom Rain \(Feat\. NavyQuokka\)](https://open.spotify.com/track/3TSMeEDXeTfblDBHUyMffm) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Blossom Rain](https://open.spotify.com/album/6UG9ekyQC2vumMh3oMoKal) | 2:53 |
 | 48 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
 | 49 | [Color me](https://open.spotify.com/track/1RDx47LCcsq5z2sVa7LFKY) | [summer](https://open.spotify.com/artist/77KRHZ336HpxYp3mTKOLQw) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/7nHakKPqirVerK9QHackK7) | 3:11 |
-| 50 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
+| 50 | [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 |
 
 Snapshot ID: `Zl/gWwAAAABRcz1/NQxa/4ngyxHj4azc`

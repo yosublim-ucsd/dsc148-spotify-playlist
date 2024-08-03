@@ -4,7 +4,7 @@
 
 > 😵‍💫
 
-59 songs - 2 hr 54 min
+60 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-27 |  |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 |  |
 | [Bonanza \(feat\. Greekazo\)](https://open.spotify.com/track/2Oum9Ze9GhdDUiMaa7FLZ3) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Roc Boyz, Vol\. 3](https://open.spotify.com/album/4hFby8Laxy4VLwG888kx9g) | 2:18 | 2024-06-27 |  |
-| [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-06-27 |  |
+| [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-06-27 | 2024-08-03 |
 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 | 2024-06-27 |  |
 | [Danseproblem](https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [Danseproblem](https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE) | 2:43 | 2024-06-27 | 2024-07-06 |
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-18 |  |
@@ -26,6 +26,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 |  |
 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 | 2024-06-27 | 2024-07-10 |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-06-27 |  |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-06-27 |  |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2024-06-27 |  |
 | [hva om jeg slutta å bry meg](https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [hva om jeg slutta å bry meg](https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b) | 3:06 | 2024-06-27 |  |

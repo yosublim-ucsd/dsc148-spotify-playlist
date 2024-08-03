@@ -2,9 +2,9 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> xamã e leall é AULAS
+> aula da AULAS é marcelo d2 \- eu tiro é onda
 
-351 songs - 19 hr 16 min
+353 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Din Din](https://open.spotify.com/track/5q8CsuCFxOo3RKT0lJz6P1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Din Din](https://open.spotify.com/album/4fcpMXjOVLOyg3mb7Fpb3U) | 2:20 | 2022-12-02 | 2023-02-01 |
 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 | 2022-06-17 |  |
 | [Disposição e Atividade](https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Disposição e Atividade](https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU) | 2:44 | 2023-10-13 |  |
+| [DissAposta](https://open.spotify.com/track/0826YXDvd2ZnTohSHsiGGB) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [DissAposta](https://open.spotify.com/album/4sSviVVd2CfJYjCanKzGOR) | 3:07 | 2024-08-02 |  |
 | [Documentário](https://open.spotify.com/track/2ndTkGWb7m80kMNNfQUq1e) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Documentário](https://open.spotify.com/album/4bAbUUH5bndP2unEm1lwed) | 1:26 | 2024-02-23 | 2024-04-06 |
 | [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 | 2023-01-16 | 2023-03-18 |
 | [Donos do Torro](https://open.spotify.com/track/1qCX8wkjJjRfPXdJr8Be6v) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [Prs, o Peres](https://open.spotify.com/artist/6zA1Us7yWyCj4OXxkgAuqC) | [Donos do Torro](https://open.spotify.com/album/2jj5EcURhCwLQkVW1eXmwx) | 2:53 | 2024-07-19 |  |
@@ -130,6 +131,7 @@
 | [Eu Precisava Voltar Com a Folhinha](https://open.spotify.com/track/3lv0Gjj2oP6sDjI5yv9Ebg) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w) | [Eu Precisava Voltar Com a Folhinha](https://open.spotify.com/album/3jtT6gy6wjOFnpGtb8RrZb) | 4:11 | 2022-01-14 | 2022-03-05 |
 | [Eu Também Sou um Anjo](https://open.spotify.com/track/1O1UFctsYibDVbIJbbm7oa) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [Eu Também Sou um Anjo](https://open.spotify.com/album/6yd1wjgnMwGxmrgMNwE7wt) | 2:10 | 2024-02-23 | 2024-05-11 |
 | [Eu Te Vi Dançando](https://open.spotify.com/track/4ycPdxPOOcLoo8vSgeBtZL) | [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw) | [Eu Te Vi Dançando](https://open.spotify.com/album/2Xq5FLOyGuo5s4ymZrG9zB) | 3:24 | 2023-07-07 | 2023-10-14 |
+| [Eu Tiro É Onda](https://open.spotify.com/track/0osb9qfKR4Trh80x7GmiZ9) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Eu Tiro É Onda](https://open.spotify.com/album/2vVnF0WNcbkW0YG7noVf2q) | 3:41 | 2024-08-02 |  |
 | [Eu\(S\)](https://open.spotify.com/track/36jHpclKntpDEiyLVFoUNE) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Eu\(S\)](https://open.spotify.com/album/47UmbXgK2mtJyfBj1CDIIP) | 3:23 | 2022-07-04 | 2022-09-20 |
 | [Facilitei](https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Facilitei](https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC) | 3:32 | 2022-06-10 | 2023-07-01 |
 | [Fatia do Bolo](https://open.spotify.com/track/62MJCu8Ypiwkp2YWKtY1es) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Fatia do Bolo](https://open.spotify.com/album/35AqGcnqtTdNNKAxouEcRd) | 2:32 | 2022-03-18 | 2022-04-23 |

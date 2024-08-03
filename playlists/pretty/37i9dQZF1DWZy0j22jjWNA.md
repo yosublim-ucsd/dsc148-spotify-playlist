@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,322 likes - 65 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,330 likes - 65 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 36 | [Electricity](https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Electricity](https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY) | 4:28 |
 | 37 | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp) | [Quiet Science](https://open.spotify.com/artist/6ClKRjCUNwKVuR5MjFPjY0) | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y) | 4:01 |
 | 38 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 |
-| 39 | [Brightside](https://open.spotify.com/track/05hlmQgTPYuzJyxeDZxm8n) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Brightside](https://open.spotify.com/album/3E7uS9oOL92bNvYTYge5m7) | 3:16 |
+| 39 | [Oh Dreamer](https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Oh Dreamer](https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei) | 3:24 |
 | 40 | [Free](https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [One Wild Life](https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp) | 3:28 |
-| 41 | [Oh Dreamer](https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Oh Dreamer](https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei) | 3:24 |
+| 41 | [Brightside](https://open.spotify.com/track/05hlmQgTPYuzJyxeDZxm8n) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Brightside](https://open.spotify.com/album/3E7uS9oOL92bNvYTYge5m7) | 3:16 |
 | 42 | [I Love It](https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx) | [Esaro](https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3) | [Rebirth](https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd) | 3:21 |
 | 43 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 |
 | 44 | [Wake Up Sleeper](https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Wildwood Kin](https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH) | 4:06 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 48 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [The Road, The Rocks, and The Weeds](https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle) | 3:35 |
 | 49 | [Autumn Love](https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Autumn Love](https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4) | 4:55 |
 | 50 | [Dawned On Me](https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj) | [Brewer](https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2) | [Dawned On Me](https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe) | 2:57 |
-| 51 | [Bang](https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls) | [Moda Spira](https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a) | [Bang](https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q) | 3:39 |
-| 52 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 |
+| 51 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 |
+| 52 | [Bang](https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls) | [Moda Spira](https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a) | [Bang](https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q) | 3:39 |
 | 53 | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD) | 3:33 |
 | 54 | [Creature Comforts](https://open.spotify.com/track/3b8l8g7UMJRTCKUEnZiRCF) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Everything at Once](https://open.spotify.com/album/3SnLtbvtKm4791Js84csqh) | 4:04 |
 | 55 | [Power Over Me](https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Power Over Me](https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi) | 2:52 |

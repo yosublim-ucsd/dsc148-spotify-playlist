@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec. (Push yourself to your limits with powerful Korean music.)",
-  "num_followers": 8348,
+  "num_followers": 8357,
   "original_name": "3\ub300 1000 (K-Hardcore Workout)",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-05-07 02:46:48",
       "album": {
+        "name": "ODDINARY",
+        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 182757,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+    },
+    {
+      "added_at": "2024-05-07 02:46:48",
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
-    },
-    {
-      "added_at": "2024-05-07 02:46:48",
-      "album": {
-        "name": "ODDINARY",
-        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 182757,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
     },
     {
       "added_at": "2024-05-07 02:46:48",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-05-07 02:46:48",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 236795,
-      "name": "Circo Loco",
-      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
-    },
-    {
-      "added_at": "2024-05-07 02:46:48",
-      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 143375,
       "name": "Spicy (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
+    },
+    {
+      "added_at": "2024-05-07 02:46:48",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
     },
     {
       "added_at": "2024-05-07 02:46:48",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2024-05-07 02:46:48",
       "album": {
+        "name": "Rumors (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 185855,
+      "name": "Rumors (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
+    },
+    {
+      "added_at": "2024-05-07 02:46:48",
+      "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
-    },
-    {
-      "added_at": "2024-05-07 02:46:48",
-      "album": {
-        "name": "Rumors (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 185855,
-      "name": "Rumors (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
     },
     {
       "added_at": "2024-05-07 02:46:48",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2024-05-07 02:46:48",
       "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
+    },
+    {
+      "added_at": "2024-05-07 02:46:48",
+      "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 185785,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
-    },
-    {
-      "added_at": "2024-05-07 02:46:48",
-      "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Mad Max",
-      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
     },
     {
       "added_at": "2024-05-07 02:46:48",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2024-05-07 02:46:48",
       "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "LAW (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
+    },
+    {
+      "added_at": "2024-05-07 02:46:48",
+      "album": {
         "name": "SEXY NUKIM (feat. RM of BTS)",
         "url": "https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 229937,
       "name": "SEXY NUKIM (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
-    },
-    {
-      "added_at": "2024-05-07 02:46:48",
-      "album": {
-        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
-        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "LAW (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
     },
     {
       "added_at": "2024-05-07 02:46:48",

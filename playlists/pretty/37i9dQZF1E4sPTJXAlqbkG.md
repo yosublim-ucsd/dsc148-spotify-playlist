@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain](/playlists/plain/37i9dQZF1E4sPTJXAlqbkG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4sPTJXAlqbkG)
 
-### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
+### [Radio de PARTYNEXTDOOR](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Bryson Tiller, Sonder, Summer Walker and more
+> Con Bryson Tiller, Sonder, Summer Walker y más
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,241 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,285 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 | 49 | [The Beach](https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:25 |
 | 50 | [living room flow \- Bonus](https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:22 |
 
-Snapshot ID: `Zqw5dwAAAAAlmjkU/B0gBMAlVNe2uA3B`
+Snapshot ID: `Zq2c/wAAAABu986QAd32Wir1kYtEKgLI`

@@ -4,7 +4,7 @@
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Mica Sotera y Paula Prieto.
 
-154 songs - 9 hr 7 min
+155 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,11 +156,12 @@
 | [Una Canción Diferente](https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Celesteacustica](https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe) | 3:53 | 2024-04-19 |  |
 | [Utopia \(Versión Acústica\)](https://open.spotify.com/track/0djYzmnJUd8oiD55itwMM1) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Utopía \(Versión Acústica\)](https://open.spotify.com/album/1ELj8bVKvWpjAqljMsFIkx) | 2:11 | 2023-08-18 | 2023-10-27 |
 | [Vasos Vacíos](https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tributo A Los Fabulosos Cadillacs](https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76) | 5:21 | 2023-08-18 |  |
-| [Voy Con Vos \- En Vivo](https://open.spotify.com/track/1t3Op2vLVRwSVATVvJzHzR) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Constelaciones en el Luna Park \(En Vivo\)](https://open.spotify.com/album/0kjW8an3vJajEiUQ8Uvu10) | 3:26 | 2024-04-19 |  |
+| [Voy Con Vos \- En Vivo](https://open.spotify.com/track/1t3Op2vLVRwSVATVvJzHzR) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Constelaciones en el Luna Park \(En Vivo\)](https://open.spotify.com/album/0kjW8an3vJajEiUQ8Uvu10) | 3:26 | 2024-04-19 | 2024-08-03 |
 | [Vámonos](https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vámonos](https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h) | 2:45 | 2024-04-19 | 2024-04-22 |
 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-08-18 | 2023-09-02 |
 | [Y no tanto este cielo](https://open.spotify.com/track/3HcAUYDmMUbBlMVzRuShAp) | [Tomás Aristimuño](https://open.spotify.com/artist/2YlZZZU4OkqcHk3dWeCRqc) | [Y no tanto este cielo](https://open.spotify.com/album/0Ji4cZLTALHFZsOxVeWVfY) | 3:13 | 2024-07-05 |  |
 | [ya no hay dudas \- Versión Acústica](https://open.spotify.com/track/1uJiKlVBweWo8Kd77eiRRH) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [ya no hay dudas \(Versión Acústica\)](https://open.spotify.com/album/18AmPCw1XQaPWykdbBPhwg) | 3:18 | 2024-06-07 |  |
 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 | 2023-08-18 |  |
+| [¿Qué Vas a Hacer Hoy? \- Versión Acústica](https://open.spotify.com/track/16eZCuxO1SKBBXIugrd9VQ) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [¿Qué Vas a Hacer Hoy? \(Versión Acústica\)](https://open.spotify.com/album/28HZNYEBcU3VODQght3szq) | 3:47 | 2024-07-19 |  |
 
 \*This playlist was first scraped on 2023-08-25. Prior content cannot be recovered.

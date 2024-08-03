@@ -7885,6 +7885,24 @@
     },
     {
       "album": {
+        "name": "Vai Escutar 70",
+        "url": "https://open.spotify.com/album/7ldV1Yk4ZTDMAJBVLT4AAM"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143186,
+      "name": "Vai Escutar 70",
+      "url": "https://open.spotify.com/track/04mKB5MwxL1fTJ3YmX195J"
+    },
+    {
+      "album": {
         "name": "Vai Ter Que Aturar",
         "url": "https://open.spotify.com/album/1PL3GDTvaPYoD698gs9vT1"
       },

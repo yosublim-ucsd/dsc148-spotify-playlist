@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta x Cedric Gervais
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta x Afrojack
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,206 likes - 9 songs - 26 min 31 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,211 likes - 9 songs - 26 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 8 | [Moonwalk Season](https://open.spotify.com/track/4VspZ79KeIv7Ls0QYPDMeS) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Moonwalk Season](https://open.spotify.com/album/6zFZhzZoz1Nn98xYJm0bFo) | 2:41 |
 | 9 | [Malfunction](https://open.spotify.com/track/5VurwBt2WaKjPGOagoVH92) | [JustLuke](https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh) | [Malfunction](https://open.spotify.com/album/5oAzm3nqxqr7lJp2TWPUWy) | 2:36 |
 
-Snapshot ID: `AAAdsYDcPhk5XjXcXX+XhUZNuD/Apjdw`
+Snapshot ID: `AAAdsgZ21V0FEDcajQZwGB1ePavP+h3a`

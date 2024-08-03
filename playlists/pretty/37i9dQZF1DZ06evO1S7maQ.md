@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 ### [This Is Bruce Springsteen](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1S7maQ)
 
-> This Is Bruce Springsteen\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,252 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,359 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 17 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:10 |
 | 18 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
 | 19 | [The Promised Land](https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:28 |
-| 20 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:47 |
-| 21 | [Sad Eyes \- Studio Outtake \- 1990](https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:47 |
+| 20 | [Sad Eyes \- Studio Outtake \- 1990](https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:47 |
+| 21 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:47 |
 | 22 | [No Surrender](https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:00 |
 | 23 | [Human Touch](https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Human Touch](https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF) | 6:28 |
-| 24 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 3:57 |
-| 25 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
+| 24 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
+| 25 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 3:57 |
 | 26 | [Atlantic City](https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:56 |
 | 27 | [Ghosts](https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 5:54 |
 | 28 | [Lonesome Day](https://open.spotify.com/track/0R9q3imnid244T1ty47MGs) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 50 | [Chinatown](https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Chinatown](https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM) | 4:07 |
 | 51 | [Racing in the Street](https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 6:52 |
 
-Snapshot ID: `Zql+gAAAAAC69E6JasfjrnDNlCRAosBv`
+Snapshot ID: `ZqrQAAAAAACpeXW3pwmzXFnA/TzWdqdN`

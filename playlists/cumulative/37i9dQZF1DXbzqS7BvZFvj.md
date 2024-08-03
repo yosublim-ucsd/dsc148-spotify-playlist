@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: kZm
 
-767 songs - 1 day 15 hr 11 min
+768 songs - 1 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU) | 2:01 | 2024-01-18 | 2024-02-23 |
 | [Must Be Me](https://open.spotify.com/track/6Cxc9tL1sMdivV1Quh0yjZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR) | 3:30 | 2023-10-19 | 2023-12-09 |
 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 | 2023-05-11 | 2023-06-09 |
+| [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-01 |  |
 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 | 2023-12-08 | 2024-03-01 |
 | [My Own Lane](https://open.spotify.com/track/4Vp0ivRVcWXrPrxZA7w7gi) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [My Own Lane](https://open.spotify.com/album/4Pct0jmajIPalLfYBY2ghD) | 2:17 | 2023-05-18 | 2023-07-07 |
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-12 | 2024-06-07 |

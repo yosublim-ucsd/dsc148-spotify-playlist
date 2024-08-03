@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 14575,
+  "num_followers": 14578,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAACGq4IJ74GONeeTK9nDzJ6",
+  "snapshot_id": "ZqrQAAAAAAAmyMogmChsfx+UFBGlJtEC",
   "tracks": [
     {
       "added_at": null,
@@ -415,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Heart Will Go On (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/3itkPk0ru3z6Ve5MMnQTrF"
+        "name": "Bad At Letting Go (feat. MUNA)",
+        "url": "https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX"
       },
       "artists": [
+        {
+          "name": "Leland",
+          "url": "https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69"
+        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 223458,
-      "name": "My Heart Will Go On - triple j Like a Version",
-      "url": "https://open.spotify.com/track/3FofBrXUZOUD9KynMnodol"
+      "duration_ms": 200959,
+      "name": "Bad At Letting Go (feat. MUNA)",
+      "url": "https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe"
     },
     {
       "added_at": null,
@@ -463,6 +467,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Heart Will Go On (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/3itkPk0ru3z6Ve5MMnQTrF"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 223458,
+      "name": "My Heart Will Go On - triple j Like a Version",
+      "url": "https://open.spotify.com/track/3FofBrXUZOUD9KynMnodol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 313253,
+      "name": "Around U",
+      "url": "https://open.spotify.com/track/7jStM0aMv8WoG91YrrDMbw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In My Way",
         "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
       },
@@ -491,38 +543,6 @@
       "duration_ms": 177320,
       "name": "Relief Next to Me",
       "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 313253,
-      "name": "Around U",
-      "url": "https://open.spotify.com/track/7jStM0aMv8WoG91YrrDMbw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 228827,
-      "name": "August - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
       "added_at": null,

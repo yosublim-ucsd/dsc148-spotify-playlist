@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Kapo
 
-179 songs - 9 hr 31 min
+180 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [AFRO](https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [AFRO](https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH) | 3:04 | 2024-07-26 |  |
 | [Afuera Arde](https://open.spotify.com/track/5NMZbDgtEWmxFd70YCV8bj) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Teddy Coldcuts](https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e) | [Afuera Arde](https://open.spotify.com/album/25f1tMgxQVCP5I3DWWiskE) | 3:00 | 2023-06-23 | 2023-09-23 |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2023-03-31 |  |
+| [Ahora que no estás sola](https://open.spotify.com/track/76kxpHdZ0hqo6kisRchAzc) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Ahora que no estás sola](https://open.spotify.com/album/0zSVmbdS1gDc2TXghbD1vv) | 2:55 | 2024-08-02 |  |
 | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/track/2WXPCiwCzoH71JESAImTKE) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/album/1B0ue14v9AHXSYloaqeMDM) | 2:49 | 2023-06-23 | 2023-09-30 |
 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 | 2023-03-31 |  |
 | [Alma](https://open.spotify.com/track/1lZaIaZCrb4avapCCelFQt) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/2u7bufSK9Rws04JWErlg26) | 3:28 | 2023-06-23 | 2023-07-08 |
@@ -137,7 +138,7 @@
 | [Offline](https://open.spotify.com/track/4STNoDYDV4JzJcaL6ZocSU) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Offline](https://open.spotify.com/album/7cLPoW0K3uRzKQyFlclq3w) | 2:50 | 2023-09-22 | 2023-10-21 |
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-06-19 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2023-03-31 | 2023-04-15 |
-| [One Love](https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:50 | 2023-03-31 |  |
+| [One Love](https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:50 | 2023-03-31 | 2024-08-03 |
 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-28 |  |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2023-03-31 | 2023-12-02 |
 | [Pa Mí \- Remix](https://open.spotify.com/track/224EVTFiLsdQignUFLvDeH) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Pa Mí \(Remix\)](https://open.spotify.com/album/4OyP4eAtpTHXjpVBjJvPNG) | 6:00 | 2024-03-29 |  |

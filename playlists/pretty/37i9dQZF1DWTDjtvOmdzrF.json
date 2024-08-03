@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 555758,
+  "num_followers": 555761,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-07-24 04:05:04",
       "album": {
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 235643,
+      "name": "Terlintas",
+      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
+    },
+    {
+      "added_at": "2024-07-24 04:05:04",
+      "album": {
         "name": "Riuh",
         "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 240882,
       "name": "Resah",
       "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
-    },
-    {
-      "added_at": "2024-07-24 04:05:04",
-      "album": {
-        "name": "Terlintas",
-        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 235643,
-      "name": "Terlintas",
-      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
     },
     {
       "added_at": "2024-07-24 04:05:04",

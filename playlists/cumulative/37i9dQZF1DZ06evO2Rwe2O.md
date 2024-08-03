@@ -4,7 +4,7 @@
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 29 min
+66 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Be Your Everything](https://open.spotify.com/track/3RkTLYMiGUmdNUkqtD4iPg) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 5:13 | 2023-03-10 |  |
 | [Beautiful Offering](https://open.spotify.com/track/1Ne01Bjmgb3q08r6tdw3Oc) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:32 | 2023-03-10 |  |
 | [Come Sit Down](https://open.spotify.com/track/4OFnAQqkz0mGQUmx59Carl) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:35 | 2023-03-10 | 2023-05-21 |
-| [Completely Free](https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:33 | 2023-03-10 |  |
+| [Completely Free](https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:33 | 2023-03-10 | 2024-08-03 |
 | [Every Time I Breathe](https://open.spotify.com/track/4yOpRExvm1qwGBZNeS4cXt) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:52 | 2023-03-10 |  |
 | [Everything Beautiful](https://open.spotify.com/track/331Knn1SGIHAjAfHtP9UBR) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life: The Redeemed Edition](https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i) | 3:17 | 2023-03-10 |  |
 | [Falling Into You](https://open.spotify.com/track/7A5Zsy88CxsC7FHQsi0D2f) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 3:19 | 2024-01-25 | 2024-01-27 |
@@ -23,6 +23,7 @@
 | [For Who You Are](https://open.spotify.com/track/5YJG5A01wPavs17Zv09Jka) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 3:20 | 2023-03-10 | 2023-09-26 |
 | [Friend Like You](https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [One and Only](https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN) | 3:35 | 2024-04-19 |  |
 | [From Here](https://open.spotify.com/track/3pcHBtO6656mInuhof9xQ8) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:28 | 2023-06-22 | 2024-01-24 |
+| [God Is In This Story](https://open.spotify.com/track/33aQwepAntQvwsIk8rFiB4) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:27 | 2024-08-03 |  |
 | [God Is In This Story](https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:27 | 2023-03-10 | 2023-03-18 |
 | [Good Good Father \- Live](https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:44 | 2023-03-10 |  |
 | [Heart Cries Holy](https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 5:17 | 2023-03-10 |  |

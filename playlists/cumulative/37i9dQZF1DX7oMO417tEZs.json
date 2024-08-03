@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "gems from artists carving their own path. cover: Sean Leon",
+  "description": "gems from artists carving their own path. cover: Jonah Yano",
   "name": "outliers",
   "tracks": [
     {
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 190413,
       "name": "AMAMA",
       "url": "https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D"
@@ -3204,7 +3204,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 166523,
       "name": "Broke My Heart",
       "url": "https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK"
@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
@@ -4376,6 +4376,24 @@
       "duration_ms": 224874,
       "name": "Come For Me",
       "url": "https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU"
+    },
+    {
+      "album": {
+        "name": "Communication",
+        "url": "https://open.spotify.com/album/14kGxa1vF3z4BiSiwNPXSC"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90526,
+      "name": "Communication",
+      "url": "https://open.spotify.com/track/68fRVWyPvb63bjiKYigmxj"
     },
     {
       "album": {
@@ -6016,7 +6034,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 254235,
       "name": "Doreen",
       "url": "https://open.spotify.com/track/4h8VSLg9OM2wzqLSVvYNGy"
@@ -8541,6 +8559,28 @@
     },
     {
       "album": {
+        "name": "GiNGA",
+        "url": "https://open.spotify.com/album/7onrXtU0ycpBhY7GPfYEp8"
+      },
+      "artists": [
+        {
+          "name": "Lua de Santana",
+          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
+        },
+        {
+          "name": "$kyhook",
+          "url": "https://open.spotify.com/artist/0lxgPYvUjEApUKpZmr61IE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "GiNGA",
+      "url": "https://open.spotify.com/track/30jS2pH1jqAIHNB5MUGXyh"
+    },
+    {
+      "album": {
         "name": "Girl Supreme",
         "url": "https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v"
       },
@@ -9660,6 +9700,28 @@
       "duration_ms": 196598,
       "name": "Higher Than Ever Before",
       "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
+    },
+    {
+      "album": {
+        "name": "HIGHJACK",
+        "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190074,
+      "name": "HIGHJACK",
+      "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
     },
     {
       "album": {
@@ -14183,6 +14245,24 @@
     },
     {
       "album": {
+        "name": "Monkey Madness",
+        "url": "https://open.spotify.com/album/07cUEdpfFryZ8bSLXGnJdu"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169460,
+      "name": "Monkey Madness",
+      "url": "https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA"
+    },
+    {
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9"
       },
@@ -14410,7 +14490,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 149506,
       "name": "mr useless",
       "url": "https://open.spotify.com/track/1Ar2McJ98hNvgsHlxLTPQc"
@@ -14860,6 +14940,28 @@
       "duration_ms": 177898,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/2wAWKxixWvQfKuXDKP6Q3l"
+    },
+    {
+      "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "New Black History (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/4HzV6IvuKEuKdh5O60v52u"
     },
     {
       "album": {
@@ -15663,6 +15765,24 @@
     },
     {
       "album": {
+        "name": "ok </3",
+        "url": "https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "ok </3",
+      "url": "https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW"
+    },
+    {
+      "album": {
         "name": "okay w/ that",
         "url": "https://open.spotify.com/album/3VzAJcNdx0ofZSukjkKSVJ"
       },
@@ -16266,6 +16386,24 @@
       "duration_ms": 174426,
       "name": "Overload",
       "url": "https://open.spotify.com/track/08R0IcH87NHg4mBtegQ37U"
+    },
+    {
+      "album": {
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/6D3MBsgF9OwPPtzv5aNRrP"
+      },
+      "artists": [
+        {
+          "name": "SUUNS",
+          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145137,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/2t7Or37PuqRmCCePr0Beqo"
     },
     {
       "album": {
@@ -17958,6 +18096,24 @@
       "duration_ms": 181500,
       "name": "Rockin My World",
       "url": "https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n"
+    },
+    {
+      "album": {
+        "name": "Romance ESL / The Heavy Loop",
+        "url": "https://open.spotify.com/album/2yOvmxluAqK5EaIuVcSHdk"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Romance ESL",
+      "url": "https://open.spotify.com/track/2xN2QDZPQxJNmWHatPfjOc"
     },
     {
       "album": {
@@ -19976,7 +20132,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 244571,
       "name": "Souvenirs d'hiver",
       "url": "https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog"
@@ -20498,7 +20654,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 148400,
       "name": "stick of gum",
       "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
@@ -20528,6 +20684,24 @@
       "duration_ms": 171706,
       "name": "Sticky (feat. Childish Gambino & KIRBY)",
       "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
+    },
+    {
+      "album": {
+        "name": "still around",
+        "url": "https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217871,
+      "name": "still around",
+      "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
     },
     {
       "album": {
@@ -22454,7 +22628,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 153000,
       "name": "To The Dancefloor",
       "url": "https://open.spotify.com/track/2JmUcWWqk5K6m6z2Ky8khX"
@@ -23447,6 +23621,24 @@
     },
     {
       "album": {
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/1XTC9tnCxGb2iMX2rdr1Pc"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238027,
+      "name": "Volume",
+      "url": "https://open.spotify.com/track/3FTjdr8D814YDBWxsD1V54"
+    },
+    {
+      "album": {
         "name": "Voyage en Europe (TDJ Remix)",
         "url": "https://open.spotify.com/album/5yHeP0TNLzLbAODgCPjKON"
       },
@@ -24120,7 +24312,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 57313,
       "name": "whatever it takes",
       "url": "https://open.spotify.com/track/3QDFH3hLEZZzz8Em1Wlkrb"
@@ -24174,7 +24366,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 184000,
       "name": "when brains dance",
       "url": "https://open.spotify.com/track/4aE94pPbfuDpW9JVOCXr3E"

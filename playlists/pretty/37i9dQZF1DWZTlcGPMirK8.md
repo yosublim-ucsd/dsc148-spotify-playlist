@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,707 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,708 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 31 | [Don't Call Me Baby](https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD) | [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7) | 3:48 |
 | 32 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
 | 33 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [The Long Road Back](https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU) | 3:37 |
-| 34 | [High ft\. Nicole Millar](https://open.spotify.com/track/74ciVAMC3GuSkEVTLIIqBS) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [High](https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF) | 3:48 |
-| 35 | [4ever](https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:28 |
+| 34 | [4ever](https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:28 |
+| 35 | [High ft\. Nicole Millar](https://open.spotify.com/track/74ciVAMC3GuSkEVTLIIqBS) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [High](https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF) | 3:48 |
 | 36 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [Bodyrockers](https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY) | 3:20 |
 | 37 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 |
 | 38 | [Angels Brought Me Here](https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Just As I Am](https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km) | 3:59 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 58 | [The Fighter](https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:04 |
 | 59 | [So Beautiful \- Single Version](https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Feeler](https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch) | 4:39 |
 | 60 | [Love at First Sight](https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:58 |
-| 61 | [Pressure Down](https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 3:47 |
-| 62 | [This Heart Attack](https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Be The Twilight](https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS) | 3:47 |
-| 63 | [What About Me](https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl) | [Shannon Noll](https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG) | [That's What I'm Talking About](https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z) | 3:21 |
-| 64 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
+| 61 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
+| 62 | [Pressure Down](https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 3:47 |
+| 63 | [This Heart Attack](https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Be The Twilight](https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS) | 3:47 |
+| 64 | [What About Me](https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl) | [Shannon Noll](https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG) | [That's What I'm Talking About](https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z) | 3:21 |
 | 65 | [Fake Magic](https://open.spotify.com/track/0lvXfUug5YmOHOyHgXufqF) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Fake Magic](https://open.spotify.com/album/3YSm8I96IK40ovnp56h0Mh) | 2:47 |
 | 66 | [Amnesia](https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE) | 3:57 |
 | 67 | [UFO](https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4) | [Sneaky Sound System](https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko) | [Sneaky Sound System](https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j) | 4:29 |
 | 68 | [Do You Remember](https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 3:54 |
 | 69 | [Burn](https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Greatest Hits 1994 \- 2004](https://open.spotify.com/album/3eArVEbkPCtNGoCFkFCftz) | 4:24 |
-| 70 | [Born to Try](https://open.spotify.com/track/2iWyrSHvs6qhFzfpiLAK0z) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:11 |
+| 70 | [Amazing](https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i) | [Alex Lloyd](https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy) | [Watching Angels Mend](https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6) | 3:23 |
 
 Snapshot ID: `ZIxVBgAAAABi5UzZ9pTMFMT+aKQBEEMQ`

@@ -1,36 +1,32 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Mr. Bachchan",
-  "num_followers": 131153,
+  "num_followers": 131196,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqixegAAAABJykyQmhTp6SX0HZyuNjeu",
+  "snapshot_id": "ZqzIZwAAAAAD3ZFSUsnshatV4yA7gdGT",
   "tracks": [
     {
-      "added_at": "2024-07-10 05:39:26",
+      "added_at": "2024-08-02 11:50:49",
       "album": {
-        "name": "Sitar Song (From \"Mr. Bachchan\")",
-        "url": "https://open.spotify.com/album/28DA8Z7PABy6BaLtdimMSG"
+        "name": "Jikki (From \"Mr. Bachchan\")",
+        "url": "https://open.spotify.com/album/0LZ5LX0Wvl1Z3TzF5OhVs5"
       },
       "artists": [
         {
-          "name": "Saketh Komanduri",
-          "url": "https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L"
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
         },
         {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
-        },
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
         }
       ],
-      "duration_ms": 249365,
-      "name": "Sitar Song (From \"Mr. Bachchan\")",
-      "url": "https://open.spotify.com/track/05EF4pLoo5dHCbFVm5ImJ7"
+      "duration_ms": 209185,
+      "name": "Jikki (From \"Mr. Bachchan\")",
+      "url": "https://open.spotify.com/track/3jt4l32RiZhupMWal5rRyk"
     },
     {
       "added_at": "2024-07-14 04:20:52",
@@ -181,9 +177,33 @@
       "url": "https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO"
     },
     {
+      "added_at": "2024-07-10 05:39:26",
+      "album": {
+        "name": "Sitar Song (From \"Mr. Bachchan\")",
+        "url": "https://open.spotify.com/album/28DA8Z7PABy6BaLtdimMSG"
+      },
+      "artists": [
+        {
+          "name": "Saketh Komanduri",
+          "url": "https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        },
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        }
+      ],
+      "duration_ms": 249365,
+      "name": "Sitar Song (From \"Mr. Bachchan\")",
+      "url": "https://open.spotify.com/track/05EF4pLoo5dHCbFVm5ImJ7"
+    },
+    {
       "added_at": "2024-06-19 08:56:00",
       "album": {
-        "name": "Lucky Baskhar",
+        "name": "Srimathi Garu (From \"Lucky Baskhar\")(Telugu)",
         "url": "https://open.spotify.com/album/1jt6U4Ag5PaI5UwpBWvDFc"
       },
       "artists": [
@@ -205,7 +225,7 @@
         }
       ],
       "duration_ms": 222537,
-      "name": "Srimathi Garu",
+      "name": "Srimathi Garu (From \"Lucky Baskhar\")(Telugu)",
       "url": "https://open.spotify.com/track/5TPk8DtFRiSo8ZJwThyFbU"
     },
     {
@@ -271,7 +291,7 @@
     {
       "added_at": "2023-12-13 13:10:44",
       "album": {
-        "name": "Guntur Kaaram",
+        "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
         "url": "https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar"
       },
       "artists": [
@@ -289,32 +309,8 @@
         }
       ],
       "duration_ms": 156497,
-      "name": "Oh My Baby",
+      "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
       "url": "https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql"
-    },
-    {
-      "added_at": "2023-06-16 11:16:35",
-      "album": {
-        "name": "Adipurush (TELUGU)",
-        "url": "https://open.spotify.com/album/0zRFnm1hqjtY0c7ozMK2Lh"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 201130,
-      "name": "Priya Mithunam (Telugu)",
-      "url": "https://open.spotify.com/track/4wFU6Q4vInTg2HQ2mkko8x"
     },
     {
       "added_at": "2024-02-07 10:49:22",
@@ -1039,7 +1035,7 @@
     {
       "added_at": "2023-07-21 15:21:27",
       "album": {
-        "name": "Bholaa Shankar",
+        "name": "Milky Beauty (From \"Bholaa Shankar\")(Telugu)",
         "url": "https://open.spotify.com/album/5U5PEnuwaXr8ffWWmydl5X"
       },
       "artists": [
@@ -1061,7 +1057,7 @@
         }
       ],
       "duration_ms": 213000,
-      "name": "Milky Beauty",
+      "name": "Milky Beauty (From \"Bholaa Shankar\")(Telugu)",
       "url": "https://open.spotify.com/track/0FM8wzHhV64mwrDdEEuGdG"
     },
     {
@@ -1159,30 +1155,6 @@
       "duration_ms": 171162,
       "name": "Chachhinaa Chaavani Premidi (From \"Sandeham\")",
       "url": "https://open.spotify.com/track/55DWDSeaID5un3fOFnieJj"
-    },
-    {
-      "added_at": "2023-06-16 08:56:18",
-      "album": {
-        "name": "Paravasame Paravasame (From \"Narayana And Co\")",
-        "url": "https://open.spotify.com/album/30i3MJ3Be1LT24JHRcbzFQ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Josyabhatla",
-          "url": "https://open.spotify.com/artist/3Td73fmcg2F9mAWwDMhwHL"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "K. Pranati",
-          "url": "https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Paravasame Paravasame (From \"Narayana And Co\")",
-      "url": "https://open.spotify.com/track/10UULk3rJivW6YHsP60Una"
     }
   ],
   "unique_name": "Latest Romance Telugu",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > 🔊canzoni rap da pomparti fino all'alba! 🔊Cover: Luciennn, Salmo
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,057 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,076 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 52 | [Bossoli](https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bossoli](https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq) | 2:58 |
 | 53 | [Mollami Pt.2](https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 2:35 |
 | 54 | [Twerk \(con Boro\)](https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Arte](https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ) | 2:32 |
-| 55 | [HO PAURA DI USCIRE 2 \- prod\. Mace](https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:57 |
-| 56 | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp) | 2:44 |
+| 55 | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp) | 2:44 |
+| 56 | [HO PAURA DI USCIRE 2 \- prod\. Mace](https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:57 |
 | 57 | [GTA \(feat\. Ghali\)](https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:08 |
 | 58 | [Serio \(feat\. Capo Plaza\)](https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Serio](https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3) | 3:38 |
 | 59 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 |

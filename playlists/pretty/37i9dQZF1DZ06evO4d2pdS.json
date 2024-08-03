@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 2908,
+  "num_followers": 2915,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAXkpJtkAwuvw0AF/08KySZ",
+  "snapshot_id": "ZqrQAAAAAAAnVDq+N2lcuHwRS/JMYwVW",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+        "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+      "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Due Time",
         "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
       },
@@ -87,6 +115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 147859,
+      "name": "Worst Thing",
+      "url": "https://open.spotify.com/track/5FfInegP9g9CPjmfzZ7TuV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bitch Duh feat. BIA (Remix)",
         "url": "https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo"
       },
@@ -111,26 +159,6 @@
       "duration_ms": 172235,
       "name": "Bitch Duh feat. BIA (Remix)",
       "url": "https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 147859,
-      "name": "Worst Thing",
-      "url": "https://open.spotify.com/track/5FfInegP9g9CPjmfzZ7TuV"
     },
     {
       "added_at": null,
@@ -171,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 199395,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0XgpqzcmMFapQ0kebq1EuD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Ratchet",
         "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
       },
@@ -191,22 +235,6 @@
       "duration_ms": 141030,
       "name": "Get Ratchet",
       "url": "https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 199395,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/0XgpqzcmMFapQ0kebq1EuD"
     },
     {
       "added_at": null,
@@ -387,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir"
+        "name": "WANT EM HOOD",
+        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
       },
       "artists": [
-        {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
-        },
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 176923,
-      "name": "ADD IT UP",
-      "url": "https://open.spotify.com/track/7uiPi84YedJClCxAxEflia"
+      "duration_ms": 165517,
+      "name": "WANT EM HOOD",
+      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
     },
     {
       "added_at": null,
@@ -447,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WANT EM HOOD",
-        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
+        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir"
       },
       "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 165517,
-      "name": "WANT EM HOOD",
-      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
+      "duration_ms": 176923,
+      "name": "ADD IT UP",
+      "url": "https://open.spotify.com/track/7uiPi84YedJClCxAxEflia"
     },
     {
       "added_at": null,
@@ -535,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
       },
       "artists": [
         {
@@ -544,9 +572,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 124000,
-      "name": "2 Tone",
-      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
+      "duration_ms": 117600,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny"
     },
     {
       "added_at": null,
@@ -567,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
       "artists": [
         {
@@ -576,9 +604,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 117600,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny"
+      "duration_ms": 124000,
+      "name": "2 Tone",
+      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
     },
     {
       "added_at": null,
@@ -603,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
       },
       "artists": [
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 111158,
-      "name": "Basic",
-      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+      "duration_ms": 238571,
+      "name": "Worth The Wait (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1"
     },
     {
       "added_at": null,
@@ -643,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
       "artists": [
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 238571,
-      "name": "Worth The Wait (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1"
+      "duration_ms": 111158,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
     },
     {
       "added_at": null,

@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 170500,
       "name": "Chez Mounir",
       "url": "https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod"
@@ -3430,6 +3430,24 @@
       "duration_ms": 277810,
       "name": "Vallahi Yok",
       "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1FwqBdJjob5rVp1wetzXh9"
+      },
+      "artists": [
+        {
+          "name": "Las Ponchas",
+          "url": "https://open.spotify.com/artist/5g8rxSvetiRBIXWRAdYHJG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278090,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/5WCymp7EQYCo00B9jO37jx"
     },
     {
       "album": {

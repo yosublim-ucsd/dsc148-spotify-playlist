@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 
 ### [This Is Kemilly Santos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mcByN)
 
-> This is Kemilly Santos\. The essential tracks, all in one playlist.
+> This is Kemilly Santos\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,290 likes - 36 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,293 likes - 37 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 | 2 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 |
 | 3 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
 | 4 | [A Promessa](https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 4:09 |
-| 5 | [Quem Nunca](https://open.spotify.com/track/3g0GvJxgn2eZoJAdrqUdGk) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV) | 3:58 |
-| 6 | [Farás Outra Vez](https://open.spotify.com/track/2EW0dzdF4CRdbz6I1z2yJV) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Farás Outra Vez](https://open.spotify.com/album/4pSM69zSpIVcRggt4YxVpY) | 4:07 |
+| 5 | [Farás Outra Vez](https://open.spotify.com/track/2EW0dzdF4CRdbz6I1z2yJV) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Farás Outra Vez](https://open.spotify.com/album/4pSM69zSpIVcRggt4YxVpY) | 4:07 |
+| 6 | [Quem Nunca](https://open.spotify.com/track/3g0GvJxgn2eZoJAdrqUdGk) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV) | 3:58 |
 | 7 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 |
 | 8 | [Limite \(Ao Vivo\)](https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Limite \(Ao Vivo\)](https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC) | 4:38 |
 | 9 | [Sonhador \(Ao Vivo\)](https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Sonhador \(Ao Vivo\)](https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb) | 3:53 |
@@ -34,15 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 | 24 | [O Desfecho](https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 5:08 |
 | 25 | [Por Trás Desse Silêncio](https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV) | 4:30 |
 | 26 | [360 Graus](https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 5:01 |
-| 27 | [Vazio](https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vazio](https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR) | 5:09 |
-| 28 | [Cuidando \(Ao Vivo\)](https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:39 |
-| 29 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 |
+| 27 | [Pedro](https://open.spotify.com/track/57FSmz2z4I2DLdjRBzdHpy) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Trilo](https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu) | 5:18 |
+| 28 | [Vazio](https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vazio](https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR) | 5:09 |
+| 29 | [Cuidando \(Ao Vivo\)](https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:39 |
 | 30 | [Vai Valer a Pena](https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 3:40 |
-| 31 | [Barulho de Milagre](https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 5:11 |
-| 32 | [Tudo que Deus Falou \(Ao Vivo\)](https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 4:54 |
-| 33 | [Grito Aflito](https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E) | [Rayssa Peres](https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Grito Aflito](https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P) | 4:40 |
-| 34 | [Vai Acontecer](https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 3:57 |
-| 35 | [Fogo e Glória / O Que Sua Glória Fez Comigo \(Ao Vivo\)](https://open.spotify.com/track/3UpoN13s3AYmC8UJlbrfNm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 5:05 |
-| 36 | [A Resposta](https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 4:33 |
+| 31 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 |
+| 32 | [Barulho de Milagre](https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 5:11 |
+| 33 | [Tudo que Deus Falou \(Ao Vivo\)](https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 4:54 |
+| 34 | [Grito Aflito](https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E) | [Rayssa Peres](https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Grito Aflito](https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P) | 4:40 |
+| 35 | [Vai Acontecer](https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 3:57 |
+| 36 | [Fogo e Glória / O Que Sua Glória Fez Comigo \(Ao Vivo\)](https://open.spotify.com/track/3UpoN13s3AYmC8UJlbrfNm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 5:05 |
+| 37 | [A Resposta](https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 4:33 |
 
-Snapshot ID: `Zql+gAAAAABFndwyAaETyzpc3HCl+e58`
+Snapshot ID: `ZqrQAAAAAACM0AuzE+wh9HSOD1ccXADp`

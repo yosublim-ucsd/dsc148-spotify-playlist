@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 ### [This Is Oasis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vHAZO)
 
-> This is Oasis\. The essential tracks, all in one playlist.
+> This Is Oasis\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,257 likes - 44 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,449 likes - 44 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 43 | [Bag It Up](https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:40 |
 | 44 | [Roll It Over](https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:31 |
 
-Snapshot ID: `Zql+gAAAAABiEaq03qWlgmCfGXG4Mbhm`
+Snapshot ID: `ZqrQAAAAAADIpIOSy0RGlm+Z4wU33S0y`

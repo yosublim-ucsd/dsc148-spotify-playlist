@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,528 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,534 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 56 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
 | 57 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 |
 | 58 | [Slow Dancing \(FRNK Remix\)](https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [FRNK](https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:49 |
-| 59 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 |
-| 60 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
+| 59 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
+| 60 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 |
 
 Snapshot ID: `ZqL0HQAAAABV8Jq5plvCAPUPe5RdjTm3`

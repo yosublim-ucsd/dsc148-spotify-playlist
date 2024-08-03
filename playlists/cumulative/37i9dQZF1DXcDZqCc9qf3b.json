@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Groove to music from your Netflix Kids favorites! Cover: Thelma the Unicorn",
+  "description": "Groove to music from your Netflix Kids favorites! Cover: Saving Bikini Bottom",
   "name": "Netflix Kids Official Playlist",
   "tracks": [
     {
@@ -1636,6 +1636,28 @@
       "duration_ms": 156506,
       "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
       "url": "https://open.spotify.com/track/2iy3ZDCVJW2JAF2Jg69uk7"
+    },
+    {
+      "album": {
+        "name": "Saving Bikini Bottom: The Sandy Cheeks Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4sEeLcLwy3Xdf9SEtAMj1B"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "Spongebob Squarepants",
+          "url": "https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126146,
+      "name": "My Name Is Sandy Cheeks",
+      "url": "https://open.spotify.com/track/2JHCWXFacFcaWW8VNnaHPe"
     },
     {
       "album": {

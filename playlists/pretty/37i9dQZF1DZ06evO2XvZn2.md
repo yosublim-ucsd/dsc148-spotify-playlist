@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 
 ### [This Is Evaluna Montaner](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XvZn2)
 
-> This is Evaluna Montaner\. The essential tracks, all in one playlist.
+> This Is Evaluna Montaner\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,024 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,031 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 | 10 | [Me Liberé](https://open.spotify.com/track/54o97glZqjfQambK2yyNCG) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Me Liberé](https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S) | 3:37 |
 | 11 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 |
 | 12 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 |
-| 13 | [Cuando Te Enamores de Mí](https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 3:04 |
+| 13 | [Ladrona \(feat\. Carolina Mestrovic\)](https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Carolina Mestrovic](https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:57 |
 | 14 | [Si Existe](https://open.spotify.com/track/2V1lhszC64pVFw79uB0RhL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Si Existe](https://open.spotify.com/album/4RAHRRXkzErtE6F2OGCTp9) | 4:33 |
 | 15 | [Yo Me Salvé](https://open.spotify.com/track/5vJrecmwMX3i5iilsZvHeK) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Yo Me Salvé](https://open.spotify.com/album/4pAE0aW14Z2S7CrsojMtEG) | 4:14 |
 | 16 | [Hallelujah](https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Piano y Mujer](https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1) | 3:42 |
-| 17 | [Ladrona \(feat\. Carolina Mestrovic\)](https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Carolina Mestrovic](https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:57 |
+| 17 | [Cuando Te Enamores de Mí](https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 3:04 |
 | 18 | [Por Tu Amor](https://open.spotify.com/track/16hxPVDdazmOOo6QT2grK5) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Por Tu Amor](https://open.spotify.com/album/1UTdQUyAlL3h4uGtOPnecP) | 3:14 |
-| 19 | [Montañas Y Valles \- Versión Acústica](https://open.spotify.com/track/6LZj3lcbJo5CPsChzLR1dE) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Sesión Orgánica: Parte 2](https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu) | 3:56 |
-| 20 | [Podemos Ser Amigos \(feat\. Santiago Achaga\)](https://open.spotify.com/track/37BoR6RbzfdNvkcaPrAZqy) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Santiago Achaga](https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T) | [Podemos Ser Amigos \(feat\. Santiago Achaga\)](https://open.spotify.com/album/3MtGG65uCpF29ldqwMPzi4) | 2:30 |
+| 19 | [Podemos Ser Amigos \(feat\. Santiago Achaga\)](https://open.spotify.com/track/37BoR6RbzfdNvkcaPrAZqy) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Santiago Achaga](https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T) | [Podemos Ser Amigos \(feat\. Santiago Achaga\)](https://open.spotify.com/album/3MtGG65uCpF29ldqwMPzi4) | 2:30 |
+| 20 | [Montañas Y Valles \- Versión Acústica](https://open.spotify.com/track/6LZj3lcbJo5CPsChzLR1dE) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Sesión Orgánica: Parte 2](https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu) | 3:56 |
 | 21 | [Me Va a Extrañar](https://open.spotify.com/track/6caUAXmSdkOYsYb0C2Dtjd) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 4:28 |
 | 22 | [Interludio: La Gloria de Dios](https://open.spotify.com/track/4I85x8j08iqV0fVAqB5Lnx) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Fe](https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw) | 3:26 |
 | 23 | [Mejor Perderte Que Encontrarte \(feat\. Carolina Mestrovic\)](https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Carolina Mestrovic](https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4) | [Mejor Perderte Que Encontrarte \(feat\. Carolina Mestrovic\)](https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi) | 2:13 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 | 40 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
 | 41 | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/track/2l4iMLWm3dlZErGtsXUNZf) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/album/7wxgyL41IUJnZZO7kIJvvG) | 3:28 |
 
-Snapshot ID: `Zql+gAAAAACUFcqiiRBL4RzVYUOOsXd6`
+Snapshot ID: `ZqrQAAAAAABKDzmrhWhuTgp13zU5nxgm`

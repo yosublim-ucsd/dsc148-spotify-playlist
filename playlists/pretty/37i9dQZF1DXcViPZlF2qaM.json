@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 61232,
+  "num_followers": 61248,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpvKhAAAAAA0xCgZ2byetKFZAdOM/11P",
+  "snapshot_id": "Zq0UCAAAAAD9lqOSJsXML2NMGXHYFedL",
   "tracks": [
     {
       "added_at": "2022-04-01 20:35:15",
@@ -193,20 +193,20 @@
       "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2024-08-02 17:14:48",
       "album": {
-        "name": "Sicod\u00e9licos",
-        "url": "https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12"
+        "name": "Sin Aliento",
+        "url": "https://open.spotify.com/album/3c7o2ccVBJ4eKzacjuThV9"
       },
       "artists": [
         {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+          "name": "Las Ponchas",
+          "url": "https://open.spotify.com/artist/5g8rxSvetiRBIXWRAdYHJG"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Guajira Sicod\u00e9lica",
-      "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
+      "duration_ms": 235406,
+      "name": "Sin Aliento",
+      "url": "https://open.spotify.com/track/0ZMmWpcKSuoHU7Vi3V48xQ"
     },
     {
       "added_at": "2024-06-13 20:20:57",
@@ -263,6 +263,22 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
+        "name": "Sicod\u00e9licos",
+        "url": "https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Guajira Sicod\u00e9lica",
+      "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
         "name": "Pel\u00edcula Muda, Pt. 2",
         "url": "https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW"
       },
@@ -297,22 +313,6 @@
       "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
     },
     {
-      "added_at": "2022-02-11 00:27:46",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
-    },
-    {
       "added_at": "2024-05-24 00:16:51",
       "album": {
         "name": "Espacio Infinito",
@@ -329,20 +329,20 @@
       "url": "https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-02-11 00:27:46",
       "album": {
-        "name": "Santo & Johnny",
-        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
       },
       "artists": [
         {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 130493,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2024-07-05 04:24:05",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+        "name": "Santo & Johnny",
+        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
       },
       "artists": [
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
         }
       ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+      "duration_ms": 130493,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
     },
     {
       "added_at": "2022-12-20 21:43:10",
@@ -413,24 +413,20 @@
       "url": "https://open.spotify.com/track/6FgVbS4WlDLPTjr0C6Ozkw"
     },
     {
-      "added_at": "2022-02-17 23:02:00",
+      "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "El Madrile\u00f1o (La Sobremesa)",
-        "url": "https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz"
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
       },
       "artists": [
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 187693,
-      "name": "Te Venero",
-      "url": "https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm"
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2024-06-18 15:57:06",
@@ -457,20 +453,24 @@
       "url": "https://open.spotify.com/track/3icf4m5oinOdNehNILg4LZ"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-02-17 23:02:00",
       "album": {
-        "name": "Charanga Moderna",
-        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
+        "name": "El Madrile\u00f1o (La Sobremesa)",
+        "url": "https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz"
       },
       "artists": [
         {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 160115,
-      "name": "El Watusi",
-      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+      "duration_ms": 187693,
+      "name": "Te Venero",
+      "url": "https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm"
     },
     {
       "added_at": "2024-07-09 05:55:41",
@@ -487,6 +487,22 @@
       "duration_ms": 156124,
       "name": "Misterio Verde",
       "url": "https://open.spotify.com/track/3qK9At4Ynaq59XvNsIOTrq"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Charanga Moderna",
+        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 160115,
+      "name": "El Watusi",
+      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -537,36 +553,20 @@
       "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2024-08-02 17:14:48",
       "album": {
-        "name": "The Original Recordings",
-        "url": "https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W"
+        "name": "\u00a1Ay Mam\u00e1!",
+        "url": "https://open.spotify.com/album/5c6JTGOZKklSyxHIRdfUR7"
       },
       "artists": [
         {
-          "name": "Elia y Elizabeth",
-          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
+          "name": "Las Ponchas",
+          "url": "https://open.spotify.com/artist/5g8rxSvetiRBIXWRAdYHJG"
         }
       ],
-      "duration_ms": 243240,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28"
-    },
-    {
-      "added_at": "2022-09-26 22:10:29",
-      "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Se Me Ocurre",
-      "url": "https://open.spotify.com/track/4fZJ1PRKY0cWC8PRWnRZQa"
+      "duration_ms": 270181,
+      "name": "\u00a1Ay Mam\u00e1!",
+      "url": "https://open.spotify.com/track/243MOSVqjTbYwrHjTbJ7b9"
     },
     {
       "added_at": "2022-01-21 19:49:32",
@@ -583,6 +583,54 @@
       "duration_ms": 328773,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "The Original Recordings",
+        "url": "https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W"
+      },
+      "artists": [
+        {
+          "name": "Elia y Elizabeth",
+          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
+        }
+      ],
+      "duration_ms": 243240,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28"
+    },
+    {
+      "added_at": "2023-09-05 00:10:18",
+      "album": {
+        "name": "M\u00e1rcame",
+        "url": "https://open.spotify.com/album/4dLm6zAn7b79biOFkO8dOW"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        }
+      ],
+      "duration_ms": 217508,
+      "name": "M\u00e1rcame",
+      "url": "https://open.spotify.com/track/6I0PMHpGM4RBatsYuZ8n6T"
+    },
+    {
+      "added_at": "2022-09-26 22:10:29",
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Se Me Ocurre",
+      "url": "https://open.spotify.com/track/4fZJ1PRKY0cWC8PRWnRZQa"
     },
     {
       "added_at": "2022-04-23 18:00:53",
@@ -603,22 +651,6 @@
       "duration_ms": 202906,
       "name": "Baja a la Tierra (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
-    },
-    {
-      "added_at": "2023-09-05 00:10:18",
-      "album": {
-        "name": "M\u00e1rcame",
-        "url": "https://open.spotify.com/album/4dLm6zAn7b79biOFkO8dOW"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        }
-      ],
-      "duration_ms": 217508,
-      "name": "M\u00e1rcame",
-      "url": "https://open.spotify.com/track/6I0PMHpGM4RBatsYuZ8n6T"
     },
     {
       "added_at": "2023-05-25 23:09:45",
@@ -717,26 +749,6 @@
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
     },
     {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "T\u00fa Ve",
-        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 238068,
-      "name": "T\u00fa Ve",
-      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
-    },
-    {
       "added_at": "2022-03-30 01:48:29",
       "album": {
         "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
@@ -797,6 +809,26 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "T\u00fa Ve",
+        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 238068,
+      "name": "T\u00fa Ve",
+      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Cumbias Imaquinarias - EP",
@@ -827,22 +859,6 @@
       "duration_ms": 197000,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
-    },
-    {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "Sur o No Sur",
-        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Cumbiera Intelectual",
-      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
     },
     {
       "added_at": "2023-04-01 01:18:58",
@@ -933,20 +949,20 @@
       "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
     },
     {
-      "added_at": "2022-04-23 18:00:53",
+      "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "The Nada",
-        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
+        "name": "Perlas & Conchas",
+        "url": "https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "F\u00e9mina",
+          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
         }
       ],
-      "duration_ms": 300746,
-      "name": "Guacamole",
-      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
+      "duration_ms": 294112,
+      "name": "Agradezco",
+      "url": "https://open.spotify.com/track/3H4FCuCyAVZVgGCkYSLEu3"
     },
     {
       "added_at": "2022-04-01 20:16:53",
@@ -965,36 +981,20 @@
       "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-04-23 18:00:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
+        "name": "Sur o No Sur",
+        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 215480,
-      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
-      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Perlas & Conchas",
-        "url": "https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9mina",
-          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
-        }
-      ],
-      "duration_ms": 294112,
-      "name": "Agradezco",
-      "url": "https://open.spotify.com/track/3H4FCuCyAVZVgGCkYSLEu3"
+      "duration_ms": 250866,
+      "name": "Cumbiera Intelectual",
+      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
     },
     {
       "added_at": "2022-06-02 20:34:36",
@@ -1011,6 +1011,22 @@
       "duration_ms": 237858,
       "name": "Quisiera Ser",
       "url": "https://open.spotify.com/track/6itjS7VEETDfGW3G5bHkBA"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
+      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
     },
     {
       "added_at": "2022-09-26 22:10:29",
@@ -1047,26 +1063,6 @@
       "duration_ms": 392493,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/0J56BoNc7pCnE68bAt7ycz"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Latin & Love Studies",
-        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        },
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        }
-      ],
-      "duration_ms": 240298,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

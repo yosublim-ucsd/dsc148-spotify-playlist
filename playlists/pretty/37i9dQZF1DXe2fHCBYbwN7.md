@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 
 > The saddest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,605 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,660 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

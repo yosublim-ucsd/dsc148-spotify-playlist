@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 
 ### [This Is Miranda Lambert](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bb9Kw)
 
-> This is Miranda Lambert\. The essential tracks, all in one playlist.
+> This is Miranda Lambert\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,091 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,114 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 | 45 | [More Like Her](https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:28 |
 | 46 | [In His Arms](https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 2:39 |
 | 47 | [All My Ex's Live In Texas \- Live](https://open.spotify.com/track/61FfiL8hYFXh5qe7tuBsar) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Ray Benson](https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Cowboy Rides Away: Live From AT&T Stadium](https://open.spotify.com/album/2L2L5dwy8JCw6zqslBaASk) | 3:28 |
-| 48 | [Smokin' and Drinkin' \(feat\. Little Big Town\)](https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 5:30 |
+| 48 | [Hush Hush](https://open.spotify.com/track/2zwN5UpzCDnxk4tqWDaJF4) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Annie Up](https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG) | 3:23 |
 | 49 | [Crazy Ex\-Girlfriend](https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:07 |
-| 50 | [Hush Hush](https://open.spotify.com/track/2zwN5UpzCDnxk4tqWDaJF4) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Annie Up](https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG) | 3:23 |
+| 50 | [Smokin' and Drinkin' \(feat\. Little Big Town\)](https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 5:30 |
 | 51 | [Waxahachie](https://open.spotify.com/track/1ksaL982agSeYAAUQlYrx5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:29 |
 | 52 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 |
 
-Snapshot ID: `Zql+gAAAAACPezzp93m8TpWHNlrYmac2`
+Snapshot ID: `ZqrQAAAAAACj0Kg/s92YGD7EGK6QWnea`

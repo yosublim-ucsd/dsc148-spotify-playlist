@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,425 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,466 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 11 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 |
 | 12 | [Quarta Cadeira \- Ao Vivo](https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:44 |
 | 13 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
-| 14 | [Paredes \- Ao Vivo](https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:04 |
+| 14 | [Propaganda \- Ao Vivo](https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:21 |
 | 15 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 16 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 |
 | 17 | [Namorando Sem Namorar](https://open.spotify.com/track/5h3pLJAZ4TMl4K0oz9GuYU) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Namorando Sem Namorar](https://open.spotify.com/album/2ZrusXM8te9UHlB7GRiYfY) | 3:11 |
 | 18 | [De Quem É a Culpa? \- Ao Vivo](https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \- Ao Vivo Em Manaus](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:22 |
-| 19 | [Propaganda \- Ao Vivo](https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:21 |
+| 19 | [Paredes \- Ao Vivo](https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:04 |
 | 20 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 |
 | 21 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
 | 22 | [Mulher Maravilha \- Ao Vivo](https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:37 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 43 | [Lembranças de Amor \- Ao Vivo](https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8) | [Victor & Leo](https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr) | [Victor & Leo Ao Vivo Em Uberlândia](https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC) | 3:31 |
 | 44 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
 | 45 | [Moça do Espelho \- Acústico](https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano \- Acústico](https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN) | 2:32 |
-| 46 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
+| 46 | [Bagunça Minha Vida \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Bagunça Minha Vida \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4) | 2:25 |
 | 47 | [Escreve Aí \- Ao Vivo](https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx) | 4:03 |
 | 48 | [Amigo Apaixonado \- Ao Vivo](https://open.spotify.com/track/7KsPoQeQrwJUo9UdLrtpeR) | [Victor & Leo](https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr) | [Victor & Leo Ao Vivo Em Uberlândia](https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC) | 3:26 |
-| 49 | [Bagunça Minha Vida \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Bagunça Minha Vida \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4) | 2:25 |
+| 49 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
 | 50 | [Para, Pensa e Volta \- Ao Vivo](https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo \- EP 2](https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We) | 2:54 |
 
 Snapshot ID: `Zo0vdwAAAAAKsGTIZ7c8VBraCiEcfqGM`

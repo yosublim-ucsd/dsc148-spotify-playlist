@@ -1,12 +1,12 @@
 {
-  "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 69578,
+  "description": "This Is Iggy Pop. Los temas esenciales, todos en una lista.",
+  "num_followers": 69587,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAACkJhxYe8bYbwhSWIgMR8mb",
+  "snapshot_id": "ZqrQAAAAAABtHOOJwZfi+kPizyw7GwOJ",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 259113,
-      "name": "Loves Missing",
-      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Preliminaires",
         "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 172880,
       "name": "I Want To Go To The Beach",
       "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 259113,
+      "name": "Loves Missing",
+      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 392160,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 213960,
       "name": "Et Si Tu n'existais Pas",
       "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 392160,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 260030,
-      "name": "Sister Midnight",
-      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 260030,
+      "name": "Sister Midnight",
+      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EVERY LOSER",
         "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 227166,
       "name": "Morning Show",
       "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 308927,
-      "name": "China Girl",
-      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
     },
     {
       "added_at": null,
@@ -719,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 271171,
-      "name": "James Bond",
-      "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -747,6 +715,38 @@
       "duration_ms": 150453,
       "name": "La Javanaise",
       "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 308927,
+      "name": "China Girl",
+      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 271171,
+      "name": "James Bond",
+      "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
     },
     {
       "added_at": null,

@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+    },
+    {
+      "album": {
         "name": "TWENTY SOMETHING",
         "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
       },
@@ -680,6 +698,24 @@
       "duration_ms": 183477,
       "name": "Arkansas Diamond",
       "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
+    },
+    {
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
       "album": {
@@ -3184,7 +3220,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 288121,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
@@ -5033,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+    },
+    {
+      "album": {
         "name": "I Am Not Okay",
         "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
       },
@@ -5812,7 +5866,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 176022,
       "name": "Indifferent",
       "url": "https://open.spotify.com/track/02MhJz06zVFU1eDpLVDiTw"
@@ -5848,7 +5902,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 139413,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K"
@@ -6476,6 +6530,28 @@
       "duration_ms": 145106,
       "name": "Little Songs",
       "url": "https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k"
+    },
+    {
+      "album": {
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
       "album": {
@@ -8842,7 +8918,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 180152,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
@@ -10852,7 +10928,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
@@ -12104,6 +12180,24 @@
       "duration_ms": 204026,
       "name": "Walmart",
       "url": "https://open.spotify.com/track/5OqdP2X00J7oOfJ2YCMgzH"
+    },
+    {
+      "album": {
+        "name": "Wanna Be Loved",
+        "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217307,
+      "name": "Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
     },
     {
       "album": {

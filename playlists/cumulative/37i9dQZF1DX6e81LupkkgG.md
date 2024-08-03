@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-304 songs - 17 hr 18 min
+306 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Green](https://open.spotify.com/track/5zRaUIOZy6XMrdcDPkCZSX) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Green](https://open.spotify.com/album/2sUvtzlszdzLwOfr0JNzbr) | 3:00 | 2022-02-18 | 2022-12-04 |
 | [Halley's Comet](https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:54 | 2022-02-18 | 2022-05-07 |
 | [Happy For You](https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Happy For You](https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY) | 3:46 | 2022-02-18 | 2024-07-23 |
+| [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-08-02 |  |
 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 | 2022-12-02 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-12-11 |  |
 | [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 | 2022-05-06 |  |
@@ -134,6 +135,7 @@
 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 | 2022-02-18 | 2022-07-29 |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2022-07-22 | 2024-04-19 |
 | [July](https://open.spotify.com/track/1427G7uMk181vGCr9CkYyn) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Simping Songs](https://open.spotify.com/album/0fViaME7X1KzQ18dIJEenz) | 2:32 | 2022-11-04 | 2022-11-13 |
+| [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-02 |  |
 | [just a boy](https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg) | 3:05 | 2022-02-18 | 2022-10-13 |
 | [just a boy](https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q) | 3:05 | 2022-10-14 | 2023-10-07 |
 | [learning](https://open.spotify.com/track/56FU39we0SmENEA6Wl6HjX) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [learning](https://open.spotify.com/album/3pYbqfGG9UwmKD7vLQGmc1) | 2:50 | 2022-07-22 | 2022-08-13 |
@@ -229,7 +231,7 @@
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-03-02 | 2022-03-05 |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-05-19 | 2024-04-19 |
-| [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 | 2023-12-15 |  |
+| [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 | 2023-12-15 | 2024-08-03 |
 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 | 2022-08-12 | 2022-09-24 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-21 |  |
 | [Sobre Viver \(Ao Vivo\)](https://open.spotify.com/track/4EafTAo5ynqItcWzolwVZc) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Sobre Viver \(Ao Vivo\)](https://open.spotify.com/album/3sNC7VMIfilI4Ri1goQXug) | 3:06 | 2024-06-14 |  |
@@ -240,7 +242,7 @@
 | [Somewhere in Ann Arbor](https://open.spotify.com/track/7EurJLsr9GPEp8Aq5LJvOK) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Somewhere in Ann Arbor](https://open.spotify.com/album/7zt3lJbBlBnA58fYD619Me) | 3:32 | 2022-02-18 | 2022-07-29 |
 | [Somewhere Only We Know](https://open.spotify.com/track/3O4HxUk3JbhY0nut3RFjaF) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Somewhere Only We Know](https://open.spotify.com/album/3SSjCIMccH0zOtznuS3hyU) | 2:29 | 2024-05-31 | 2024-07-13 |
 | [Somewhere Only We Know](https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Somewhere Only We Know](https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv) | 3:28 | 2022-02-18 |  |
-| [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-18 |  |
+| [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-18 | 2024-08-03 |
 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 | 2023-02-10 | 2023-07-09 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-08 |  |
 | [Stars](https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Deluxe\)](https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd) | 2:52 | 2022-02-18 | 2023-07-16 |

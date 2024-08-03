@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 129026,
+  "num_followers": 129099,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -615,18 +615,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/1NHHst2Nybld2rdJZIdUNr"
+        "name": "Vallenato en Accion: Lo M\u00e1s Grande del Vallenato",
+        "url": "https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Silvio Brito",
+          "url": "https://open.spotify.com/artist/7q81irQWwRx8be6NFjynKg"
+        },
+        {
+          "name": "Osmel Meri\u00f1o",
+          "url": "https://open.spotify.com/artist/1WtnMuzDmHs7SM0Ow2lMgU"
         }
       ],
-      "duration_ms": 283600,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/00sxto6RGzUmb9bev8GmQs"
+      "duration_ms": 294546,
+      "name": "En Carne Propia",
+      "url": "https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -651,22 +655,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Vallenato en Accion: Lo M\u00e1s Grande del Vallenato",
-        "url": "https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/1NHHst2Nybld2rdJZIdUNr"
       },
       "artists": [
         {
-          "name": "Silvio Brito",
-          "url": "https://open.spotify.com/artist/7q81irQWwRx8be6NFjynKg"
-        },
-        {
-          "name": "Osmel Meri\u00f1o",
-          "url": "https://open.spotify.com/artist/1WtnMuzDmHs7SM0Ow2lMgU"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 294546,
-      "name": "En Carne Propia",
-      "url": "https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL"
+      "duration_ms": 283600,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/00sxto6RGzUmb9bev8GmQs"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 275880,
-      "name": "Los Caminos De La Vida",
-      "url": "https://open.spotify.com/track/6mRaLhDSKc64YW1sJystWN"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Rafael Orozco El \u00cddolo de Siempre",
         "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216400,
       "name": "Muere una Flor",
       "url": "https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 275880,
+      "name": "Los Caminos De La Vida",
+      "url": "https://open.spotify.com/track/6mRaLhDSKc64YW1sJystWN"
     },
     {
       "added_at": "2024-03-28 01:45:52",

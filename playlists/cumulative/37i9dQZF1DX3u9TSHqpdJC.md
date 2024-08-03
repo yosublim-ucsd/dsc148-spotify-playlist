@@ -4,7 +4,7 @@
 
 > The best new pop music by independent artists and labels\. Cover: Hayes Warner Artwork by Paola Saliby
 
-3,570 songs - 7 day 13 hr 38 min
+3,573 songs - 7 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1744,6 +1744,7 @@
 | [La Incondicional](https://open.spotify.com/track/4CLM8zLq72polDBRjlo8K4) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Ella](https://open.spotify.com/album/1BSgpeCZhcy8xuonUDsNcD) | 3:15 | 2020-10-13\* | 2020-10-29 |
 | [La Kroy](https://open.spotify.com/track/5wjW588ZfLlE5u0uqTsfMu) | [Dominique](https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8) | [La Kroy](https://open.spotify.com/album/3hdAOT0LxW9Zgluv794YCi) | 2:49 | 2021-10-28 | 2021-12-01 |
 | [LABEL](https://open.spotify.com/track/6yqazMRYrfuuhhIKJgxghR) | [Jessy Lipton](https://open.spotify.com/artist/7pGsvDKuZ3OumdrpDwCB2f) | [LABEL](https://open.spotify.com/album/1ejfxcxQfj19qoLh7r9wo1) | 3:21 | 2024-01-24 | 2024-03-28 |
+| [Labyrinth](https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Labyrinth](https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy) | 3:08 | 2024-08-02 |  |
 | [Lack of Trying](https://open.spotify.com/track/0EOowKsuofc1SHV80HoC9W) | [Alyssa Newton](https://open.spotify.com/artist/6vauJL5c6UDFtyFawMTpxj) | [Lack of Trying](https://open.spotify.com/album/0IdvLC5aiQZ06fc8Uf8A1G) | 2:36 | 2023-05-31 | 2023-08-03 |
 | [LALALA](https://open.spotify.com/track/6saJQVfcQ08Bowup4nZpb7) | [PrettyUgly](https://open.spotify.com/artist/0E8A04ZukBqS3V5J8sKvPU) | [LALALA](https://open.spotify.com/album/1O1sg4ZylF8qjqX7MsUR6I) | 2:26 | 2024-01-24 | 2024-04-04 |
 | [lalalonely](https://open.spotify.com/track/0dJAianQRB8TllmviWfbNG) | [Amanda Frances](https://open.spotify.com/artist/6V82eQJQpNG2w6e5Hsg8PK) | [lalalonely](https://open.spotify.com/album/6l0mvFenK6aWduhV6ztWYz) | 3:39 | 2021-01-21 | 2021-02-17 |
@@ -2519,6 +2520,7 @@
 | [Radio Silence](https://open.spotify.com/track/0NBpksHKbou0VYFtPohCS9) | [Ceara Cavalieri](https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW) | [Radio Silence](https://open.spotify.com/album/5uquHiEeAjCQgkVU5ovP5D) | 2:46 | 2022-03-09 | 2022-04-07 |
 | [Rag Doll](https://open.spotify.com/track/5lHSeM4mRiQHloub1pFjZo) | [Grace Savage](https://open.spotify.com/artist/7jpzB6T94uYgdqP7oJ4hNM) | [Rag Doll](https://open.spotify.com/album/0QjNDpe039FCkLHji6wGRz) | 3:27 | 2021-03-25 | 2021-04-22 |
 | [Rain](https://open.spotify.com/track/3lEBEtiL4YVAKiGoU4MrT6) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Rain](https://open.spotify.com/album/72DtUhetWJEOs6uigQZnkc) | 3:13 | 2024-02-28 | 2024-05-16 |
+| [Rain](https://open.spotify.com/track/5D50LQOoqYJxSLTC6xtAbK) | [Daju](https://open.spotify.com/artist/4znXFLA1TOhbTKrgZViWev) | [Rain](https://open.spotify.com/album/0n35Yu5zqqNVdPj0Xecack) | 2:52 | 2024-08-02 |  |
 | [Rain In California](https://open.spotify.com/track/7e7Ahta2Z36i0kxM6JkSxi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/0R6IlEAhvgQkcfcsMc6E0Z) | 2:28 | 2023-05-10 | 2023-06-28 |
 | [Rain In California](https://open.spotify.com/track/3uLWWGfrQUUEbBRLru9zKO) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/7sVmdfwKVReBMtUV8wEniC) | 2:28 | 2023-05-10 | 2023-11-30 |
 | [Rainbow](https://open.spotify.com/track/12Ir8MQzqu6X78vMwsublK) | [Grace Pelle](https://open.spotify.com/artist/0sBS1xdoktPWXbo6iNOx8p) | [Rainbow](https://open.spotify.com/album/0yJzuT4T9Rf5H4sV1OFGsk) | 3:24 | 2022-03-23 | 2022-04-28 |
@@ -2660,6 +2662,7 @@
 | [Sale](https://open.spotify.com/track/6xGlBUxlWB6BTUIB3AYrTw) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Sale](https://open.spotify.com/album/1f2LHmBfPBdgZcDIprNyy9) | 2:30 | 2021-04-15 | 2021-05-13 |
 | [Salem](https://open.spotify.com/track/4ENT7iYMskGV999vUz6ghG) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l), [Casey Hamilton](https://open.spotify.com/artist/7MWQOL0zYGWhvzLrvXoqVd) | [Salem](https://open.spotify.com/album/34wdnTbWXtFYTttSyvpK0K) | 4:00 | 2021-10-21 | 2021-11-11 |
 | [Salt Lake City](https://open.spotify.com/track/6rJELWRGncpc9k8ldx9RUC) | [Colton Avery](https://open.spotify.com/artist/4ofP6JslAsDOIaQSOfR8mV) | [Salt Lake City](https://open.spotify.com/album/17TLoCq6s50lGJX9mFnrwv) | 2:58 | 2022-01-19 | 2022-03-03 |
+| [Salt Water Taffy](https://open.spotify.com/track/2MuY7Djj8hqZeQFic3dY9a) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Salt Water Taffy](https://open.spotify.com/album/7z9LxFMfUtFV6YGyZHhdHR) | 3:26 | 2024-08-02 |  |
 | [Salt Xxxaddy](https://open.spotify.com/track/18II7wpUOJoC8iTI30TusS) | [DeLorean Black](https://open.spotify.com/artist/4plo7rEUdfyIE3Vfjw07qH) | [Salt Xxxaddy](https://open.spotify.com/album/7bOcNA0GnwaTZZEvBYWiqk) | 3:15 | 2020-11-12 | 2020-12-08 |
 | [salut](https://open.spotify.com/track/4Kov3d6fMnBeZuAtio6ES0) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [salut](https://open.spotify.com/album/7td0AcXmNXjfulxGo9AIXk) | 2:22 | 2021-06-03 | 2021-06-18 |
 | [SAME DAMN SONG](https://open.spotify.com/track/1ocrDvt7PiRJC9OoSQNLHf) | [Brendan Bennett](https://open.spotify.com/artist/0lpU3HUAjN8AdjApUJ2ykI) | [SAME DAMN SONG](https://open.spotify.com/album/4BcgMBYOSYiICH7gdyv8Ga) | 2:22 | 2021-03-11 | 2021-04-08 |

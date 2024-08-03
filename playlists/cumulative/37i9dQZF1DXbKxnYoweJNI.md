@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 小明 \(Showmaîn\)
 
-380 songs - 21 hr 46 min
+381 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [I Quit](https://open.spotify.com/track/18fUO6NAp9lQ1AefqUpJIA) | [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR) | [I Quit](https://open.spotify.com/album/220ZNzHzhBwmBETzsyECP2) | 3:10 | 2024-07-04 | 2024-07-19 |
 | [I wish I can turn back time](https://open.spotify.com/track/7kXINLPwSUqCeee68ZvOyG) | [林加安](https://open.spotify.com/artist/4XdTzldVEGnxAU4KwfSNrw) | [I wish I can turn back time](https://open.spotify.com/album/38qpQvO1T6oxnM7CO0oLDp) | 2:39 | 2024-06-27 | 2024-07-12 |
 | [IU](https://open.spotify.com/track/2Hq5ucFvhUeLOdsNiSagGc) | [Yaka](https://open.spotify.com/artist/4fODbCHhX4Q2ro3O5CyrSA), [Death Souljah](https://open.spotify.com/artist/7cR5NVExHuLAIqS8fU5RFo), [P\-Kid](https://open.spotify.com/artist/3J5rbSnj1rXIu8dlwnv3xd) | [IU](https://open.spotify.com/album/00G9zXV0CZ5z7cIU1bag5J) | 3:57 | 2024-07-18 | 2024-08-02 |
+| [Jalan（路）](https://open.spotify.com/track/78Ls01UIgYRGDc0WEoyRIN) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [南洋探險隊](https://open.spotify.com/album/5t8dA0pNIPnyBv1jeXuO9f) | 3:20 | 2024-07-18 |  |
 | [Jealous](https://open.spotify.com/track/4lF2kssop0c1OGpmclJXg1) | [溫璽揚](https://open.spotify.com/artist/2Fijvd4HSZroOdzEapceP1) | [Jealous](https://open.spotify.com/album/0G056kh8ZmJr072MFx6DN9) | 3:04 | 2024-06-27 | 2024-07-05 |
 | [Kaede Kimura](https://open.spotify.com/track/2Y2jsX6Uzpe4CFsy4vrOYL) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Kaede Kimura](https://open.spotify.com/album/2dJaZ2kGpFTJ0cXxBO4lBV) | 3:07 | 2024-06-27 | 2024-07-12 |
 | [Kira Kira 亮晶晶](https://open.spotify.com/track/5LQYj54fy1VRMKCeIjn9eL) | [Tay Kexin](https://open.spotify.com/artist/6DoKqXp5G59UVhKTzgv6xe) | [Kira Kira 亮晶晶](https://open.spotify.com/album/1vxduSojRLrJWUEmptT1wl) | 3:26 | 2024-07-11 | 2024-07-19 |
@@ -149,6 +150,7 @@
 | [你妈逼你结婚了吗](https://open.spotify.com/track/5yynVhfTHW2C9hTXG9uKoi) | [Dotaterr](https://open.spotify.com/artist/1K9PpLJWA2pNg2GwTNxltw) | [你妈逼你结婚了吗](https://open.spotify.com/album/2itQJizHmAIbyLBsFSYuWo) | 3:16 | 2024-07-18 | 2024-07-27 |
 | [你是治癒我的光](https://open.spotify.com/track/0eYDmgCgiqCszcR7u3vp8i) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw) | [你是治癒我的光](https://open.spotify.com/album/0j9Xxe2m2XiHs3j6bJaeEl) | 2:51 | 2024-07-11 | 2024-07-19 |
 | [依然FANTASY](https://open.spotify.com/track/6ntrEvJeBQPvDF3p6nq6C8) | [影子計劃 Shadow Project](https://open.spotify.com/artist/4uvymNV7TTy0q47wUKislL) | [依然FANTASY](https://open.spotify.com/album/2MYIeUWHPvrkMLjbuBnWCV) | 2:31 | 2024-07-04 | 2024-07-27 |
+| [依舊站在這](https://open.spotify.com/track/78u6SExQgKP2a4U5XJDKRO) | [Coy6oi](https://open.spotify.com/artist/3UN0S5PuO1xQtE9P9XJ2TV), [Yuni](https://open.spotify.com/artist/0uLndG0num5JcE8VKqUBNK) | [依舊站在這](https://open.spotify.com/album/14F7cYV40Dtx3FzIXYD9H2) | 2:46 | 2024-08-01 |  |
 | [倒车，请注意](https://open.spotify.com/track/3SW6RacPcvcrGh8qMH5KdS) | [Loong\-G龍吉](https://open.spotify.com/artist/0RaoGBli3VJJDuE1w82Zmo) | [倒车，请注意](https://open.spotify.com/album/4aSEyd9wRnznpj6xLddy1L) | 2:24 | 2024-06-27 | 2024-07-05 |
 | [偏要遺憾](https://open.spotify.com/track/61Fq8R4TcZeNWoIjCYKwGV) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [偏要遺憾](https://open.spotify.com/album/2t8rMIYJuyd4dqrCsbIpSE) | 3:23 | 2024-07-25 |  |
 | [做愛不戀愛](https://open.spotify.com/track/5tK8Op3pEqFXQi4rbP8cJJ) | [Jolie B](https://open.spotify.com/artist/3wbqEdC581KKJgzGStDuYA) | [做愛不戀愛](https://open.spotify.com/album/4o0XqXxrfubAPqp0FuT9yU) | 2:17 | 2024-07-04 | 2024-07-27 |
@@ -252,7 +254,7 @@
 | [我要睡觉](https://open.spotify.com/track/0RKGkIJPnCCgHifSrt72f4) | [謝春花](https://open.spotify.com/artist/0gYt4XG9A0hyZW7rt745ZY) | [我要睡觉](https://open.spotify.com/album/79uFdiCq7R4YMuTqc00nG0) | 3:04 | 2024-07-18 |  |
 | [我說的離開不是離開](https://open.spotify.com/track/72Ts4BqjNXDmRMrLGs8vit) | [劉恬君](https://open.spotify.com/artist/4wfaCGmNCxhzGHRFmHdyZW) | [我說的離開不是離開](https://open.spotify.com/album/6TFxVor4vIroi2pH3XCkFq) | 4:16 | 2024-07-18 | 2024-08-02 |
 | [我變了](https://open.spotify.com/track/2gLecIEf04d3hORpt1gxC8) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [好不容易我變了](https://open.spotify.com/album/2qFZjXJVyRtBVCKPYZ0Sxy) | 2:26 | 2024-07-25 |  |
-| [手卷烟](https://open.spotify.com/track/2Jb1xBUm63hVwX2x5X2aAm) | [Capper](https://open.spotify.com/artist/0NWX8s7X9gtjad7sIB0uba) | [P.I.G.](https://open.spotify.com/album/1tqWsayRKIjCo3F0o7atTX) | 2:37 | 2024-08-01 |  |
+| [手卷烟 Rollmantic](https://open.spotify.com/track/2Jb1xBUm63hVwX2x5X2aAm) | [Capper](https://open.spotify.com/artist/0NWX8s7X9gtjad7sIB0uba) | [P.I.G.](https://open.spotify.com/album/1tqWsayRKIjCo3F0o7atTX) | 2:37 | 2024-08-01 |  |
 | [找到直徑\-「植境」主題曲](https://open.spotify.com/track/6BVhZ3Ib9nU440TDpzkq92) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu) | [找到直徑\-「植境」主題曲](https://open.spotify.com/album/6b8DKJ626t9s0qEZmhAdz5) | 2:59 | 2024-07-04 | 2024-07-27 |
 | [承諾PROMISE](https://open.spotify.com/track/6UJSuwMtlzaTwXPAQ5ZHoe) | [Kr 氪](https://open.spotify.com/artist/3FwqU1d2SSqaQpod6A5ZCa), [Tuff Ray](https://open.spotify.com/artist/3AyGZyreXseFe35BRwVUfn) | [承諾PROMISE](https://open.spotify.com/album/4JcGvf0SnfmYaAoZLDp1nT) | 3:23 | 2024-07-18 | 2024-07-27 |
 | [把那些負面都留給我吧](https://open.spotify.com/track/55TLtEF0dNmeghJXk2Lbna) | [Fausto Chou](https://open.spotify.com/artist/6j7nu3OM51aPO3OO3pcqZE) | [好好道別](https://open.spotify.com/album/35JM3aunjUHVJXUEOK3X51) | 4:04 | 2024-06-27 | 2024-07-05 |
@@ -281,7 +283,7 @@
 | [有緣作伙\(feat\. EyeballRay, Macdella, SheATH, DREW & Yappy\)](https://open.spotify.com/track/4fK3DKPcEXbMIJWCVrwOOb) | [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL), [EyeballRay](https://open.spotify.com/artist/363CQz6rPzByyhhWS1zUQq), [Macdella](https://open.spotify.com/artist/2jGajbF57J3EZGtAjeH3Q0), [SheATH](https://open.spotify.com/artist/55WfFcEYY8iQ9UjqcRMmdA), [Drew](https://open.spotify.com/artist/227bmsq2MvsKjnPMtxOg5i), [Yappy](https://open.spotify.com/artist/28G5rtbvCmWsjyp5G6LwMe) | [有緣作伙\(feat\. EyeballRay, Macdella, SheATH, DREW & Yappy\)](https://open.spotify.com/album/2n7r7qe9Zq6yTao4ak4Kf4) | 3:49 | 2024-07-11 | 2024-08-02 |
 | [有關](https://open.spotify.com/track/3xIIcGwe5mgmN1WLTtD6F3) | [TANA樂隊](https://open.spotify.com/artist/13gwGnpMwFCCXOm81Rk0Zz) | [有關](https://open.spotify.com/album/3PQlkQN5rsChV5B59QUct2) | 4:14 | 2024-06-27 | 2024-07-12 |
 | [末日瘋癲](https://open.spotify.com/track/6wATXCWK07j0T0DjHAD4F1) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [THE PENROSE ROOM 鏡房](https://open.spotify.com/album/29JSCngK4DwyyNEzGZcLaS) | 2:52 | 2024-07-04 | 2024-07-27 |
-| [来爱我](https://open.spotify.com/track/0cOH3zRouYunjTRTcehTWj) | [嘿人李逵Noisemakers](https://open.spotify.com/artist/4qk8X3MDfeOdw4y9JSnSZ5) | [来爱我](https://open.spotify.com/album/5Pc4CXZ8uqT4jMCkCtdqiQ) | 3:26 | 2024-07-18 |  |
+| [来爱我](https://open.spotify.com/track/0cOH3zRouYunjTRTcehTWj) | [Kui Kui](https://open.spotify.com/artist/48FNzcEluHvcsWRR3TIpGf) | [来爱我](https://open.spotify.com/album/5Pc4CXZ8uqT4jMCkCtdqiQ) | 3:26 | 2024-07-18 |  |
 | [棉床頂兮向望](https://open.spotify.com/track/4i8EX2iTWSGUxIA0Mp9gkR) | [昭霖](https://open.spotify.com/artist/6QG7iU3HlpXfClUyquYIj3) | [棉床頂兮向望](https://open.spotify.com/album/5T3W8LYRpFRynx07CKgZvG) | 4:02 | 2024-08-01 |  |
 | [極樂世界](https://open.spotify.com/track/5FshdcJMvxXnxT1Ja3lgXJ) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg) | [極樂世界](https://open.spotify.com/album/6YCK78QCAxMqK0lotLD5zq) | 3:22 | 2024-08-01 |  |
 | [樂園](https://open.spotify.com/track/1TlcAeEQl9ort0wL4ZySKy) | [Nemo Lin](https://open.spotify.com/artist/74DXVAxpII7okrU2rb8tRT) | [樂園](https://open.spotify.com/album/0qvMnQEspyVy7Ph81sdAXY) | 3:13 | 2024-08-01 |  |
@@ -361,7 +363,6 @@
 | [超機車的機車人 \~Super Auto\-bike\~](https://open.spotify.com/track/2omb0eFftQFpjWBltCvkRB) | [Ai Kakihira](https://open.spotify.com/artist/4JclQRnUPxSgNnzin6Ec1O), [VUIZE王鍾惟](https://open.spotify.com/artist/4yq5847C6qMEvioOQkEc8H) | [超機車的機車人 \~Super Auto\-bike\~](https://open.spotify.com/album/2osYNbHYdR4W3Dii0caaFL) | 3:45 | 2024-07-04 | 2024-07-19 |
 | [趕趕時間](https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [趕趕時間](https://open.spotify.com/album/3OHTeZ8l4MkmDO1bUTJ51q) | 3:39 | 2024-06-27 | 2024-07-27 |
 | [跟我來（JOYCE remix\)](https://open.spotify.com/track/0BJiUyczdPSVZQI5nMXB7x) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [跟我來（JOYCE remix\)](https://open.spotify.com/album/3yBL8RYXSRZ7GcYUaJpamU) | 3:16 | 2024-07-18 |  |
-| [路 Jalan](https://open.spotify.com/track/78Ls01UIgYRGDc0WEoyRIN) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [南洋探險隊](https://open.spotify.com/album/5t8dA0pNIPnyBv1jeXuO9f) | 3:20 | 2024-07-18 |  |
 | [躺在你怀里做一场梦](https://open.spotify.com/track/3IuzTuGnsywoYnroIHI8VN) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [这是一张情歌专辑](https://open.spotify.com/album/3wXfLVflhWMu5aXr8gM8aL) | 4:02 | 2024-07-18 |  |
 | [迎風之歌](https://open.spotify.com/track/5S6MNHvjJDqGod7wOzoCXy) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [迎風之歌](https://open.spotify.com/album/75n1wcRAYQqKFtsziuMDbv) | 4:46 | 2024-06-27 |  |
 | [這一切](https://open.spotify.com/track/11MPFk8W2nkfqrcAMk6nlX) | [陳建年](https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi), [Huang Ching\-Ya](https://open.spotify.com/artist/2ryWzp22WclU8kBE9YZX4G) | [這一切](https://open.spotify.com/album/2DyQu9bIeKht4HfyZ0hBkL) | 4:46 | 2024-06-27 | 2024-07-12 |

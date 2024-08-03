@@ -1,6 +1,6 @@
 {
   "description": "Get ready for the final season, nerds. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix. ",
-  "num_followers": 105878,
+  "num_followers": 105896,
   "original_name": "Never Have I Ever Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -807,17 +807,25 @@
     {
       "added_at": "2023-06-08 07:00:00",
       "album": {
-        "name": "Pushpa - The Rise",
+        "name": "Saami Saami (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu"
       },
       "artists": [
         {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
           "name": "Mounika Yadav",
           "url": "https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
       "duration_ms": 223961,
-      "name": "Saami Saami",
+      "name": "Saami Saami (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC"
     },
     {

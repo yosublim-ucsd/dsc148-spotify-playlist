@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Girl Ultra",
+  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Miss Monique",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 245714,
       "name": "Connection",
       "url": "https://open.spotify.com/track/3ND04Few0cZd4LmGzxNXGt"
@@ -2765,6 +2765,28 @@
     },
     {
       "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
         "name": "Hand on my heart",
         "url": "https://open.spotify.com/album/5r54C4zS7OMFAjOBI1gKzf"
       },
@@ -3730,7 +3752,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 202558,
       "name": "KarateCat",
       "url": "https://open.spotify.com/track/4ZudaK7D1PiHoBndGMXkmS"
@@ -4489,6 +4511,24 @@
     },
     {
       "album": {
+        "name": "Monkey Madness",
+        "url": "https://open.spotify.com/album/07cUEdpfFryZ8bSLXGnJdu"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169460,
+      "name": "Monkey Madness",
+      "url": "https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA"
+    },
+    {
+      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/5hgyxNLlJI41T8ZRiMxmSB"
       },
@@ -4500,7 +4540,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 212903,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2kskTbid8dwX2CWRr0PHTI"
@@ -4902,7 +4942,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 214773,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId"
@@ -5116,6 +5156,28 @@
       "duration_ms": 202681,
       "name": "Power",
       "url": "https://open.spotify.com/track/5CGgG5sXmXFqhF35EnieyO"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259023,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
     },
     {
       "album": {
@@ -5824,6 +5886,28 @@
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/0OQehQY5sa24kxGOOB1Uuu"
+    },
+    {
+      "album": {
+        "name": "Slap Back",
+        "url": "https://open.spotify.com/album/3LppsQq64jjRxylqesXChB"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "House Of Molly",
+          "url": "https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179535,
+      "name": "Slap Back",
+      "url": "https://open.spotify.com/track/5t5N6ptYytg52XRAXh1Z24"
     },
     {
       "album": {

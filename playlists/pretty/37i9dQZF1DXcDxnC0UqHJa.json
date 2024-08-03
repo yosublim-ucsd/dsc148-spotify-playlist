@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Josiah and the Bonnevilles",
-  "num_followers": 461419,
+  "num_followers": 461433,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Saint Cloud +3",
-        "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 278456,
-      "name": "Light of a Clear Blue Morning",
-      "url": "https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
       },
@@ -707,34 +691,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Boots Of Spanish Leather",
-        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
+        "name": "Saint Cloud +3",
+        "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 282173,
-      "name": "Boots Of Spanish Leather",
-      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Dust Cain't Kill Me",
-        "url": "https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Dust Cain't Kill Me",
-      "url": "https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w"
+      "duration_ms": 278456,
+      "name": "Light of a Clear Blue Morning",
+      "url": "https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -755,6 +723,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Dust Cain't Kill Me",
+        "url": "https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Dust Cain't Kill Me",
+      "url": "https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Lennon Bermuda",
         "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 143547,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Boots Of Spanish Leather",
+        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 282173,
+      "name": "Boots Of Spanish Leather",
+      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
+        "name": "Rarities 2",
+        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
+      "duration_ms": 232053,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Rarities 2",
-        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 232053,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Pieces of the Sky (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 197306,
-      "name": "Bluebird Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+      "duration_ms": 191757,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+        "name": "Pieces of the Sky (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 191757,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
+      "duration_ms": 197306,
+      "name": "Bluebird Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 145280,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1159,30 +1159,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "The Covers",
-        "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        },
-        {
-          "name": "Tyler Cain",
-          "url": "https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd"
-        },
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 196537,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1215,6 +1191,30 @@
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Covers",
+        "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Tyler Cain",
+          "url": "https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 196537,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "You're Still The One",
         "url": "https://open.spotify.com/album/0iHiAPZvswtLHRhqZrZxHM"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 296715,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/2rqlJD4KKngNYUrk14dQWk"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "duration_ms": 251057,
+      "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
       },
@@ -1615,26 +1635,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Jeff Tweedy",
-          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
-        }
-      ],
-      "duration_ms": 251057,
-      "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Green Rocky Road",
         "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
       },
@@ -1663,6 +1663,26 @@
       "duration_ms": 266000,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Alynda Segarra",
+          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1727,26 +1747,6 @@
       "duration_ms": 174773,
       "name": "i'm not okay",
       "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Alynda Segarra",
-          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 246722,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 246722,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
     },
     {
       "added_at": "2024-07-19 04:00:00",

@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 260178,
       "name": "New Sol",
       "url": "https://open.spotify.com/track/3vrivUYRw4s9cMKzJTuNhV"
@@ -3704,6 +3704,24 @@
       "duration_ms": 369476,
       "name": "Water Level",
       "url": "https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24"
+    },
+    {
+      "album": {
+        "name": "Dangermuffin",
+        "url": "https://open.spotify.com/album/2y4DRNJCI177adj2JME16M"
+      },
+      "artists": [
+        {
+          "name": "Dangermuffin",
+          "url": "https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265490,
+      "name": "We Push Mountains",
+      "url": "https://open.spotify.com/track/3giJAslwDu6NiMDb45hJgs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Welcome to the Nordic queendom of pop.
 
-84 songs - 4 hr 17 min
+85 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [For The Show](https://open.spotify.com/track/5wc1w2XdoMEUz9IxEalzO7) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [For The Show](https://open.spotify.com/album/4GDuQ03hhnpE0JeQyVkXf3) | 2:50 | 2024-02-08 |  |
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2024-02-08 |  |
 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 | 2024-02-08 |  |
+| [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2024-02-08 |  |
 | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q) | 3:44 | 2024-02-08 |  |
 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 | 2024-02-08 |  |
 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 | 2024-02-08 |  |
@@ -80,7 +81,7 @@
 | [SMOKE](https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SMOKE](https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6) | 3:24 | 2024-02-08 |  |
 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 | 2024-02-08 |  |
 | [Summer Rain](https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Summer Rain](https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B) | 2:42 | 2024-02-08 |  |
-| [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2024-02-08 |  |
+| [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2024-02-08 | 2024-08-03 |
 | [Sweet Night](https://open.spotify.com/track/7tyrBwLtspTksCyt8SDaXe) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Sweet Night](https://open.spotify.com/album/6QLBGQ4KS63WbtUbeNive8) | 3:58 | 2024-02-08 |  |
 | [Talk To Me](https://open.spotify.com/track/0ZnElXbF0geNJvnZJfl5wo) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Spinning Around](https://open.spotify.com/album/7eae6QcOQ7yyIa2YI4jwNS) | 2:56 | 2024-02-08 |  |
 | [That Guy](https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [That Guy](https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z) | 2:34 | 2024-02-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 
 > Easy listening pop that feels sunny wherever you are
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,101 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,422 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 32 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
 | 33 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 34 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
-| 35 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
-| 36 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 |
-| 37 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
+| 35 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
+| 36 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
+| 37 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 |
 | 38 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 | 39 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 40 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 48 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
 | 49 | [You Got It](https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 3:30 |
 | 50 | [I'm Alive](https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day Has Come](https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ) | 3:30 |
-| 51 | [Amber](https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [From Chaos](https://open.spotify.com/album/3TRn4uDntIyJV3bnu2Mnn1) | 3:26 |
-| 52 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
+| 51 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
+| 52 | [Amber](https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [From Chaos](https://open.spotify.com/album/3TRn4uDntIyJV3bnu2Mnn1) | 3:26 |
 | 53 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
 | 54 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
 | 55 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 71 | [Sunshine & Whiskey](https://open.spotify.com/track/6aNwDe5YH5YUPlpHkku52w) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [Sunshine & Whiskey](https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof) | 3:02 |
 | 72 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 73 | [Everywhere](https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:34 |
-| 74 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
-| 75 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
+| 74 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
+| 75 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 
 Snapshot ID: `ZpFmQAAAAACr2z5BweBaYIu/uheuNn3o`

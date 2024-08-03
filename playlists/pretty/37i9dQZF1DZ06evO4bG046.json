@@ -1,29 +1,13 @@
 {
-  "description": "This is Los Jaivas\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 33231,
+  "description": "This Is Los Jaivas. Los temas esenciales, todos en una lista.",
+  "num_followers": 33239,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABppmk7z9xeT/a7uZem6rYy",
+  "snapshot_id": "ZqrQAAAAAABurRCggNndVpc0DlJimc66",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alturas de Macchu Picchu",
-        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 286506,
-      "name": "Sube a Nacer Conmigo Hermano",
-      "url": "https://open.spotify.com/track/0gWHg31biasRElqCjQ8RuM"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 296693,
       "name": "Hijos de la Tierra",
       "url": "https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 286506,
+      "name": "Sube a Nacer Conmigo Hermano",
+      "url": "https://open.spotify.com/track/0gWHg31biasRElqCjQ8RuM"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 306026,
-      "name": "Violeta Ausente",
-      "url": "https://open.spotify.com/track/2QrqeZRrMHhj8POCWHDYyQ"
+      "duration_ms": 209800,
+      "name": "Debajo de las Higueras",
+      "url": "https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 209800,
-      "name": "Debajo de las Higueras",
-      "url": "https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL"
+      "duration_ms": 306026,
+      "name": "Violeta Ausente",
+      "url": "https://open.spotify.com/track/2QrqeZRrMHhj8POCWHDYyQ"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hijos de la Tierra",
-        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 270200,
-      "name": "En el Tren a Paisand\u00fa",
-      "url": "https://open.spotify.com/track/62Ul4vrKeJB2aDhJ6WSZU8"
+      "duration_ms": 181573,
+      "name": "Huairuro",
+      "url": "https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 181573,
-      "name": "Huairuro",
-      "url": "https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg"
+      "duration_ms": 270200,
+      "name": "En el Tren a Paisand\u00fa",
+      "url": "https://open.spotify.com/track/62Ul4vrKeJB2aDhJ6WSZU8"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Run Run Se Fue Pa'l Norte",
-      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Volant\u00edn",
         "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 202000,
       "name": "Que o la Tumba Ser\u00e1s",
       "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Run Run Se Fue Pa'l Norte",
+      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 309048,
-      "name": "En la Cumbre de un Cerro",
-      "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
         "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 309048,
+      "name": "En la Cumbre de un Cerro",
+      "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si T\u00fa No Est\u00e1s",
         "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
       },
@@ -631,6 +631,42 @@
       "duration_ms": 225093,
       "name": "Si T\u00fa No Est\u00e1s",
       "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Macha y el Bloque Depresivo",
+        "url": "https://open.spotify.com/album/0xgXqrSz4tx4uapKr46R5J"
+      },
+      "artists": [
+        {
+          "name": "Macha Y El Bloque Depresivo",
+          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
+        },
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 158640,
+      "name": "Verguenza Ajena",
+      "url": "https://open.spotify.com/track/6ljLiWQXbJjPElG0p6U1s4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
+        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 276886,
+      "name": "P\u00e1jaro Errante (En Vivo) - 2024 Remasterizado",
+      "url": "https://open.spotify.com/track/25kgsjn8FoXusT6TO9HIRQ"
     },
     {
       "added_at": null,
@@ -667,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
-        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 276886,
-      "name": "P\u00e1jaro Errante (En Vivo) - 2024 Remasterizado",
-      "url": "https://open.spotify.com/track/25kgsjn8FoXusT6TO9HIRQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obras de Violeta Parra",
         "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
       },
@@ -715,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Arrebol",
-      "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
         "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
       },
@@ -743,6 +747,22 @@
       "duration_ms": 337793,
       "name": "Como Tus R\u00edos Te Recorren (En Vivo) - 2024 Remasterizado",
       "url": "https://open.spotify.com/track/6bmUW30tjqsBbWJAVaezuH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
     },
     {
       "added_at": null,
@@ -807,22 +827,6 @@
       "duration_ms": 388800,
       "name": "Tan Lejos del Sol",
       "url": "https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Ma\u00f1ana Me Voy Pa'l Norte",
-      "url": "https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4"
     }
   ],
   "unique_name": "This Is Los Jaivas",

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-977 songs - 2 day 15 hr 40 min
+978 songs - 2 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Just Before The Morning](https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Just Before The Morning](https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x) | 3:34 | 2022-10-14 | 2023-01-28 |
 | [Kar BaGehenom](https://open.spotify.com/track/4I1daBNLCY7VkklsYcemRp) | [Autarkic](https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ) | [Kar BaGehenom](https://open.spotify.com/album/3VIjyNLrIRmhQ6yZexXHv2) | 4:12 | 2021-04-02 | 2022-04-21 |
 | [Karmadame](https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:44 | 2021-06-04 | 2022-04-16 |
+| [kazekage](https://open.spotify.com/track/6tx0CNndKStm6UqbMpqFA7) | [Mesita](https://open.spotify.com/artist/0Y4MvL6mOliZEB5uTLlX9z) | [kazekage](https://open.spotify.com/album/7GIiYgFMk4169GKIEg1yUT) | 3:28 | 2024-08-02 |  |
 | [Keep in Line](https://open.spotify.com/track/45FKtXcNaJVtbfCumiUHHe) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Keep in Line](https://open.spotify.com/album/0k5jwmJHT4lsTT9tatZ807) | 3:39 | 2021-04-02 | 2022-04-21 |
 | [Keep It Buried](https://open.spotify.com/track/11G2LLH4uKTLVgDTsHTvCm) | [Sam Jr.](https://open.spotify.com/artist/70i6mCDJ5pvhYoJThIi4lO) | [Keep It Buried](https://open.spotify.com/album/169QLR0vEStVt1QXNO6pe5) | 5:07 | 2022-03-08 | 2022-06-25 |
 | [Keep On Dreamin'](https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Keep On Dreamin'](https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5) | 4:26 | 2022-10-14 | 2023-03-07 |

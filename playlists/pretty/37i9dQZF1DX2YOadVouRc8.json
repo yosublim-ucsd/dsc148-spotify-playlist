@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 26088,
+  "num_followers": 26123,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Outside / Obaa Sima",
-        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Obaa Sima",
-      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Bad Boy Etiquette 102: Continuous Assessment",
         "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 235102,
       "name": "Last Week",
       "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Outside / Obaa Sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Obaa Sima",
+      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Isibuko (Deluxe)",
         "url": "https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 276000,
       "name": "Typhoon (feat. Sastii, LaCabra, Lowfeye, Blue Papi)",
       "url": "https://open.spotify.com/track/0tIDIj46MoZhTuU7lPw4qD"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 93099,
-      "name": "X",
-      "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
       },
@@ -1047,22 +1031,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Love Garden",
-        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
+        "name": "X",
+        "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 150765,
-      "name": "Love Garden",
-      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
+      "duration_ms": 93099,
+      "name": "X",
+      "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1079,6 +1059,26 @@
       "duration_ms": 176720,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Love Garden",
+        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 150765,
+      "name": "Love Garden",
+      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Celine Dion",
-        "url": "https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 189701,
-      "name": "Celine Dion",
-      "url": "https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 200869,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Celine Dion",
+        "url": "https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 189701,
+      "name": "Celine Dion",
+      "url": "https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 147363,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "The Messenger",
         "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 177727,
       "name": "Higher Powers",
       "url": "https://open.spotify.com/track/2XcjvBNRpj2ZwRrlco3pvF"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/6ergz4yx0HdT7FQnuEtxor"
+      },
+      "artists": [
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "duration_ms": 140963,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/70PaIwmNlnNjR3xBFgdiY0"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/6hM1d9cytmykFu0qpQ7JpV"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 156004,
       "name": "Piano",
       "url": "https://open.spotify.com/track/2R6eV26pSgLz2yV5dfgzLL"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/6ergz4yx0HdT7FQnuEtxor"
-      },
-      "artists": [
-        {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        }
-      ],
-      "duration_ms": 140963,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/70PaIwmNlnNjR3xBFgdiY0"
     },
     {
       "added_at": "2024-08-02 00:01:00",

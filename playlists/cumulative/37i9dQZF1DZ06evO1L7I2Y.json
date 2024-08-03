@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
+  "description": "This is N.I.N.A. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is N.I.N.A",
   "tracks": [
     {
@@ -643,6 +643,32 @@
     },
     {
       "album": {
+        "name": "PLASMA",
+        "url": "https://open.spotify.com/album/6v535oNr1rj96cFrYGIiSL"
+      },
+      "artists": [
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "PG 400",
+          "url": "https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174861,
+      "name": "MEC",
+      "url": "https://open.spotify.com/track/0vXztPiti2BXzryaC9YxqU"
+    },
+    {
+      "album": {
         "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
         "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
       },
@@ -1144,6 +1170,36 @@
       "duration_ms": 234090,
       "name": "Respeito \u00c9 Pra Quem Tem - Sabotage 50",
       "url": "https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d"
+    },
+    {
+      "album": {
+        "name": "Revoada",
+        "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
+      },
+      "artists": [
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
+        },
+        {
+          "name": "Xandy MC",
+          "url": "https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195447,
+      "name": "Revoada",
+      "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
     },
     {
       "album": {

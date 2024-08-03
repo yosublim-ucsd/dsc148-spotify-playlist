@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 407136,
+  "num_followers": 407244,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -323,26 +323,6 @@
     {
       "added_at": "2024-08-01 16:00:00",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
-    },
-    {
-      "added_at": "2024-08-01 16:00:00",
-      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 157202,
       "name": "SOS (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5"
+    },
+    {
+      "added_at": "2024-08-01 16:00:00",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
     },
     {
       "added_at": "2024-08-01 16:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-08-01 16:00:00",
       "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
-      },
-      "artists": [
-        {
-          "name": "Anton Powers",
-          "url": "https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc"
-        },
-        {
-          "name": "Redondo",
-          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
-        }
-      ],
-      "duration_ms": 168991,
-      "name": "Make Your Move",
-      "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
-    },
-    {
-      "added_at": "2024-08-01 16:00:00",
-      "album": {
         "name": "Let Me Hold You (Turn Me On)",
         "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 162425,
       "name": "Let Me Hold You (Turn Me On)",
       "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
+    },
+    {
+      "added_at": "2024-08-01 16:00:00",
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
+      },
+      "artists": [
+        {
+          "name": "Anton Powers",
+          "url": "https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc"
+        },
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        }
+      ],
+      "duration_ms": 168991,
+      "name": "Make Your Move",
+      "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
     },
     {
       "added_at": "2024-08-01 16:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-08-01 16:00:00",
       "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur"
-    },
-    {
-      "added_at": "2024-08-01 16:00:00",
-      "album": {
         "name": "Split (Only U)",
         "url": "https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd"
       },
@@ -1063,6 +1043,30 @@
       "duration_ms": 256640,
       "name": "Split (Only U)",
       "url": "https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY"
+    },
+    {
+      "added_at": "2024-08-01 16:00:00",
+      "album": {
+        "name": "Cali Dreams (feat. The Beach)",
+        "url": "https://open.spotify.com/album/3Naa1Xkn2NqzQ9ER1X6lTc"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "The Beach",
+          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+        }
+      ],
+      "duration_ms": 221463,
+      "name": "Cali Dreams (feat. The Beach)",
+      "url": "https://open.spotify.com/track/4S5uBAB6Jl4IsMzwBpt2Rf"
     }
   ],
   "unique_name": "EDM Samplings",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s\. Cover: Peter Cetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,619 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,689 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 23 | [The End Of The Innocence](https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:15 |
 | 24 | [Into The Night](https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc) | [Benny Mardones](https://open.spotify.com/artist/6ZalUpnU8HaHSjROM92Txw) | [Never Run Never Hide](https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m) | 4:31 |
 | 25 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
-| 26 | [Trouble](https://open.spotify.com/track/04ijIUVdT4Qy1SBWFUPROY) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Law and Order](https://open.spotify.com/album/38UhlwlFmxKBRVCUdaY21m) | 3:56 |
-| 27 | [I Don't Want to Live Without You](https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 3:57 |
+| 26 | [I Don't Want to Live Without You](https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 3:57 |
+| 27 | [Trouble](https://open.spotify.com/track/04ijIUVdT4Qy1SBWFUPROY) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Law and Order](https://open.spotify.com/album/38UhlwlFmxKBRVCUdaY21m) | 3:56 |
 | 28 | [Second Chance](https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Rock & Roll Strategy](https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX) | 5:04 |
 | 29 | [Just as I Am](https://open.spotify.com/track/20WC5ZN72x0552U3EwCalR) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Air Supply](https://open.spotify.com/album/5BzC8cPHDqQYgPmc1TAo2t) | 4:44 |
 | 30 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 39 | [I Gotta Try](https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:55 |
 | 40 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
 | 41 | [The Last Worthless Evening](https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:02 |
-| 42 | [Casablanca](https://open.spotify.com/track/3oNUvyuV0HDwvIQvn7Qa8g) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [Just Another Day in Paradise](https://open.spotify.com/album/0EVRwTd2fEIgupTxZTcWRN) | 4:34 |
-| 43 | [Got a Hold on Me](https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 3:52 |
-| 44 | [More Than I Can Say \- Remastered](https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Living In A Fantasy](https://open.spotify.com/album/7fjKXnW6bvlKkVzt6x2sZW) | 3:40 |
+| 42 | [More Than I Can Say \- Remastered](https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Living In A Fantasy](https://open.spotify.com/album/7fjKXnW6bvlKkVzt6x2sZW) | 3:40 |
+| 43 | [Casablanca](https://open.spotify.com/track/3oNUvyuV0HDwvIQvn7Qa8g) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [Just Another Day in Paradise](https://open.spotify.com/album/0EVRwTd2fEIgupTxZTcWRN) | 4:34 |
+| 44 | [Got a Hold on Me](https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 3:52 |
 | 45 | [Missing You](https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [The Very Best Of Dan Fogelberg](https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm) | 4:05 |
 | 46 | [I Just Can't Let Go](https://open.spotify.com/track/5K27xdI3aPGoyXnxdcan82) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:52 |
 | 47 | [Livin' It Up](https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:21 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 71 | [Anywhere You Run To](https://open.spotify.com/track/6IfZke0ETxtKM0zz5kTyIT) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 3:50 |
 | 72 | [Hometown](https://open.spotify.com/track/6icn5WumyUJN7o8RBz0RQU) | [Michael Ruff](https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI) | [Once In a Lifetime](https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf) | 4:32 |
 | 73 | [All Right \- 2019 Remaster](https://open.spotify.com/track/0DtJ6l10vlXET3UGZv8rMV) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page \(2019 Remaster\)](https://open.spotify.com/album/3GkUmzCpICEFZ7sZRiHdBV) | 4:18 |
-| 74 | [Free Fallin' \- Remastered](https://open.spotify.com/track/1G74Lm4hwR8bkUXTwKKbBb) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Street Corner Heroes](https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t) | 5:00 |
+| 74 | [Brooklyn Girls \- Remastered](https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Street Corner Heroes](https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t) | 3:25 |
 | 75 | [Heart \(Stop Beating In Time\)](https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [World Radio](https://open.spotify.com/album/1iB6NP7ZJjzG7unciVIbCx) | 4:40 |
 
 Snapshot ID: `Zow4+QAAAAC+88dFO6vmzsx7buTV7H5j`

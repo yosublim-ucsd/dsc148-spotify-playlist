@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Childish Gambino",
+  "description": "Music for your soul. Cover: Moses Sumney",
   "name": "BUTTER",
   "tracks": [
     {
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 211289,
       "name": "Audacia",
       "url": "https://open.spotify.com/track/4fV92hlZKGsmAcDmZsVYTt"
@@ -2581,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "Mid Spiral",
+        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326240,
+      "name": "Best Left Unsolved - Bonus Track",
+      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/5lSZDlee460BlD3kLj9RHg"
       },
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 196303,
       "name": "Better - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3qOT3q3BIc4ZR4lqfGmboE"
@@ -6770,7 +6788,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 207526,
       "name": "Enjoy The Ride",
       "url": "https://open.spotify.com/track/1vdEi8eTMGQd1TBOFYTPeE"
@@ -10469,6 +10487,24 @@
     },
     {
       "album": {
+        "name": "Sophcore",
+        "url": "https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
+    },
+    {
+      "album": {
         "name": "High Beams",
         "url": "https://open.spotify.com/album/0Z3dnKulGDg97zHhomkppb"
       },
@@ -13467,6 +13503,46 @@
     },
     {
       "album": {
+        "name": "The Mind",
+        "url": "https://open.spotify.com/album/5V0Nqn3w1C11avw7i8UhQ8"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        },
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226574,
+      "name": "Little Things (feat. Yaya Bey)",
+      "url": "https://open.spotify.com/track/7eUxbqEPlbf9rccIDDOy5D"
+    },
+    {
+      "album": {
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
+    },
+    {
+      "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/6VO0kbsASYzqsleTf3pKN5"
       },
@@ -13791,6 +13867,24 @@
     },
     {
       "album": {
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/04IS7MIusxRYUsuecyTqVR"
+      },
+      "artists": [
+        {
+          "name": "Alain Clark",
+          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207982,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ"
+    },
+    {
+      "album": {
         "name": "Love Like This Before - Spotify Studio Oyster Recording",
         "url": "https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH"
       },
@@ -13940,7 +14034,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 202573,
       "name": "Lucid Girl",
       "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
@@ -19008,7 +19102,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 203434,
       "name": "Roots And Culture - Single Edit",
       "url": "https://open.spotify.com/track/28dy2L5xdYN9o2iGiUsPWS"
@@ -21652,6 +21746,24 @@
       "duration_ms": 181432,
       "name": "Stuck in a Daze",
       "url": "https://open.spotify.com/track/3bb6w6inP0cBXJHwHhFQwK"
+    },
+    {
+      "album": {
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/3s9qt4NcKngSm7VPXiePfO"
+      },
+      "artists": [
+        {
+          "name": "RC AVENUE",
+          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "STYLE",
+      "url": "https://open.spotify.com/track/5IGpfCdiMkLhJEN9hU8WYo"
     },
     {
       "album": {

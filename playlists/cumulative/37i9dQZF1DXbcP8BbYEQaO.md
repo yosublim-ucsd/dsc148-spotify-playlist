@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-677 songs - 1 day 14 hr 5 min
+678 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Kissing In the Cold](https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Kissing In the Cold](https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA) | 3:54 | 2024-04-19 |  |
 | [Know Me](https://open.spotify.com/track/2KPBSnz8n5lXYXkLauQXa9) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Know Me](https://open.spotify.com/album/6cDPAUnbS6SSY1T8meA0h1) | 3:46 | 2020-10-13\* | 2021-06-19 |
 | [LA Hallucinations](https://open.spotify.com/track/4MtbYFVMUsmr37KA52ZMN0) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 3:04 | 2022-04-16 | 2024-01-20 |
+| [Labyrinth](https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Labyrinth](https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy) | 3:08 | 2024-08-02 |  |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2020-10-13\* | 2021-06-19 |
 | [Last Resort](https://open.spotify.com/track/07wivlC2H97wjBNswKZPhy) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Last Resort](https://open.spotify.com/album/0jNyhEzqg91y2CpcR3Hw1q) | 2:51 | 2024-01-26 | 2024-02-17 |
 | [last time](https://open.spotify.com/track/0UzJ1IVUONAqNSvrLDHz3I) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Sitting at the Kids Table](https://open.spotify.com/album/42DhJfcMoofwzhUQ2WKzBb) | 3:13 | 2020-10-13\* | 2021-12-04 |
@@ -545,7 +546,7 @@
 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 | 2022-03-25 | 2023-01-14 |
 | [Sometimes](https://open.spotify.com/track/2ObEl8XMk6XQIPGFZwAQa9) | [Cajsa Siik](https://open.spotify.com/artist/0YoNeQ5nyDVM6lRAhnzvk8) | [Sometimes](https://open.spotify.com/album/5QcY7Mu7dY9PeFRtKwNc8b) | 4:03 | 2022-12-16 | 2023-01-21 |
 | [sorry](https://open.spotify.com/track/7EcUaKyjR0WlujOxkpUxh1) | [Hanniou](https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT) | [sorry](https://open.spotify.com/album/2FgOGpo1bbhTUmfUUdUrrr) | 2:34 | 2022-05-16 | 2022-06-24 |
-| [Stand Back](https://open.spotify.com/track/3MZexS7gY85ivYKaW6Lahf) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Stand Back](https://open.spotify.com/album/4WISihDJet0G4fl0mekEzI) | 4:33 | 2024-05-24 |  |
+| [Stand Back](https://open.spotify.com/track/3MZexS7gY85ivYKaW6Lahf) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Stand Back](https://open.spotify.com/album/4WISihDJet0G4fl0mekEzI) | 4:33 | 2024-05-24 | 2024-08-03 |
 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 | 2020-11-18 | 2021-02-19 |
 | [Stay](https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Stay](https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy) | 2:52 | 2022-04-29 | 2023-09-23 |
 | [Stay The Night \- Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Clarity \(Deluxe\)](https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy) | 3:37 | 2021-06-26 | 2021-07-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: Nick Cave
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,907 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,229 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 14 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 15 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
 | 16 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 |
-| 17 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
-| 18 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 |
+| 17 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 |
+| 18 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 19 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
 | 20 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 |
 | 21 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 25 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
 | 26 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
 | 27 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
-| 28 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
-| 29 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
+| 28 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
+| 29 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 30 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
 | 31 | [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 |
 | 32 | [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 51 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 |
 | 52 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
 | 53 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
-| 54 | [A Message to You Rudy \- 2015 Remaster](https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:52 |
-| 55 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
+| 54 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
+| 55 | [A Message to You Rudy \- 2015 Remaster](https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:52 |
 | 56 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:20 |
 | 57 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 |
 | 58 | [Plug in Baby](https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:38 |

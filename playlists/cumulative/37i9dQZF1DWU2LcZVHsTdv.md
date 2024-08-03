@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-244 songs - 14 hr 58 min
+245 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [No Prayer Like Mama's](https://open.spotify.com/track/4ePJLYgmBBBcUaUEzKpDOk) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [No Prayer Like Mama's](https://open.spotify.com/album/085BMJh3MhylH0fHuet6Fe) | 2:41 | 2023-02-10 |  |
 | [Ol' Church Hymn](https://open.spotify.com/track/6YlQYcJCm0XLkpA3flcbaD) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Ol' Church Hymn](https://open.spotify.com/album/0WNfWSVgvNxqD2OYbWdOvA) | 3:31 | 2022-09-30 |  |
 | [One More Hallelujah](https://open.spotify.com/track/6HnxFNElDrHCClUAofO62l) | [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [One More Hallelujah](https://open.spotify.com/album/2rdif8xIfOoZxACrvrvCy3) | 4:12 | 2021-12-10 |  |
+| [Only Jesus For My Pain \(feat\. Franni Rae\)](https://open.spotify.com/track/0eijsNezWwvX3PP8ryy1u9) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Franni Rae](https://open.spotify.com/artist/2cCLNv3sEiVfczqal2Skxg) | [Only Jesus For My Pain \(feat\. Franni Rae\)](https://open.spotify.com/album/5BXHLeZnAuAlsag0sPPpPi) | 2:59 | 2024-08-02 |  |
 | [Outskirts of Heaven](https://open.spotify.com/track/2B8a2NDUrIGYzrb1JbhBdk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Outskirts of Heaven](https://open.spotify.com/album/01h48bHLP7QXPSUcpUdj1z) | 4:04 | 2021-12-10 |  |
 | [Outskirts of Heaven](https://open.spotify.com/track/5J3jB1IKglDvEu0WRsOcq5) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/1gJBFIxt0YT2v7kZWq99Rs) | 4:04 | 2023-10-20 | 2024-04-19 |
 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 | 2022-07-15 | 2023-11-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > 2014 highlights from the home of indie music\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,978 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,059 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 85 | [Harlem](https://open.spotify.com/track/573latfTMO7SpGtStVrQx5) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 2:43 |
 | 86 | [She Treats Me Well](https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:17 |
 | 87 | [Best Friend](https://open.spotify.com/track/7tvOve5IkjYenvqScZ75iQ) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:27 |
-| 88 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
+| 88 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:08 |
 | 89 | [Someone New](https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:41 |
-| 90 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:08 |
+| 90 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
 | 91 | [Holding on for Life](https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [After the Disco](https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf) | 3:56 |
 | 92 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 |
 | 93 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |

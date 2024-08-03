@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,007 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,160 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 10 | [My Immortal \- Band Version](https://open.spotify.com/track/6MvGz9TuT9exMFmd6PoNso) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI) | 4:33 |
 | 11 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 |
 | 12 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 |
-| 13 | [With Arms Wide Open](https://open.spotify.com/track/0eKyHwckh9vQb8ncZ2DXCs) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 4:34 |
+| 13 | [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 |
 | 14 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/2lXHg7BtTNoP39AezyCSfL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0) | 3:16 |
-| 15 | [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 |
+| 15 | [With Arms Wide Open](https://open.spotify.com/track/0eKyHwckh9vQb8ncZ2DXCs) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 4:34 |
 | 16 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
 | 17 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 |
 | 18 | [Raise Your Horns](https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:18 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 68 | [Roman Sky](https://open.spotify.com/track/1cS6bhx9h565rLO0HuDtgu) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd) | 5:00 |
 | 69 | [Wasted Years](https://open.spotify.com/track/2JG2OmmwZ5x2RkX0uR5w4k) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr) | 4:07 |
 | 70 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
-| 71 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 |
-| 72 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
+| 71 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
+| 72 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 |
 | 73 | [St\. Marie](https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:27 |
 | 74 | [You](https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy) | 3:32 |
 | 75 | [Things My Father Said](https://open.spotify.com/track/2ZceU5sfgcH5h7bIsFuuXT) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Folklore and Superstition](https://open.spotify.com/album/43qxerasfPdTnMQbXX6TVb) | 3:53 |

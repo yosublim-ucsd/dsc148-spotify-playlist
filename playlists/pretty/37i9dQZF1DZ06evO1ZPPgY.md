@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,904 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,924 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 40 | [Which Way is Up](https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 5:42 |
 | 41 | [No I'm Never Gonna Give Ya Up \- Instrumental](https://open.spotify.com/track/14AC4CVxgXOMvf558rQI3U) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 4:27 |
 | 42 | [The Right Night](https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:05 |
-| 43 | [Oh Love, Well We Finally Made It](https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 3:54 |
+| 43 | [You're The First, The Last, My Everything \- Live](https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye) | [Peter Sterling Radcliffe](https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg), [Tony Sepe](https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Pavarotti \- The Greatest Hits](https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4) | 4:27 |
 | 44 | [Staying Power](https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 6:10 |
-| 45 | [You're The First, The Last, My Everything \- Live](https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye) | [Peter Sterling Radcliffe](https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg), [Tony Sepe](https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Pavarotti \- The Greatest Hits](https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4) | 4:27 |
+| 45 | [Oh Love, Well We Finally Made It](https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 3:54 |
 | 46 | [Standing In The Shadows Of Love](https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 5:23 |
 | 47 | [Put Me In Your Mix \- Single Version](https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Gold](https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa) | 4:30 |
 | 48 | [Sha La La Means I Love You](https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 7:32 |
 | 49 | [The Erotic Garden \- After Hours Version Of Secret Garden](https://open.spotify.com/track/0gFPNhlNSgWj3O7J07zyAF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Unlimited](https://open.spotify.com/album/6Rnik7astHNQkf29K7Ktua) | 8:52 |
 | 50 | [I Can't Believe You Love Me](https://open.spotify.com/track/3Yqv3fzCx7M5Hs4kKtX7aS) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 10:21 |
 
-Snapshot ID: `Zql+gAAAAABC2B1bj3Aae9r9eZEUmWBf`
+Snapshot ID: `ZqrQAAAAAAByAjxeAFD/KbiSfAEQwul1`

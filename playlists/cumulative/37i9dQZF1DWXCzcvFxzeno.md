@@ -2,9 +2,9 @@
 
 ### [Hard Techno](https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno)
 
-> 😈 welcome to the rave 😈  Cover: Sara Landry
+> 😈 welcome to the rave 😈  Cover: Indira Paganotto
 
-149 songs - 12 hr 17 min
+151 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 |  |
 | [introvert problems](https://open.spotify.com/track/7HWpCIF5sfiTcO8DOEp0bg) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [pyrocbs](https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ) | 3:51 | 2024-04-09 | 2024-05-14 |
 | [Les kassos](https://open.spotify.com/track/58JZ6rp2DWa5HbKwhneAs3) | [Darktek](https://open.spotify.com/artist/6KjX86OwTOcAlbcVNVcjsh) | [Fuck Off](https://open.spotify.com/album/2X2NdphQiFadhokXq1VqdK) | 4:07 | 2024-04-09 | 2024-05-03 |
+| [Let's go](https://open.spotify.com/track/64o22Tm6YLaHqEwXbWYqZp) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 2:26 | 2024-08-02 |  |
 | [Levada](https://open.spotify.com/track/4jyL6lRVTyh2j67ObJ0EUH) | [Sopik](https://open.spotify.com/artist/0uiVxrM68v5NoVFPQshjtm) | [Levada](https://open.spotify.com/album/79rTwf4jIYHIRhLmat4q7Y) | 5:16 | 2024-06-18 |  |
 | [Limbo](https://open.spotify.com/track/1X1FUGCW2OWcjFRwfL9G56) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Limbo](https://open.spotify.com/album/438pm70Wvf2G88ZnI9C7Zl) | 4:52 | 2024-06-06 |  |
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 |  |
@@ -101,10 +102,11 @@
 | [Obey](https://open.spotify.com/track/0cwMgUiZ3AMIbSBdWKUGmR) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Obey](https://open.spotify.com/album/6mjQBhpD1wm0s3G9oqg0TZ) | 3:39 | 2024-06-28 |  |
 | [Oh My God!](https://open.spotify.com/track/3irLlLh1uTben95eKdEALc) | [Luca Agnelli](https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq) | [Oh My God!](https://open.spotify.com/album/67SRi5JCLpYvM9GaKDsFWS) | 6:07 | 2024-05-02 |  |
 | [On Da Beat](https://open.spotify.com/track/1BxspcCWrxFVu3HJ4SDAnn) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [Dissonne](https://open.spotify.com/artist/6vgIOdboTHh9hQ5P1iza14) | [On Da Beat](https://open.spotify.com/album/2PJf1l8rN5AP4MXDi5VTDu) | 5:06 | 2024-05-22 |  |
-| [Peer Pressure](https://open.spotify.com/track/0rCCdYPJO7N2vYWQihflBh) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Incoming](https://open.spotify.com/album/4iFbFjCa3Kc4zS6tkQ9dbO) | 6:10 | 2024-04-09 |  |
+| [Peer Pressure](https://open.spotify.com/track/0rCCdYPJO7N2vYWQihflBh) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Incoming](https://open.spotify.com/album/4iFbFjCa3Kc4zS6tkQ9dbO) | 6:10 | 2024-04-09 | 2024-08-03 |
 | [Phiom Enhah](https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Rik1](https://open.spotify.com/album/4gC5qeoacwAk63tLRB518u) | 5:31 | 2024-04-09 | 2024-06-14 |
 | [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 | 2024-04-17 |
 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 | 2024-04-09 |  |
+| [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 |  |
 | [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-05 |  |
 | [Profiler](https://open.spotify.com/track/2tjv041ykwK3QzDLE4AalM) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [R009](https://open.spotify.com/album/65B1Fmg0fpHhJmcpnQbSLD) | 6:08 | 2024-04-09 | 2024-07-15 |
 | [Psychotic Mind](https://open.spotify.com/track/6O3Aqqdc4IaSGwNWIfV8bN) | [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Psychotic Mind](https://open.spotify.com/album/2RqwbCQR1obP0cIQTkcbRW) | 5:15 | 2024-04-09 | 2024-06-17 |
@@ -116,7 +118,7 @@
 | [Ready \- Hard Techno Mix](https://open.spotify.com/track/0w3uKrQXk948YwATI7yUbd) | [Roentgen Limiter](https://open.spotify.com/artist/3XhTxLHKPhZrFuBdqmoc2L) | [Ready](https://open.spotify.com/album/5cxJyi502VfvaHBbZqKzOG) | 6:12 | 2024-04-09 |  |
 | [Real Lies](https://open.spotify.com/track/2gPgg1kOJ3LJZQwwKVCRhh) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Real Lies](https://open.spotify.com/album/1l2mHtjSxVp0BgTlMWugZW) | 5:27 | 2024-04-09 |  |
 | [Reverse Bitch](https://open.spotify.com/track/0X5SKepXgvauLJRWxS004t) | [BRÅWN](https://open.spotify.com/artist/6ZCwFfoR1cUmb4KR7mPGLt) | [FIRE SERIES Vol\. 2](https://open.spotify.com/album/1CspkKn0omUXfsqzcGnHkN) | 5:46 | 2024-04-09 |  |
-| [Rock & Roll And More Techno](https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [HARD\-CORE VA](https://open.spotify.com/album/59N8rHXJBjNtWo3Mhfuu93) | 5:53 | 2024-04-19 |  |
+| [Rock & Roll And More Techno](https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [HARD\-CORE VA](https://open.spotify.com/album/59N8rHXJBjNtWo3Mhfuu93) | 5:53 | 2024-04-19 | 2024-08-03 |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-04-09 |  |
 | [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 |  |
 | [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 |  |

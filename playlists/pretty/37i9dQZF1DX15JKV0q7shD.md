@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 
 > Those quintessential sad songs that everyone knows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,980 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,041 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 | 61 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 62 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 |
 | 63 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
-| 64 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 |
-| 65 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
+| 64 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
+| 65 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 |
 | 66 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
-| 67 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 |
-| 68 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
+| 67 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
+| 68 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 |
 | 69 | [A Drop in the Ocean](https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Bedroom Demos](https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm) | 3:40 |
 | 70 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 71 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 |

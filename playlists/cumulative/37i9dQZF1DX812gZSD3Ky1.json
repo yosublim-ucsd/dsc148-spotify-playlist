@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e23\u0e27\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e2a\u0e38\u0e14\u0e2e\u0e34\u0e15 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. The latest hits & viral tracks right now. Cover: Post Malone, Luke Combs",
+  "description": "\u0e23\u0e27\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e2a\u0e38\u0e14\u0e2e\u0e34\u0e15 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. The latest hits & viral tracks right now. Cover: Rangga Jones",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 152891,
       "name": "BAD4US",
       "url": "https://open.spotify.com/track/1CqGRxs4nQsbMVCuiPOgjX"
@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
+    },
+    {
+      "album": {
         "name": "choose u everytime",
         "url": "https://open.spotify.com/album/6M5xJWRZwxY6zbZSMqi7RV"
       },
@@ -306,6 +324,24 @@
       "duration_ms": 193105,
       "name": "coming home",
       "url": "https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni"
+    },
+    {
+      "album": {
+        "name": "covent garden",
+        "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "covent garden",
+      "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
     },
     {
       "album": {
@@ -360,6 +396,28 @@
       "duration_ms": 199133,
       "name": "Dangerously",
       "url": "https://open.spotify.com/track/3qonjOrhFCfTnaaMruHzxW"
+    },
+    {
+      "album": {
+        "name": "Dirty (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173361,
+      "name": "Dirty (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
     },
     {
       "album": {
@@ -664,7 +722,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 192000,
       "name": "Getting No Sleep",
       "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
@@ -743,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Grieving",
+        "url": "https://open.spotify.com/album/4C3JSLCk8UVhA1kUtjdU2k"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259466,
+      "name": "Grieving",
+      "url": "https://open.spotify.com/track/6g35sGpaj86cez2KwB4BNn"
+    },
+    {
+      "album": {
         "name": "Ground",
         "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
       },
@@ -754,10 +830,32 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182093,
       "name": "Ground",
       "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
+    },
+    {
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
     },
     {
       "album": {
@@ -798,6 +896,24 @@
       "duration_ms": 164011,
       "name": "Guy For That (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
+    },
+    {
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
       "album": {
@@ -903,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Infatuated",
+        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226714,
+      "name": "Infatuated",
+      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -932,10 +1066,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 229477,
       "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+    },
+    {
+      "album": {
+        "name": "KNEW IT",
+        "url": "https://open.spotify.com/album/6yslHTNtBuq3h32V506VLY"
+      },
+      "artists": [
+        {
+          "name": "Guiitarima",
+          "url": "https://open.spotify.com/artist/5bjTbW3SokvyaTObxfuJqd"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "KNEW IT",
+      "url": "https://open.spotify.com/track/6yiTqPoI5v9VqgoiYFDIp6"
     },
     {
       "album": {
@@ -1189,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "MOLLY",
+        "url": "https://open.spotify.com/album/55JNFgRaT0CFt5FxCOFnJF"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294922,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/0MS4GCNXVfBTaAnJOHE3zI"
+    },
+    {
+      "album": {
         "name": "moon & stars",
         "url": "https://open.spotify.com/album/6Hr5d75EQeHRSFU9tUQtjS"
       },
@@ -1380,7 +1550,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -1438,7 +1608,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161119,
       "name": "Oh Shhh...(with Travis Scott)",
       "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
@@ -1482,7 +1652,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -1782,7 +1952,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 255636,
       "name": "Show Pony",
       "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
@@ -1876,7 +2046,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -2134,6 +2304,24 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "album": {
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
     },
     {
       "album": {
@@ -2562,7 +2750,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6xXCn7H2Yl8SDD6jxo5SpN"

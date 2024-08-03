@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Lenin Ram\u00edrez. Los temas esenciales, todos en una lista.",
+  "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
   "name": "This Is Lenin Ram\u00edrez",
   "tracks": [
     {
@@ -1718,10 +1718,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 250368,
       "name": "Otro Perdedor",
       "url": "https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO"
+    },
+    {
+      "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250368,
+      "name": "Otro Perdedor",
+      "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Luck Ra x Chayanne
+> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Camila
 
-807 songs - 1 day 19 hr 9 min
+808 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [Por Fin Me Enamoré](https://open.spotify.com/track/4toLD6NYoiUgljszuA7V3y) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Por Fin Me Enamoré](https://open.spotify.com/album/2PAEc8QtznTrkRvVT6P4SU) | 3:36 | 2022-02-02 | 2023-05-26 |
 | [Por La Forma En Que Me Miras](https://open.spotify.com/track/4UfehNZcYmHX8ctXwiOB89) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Por La Forma En Que Me Miras](https://open.spotify.com/album/7y3u55UCDkR0Naaq2A0Xir) | 3:13 | 2023-09-01 | 2024-07-03 |
 | [Por las Noches \- Remix](https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Por las Noches \(Remix\)](https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG) | 3:42 | 2023-02-27 | 2023-06-08 |
+| [Por Si Me Vuelves a Querer](https://open.spotify.com/track/1rBeu1vaULdjMNOBa7JerW) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Regresa](https://open.spotify.com/album/4LMUMQt5TC9rXcXLaQoFNb) | 3:38 | 2024-08-02 |  |
 | [Posdata:](https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Posdata:](https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk) | 2:49 | 2024-05-31 |  |
 | [PRADAX](https://open.spotify.com/track/2qrZpvfxSgXu7JXxYCj3Ka) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:19 | 2023-10-20 | 2024-07-03 |
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-06-03 | 2023-06-03 |

@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 164733,
       "name": "BULLET",
       "url": "https://open.spotify.com/track/5CwWPLxLSeqiWmUHWyEB3z"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 224214,
       "name": "Cold Case",
       "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
@@ -2524,6 +2524,24 @@
       "duration_ms": 193846,
       "name": "Crumbling",
       "url": "https://open.spotify.com/track/0LrNlyjutQwOTcxjNThoYW"
+    },
+    {
+      "album": {
+        "name": "Before I Die",
+        "url": "https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149465,
+      "name": "Crushing Me",
+      "url": "https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF"
     },
     {
       "album": {
@@ -4377,6 +4395,28 @@
     },
     {
       "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/07mZ6oncw878QflCLVHf9I"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        },
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213970,
+      "name": "Got It Made",
+      "url": "https://open.spotify.com/track/3W6bXivdg6fd9ikAgf2OhV"
+    },
+    {
+      "album": {
         "name": "Gotta Let It Go",
         "url": "https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb"
       },
@@ -5592,6 +5632,24 @@
       "duration_ms": 246453,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/0wVvRocrqgG7UcWahuDEHE"
+    },
+    {
+      "album": {
+        "name": "Jawbreaker",
+        "url": "https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok"
     },
     {
       "album": {
@@ -9432,7 +9490,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 217944,
       "name": "Stillpoint",
       "url": "https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix"
@@ -9540,7 +9598,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 172478,
       "name": "Stupefied",
       "url": "https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp"
@@ -10589,6 +10647,24 @@
     },
     {
       "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/1roHtRGrqUxxo2XJXZRgcI"
+      },
+      "artists": [
+        {
+          "name": "Heart to Gold",
+          "url": "https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175244,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/41rglBViSOxBlWVyH6YtL4"
+    },
+    {
+      "album": {
         "name": "to me",
         "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
       },
@@ -10694,6 +10770,24 @@
       "duration_ms": 196922,
       "name": "Tramlines",
       "url": "https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM"
+    },
+    {
+      "album": {
+        "name": "Transcendental Dreaming",
+        "url": "https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG"
+      },
+      "artists": [
+        {
+          "name": "Liotta Seoul",
+          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Transcendental Dreaming",
+      "url": "https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ"
     },
     {
       "album": {
@@ -11374,7 +11468,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 201429,
       "name": "Wish - Single Edit",
       "url": "https://open.spotify.com/track/1vrKw05rycZ1HBRLT1QHPL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,835 likes - 82 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,887 likes - 82 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 32 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 33 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 |
 | 34 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
-| 35 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
-| 36 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 |
+| 35 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 |
+| 36 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 37 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 38 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
 | 39 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |
 | 40 | [Lost On You](https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Lost On You](https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY) | 3:15 |
 | 41 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
-| 42 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
-| 43 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
+| 42 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
+| 43 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 44 | [Beat of My Heart](https://open.spotify.com/track/44fTa1co7zmof732liprRg) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Tides](https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk) | 3:35 |
 | 45 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |
 | 46 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 62 | [Little Boy](https://open.spotify.com/track/19LehejAStoSf4Hj3Tim1M) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 3:53 |
 | 63 | [Wandered Away](https://open.spotify.com/track/2jEeajNK4i658NEy0O4706) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 3:45 |
 | 64 | [Moment in Time](https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 2:47 |
-| 65 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 66 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
+| 65 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
+| 66 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 | 67 | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY) | [Bluey Thomas](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO) | 3:22 |
 | 68 | [Like I Used To \- Acoustic Version](https://open.spotify.com/track/53GeeseR2mm7yjGIJCNvvq) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To \(Acoustic Version\)](https://open.spotify.com/album/7uHg8PgXRvRgrzSscVAZ6M) | 4:01 |
 | 69 | [Breakin' Ground](https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Breakin' Ground](https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl) | 3:04 |

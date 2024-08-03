@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Daniela Spalla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,706 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,726 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 47 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/7sa6E5h8yXMbK50kBDB91x) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 |
 | 48 | [CLASSICO](https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [CLASSICO](https://open.spotify.com/album/1uJhaFnc580OWUORK9HJpG) | 3:01 |
 | 49 | [Lovelove U](https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Lovelove U](https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv) | 2:55 |
-| 50 | [Tal Vez](https://open.spotify.com/track/6CRHtMHEjyGThYeEXaLnGX) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Tal Vez](https://open.spotify.com/album/72Mxn5ixOwOyOYLfWUMWhG) | 2:46 |
+| 50 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 |
 
 Snapshot ID: `ZqO76gAAAACt82cyDzx0rpkI65E913Oe`

@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Darlin' Baby",
+        "url": "https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265413,
+      "name": "Darlin' Baby",
+      "url": "https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR"
+    },
+    {
+      "album": {
         "name": "Dawns (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
       },
@@ -2910,7 +2928,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 175423,
       "name": "First Light",
       "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 279198,
       "name": "He Called Me Baby",
       "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
@@ -3790,7 +3808,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 299500,
       "name": "How's It Gonna End",
       "url": "https://open.spotify.com/track/52ragJVFPFGkPG2T8ivE8p"
@@ -4620,6 +4638,24 @@
       "duration_ms": 126378,
       "name": "Lay Down Girl",
       "url": "https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE"
+    },
+    {
+      "album": {
+        "name": "Leaving It All Behind",
+        "url": "https://open.spotify.com/album/2OuXdGAqua8nb18g64KnXu"
+      },
+      "artists": [
+        {
+          "name": "Cuff the Duke",
+          "url": "https://open.spotify.com/artist/5WzOiybWm06XimLccSeGS8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180068,
+      "name": "Leaving It All Behind",
+      "url": "https://open.spotify.com/track/6XpXDtDIvaOqVuHDthfWwK"
     },
     {
       "album": {
@@ -8506,6 +8542,24 @@
       "duration_ms": 141746,
       "name": "With You",
       "url": "https://open.spotify.com/track/1WoAQ1TRwi47BqUTt5hLNV"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/4XOJb1TmbZGoEYccHZtImE"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219684,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7oCpK9tIb7AYWq1ZEINJwY"
     },
     {
       "album": {

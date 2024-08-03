@@ -603,6 +603,52 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Altamira #32 - Uma Tarde de Agosto",
+        "url": "https://open.spotify.com/album/6hbQIykNIP8ovSWjQE2EHb"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/72YwnRQOnQKDuPBLvaU8Uo"
+        },
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        },
+        {
+          "name": "\u00c9ffe",
+          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
+        },
+        {
+          "name": "Lionel",
+          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
+        },
+        {
+          "name": "Andy",
+          "url": "https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551250,
+      "name": "Ac\u00fastico altamira #32 - Uma Tarde de Agosto",
+      "url": "https://open.spotify.com/track/6quqK7J4kBwjgIYyVFulM7"
+    },
+    {
+      "album": {
         "name": "Ac\u00fastico Altamira #8 - Leonina",
         "url": "https://open.spotify.com/album/6NAEOYIRfDpCN5zAICeJ8y"
       },

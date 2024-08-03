@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Problem Child
 
-347 songs - 19 hr 2 min
+348 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Catching Feelings](https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [In My Feelings](https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF) | 3:07 | 2022-08-18 | 2023-07-12 |
 | [Cheers to Life](https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [We Muzik \(Soca 2016 Trinidad and Tobago Carnival\), Vol\. 7](https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW) | 3:38 | 2023-02-21 | 2024-07-25 |
 | [Cheers to Life \(Soca 2016 Trinidad and Tobago Carnival\)](https://open.spotify.com/track/06EIb21a68sdHTsKBvkKpT) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [Cheers to Life \(Soca 2016 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/3TSHDuFiOyx49FinzyXPQm) | 3:36 | 2023-08-11 | 2024-04-19 |
-| [Chutney Steam](https://open.spotify.com/track/6zogiKH1DjIxgX8UzqbCSq) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Tempa](https://open.spotify.com/artist/464FYjDR479Kkym3Fhb19g), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Chutney Steam](https://open.spotify.com/album/5HsRCQEgsFLQt8CVTvIWx2) | 2:16 | 2024-07-24 |  |
+| [Chutney Steam](https://open.spotify.com/track/6zogiKH1DjIxgX8UzqbCSq) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Tempa](https://open.spotify.com/artist/464FYjDR479Kkym3Fhb19g), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Chutney Steam](https://open.spotify.com/album/5HsRCQEgsFLQt8CVTvIWx2) | 2:16 | 2024-07-24 | 2024-08-03 |
 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 | 2021-08-26 |  |
 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 | 2023-05-15 |  |
 | [Coming Back Fuh Yuh](https://open.spotify.com/track/0btmu6nRf1fFcwAipBj9B6) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Hot Sun Riddim](https://open.spotify.com/album/3pPDSVI0PB9SZPpAiRLqw5) | 2:28 | 2022-08-18 | 2023-02-22 |
@@ -163,6 +163,7 @@
 | [I Need](https://open.spotify.com/track/1e9mLK4LXUPkomLzZwBAUg) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Cabana Riddim](https://open.spotify.com/album/7LLEj0e1mEmemyJs2RAFsJ) | 4:07 | 2022-08-18 | 2023-02-22 |
 | [I Need](https://open.spotify.com/track/2KNonQR1uZ4F9lkZIO3c3C) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Cabana Riddim](https://open.spotify.com/album/2cUIR4WKQ1LC5mGPKCYJPy) | 4:07 | 2022-08-18 | 2022-10-05 |
 | [In the Water](https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42) | [Suhrawh](https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL), [Chow Minister](https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM) | [In the Water](https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo) | 2:39 | 2023-05-15 |  |
+| [Instruction 2](https://open.spotify.com/track/7kvWtJnWrqxaIYc8Ydvr38) | [DEEJAY ASAP](https://open.spotify.com/artist/6gS3aG5pHWfSNTNnmgbyvy) | [Instruction 2](https://open.spotify.com/album/0DaEvN8WyTxy74wNvZZFpe) | 1:39 | 2024-07-24 |  |
 | [Issa Snack](https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [The Art of Flex](https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL) | 3:03 | 2023-05-15 | 2023-07-12 |
 | [Jelly](https://open.spotify.com/track/4U5pcsopVSZq6BXCdgH9Uk) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Jelly](https://open.spotify.com/album/1KnpGxfiGrfTlN3YOCk9Do) | 3:01 | 2022-08-18 | 2022-11-13 |
 | [Jelly](https://open.spotify.com/track/006mLMXWKbv6RrHGTWpY3f) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/6KohWNMUynz1OcxilOEFrh) | 3:01 | 2022-02-24 | 2022-10-05 |

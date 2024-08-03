@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades do pop nacional pra te deixar mais leve! Foto: Sophi, Anna Pêgo
+> Novidades do pop nacional pra te deixar mais leve! Foto: Gabriela
 
-657 songs - 1 day 8 hr 36 min
+659 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Anjo ou Mulher](https://open.spotify.com/track/5eyNyhKJARZvv1jdtzd5mR) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/02G0M9OAq48KLDJ06m6eRU) | 2:45 | 2022-05-13 | 2022-07-29 |
 | [Ano Que Vem](https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Ano Que Vem](https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl) | 2:59 | 2022-12-09 | 2023-03-25 |
 | [Aonde Eu Aperto Pra Voltar](https://open.spotify.com/track/2XBrtjxK2u5pcFXPfA8kzF) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [World, Vol\. 3](https://open.spotify.com/album/46yoelkmItoAKBPjdfoXjH) | 3:00 | 2022-08-01 | 2022-08-06 |
+| [Aonde quer que eu vá](https://open.spotify.com/track/0VHkTxEsIg0Jsa71est8gk) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Aonde quer que eu vá](https://open.spotify.com/album/4zwiaQH7Lrc3SkTRW6vMZn) | 3:19 | 2024-08-02 |  |
 | [Apressa](https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Apressa](https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ) | 2:35 | 2024-06-14 |  |
 | [Aquarela](https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Já ouviu falar de amor?](https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov) | 2:59 | 2023-02-03 | 2023-04-09 |
 | [Ar da Sua Graça](https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Ar da Sua Graça](https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig) | 3:26 | 2023-06-30 | 2023-08-26 |
@@ -63,6 +64,7 @@
 | [As Viagens Inimagináveis de Priska](https://open.spotify.com/track/3AZQGrhcQMegphm79hMgt8) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [As Viagens Inimagináveis de Priska](https://open.spotify.com/album/4jyLacgXK5jTHmMk0EQ2vM) | 2:59 | 2022-12-30 | 2023-01-28 |
 | [Atalaia](https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl) | [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Atalaia](https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q) | 3:12 | 2023-01-27 | 2023-07-22 |
 | [Até Envelhecer](https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Até Envelhecer](https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O) | 2:57 | 2023-11-06 | 2024-05-18 |
+| [Até o Topo do Mundo](https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF) | [Gabriela](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM) | [Gabriela](https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9) | 2:45 | 2024-08-02 |  |
 | [Autoescola](https://open.spotify.com/track/38RdJm43LRcoWuGCnccbjy) | [DFONNSO](https://open.spotify.com/artist/1wd9IiAXbROc1j9woj6yOR), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Autoescola](https://open.spotify.com/album/1tNR1h6w1J8fHcjQRjZvSS) | 2:33 | 2022-05-13 | 2022-06-04 |
 | [Azul](https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Azul](https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu) | 3:27 | 2024-03-08 | 2024-07-06 |
 | [Azul \- Ao Vivo](https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Melly No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK) | 3:03 | 2023-01-27 | 2023-02-04 |
@@ -244,7 +246,7 @@
 | [Farol](https://open.spotify.com/track/0SrAGHP33iQgFzzCB1ceLF) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Farol](https://open.spotify.com/album/4buQP1YVIhqVBBpyQPhGN5) | 3:09 | 2022-09-23 | 2022-10-15 |
 | [Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl) | 3:48 | 2022-12-02 | 2023-08-19 |
 | [Faz Frio Aqui no Sul](https://open.spotify.com/track/13CbrA1hFYQE7gJUcLY99L) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk) | [Faz Frio Aqui no Sul](https://open.spotify.com/album/0H6AIKJCX6yj8NCnM9qaNS) | 2:48 | 2022-08-05 | 2022-09-03 |
-| [Febre \- Ao Vivo](https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Sorte \(Ao Vivo / EP02\)](https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU) | 3:02 | 2024-06-28 |  |
+| [Febre \- Ao Vivo](https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Sorte \(Ao Vivo / EP02\)](https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU) | 3:02 | 2024-06-28 | 2024-08-03 |
 | [feitiço](https://open.spotify.com/track/6SB9mfvH0SoT3qoRbeOTlL) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [feitiço](https://open.spotify.com/album/2rbpZj8PRp8yCBRVwd04vY) | 3:02 | 2022-10-21 | 2022-11-12 |
 | [Feito A Maré](https://open.spotify.com/track/45LVLF9D3NnQLgRxfAjae7) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Se o Meu Peito Fosse o Mundo](https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO) | 3:12 | 2024-03-15 | 2024-05-18 |
 | [Fez a Onda](https://open.spotify.com/track/4vSzL8GxdWV26bVKYz8mNG) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Fez a Onda](https://open.spotify.com/album/4BGxB5IuRAB2zdizcNWwbU) | 2:35 | 2023-08-25 | 2023-09-23 |
@@ -401,7 +403,7 @@
 | [O quanto eu gosto de você\. \(feat\. Clarissa\)](https://open.spotify.com/track/6Rt0yn8luPG73Yp7yiESyc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [O quanto eu gosto de você\. \(feat\. Clarissa\)](https://open.spotify.com/album/12PaS2qZIHeuwWbL6owjQl) | 2:45 | 2022-05-13 | 2022-06-04 |
 | [O Que Eu Devia Ter Vivido](https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Frágil](https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U) | 2:25 | 2023-04-21 | 2024-03-30 |
 | [o que seria se...](https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [o que seria se...](https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH) | 2:26 | 2024-07-26 |  |
-| [O que é teu te encontra](https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [O que é teu te encontra](https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn) | 2:31 | 2024-07-12 |  |
+| [O que é teu te encontra](https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [O que é teu te encontra](https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn) | 2:31 | 2024-07-12 | 2024-08-03 |
 | [O Tempo](https://open.spotify.com/track/7BVjbg62Tc0AVTGzzO3t36) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [O Tempo](https://open.spotify.com/album/6YzWKAyU0OqSDVTb6OBJw3) | 2:29 | 2023-09-22 | 2023-10-29 |
 | [O Tempo É Sua Morada \- 10 AÑOS](https://open.spotify.com/track/5yEbJk7T0xTF0b87WyA3DM) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [O Tempo É Sua Morada \- 10 AÑOS](https://open.spotify.com/album/3VabbpDgkyhiRMsSt4AiHq) | 4:33 | 2023-04-21 | 2023-07-15 |
 | [O Velho e a Flor](https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [O Velho e a Flor](https://open.spotify.com/album/0UTyRrnBF6udLySAWfLBDL) | 2:41 | 2022-09-30 | 2023-01-28 |

@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-194 songs - 13 hr 50 min
+195 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Purnima ki chaand](https://open.spotify.com/track/24llUQZS9ieddJlB2k9xtR) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Purnima ki chaand](https://open.spotify.com/album/3Qq53OMuW4u0h5w4rLRKcM) | 4:37 | 2022-12-02 |  |
 | [Qalanderi](https://open.spotify.com/track/1EOrtwXZXYuZjR9ACjaxNO) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/6lPvH0V0rcrysdfNI3SStg) | 7:09 | 2022-04-04 | 2022-07-29 |
 | [Qalanderi](https://open.spotify.com/track/5yXMdFKXTuTfkMUOOLPgVa) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/2HKgEZtNG7s54IKPVKe7X0) | 7:09 | 2022-07-18 | 2023-05-27 |
+| [Raga Charukeshi 2](https://open.spotify.com/track/17d2qVvlEUCJy9mTw5PRfy) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Raga Charukeshi 2](https://open.spotify.com/album/638hlAZnu3HS99EzvyTI1E) | 5:09 | 2024-08-02 |  |
 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 | 2022-04-04 |  |
 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 | 2022-04-04 |  |
 | [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 | 2022-04-04 | 2023-01-28 |

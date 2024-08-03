@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: NAYEON\(나연\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,531 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,688 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 33 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 |
 | 34 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
 | 35 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 |
-| 36 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
-| 37 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
+| 36 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
+| 37 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
 | 38 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 |
 | 39 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
 | 40 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
@@ -89,21 +89,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 79 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 |
 | 80 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 |
 | 81 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 |
-| 82 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 |
+| 82 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 |
 | 83 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 |
 | 84 | [I NEED U \- Spotify Singles](https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I NEED U \- Spotify Singles](https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi) | 3:01 |
 | 85 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 |
-| 86 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 |
-| 87 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 |
+| 86 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 |
+| 87 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 |
 | 88 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz) | 2:55 |
 | 89 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 |
 | 90 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 |
 | 91 | [Virtual Angel](https://open.spotify.com/track/1iGNZerzZHm2GLu7k1OS3J) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS) | 2:53 |
-| 92 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 |
+| 92 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 |
 | 93 | [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 |
 | 94 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 |
-| 95 | [FINAL LOVE SONG](https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a Signal Song \(Applicants Version\)](https://open.spotify.com/album/34esSejdtngmSozv4mZCUR) | 3:17 |
-| 96 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 |
+| 95 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 |
+| 96 | [FINAL LOVE SONG](https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a Signal Song \(Applicants Version\)](https://open.spotify.com/album/34esSejdtngmSozv4mZCUR) | 3:17 |
 | 97 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
 | 98 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 |
 | 99 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 |

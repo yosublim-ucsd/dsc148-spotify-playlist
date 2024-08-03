@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-652 songs - 2 day 7 hr 56 min
+653 songs - 2 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [Who I am](https://open.spotify.com/track/3EKkd4c9b83BQh0FmCbGhu) | [Gotshell](https://open.spotify.com/artist/09uDrDm1BBwakHZgqFHrNu) | [Sintaxis EP](https://open.spotify.com/album/77dgtQw89Nj5ng8bORyiaC) | 6:33 | 2024-05-17 | 2024-07-16 |
 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/41TpvOhSCOJOHuOUggy9sv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [We Are The '80s](https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV) | 5:30 | 2023-02-10 | 2023-03-18 |
 | [Witch Coast](https://open.spotify.com/track/0pdFoGBlpk7qH2GniQWFS6) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU) | [Witch Coast](https://open.spotify.com/album/5kvklGY25433Iw37zcQxvS) | 3:43 | 2024-03-13 | 2024-04-13 |
+| [Witch Coast \- Ellen Allien Remix](https://open.spotify.com/track/5ikhM41Iy13CletkMQXEF0) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU), [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Witch Coast \(Ellen Allien Remix\)](https://open.spotify.com/album/68KZ7D5PoCiVhSIZlxx5Lt) | 4:45 | 2024-08-02 |  |
 | [Woke Up High \(On Love\)](https://open.spotify.com/track/7aLiHgzb1gNHXo9BEXcCoa) | [Insolate](https://open.spotify.com/artist/0cQjugplFeblP60eDLuHK3) | [Woke Up High \(On Love\)](https://open.spotify.com/album/3HEIHxOMsjeJDwlZH5FnKv) | 5:56 | 2024-02-23 | 2024-03-14 |
 | [Woodoo](https://open.spotify.com/track/2p0j6eOndG0Gj6DXn58hvj) | [Yanamaste](https://open.spotify.com/artist/6zRdaJArenH7DjolPTm6hY) | [Broken Dreams](https://open.spotify.com/album/4tTt3oLhHIsgWeUS8iPiU5) | 4:11 | 2024-01-19 | 2024-03-14 |
 | [Work Babe](https://open.spotify.com/track/0R2R0MCencfNOOWksvOiqH) | [Maxime Iko](https://open.spotify.com/artist/5QY234xlHidVqsa7U0iiUo) | [Earth EP](https://open.spotify.com/album/0dBzMjV8bG6G7WWAJRvrjO) | 5:19 | 2024-01-19 | 2024-03-14 |

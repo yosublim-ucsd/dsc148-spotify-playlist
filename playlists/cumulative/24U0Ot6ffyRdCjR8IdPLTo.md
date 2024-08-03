@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-288 songs - 16 hr 0 min
+290 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 | 2024-07-26 |  |
 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-10-14 | 2024-01-20 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-12-06 | 2023-08-16 |
-| [blip](https://open.spotify.com/track/3jUa8gNaETKW2Ru4iQNFDy) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [blip](https://open.spotify.com/album/7HPsarF1rEJvl7lCma3nG8) | 4:20 | 2024-04-15 |  |
+| [blip](https://open.spotify.com/track/3jUa8gNaETKW2Ru4iQNFDy) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [blip](https://open.spotify.com/album/7HPsarF1rEJvl7lCma3nG8) | 4:20 | 2024-04-15 | 2024-08-03 |
 | [Bloom](https://open.spotify.com/track/1vGFOOd7NzeCTelqswObyv) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Bloom](https://open.spotify.com/album/01Oe3NfT6v6KaaopGCIcE8) | 3:52 | 2021-12-06 | 2023-08-16 |
 | [Blue Boy](https://open.spotify.com/track/0DTdFyK7RkDQEAppGRSKyo) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Blue Boy](https://open.spotify.com/album/2bMNDxWazWChajaSXnrpdg) | 3:00 | 2023-12-04 |  |
 | [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-08-15 | 2024-01-11 |
@@ -158,6 +158,7 @@
 | [Massachusetts](https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts](https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb) | 3:38 | 2024-06-14 |  |
 | [Maybe Don't \(feat\. JP Saxe\) \- HONNE Remix](https://open.spotify.com/track/11MUf3KmUWkwGGT0nHgv7g) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Maybe Don't \(feat\. JP Saxe\) \[HONNE Remix\]](https://open.spotify.com/album/1wxjjTywtdnvsa1GCNUy1M) | 2:55 | 2021-12-06 | 2023-08-16 |
 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-08-28 | 2023-10-14 |
+| [Mentos and Coke](https://open.spotify.com/track/1vohIWnkOUnCv60Od198Ma) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Mentos and Coke](https://open.spotify.com/album/4Mk0oTQwMaQcQYSQHt08Gf) | 2:49 | 2024-08-02 |  |
 | [Midnight Freak\-Out](https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Midnight Freak\-Out](https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X) | 3:20 | 2023-08-15 |  |
 | [Miss Me Too \- Piano Version](https://open.spotify.com/track/77OA90fESjDqV9mJw5LbdG) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too \(Piano Version\)](https://open.spotify.com/album/0sVJcXlNpCjp8mednUl6dK) | 3:03 | 2024-06-07 | 2024-07-27 |
 | [Morning](https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Morning](https://open.spotify.com/album/0pro3pYtDog6bp669jZywP) | 3:01 | 2023-08-28 | 2024-06-15 |
@@ -184,12 +185,13 @@
 | [One Step Back](https://open.spotify.com/track/5qoEg8mIXDbEy6pwWZjEF0) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/2UlxAQMoQOarg3nnSkGUzF) | 3:34 | 2023-08-15 | 2023-08-29 |
 | [Only In My Mind](https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Only In My Mind](https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf) | 2:41 | 2023-10-06 | 2024-01-11 |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-12-06 | 2023-08-16 |
+| [out of your league \(but i want you so bad\)](https://open.spotify.com/track/2dtkCu5kL120SjaxDDUAz6) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [out of your league \(but i want you so bad\)](https://open.spotify.com/album/1wQRVj37kpigywws7RBID7) | 4:15 | 2024-08-02 |  |
 | [outside world](https://open.spotify.com/track/3VcMS5H8mIsV3K7mro9JfB) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [outside world](https://open.spotify.com/album/6CEfIgvkztTumJQ2A44lXz) | 2:53 | 2021-12-06 | 2023-08-16 |
 | [Over Again](https://open.spotify.com/track/54wd5JxagBtas3CQOkj0gG) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Over Again](https://open.spotify.com/album/54KrsTAKJw6AfomlrMDE6c) | 2:42 | 2024-03-08 |  |
 | [Paint My Bedroom Black](https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:49 | 2023-10-14 |  |
 | [Palm Trees](https://open.spotify.com/track/0TyTbWW4xMI6M1Q5HXs3Fj) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Palm Trees](https://open.spotify.com/album/1H4wFGIQ32WkUspkzS9TIp) | 2:47 | 2021-12-06 | 2023-08-16 |
 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 | 2021-12-06 | 2023-08-16 |
-| [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-26 |  |
+| [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-26 | 2024-08-03 |
 | [Phoebe Told Me](https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:56 | 2023-08-28 | 2024-06-15 |
 | [Pillow In My Arms](https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [ver2igo vol\. 2](https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav) | 3:16 | 2024-04-26 |  |
 | [PINKBERRY](https://open.spotify.com/track/3FBY4I6p04bFbwIWMBRBhQ) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [PINKBERRY](https://open.spotify.com/album/1NKeuqtTb9pjmSIWNTnUKB) | 2:48 | 2024-06-07 | 2024-06-15 |

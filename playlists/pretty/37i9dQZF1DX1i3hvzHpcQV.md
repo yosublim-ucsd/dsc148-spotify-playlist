@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Raayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,439 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,893 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 | 39 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 |
 | 40 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 |
 | 41 | [Private Party](https://open.spotify.com/track/5OotwkHgMpNYfsCwAOs4jP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 3:36 |
-| 42 | [Bullet Song](https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2) | 3:57 |
+| 42 | [Bullet Song \(From "The Warriorr "\)\(Tamil\)](https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Bullet Song \(From "The Warriorr "\)\(Tamil\)](https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2) | 3:57 |
 | 43 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 |
 | 44 | [Once Upon a Time](https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 2:23 |
 | 45 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 |

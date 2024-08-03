@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 187454,
       "name": "Alta Esta\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4oBK9fv1qc73cCEUnS0oYg"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -1728,6 +1728,24 @@
       "duration_ms": 204884,
       "name": "At\u00e9 ao Fim",
       "url": "https://open.spotify.com/track/0KVuFaXvgC5v4xRlSIiitI"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "album": {
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -4518,7 +4536,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -12295,6 +12313,24 @@
     },
     {
       "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -15586,7 +15622,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Mtg Forr\u00f3 e Desmantelo",
       "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
@@ -20238,7 +20274,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 300842,
       "name": "Samba de Malandro",
       "url": "https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae"

@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 11571,
+  "num_followers": 11576,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAADrl7mVKPt5zKT+7oXpwcL3",
+  "snapshot_id": "ZqrQAAAAAACB5X1K9G3/NqTnzi0cw3Ak",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Somebody Loves You - Remastered",
-      "url": "https://open.spotify.com/track/7LQlozny7nxRh3ZbtyCKlU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive & Kicking",
         "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 190531,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/1AFFq11T6bTm3R8K3bYM4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Somebody Loves You - Remastered",
+      "url": "https://open.spotify.com/track/7LQlozny7nxRh3ZbtyCKlU"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of The Best Vol. 1",
-        "url": "https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 223082,
-      "name": "Didn't I Blow Your Mind - Re-Record",
-      "url": "https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive & Kicking",
         "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 190914,
       "name": "Can't Go On Living",
       "url": "https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of The Best Vol. 1",
+        "url": "https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 223082,
+      "name": "Didn't I Blow Your Mind - Re-Record",
+      "url": "https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La-La Means I Love You",
-        "url": "https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Lying To Myself - Digitally Remastered 1997",
-      "url": "https://open.spotify.com/track/1wNKxbMVz1l1TLoZclQxKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive & Kicking",
         "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 168106,
       "name": "My New Love",
       "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La-La Means I Love You",
+        "url": "https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Lying To Myself - Digitally Remastered 1997",
+      "url": "https://open.spotify.com/track/1wNKxbMVz1l1TLoZclQxKV"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delfonics Today All Platinium",
-        "url": "https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "Strangers Again",
-      "url": "https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 140866,
       "name": "Let It Be Me - Remastered",
       "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delfonics Today All Platinium",
+        "url": "https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Strangers Again",
+      "url": "https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "Face It Girl, It's Over - Remastered",
+      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adrian Younge Presents: The Delfonics",
         "url": "https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 168853,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3XZjheXv1mkK700t7AphsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 176306,
-      "name": "Face It Girl, It's Over - Remastered",
-      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever New",
+        "url": "https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "My World Revolves Around You",
+      "url": "https://open.spotify.com/track/1Bb8niOtFuv0M07uCEDpvb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adrian Younge Presents: The Delfonics",
         "url": "https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 182306,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/2CBq0T7YKG6kQXHDxve0Q1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever New",
-        "url": "https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "My World Revolves Around You",
-      "url": "https://open.spotify.com/track/1Bb8niOtFuv0M07uCEDpvb"
     },
     {
       "added_at": null,

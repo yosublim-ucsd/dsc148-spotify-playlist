@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 62896,
+  "num_followers": 62993,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAABrciBQ99miOQQ8jBmo3VMR",
+  "snapshot_id": "ZqrQAAAAAAAaaox+7t6rf9vjMvJkL3d3",
   "tracks": [
     {
       "added_at": null,
@@ -519,26 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Las Hs",
-        "url": "https://open.spotify.com/album/3nuUwbHMx4SYAAGHtNVlCp"
+        "name": "En Acci\u00f3n",
+        "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
       },
       "artists": [
         {
-          "name": "Los Del Sombrero",
-          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
+          "name": "La Revancha RC",
+          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Arturo Coronel y el Buen Estilo",
-          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
         }
       ],
-      "duration_ms": 152090,
-      "name": "Por Las Hs",
-      "url": "https://open.spotify.com/track/1mI4LvAwTbIfQguuyK6juV"
+      "duration_ms": 158270,
+      "name": "En Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N"
     },
     {
       "added_at": null,
@@ -575,22 +571,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Acci\u00f3n",
-        "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
+        "name": "Por Las Hs",
+        "url": "https://open.spotify.com/album/3nuUwbHMx4SYAAGHtNVlCp"
       },
       "artists": [
         {
-          "name": "La Revancha RC",
-          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
+          "name": "Los Del Sombrero",
+          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Arturo Coronel y el Buen Estilo",
+          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
         }
       ],
-      "duration_ms": 158270,
-      "name": "En Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N"
+      "duration_ms": 152090,
+      "name": "Por Las Hs",
+      "url": "https://open.spotify.com/track/1mI4LvAwTbIfQguuyK6juV"
     },
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 205901,
+      "name": "El Due\u00f1o Del Palenque (En Vivo)",
+      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 180638,
       "name": "Casi se les hizo (En Vivo)",
       "url": "https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        }
-      ],
-      "duration_ms": 155991,
-      "name": "El Compa Koki (En Vivo)",
-      "url": "https://open.spotify.com/track/69778UGlmKlyVTkMkC9YvC"
     },
     {
       "added_at": null,
@@ -824,13 +824,13 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         },
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
         }
       ],
-      "duration_ms": 205901,
-      "name": "El Due\u00f1o Del Palenque (En Vivo)",
-      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
+      "duration_ms": 155991,
+      "name": "El Compa Koki (En Vivo)",
+      "url": "https://open.spotify.com/track/69778UGlmKlyVTkMkC9YvC"
     },
     {
       "added_at": null,
@@ -876,13 +876,13 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         },
         {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 118656,
-      "name": "El 50 (En Vivo)",
-      "url": "https://open.spotify.com/track/5bTY4jYz6tqdGyPIID96ke"
+      "duration_ms": 169745,
+      "name": "El Dos Letras De Jalisco (En Vivo)",
+      "url": "https://open.spotify.com/track/6HZjVABCo7kWuwnuLwCItJ"
     },
     {
       "added_at": null,
@@ -896,13 +896,13 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         },
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
         }
       ],
-      "duration_ms": 169745,
-      "name": "El Dos Letras De Jalisco (En Vivo)",
-      "url": "https://open.spotify.com/track/6HZjVABCo7kWuwnuLwCItJ"
+      "duration_ms": 118656,
+      "name": "El 50 (En Vivo)",
+      "url": "https://open.spotify.com/track/5bTY4jYz6tqdGyPIID96ke"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

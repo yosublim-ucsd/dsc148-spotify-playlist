@@ -4,7 +4,7 @@
 
 > This is The Police\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 11 min
+67 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Every Little Thing She Does Is Magic \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/25Pifu9g726ZBSsBARVati) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 4:40 | 2022-09-17 |  |
 | [Fall Out](https://open.spotify.com/track/0hAyb0O9Ft16QAjtLMRCJE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Police](https://open.spotify.com/album/0QV6T4VzyWkF1eJed2eRcP) | 2:03 | 2022-09-17 |  |
 | [Friends](https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:36 | 2022-09-17 |  |
+| [Goodbye Tomorrow](https://open.spotify.com/track/1SLmGbYOQGG4PPW109de9U) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Super Deluxe Edition\)](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 3:12 | 2024-08-03 |  |
 | [Hole In My Life](https://open.spotify.com/track/25McPIqh9oSdPSP36Gu7Jp) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 4:50 | 2022-09-17 |  |
 | [Hungry For You](https://open.spotify.com/track/6xK4wLYwSszCXsiPhOhG4I) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 2:52 | 2022-09-17 |  |
 | [I Burn For You](https://open.spotify.com/track/4vXZgd53m0p0UdFNjEbp2f) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Alternate Sequence\)](https://open.spotify.com/album/2796tQP9Fel4s4zaCX66Oo) | 3:07 | 2023-02-02 |  |

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Daun Jatuh
 
-416 songs - 1 day 3 hr 7 min
+417 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Jelita](https://open.spotify.com/track/5ypEHS0QT7YnUbfsE1ZLH3) | [Abe Lubis](https://open.spotify.com/artist/1qCmZbGisqPoeIEjFG8WeF) | [Jelita](https://open.spotify.com/album/0OmP8RjGFLxYLwPcegqvyU) | 4:48 | 2024-02-08 | 2024-03-15 |
 | [Jika Cinta Dia \- Love Recalls Version](https://open.spotify.com/track/3V2l5oSSdcna93pRw1OgQV) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Love Recalls](https://open.spotify.com/album/7hfFSGo473KD4F40JLxA9A) | 4:20 | 2024-07-04 |  |
 | [Jika Nanti](https://open.spotify.com/track/1EatXWpl3HD6QwD00urZ2W) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Jika Nanti](https://open.spotify.com/album/5UF9btLxYk31JgmJUAJERt) | 3:42 | 2024-05-23 | 2024-07-27 |
+| [Jikalau](https://open.spotify.com/track/2147Yv28iamhOzjeVLemJp) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Jikalau](https://open.spotify.com/album/0XrsEP282PTvbWhaloP5Rd) | 2:49 | 2024-08-02 |  |
 | [Jungkir Balik](https://open.spotify.com/track/7FHZjRzlzK7EYLfWNjVQG4) | [Maisha Kanna](https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw) | [Jungkir Balik](https://open.spotify.com/album/61Iqd46DegZEqa1yFwm3Dp) | 3:50 | 2024-07-25 |  |
 | [Jutaan Salah, Milyaran Maaf](https://open.spotify.com/track/2sKcTM22jfcWz5EoQxEcZU) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Jutaan Salah, Milyaran Maaf](https://open.spotify.com/album/4RKTztO3kvduH6VYaUlT2p) | 4:30 | 2024-04-11 |  |
 | [Kaji Ulang](https://open.spotify.com/track/0aJr8TCz4PONyaZZLnI8RV) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Harapan](https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77) | 3:59 | 2024-05-03 |  |

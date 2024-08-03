@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105200,
+  "num_followers": 105204,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Look Who's Laughing Now",
         "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
       },
@@ -483,38 +499,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/58UwdMAci96aMa30xLuutY"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 148898,
-      "name": "Whoops",
-      "url": "https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Y2K!",
         "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 161119,
       "name": "Oh Shhh...(with Travis Scott)",
       "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/58UwdMAci96aMa30xLuutY"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 148898,
+      "name": "Whoops",
+      "url": "https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -619,30 +619,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Tonight (D.I.Y.A)",
-        "url": "https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 181340,
-      "name": "Tonight (D.I.Y.A)",
-      "url": "https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "One Call",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 158712,
       "name": "One Call",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Tonight (D.I.Y.A)",
+        "url": "https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 181340,
+      "name": "Tonight (D.I.Y.A)",
+      "url": "https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "PASSENGER PRINCESS",
+        "url": "https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 155577,
+      "name": "PASSENGER PRINCESS",
+      "url": "https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 203211,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "PASSENGER PRINCESS",
-        "url": "https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 155577,
-      "name": "PASSENGER PRINCESS",
-      "url": "https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -875,42 +875,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 236012,
-      "name": "My Fault (feat. Noah Cyrus)",
-      "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Sweet Oblivion",
-        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 135198,
-      "name": "Sweet Oblivion",
-      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
       },
@@ -927,6 +891,26 @@
       "duration_ms": 161241,
       "name": "Reposado",
       "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 236012,
+      "name": "My Fault (feat. Noah Cyrus)",
+      "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Sweet Oblivion",
+        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 135198,
+      "name": "Sweet Oblivion",
+      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Didn't I",
         "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 170629,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "De Her Timer",
+        "url": "https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "De Her Timer",
+      "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -999,22 +1015,6 @@
       "duration_ms": 185282,
       "name": "2 The Moon",
       "url": "https://open.spotify.com/track/5fbigfxYwz6fGGxe8Py57t"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "De Her Timer",
-        "url": "https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 208934,
-      "name": "De Her Timer",
-      "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Kongen Af Danmark",
-        "url": "https://open.spotify.com/album/6D5w04x7LcIocDSvBcSrPi"
-      },
-      "artists": [
-        {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
-        },
-        {
-          "name": "Herrelandsholdet",
-          "url": "https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX"
-        }
-      ],
-      "duration_ms": 237711,
-      "name": "Kongen Af Danmark",
-      "url": "https://open.spotify.com/track/5uIy18j51mPvUhDcrGuj1p"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov"
       },
@@ -1099,6 +1079,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Kongen Af Danmark",
+        "url": "https://open.spotify.com/album/6D5w04x7LcIocDSvBcSrPi"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        },
+        {
+          "name": "Herrelandsholdet",
+          "url": "https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX"
+        }
+      ],
+      "duration_ms": 237711,
+      "name": "Kongen Af Danmark",
+      "url": "https://open.spotify.com/track/5uIy18j51mPvUhDcrGuj1p"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "So Stunning",
         "url": "https://open.spotify.com/album/77iJPDjDNyKhQdsiFBNkUy"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 138207,
       "name": "So Stunning",
       "url": "https://open.spotify.com/track/11H0FOYFDAQ2z6DUwIK5VZ"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Dead Man",
-        "url": "https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 203343,
-      "name": "Dead Man",
-      "url": "https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1151,6 +1135,38 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 203343,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Ask That God",
+        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 256381,
+      "name": "The Feeling You Get",
+      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 197062,
       "name": "The End",
       "url": "https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 188286,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Ask That God",
-        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 256381,
-      "name": "The Feeling You Get",
-      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
+      "duration_ms": 188286,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Healing (Shattered Heart)",
-        "url": "https://open.spotify.com/album/3UImWW3XpXLzF5l9VsEft5"
+        "name": "Chasing Low Vibrations",
+        "url": "https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 162051,
-      "name": "Healing (Shattered Heart)",
-      "url": "https://open.spotify.com/track/40kmaQ1Dpddc9EUuUrPMP0"
+      "duration_ms": 204111,
+      "name": "Chasing Low Vibrations",
+      "url": "https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1347,18 +1343,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Chasing Low Vibrations",
-        "url": "https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt"
+        "name": "Healing (Shattered Heart)",
+        "url": "https://open.spotify.com/album/3UImWW3XpXLzF5l9VsEft5"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 204111,
-      "name": "Chasing Low Vibrations",
-      "url": "https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB"
+      "duration_ms": 162051,
+      "name": "Healing (Shattered Heart)",
+      "url": "https://open.spotify.com/track/40kmaQ1Dpddc9EUuUrPMP0"
     },
     {
       "added_at": "2024-08-01 22:00:00",

@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Bunga Abadi",
+        "url": "https://open.spotify.com/album/3mfUQStqcygHEOJjI7nZm4"
+      },
+      "artists": [
+        {
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243038,
+      "name": "Bunga Abadi",
+      "url": "https://open.spotify.com/track/0hPIuo3qZgyjDKJTI7xu8A"
+    },
+    {
+      "album": {
         "name": "Bunga Hati",
         "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
       },

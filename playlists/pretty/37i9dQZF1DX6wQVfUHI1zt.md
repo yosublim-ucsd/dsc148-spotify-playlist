@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,930 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,966 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 93 | [Las Cadenas](https://open.spotify.com/track/6VJYwVo6MDV4h8mNfTb61Q) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:10 |
 | 94 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:21 |
 | 95 | [Con Mis Alas Rotas](https://open.spotify.com/track/6uOuVy1yGf70OJFk0RBbh5) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:36 |
-| 96 | [Perdoname](https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [FOREVER MAZZ](https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA) | 4:38 |
-| 97 | [Yo No Tengo La Culpa](https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:37 |
-| 98 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
-| 99 | [Cindy Don't Know](https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:38 |
+| 96 | [Yo No Tengo La Culpa](https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:37 |
+| 97 | [Perdoname](https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [FOREVER MAZZ](https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA) | 4:38 |
+| 98 | [Cindy Don't Know](https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:38 |
+| 99 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
 | 100 | [Traicionera](https://open.spotify.com/track/6uwFq7V0QQEENpFHFpYX4z) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:48 |
 
 Snapshot ID: `ZjMTHAAAAACJLH1DWcZcipNbpaTcpG6Q`

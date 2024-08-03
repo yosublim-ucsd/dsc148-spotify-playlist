@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 9 hr 40 min
+167 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [heat of the moment](https://open.spotify.com/track/3n4b2bshNYtMeTDLanuCzZ) | [clear eyes](https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [dreaming of flying](https://open.spotify.com/album/3ticFXs2OejMLGryhSXcrh) | 3:07 | 2024-01-29 |  |
 | [Heaven](https://open.spotify.com/track/4Kaq5ru7CS1Ci6282M3z3R) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Heaven](https://open.spotify.com/album/3srKzzEr1cxia7sxhaDPUU) | 3:42 | 2024-01-29 | 2024-02-03 |
 | [Heaven](https://open.spotify.com/track/6o49fKWmUhQTwgTacJQO1j) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Heaven](https://open.spotify.com/album/4zShiUw6Qu4ucuoxbchnAO) | 3:42 | 2024-02-02 | 2024-03-04 |
+| [Heaven](https://open.spotify.com/track/5rUfUCTCWPWOWkx5zN081i) | [jsthebg](https://open.spotify.com/artist/5ONZgilB1BdnWtMfDITKSD) | [Heaven](https://open.spotify.com/album/6SpOIcNPfOeTAkvmE2JQNB) | 3:42 | 2024-08-02 |  |
 | [Heaven](https://open.spotify.com/track/2qb3PcfItkgP49R2wXvUnM) | [Maxey Veren](https://open.spotify.com/artist/0YMggGgZElMmvoQz7gTZFY), [jsthebg](https://open.spotify.com/artist/5ONZgilB1BdnWtMfDITKSD) | [Heaven](https://open.spotify.com/album/6mluibQ80Nxg9sqCUHtZli) | 3:42 | 2024-07-17 | 2024-07-24 |
 | [Hollywood Forever](https://open.spotify.com/track/0XBLfPaacvrxbn84yo5rTO) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Hollywood Forever](https://open.spotify.com/album/6lZXJbxsk5IdnGqfHJr4RR) | 4:11 | 2024-02-02 |  |
 | [Hollywood Forever](https://open.spotify.com/track/48RzchUqmm7J1cNS6YWnAy) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Hollywood Forever](https://open.spotify.com/album/7pvDyMVvEapdrD35htTMtj) | 4:11 | 2024-01-29 | 2024-02-03 |

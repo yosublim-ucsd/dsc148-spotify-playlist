@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Benjamin Kheng
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,499 likes - 59 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,507 likes - 59 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

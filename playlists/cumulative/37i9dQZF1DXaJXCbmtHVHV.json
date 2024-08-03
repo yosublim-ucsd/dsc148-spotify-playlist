@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Top country hits you know and love! Cover: Shaboozey",
+  "description": "Top country hits you know and love! Cover: Morgan Wallen",
   "name": "Big Country",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 176371,
       "name": "Ain't Missin' You",
       "url": "https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 193972,
       "name": "Another Round",
       "url": "https://open.spotify.com/track/11VDLa4XbXDIPC6rxbpAy1"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 233573,
       "name": "Burns Like Her",
       "url": "https://open.spotify.com/track/5XT8mK0cvCkx6Sx7Z7igmI"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 225960,
       "name": "Cab In A Solo",
       "url": "https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 183087,
       "name": "Can't Have Mine (Find You A Girl)",
       "url": "https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 169293,
       "name": "Creek Will Rise",
       "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 169614,
       "name": "Easy To Miss",
       "url": "https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 165569,
       "name": "Famous Friends",
       "url": "https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 177266,
       "name": "Going, Going, Gone",
       "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Good On You",
+        "url": "https://open.spotify.com/album/4FgGirHiQSaQS5BApIploW"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Good On You",
+      "url": "https://open.spotify.com/track/4rgtVCZ85aJHX0MVPM6fjw"
+    },
+    {
+      "album": {
         "name": "TWENTY SOMETHING",
         "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
       },
@@ -2326,7 +2344,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 183026,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
@@ -2348,7 +2366,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 231832,
       "name": "half of my hometown (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
@@ -2384,7 +2402,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 219333,
       "name": "Handle On You",
       "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 190540,
       "name": "Heart They Didn't Break",
       "url": "https://open.spotify.com/track/4QzoBae05AxedOwsC8cqlh"
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 221520,
       "name": "Human",
       "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
@@ -3000,7 +3018,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 195013,
       "name": "If I Was a Cowboy",
       "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
@@ -3216,7 +3234,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 274520,
       "name": "Joy Of My Life",
       "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0"
@@ -3385,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "Lies Lies Lies",
+        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198068,
+      "name": "Lies Lies Lies",
+      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+    },
+    {
+      "album": {
         "name": "Life With You",
         "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
       },
@@ -3472,7 +3508,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 179973,
       "name": "Looking for You",
       "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
@@ -3562,7 +3598,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 173636,
       "name": "Love You Again",
       "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
@@ -3580,7 +3616,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 229626,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N"
@@ -3696,7 +3732,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 191231,
       "name": "Man Made A Bar (feat. Eric Church)",
       "url": "https://open.spotify.com/track/73zawW1ttszLRgT9By826D"
@@ -4093,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2epE1rVic0zyxzUhRUPUgc"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174347,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/4BcyEkCZwZSJvgMcAnfbsj"
+    },
+    {
+      "album": {
         "name": "Note to Self",
         "url": "https://open.spotify.com/album/4rjH55hv2qMcmmAsh3fdgN"
       },
@@ -4194,7 +4248,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 188166,
       "name": "One Bad Habit",
       "url": "https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY"
@@ -4476,7 +4530,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 183080,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
@@ -4812,7 +4866,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 200346,
       "name": "Save Me The Trouble",
       "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
@@ -4830,7 +4884,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 201440,
       "name": "Save The Roses",
       "url": "https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E"
@@ -4848,7 +4902,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 157800,
       "name": "See You Next Summer",
       "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
@@ -4888,10 +4942,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
+    },
+    {
+      "album": {
+        "name": "She's Somebody's Daughter",
+        "url": "https://open.spotify.com/album/655M0y2ab0r8OFlhkXIOc5"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "She's Somebody's Daughter",
+      "url": "https://open.spotify.com/track/7dQ9151STgBvjSxz8FM28m"
     },
     {
       "album": {
@@ -5266,7 +5338,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 164347,
       "name": "Stop Draggin' Your Boots",
       "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
@@ -5374,7 +5446,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 184786,
       "name": "Take Forever (Hally's Song)",
       "url": "https://open.spotify.com/track/3pBYIDSYwHpGMjq0nss6KZ"
@@ -5518,7 +5590,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
@@ -5637,6 +5709,24 @@
     },
     {
       "album": {
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "The Devil I Know",
+      "url": "https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7"
+    },
+    {
+      "album": {
         "name": "The Kind of Love We Make",
         "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
       },
@@ -5648,7 +5738,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 224426,
       "name": "The Kind of Love We Make",
       "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
@@ -5876,7 +5966,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 214798,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
@@ -6042,7 +6132,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 277659,
       "name": "wait in the truck (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP"
@@ -6060,7 +6150,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 178520,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
@@ -6190,7 +6280,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 188482,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS"

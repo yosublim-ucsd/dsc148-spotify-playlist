@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🪩 cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,780 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,865 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 22 | [high life](https://open.spotify.com/track/16ftnMF5RtjplE467kqhCk) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Casey Conroy](https://open.spotify.com/artist/7elB9Pjvsisg4hKILUjaUr) | [high life](https://open.spotify.com/album/6UG0eglYxGceLPXhLatZMO) | 2:53 |
 | 23 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
 | 24 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |
-| 25 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
+| 25 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
 | 26 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 |
-| 27 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
+| 27 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 28 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 |
 | 29 | [From the Subway Train](https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Angel Youth](https://open.spotify.com/album/7CESHttY9U97FElD5JAXSW) | 0:57 |
 | 30 | [I Hope to Be Around \(Live\)](https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Forever Live Sessions](https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn) | 3:46 |

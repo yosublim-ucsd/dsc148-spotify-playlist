@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Rascal Flatts
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,296 likes - 125 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,636 likes - 125 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 29 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
 | 30 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
 | 31 | [This One's for the Girls](https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:03 |
-| 32 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
+| 32 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [III](https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl) | 3:07 |
 | 33 | [Who I Am](https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:15 |
-| 34 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [III](https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl) | 3:07 |
+| 34 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
 | 35 | [Jesus, Take the Wheel](https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:46 |
 | 36 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
 | 37 | [Tim McGraw](https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:52 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 51 | [Love Story](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:55 |
 | 52 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
 | 53 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
-| 54 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 |
-| 55 | [I Wanna Talk About Me](https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:03 |
+| 54 | [I Wanna Talk About Me](https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:03 |
+| 55 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 |
 | 56 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
 | 57 | [Mississippi Girl](https://open.spotify.com/track/79YeQbd1p7MsuT7wHQLRYY) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Fireflies](https://open.spotify.com/album/7dtjpzbhRH1dc2gM0FLrqh) | 3:52 |
 | 58 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |

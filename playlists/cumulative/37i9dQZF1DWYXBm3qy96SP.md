@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Smashing Pumpkins
 
-1,375 songs - 3 day 6 hr 55 min
+1,376 songs - 3 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Always On My Mind](https://open.spotify.com/track/5YSoTfjiCDMynt1cocGIsS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Bradley Walker](https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ) | [Always On My Mind](https://open.spotify.com/album/5tDR5P1fGfzgPhaY7lvBPd) | 3:38 | 2023-09-15 | 2023-09-22 |
 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 | 2023-06-05 | 2024-01-19 |
 | [An Arrow In The Wall](https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [An Arrow In The Wall](https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz) | 4:49 | 2023-08-17 | 2023-08-25 |
-| [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11) | 3:06 | 2024-05-16 |  |
+| [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11) | 3:06 | 2024-05-16 | 2024-08-03 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-07 | 2024-02-09 |
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-14 | 2023-04-28 |
@@ -552,6 +552,7 @@
 | [High Life](https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [High Life](https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS) | 2:54 | 2023-04-20 | 2023-06-09 |
 | [History](https://open.spotify.com/track/4MWKhUasdUFoxsOc9w1Feq) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:23 | 2023-10-19 | 2023-10-27 |
 | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/621bFmNYKldPwZQExIK3VU) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/4WsKcrfETIMvKNJPnsl5KX) | 3:53 | 2023-07-20 | 2023-07-28 |
+| [Hog Calling Contest](https://open.spotify.com/track/2aDXjC0A2mnqslmeDdHIVH) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Hog Calling Contest](https://open.spotify.com/album/0plf2eqTDrtPJ2f9QeW7iH) | 3:20 | 2024-08-01 |  |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-08-24 | 2024-02-09 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-23 | 2023-07-28 |
 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 | 2024-04-04 |  |

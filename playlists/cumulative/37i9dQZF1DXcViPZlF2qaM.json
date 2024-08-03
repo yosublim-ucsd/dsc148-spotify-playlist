@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 300746,
       "name": "Guacamole",
       "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 240298,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
@@ -4305,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "Sin Aliento",
+        "url": "https://open.spotify.com/album/3c7o2ccVBJ4eKzacjuThV9"
+      },
+      "artists": [
+        {
+          "name": "Las Ponchas",
+          "url": "https://open.spotify.com/artist/5g8rxSvetiRBIXWRAdYHJG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235406,
+      "name": "Sin Aliento",
+      "url": "https://open.spotify.com/track/0ZMmWpcKSuoHU7Vi3V48xQ"
+    },
+    {
+      "album": {
         "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo y El Palmas)",
         "url": "https://open.spotify.com/album/1ADKGt7i1rGDNPjiZscJV4"
       },
@@ -5186,6 +5204,24 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "album": {
+        "name": "\u00a1Ay Mam\u00e1!",
+        "url": "https://open.spotify.com/album/5c6JTGOZKklSyxHIRdfUR7"
+      },
+      "artists": [
+        {
+          "name": "Las Ponchas",
+          "url": "https://open.spotify.com/artist/5g8rxSvetiRBIXWRAdYHJG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270181,
+      "name": "\u00a1Ay Mam\u00e1!",
+      "url": "https://open.spotify.com/track/243MOSVqjTbYwrHjTbJ7b9"
     },
     {
       "album": {

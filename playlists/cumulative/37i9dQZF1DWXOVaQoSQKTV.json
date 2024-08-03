@@ -3527,20 +3527,28 @@
     },
     {
       "album": {
-        "name": "Pushpa - The Rise",
+        "name": "Saami Saami (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu"
       },
       "artists": [
         {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
           "name": "Mounika Yadav",
           "url": "https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223961,
-      "name": "Saami Saami",
+      "name": "Saami Saami (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Bronski Beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,510 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,611 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 21 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
 | 22 | [Cruel Summer](https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Bananarama \(Collector's Edition\)](https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW) | 3:35 |
 | 23 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
-| 24 | [Kids In America](https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [Kim Wilde](https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf) | 3:25 |
-| 25 | [Enola Gay \- Remastered 2003](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 |
+| 24 | [Enola Gay \- Remastered 2003](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 |
+| 25 | [Kids In America](https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [Kim Wilde](https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf) | 3:25 |
 | 26 | [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 |
 | 27 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
 | 28 | [Love My Way](https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Forever Now](https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV) | 3:33 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 57 | [Mirror Man](https://open.spotify.com/track/52s6Ea6aSZMvPUIH0dSpk4) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Fascination!](https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc) | 3:50 |
 | 58 | [Who Needs Love Like That](https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Wonderland](https://open.spotify.com/album/5ZYUz8XDkYqiSUWdglkhtZ) | 3:17 |
 | 59 | [It's a Sin \- 2001 Remaster](https://open.spotify.com/track/6IDHh3FcwLVcG5NsmpQgg2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually](https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74) | 4:59 |
-| 60 | [Pop Muzik \- 12 Inch Version](https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0) | 4:56 |
-| 61 | [Hold Me Now](https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0) | 4:46 |
+| 60 | [Hold Me Now](https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0) | 4:46 |
+| 61 | [Pop Muzik \- 12 Inch Version](https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0) | 4:56 |
 | 62 | [Cars](https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt) | 3:58 |
 | 63 | [The Sound Of The Crowd \- Remastered 2002](https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 4:06 |
 | 64 | [West End Girls \- 2001 Remaster](https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 4:45 |

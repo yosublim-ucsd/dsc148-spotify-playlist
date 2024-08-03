@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 91787,
+  "num_followers": 91805,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpvXmwAAAACw9/pAcmCPB35pNWJfx2yh",
+  "snapshot_id": "Zq05nQAAAAB1qIlNrp8grbB3bX5iofnL",
   "tracks": [
     {
       "added_at": "2024-07-11 01:50:59",
@@ -77,24 +77,20 @@
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
-      "added_at": "2024-07-11 01:50:59",
+      "added_at": "2024-08-02 19:55:09",
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+        "name": "misa",
+        "url": "https://open.spotify.com/album/0CsMSgdBsn3V5Cz8qVQUfW"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+      "duration_ms": 141428,
+      "name": "misa",
+      "url": "https://open.spotify.com/track/0sfpzvSPMTq14wpUyIQZvQ"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -115,22 +111,22 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "1 OF 1",
-        "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -191,18 +187,22 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
+        "name": "1 OF 1",
+        "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 206611,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
+      "duration_ms": 170000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+      "duration_ms": 206611,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-07-20 15:28:27",
@@ -363,22 +363,18 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Si Me Voy (with The Mar\u00edas)",
-        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         }
       ],
-      "duration_ms": 203219,
-      "name": "Si Me Voy (with The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
     },
     {
       "added_at": "2024-07-20 15:28:27",
@@ -395,6 +391,26 @@
       "duration_ms": 159453,
       "name": "Mi Casita",
       "url": "https://open.spotify.com/track/7DwZmTFwaW6IExAyeGDKQ3"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
+        "name": "Si Me Voy (with The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 203219,
+      "name": "Si Me Voy (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Permanente",
-        "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 235044,
-      "name": "Permanente",
-      "url": "https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
         "name": "Quer\u00eda Volverte a Ver",
         "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 251760,
       "name": "Quer\u00eda Volverte a Ver",
       "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
+        "name": "Permanente",
+        "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 235044,
+      "name": "Permanente",
+      "url": "https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -907,26 +923,6 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
         "name": "En Vivo Desde Tu Nostalgia",
         "url": "https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed"
       },
@@ -943,6 +939,26 @@
       "duration_ms": 224965,
       "name": "Diez Pasos Hacia Ti - En Vivo",
       "url": "https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -995,6 +1011,22 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
+        "name": "Ni Modo",
+        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 185058,
+      "name": "Ni Modo",
+      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
         "name": "Quiero Verte Hoy",
         "url": "https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ"
       },
@@ -1011,22 +1043,6 @@
       "duration_ms": 215782,
       "name": "Quiero Verte Hoy",
       "url": "https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
-        "name": "Ni Modo",
-        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 185058,
-      "name": "Ni Modo",
-      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -1083,6 +1099,26 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
+        "name": "Hubo Algo",
+        "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 311618,
+      "name": "Hubo Algo",
+      "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -1119,22 +1155,18 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Hubo Algo",
-        "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
+        "name": "contigo me siento en casa",
+        "url": "https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 311618,
-      "name": "Hubo Algo",
-      "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
+      "duration_ms": 171725,
+      "name": "contigo me siento en casa",
+      "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -1151,22 +1183,6 @@
       "duration_ms": 209866,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
-        "name": "contigo me siento en casa",
-        "url": "https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 171725,
-      "name": "contigo me siento en casa",
-      "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Querernos Bien",
-        "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 183043,
-      "name": "Querernos Bien",
-      "url": "https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
         "name": "Recuerdos de un amor",
         "url": "https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP"
       },
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
+        "name": "Querernos Bien",
+        "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 183043,
+      "name": "Querernos Bien",
+      "url": "https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
         "name": "Ir por un Caf\u00e9",
         "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 206053,
       "name": "capturas de pantalla",
       "url": "https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
-        "name": "Autom\u00e1tico",
-        "url": "https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI"
-      },
-      "artists": [
-        {
-          "name": "Juan Solo",
-          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Autom\u00e1tico",
-      "url": "https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl"
     },
     {
       "added_at": "2024-07-11 01:50:59",

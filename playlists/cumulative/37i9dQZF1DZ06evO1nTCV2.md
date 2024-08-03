@@ -2,9 +2,9 @@
 
 ### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This Is Ryan Adams\. Sus mejores éxitos, todos en una playlist.
+> This Is Ryan Adams\. Los temas esenciales, todos en una lista.
 
-218 songs - 13 hr 20 min
+219 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Some Might Say](https://open.spotify.com/track/7x6ABBb79YOYtEAxTMzsal) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 4:08 | 2023-04-17 | 2023-07-28 |
 | [Someday](https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:09 | 2022-08-21 | 2022-10-31 |
 | [Somethings Missing](https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:17 | 2022-05-16 | 2022-10-13 |
-| [Speeding Car](https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:27 | 2024-01-04 |  |
+| [Speeding Car](https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:27 | 2024-01-04 | 2024-08-03 |
 | [Spinning Wheel](https://open.spotify.com/track/1xVQRTGM6LQJ0Ft9NIohrT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:38 | 2022-04-07 | 2022-10-13 |
 | [Stare at the TV](https://open.spotify.com/track/6MlCbqN85iGl4AIJTAQLSD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 2:44 | 2022-11-06 | 2022-12-19 |
 | [Stay With Me](https://open.spotify.com/track/58Zr6jYL2DAeKhvq40Rzcb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:06 | 2022-01-14 | 2022-10-13 |
@@ -190,6 +190,7 @@
 | [Take It Back](https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:07 | 2022-04-05 | 2023-01-13 |
 | [Talk Tonight](https://open.spotify.com/track/5swP7iGRHPoCPXwtZCHk71) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 3:37 | 2023-04-17 | 2023-07-16 |
 | [Tangled up in Blue](https://open.spotify.com/track/2JOqCLqtyB8M9yY32isEBD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 5:09 | 2023-02-11 | 2023-05-21 |
+| [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS) | 3:00 | 2024-08-03 |  |
 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 | 2022-05-16 |  |
 | [The Rescue Blues](https://open.spotify.com/track/6lUY5R9gcTIUkddQkdcjuy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 3:38 | 2022-01-11 | 2022-05-17 |
 | [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 | 2022-01-11 | 2023-12-26 |

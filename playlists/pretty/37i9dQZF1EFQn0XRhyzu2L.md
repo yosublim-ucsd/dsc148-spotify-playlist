@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,525 likes - 493 songs - 1 day 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,526 likes - 493 songs - 1 day 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -322,8 +322,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 312 | [First Time \- Acoustic Mix](https://open.spotify.com/track/5B2LFAdTSzLOPPtN7XvEEL) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [First Time \(Acoustic Mix\)](https://open.spotify.com/album/0lf6aM5jFS7Sc90TysuZ2m) | 2:13 |
 | 313 | [Merely Players \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/3Vrn7I9q2Lz7VvQNIzmuQ2) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [Niamh Wilson](https://open.spotify.com/artist/06B6LBieVFwAXZW6Tj7Lca), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:43 |
 | 314 | [Yamaguchi](https://open.spotify.com/track/39sqKM64INFaihswKF4qhy) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Unfortunately, Terror Jr](https://open.spotify.com/album/6b2KfLOzzs3nOKKaPbi47J) | 3:03 |
-| 315 | [Make You Memories](https://open.spotify.com/track/5LdinxHId6iNM13wSrgehQ) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [The Valley](https://open.spotify.com/album/73AQHzR5yXHtA71tfeX6H2) | 3:25 |
-| 316 | [Good Day To Have A Great Day](https://open.spotify.com/track/3XY1FU9onLzMYjhnuh82lZ) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Good Day To Have A Great Day](https://open.spotify.com/album/1VY1VTUW4pUigvEKOBwJex) | 3:01 |
+| 315 | [Good Day To Have A Great Day](https://open.spotify.com/track/3XY1FU9onLzMYjhnuh82lZ) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Good Day To Have A Great Day](https://open.spotify.com/album/1VY1VTUW4pUigvEKOBwJex) | 3:01 |
+| 316 | [Make You Memories](https://open.spotify.com/track/5LdinxHId6iNM13wSrgehQ) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [The Valley](https://open.spotify.com/album/73AQHzR5yXHtA71tfeX6H2) | 3:25 |
 | 317 | [Free To Fly \(feat\. Warren G\)](https://open.spotify.com/track/2BWhFlHjyvUEry2DAv77vv) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE) | [The Valley](https://open.spotify.com/album/73AQHzR5yXHtA71tfeX6H2) | 3:22 |
 | 318 | [Two Tears in a Bucket](https://open.spotify.com/track/10gyY1WZESnXfhMJmvC7YK) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:49 |
 | 319 | [Mama](https://open.spotify.com/track/016mggZAtUrDvsrEV6rMYj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:08 |
@@ -502,4 +502,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 492 | [Living A Lie](https://open.spotify.com/track/2mI14DzPxj1TZ3xIn5YQmI) | [Justin A\. G.](https://open.spotify.com/artist/5hEVcpUrC8MQdXTPv502jC) | [Here's To You, Here's To Me](https://open.spotify.com/album/1AlBjy74LvUvDCWXlgiJpb) | 2:29 |
 | 493 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AbYSXgAAAABjUmW94U6F7c9e94ni8HBx`
+Snapshot ID: `AbYX/gAAAABB2JgRoSse9rOZPyBX8XTd`

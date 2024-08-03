@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Cassandra Lewis
 
-222 songs - 13 hr 36 min
+223 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Astronaut](https://open.spotify.com/track/3SfPayPVX8gGEqfXy1easS) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/1OXboo6IkJIGk6AyFel3jM) | 3:22 | 2022-01-28 | 2022-10-14 |
 | [Astronaut](https://open.spotify.com/track/6TScLvRqvsdRx2pTL9e5Xm) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/03IH4nkQznlX4NU1j8OiC5) | 3:22 | 2022-01-28 | 2022-07-29 |
 | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/track/6m3uv1GTiJQqNIGtyXHN9W) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/album/1GW90bLLXpce59MOoYyz6B) | 3:48 | 2022-01-28 | 2023-08-26 |
+| [Backbone \(The Desert Child\)](https://open.spotify.com/track/2VbDkiirW1CqJYms2jbqPV) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone \(The Desert Child\)](https://open.spotify.com/album/2Rq8kjXYYa8XE9RWp7AnaM) | 3:31 | 2024-08-02 |  |
 | [Bad Luck Baby](https://open.spotify.com/track/7yUYp0DzDeH2Glemh1iMX5) | [Boys Club For Girls](https://open.spotify.com/artist/2kj3opKVY5zkZwEu4u7CXe) | [Bad Luck Baby](https://open.spotify.com/album/07STKss2pug4h3bHaBAESp) | 3:23 | 2023-01-20 |  |
 | [Basements](https://open.spotify.com/track/3LoD8YTXOM87GUWU7IhesV) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Basements](https://open.spotify.com/album/7f2B4dwq8gyPtytN6zFcNs) | 3:43 | 2023-09-15 |  |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2022-01-28 | 2023-01-14 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 
 > 💃🏽🕺🏼🪇🎺🪘
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,504 likes - 45 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,523 likes - 45 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Bachata](https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:42 |
-| 2 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 |
-| 3 | [Propuesta Indecente](https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:55 |
+| 2 | [Propuesta Indecente](https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:55 |
+| 3 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 |
 | 4 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 5 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 |
 | 6 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 36 | [SIN TI](https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [SIN TI](https://open.spotify.com/album/5fWYCPqDrOopoTPAPbyzDK) | 3:02 |
 | 37 | [Con Él No Soportas](https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 4:00 |
 | 38 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 |
-| 39 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
-| 40 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [La Diosa \- Los 20 Éxitos Más Pedidos](https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq) | 2:23 |
+| 39 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [La Diosa \- Los 20 Éxitos Más Pedidos](https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq) | 2:23 |
+| 40 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
 | 41 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 |
 | 42 | [CORAZÓN](https://open.spotify.com/track/1m5iV4hdnPVkiExSQe8iQS) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [CORAZÓN](https://open.spotify.com/album/4kz1PW7KXNYyfWXVzKntNP) | 2:51 |
 | 43 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |

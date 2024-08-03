@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 9795,
+  "num_followers": 9803,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAjc4iA9d6a0d0pPJA9grjw",
+  "snapshot_id": "ZqrQAAAAAAA0UcSKXihIArTxU5vt2mNN",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prayer Request",
-        "url": "https://open.spotify.com/album/4kSVYeLN9Z7918DM3JrDQp"
-      },
-      "artists": [
-        {
-          "name": "Victor AD",
-          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 193097,
-      "name": "Prayer Request",
-      "url": "https://open.spotify.com/track/0MBtpJl9D3E08t2YnTR9J4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Die (feat. Diamond Platnumz)",
         "url": "https://open.spotify.com/album/55VuLbTps49geEwrRAB0OD"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 195597,
       "name": "Love You Die (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/6BnKiK0FwqJoqCdVKh442g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prayer Request",
+        "url": "https://open.spotify.com/album/4kSVYeLN9Z7918DM3JrDQp"
+      },
+      "artists": [
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 193097,
+      "name": "Prayer Request",
+      "url": "https://open.spotify.com/track/0MBtpJl9D3E08t2YnTR9J4"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHOPLIFE (feat. Patoranking)",
-        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 213870,
-      "name": "CHOPLIFE (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confirm (feat. Davido)",
         "url": "https://open.spotify.com/album/3e9N0u3qAe6273h949AsFy"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 229013,
       "name": "Confirm (feat. Davido)",
       "url": "https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHOPLIFE (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 213870,
+      "name": "CHOPLIFE (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TONIGHT",
-        "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alagbe",
         "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 173293,
       "name": "Magbe (feat. Patoranking)",
       "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 202603,
+      "name": "Love Town",
+      "url": "https://open.spotify.com/track/2xcjNO0DriNFkGhKihOIcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sing My Name",
         "url": "https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 214769,
       "name": "Sing My Name",
       "url": "https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 202603,
-      "name": "Love Town",
-      "url": "https://open.spotify.com/track/2xcjNO0DriNFkGhKihOIcZ"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 232027,
+      "name": "G.O.E",
+      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roll On Me",
         "url": "https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ"
       },
@@ -899,38 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 232027,
-      "name": "G.O.E",
-      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 189598,
-      "name": "Yo Body",
-      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Africa Unite",
         "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 153057,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 189598,
+      "name": "Yo Body",
+      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilmer",
-        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Bera",
-          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
-        }
-      ],
-      "duration_ms": 224597,
-      "name": "Wilmer (feat. Bera)",
-      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alubarika",
         "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 235440,
       "name": "Alubarika",
       "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bera",
+          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
+        }
+      ],
+      "duration_ms": 224597,
+      "name": "Wilmer (feat. Bera)",
+      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
     },
     {
       "added_at": null,

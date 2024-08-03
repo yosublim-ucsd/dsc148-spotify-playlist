@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 387250,
+  "num_followers": 387256,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "GOLDENWEEK",
-        "url": "https://open.spotify.com/album/1S6e6usL4vviKyushy0N10"
-      },
-      "artists": [
-        {
-          "name": "MILLENNIUM PARADE",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        }
-      ],
-      "duration_ms": 200910,
-      "name": "GOLDENWEEK",
-      "url": "https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "Danger Danger",
         "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 221000,
       "name": "Danger Danger",
       "url": "https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "GOLDENWEEK",
+        "url": "https://open.spotify.com/album/1S6e6usL4vviKyushy0N10"
+      },
+      "artists": [
+        {
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        }
+      ],
+      "duration_ms": 200910,
+      "name": "GOLDENWEEK",
+      "url": "https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 222753,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
         "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
         "url": "https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 209639,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "\u521d\u604b",
         "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
       },
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
       },
       "artists": [
         {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
         }
       ],
-      "duration_ms": 222753,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u4eba\u9593\u3068\u3057\u3066",
-        "url": "https://open.spotify.com/album/4MsdAUFUgoGUJIb6r2fY2V"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "\u4eba\u9593\u3068\u3057\u3066",
-      "url": "https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "\u751f\u547d\u4f53",
         "url": "https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr"
       },
@@ -1643,6 +1611,22 @@
       "duration_ms": 226476,
       "name": "LOA",
       "url": "https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u4eba\u9593\u3068\u3057\u3066",
+        "url": "https://open.spotify.com/album/4MsdAUFUgoGUJIb6r2fY2V"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "\u4eba\u9593\u3068\u3057\u3066",
+      "url": "https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
         "name": "A24",
         "url": "https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ"
       },
@@ -1703,26 +1703,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "RISE TOGETHER",
-        "url": "https://open.spotify.com/album/15BXpNu8SXEPh9TVKse4ng"
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
       "artists": [
         {
-          "name": "Yaffle",
-          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
-        },
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        },
-        {
-          "name": "OZworld",
-          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 183426,
-      "name": "RISE TOGETHER",
-      "url": "https://open.spotify.com/track/4vGetXZZizkgXnWKWo3GkS"
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1751,22 +1743,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "Secret Idea",
         "url": "https://open.spotify.com/album/11yxJKJwnpPLHVzRwYg2YB"
       },
@@ -1783,6 +1759,30 @@
       "duration_ms": 178614,
       "name": "Secret Idea",
       "url": "https://open.spotify.com/track/2YEMCKz8DFrxL7uRVhte5r"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "RISE TOGETHER",
+        "url": "https://open.spotify.com/album/15BXpNu8SXEPh9TVKse4ng"
+      },
+      "artists": [
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        },
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        },
+        {
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "RISE TOGETHER",
+      "url": "https://open.spotify.com/track/4vGetXZZizkgXnWKWo3GkS"
     }
   ],
   "unique_name": "Tokyo Rising",

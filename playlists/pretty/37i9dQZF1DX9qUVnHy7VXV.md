@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 
 > Hit del passato e nuovi brani per la tua giornata perfetta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,332 likes - 65 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,338 likes - 65 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 | 14 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 |
 | 15 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
 | 16 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 |
-| 17 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 |
-| 18 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
+| 17 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
+| 18 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 |
 | 19 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
 | 20 | [Raze the Bar](https://open.spotify.com/track/35rrbssZ9Bqm3jk7E9uVmo) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Raze the Bar](https://open.spotify.com/album/2dgQcPmMYnsuscr2YbLQex) | 3:05 |
 | 21 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 | 31 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
 | 32 | [The Lazy Song](https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:09 |
 | 33 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
-| 34 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
+| 34 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 | 35 | [Happy Enough](https://open.spotify.com/track/1Tua5aqLPuqVHGwadvkp7D) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Happy Enough](https://open.spotify.com/album/0VyV0yUo28oTGNrIpumgWc) | 3:22 |
-| 36 | [Shake It Off](https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:39 |
-| 37 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
+| 36 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
+| 37 | [Shake It Off](https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:39 |
 | 38 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
 | 39 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
 | 40 | [Sesso e architettura](https://open.spotify.com/track/5nzQR6J5MGFe3eabdkZZL5) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Lux Eterna Beach](https://open.spotify.com/album/6z4lt8x3kYu8W3vlOLVrGP) | 3:30 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 | 61 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 |
 | 62 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 63 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 |
-| 64 | [Everybody's Changing](https://open.spotify.com/track/0yac0FPhLRH9i9lOng3f81) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:35 |
-| 65 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
+| 64 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
+| 65 | [Everybody's Changing](https://open.spotify.com/track/0yac0FPhLRH9i9lOng3f81) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:35 |
 
 Snapshot ID: `ZlnX7QAAAAAPkTGlCkchyFyoVfiosUP1`

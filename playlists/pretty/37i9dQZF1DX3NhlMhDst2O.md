@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Porque el romance nunca pasará de moda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,103 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,265 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 15 | [Con El Corazón En La Mano](https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 3:17 |
 | 16 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
 | 17 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS) | 3:19 |
-| 18 | [La Última Canción](https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [El Quinto Trago](https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du) | 4:18 |
+| 18 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
 | 19 | [Tu Última Canción](https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:22 |
 | 20 | [Yo Te Necesito](https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Yo Te Necesito](https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz) | 2:58 |
 | 21 | [Mary Es Mi Amor](https://open.spotify.com/track/7rtaRzuEKom36ZmQSmL6EB) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Triunfador de América](https://open.spotify.com/album/3ugVckz2VVhaPa5XxkFpDF) | 3:12 |
-| 22 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
+| 22 | [La Última Canción](https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [El Quinto Trago](https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du) | 4:18 |
 | 23 | [Palabras Tristes](https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh) | 3:26 |
 | 24 | [Total Que Más Da](https://open.spotify.com/track/11MzWUaZDnx9byUjJQraAy) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:18 |
 | 25 | [Murió La Flor](https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 3:22 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 50 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
 | 51 | [Hoy Te Confieso](https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:48 |
 | 52 | [Ya se va](https://open.spotify.com/track/2YHivNAfXw6rE6hdFcdCsJ) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [25 Exitos](https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo) | 2:51 |
-| 53 | [Ding Dong, Ding Dong, Estas Cosas del Amor](https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh) | 3:31 |
+| 53 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
 | 54 | [Cuando Tu Cariño](https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 2:45 |
-| 55 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
+| 55 | [Ding Dong, Ding Dong, Estas Cosas del Amor](https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh) | 3:31 |
 | 56 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 |
 | 57 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:31 |
 | 58 | [Lo que te queda](https://open.spotify.com/track/6aS1aIY9bpyYRvRRtaG5cq) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [25 Exitos](https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo) | 2:28 |

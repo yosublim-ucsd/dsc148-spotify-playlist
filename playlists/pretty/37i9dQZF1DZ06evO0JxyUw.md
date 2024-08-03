@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,909 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,943 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 19 | [Ain't No Other Man](https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:48 |
 | 20 | [Can't Hold Us Down \(feat\. Lil' Kim\)](https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:15 |
 | 21 | [Loyal Brave True](https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 2:46 |
-| 22 | [Show Me How You Burlesque \- Original Motion Picture Soundtrack](https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:59 |
-| 23 | [Just A Fool](https://open.spotify.com/track/6nS1vMV1zs8c0Lk6mud78D) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 4:13 |
+| 22 | [Just A Fool](https://open.spotify.com/track/6nS1vMV1zs8c0Lk6mud78D) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 4:13 |
+| 23 | [Show Me How You Burlesque \- Original Motion Picture Soundtrack](https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:59 |
 | 24 | [Pa Mis Muchachas \(feat\. NATHY PELUSO\)](https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Pa Mis Muchachas \(feat\. NATHY PELUSO\)](https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW) | 3:36 |
 | 25 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 |
-| 26 | [Bound To You \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 4:23 |
-| 27 | [Genio Atrapado](https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:37 |
+| 26 | [Genio Atrapado](https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:37 |
+| 27 | [Bound To You \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 4:23 |
 | 28 | [Somos Novios](https://open.spotify.com/track/0U4mdFPED6oviFgWjst8q9) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Amor \(Edición Especial En Español\)](https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA) | 4:22 |
 | 29 | [Pipe \(feat\. XNDA\)](https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [XNDA](https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:05 |
 | 30 | [The Voice Within](https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 49 | [El Mejor Guerrero \- De "Mulán"](https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [El Mejor Guerrero \(De "Mulán"\)](https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F) | 2:43 |
 | 50 | [Dreamers](https://open.spotify.com/track/4QDcjz0V5zwkkQm2TUPE8A) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 0:36 |
 
-Snapshot ID: `Zql+gAAAAABQhUc4R3bwNVJtVUjWkRwI`
+Snapshot ID: `ZqrQAAAAAAAT6kp2Y5bgdk/ss6LZ4v7D`

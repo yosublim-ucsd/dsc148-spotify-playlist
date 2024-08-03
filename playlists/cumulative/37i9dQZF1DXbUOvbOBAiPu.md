@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Charli xcx, Billie Eilish
 
-1,259 songs - 2 day 18 hr 31 min
+1,260 songs - 2 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,6 +722,7 @@
 | [Mozart's Final Rave \(Lacrimosa\)](https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [Mozart's Final Rave \(Lacrimosa\)](https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE) | 1:45 | 2024-05-09 | 2024-05-17 |
 | [Music is Better](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Music is Better](https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu) | 3:56 | 2024-06-20 | 2024-06-28 |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-16 | 2024-05-24 |
+| [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-01 |  |
 | [My Caro](https://open.spotify.com/track/7Eb39zRVX0mq7OZlIaWKlB) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [My Caro](https://open.spotify.com/album/0Ha8eet48eheYrJX4AsfFO) | 2:15 | 2024-07-04 | 2024-07-12 |
 | [My City](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 | 2024-05-16 | 2024-05-24 |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-05-31 | 2024-06-07 |

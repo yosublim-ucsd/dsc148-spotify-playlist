@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "All The Light",
+        "url": "https://open.spotify.com/album/4UPPsy8CfuUSWVt2hNQxbs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207531,
+      "name": "All The Light",
+      "url": "https://open.spotify.com/track/49q67fOFH8hDvyOIN3wtap"
+    },
+    {
+      "album": {
         "name": "All This Time Running",
         "url": "https://open.spotify.com/album/6PF9U9H1F7NNTYEd4kRuhc"
       },
@@ -1076,6 +1094,28 @@
       "duration_ms": 182655,
       "name": "Baby, You Know",
       "url": "https://open.spotify.com/track/4t5wDXWX3BwwgkqzdYieH3"
+    },
+    {
+      "album": {
+        "name": "Stampede",
+        "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212168,
+      "name": "Back At Your Door",
+      "url": "https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb"
     },
     {
       "album": {
@@ -2826,7 +2866,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 182282,
       "name": "Coyote, My Little Brother - Spotify Singles",
       "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
@@ -5328,7 +5368,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
@@ -5946,6 +5986,24 @@
       "duration_ms": 235666,
       "name": "Hard to Say Goodnight",
       "url": "https://open.spotify.com/track/763AWCvF9LLMyf4febXmFK"
+    },
+    {
+      "album": {
+        "name": "Harpy Hare",
+        "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180922,
+      "name": "Harpy Hare",
+      "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
     },
     {
       "album": {
@@ -6904,7 +6962,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 163924,
       "name": "I feel, free",
       "url": "https://open.spotify.com/track/383sYribMAExuB068eOKyj"
@@ -12151,6 +12209,24 @@
     },
     {
       "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -12364,7 +12440,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 256199,
       "name": "Saying Something",
       "url": "https://open.spotify.com/track/2lnDQ3UhWyiW74IW8IPB4Q"
@@ -12458,6 +12534,24 @@
       "duration_ms": 216118,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/0DhhIQC1QXMbV5EfUwm04g"
+    },
+    {
+      "album": {
+        "name": "Seed of a Seed",
+        "url": "https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Seed of a Seed",
+      "url": "https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx"
     },
     {
       "album": {
@@ -12580,7 +12674,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 155000,
       "name": "Sierra Vista",
       "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe"
@@ -14940,7 +15034,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 201632,
       "name": "To Your Own Devices",
       "url": "https://open.spotify.com/track/7F7tkvQTutq9Hkx4XibCj3"
@@ -16072,6 +16166,24 @@
       "duration_ms": 179409,
       "name": "What You Don\u2019t Know",
       "url": "https://open.spotify.com/track/6tp9ZObhuYqZb1lNPyMXxf"
+    },
+    {
+      "album": {
+        "name": "What\u2019s This About (La La La La)",
+        "url": "https://open.spotify.com/album/6HBrgJUaDMbHlDtCjK7K5d"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130621,
+      "name": "What\u2019s This About (La La La La)",
+      "url": "https://open.spotify.com/track/5JHKt7k6aKdfRs2flAT4je"
     },
     {
       "album": {

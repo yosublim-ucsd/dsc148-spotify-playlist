@@ -1,12 +1,12 @@
 {
-  "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 49052,
+  "description": "This is Bonnie Raitt. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 49055,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zql+gAAAAAAv5PnDI1DgmnAsOR1Q+heC",
+  "snapshot_id": "ZqrQAAAAAABxQYgqxuulAMmR1MjBiaGh",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Thank You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 192200,
       "name": "Love Me Like a Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Not Cause I Wanted To",
-      "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -847,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
       "artists": [
         {
@@ -856,9 +840,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 269600,
-      "name": "Give It Up or Let Me Go - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
+      "duration_ms": 212106,
+      "name": "Not Cause I Wanted To",
+      "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
     },
     {
       "added_at": null,
@@ -875,6 +859,22 @@
       "duration_ms": 165000,
       "name": "Louise - 2008 Remaster",
       "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 269600,
+      "name": "Give It Up or Let Me Go - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
     },
     {
       "added_at": null,

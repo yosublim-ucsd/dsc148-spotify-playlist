@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Alice.SE](https://open.spotify.com/user/megustager) - 566 likes - 483 songs - 1 day 9 hr 41 min
+[Alice.SE](https://open.spotify.com/user/megustager) - 566 likes - 485 songs - 1 day 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -491,5 +491,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 481 | [This MUSIC](https://open.spotify.com/track/1kHIcjvUVJHZzkDMTq1chO) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [This MUSIC](https://open.spotify.com/album/2ovhGLU3Nl9njlrhAWh3Ez) | 3:10 |
 | 482 | [PROBLEM](https://open.spotify.com/track/3vryPetz7HjU0ySYtFA2Df) | [SENNA](https://open.spotify.com/artist/6YpkmIr6oAhiCLebOmx2G0) | [PROBLEM](https://open.spotify.com/album/6xor6gN5vTOl1QsRqBqgXF) | 3:48 |
 | 483 | [OMG!!](https://open.spotify.com/track/7CfT8SqCcyJExv6EP63qUe) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [OMG!!](https://open.spotify.com/album/6sWViqAhegqAnCDuXWzpUR) | 2:51 |
+| 484 | [Megaton Kids](https://open.spotify.com/track/3S0GJlstXzT58xBkWHg9Bp) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Kids](https://open.spotify.com/album/1cQ7dyCnSWbsaOpu289kK3) | 3:14 |
+| 485 | [Break the Chains](https://open.spotify.com/track/4qRPdvtLWnnVSOsBXeO7U1) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Break the Chains](https://open.spotify.com/album/0xAfOT87r2RR6zaVyTPOjv) | 2:55 |
 
-Snapshot ID: `AAACQc41EIpV9mLWqfzcJvPClRAj58Dt`
+Snapshot ID: `AAACQ+bWd8OOKEMw6ednKIzBLU+Op+KK`

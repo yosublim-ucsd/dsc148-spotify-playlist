@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-483 songs - 1 day 9 hr 41 min
+485 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Bookmaker](https://open.spotify.com/track/3tCci3fv4JcH6WDSpzDesG) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [Fionaredica](https://open.spotify.com/album/6XDzzIEnhUOhtLn6MTZWGm) | 4:23 | 2021-04-19 |  |
 | [Brain Control](https://open.spotify.com/track/4Z1JKIoi0203j2QR6EzrMC) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [DEVIL'S NIGHTMARE](https://open.spotify.com/album/1WOKfBZWmMvQWTR9SOP47F) | 3:00 | 2022-11-04 |  |
 | [BREAK OUT](https://open.spotify.com/track/1FPMl6wGUAP5lbNAUjwQCp) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [BREAK OUT \-The Final\-](https://open.spotify.com/album/2WWZWSdE7qgWd3i13eg9sS) | 4:23 | 2023-05-12 |  |
+| [Break the Chains](https://open.spotify.com/track/4qRPdvtLWnnVSOsBXeO7U1) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Break the Chains](https://open.spotify.com/album/0xAfOT87r2RR6zaVyTPOjv) | 2:55 | 2024-08-02 |  |
 | [Break Through Myself](https://open.spotify.com/track/3jtvxPhq1jwbxFovHqXDQk) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3), [Risa Yuzuki](https://open.spotify.com/artist/5VGrNkixNGpKM2OBwEtHtl) | [Break Through Myself](https://open.spotify.com/album/1bFxr0caQZsLk3oIeFZ3k6) | 4:27 | 2021-05-28 |  |
 | [Break Through Myself \- Short Version](https://open.spotify.com/track/3lHwSU6ldLFnJXetcA66HN) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3), [Risa Yuzuki](https://open.spotify.com/artist/5VGrNkixNGpKM2OBwEtHtl) | [Break Through Myself](https://open.spotify.com/album/1bFxr0caQZsLk3oIeFZ3k6) | 2:25 | 2021-05-28 |  |
 | [Breaking Dawn](https://open.spotify.com/track/1UVxRCmFugNFcj5UHEOMf8) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK), [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb), [棗いつき](https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t) | [Breaking Dawn](https://open.spotify.com/album/52v2vW3JC3wJvccKuB3j8O) | 3:28 | 2022-05-13 |  |
@@ -272,6 +273,7 @@
 | [Megaton Karma](https://open.spotify.com/track/4Q0WlkmTHszxxlV8xSgRW3) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Karma](https://open.spotify.com/album/4x7j3QBrCkCq7fI4LqlMug) | 3:26 | 2021-10-01 |  |
 | [Megaton Keeper](https://open.spotify.com/track/1CtgRicif5nWA8PtHYpong) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Keeper](https://open.spotify.com/album/69EtcHr0ZoozvpmLhsRD4c) | 3:04 | 2023-11-10 |  |
 | [MEGATON KICK](https://open.spotify.com/track/0jLcvKU2TauPpTKiOgG8pf) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [SPEED BALL SUPER](https://open.spotify.com/album/1KUAAT1I2OgKPKOMh2sb4N) | 4:13 | 2019-02-03 |  |
+| [Megaton Kids](https://open.spotify.com/track/3S0GJlstXzT58xBkWHg9Bp) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Kids](https://open.spotify.com/album/1cQ7dyCnSWbsaOpu289kK3) | 3:14 | 2024-08-02 |  |
 | [Megaton Killer](https://open.spotify.com/track/0otdEPE3MQ98gu1fZa97wc) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Killer](https://open.spotify.com/album/6PUgVvPYvLssrUCSBT6DJy) | 3:29 | 2020-09-04 |  |
 | [Megaton Killer](https://open.spotify.com/track/6WtDQ3kDNVbJrEmRbFCG16) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [MEGATON KICK 2](https://open.spotify.com/album/46TuWgh4sLLat0ldTyIHlG) | 3:29 | 2021-01-12 |  |
 | [Megaton King](https://open.spotify.com/track/1Kbb3PGsRdXSjvbdLBS2UP) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [MEGATON KICK](https://open.spotify.com/album/05yKunr4J0IrbOGluLC3ui) | 3:58 | 2020-01-17 |  |

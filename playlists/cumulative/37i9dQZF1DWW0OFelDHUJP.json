@@ -1745,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "Varsaad",
+        "url": "https://open.spotify.com/album/5wHm3iHIQQd9ztInP60m20"
+      },
+      "artists": [
+        {
+          "name": "The Tapi Project",
+          "url": "https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T"
+        },
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311250,
+      "name": "Varsaad",
+      "url": "https://open.spotify.com/track/5okCpEGwcQqGBrX3EFCuba"
+    },
+    {
+      "album": {
         "name": "Waqt Ki Baatein",
         "url": "https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO"
       },

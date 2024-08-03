@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Mert Demir",
-  "num_followers": 467792,
+  "num_followers": 468308,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "Elini Ver",
-        "url": "https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN"
-      },
-      "artists": [
-        {
-          "name": "Amo988",
-          "url": "https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06"
-        }
-      ],
-      "duration_ms": 142600,
-      "name": "Elini Ver",
-      "url": "https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
         "name": "Sana El Pen\u00e7e Durmam",
         "url": "https://open.spotify.com/album/7cstnexGC8wmiP8eQJpm3j"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 211682,
       "name": "Sana El Pen\u00e7e Durmam",
       "url": "https://open.spotify.com/track/1cnx5g8kHElNAf28sV3mRJ"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
+        "name": "Elini Ver",
+        "url": "https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN"
+      },
+      "artists": [
+        {
+          "name": "Amo988",
+          "url": "https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06"
+        }
+      ],
+      "duration_ms": 142600,
+      "name": "Elini Ver",
+      "url": "https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "DOMDOM",
+        "url": "https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X"
+      },
+      "artists": [
+        {
+          "name": "Keskin",
+          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
+        }
+      ],
+      "duration_ms": 133973,
+      "name": "DOMDOM",
+      "url": "https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "Yat\u0131ya",
         "url": "https://open.spotify.com/album/2YjYHiGyyAxgX41SsmLEGl"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 201671,
       "name": "Veda T\u00fcrk\u00fcs\u00fc",
       "url": "https://open.spotify.com/track/0LbHLvawTrjNv9wRKRjTrS"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "DOMDOM",
-        "url": "https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X"
-      },
-      "artists": [
-        {
-          "name": "Keskin",
-          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
-        }
-      ],
-      "duration_ms": 133973,
-      "name": "DOMDOM",
-      "url": "https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS"
     },
     {
       "added_at": "2024-07-25 21:00:00",

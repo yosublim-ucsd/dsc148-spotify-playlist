@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "Stampede",
+        "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212168,
+      "name": "Back At Your Door",
+      "url": "https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb"
+    },
+    {
+      "album": {
         "name": "Back to You",
         "url": "https://open.spotify.com/album/4ieLgIodUv5nDX2LlRUSpe"
       },
@@ -6460,7 +6482,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 161484,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/5mwr49vu0RI3RJG8NLiJ1z"
@@ -7248,6 +7270,24 @@
       "duration_ms": 169290,
       "name": "Plain Dealing",
       "url": "https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9"
+    },
+    {
+      "album": {
+        "name": "American Son",
+        "url": "https://open.spotify.com/album/55hUNhmc66JpXUMZ3xMD8I"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203920,
+      "name": "Plastic Horses",
+      "url": "https://open.spotify.com/track/32ExqTpuJs802zScWQt209"
     },
     {
       "album": {
@@ -10208,7 +10248,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-03",
       "duration_ms": 247550,
       "name": "Western White Pines",
       "url": "https://open.spotify.com/track/2zqN6JNBQ13hRQZQMH8g3s"

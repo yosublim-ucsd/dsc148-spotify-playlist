@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Sofi Tukker
 
-941 songs - 2 day 4 hr 13 min
+942 songs - 2 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [Intersection](https://open.spotify.com/track/4PhsQ6YBW1C5PNqNniOHOU) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Intersection](https://open.spotify.com/album/73r0PS8ARH89XAyRyMhe4m) | 5:50 | 2022-01-07 | 2022-07-27 |
 | [Into Dream](https://open.spotify.com/track/39GEt8MHitZ93mBsIK9wME) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Into Dream](https://open.spotify.com/album/0cbRVDsqfp8FJttckcz1z7) | 4:35 | 2023-10-13 | 2024-07-12 |
 | [Inverse](https://open.spotify.com/track/15pTzjt4Lfw3AWon5OaJ30) | [Lokey](https://open.spotify.com/artist/3eYcOArYBlrzJ1XOLxsQSW) | [Isolation Works, Vol\. 1](https://open.spotify.com/album/7GUeWQo7aAWwqQWRQ2HYXQ) | 4:40 | 2021-10-05 | 2022-07-16 |
-| [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-25 |  |
+| [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-25 | 2024-08-03 |
 | [is that love holding strong](https://open.spotify.com/track/1HECJhuE1ddmF6jdtxeV2n) | [hhunter](https://open.spotify.com/artist/5KH7MeHHmovSJL3Muoeqiw) | [is that love holding strong / sweaty \(in da club\)](https://open.spotify.com/album/5GzulgNQkYDtXx0IIxri8Q) | 3:39 | 2023-03-17 | 2023-07-28 |
 | [Is there a place in heaven for boys like me?](https://open.spotify.com/track/0f4NbY8uXAIdxsEzJI2Waj) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Nordic Flora Series, Pt\. 6: Outlaw Music](https://open.spotify.com/album/7ib62D611ESrKymPdoeJJY) | 3:41 | 2024-04-05 |  |
 | [It Ain't Over](https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [It Ain't Over](https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya) | 3:35 | 2023-06-30 | 2024-01-13 |
@@ -612,6 +612,7 @@
 | [ode to girlhood](https://open.spotify.com/track/1L5Za6GWzAqJTlTC2wYf9N) | [klurax](https://open.spotify.com/artist/74CONfALMyKd8tbE0yiMT8) | [ode to girlhood](https://open.spotify.com/album/1BY16stCGBI3NSVivqRiXX) | 3:18 | 2021-08-25 | 2022-02-24 |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-08 | 2024-01-30 |
 | [oh, Mr DJ!!!](https://open.spotify.com/track/2E8LllpSU2FmTFbo9EKfQz) | [Shelhiel](https://open.spotify.com/artist/1YiJh4CyYHF215ak2CmoaE) | [SuperKiss: A](https://open.spotify.com/album/6AS9T4GWYPrK8BnhFkBLzw) | 3:19 | 2024-03-22 |  |
+| [ok </3](https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1) | 3:24 | 2024-08-02 |  |
 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 | 2022-07-29 | 2023-05-26 |
 | [on my own](https://open.spotify.com/track/7Lm6wV3xhU1ZRhXjejARRG) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [focus](https://open.spotify.com/album/5ZMmKV7bXG909IMbp2ezWJ) | 3:30 | 2023-09-08 | 2024-06-07 |
 | [On Your Mind](https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6) | 4:06 | 2021-07-23 | 2022-02-19 |

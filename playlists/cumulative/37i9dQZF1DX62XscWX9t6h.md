@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-197 songs - 14 hr 5 min
+198 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Cha Cha](https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Inspiration Information 3](https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP) | 4:35 | 2022-04-17 | 2024-04-19 |
 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 | 2022-11-25 |  |
 | [Chase \- Spotify Singles](https://open.spotify.com/track/3Q4TZNei1kkNAZl6ab9hgs) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:12 | 2023-07-17 | 2023-10-20 |
-| [Chez Mounir](https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:50 | 2023-07-24 |  |
+| [Chez Mounir](https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:50 | 2023-07-24 | 2024-08-03 |
 | [Chichu Burru](https://open.spotify.com/track/27Q8Qv1uatsx1Np6gZie9i) | [Humazapas](https://open.spotify.com/artist/6wfPxpKYtPyetmhXQHBPHD) | [Chichu Burru](https://open.spotify.com/album/0tzMfZ43cj7x04Rl9GALcO) | 3:35 | 2024-03-05 |  |
 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 | 2021-10-20 |  |
 | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h) | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T) | 2:38 | 2021-10-20 |  |
@@ -184,6 +184,7 @@
 | [Vaivén](https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [José Pereelanga](https://open.spotify.com/artist/7m2kK4kAhIxwRVWaoTQUjO), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-20 | 2024-07-06 |
 | [Vallahi Yok](https://open.spotify.com/track/22TIuZCNYKuuXmkA4rIY0V) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5vItyofUlifKHKLabwy3hC) | 4:37 | 2024-04-11 | 2024-04-19 |
 | [Vallahi Yok](https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf) | 4:37 | 2024-04-11 |  |
+| [Vida](https://open.spotify.com/track/5WCymp7EQYCo00B9jO37jx) | [Las Ponchas](https://open.spotify.com/artist/5g8rxSvetiRBIXWRAdYHJG) | [Vida](https://open.spotify.com/album/1FwqBdJjob5rVp1wetzXh9) | 4:38 | 2024-08-02 |  |
 | [W Boru Kalinka](https://open.spotify.com/track/1qW9yHYYXwPXCw58qjLqJN) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie) | [Wykorzenienie](https://open.spotify.com/album/1NGak9Mv3q20g05HXik7fq) | 3:29 | 2021-10-20 | 2023-11-21 |
 | [Wakangenei](https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH) | [Ankobo + Kaboo](https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6) | [Wakangenei](https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2) | 3:52 | 2021-10-20 | 2024-07-18 |
 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 | 2024-01-11 | 2024-06-06 |

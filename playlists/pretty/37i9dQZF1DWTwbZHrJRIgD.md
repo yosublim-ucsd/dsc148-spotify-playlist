@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,076 likes - 69 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,183 likes - 69 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 3 | [Hauli Hauli \(From "Khel Khel Mein"\)](https://open.spotify.com/track/1riuemY0uGVSZ1YzVTmmUw) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Hauli Hauli \(From "Khel Khel Mein"\)](https://open.spotify.com/album/4RnA4EP9q4Q6NRcjARwUCU) | 2:48 |
 | 4 | [Akhiyaan Gulaab](https://open.spotify.com/track/0qPoQiQIhgyMaP7X78hxri) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 2:51 |
 | 5 | [Naina Da Kya Kasoor](https://open.spotify.com/track/2g3o6I7YuKFEUn9OOfuAfP) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K6B1gFrapG4pq719Q6r7h) | 3:30 |
-| 6 | [Aayi Nai \(From "Stree 2"\)](https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Pawan Singh](https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aayi Nai \(From "Stree 2"\)](https://open.spotify.com/album/7tCxLHdbch1AEkuv2EbLQc) | 2:58 |
+| 6 | [Aayi Nai \(From "Stree 2"\)](https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Pawan Singh](https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aayi Nai \(From "Stree 2"\)](https://open.spotify.com/album/7tCxLHdbch1AEkuv2EbLQc) | 2:58 |
 | 7 | [Haule Sajna](https://open.spotify.com/track/5bjlD3EjXAq8XWTeubPRob) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 2:55 |
 | 8 | [Jeeja](https://open.spotify.com/track/31DFOzgOdnouxpEMkGxqLj) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Jeeja](https://open.spotify.com/album/67f7Y1eC1AJkYAO4rBiJlz) | 3:01 |
 | 9 | [Diamond Ni](https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Diamond Ni](https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O) | 3:12 |

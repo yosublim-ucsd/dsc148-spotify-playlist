@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue!",
-  "num_followers": 664671,
+  "num_followers": 664817,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+        "name": "Lee Brice",
+        "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Play It Again",
-      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
+      "duration_ms": 198440,
+      "name": "Rumor",
+      "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Lee Brice",
-        "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Rumor",
-      "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
+      "duration_ms": 226866,
+      "name": "Play It Again",
+      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hey World",
-        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "One Of Them Girls",
-      "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Tangled Up",
         "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 227426,
       "name": "Die A Happy Man",
       "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hey World",
+        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "One Of Them Girls",
+      "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "I'm Countryfied",
         "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 144186,
       "name": "Louisiana Saturday Night",
       "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Would You Go With Me",
+      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Boys Back Home",
         "url": "https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 165835,
       "name": "Boys Back Home",
       "url": "https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Would You Go With Me",
-      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "One Thing Right",
-        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "One Thing Right",
-      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Everything I Love",
         "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
       },
@@ -1279,6 +1259,22 @@
       "duration_ms": 158626,
       "name": "Little Bitty",
       "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "One Thing Right",
+        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+      "duration_ms": 181823,
+      "name": "One Thing Right",
+      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Family Ties",
-        "url": "https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Copperhead Road",
         "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Family Ties",
+        "url": "https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 193929,
-      "name": "Slow Dance In A Parking Lot",
-      "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 168960,
       "name": "Look What God Gave Her",
       "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 193929,
+      "name": "Slow Dance In A Parking Lot",
+      "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 209733,
       "name": "Beer Can\u2019t Fix",
       "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "What My World Spins Around",
-        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "What My World Spins Around",
-      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "added_at": "2024-07-26 04:00:00",
