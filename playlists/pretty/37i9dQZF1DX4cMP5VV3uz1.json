@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 156936,
+  "num_followers": 156969,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,30 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
+        "name": "The von dutch remix with skream and benga",
+        "url": "https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Benga",
+          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "The von dutch remix with skream and benga",
+      "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
+    },
+    {
+      "added_at": "2024-08-02 10:54:46",
+      "album": {
         "name": "Spend The Night",
         "url": "https://open.spotify.com/album/78JrRQCZ8HppWoAXBkHBe7"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
-    },
-    {
-      "added_at": "2024-08-02 10:54:46",
-      "album": {
-        "name": "The von dutch remix with skream and benga",
-        "url": "https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        },
-        {
-          "name": "Benga",
-          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "The von dutch remix with skream and benga",
-      "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
     },
     {
       "added_at": "2024-08-02 10:54:46",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw"
-      },
-      "artists": [
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
-    },
-    {
-      "added_at": "2024-08-02 10:54:46",
-      "album": {
         "name": "Radio Remix",
         "url": "https://open.spotify.com/album/5t0y40M7XhW0V5PgYsKpXP"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
+    },
+    {
+      "added_at": "2024-08-02 10:54:46",
+      "album": {
         "name": "Armed & Dangerous",
         "url": "https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM"
       },
@@ -879,22 +879,22 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
-        "name": "Races (feat. Blanco)",
-        "url": "https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj"
+        "name": "Break It Down (feat. Emily Makis)",
+        "url": "https://open.spotify.com/album/3rVUj16tkYgoUShijrDkO7"
       },
       "artists": [
         {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
         },
         {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
         }
       ],
-      "duration_ms": 140848,
-      "name": "Races (feat. Blanco)",
-      "url": "https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo"
+      "duration_ms": 172413,
+      "name": "Break It Down (feat. Emily Makis)",
+      "url": "https://open.spotify.com/track/1iES2GLJnnPzP1TfT8ntyh"
     },
     {
       "added_at": "2024-08-02 10:54:46",
@@ -923,6 +923,26 @@
       "duration_ms": 189176,
       "name": "Jungle Diva",
       "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
+    },
+    {
+      "added_at": "2024-08-02 10:54:46",
+      "album": {
+        "name": "Races (feat. Blanco)",
+        "url": "https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "duration_ms": 140848,
+      "name": "Races (feat. Blanco)",
+      "url": "https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo"
     },
     {
       "added_at": "2024-08-02 10:54:46",
@@ -1139,26 +1159,18 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
-        "name": "Polygon (Circadian Remix)",
-        "url": "https://open.spotify.com/album/3vDKBvfbL1AXuFt3utoNjm"
+        "name": "Party Muscle",
+        "url": "https://open.spotify.com/album/6n7uN281y0GWsNRmhzAcQG"
       },
       "artists": [
         {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "Reija Lee",
-          "url": "https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
         }
       ],
-      "duration_ms": 279771,
-      "name": "Polygon (Circadian Remix)",
-      "url": "https://open.spotify.com/track/54hh0ph7BUeFQIcaCX40Qq"
+      "duration_ms": 122069,
+      "name": "Party Muscle",
+      "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
     },
     {
       "added_at": "2024-08-02 10:54:46",
@@ -1179,18 +1191,26 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
-        "name": "Party Muscle",
-        "url": "https://open.spotify.com/album/6n7uN281y0GWsNRmhzAcQG"
+        "name": "Polygon (Circadian Remix)",
+        "url": "https://open.spotify.com/album/3vDKBvfbL1AXuFt3utoNjm"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Reija Lee",
+          "url": "https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
         }
       ],
-      "duration_ms": 122069,
-      "name": "Party Muscle",
-      "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
+      "duration_ms": 279771,
+      "name": "Polygon (Circadian Remix)",
+      "url": "https://open.spotify.com/track/54hh0ph7BUeFQIcaCX40Qq"
     },
     {
       "added_at": "2024-08-02 10:54:46",
@@ -1395,26 +1415,6 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
-        "name": "Break It Down (feat. Emily Makis)",
-        "url": "https://open.spotify.com/album/3rVUj16tkYgoUShijrDkO7"
-      },
-      "artists": [
-        {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        },
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "Break It Down (feat. Emily Makis)",
-      "url": "https://open.spotify.com/track/1iES2GLJnnPzP1TfT8ntyh"
-    },
-    {
-      "added_at": "2024-08-02 10:54:46",
-      "album": {
         "name": "So Different",
         "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
       },
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
+        "name": "Wearing My Tracky",
+        "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
+      },
+      "artists": [
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "duration_ms": 105090,
+      "name": "Wearing My Tracky",
+      "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
+    },
+    {
+      "added_at": "2024-08-02 10:54:46",
+      "album": {
         "name": "Stop Talking",
         "url": "https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 226206,
       "name": "Stop Talking",
       "url": "https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE"
-    },
-    {
-      "added_at": "2024-08-02 10:54:46",
-      "album": {
-        "name": "Crunchy Nutter",
-        "url": "https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA"
-      },
-      "artists": [
-        {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        },
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        }
-      ],
-      "duration_ms": 204332,
-      "name": "Crunchy Nutter",
-      "url": "https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw"
     }
   ],
   "unique_name": "Proper Naughty ",

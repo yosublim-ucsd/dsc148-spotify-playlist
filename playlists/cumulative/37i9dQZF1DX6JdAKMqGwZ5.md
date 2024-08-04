@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: stivijoes.
 
-143 songs - 7 hr 26 min
+144 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Ez Nintzen Ni Izango \(Esa No Sería Yo\)](https://open.spotify.com/track/1LeD6LjLKzEb4Zo7l48Pw5) | [BULEGO](https://open.spotify.com/artist/536zVauyusZp2cjwh4QB5B), [Ede](https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q) | [Ez Nintzen Ni Izango \(Esa No Sería Yo\)](https://open.spotify.com/album/2eIfbE9QY4rESyCsu3JFUu) | 3:23 | 2024-06-27 |  |
 | [Famara \(feat\. Depedro\)](https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [El Porvenir](https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH) | 3:52 | 2024-06-27 |  |
 | [Fantasmas](https://open.spotify.com/track/61omU5umRHHE0v20jAYD1L) | [Marinita Precaria](https://open.spotify.com/artist/4HJBGcOqWcIOay7q6eeXOR) | [Fantasmas](https://open.spotify.com/album/2tRtfSdmb2jAUmjcAf3l59) | 3:44 | 2024-07-18 | 2024-08-02 |
-| [Frente al Latido](https://open.spotify.com/track/14Cw2iFrUslMi9sGpdjLTp) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u), [Gabriel De La Rosa](https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Frente al Latido](https://open.spotify.com/album/3EH5Vvu3RU8yGf0uVBt9Vn) | 3:37 | 2024-06-27 |  |
+| [Frente al Latido](https://open.spotify.com/track/14Cw2iFrUslMi9sGpdjLTp) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u), [Gabriel De La Rosa](https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Frente al Latido](https://open.spotify.com/album/3EH5Vvu3RU8yGf0uVBt9Vn) | 3:37 | 2024-06-27 | 2024-08-04 |
 | [Gente Corriente](https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Gente Corriente](https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ) | 3:31 | 2024-06-27 |  |
 | [GUAYA GUAYA](https://open.spotify.com/track/5vksHe2CEG5tOrLSSNug5U) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [GUAYA GUAYA](https://open.spotify.com/album/1tpgr92aJbeazAyMziemfe) | 2:28 | 2024-06-27 | 2024-07-24 |
 | [HACER TEATRO](https://open.spotify.com/track/3so52dZJbgrqhU2rBrNiuM) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [HACER TEATRO](https://open.spotify.com/album/4QrD2b9rwY3O8acSduHOan) | 2:39 | 2024-07-11 | 2024-07-27 |
@@ -74,6 +74,7 @@
 | [Joga Bonito](https://open.spotify.com/track/5LEMwbRY353rXCH2KqivIR) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Joga Bonito](https://open.spotify.com/album/1eTSgzybuVPF0NlBz6OTLf) | 2:42 | 2024-06-27 |  |
 | [KORAJE](https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [KORAJE](https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE) | 3:46 | 2024-06-27 |  |
 | [La Ceniza \(feat\. Valeria Castro\)](https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Ceniza \(feat\. Valeria Castro\)](https://open.spotify.com/album/3H9GNHRuz3ybedGvH5WCyo) | 3:26 | 2024-06-27 |  |
+| [la del cretino](https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8) | [la del cretino](https://open.spotify.com/album/6DxzzlM2KEKrcrPtdD34LO) | 3:36 | 2024-08-01 |  |
 | [La Toscana](https://open.spotify.com/track/39kOGcaNQZm9Ig1FDngq9c) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8) | [La Toscana](https://open.spotify.com/album/1LKtA0XNFWT7W6ksG5R9GR) | 3:20 | 2024-06-27 |  |
 | [La Vida Cañón](https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 2:32 | 2024-06-27 |  |
 | [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 | 2024-06-27 |  |

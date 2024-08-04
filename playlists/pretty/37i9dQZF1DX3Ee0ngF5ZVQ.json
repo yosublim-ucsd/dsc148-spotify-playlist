@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Silverada",
-  "num_followers": 411409,
+  "num_followers": 411415,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "5 to 9",
+        "url": "https://open.spotify.com/album/1c8wFzXWGK7yDkLWfctG1Q"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 203828,
+      "name": "5 to 9",
+      "url": "https://open.spotify.com/track/7aGK202gwOfeCJee5qYCGy"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
       },
@@ -1375,6 +1391,22 @@
       "duration_ms": 219163,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Crossing Lines",
+        "url": "https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Crossing Lines",
+      "url": "https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1399,38 +1431,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Crossing Lines",
-        "url": "https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Crossing Lines",
-      "url": "https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "What's Left of My Heart",
-        "url": "https://open.spotify.com/album/4OKDR3Qzo1FNKwVWklJjiI"
-      },
-      "artists": [
-        {
-          "name": "Reckless Kelly",
-          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
-        }
-      ],
-      "duration_ms": 157083,
-      "name": "What's Left Of My Heart",
-      "url": "https://open.spotify.com/track/4HFUJ38fn43mggSqrf04eZ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "In Case You Didn\u2019t Know",
         "url": "https://open.spotify.com/album/3wojk7NMMnAmedGJG5as0k"
       },
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Anywhere But Here",
-        "url": "https://open.spotify.com/album/1PUJWUBjUtz60hCuYpydmd"
+        "name": "What's Left of My Heart",
+        "url": "https://open.spotify.com/album/4OKDR3Qzo1FNKwVWklJjiI"
       },
       "artists": [
         {
-          "name": "Silverada",
-          "url": "https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44"
+          "name": "Reckless Kelly",
+          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
         }
       ],
-      "duration_ms": 206939,
-      "name": "Anywhere But Here",
-      "url": "https://open.spotify.com/track/641AMRjvcagUyc04njDJOs"
+      "duration_ms": 157083,
+      "name": "What's Left Of My Heart",
+      "url": "https://open.spotify.com/track/4HFUJ38fn43mggSqrf04eZ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1491,6 +1491,22 @@
       "duration_ms": 206016,
       "name": "Till You",
       "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Anywhere But Here",
+        "url": "https://open.spotify.com/album/1PUJWUBjUtz60hCuYpydmd"
+      },
+      "artists": [
+        {
+          "name": "Silverada",
+          "url": "https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44"
+        }
+      ],
+      "duration_ms": 206939,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/641AMRjvcagUyc04njDJOs"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1535,42 +1551,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Burn The Ground",
-        "url": "https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X"
-      },
-      "artists": [
-        {
-          "name": "Mason Lively",
-          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "How To Love You",
-      "url": "https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Quittin' Ain't Workin' (feat. Mike Ryan)",
-        "url": "https://open.spotify.com/album/3r9sGBc6fpTs96wv1eXkwG"
-      },
-      "artists": [
-        {
-          "name": "Larry Fleet",
-          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
-        },
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 195398,
-      "name": "Quittin' Ain't Workin' (feat. Mike Ryan)",
-      "url": "https://open.spotify.com/track/6mPpuNKf0wPSoOCD3rFbdz"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
       },
@@ -1583,6 +1563,22 @@
       "duration_ms": 257146,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Burn The Ground",
+        "url": "https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X"
+      },
+      "artists": [
+        {
+          "name": "Mason Lively",
+          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "How To Love You",
+      "url": "https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1623,6 +1619,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Quittin' Ain't Workin' (feat. Mike Ryan)",
+        "url": "https://open.spotify.com/album/3r9sGBc6fpTs96wv1eXkwG"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        },
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 195398,
+      "name": "Quittin' Ain't Workin' (feat. Mike Ryan)",
+      "url": "https://open.spotify.com/track/6mPpuNKf0wPSoOCD3rFbdz"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Bottom of It",
         "url": "https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm"
       },
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Too Many Honky Tonks",
         "url": "https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8"
       },
@@ -1667,6 +1667,26 @@
       "duration_ms": 193050,
       "name": "Too Many Honky Tonks",
       "url": "https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Long Ride In A Short Bed",
+        "url": "https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        },
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 216341,
+      "name": "Long Ride In A Short Bed",
+      "url": "https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1691,58 +1711,38 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Clover On The Hillside",
-        "url": "https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 141080,
-      "name": "Clover On The Hillside",
-      "url": "https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Pancho and Lefty",
-        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         },
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Graycie York",
+          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
         }
       ],
-      "duration_ms": 309510,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Outta Dirt",
-        "url": "https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n"
-      },
-      "artists": [
-        {
-          "name": "Rodell Duff",
-          "url": "https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky"
-        },
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        }
-      ],
-      "duration_ms": 164412,
-      "name": "Outta Dirt",
-      "url": "https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5"
+      "duration_ms": 212946,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
     }
   ],
   "unique_name": "Texas Country Now",

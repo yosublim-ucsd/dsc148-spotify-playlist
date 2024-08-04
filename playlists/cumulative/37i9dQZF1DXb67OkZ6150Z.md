@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Royel Otis
 
-462 songs - 1 day 4 hr 14 min
+463 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 | 2024-08-01 |
 | [Drive](https://open.spotify.com/track/5YYIPLmYIkAle6s7Kf34qI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Drive](https://open.spotify.com/album/4FdoQ3s6u5POcFp9BUrWCK) | 4:32 | 2021-03-12 | 2022-07-29 |
 | [Early Morning Breeze](https://open.spotify.com/track/7xvvHuMKxAuMLFnMpENANu) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Early Morning Breeze](https://open.spotify.com/album/03jIj1uKSQjMu1hzaTTPqR) | 4:16 | 2021-03-19 | 2022-07-29 |
+| [Espresso \- triple j Like A Version](https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Espresso \(triple j Like A Version\)](https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF) | 3:04 | 2024-08-02 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Everybody Wants To Rule The World](https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu) | 3:43 | 2023-06-16 | 2024-07-21 |
 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 | 2023-05-26 | 2024-06-01 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-05-20 | 2022-10-13 |
@@ -269,7 +270,7 @@
 | [Maps \- Single Version](https://open.spotify.com/track/0pqU55UfyCSLyTFHjdYqQP) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Maps](https://open.spotify.com/album/78mLW6X19S0jCuT8e6zZg0) | 2:29 | 2021-03-12 | 2022-04-14 |
 | [Maybe Tomorrow](https://open.spotify.com/track/719mBMKamIop3zjxSD0REL) | [BowLand](https://open.spotify.com/artist/6wP8Zgqr5XdEcCPn97OBFl) | [Maybe Tomorrow](https://open.spotify.com/album/1BWuQzuSlLtLRFSZjJANXX) | 2:46 | 2021-07-21 | 2022-04-18 |
 | [Me](https://open.spotify.com/track/3H3E7tsZCFSVRCs0bRcpEk) | [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Me](https://open.spotify.com/album/30YXmjBcBEPw5NlkmjXKif) | 3:14 | 2021-07-21 | 2022-06-16 |
-| [Misery Is a Butterfly](https://open.spotify.com/track/05EdW6Mba6PNtnutYAnvAA) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Misery Is a Butterfly](https://open.spotify.com/album/1DJALnYQFDZa22GSo5dBTt) | 5:08 | 2021-04-02 |  |
+| [Misery Is a Butterfly](https://open.spotify.com/track/05EdW6Mba6PNtnutYAnvAA) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Misery Is a Butterfly](https://open.spotify.com/album/1DJALnYQFDZa22GSo5dBTt) | 5:08 | 2021-04-02 | 2024-08-04 |
 | [Money \(Hymn\)](https://open.spotify.com/track/6zetwLIMcYw2FNb7nxsPMB) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Honeychurch](https://open.spotify.com/album/0c6eomNguQ6ymqB6ZFowUu) | 4:19 | 2021-03-12 | 2022-06-20 |
 | [Moon River](https://open.spotify.com/track/0aaZ31WkPX8g6cvBdzBLUY) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Moon River](https://open.spotify.com/album/2KgydVSNmopoqmoQVBMtwK) | 1:59 | 2021-07-21 | 2022-04-21 |
 | [More Than This](https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Music From The Pen Gala 1983](https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg) | 3:31 | 2021-11-19 |  |

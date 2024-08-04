@@ -2,7 +2,7 @@
 
 ### [This Is Miranda Lambert](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bb9Kw)
 
-> This is Miranda Lambert\. Todos os maiores hits em uma só playlist.
+> This is Miranda Lambert\. The essential tracks, all in one playlist.
 
 87 songs - 5 hr 3 min
 

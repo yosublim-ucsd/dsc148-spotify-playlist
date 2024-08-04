@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 128854,
+  "num_followers": 128867,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "Won't Go Quietly",
+        "url": "https://open.spotify.com/album/4bwbOwRKR8I4eFPcL4UPuU"
+      },
+      "artists": [
+        {
+          "name": "Example",
+          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Kickstarts",
+      "url": "https://open.spotify.com/track/07WEDHF2YwVgYuBugi2ECO"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 193320,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "Won't Go Quietly",
-        "url": "https://open.spotify.com/album/4bwbOwRKR8I4eFPcL4UPuU"
-      },
-      "artists": [
-        {
-          "name": "Example",
-          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Kickstarts",
-      "url": "https://open.spotify.com/track/07WEDHF2YwVgYuBugi2ECO"
     },
     {
       "added_at": "2024-07-24 13:57:08",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 220476,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/0AlHwHvgbjkRKDaTI6YDHD"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/6ZWhhiys8UVoTKSVQdklan"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 129009,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2iRQKePYqxqXLW01HCVZzG"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 220476,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/0AlHwHvgbjkRKDaTI6YDHD"
     },
     {
       "added_at": "2024-07-24 13:57:08",

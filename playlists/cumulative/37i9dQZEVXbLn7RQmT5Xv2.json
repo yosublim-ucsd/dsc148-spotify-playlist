@@ -748,7 +748,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 306361,
       "name": "Aleb Fel Dafater",
       "url": "https://open.spotify.com/track/68WRDAU8QecpIyasp2BEby"
@@ -9901,6 +9901,24 @@
     },
     {
       "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/0iSk85tbMn33Sao5E3UHtZ"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224005,
+      "name": "Rehla",
+      "url": "https://open.spotify.com/track/78veJTXWwR5FxpZ7dW0Plr"
+    },
+    {
+      "album": {
         "name": "Raye2",
         "url": "https://open.spotify.com/album/1pSEP1POnPOIDGaNol4mOs"
       },
@@ -15862,7 +15880,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 248267,
       "name": "\u0643\u0644 \u0627\u0644\u062d\u0644\u0648\u064a\u0646 \u0648\u0644\u0627 \u0634\u063a\u0644\u0648\u0646\u064a",
       "url": "https://open.spotify.com/track/4ZVWHKVY1HgRkoLkQFdDbR"
@@ -17254,7 +17272,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 216356,
       "name": "\u064a\u0645\u0643\u0646 \u062e\u064a\u0631",
       "url": "https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E"

@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-167 songs - 19 hr 21 min
+168 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 | 2023-03-17 | 2024-03-21 |
 | [Joker](https://open.spotify.com/track/7iIE5iJjyQ5STT7kFSY1fX) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/5lV2QzhcKf6NAPg9gIfRyC) | 5:23 | 2024-03-15 | 2024-04-19 |
 | [Joy Ride](https://open.spotify.com/track/44OulbiTBps06KLwYGwUER) | [Guztav](https://open.spotify.com/artist/5njhRrz5uOFMp6PVBhq4XH) | [Joy Ride](https://open.spotify.com/album/7lbLT70sHiUhkpISvO8dI6) | 7:08 | 2024-05-16 | 2024-05-23 |
-| [King of Castles](https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [King of Castles](https://open.spotify.com/album/243FAgBWqvxnbuFEED8enP) | 5:13 | 2024-05-16 |  |
+| [King of Castles](https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [King of Castles](https://open.spotify.com/album/243FAgBWqvxnbuFEED8enP) | 5:13 | 2024-05-16 | 2024-08-04 |
 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 | 2024-02-15 |  |
 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 | 2023-03-23 | 2023-11-18 |
 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 | 2022-09-29 | 2024-07-19 |
@@ -115,6 +115,7 @@
 | [Out Out](https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj) | [LevyM](https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg), [Yves Eaux](https://open.spotify.com/artist/3wTpIwiVkuSC7toZZpqv4F), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Out Out](https://open.spotify.com/album/5XY8XVFgy6QdcR5Jh7x2j2) | 7:08 | 2022-09-19 | 2023-02-28 |
 | [Papino's Revenge \- Frank Ru Remix](https://open.spotify.com/track/1J0Wmd4V1Ll7sM2cCgVQ6G) | [KVRVBO](https://open.spotify.com/artist/6O8YH1s38BFvHKMg6vZjOB), [Frank Ru](https://open.spotify.com/artist/0kjnCjrnCw8s5VzKAyx7tJ) | [Papino's Revenge Remixes](https://open.spotify.com/album/2z1z0XNLkRY6R1sUqcC1pf) | 6:38 | 2024-05-16 |  |
 | [Phola Nhliziyo](https://open.spotify.com/track/0ziisLze9KEolVdFZTdMfM) | [Ezra](https://open.spotify.com/artist/78QMvaGR1j7RSHe1sEnFcZ), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Phola Nhliziyo](https://open.spotify.com/album/3CbBmHCZy9BJPPWVl7ZkSS) | 6:16 | 2024-06-06 |  |
+| [Praise You \(feat\. Kabza De Small & Stakev\)](https://open.spotify.com/track/20ViaCg5GzOr9VPlGvJLaj) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Stakev](https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw) | [Praise You \(feat\. Kabza De Small & Stakev\)](https://open.spotify.com/album/3t7igCI5G4TSbN4YUgOU7p) | 6:56 | 2024-08-02 |  |
 | [Pray Without Ceasing](https://open.spotify.com/track/2cOw3sROcgo2HOX4wxeSsx) | [Stoz Da Afrikana](https://open.spotify.com/artist/07ZZ0yMkFfJXCLowDjI3RA), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Pray Without Ceasing](https://open.spotify.com/album/2MDUsJnwKqJlwe4JUJVdWB) | 6:27 | 2022-09-14 | 2022-10-13 |
 | [Push It](https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [Let It Rain](https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X) | 7:56 | 2022-09-14 | 2023-05-13 |
 | [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 | 2024-02-15 | 2024-06-01 |

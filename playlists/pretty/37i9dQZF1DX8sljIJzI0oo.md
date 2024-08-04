@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 céro & paopao are bringing the heat this week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,320 likes - 20 songs - 57 min 9 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,936,262 likes - 20 songs - 57 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

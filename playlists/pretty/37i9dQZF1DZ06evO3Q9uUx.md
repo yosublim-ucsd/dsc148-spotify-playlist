@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 ### [This Is BIA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx)
 
-> This is BIA\. The essential tracks, all in one playlist.
+> This Is BIA\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 14,553 likes - 50 songs - 2 hr 23 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [Yeah \(with BIA\)](https://open.spotify.com/track/7rlFkTnWBAqXbNVyR36jZq) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [What Was Said?](https://open.spotify.com/album/789NgjZwh9qga5RsFoBsZ5) | 2:20 |
 | 50 | [One Minute Warning](https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [One Minute Warning](https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR) | 1:01 |
 
-Snapshot ID: `ZqrQAAAAAACkXEIUnbYCaM6o3HnjCzUD`
+Snapshot ID: `ZqrQAAAAAAD5eBNScPZdGrZBuvCRTWuc`

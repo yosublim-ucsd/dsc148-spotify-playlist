@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-369 songs - 20 hr 2 min
+370 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Gadda](https://open.spotify.com/track/5NMcqtJ4MKHpFsHIvgWs7p) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Chikkesh Hamsabhimani](https://open.spotify.com/artist/4UT07rarVsghjWlBzj7iU9) | [Gadda](https://open.spotify.com/album/5HeVSXTlmUq9Rw8BuOZiGv) | 4:32 | 2023-02-13 | 2023-09-01 |
 | [Geejaga Hakki](https://open.spotify.com/track/1u6vTH5nUSKaSTPJZJC81s) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [Prassanna Hegde](https://open.spotify.com/artist/0GXTpJPW41OHk5rTZCRDDy) | [Geejaga Hakki](https://open.spotify.com/album/330gRfCGukj4u4WpucNpP4) | 3:25 | 2023-06-08 | 2023-07-22 |
 | [Geeya Geeya](https://open.spotify.com/track/6XJf6jtozUGfOEmswsp8So) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Michael League](https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9), [Praveen D Rao](https://open.spotify.com/artist/72CnTX4NMeDFpxPrEoV0MJ) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 5:09 | 2024-07-08 |  |
-| [Gelthinallo](https://open.spotify.com/track/67aund6DgSswfEy1lkMyZD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Gelthinallo](https://open.spotify.com/album/1lwlU3A6anSNGgR8U0gZ1U) | 3:31 | 2024-03-14 |  |
+| [Gelthinallo](https://open.spotify.com/track/67aund6DgSswfEy1lkMyZD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Gelthinallo](https://open.spotify.com/album/1lwlU3A6anSNGgR8U0gZ1U) | 3:31 | 2024-03-14 | 2024-08-04 |
 | [Good Night](https://open.spotify.com/track/2on44Nj5lhjWRTcdJfVcu8) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Good Night](https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac) | 3:52 | 2022-10-20 | 2023-12-20 |
 | [Good Vibe](https://open.spotify.com/track/1sAUWodQtglnQ3RqVbRLxj) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Good Vibe](https://open.spotify.com/album/52RcOVDsrNbqrDAnCesUnq) | 2:17 | 2024-02-26 |  |
 | [Haala](https://open.spotify.com/track/3Toq09j2dRtOfMMeikNEJh) | [Lil\-G](https://open.spotify.com/artist/3Fv07lTLwkjvYHWW4dibXQ) | [Haala](https://open.spotify.com/album/0NjBDS09YIeB5km2sEalGb) | 4:52 | 2024-06-11 |  |
@@ -355,6 +355,7 @@
 | [Thirugo Bhoomi](https://open.spotify.com/track/3eRyegkZdRNpIK4YJw8V6p) | [Sai Sharan P Hiremath](https://open.spotify.com/artist/6cenV56xwYF9NLMZetncWP) | [Thirugo Bhoomi](https://open.spotify.com/album/3x8jU3iLh8wwLf9AX2HpDa) | 3:46 | 2023-07-15 | 2023-09-21 |
 | [Thiz ma Gully](https://open.spotify.com/track/3Lc6Ieoi0LqtcVSkEcb6GF) | [Manchal](https://open.spotify.com/artist/1nOb34gdXcsJGvCHM34geP) | [Thiz ma Gully](https://open.spotify.com/album/2NV0yuOkoQ8TIY71Ll7KT9) | 3:14 | 2023-02-01 | 2023-08-30 |
 | [Thukaali](https://open.spotify.com/track/3fibRdjawJagXWApjATWdg) | [Shiv Prasad](https://open.spotify.com/artist/6Hxm7zNBGOmCFJFFUS0OWO), [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq), [Mahadeva Swamy](https://open.spotify.com/artist/6AaB3Ib8emAWvrJADBOn4l) | [Thukaali](https://open.spotify.com/album/3eE3i02aV4DlfJFXzrY96k) | 3:57 | 2023-08-30 | 2023-09-21 |
+| [Thundakkinai](https://open.spotify.com/track/5BzbuYcYEXyJni4u92mlEP) | [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax) | [Thundakkinai](https://open.spotify.com/album/5Cozy1R2uJGFBheWw0Om0J) | 3:59 | 2024-08-03 |  |
 | [Tomar Aamar Golpo\(From "Manikbabur Megh"\)](https://open.spotify.com/track/4EtuaGPxmNuvSifmeXPL86) | [Anirban Bhattacharya](https://open.spotify.com/artist/3uJ7kyi2LZwKRUnL9QBHql), [Subhajit Mukherjee](https://open.spotify.com/artist/6c36WqxKaU3FreTxb3Ryzq), [Abhinandan Banerjee](https://open.spotify.com/artist/1gJFTJcZ74SVOCmFiIPZH5) | [Tomar Aamar Golpo\(From "Manikbabur Megh"\)](https://open.spotify.com/album/3zE9OCJDrDu7nf81946NPV) | 3:32 | 2024-07-12 |  |
 | [Top Dawg \(Red Bull 64 Bars\)](https://open.spotify.com/track/1h1yNag53gicTawGrxDa1v) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Top Dawg \(Red Bull 64 Bars\)](https://open.spotify.com/album/7Gk6KYpt7X296a85MtW7if) | 3:01 | 2023-03-28 | 2023-09-01 |
 | [TREND](https://open.spotify.com/track/5ut34Yyos8zwVq6W3zawBH) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [TREND](https://open.spotify.com/album/2UVXFI5A5bByktScsx0sTR) | 3:11 | 2023-12-08 | 2024-04-19 |

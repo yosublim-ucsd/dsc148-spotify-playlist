@@ -1,6 +1,6 @@
 {
   "description": "Ambient with the soothing sounds of water, rain and birds. ",
-  "num_followers": 116293,
+  "num_followers": 116610,
   "original_name": "Nature Relaxation",
   "owner": {
     "name": "Spotify",
@@ -11,18 +11,18 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Sequoia Peace (Forest)",
-        "url": "https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7"
+        "name": "Alternating Current",
+        "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
       },
       "artists": [
         {
-          "name": "Cypress West",
-          "url": "https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL"
+          "name": "Heriela",
+          "url": "https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY"
         }
       ],
-      "duration_ms": 174851,
-      "name": "Sequoia Peace (Forest)",
-      "url": "https://open.spotify.com/track/733XPsgLvmxXbBvGmtHbc0"
+      "duration_ms": 242060,
+      "name": "Alternating Current",
+      "url": "https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Alternating Current",
-        "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
+        "name": "Sequoia Peace (Forest)",
+        "url": "https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7"
       },
       "artists": [
         {
-          "name": "Heriela",
-          "url": "https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY"
+          "name": "Cypress West",
+          "url": "https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL"
         }
       ],
-      "duration_ms": 242060,
-      "name": "Alternating Current",
-      "url": "https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU"
+      "duration_ms": 174851,
+      "name": "Sequoia Peace (Forest)",
+      "url": "https://open.spotify.com/track/733XPsgLvmxXbBvGmtHbc0"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
+        "name": "Amedeo Nuevo",
+        "url": "https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "duration_ms": 135087,
+      "name": "Amedeo Nuevo",
+      "url": "https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
         "name": "The Universe Within",
         "url": "https://open.spotify.com/album/0XVYHXKxNHRGjUGfUN8ukA"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 155217,
       "name": "Floating senses",
       "url": "https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Amedeo Nuevo",
-        "url": "https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre"
-      },
-      "artists": [
-        {
-          "name": "Bliss Phenomena",
-          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
-        }
-      ],
-      "duration_ms": 135087,
-      "name": "Amedeo Nuevo",
-      "url": "https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "The Birds' Lullaby",
-        "url": "https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe"
-      },
-      "artists": [
-        {
-          "name": "Alma Forest",
-          "url": "https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l"
-        }
-      ],
-      "duration_ms": 215073,
-      "name": "The Birds' Lullaby",
-      "url": "https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Rainbow's End",
         "url": "https://open.spotify.com/album/3CYTEAvcYSEFe61NBk1lWD"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 190434,
       "name": "Rainbow's End",
       "url": "https://open.spotify.com/track/7qYia3491jXCpBz9LXI9HU"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "The Birds' Lullaby",
+        "url": "https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe"
+      },
+      "artists": [
+        {
+          "name": "Alma Forest",
+          "url": "https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l"
+        }
+      ],
+      "duration_ms": 215073,
+      "name": "The Birds' Lullaby",
+      "url": "https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9"
-      },
-      "artists": [
-        {
-          "name": "Hans Heeler",
-          "url": "https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Everest",
-      "url": "https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Nature's Bed",
         "url": "https://open.spotify.com/album/6VBCk80s3CdZjsDbX1cTFi"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 258716,
       "name": "Ok Now",
       "url": "https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9"
+      },
+      "artists": [
+        {
+          "name": "Hans Heeler",
+          "url": "https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Legacy Drift",
-        "url": "https://open.spotify.com/album/6FOEczmgps7pqBfvGAXlcD"
-      },
-      "artists": [
-        {
-          "name": "Aquaimo",
-          "url": "https://open.spotify.com/artist/0TVxrxLRIiSOUrJdmjgg4f"
-        }
-      ],
-      "duration_ms": 131956,
-      "name": "Legacy Drift - Nature Noise Version",
-      "url": "https://open.spotify.com/track/3hnpbd1LlHPeCCw7ugjTsO"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 166413,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Legacy Drift",
+        "url": "https://open.spotify.com/album/6FOEczmgps7pqBfvGAXlcD"
+      },
+      "artists": [
+        {
+          "name": "Aquaimo",
+          "url": "https://open.spotify.com/artist/0TVxrxLRIiSOUrJdmjgg4f"
+        }
+      ],
+      "duration_ms": 131956,
+      "name": "Legacy Drift - Nature Noise Version",
+      "url": "https://open.spotify.com/track/3hnpbd1LlHPeCCw7ugjTsO"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
+        "name": "Br\u00e4nn\u00f6",
+        "url": "https://open.spotify.com/album/0aD67jjpO2jRneNAqsvh7R"
+      },
+      "artists": [
+        {
+          "name": "Inner Purpose",
+          "url": "https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "Br\u00e4nn\u00f6",
+      "url": "https://open.spotify.com/track/41wFdqenwjhXF5ePYxD4mv"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Br\u00e4nn\u00f6",
-        "url": "https://open.spotify.com/album/0aD67jjpO2jRneNAqsvh7R"
-      },
-      "artists": [
-        {
-          "name": "Inner Purpose",
-          "url": "https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "Br\u00e4nn\u00f6",
-      "url": "https://open.spotify.com/track/41wFdqenwjhXF5ePYxD4mv"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Corales (Forest)",
         "url": "https://open.spotify.com/album/6Vk9EcP1P9eZbY4EKPS0j4"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 159868,
       "name": "Corales (Forest)",
       "url": "https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Portraits (Sound Bath)",
-        "url": "https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7"
-      },
-      "artists": [
-        {
-          "name": "For The Lost",
-          "url": "https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Portraits (Sound Bath)",
-      "url": "https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
+        "name": "Portraits (Sound Bath)",
+        "url": "https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7"
+      },
+      "artists": [
+        {
+          "name": "For The Lost",
+          "url": "https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Portraits (Sound Bath)",
+      "url": "https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
         "name": "Andrum",
         "url": "https://open.spotify.com/album/1XRkQoTVjfWqw2nuO5rQWk"
       },
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
+        "name": "Walking The Path",
+        "url": "https://open.spotify.com/album/0ArZ7AkBPUeJYrglsiUlCX"
+      },
+      "artists": [
+        {
+          "name": "Sacred Orb",
+          "url": "https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH"
+        }
+      ],
+      "duration_ms": 189132,
+      "name": "Walking The Path",
+      "url": "https://open.spotify.com/track/2h0VLSP2AR1QKe3I3rJJvN"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/0FWYBWscbQyFSXLHuxTfd3"
       },
@@ -1503,6 +1519,22 @@
       "duration_ms": 139874,
       "name": "Circle",
       "url": "https://open.spotify.com/track/5kfHwava0Jn209SJch0yVO"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Tree Spirits",
+        "url": "https://open.spotify.com/album/0iceXQlw0yp36EITpApP5z"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Aware",
+          "url": "https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq"
+        }
+      ],
+      "duration_ms": 144064,
+      "name": "Tree Spirits",
+      "url": "https://open.spotify.com/track/4r1O9hHMjiStkmn9iXnYDE"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1535,6 +1567,22 @@
       "duration_ms": 159000,
       "name": "Melville (Meditation)",
       "url": "https://open.spotify.com/track/0dvYoaVUiMJAbBtAIbr590"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Essence of the Forest",
+        "url": "https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN"
+      },
+      "artists": [
+        {
+          "name": "Adelina Somerset",
+          "url": "https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Essence of the Forest",
+      "url": "https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1587,38 +1635,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Walking The Path",
-        "url": "https://open.spotify.com/album/0ArZ7AkBPUeJYrglsiUlCX"
-      },
-      "artists": [
-        {
-          "name": "Sacred Orb",
-          "url": "https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH"
-        }
-      ],
-      "duration_ms": 189132,
-      "name": "Walking The Path",
-      "url": "https://open.spotify.com/track/2h0VLSP2AR1QKe3I3rJJvN"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Tree Spirits",
-        "url": "https://open.spotify.com/album/0iceXQlw0yp36EITpApP5z"
-      },
-      "artists": [
-        {
-          "name": "Waves Of Aware",
-          "url": "https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq"
-        }
-      ],
-      "duration_ms": 144064,
-      "name": "Tree Spirits",
-      "url": "https://open.spotify.com/track/4r1O9hHMjiStkmn9iXnYDE"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Key Of Dreams",
         "url": "https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 179784,
       "name": "Key Of Dreams (Nature)",
       "url": "https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Under the Maple Tree",
-        "url": "https://open.spotify.com/album/3ew2zUnWSZDZH0DEYo5sRO"
-      },
-      "artists": [
-        {
-          "name": "Moon Garden",
-          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Under the Maple Tree",
-      "url": "https://open.spotify.com/track/5nlU4XAwnmZzqDuq3TucEY"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1667,34 +1667,18 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Essence of the Forest",
-        "url": "https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN"
+        "name": "Under the Maple Tree",
+        "url": "https://open.spotify.com/album/3ew2zUnWSZDZH0DEYo5sRO"
       },
       "artists": [
         {
-          "name": "Adelina Somerset",
-          "url": "https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX"
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Essence of the Forest",
-      "url": "https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Forest Meditation",
-        "url": "https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO"
-      },
-      "artists": [
-        {
-          "name": "Naturalists",
-          "url": "https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "Forest Meditation",
-      "url": "https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi"
+      "duration_ms": 220000,
+      "name": "Under the Maple Tree",
+      "url": "https://open.spotify.com/track/5nlU4XAwnmZzqDuq3TucEY"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1711,6 +1695,22 @@
       "duration_ms": 152998,
       "name": "Lapse of Time",
       "url": "https://open.spotify.com/track/7qgX4p0tNEfxWarc1KgY6d"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Forest Meditation",
+        "url": "https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO"
+      },
+      "artists": [
+        {
+          "name": "Naturalists",
+          "url": "https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "Forest Meditation",
+      "url": "https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Silent Forest",
-        "url": "https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq"
-      },
-      "artists": [
-        {
-          "name": "Nails Meijer",
-          "url": "https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz"
-        }
-      ],
-      "duration_ms": 202714,
-      "name": "Silent Forest",
-      "url": "https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Tibetan Bowl Healing",
         "url": "https://open.spotify.com/album/6pO8SRJZiGERpaUl1GUnf6"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 246060,
       "name": "Tibetan Bowl Peace",
       "url": "https://open.spotify.com/track/1ZAcQ8bAiiRMITWLqZ3gFW"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Silent Forest",
+        "url": "https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq"
+      },
+      "artists": [
+        {
+          "name": "Nails Meijer",
+          "url": "https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz"
+        }
+      ],
+      "duration_ms": 202714,
+      "name": "Silent Forest",
+      "url": "https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
+        "name": "Noctilucent Clouds",
+        "url": "https://open.spotify.com/album/7dAEq5Vvaz8l259C5BHv7q"
+      },
+      "artists": [
+        {
+          "name": "SKEN",
+          "url": "https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv"
+        }
+      ],
+      "duration_ms": 161625,
+      "name": "Noctilucent Clouds (meditation)",
+      "url": "https://open.spotify.com/track/2Fcun7FZ4vH3kBPbdtw6uZ"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
         "name": "Dream On",
         "url": "https://open.spotify.com/album/2tlRlrBMx9JpcOUs2C4m4T"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 168750,
       "name": "Prana",
       "url": "https://open.spotify.com/track/2I8w8s0lKS1ZT4onSKB7k7"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Noctilucent Clouds",
-        "url": "https://open.spotify.com/album/7dAEq5Vvaz8l259C5BHv7q"
-      },
-      "artists": [
-        {
-          "name": "SKEN",
-          "url": "https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv"
-        }
-      ],
-      "duration_ms": 161625,
-      "name": "Noctilucent Clouds (meditation)",
-      "url": "https://open.spotify.com/track/2Fcun7FZ4vH3kBPbdtw6uZ"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
+        "name": "Introspective Thoughts Gamma",
+        "url": "https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Introspective Thoughts Gamma (88-176hz)",
+      "url": "https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
         "name": "The Tone Of Willingness",
         "url": "https://open.spotify.com/album/5TMPEcTcOqawK7lYsLsSh3"
       },
@@ -2083,18 +2099,18 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Resting Awareness",
-        "url": "https://open.spotify.com/album/1QiQhqFQKsJFk8TWmASgXd"
+        "name": "The Nature of Night",
+        "url": "https://open.spotify.com/album/7hg2a7EBaV6LABrr4ZfXTM"
       },
       "artists": [
         {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+          "name": "Oliver Hoffman",
+          "url": "https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7"
         }
       ],
-      "duration_ms": 182250,
-      "name": "Resting Awareness",
-      "url": "https://open.spotify.com/track/75htMeGOTX33uYBoMhC1Ht"
+      "duration_ms": 193534,
+      "name": "The Nature of Night",
+      "url": "https://open.spotify.com/track/3aBPxsGyqG7GesgQwSmCPP"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2115,18 +2131,18 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "The Nature of Night",
-        "url": "https://open.spotify.com/album/7hg2a7EBaV6LABrr4ZfXTM"
+        "name": "Resting Awareness",
+        "url": "https://open.spotify.com/album/1QiQhqFQKsJFk8TWmASgXd"
       },
       "artists": [
         {
-          "name": "Oliver Hoffman",
-          "url": "https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7"
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
         }
       ],
-      "duration_ms": 193534,
-      "name": "The Nature of Night",
-      "url": "https://open.spotify.com/track/3aBPxsGyqG7GesgQwSmCPP"
+      "duration_ms": 182250,
+      "name": "Resting Awareness",
+      "url": "https://open.spotify.com/track/75htMeGOTX33uYBoMhC1Ht"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2179,22 +2195,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Introspective Thoughts Gamma",
-        "url": "https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3"
-      },
-      "artists": [
-        {
-          "name": "Waves Of Sine",
-          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Introspective Thoughts Gamma (88-176hz)",
-      "url": "https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Eutony",
         "url": "https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP"
       },
@@ -2207,6 +2207,22 @@
       "duration_ms": 158294,
       "name": "Eutony",
       "url": "https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Morning Yoga",
+        "url": "https://open.spotify.com/album/02rCmVAY6NsJXNxFOM1HOa"
+      },
+      "artists": [
+        {
+          "name": "Orakleminds",
+          "url": "https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "Morning Yoga",
+      "url": "https://open.spotify.com/track/745hKdfWK8QlbkmJVNR2kk"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2323,18 +2339,18 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Morning Yoga",
-        "url": "https://open.spotify.com/album/02rCmVAY6NsJXNxFOM1HOa"
+        "name": "Pompeiana Waters",
+        "url": "https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ"
       },
       "artists": [
         {
-          "name": "Orakleminds",
-          "url": "https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC"
+          "name": "Miriam van Steeg",
+          "url": "https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu"
         }
       ],
-      "duration_ms": 199565,
-      "name": "Morning Yoga",
-      "url": "https://open.spotify.com/track/745hKdfWK8QlbkmJVNR2kk"
+      "duration_ms": 174545,
+      "name": "Pompeiana Waters",
+      "url": "https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2355,22 +2371,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Pompeiana Waters",
-        "url": "https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ"
-      },
-      "artists": [
-        {
-          "name": "Miriam van Steeg",
-          "url": "https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Pompeiana Waters",
-      "url": "https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Eternals",
         "url": "https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z"
       },
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Infinite Potential",
-        "url": "https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9"
-      },
-      "artists": [
-        {
-          "name": "unvrsl frqncy",
-          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Infinite Potential",
-      "url": "https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Follow the Creek",
         "url": "https://open.spotify.com/album/651sLcIRdIJLBUuC96Iy4l"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 178374,
       "name": "Follow the Creek",
       "url": "https://open.spotify.com/track/1MicbuqBTieG0Z2bXhjJZq"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Infinite Potential",
+        "url": "https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9"
+      },
+      "artists": [
+        {
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Infinite Potential",
+      "url": "https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv"
     }
   ],
   "unique_name": "Nature Relaxation",

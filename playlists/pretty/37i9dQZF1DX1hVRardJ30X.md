@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Justin Quiles, Luis R Conriquez, Nsqk, and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,556 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,607 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 40 | [DM](https://open.spotify.com/track/7nmBL7pC8NfvEuPhO489NK) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [DM](https://open.spotify.com/album/4GR94M7zemJWFWyxnzsJSy) | 2:09 |
 | 41 | [CON LOQ1 NACE](https://open.spotify.com/track/5gTcX23cK2d06dbuXBIqcH) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [CON LOQ1 NACE](https://open.spotify.com/album/3PKRHrJ4UgwN6caKvt3mYn) | 3:06 |
 | 42 | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 |
-| 43 | [Cuando Pierdas La Cabeza](https://open.spotify.com/track/3uRwI3rt1vvcp9JlaGSkBN) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Cuando Pierdas La Cabeza](https://open.spotify.com/album/7foqRdatNIVF4E1kGbEnL2) | 3:48 |
+| 43 | [Cuando Pierdas La Cabeza](https://open.spotify.com/track/3uRwI3rt1vvcp9JlaGSkBN) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Cuando Pierdas La Cabeza](https://open.spotify.com/album/7foqRdatNIVF4E1kGbEnL2) | 3:48 |
 | 44 | [Quizá Baby](https://open.spotify.com/track/70KjzniDqhCpmeI8psT5ui) | [CES](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE) | [Quizá Baby](https://open.spotify.com/album/5u4utx33DWX8QLWOfDpsCw) | 3:37 |
 | 45 | [Te Recuerdo](https://open.spotify.com/track/6SmVHW7Q7Whp8WrUx8EdD2) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Te Recuerdo](https://open.spotify.com/album/3ka8zkNY9Al5jmzaqEIxNJ) | 2:28 |
 | 46 | [La Ouija](https://open.spotify.com/track/0iTPVfW7uK9v4P64fnY8wK) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [La Ouija](https://open.spotify.com/album/0gCaJMGkjfvuMPOxIZpJS4) | 2:33 |
 | 47 | [Chimbita](https://open.spotify.com/track/6rUAVhipbumk9XBpSHq8vQ) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Chimbita](https://open.spotify.com/album/2svwzMy2N5x8RQvTGcYCjL) | 2:10 |
 | 48 | [Vicio](https://open.spotify.com/track/62PKxJqTiAuJmGTqcb1MAg) | [Yung Pleit](https://open.spotify.com/artist/3NHGcZ2ALQygG4tdMagUnT) | [A Yung Pleit Summer: Vice Edition](https://open.spotify.com/album/4v1Io5REwsRgZXfNVdC2Sn) | 2:43 |
-| 49 | [malvado ft\. Trinidad Cadona](https://open.spotify.com/track/4pJPIGlkJBtOssDrofdBRE) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [under the sun](https://open.spotify.com/album/7Lpjm53ncGewKefvziDOMa) | 2:31 |
+| 49 | [malvado ft\. Trinidad Cardona](https://open.spotify.com/track/4pJPIGlkJBtOssDrofdBRE) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [under the sun](https://open.spotify.com/album/7Lpjm53ncGewKefvziDOMa) | 2:31 |
 | 50 | [Amorcito Veranito](https://open.spotify.com/track/6d6lk5dyI0bu7n5P794uZt) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [Amorcito Veranito](https://open.spotify.com/album/7AzgJfovaFC6Hs9DJTagFX) | 2:15 |
 
 Snapshot ID: `ZqzvIAAAAACz3CRFjUtRxfTs2iPuOoVx`

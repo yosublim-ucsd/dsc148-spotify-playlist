@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-231 songs - 16 hr 22 min
+232 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Holy Here and Now](https://open.spotify.com/track/3K13jFO8mWf23paD3GlQ8U) | [Sophia Rebekah Mitchell](https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f) | [Holy Here and Now](https://open.spotify.com/album/2SMEwcH1DRXJPyAqzGP91i) | 4:07 | 2024-08-03 |  |
 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 | 2020-08-31 |  |
 | [home](https://open.spotify.com/track/3f2nncGJy6DcBiNiPlogf2) | [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [home](https://open.spotify.com/album/7Mwc5AMvPLzGJQp0GgIdt9) | 3:13 | 2023-07-28 | 2024-06-24 |
-| [Home \(Acoustic\)](https://open.spotify.com/track/67V4t2QI912xsWkXPDelPb) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Home](https://open.spotify.com/album/667R1mUbiYFs4Taa06oNFp) | 6:30 | 2020-08-31 |  |
+| [Home \(Acoustic\)](https://open.spotify.com/track/67V4t2QI912xsWkXPDelPb) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Home](https://open.spotify.com/album/667R1mUbiYFs4Taa06oNFp) | 6:30 | 2020-08-31 | 2024-08-04 |
 | [Home \(GCM Sinai Sessions\) \- Live](https://open.spotify.com/track/38hnWg98FJs2UyoS5ZZOuS) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Home \(GCM Sinai Sessions\) \[Live\]](https://open.spotify.com/album/2TYqeiGEssIYWmOFN1qx6s) | 4:10 | 2020-08-31 | 2022-07-23 |
 | [Home \(GCM Sinai Sessions\) \[feat\. Jonathan Ogden\]](https://open.spotify.com/track/6LwwzwWaRfRkDjFAIUxtCS) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Home \(GCM Sinai Sessions\) \[feat\. Jonathan Ogden\]](https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi) | 4:10 | 2020-08-31 | 2024-04-19 |
 | [Home \- Acoustic](https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Home](https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh) | 6:30 | 2020-08-31 | 2024-04-19 |
@@ -167,6 +167,7 @@
 | [Open My Eyes](https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [The Antidote](https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3) | 3:51 | 2020-08-31 |  |
 | [Out Of My Hands](https://open.spotify.com/track/1u21AFQtqUHHlqePHk3qUL) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:38 | 2020-08-31 | 2023-07-29 |
 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 | 2020-08-31 | 2024-08-03 |
+| [peacefully](https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [peacefully](https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI) | 2:01 | 2024-08-03 |  |
 | [Pilgrim](https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:57 | 2020-08-31 | 2024-06-24 |
 | [Praise You In This Storm \- New York Sessions](https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Praise You In This Storm \(New York Sessions\)](https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV) | 5:54 | 2020-08-31 | 2024-06-24 |
 | [Psalm 136 \[Your Mercy Endures\] \[Thomas Merton Mix\] \- feat\. Leslie Jordan\] \[Thomas Merton Mix](https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz) | [Greg LaFollette](https://open.spotify.com/artist/0v3ZpML2fBNsLBV4b58QMb), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [Thomas Merton](https://open.spotify.com/artist/5cbZWpDFL5y0BX6FAYy8LJ) | [Psalm 136 \[Your Mercy Endures\] \[Thomas Merton Mix\] \(feat\. Leslie Jordan\] \[Thomas Merton Mix\)](https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw) | 5:00 | 2020-08-31 |  |

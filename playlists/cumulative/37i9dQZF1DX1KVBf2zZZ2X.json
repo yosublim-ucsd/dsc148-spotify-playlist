@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 144500,
       "name": "Above all",
       "url": "https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L"
@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Anima Naturale",
+        "url": "https://open.spotify.com/album/3FjoYivEdT9lJFiD10OrHZ"
+      },
+      "artists": [
+        {
+          "name": "Sleep Dimension",
+          "url": "https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "Anima Naturale",
+      "url": "https://open.spotify.com/track/2kFfuFMjmXUuIyWEBDoKXA"
+    },
+    {
+      "album": {
         "name": "The Perfect Morning",
         "url": "https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 158490,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 162000,
       "name": "Passing",
       "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
@@ -2669,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Tamana's Stream",
+        "url": "https://open.spotify.com/album/0I53et96cA2GQSIFF94WZl"
+      },
+      "artists": [
+        {
+          "name": "Stellarscopees",
+          "url": "https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152389,
+      "name": "Tamana's Stream",
+      "url": "https://open.spotify.com/track/2qXwh3IN2mTW1Ce9HySq2O"
+    },
+    {
+      "album": {
         "name": "The Blue Dragon",
         "url": "https://open.spotify.com/album/69idyZhdF1As3JRdfZhXBz"
       },
@@ -2986,7 +3022,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 265000,
       "name": "Winter Lake",
       "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"

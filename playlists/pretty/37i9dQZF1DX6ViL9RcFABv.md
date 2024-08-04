@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Calema
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,461 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,518 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Distinu](https://open.spotify.com/track/7e3OHWrl8Bp2WzGG5QGAku) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Voyage \(Pt\. I\)](https://open.spotify.com/album/71gGikHweFFDc1Xy9iUfon) | 3:30 |
+| 1 | [Distinu](https://open.spotify.com/track/7e3OHWrl8Bp2WzGG5QGAku) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Voyage \(Part I\)](https://open.spotify.com/album/71gGikHweFFDc1Xy9iUfon) | 3:30 |
 | 2 | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/album/7siXX6r4UDDEoAecVwqAPc) | 3:36 |
 | 3 | [Promessas](https://open.spotify.com/track/5nQoajzUX1uJ70yLCPU3kI) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Margarida Rotilo](https://open.spotify.com/artist/6AiYa8nZTEc2u3HOFu3I7Y) | [Promessas](https://open.spotify.com/album/2DXHdgkLVueeCGmljBfZQs) | 2:34 |
 | 4 | [Deixou\-me a mala no comboio](https://open.spotify.com/track/0qWrS0dWt9B4hmrMFvGX9r) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Rosinha](https://open.spotify.com/artist/7jEoa4wHZBYkvD6WEkLhXs) | [Deixou\-me a mala no comboio](https://open.spotify.com/album/7KuUjsTqPkrbQiTiN7eR2K) | 2:50 |

@@ -1,6 +1,6 @@
 {
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Badal & GD47",
-  "num_followers": 36891,
+  "num_followers": 36985,
   "original_name": "Hip-Hop Haryanvi",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-08-02 09:14:27",
       "album": {
-        "name": "Lal Dabbi",
-        "url": "https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM"
-      },
-      "artists": [
-        {
-          "name": "Amanraj Gill",
-          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
-        },
-        {
-          "name": "Bulbul",
-          "url": "https://open.spotify.com/artist/74AoG8xO3Qrx0iJvsAu0bj"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "Lal Dabbi",
-      "url": "https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8"
-    },
-    {
-      "added_at": "2024-08-02 09:14:27",
-      "album": {
         "name": "Suit Ki Kadhayi",
         "url": "https://open.spotify.com/album/0qvNkpsn240kAtgdkG7bVk"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 154553,
       "name": "Suit Ki Kadhayi",
       "url": "https://open.spotify.com/track/372TareXWYPDPaJWpr5BGH"
+    },
+    {
+      "added_at": "2024-08-02 09:14:27",
+      "album": {
+        "name": "Lal Dabbi",
+        "url": "https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM"
+      },
+      "artists": [
+        {
+          "name": "Amanraj Gill",
+          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
+        },
+        {
+          "name": "Bulbul",
+          "url": "https://open.spotify.com/artist/74AoG8xO3Qrx0iJvsAu0bj"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "Lal Dabbi",
+      "url": "https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8"
     },
     {
       "added_at": "2024-08-02 09:14:27",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-08-02 09:14:27",
       "album": {
+        "name": "Badmash",
+        "url": "https://open.spotify.com/album/1Aa0LC60RZzl1qGSjyTbvI"
+      },
+      "artists": [
+        {
+          "name": "KD",
+          "url": "https://open.spotify.com/artist/0RPNJNnaW9YEmWCHtL5Yo2"
+        }
+      ],
+      "duration_ms": 356111,
+      "name": "Badmash",
+      "url": "https://open.spotify.com/track/59NeNxSve36qM7JRHVdD6G"
+    },
+    {
+      "added_at": "2024-08-02 09:14:27",
+      "album": {
         "name": "Matha Garam",
         "url": "https://open.spotify.com/album/0rUPO4MVsnME1dyAmmgHm9"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 148363,
       "name": "Mashooka",
       "url": "https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5"
-    },
-    {
-      "added_at": "2024-08-02 09:14:27",
-      "album": {
-        "name": "Badmash",
-        "url": "https://open.spotify.com/album/1Aa0LC60RZzl1qGSjyTbvI"
-      },
-      "artists": [
-        {
-          "name": "KD",
-          "url": "https://open.spotify.com/artist/0RPNJNnaW9YEmWCHtL5Yo2"
-        }
-      ],
-      "duration_ms": 356111,
-      "name": "Badmash",
-      "url": "https://open.spotify.com/track/59NeNxSve36qM7JRHVdD6G"
     },
     {
       "added_at": "2024-08-02 09:14:27",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-08-02 09:14:27",
       "album": {
-        "name": "Tedhe Chaalak",
-        "url": "https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6"
-      },
-      "artists": [
-        {
-          "name": "MC SQUARE",
-          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
-        },
-        {
-          "name": "Ankee",
-          "url": "https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn"
-        }
-      ],
-      "duration_ms": 196816,
-      "name": "Tedhe Chaalak",
-      "url": "https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL"
-    },
-    {
-      "added_at": "2024-08-02 09:14:27",
-      "album": {
         "name": "Vehem",
         "url": "https://open.spotify.com/album/7yAES0qSOCdfBs045ZwmiU"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 177272,
       "name": "Vehem",
       "url": "https://open.spotify.com/track/6ZvrPAj3CE6yEi6IPP5Vjh"
+    },
+    {
+      "added_at": "2024-08-02 09:14:27",
+      "album": {
+        "name": "Tedhe Chaalak",
+        "url": "https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Ankee",
+          "url": "https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn"
+        }
+      ],
+      "duration_ms": 196816,
+      "name": "Tedhe Chaalak",
+      "url": "https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL"
     },
     {
       "added_at": "2024-08-02 09:14:27",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-08-02 09:14:27",
       "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/7KC6ODLTHNAlrJnObUIqaw"
+      },
+      "artists": [
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Bad Boys",
+      "url": "https://open.spotify.com/track/5WkaECgnFSCeSHKBoRGoNs"
+    },
+    {
+      "added_at": "2024-08-02 09:14:27",
+      "album": {
         "name": "32 Bore",
         "url": "https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 144500,
       "name": "32 Bore",
       "url": "https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke"
-    },
-    {
-      "added_at": "2024-08-02 09:14:27",
-      "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/7KC6ODLTHNAlrJnObUIqaw"
-      },
-      "artists": [
-        {
-          "name": "DG IMMORTALS",
-          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Bad Boys",
-      "url": "https://open.spotify.com/track/5WkaECgnFSCeSHKBoRGoNs"
     },
     {
       "added_at": "2024-08-02 09:14:27",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-08-02 09:14:27",
       "album": {
+        "name": "Kaand",
+        "url": "https://open.spotify.com/album/1TZLTVAVHYPUsLwskjBHvs"
+      },
+      "artists": [
+        {
+          "name": "Kabira",
+          "url": "https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa"
+        }
+      ],
+      "duration_ms": 186896,
+      "name": "Kaand",
+      "url": "https://open.spotify.com/track/202W8cvVBBKZw9uEwTs0BC"
+    },
+    {
+      "added_at": "2024-08-02 09:14:27",
+      "album": {
         "name": "Fortuner Drill",
         "url": "https://open.spotify.com/album/3WeVtSZdA0zln8sfEgGZsb"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 187285,
       "name": "Fortuner Drill",
       "url": "https://open.spotify.com/track/5QdyptjamyyuZJ4r39N95X"
-    },
-    {
-      "added_at": "2024-08-02 09:14:27",
-      "album": {
-        "name": "Kaand",
-        "url": "https://open.spotify.com/album/1TZLTVAVHYPUsLwskjBHvs"
-      },
-      "artists": [
-        {
-          "name": "Kabira",
-          "url": "https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa"
-        }
-      ],
-      "duration_ms": 186896,
-      "name": "Kaand",
-      "url": "https://open.spotify.com/track/202W8cvVBBKZw9uEwTs0BC"
     },
     {
       "added_at": "2024-08-02 09:14:27",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2024-08-02 09:14:27",
       "album": {
-        "name": "Sneeze",
-        "url": "https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o"
-      },
-      "artists": [
-        {
-          "name": "Miki Malang",
-          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
-        },
-        {
-          "name": "RP Singh",
-          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
-        }
-      ],
-      "duration_ms": 256363,
-      "name": "Sneeze",
-      "url": "https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ"
-    },
-    {
-      "added_at": "2024-08-02 09:14:27",
-      "album": {
         "name": "Scorpio",
         "url": "https://open.spotify.com/album/5roOwIcUakxTCqdy756NEU"
       },
@@ -1955,22 +1935,46 @@
     {
       "added_at": "2024-08-02 09:14:27",
       "album": {
-        "name": "Chhore Zeher",
-        "url": "https://open.spotify.com/album/2Tnf5mOhd2JOZLewsRyIKG"
+        "name": "Sneeze",
+        "url": "https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o"
       },
       "artists": [
         {
-          "name": "DJ Sunny",
-          "url": "https://open.spotify.com/artist/1oh9WLpDYRZH9z1P81Erbu"
+          "name": "Miki Malang",
+          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
         },
         {
-          "name": "Deep13Bhai",
-          "url": "https://open.spotify.com/artist/718tfbSBs9LZeNVAAn19XD"
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
         }
       ],
-      "duration_ms": 237014,
-      "name": "Chhore Zeher",
-      "url": "https://open.spotify.com/track/5QHilIkFyeL28OmNQbEtnu"
+      "duration_ms": 256363,
+      "name": "Sneeze",
+      "url": "https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ"
+    },
+    {
+      "added_at": "2024-08-02 09:14:27",
+      "album": {
+        "name": "Rao Sahab",
+        "url": "https://open.spotify.com/album/7bXQtOtyKCLppfhBdNJXIQ"
+      },
+      "artists": [
+        {
+          "name": "Krrish Rao",
+          "url": "https://open.spotify.com/artist/2VqJFtElDmZUSbTAgQhVVv"
+        },
+        {
+          "name": "Kriti Verma",
+          "url": "https://open.spotify.com/artist/50k6SiiWTWIdifNRgXI64E"
+        },
+        {
+          "name": "Fateh Sandhu",
+          "url": "https://open.spotify.com/artist/1CsrIsktvaa6Bv1yAACs4h"
+        }
+      ],
+      "duration_ms": 192999,
+      "name": "Rao Sahab",
+      "url": "https://open.spotify.com/track/5b8fPlCEdsYNHpVXJFKGvo"
     }
   ],
   "unique_name": "Hip-Hop Haryanvi",

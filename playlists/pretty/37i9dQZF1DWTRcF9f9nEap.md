@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,965 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,021 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 42 | [Sahib Teri Bandi \- Maki Madni](https://open.spotify.com/track/0pxgXjiNwxX7nO96ywdGZe) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/0bAKGnvpKWdI3lH7Q3RCJJ) | 9:54 |
 | 43 | [The River \(Live\)](https://open.spotify.com/track/46Iid9PQ2ul14y7WzO95JZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tour De Force: Live In London \- The Borderline](https://open.spotify.com/album/2defwrQq8wg12ERYrnG6v3) | 6:57 |
 | 44 | [Death Letter Blues](https://open.spotify.com/track/10Gk3art7qE7JKBe6jhN4E) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [The Roots](https://open.spotify.com/album/0qiFwGYof01onnlq0DhZUy) | 5:28 |
-| 45 | [Hard Times a\-Comin'](https://open.spotify.com/track/2nY8hajgBVPaWZpd6sUIRi) | [Cal Williams Jr](https://open.spotify.com/artist/1aqS60cnKUnBC1QlQGaG45) | [Little Black Crow](https://open.spotify.com/album/734mbE26nI6Tjj8bgaRwAa) | 4:59 |
-| 46 | [4 Cars](https://open.spotify.com/track/6InflvdGdVB2QOJQXIPPRu) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [4 Cars](https://open.spotify.com/album/02jDWz1Dyidvl6zV05SOJn) | 3:29 |
+| 45 | [4 Cars](https://open.spotify.com/track/6InflvdGdVB2QOJQXIPPRu) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [4 Cars](https://open.spotify.com/album/02jDWz1Dyidvl6zV05SOJn) | 3:29 |
+| 46 | [Hard Times a\-Comin'](https://open.spotify.com/track/2nY8hajgBVPaWZpd6sUIRi) | [Cal Williams Jr](https://open.spotify.com/artist/1aqS60cnKUnBC1QlQGaG45) | [Little Black Crow](https://open.spotify.com/album/734mbE26nI6Tjj8bgaRwAa) | 4:59 |
 | 47 | [Living On Death Row](https://open.spotify.com/track/1iq6EiS1cpMM6881DyHZlY) | [Ben Hemming](https://open.spotify.com/artist/5zRxZcc8PFj6QlgbQoc04g) | [Living On Death Row](https://open.spotify.com/album/2Ih4qCEgwESdt3Au8I8RSp) | 3:22 |
 | 48 | [I Can't Be Satisfied / Chicago Calling \- Live at the Sinkkasten, Frankfurt, May 1984](https://open.spotify.com/track/6J1GdimzG8csTIjDl3vJWC) | [Dave Kelly](https://open.spotify.com/artist/1d6BAagJzxbgBt0wwhB7hz) | [40 Years on \- a Recollection](https://open.spotify.com/album/6IXUQlu71xys7PUn2mm0Lc) | 4:53 |
 | 49 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 |

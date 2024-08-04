@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-746 songs - 1 day 9 hr 36 min
+747 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ai Ga Sutaretatte \- Instrumental](https://open.spotify.com/track/02jGDV1UmoVugsWbd8lqt6) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [MAHORO \(Instrumental\)](https://open.spotify.com/album/7iPCwmAAliYJEfAU1UPWoR) | 4:11 | 2024-02-01 | 2024-04-19 |
 | [Aimi](https://open.spotify.com/track/2xEXBZnQcVZvLpUjeaIUE6) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Aimi](https://open.spotify.com/album/1XPjRCV2dXW1YeZeGClE23) | 1:55 | 2022-03-24 | 2022-04-21 |
 | [AIRPLANE](https://open.spotify.com/track/4sbyEn8z6ZInVFHG9dMX2H) | [niafrasco](https://open.spotify.com/artist/4qjD6ngB2GaiIoWc6Xws42) | [AIRPLANE](https://open.spotify.com/album/4xXPSCOmahxADTYOhb3b1l) | 3:42 | 2021-12-23 | 2022-07-28 |
+| [ajisai](https://open.spotify.com/track/7C2BZhjpbLjanFlDaXTNpu) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ajisai](https://open.spotify.com/album/4Ri0h9mx6VsbSgildiHgDi) | 2:25 | 2024-07-26 |  |
 | [amayadori](https://open.spotify.com/track/1Uvaa7vMJi5BLmptfLXSbt) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [DNA](https://open.spotify.com/album/2W4AEr7iLE7D9D23r2UsW2) | 3:01 | 2023-07-27 | 2023-11-02 |
 | [ame](https://open.spotify.com/track/3Aof4M4zDeX2KPORAHfKFH) | [babaroa](https://open.spotify.com/artist/7AIZziu2N7IegfZyEPoQp7) | [ame](https://open.spotify.com/album/1KLCgbxZkoBFsoTEnLi7XV) | 4:51 | 2021-12-23 | 2022-07-26 |
 | [ame wa yagate](https://open.spotify.com/track/2klczfrgSpUTeK40grQWq5) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ame wa yagate](https://open.spotify.com/album/4AUNbxw3QMLTjBaQlhyqvL) | 3:06 | 2024-07-04 |  |
@@ -115,7 +116,7 @@
 | [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-09 | 2024-04-19 |
 | [chill oil](https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6) | 2:35 | 2023-03-09 | 2024-07-02 |
 | [China Town](https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9) | [Storkes](https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom) | [China Town](https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR) | 2:32 | 2021-12-23 | 2023-03-23 |
-| [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 | 2024-08-01 |
+| [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 |  |
 | [choppy](https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [choppy](https://open.spotify.com/album/1GQkAyBiePE7ZJ5N8HAAPh) | 2:13 | 2023-08-24 | 2023-09-29 |
 | [CHOUCHIN \(SOUND TOUR\)](https://open.spotify.com/track/484jkFwdfoURJBypnOLCl0) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [CHOUCHIN \(SOUND TOUR\)](https://open.spotify.com/album/0OKZQaezckePqyi8OHSKQH) | 1:10 | 2022-04-14 | 2022-07-24 |
 | [Chōchin](https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [Chōchin](https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn) | 3:05 | 2021-12-23 |  |
@@ -655,7 +656,7 @@
 | [tasty greens](https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG) | [Froowty Lupes](https://open.spotify.com/artist/2Q9neDyx9dRoMnH7yZkCe2), [Yoshi Tanaka](https://open.spotify.com/artist/1iZ1b2L5WewpMQvrB5acFr), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [tasty greens](https://open.spotify.com/album/4JzSspBnbceWs3F6qexRSR) | 1:36 | 2022-01-13 |  |
 | [tattered trees in the rain](https://open.spotify.com/track/0cdqCuXYoMbrNKoMtsNse6) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tattered trees in rain](https://open.spotify.com/album/1JFvsD6gyVDwb2Nu4CU3hU) | 2:14 | 2022-03-24 | 2022-06-10 |
 | [tear drop](https://open.spotify.com/track/0vOVwVh2MgfgZ3GNM4DMBE) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Imaginary Landscape](https://open.spotify.com/album/3Hjj8fzZ6ys0Ig5uB62kzC) | 3:09 | 2021-12-23 | 2022-07-28 |
-| [tears](https://open.spotify.com/track/4nencs47cFrR4MOTSx1OgK) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [DNAII](https://open.spotify.com/album/6rScN72pRIcQkYn9YJpHgF) | 2:24 | 2024-01-25 |  |
+| [tears](https://open.spotify.com/track/4nencs47cFrR4MOTSx1OgK) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [DNAII](https://open.spotify.com/album/6rScN72pRIcQkYn9YJpHgF) | 2:24 | 2024-01-25 | 2024-08-04 |
 | [temptation](https://open.spotify.com/track/4JPnlef6iWbmpmDoEXZcRe) | [4ten](https://open.spotify.com/artist/4eu1vzFHLQk5a5vV4omCe3) | [temptation](https://open.spotify.com/album/4dbGZLA8Q1WP4gkvqHB53N) | 3:38 | 2022-07-21 | 2023-03-04 |
 | [Tequila at midnight](https://open.spotify.com/track/6LybfPtenqFNvld1swgrKU) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Bar counter](https://open.spotify.com/album/6iwVxTLfB1mu2pSHt34STB) | 1:52 | 2022-02-03 | 2022-09-19 |
 | [thank you](https://open.spotify.com/track/2HC8XxoSzx8u1fy0F2sRtZ) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [samurai champloo music record playlist](https://open.spotify.com/album/49mMypOEixRaJ26rZGbvnI) | 4:15 | 2024-02-06 | 2024-02-16 |
@@ -679,7 +680,7 @@
 | [touch](https://open.spotify.com/track/1tZt5VNrrJBjld65OiZGKc) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/6c8K3yA92WDlMN6WguocxP) | 1:28 | 2023-09-28 |  |
 | [touch](https://open.spotify.com/track/4N9k6Nklzns7QzslAABaTq) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/0Y8r76clygH0KolOk3ohpR) | 1:28 | 2023-09-28 | 2024-04-19 |
 | [Toy Coffee](https://open.spotify.com/track/7JpvzCoiFbTGglpNVDG5GQ) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Toy Coffee](https://open.spotify.com/album/3r1bAeGCOzZhBzeYRhYTzY) | 2:08 | 2021-12-23 | 2022-07-01 |
-| [Train Smoke](https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Train Smoke](https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG) | 2:16 | 2021-12-23 |  |
+| [Train Smoke](https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Train Smoke](https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG) | 2:16 | 2021-12-23 | 2024-08-04 |
 | [Transient](https://open.spotify.com/track/4RXAQJaBwtNoCTEDKdRFaG) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Transient](https://open.spotify.com/album/27ftctMCC0bPxHcoR6kv73) | 2:10 | 2021-12-23 | 2022-07-12 |
 | [Tree Pillows](https://open.spotify.com/track/7lAvdR45jmaNvwRwQRkvGf) | [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC) | [Clouded](https://open.spotify.com/album/2sh8z0An42fdUtnztpdgrk) | 2:30 | 2022-01-06 | 2022-04-21 |
 | [Trees Talk Too](https://open.spotify.com/track/1ji7hIJN2M05QVG3cFkzvp) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Trees Talk Too](https://open.spotify.com/album/14XVbyMnmFIIDc6Bg0hQme) | 2:20 | 2022-03-24 | 2022-04-18 |

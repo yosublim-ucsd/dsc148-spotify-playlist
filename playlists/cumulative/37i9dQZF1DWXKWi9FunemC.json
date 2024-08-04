@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 390497,
       "name": "Home (Acoustic)",
       "url": "https://open.spotify.com/track/67V4t2QI912xsWkXPDelPb"
@@ -3060,6 +3060,24 @@
       "duration_ms": 307292,
       "name": "Peace - Acoustic",
       "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
+    },
+    {
+      "album": {
+        "name": "peacefully",
+        "url": "https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121363,
+      "name": "peacefully",
+      "url": "https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM"
     },
     {
       "album": {

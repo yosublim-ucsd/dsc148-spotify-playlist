@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,611 likes - 70 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,846 likes - 70 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 12 | [Aí Aí Que Legal \- Aí Aí Que Fenomenal](https://open.spotify.com/track/5Wo7n1OpPGKSMzTvfou9s8) | [DJ Miller Oficial](https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP), [Mc Nauan](https://open.spotify.com/artist/1UisTLtsrXMrV7T5jvMcHB), [MC Digu](https://open.spotify.com/artist/3vcNcwMasVwgv5jPfdUwaE) | [Aí Aí Que Legal \- Aí Aí Que Fenomenal](https://open.spotify.com/album/0PSFi4yziwxIfoLgV7J64X) | 2:27 |
 | 13 | [Deixa Eu Ser Seu Romeu](https://open.spotify.com/track/08FbjJaapnrQ0zk36j1R9p) | [DJ CVB 011](https://open.spotify.com/artist/0av3xCloXoeMDNlOghdF5g), [MC FURI SP](https://open.spotify.com/artist/08zGM1dFzkWuPJ0rpz5Tq4), [G7 MUSIC BR](https://open.spotify.com/artist/4fPR5Tro0vdgsaMZanGjZ4) | [Deixa Eu Ser Seu Romeu](https://open.spotify.com/album/3LuexrCV0bHQQMW56Ju6I8) | 3:10 |
 | 14 | [Chego Minha Encomenda](https://open.spotify.com/track/194QRsvUCRyFuQVUPNc59q) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Rd Sucessada Oficial](https://open.spotify.com/artist/2bGRYJ6vlxcdy4ykoUDTNr) | [Chego Minha Encomenda](https://open.spotify.com/album/3n3tz0DoFOD4Y6I8SNBhdX) | 1:41 |
-| 15 | [Eu Vou Dançando Sem Você](https://open.spotify.com/track/3wDxeVA7WvPEe6MO1jIgxm) | [Dj Leo Lg](https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe) | [Eu Vou Dançando Sem Você](https://open.spotify.com/album/1132MvmoT9oqARN98UlkNS) | 1:53 |
+| 15 | [Eu Vou Dançando Sem Você](https://open.spotify.com/track/3wDxeVA7WvPEe6MO1jIgxm) | [Dj Leo Lg](https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe), [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g), [Mc Mr\. Bim](https://open.spotify.com/artist/0Lhk5DBsN2N0HGUZ0TmUq2) | [Eu Vou Dançando Sem Você](https://open.spotify.com/album/1132MvmoT9oqARN98UlkNS) | 1:53 |
 | 16 | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 |
 | 17 | [MTG \(WHAT IS LOVE\)](https://open.spotify.com/track/7bt3kG6ivWSt7CQEWE0bsf) | [Loirin prod](https://open.spotify.com/artist/0SgHuOMfN5sYzxKYMAHhvJ) | [MTG \(WHAT IS LOVE\)](https://open.spotify.com/album/4RkJXcmZPioyApTMfmtXrf) | 2:15 |
 | 18 | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/album/7ouR6mhMMrCZuv5qCv6ooT) | 1:57 |

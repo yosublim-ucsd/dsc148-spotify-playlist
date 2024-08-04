@@ -1,13 +1,33 @@
 {
   "description": "ft. charli",
-  "num_followers": 461169,
+  "num_followers": 461318,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZprSaQAAAAAWbyxImEZqinrXkpfveFlk",
+  "snapshot_id": "Zq5Y6wAAAAAv5YXGGdXZv81Ir2tyKY+V",
   "tracks": [
+    {
+      "added_at": "2024-08-03 15:58:38",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
     {
       "added_at": "2024-07-19 20:54:01",
       "album": {
@@ -29,20 +49,88 @@
       "url": "https://open.spotify.com/track/3iHihR9gGDWNuiIJs65OUR"
     },
     {
-      "added_at": "2024-06-14 05:37:00",
+      "added_at": "2024-08-03 15:58:38",
       "album": {
-        "name": "360",
-        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+        "name": "laced up",
+        "url": "https://open.spotify.com/album/4cVTqaVqALNAoN5HQmRbai"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
         }
       ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
+      "duration_ms": 170000,
+      "name": "laced up",
+      "url": "https://open.spotify.com/track/7BmPwqjDJUoSjMFitrqs4Z"
+    },
+    {
+      "added_at": "2024-08-03 16:18:57",
+      "album": {
+        "name": "Flash in the Pan",
+        "url": "https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 223365,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ"
+    },
+    {
+      "added_at": "2024-08-03 15:58:38",
+      "album": {
+        "name": "trauma",
+        "url": "https://open.spotify.com/album/0eihBhagAmahQQALFmScz3"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 131506,
+      "name": "trauma",
+      "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
+    },
+    {
+      "added_at": "2024-08-03 16:20:59",
+      "album": {
+        "name": "SMILE! :D",
+        "url": "https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/10eSd64aL2TYuGLdrYCfU9"
+    },
+    {
+      "added_at": "2024-06-07 05:00:00",
+      "album": {
+        "name": "PINK LIKE SUKI",
+        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
+      },
+      "artists": [
+        {
+          "name": "Pebbles&TamTam",
+          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+        }
+      ],
+      "duration_ms": 150169,
+      "name": "PINK LIKE SUKI",
+      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
     },
     {
       "added_at": "2024-06-25 19:39:18",
@@ -89,6 +177,22 @@
       "url": "https://open.spotify.com/track/6pINwW2mGSK0LCDv6cYHMJ"
     },
     {
+      "added_at": "2024-06-14 05:37:00",
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Block",
@@ -119,22 +223,6 @@
       "duration_ms": 142973,
       "name": "2009",
       "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
-    },
-    {
-      "added_at": "2024-06-07 05:00:00",
-      "album": {
-        "name": "PINK LIKE SUKI",
-        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
-      },
-      "artists": [
-        {
-          "name": "Pebbles&TamTam",
-          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
-        }
-      ],
-      "duration_ms": 150169,
-      "name": "PINK LIKE SUKI",
-      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
     },
     {
       "added_at": "2024-06-28 14:25:07",
@@ -187,22 +275,6 @@
       "duration_ms": 147564,
       "name": "say it again",
       "url": "https://open.spotify.com/track/3KRsMB7fhDHi9RAlBKhVaH"
-    },
-    {
-      "added_at": "2024-06-10 16:15:25",
-      "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 142265,
-      "name": "Guess",
-      "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
     },
     {
       "added_at": "2024-06-28 04:00:00",

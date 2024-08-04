@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-952 songs - 2 day 9 hr 37 min
+953 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Break the Line](https://open.spotify.com/track/5ze7yZ99744gLl83y2qDyx) | [Jon Mangan](https://open.spotify.com/artist/4K9OHYek6QkS7HHzSKQyrM) | [Break the Line](https://open.spotify.com/album/6HVtUbow3vnWnOhcu8FQ5I) | 3:30 | 2024-02-16 | 2024-07-27 |
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-05-14 |
 | [Breaking Light](https://open.spotify.com/track/616t2cVL8B7jUtzxqyLRAx) | [Aurosonic](https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1), [Sharon Valerona](https://open.spotify.com/artist/5QqFl3TTNF95pndfKUr1Vb) | [Breaking Light](https://open.spotify.com/album/3qYFbXf36nY6ChDS26Q268) | 3:42 | 2022-02-18 | 2022-10-29 |
-| [Breath of Life](https://open.spotify.com/track/7pkVmfzwkugvPTNVQLQU1i) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Breath of Life](https://open.spotify.com/album/4CVY7Jj9BQDoStDHY1if64) | 3:09 | 2023-08-04 |  |
+| [Breath of Life](https://open.spotify.com/track/7pkVmfzwkugvPTNVQLQU1i) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Breath of Life](https://open.spotify.com/album/4CVY7Jj9BQDoStDHY1if64) | 3:09 | 2023-08-04 | 2024-08-04 |
 | [Breath Of The Wild](https://open.spotify.com/track/08ikdgOu28YP4bFKAq44wL) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej) | [Breath Of The Wild](https://open.spotify.com/album/5KPwjMCZyCXLWltnBnewor) | 3:30 | 2022-10-07 | 2023-12-09 |
 | [Breathe](https://open.spotify.com/track/3W6kvOOFOe2Br9X1TCfR7G) | [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Breathe](https://open.spotify.com/album/3mhjrFINMjUNpVcNOBMFRf) | 3:43 | 2023-02-24 | 2023-06-10 |
 | [Breathing](https://open.spotify.com/track/37bZneyU8dqpl2TAiSe0pw) | [Boom Jinx](https://open.spotify.com/artist/6Qt0hC59vdinaimdZkin1Y), [Nitrous Oxide](https://open.spotify.com/artist/0UJQXkmx6GjqUxugf7zzkR), [Einar K](https://open.spotify.com/artist/3bupuvTQ70NllkKaZtwC1c), [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Breathing](https://open.spotify.com/album/2iriCUVPYMoO4w0fYz5CPH) | 3:12 | 2023-05-26 | 2024-05-18 |
@@ -481,6 +481,7 @@
 | [Lights](https://open.spotify.com/track/0xfU9beVFKw5wi9sIQS73P) | [AK](https://open.spotify.com/artist/3h8Rryl61DV4vQhAn1cLVH), [Audrey Gallagher](https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ) | [Lights](https://open.spotify.com/album/1ZZmYRy7EjfYgFeltGVjYk) | 3:23 | 2022-03-11 | 2022-07-25 |
 | [Lights](https://open.spotify.com/track/60nHIZtCpSQyJbhQuEsaIi) | [Mike Zaloxx](https://open.spotify.com/artist/3ouOviMDzZMb55MJp08Tu4), [Rinaly](https://open.spotify.com/artist/17fstkJkaEYiI1tBX1N7RD) | [Lights](https://open.spotify.com/album/6XakwOBOnXBrHYmH158jEo) | 3:57 | 2022-03-18 | 2022-07-14 |
 | [Like A Prayer](https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN) | [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2) | [Like A Prayer](https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87) | 3:49 | 2023-09-22 |  |
+| [Like DAT](https://open.spotify.com/track/17lr3qI03WESpCHYTBjqPZ) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Like DAT](https://open.spotify.com/album/1Pmq59yfQH0d5wXY7KRXat) | 3:44 | 2024-08-02 |  |
 | [Like the Sky is Falling](https://open.spotify.com/track/5s6t493dGmQ1YMLj6PukeW) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A), [London Thor](https://open.spotify.com/artist/7to9vdVy94a46Z14O2MmYr) | [Like the Sky is Falling](https://open.spotify.com/album/0TwRhVCKqJdLt2nYV6QvJU) | 3:48 | 2023-05-26 | 2024-05-18 |
 | [Like You](https://open.spotify.com/track/3K9B5jSSv4MPG3iQjdnosF) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Like You](https://open.spotify.com/album/44F5JkXd5wKUeM5mXoTtIR) | 4:14 | 2024-07-12 |  |
 | [Lilac](https://open.spotify.com/track/5KaGis4Nz531fsdjOf1T1m) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi) | [Lilac](https://open.spotify.com/album/0WHNRhxFCyW5kIFFTGA6ii) | 4:03 | 2022-07-01 | 2022-07-09 |

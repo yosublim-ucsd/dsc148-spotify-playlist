@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-390 songs - 21 hr 1 min
+391 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [At Night](https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz), [Baron Von Trax](https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT) | [At Night EP](https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA) | 3:58 | 2024-05-24 |  |
 | [Baby](https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Baby](https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r) | 2:57 | 2022-05-10 | 2023-09-12 |
 | [Baby](https://open.spotify.com/track/5NNOhlMKhGFODsPv2O4Nuq) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Baby](https://open.spotify.com/album/4JYfU6NeDueGC1ZXKQO6Vs) | 2:43 | 2024-05-24 | 2024-08-03 |
+| [Back \(feat\. Flirta D\)](https://open.spotify.com/track/03yIjpTayeOffZYTTNdiyF) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Back \(feat\. Flirta D\)](https://open.spotify.com/album/07t04O7yvxc7k3yET2PjA7) | 3:07 | 2024-08-02 |  |
 | [Bad \(feat\. Aitch\)](https://open.spotify.com/track/4HTKztrMHpvn2sAl4HcK3J) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Bad \(feat\. Aitch\)](https://open.spotify.com/album/2yOlbpaUHBPXPq7cQJ563V) | 3:26 | 2022-05-10 | 2023-09-12 |
 | [Bad Vibe](https://open.spotify.com/track/70eehEqNug7oAhozjhG21t) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Bad Vibe](https://open.spotify.com/album/0gLjyIohhJ5LxXPRJhIOtq) | 3:34 | 2021-07-09 | 2022-05-11 |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-06-14 |  |
@@ -144,7 +145,7 @@
 | [Go Deeper](https://open.spotify.com/track/5DuYUQO1VPDM5vfcb6esuP) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Go Deeper](https://open.spotify.com/album/5srysQygAgaCcq4rHZcXDi) | 3:09 | 2024-08-02 |  |
 | [Go Girl](https://open.spotify.com/track/02btIbZVDCpCdCkSorceTm) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Go Girl](https://open.spotify.com/album/7cms9Gm5nuo1USp34gCAaQ) | 3:27 | 2022-05-10 | 2022-07-29 |
 | [Go Low](https://open.spotify.com/track/2OwV4woHaOCp8bii7p6Dx6) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Go Low](https://open.spotify.com/album/4j5Fhcni75m2xAAR6evRxX) | 2:53 | 2022-05-10 | 2022-05-26 |
-| [GO OFF](https://open.spotify.com/track/2BVybO0IKCbtUu2ZI2VfiZ) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [GO OFF](https://open.spotify.com/album/795AOVTX1vBJBP1xKbJLrw) | 4:13 | 2024-06-14 |  |
+| [GO OFF](https://open.spotify.com/track/2BVybO0IKCbtUu2ZI2VfiZ) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [GO OFF](https://open.spotify.com/album/795AOVTX1vBJBP1xKbJLrw) | 4:13 | 2024-06-14 | 2024-08-04 |
 | [Gold Dust \- Shy FX Re\-Edit](https://open.spotify.com/track/61gnmKsVhB4TuSJWZzjI3N) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Gold Dust \(Shy FX Re\-Edit\)](https://open.spotify.com/album/2y7ahWV2mpl2le5QboUG2k) | 3:02 | 2021-07-09 | 2022-05-11 |
 | [Good](https://open.spotify.com/track/0LEEtJg8hHOyytcotgnaKq) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Good](https://open.spotify.com/album/4FgSB1DDC5bKynrjVs68Uv) | 2:58 | 2021-07-09 | 2022-07-29 |
 | [Good Times \- Radio Edit](https://open.spotify.com/track/6MmcXmpXBeqY640DLNHPKW) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Winner Stays On](https://open.spotify.com/album/4SLp2B1pA9SFMXtOgpZVuY) | 3:44 | 2021-07-09 | 2022-05-11 |

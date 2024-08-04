@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 85200,
       "name": "Aadi Baa Theme (From \"Blink\")",
       "url": "https://open.spotify.com/track/1hZu6rCafV37hrOdMVavCE"
@@ -10558,7 +10558,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 222779,
       "name": "Hello Everybody",
       "url": "https://open.spotify.com/track/5O2Z8wLp9NY8G7y4NsuhXt"
@@ -21458,7 +21458,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 260191,
       "name": "Nodoka (From \"Pushpa 2 The Rule\") [KANNADA]",
       "url": "https://open.spotify.com/track/1WAf9IPeXPci5N5tpz3CfT"
@@ -25663,6 +25663,32 @@
     },
     {
       "album": {
+        "name": "Samaya (From \"Murphy\")",
+        "url": "https://open.spotify.com/album/5NFeP88srsXM0nfvCybALz"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Rajat Hegde",
+          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
+        },
+        {
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Samaya (From \"Murphy\")",
+      "url": "https://open.spotify.com/track/7gH1rDEvLAxDeXRfZpPliJ"
+    },
+    {
+      "album": {
         "name": "Samayave (From \"Kadala Theerada Bhargava\")",
         "url": "https://open.spotify.com/album/57JzDj0jyzlNhbKqVtpIk8"
       },
@@ -27708,6 +27734,32 @@
       "duration_ms": 200416,
       "name": "Thandani Thandanino",
       "url": "https://open.spotify.com/track/6gok0id67ERXliiTMqttVP"
+    },
+    {
+      "album": {
+        "name": "Thangalaan (War Song) (From \"Thangalaan\") [Kannada]",
+        "url": "https://open.spotify.com/album/4SbPKxDJI8MCAexo9mLMwN"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sarath Santosh",
+          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+        },
+        {
+          "name": "Varadharaj Chikkaballapur",
+          "url": "https://open.spotify.com/artist/6eH0QF0Kj5cofeWOMCiOup"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179748,
+      "name": "Thangalaan (War Song) (From \"Thangalaan\") - Kannada",
+      "url": "https://open.spotify.com/track/6wiKd1Rg9AwE4fYgOt9tIw"
     },
     {
       "album": {

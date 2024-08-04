@@ -10,7 +10,6 @@
 |---|---|---|---|---|---|
 | [10](https://open.spotify.com/track/5uL4f3tGdcsIDThNcJ7CHS) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu) | [10](https://open.spotify.com/album/2ORAydOWoXJ8tXa3451ihy) | 2:37 | 2024-06-27 |  |
 | [Blanc](https://open.spotify.com/track/3gJZXFabFJLC6hPtXF7HSh) | [Фир](https://open.spotify.com/artist/38XfwCl7tynQxVzNoqYzIY), [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y) | [Blanc](https://open.spotify.com/album/1QtFG26e6iZcgegP45eRJb) | 3:09 | 2024-06-27 |  |
-| [Haшi](https://open.spotify.com/track/6ITihG9iy5E9WkvWg80NBg) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [ВАТРА black](https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB) | 3:01 | 2024-08-01 |  |
 | [Lost Cause](https://open.spotify.com/track/6NfDMEzKj5omozlckcvjcA) | [Watsebha](https://open.spotify.com/artist/4NKiKE60GYOcPCe02G9Ke4) | [Lost Cause](https://open.spotify.com/album/6TWLH4tJwj1pOEYk2enT4n) | 2:27 | 2024-06-27 |  |
 | [RAGNAROK](https://open.spotify.com/track/2too3Pi9ZnJtwt6koMJEmF) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [RAGNAROK](https://open.spotify.com/album/21iXpwif0hx1bu32KMAiDp) | 3:33 | 2024-06-27 |  |
 | [Sun](https://open.spotify.com/track/0zBUSHwjDRfvJg0A8ocVuW) | [Watsebha](https://open.spotify.com/artist/4NKiKE60GYOcPCe02G9Ke4) | [Sun](https://open.spotify.com/album/4a7psQ9XAe58GdTuM6MnLM) | 2:29 | 2024-06-27 |  |
@@ -40,6 +39,7 @@
 | [Мадам](https://open.spotify.com/track/7rc8ibFdLCFsoG9MlshpF2) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Мадам](https://open.spotify.com/album/4ndDMouRd5gi3utWjs0i32) | 2:25 | 2024-06-27 |  |
 | [Марічка](https://open.spotify.com/track/2WoksKIDPQ8o90cqDbgE7L) | [Patsyki Z Franeka](https://open.spotify.com/artist/0fB3vIwNC9q3MCIBugQ5o9) | [Марічка](https://open.spotify.com/album/2vuy3wk0EUUUPJejUuAF43) | 3:26 | 2024-06-27 |  |
 | [Мій дім](https://open.spotify.com/track/2B9toPBL4ZxY5xeK8h8RBS) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Мій дім](https://open.spotify.com/album/60AdWdumInAzUUCayul6BV) | 2:41 | 2024-06-27 |  |
+| [Нaшi](https://open.spotify.com/track/6ITihG9iy5E9WkvWg80NBg) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [ВАТРА black](https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB) | 3:01 | 2024-08-01 |  |
 | [На даху](https://open.spotify.com/track/6AvzIrBCctDINlsy16lQR3) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [На даху](https://open.spotify.com/album/3FlXdW43VRAn8ww99fNCly) | 2:34 | 2024-06-27 |  |
 | [Не втратимо зв'язок](https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Не втратимо зв'язок](https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX) | 2:28 | 2024-06-27 |  |
 | [Не шукав](https://open.spotify.com/track/2e93o8SV4u4oqbZlLKIU7C) | [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3) | [Не шукав](https://open.spotify.com/album/7HZTGXwTX6if5XIJo0NY24) | 2:24 | 2024-06-27 | 2024-07-19 |

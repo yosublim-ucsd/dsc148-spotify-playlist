@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 120356,
+  "num_followers": 120370,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Friends (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/3sTdQoIdHfjxVLGtb3I3FL"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 260307,
-      "name": "Friends - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/1dtNRzHMtDS3TtIzxNdyag"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Nightshapes",
         "url": "https://open.spotify.com/album/5pRg1T6q3JHehMmVAP8afy"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 205779,
       "name": "Nightshapes",
       "url": "https://open.spotify.com/track/20Mb3OEO2GYuhvQ7mDmTXe"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Friends (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/3sTdQoIdHfjxVLGtb3I3FL"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 260307,
+      "name": "Friends - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/1dtNRzHMtDS3TtIzxNdyag"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Yumi (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 245624,
-      "name": "Yumi - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Voicemail",
         "url": "https://open.spotify.com/album/67g647pS91MZxdzdmUYSda"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 220434,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/2YCgldCFM52mBBZdQCOfDE"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Yumi (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 245624,
+      "name": "Yumi - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1507,18 +1507,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+        "name": "Close Encounters",
+        "url": "https://open.spotify.com/album/5YxOhkGIWLYZRXWc5V173x"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        },
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
         }
       ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
+      "duration_ms": 168750,
+      "name": "Close Encounters",
+      "url": "https://open.spotify.com/track/0vYxkkJ5bGTs3OzP1E3Isl"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1539,6 +1543,22 @@
       "duration_ms": 402818,
       "name": "Ghosts Again - Massano Remix",
       "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1571,26 +1591,6 @@
       "duration_ms": 243777,
       "name": "Deeper For You",
       "url": "https://open.spotify.com/track/36i2NckUKCHdpJzrvgukx6"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Close Encounters",
-        "url": "https://open.spotify.com/album/5YxOhkGIWLYZRXWc5V173x"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        },
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Close Encounters",
-      "url": "https://open.spotify.com/track/0vYxkkJ5bGTs3OzP1E3Isl"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Rondo",
         "url": "https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD"
       },
@@ -1695,22 +1715,6 @@
       "duration_ms": 146490,
       "name": "Rondo",
       "url": "https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/4ivh5G9ja0yRD2M3KEelgJ"
-      },
-      "artists": [
-        {
-          "name": "Caroline Roxy",
-          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
-        }
-      ],
-      "duration_ms": 169639,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/44BOuprG538ofr0uUO7jRr"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1763,26 +1767,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Downfall",
-        "url": "https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        },
-        {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
-        }
-      ],
-      "duration_ms": 194434,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Shapes in the Spray",
         "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
       },
@@ -1799,18 +1783,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Freaks at Night",
-        "url": "https://open.spotify.com/album/7kxCqxCTpTGTLj61xXksz7"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/4ivh5G9ja0yRD2M3KEelgJ"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
         }
       ],
-      "duration_ms": 214153,
-      "name": "Freaks at Night",
-      "url": "https://open.spotify.com/track/2hAIcWh147ofa7v2DXyHPn"
+      "duration_ms": 169639,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/44BOuprG538ofr0uUO7jRr"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1835,6 +1819,22 @@
       "duration_ms": 180952,
       "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Freaks at Night",
+        "url": "https://open.spotify.com/album/7kxCqxCTpTGTLj61xXksz7"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Freaks at Night",
+      "url": "https://open.spotify.com/track/2hAIcWh147ofa7v2DXyHPn"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "The Point Of Living (Omnya Remix)",
-        "url": "https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "The Point Of Living (Omnya Remix)",
-      "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Gate / Masterplan",
         "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
@@ -2019,6 +1999,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "The Point Of Living (Omnya Remix)",
+        "url": "https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "The Point Of Living (Omnya Remix)",
+      "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
       },
@@ -2031,26 +2031,6 @@
       "duration_ms": 412505,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Transmission (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/3fDdHLp8KrslUHQ4S1WRPJ"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 224274,
-      "name": "Transmission - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/08T5Ibykp5D758EGSAFJb8"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2075,38 +2055,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Phoenix (Saved My Life)",
-        "url": "https://open.spotify.com/album/5Uun2pL0ZfEWf4I7Vpliko"
+        "name": "Transmission (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/3fDdHLp8KrslUHQ4S1WRPJ"
       },
       "artists": [
         {
-          "name": "R3SPAWN",
-          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
         },
         {
-          "name": "Caroline Roxy",
-          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 163278,
-      "name": "Phoenix (Saved My Life)",
-      "url": "https://open.spotify.com/track/2pXh6SdeJN0m420X8ekZSr"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Telepathic",
-        "url": "https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 278522,
-      "name": "Telepathic",
-      "url": "https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB"
+      "duration_ms": 224274,
+      "name": "Transmission - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/08T5Ibykp5D758EGSAFJb8"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2131,6 +2095,42 @@
       "duration_ms": 258545,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Telepathic",
+        "url": "https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 278522,
+      "name": "Telepathic",
+      "url": "https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Phoenix (Saved My Life)",
+        "url": "https://open.spotify.com/album/5Uun2pL0ZfEWf4I7Vpliko"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        },
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "duration_ms": 163278,
+      "name": "Phoenix (Saved My Life)",
+      "url": "https://open.spotify.com/track/2pXh6SdeJN0m420X8ekZSr"
     },
     {
       "added_at": "2024-08-01 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Always good, always chill indie for hanging out and relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,460,946 likes - 141 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,460,935 likes - 141 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

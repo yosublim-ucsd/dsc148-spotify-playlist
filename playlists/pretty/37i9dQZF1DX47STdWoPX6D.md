@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > New songs from CHH's emerging artists!  Cover: <a href="spotify:artist:419NjKezGEJOVPtiymCp2p">Ty Brasel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,582 likes - 64 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,596 likes - 64 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

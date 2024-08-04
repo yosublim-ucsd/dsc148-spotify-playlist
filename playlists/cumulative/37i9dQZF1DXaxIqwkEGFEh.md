@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: 42 Dugg
 
-1,415 songs - 2 day 17 hr 39 min
+1,416 songs - 2 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Day Day N Craig \(with Tay Keith\)](https://open.spotify.com/track/5hgDSQNG4R8NsC4KqsAVxq) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Day Day N Craig \(with Tay Keith\)](https://open.spotify.com/album/4q2CfQMtCCeTZFSmYW5rLO) | 2:17 | 2021-10-29 | 2022-03-05 |
 | [Day I Got Shot](https://open.spotify.com/track/5tSNezeNAkfObxNhlTqhXd) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Day I Got Shot](https://open.spotify.com/album/0lz246QSLrOp5EAE7wfbNG) | 2:48 | 2023-09-15 | 2023-09-30 |
 | [DEA](https://open.spotify.com/track/5CMbGpsgU08DmddR82oXXk) | [Unfoonk](https://open.spotify.com/artist/2f6hqWBFjqS1EUHMS1JOFB), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [DEA](https://open.spotify.com/album/2HeYVMR6yE6iAGBZwm1n3S) | 2:44 | 2022-03-25 | 2022-04-09 |
+| [DEAD](https://open.spotify.com/track/3OIzMTyg6PIV2ZsefS3O2n) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 4:23 | 2024-08-03 |  |
 | [Dead Guyz](https://open.spotify.com/track/5NJH3KTT5z12giYPbrBQCv) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Dead Guyz](https://open.spotify.com/album/08g0dBXZcUdubjaogX0UiJ) | 2:30 | 2022-06-17 | 2022-09-03 |
 | [Dead Opps \(feat\. Lil Double 0\)](https://open.spotify.com/track/47M722fhV7zj0tBCOZNmNx) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv), [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Dead Opps \(feat\. Lil Double 0\)](https://open.spotify.com/album/2aWgHdb7XpJosdbnOYxQE5) | 2:45 | 2022-11-25 | 2023-02-11 |
 | [Dead Wrong](https://open.spotify.com/track/24V53X2W3A9LKpC0UxpFEp) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Dead Wrong](https://open.spotify.com/album/2rMKt5fIxHNbD333uL9Yos) | 1:48 | 2022-01-14 | 2022-03-18 |
@@ -1059,7 +1060,7 @@
 | [Rolling Stone](https://open.spotify.com/track/7fFDrbW55FNd1Ys7sQgdgf) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH), [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee) | [Rolling Stone](https://open.spotify.com/album/6GwbGjsC8nKQVnC8fpKCHQ) | 2:34 | 2022-06-10 | 2022-06-25 |
 | [Ron Artest](https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ron Artest](https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ) | 2:33 | 2023-02-10 | 2023-05-13 |
 | [Rowdy vs\. Rebel](https://open.spotify.com/track/2MaITtsyiWKg2w1umySIS6) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Rowdy vs\. Rebel](https://open.spotify.com/album/3tEkjoDhyrzj1aq3o8hLil) | 2:42 | 2022-04-08 | 2022-07-02 |
-| [Rubberband Man](https://open.spotify.com/track/4ZXRPxWHGLZUPHoUd8A9E2) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Rubberband Man](https://open.spotify.com/album/67yk3qVFPn2fNFbMThZu1y) | 2:55 | 2024-07-26 |  |
+| [Rubberband Man](https://open.spotify.com/track/4ZXRPxWHGLZUPHoUd8A9E2) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Rubberband Man](https://open.spotify.com/album/67yk3qVFPn2fNFbMThZu1y) | 2:55 | 2024-07-26 | 2024-08-04 |
 | [Rubi Wayda](https://open.spotify.com/track/3XWLnkW0Y54z5VHqlilDsg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Rubi Wayda](https://open.spotify.com/album/0wcr7UNOlYEG2lvp1M0BLf) | 2:40 | 2023-01-20 | 2023-02-18 |
 | [Rule No\. 1](https://open.spotify.com/track/3Mv9qrZoqMfpq3uu2yvLBq) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Rule No\. 1](https://open.spotify.com/album/7lqRb0jH2ZyUqIISU1UtX0) | 1:59 | 2024-05-31 | 2024-06-08 |
 | [Rumors 3](https://open.spotify.com/track/52qOWmhRTi28yYgrhpBmpE) | [Lil Migo](https://open.spotify.com/artist/4weldYkJEu7VzU1lLUQPBF) | [Rumors 3](https://open.spotify.com/album/5EtZt9ZeV6OtAXY3OABQBP) | 2:09 | 2021-10-15 | 2022-03-12 |

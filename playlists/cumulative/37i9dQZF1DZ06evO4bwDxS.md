@@ -2,7 +2,7 @@
 
 ### [This Is Sabrina Carpenter](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bwDxS)
 
-> This is Sabrina Carpenter\. The essential tracks, all in one playlist.
+> This is Sabrina Carpenter\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
 66 songs - 3 hr 27 min
 

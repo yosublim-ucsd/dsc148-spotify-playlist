@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With By The Coast, LAVE, VICTORS and more
+> Mit By The Coast, LAVE, VICTORS und anderen Künstler\*innen
 
 1,365 songs - 3 day 15 hr 29 min
 

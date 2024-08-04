@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,930 songs - 4 day 2 hr 20 min
+1,931 songs - 4 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1295,6 +1295,7 @@
 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-01-13 | 2024-01-15 |
 | [O Forse Sei Tu](https://open.spotify.com/track/24TEkYc0j6x8kdTFn5FsGR) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ritorno Al Futuro / Back To The Future](https://open.spotify.com/album/6H5SKANQcashhGmjQ3to7O) | 3:53 | 2022-02-19 | 2022-03-18 |
 | [O Forse Sei Tu](https://open.spotify.com/track/6KmAKMya9pOL5RUl0FS46a) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ritorno Al Futuro / Back To The Future](https://open.spotify.com/album/216e0tvA3vyEZhzMAxJ0an) | 3:53 | 2022-02-04 | 2022-02-20 |
+| [O primm post](https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [O primm post](https://open.spotify.com/album/1iN6xB7mC9JKl83O4ZMtt4) | 3:50 | 2024-08-03 |  |
 | [Obladi Oblada \(feat\. Ghali, thasup & Fabri Fibra\)](https://open.spotify.com/track/2zTinVySfLkAcuITgqbtPW) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Obladi Oblada \(feat\. Ghali, thasup & Fabri Fibra\)](https://open.spotify.com/album/6Eq4kUs1PvPt1x0qxQJ6gZ) | 3:21 | 2023-06-17 | 2023-06-23 |
 | [Occhi Lucidi](https://open.spotify.com/track/7dYgzrhdIIjTQTvUjlrWxa) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos), [Duffy](https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL) | [Occhi Lucidi](https://open.spotify.com/album/58dHp5YA8Pepr5I1nYU1P8) | 2:24 | 2021-03-31 | 2021-04-24 |
 | [OCCHI LUCIDI](https://open.spotify.com/track/3brte0lhdNMuHcCk0QW5Rz) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [OCCHI LUCIDI](https://open.spotify.com/album/1vgLqNS6kBXZt5b2vGOR2y) | 3:24 | 2023-12-02 | 2023-12-10 |
@@ -1787,7 +1788,7 @@
 | [TUNNEL](https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 2:24 | 2024-01-06 | 2024-03-31 |
 | [Tuo padre, mia madre, Lucia](https://open.spotify.com/track/14FAAlZJ36VMPIF7yHV3mg) | [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m) | [Tuo padre, mia madre, Lucia](https://open.spotify.com/album/0CJaWuUBoQ8HeRj8S2ZKOH) | 3:48 | 2022-02-04 | 2022-02-06 |
 | [Tuo padre, mia madre, Lucia](https://open.spotify.com/track/4xOGo8ca9Ys8jyTVkdYoAz) | [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m) | [Tutto l’universo](https://open.spotify.com/album/1MKGxds0Jc3agqGvluN87N) | 3:48 | 2022-02-05 | 2022-02-11 |
-| [TUTA GOLD](https://open.spotify.com/track/371l4ekF9cDC2D5WuuabU6) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/5uYRRiyE4BsOIIeu3y1o1F) | 2:58 | 2024-02-17 |  |
+| [TUTA GOLD](https://open.spotify.com/track/371l4ekF9cDC2D5WuuabU6) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/5uYRRiyE4BsOIIeu3y1o1F) | 2:58 | 2024-02-17 | 2024-08-04 |
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-02-08 | 2024-02-18 |
 | [Tuta Lacoste \(feat\. Timal\)](https://open.spotify.com/track/5EqtRjjXWq4sxL3c6PDK8q) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 3:28 | 2022-06-11 | 2022-06-13 |
 | [Tuta Maphia \(feat\. Paky\)](https://open.spotify.com/track/1Pw9JvFxbenEtnGRRcDvzD) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:32 | 2023-01-15 | 2023-02-07 |

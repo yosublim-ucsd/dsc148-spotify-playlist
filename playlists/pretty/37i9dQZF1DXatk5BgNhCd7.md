@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: The La Planta
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,575 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,597 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 18 | [Solamente Tu](https://open.spotify.com/track/7oN5HHkdgR2acw9CT5GrkE) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Solamente Tu](https://open.spotify.com/album/7bqz07GKmditgJ4WsW9bVY) | 2:51 |
 | 19 | [Díselo Tú](https://open.spotify.com/track/4aRb00AWgUwUVLsgI2EvXa) | [Rafaell Cocoa](https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc) | [Díselo Tú](https://open.spotify.com/album/3RQ0EzGYHTXMEQY4wh0YaG) | 3:36 |
 | 20 | [All Night Long](https://open.spotify.com/track/67sWTIhUN5LLXEJmoH46hP) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [All Night Long](https://open.spotify.com/album/3BXelEIQyWtuh1rlwqjqb5) | 3:22 |
-| 21 | [Son De Amores](https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M), [Jean Carlos](https://open.spotify.com/artist/4yfVxGgADSDkHBcIi8U5La) | [Son De Amores](https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd) | 3:01 |
+| 21 | [Son De Amores](https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M), [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Son De Amores](https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd) | 3:01 |
 | 22 | [El Amor de Mi Vida](https://open.spotify.com/track/05cWjA7LG6sizumsbKzjTo) | [Gran Orquesta Internacional](https://open.spotify.com/artist/0MPeKXKU2ugNI2Or2k5tds) | [El Amor de Mi Vida](https://open.spotify.com/album/0xAoluDlNpPmtCJhHUwsRc) | 3:04 |
 | 23 | [¿Qué Pasó Ma'?](https://open.spotify.com/track/71wu8lRShOTLkvY2RWcMMZ) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R) | [¿Qué Pasó Ma'?](https://open.spotify.com/album/25McNRW4S8fJ0kHZY2rSsu) | 2:15 |
 | 24 | [Aventura \- Radio Edit](https://open.spotify.com/track/4tpx3Dt1FigYP9okZT3DvS) | [Tomi Narbondo](https://open.spotify.com/artist/2h6p2myNwThMseeeCZqMFc) | [Aventura \(Radio Edit\)](https://open.spotify.com/album/6DohCod0ZfdCurq8IVNqNU) | 2:02 |

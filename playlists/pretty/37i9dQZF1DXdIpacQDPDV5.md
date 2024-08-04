@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,997 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,995 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 74 | [Black Ice \(feat\. Phantogram\)](https://open.spotify.com/track/0i3NZpE5KwC70tf0GSKekx) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Black Ice \(feat\. Phantogram\)](https://open.spotify.com/album/2gnr6cs8MEKscvCwZGpRJG) | 4:20 |
 | 75 | [Find A Way](https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Find A Way](https://open.spotify.com/album/1trmWSMiO6NDBnnDDDhsy8) | 3:32 |
 
-Snapshot ID: `Zq0OdQAAAADRU0tLUiiGwvuuVZHPoHnI`
+Snapshot ID: `Zq422gAAAAAWTsPhekD4fTpkl6IhT+h1`

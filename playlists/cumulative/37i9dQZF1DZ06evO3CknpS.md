@@ -2,7 +2,7 @@
 
 ### [This Is Clara Rockmore](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CknpS)
 
-> This is Clara Rockmore\. The essential tracks, all in one playlist.
+> This Is Clara Rockmore\. Los temas esenciales, todos en una lista.
 
 68 songs - 5 hr 30 min
 

@@ -18786,7 +18786,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 200675,
       "name": "sirens",
       "url": "https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus"
@@ -20496,6 +20496,24 @@
       "duration_ms": 211809,
       "name": "Superior Gengsi",
       "url": "https://open.spotify.com/track/3x4iI1oSfvNPhPu1y3eSW0"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4o72fxboi0RopWUmOTRxoe"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259428,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6eqqVvqRJS5T3WCYMsj946"
     },
     {
       "album": {

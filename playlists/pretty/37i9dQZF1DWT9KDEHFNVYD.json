@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 13034,
+  "num_followers": 13044,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Faust IV",
-        "url": "https://open.spotify.com/album/6ou63QavbhaQvDTQ3BCkPv"
-      },
-      "artists": [
-        {
-          "name": "Faust",
-          "url": "https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7"
-        }
-      ],
-      "duration_ms": 707560,
-      "name": "Krautrock",
-      "url": "https://open.spotify.com/track/7h9hsEOJbNH2Y46ZR5NFfQ"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Anthology (Remastered Version)",
         "url": "https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 396306,
       "name": "Mother Sky (from Deep End)",
       "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Faust IV",
+        "url": "https://open.spotify.com/album/6ou63QavbhaQvDTQ3BCkPv"
+      },
+      "artists": [
+        {
+          "name": "Faust",
+          "url": "https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7"
+        }
+      ],
+      "duration_ms": 707560,
+      "name": "Krautrock",
+      "url": "https://open.spotify.com/track/7h9hsEOJbNH2Y46ZR5NFfQ"
     },
     {
       "added_at": "2022-01-20 20:59:43",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lost Worker Bee - EP",
-        "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
+        "name": "Plank!",
+        "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
       },
       "artists": [
         {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+          "name": "Plank!",
+          "url": "https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH"
         }
       ],
-      "duration_ms": 387383,
-      "name": "Roll Call",
-      "url": "https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG"
+      "duration_ms": 276026,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Plank!",
-        "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
+        "name": "Lost Worker Bee - EP",
+        "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
       },
       "artists": [
         {
-          "name": "Plank!",
-          "url": "https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH"
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
         }
       ],
-      "duration_ms": 276026,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
+      "duration_ms": 387383,
+      "name": "Roll Call",
+      "url": "https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG"
     },
     {
       "added_at": "2021-07-30 14:56:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=8BrhAmEpRwaZYgsQImMwRQ">Nomfundo Moh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,453 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,585 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 32 | [ok </3](https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1) | 3:24 |
 | 33 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 |
 | 34 | [Omalume \(feat\. Sykes, Dash SA, Springle, Supremme & T&TMusiq\)](https://open.spotify.com/track/4ibsJYB4YTuFE0b5r8oO8I) | [Pushkin RSA](https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Dash SA](https://open.spotify.com/artist/16yuO0xLRq5qFeMdG35rrC), [Springle](https://open.spotify.com/artist/2MrjOkIsQao28a0Xf1Gy7F), [Supremme](https://open.spotify.com/artist/4VgANAXhrB4wkE7I7TC8BQ), [T&T Musiq](https://open.spotify.com/artist/3k3KeoodrBUAOusGGcBnHI) | [Omalume \(feat\. Sykes, Dash SA, Springle, Supremme & T&TMusiq\)](https://open.spotify.com/album/31DJT912I0MR2MV72S5nJs) | 5:08 |
-| 35 | [Outside](https://open.spotify.com/track/5oWQfNGRqmeRQ2QnpQYT5u) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Outside](https://open.spotify.com/album/6Jws1yCoDC7jninFkcAFId) | 2:23 |
+| 35 | [Outside](https://open.spotify.com/track/5oWQfNGRqmeRQ2QnpQYT5u) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Outside](https://open.spotify.com/album/6Jws1yCoDC7jninFkcAFId) | 2:23 |
 | 36 | [b2b](https://open.spotify.com/track/4yMV0R3yJO4RZKcj7bLYbj) | [Gafacci](https://open.spotify.com/artist/72qc1S2CYJyPc1vpTBDJfG), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [b2b](https://open.spotify.com/album/32jiwJzaOhTeVDuyh7DLbR) | 2:33 |
 | 37 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 |
 | 38 | [SLIM YOUNG](https://open.spotify.com/track/1MxnEQyuTCuqALGU9UfYlk) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [SLIM YOUNG](https://open.spotify.com/album/6BB2aZH2L57Orqbit4aubR) | 3:27 |

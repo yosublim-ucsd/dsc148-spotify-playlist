@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADi6VBsv2U3nyQs1zOq/lIo",
+  "snapshot_id": "AAAAAAAAAAAE2Rko7GuokaggI2EULLVd",
   "tracks": [
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Somewhere Far Beyond (Revisited)",
-        "url": "https://open.spotify.com/album/6xGJmXBiu1afT8eN13KBOJ"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "The Bard's Song - In the Forest - Revisited",
-      "url": "https://open.spotify.com/track/2og2RFuX8c1iThdlLmV2RW"
-    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
@@ -75,18 +59,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Mind Games (The Ultimate Mixes)",
-        "url": "https://open.spotify.com/album/1OvM2qfi9XXUmRaJ7egwNj"
+        "name": "Somewhere Far Beyond (Revisited)",
+        "url": "https://open.spotify.com/album/6xGJmXBiu1afT8eN13KBOJ"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
         }
       ],
-      "duration_ms": 193920,
-      "name": "I'm The Greatest - Ultimate Mix",
-      "url": "https://open.spotify.com/track/0CiKKYLQXZeGjsU7RkvszK"
+      "duration_ms": 207466,
+      "name": "The Bard's Song - In the Forest - Revisited",
+      "url": "https://open.spotify.com/track/2og2RFuX8c1iThdlLmV2RW"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -139,6 +123,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Mind Games (The Ultimate Mixes)",
+        "url": "https://open.spotify.com/album/1OvM2qfi9XXUmRaJ7egwNj"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "I'm The Greatest - Ultimate Mix",
+      "url": "https://open.spotify.com/track/0CiKKYLQXZeGjsU7RkvszK"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Cosmic",
         "url": "https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 258269,
       "name": "Mariposa Peregrina",
       "url": "https://open.spotify.com/track/4gMeMbcQg2susBehVPgZwS"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Ana Tijoux (En Vivo en NPR Tiny Desk)",
+        "url": "https://open.spotify.com/album/0Z2LIP15wpNu04owMtvB7F"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 265750,
+      "name": "1977 - En Vivo en NPR Tiny Desk",
+      "url": "https://open.spotify.com/track/43MNu5m1YOwA0y0NRKaHw9"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -231,6 +247,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Angela Brownridge plays Tchaikovsky & Schumann",
+        "url": "https://open.spotify.com/album/6LksOZbC7bDyI6XJ5f6o64"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Angela Brownridge",
+          "url": "https://open.spotify.com/artist/7suBrtDHxXAC0bJ0TIiL4S"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "18 Pieces, Op. 72: XVIII. Sc\u00e8ne dansante. Invitation au trepak",
+      "url": "https://open.spotify.com/track/7wquSj8FFHY9RRe9q60x01"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "\u0422\u044b \u0416\u0435 \u041d\u0435 \u0417\u043d\u0430\u0435\u0448\u044c \u041a\u0442\u043e \u042f / Ty Zhe Ne Znaesh Kto Ya",
         "url": "https://open.spotify.com/album/4vR2PxqfpCpRvMRUXvoAGR"
       },
@@ -243,26 +279,6 @@
       "duration_ms": 205000,
       "name": "\u0422\u044b \u0416\u0435 \u041d\u0435 \u0417\u043d\u0430\u0435\u0448\u044c \u041a\u0442\u043e \u042f / Ty Zhe Ne Znaesh Kto Ya - Radio Edit",
       "url": "https://open.spotify.com/track/28NMmYBDD4CF8PUpbS2wgq"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Laid to Rest (HEALTH Remix)",
-        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 158604,
-      "name": "Laid to Rest - HEALTH Remix",
-      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -283,6 +299,26 @@
       "duration_ms": 290368,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/6LvSq1JBUI0ukokYcplW89"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Laid to Rest (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 158604,
+      "name": "Laid to Rest - HEALTH Remix",
+      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -335,22 +371,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Like A Stone (Reimagined)",
-        "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 287631,
-      "name": "Like A Stone - Reimagined",
-      "url": "https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Hot Rails To Hell (Live)",
         "url": "https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE"
       },
@@ -367,18 +387,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Ana Tijoux (En Vivo en NPR Tiny Desk)",
-        "url": "https://open.spotify.com/album/0Z2LIP15wpNu04owMtvB7F"
+        "name": "Like A Stone (Reimagined)",
+        "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
       },
       "artists": [
         {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 265750,
-      "name": "1977 - En Vivo en NPR Tiny Desk",
-      "url": "https://open.spotify.com/track/43MNu5m1YOwA0y0NRKaHw9"
+      "duration_ms": 287631,
+      "name": "Like A Stone - Reimagined",
+      "url": "https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -435,34 +455,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Black Mold",
-        "url": "https://open.spotify.com/album/1G06wIGTvexsq1xiXGdfnX"
-      },
-      "artists": [
-        {
-          "name": "Silos",
-          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "Craig Mabbitt",
-          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Black Mold",
-      "url": "https://open.spotify.com/track/0uOLM57T5P4nRq2ul5u65X"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Cypher G",
         "url": "https://open.spotify.com/album/19xrX25PPln3Xf8o0ISutp"
       },
@@ -495,18 +487,30 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Shikanoko Nokonoko Koshitantan Meme",
-        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
+        "name": "Black Mold",
+        "url": "https://open.spotify.com/album/1G06wIGTvexsq1xiXGdfnX"
       },
       "artists": [
         {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Craig Mabbitt",
+          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
         }
       ],
-      "duration_ms": 326393,
-      "name": "Shikanoko Nokonoko Koshitantan Meme",
-      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
+      "duration_ms": 202453,
+      "name": "Black Mold",
+      "url": "https://open.spotify.com/track/0uOLM57T5P4nRq2ul5u65X"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -531,18 +535,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Live From The Garden Amphitheater",
-        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
+        "name": "Shikanoko Nokonoko Koshitantan Meme",
+        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
       },
       "artists": [
         {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
         }
       ],
-      "duration_ms": 285056,
-      "name": "You're Not Alone - Live",
-      "url": "https://open.spotify.com/track/4r7F2pBLRLV8qdx12kE11J"
+      "duration_ms": 326393,
+      "name": "Shikanoko Nokonoko Koshitantan Meme",
+      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -567,6 +571,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Live From The Garden Amphitheater",
+        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 285056,
+      "name": "You're Not Alone - Live",
+      "url": "https://open.spotify.com/track/4r7F2pBLRLV8qdx12kE11J"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "And Waves of Dreams",
         "url": "https://open.spotify.com/album/4MaeSCqaXnO0RR0r42YLXx"
       },
@@ -579,6 +599,22 @@
       "duration_ms": 142000,
       "name": "And Waves of Dreams",
       "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "I Can Do It With a Broken Heart",
+        "url": "https://open.spotify.com/album/3yVqF1TOg60hk9ehgMj3na"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart - Instrumental",
+      "url": "https://open.spotify.com/track/0Z8YQJNXTCZqflWehjoJqJ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -663,38 +699,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Prepackaged",
-        "url": "https://open.spotify.com/album/0V2vrD3pKBj5R58x0z8Hfo"
-      },
-      "artists": [
-        {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "Prepackaged",
-      "url": "https://open.spotify.com/track/5SaEsMhNB9f6wI2dbZ4xJ2"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "The Cave We Fear To Enter",
-        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "The Cave We Fear to Enter",
-      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/7a0OPrgyDJVQmlvYKwKkCS"
       },
@@ -743,46 +747,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Forever Young [Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)]",
-        "url": "https://open.spotify.com/album/6FDX3LJoKuDKaM7clzvuDZ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 307653,
-      "name": "Forever Young - Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)",
-      "url": "https://open.spotify.com/track/3d8wAwAgFQn2oEIw8HI6Jb"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Se\u00f1or Tiempo",
-        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        },
-        {
-          "name": "Piero",
-          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
-        }
-      ],
-      "duration_ms": 340638,
-      "name": "Se\u00f1or Tiempo",
-      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Bask in the Blood of Our Demons - EP",
         "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
       },
@@ -819,6 +783,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Se\u00f1or Tiempo",
+        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "duration_ms": 340638,
+      "name": "Se\u00f1or Tiempo",
+      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Best of: Living the Dream (Tarja's Non-Rock Specials)",
         "url": "https://open.spotify.com/album/7BNQjKP4HADfs1XinGEJqB"
       },
@@ -835,22 +819,6 @@
       "duration_ms": 167061,
       "name": "Oi, Kiitos Sa Luojani Armollinen - Live",
       "url": "https://open.spotify.com/track/1IyO9a2ic0w2O3e2jKTJ7D"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -911,98 +879,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Fortnight (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
-      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Life Is Easy (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UGlEbULaeFF4KtAxRMMcb"
-      },
-      "artists": [
-        {
-          "name": "Bright Light Bright Light",
-          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 213553,
-      "name": "I Wish We Were Leaving - Radio Edit",
-      "url": "https://open.spotify.com/track/6cv2Dw9plGC3NU2If9OjEJ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\"",
-        "url": "https://open.spotify.com/album/3yFWMFIp37EDPdMl6lAZAW"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Graub\u00fcnden Classical Archive",
-          "url": "https://open.spotify.com/artist/0djqxl12PvNPETXilusYSp"
-        }
-      ],
-      "duration_ms": 622645,
-      "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\": 4. Finale. Adagio lamentoso",
-      "url": "https://open.spotify.com/track/7CyUo4HNS3vtbxs3PDJ5ql"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Hear You Me",
-        "url": "https://open.spotify.com/album/1O9tT8ySLZhhmHfCpVNESK"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 272639,
-      "name": "Hear You Me",
-      "url": "https://open.spotify.com/track/2lyUYcQi8XW0O3iAYmZpwi"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Pretty Good To Feel Something",
-        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 186679,
-      "name": "Pretty Good To Feel Something",
-      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Music Legends Little Richard : The Rock Icon's Hits",
         "url": "https://open.spotify.com/album/1szqqlvJIgCcGz4tIg7gGe"
       },
@@ -1015,58 +891,6 @@
       "duration_ms": 125579,
       "name": "Hey-Hey-Hey-Hey (Goin' Back to Birmingham)",
       "url": "https://open.spotify.com/track/0Nft0cIDTWzCBDc2tI9cXv"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "I Have Notes",
-        "url": "https://open.spotify.com/album/4l89gOBML1oUH3Yow6GEUY"
-      },
-      "artists": [
-        {
-          "name": "Graham Gouldman",
-          "url": "https://open.spotify.com/artist/5Z6IqCEJ0aYRpxd5moXnQL"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 160986,
-      "name": "Couldn't Love You More",
-      "url": "https://open.spotify.com/track/76Xe5O7neH9OCBYvqeEZsJ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Focus 12",
-        "url": "https://open.spotify.com/album/14f9Wbk9l84KkMEpmsYSAF"
-      },
-      "artists": [
-        {
-          "name": "Focus",
-          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
-        }
-      ],
-      "duration_ms": 276046,
-      "name": "Meta Indefinita",
-      "url": "https://open.spotify.com/track/4NPAI7Pji2rBtReF2XpFbc"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
-        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Keep Pushin' - Live, Hamburg, 1979",
-      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,690 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,741 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 29 | [PREACHER](https://open.spotify.com/track/1C99ZFDmchpWnOXgRk9B2U) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [MIXED FEELINGS](https://open.spotify.com/album/68eF34hzy5zePuzwqX5PIS) | 3:04 |
 | 30 | [Way Up](https://open.spotify.com/track/1w5MqHdvV2tXw8gh1B7Z9N) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [Distortion 17](https://open.spotify.com/artist/4pEHD6OEhkbRWKWf0v1kVp), [Tanvi Rajan](https://open.spotify.com/artist/1wL5NMMw5JDp3jvZ4b8ey7) | [Way Up](https://open.spotify.com/album/4Z0Yqd3MT5a7znHGbbQn2w) | 2:59 |
 | 31 | [BAWE MAIN CHECK](https://open.spotify.com/track/2ytJU54UjdkKJH5QDNi5H7) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [BAWE MAIN CHECK](https://open.spotify.com/album/7HoPrzsCajDulJVJYFl1Jz) | 3:07 |
-| 32 | [Sadakchaap](https://open.spotify.com/track/4ErvgXbwLEgDpEjskfuUBe) | [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo) | [Sadakchaap](https://open.spotify.com/album/3rKjwnf0EZdyRKXV3OfR8v) | 2:54 |
+| 32 | [Sadakchaap](https://open.spotify.com/track/4ErvgXbwLEgDpEjskfuUBe) | [Baaghi](https://open.spotify.com/artist/5cgI1BUYWZQnCNlDdGeys3) | [Sadakchaap](https://open.spotify.com/album/3rKjwnf0EZdyRKXV3OfR8v) | 2:54 |
 | 33 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 34 | [Chaka Dolia](https://open.spotify.com/track/4Wteb3sGV0kOdOhWnl6Bch) | [Rapper Big Deal](https://open.spotify.com/artist/3GvVpkFxJxwEgm4FzqJxfq), [Satyajeet Jena](https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7) | [Chaka Dolia](https://open.spotify.com/album/23QF4YiKQXMPMMVBFpKTE7) | 2:51 |
 | 35 | [I Know](https://open.spotify.com/track/7tmaLjBQuHbzOqIluTcF34) | [Rap ID](https://open.spotify.com/artist/48mehZF6vUnj7r0CONLiU8) | [Deleted Text](https://open.spotify.com/album/6IVe1w4JtyOVxDMErHfoiX) | 2:54 |

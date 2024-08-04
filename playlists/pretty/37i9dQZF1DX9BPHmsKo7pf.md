@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: Babasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,336 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,453 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 24 | [Fana](https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn) | [Jador](https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Fana](https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg) | 2:38 |
 | 25 | [REGINA](https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [REGINA](https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8) | 2:18 |
 | 26 | [PRAF 3](https://open.spotify.com/track/1JZG2Uy2YX81JVWFGpz16J) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [PRAF 3](https://open.spotify.com/album/0eQ1ejoOl4WVZBVbuCKcIi) | 3:07 |
-| 27 | [CĂPITAN](https://open.spotify.com/track/00vWmTHP6E63KXqIdbgsm9) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [CĂPITAN](https://open.spotify.com/album/36tJXOX1DLnVvDRoLfcBpM) | 3:29 |
+| 27 | [CĂPITAN](https://open.spotify.com/track/00vWmTHP6E63KXqIdbgsm9) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [CĂPITAN](https://open.spotify.com/album/36tJXOX1DLnVvDRoLfcBpM) | 3:21 |
 | 28 | [X6](https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6](https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3) | 2:29 |
 | 29 | [Romeo si Julieta](https://open.spotify.com/track/7MMsotK7YIHmWfgmKdcivz) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [Romeo si Julieta](https://open.spotify.com/album/3eAMl71T5yAeQ6gRQq1d1Q) | 3:24 |
 | 30 | [AROMA EI](https://open.spotify.com/track/3Qg3SxpBpWNMMeSNaadWu2) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 2:43 |

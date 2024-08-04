@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=m\-BeAsoeRDWGmVR3hAASTg>Ada Ehi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,400 likes - 106 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,431 likes - 106 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 55 | [Yahweh Has Won](https://open.spotify.com/track/7r1owOfqSAhzzLI4JkZafv) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd) | [Living Sacrifice](https://open.spotify.com/album/17j62sthicjtLZICi8b0jZ) | 4:29 |
 | 56 | [DEEP LOVE](https://open.spotify.com/track/1ZN6teNMaHunZ5RTajLDCN) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6) | [DEEP LOVE](https://open.spotify.com/album/1AcNOq3kmI7nD6PwB11bhS) | 3:15 |
 | 57 | [The God We Serve](https://open.spotify.com/track/70j5BdmiDDIyxWQxTKX4Xh) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [The God We Serve](https://open.spotify.com/album/2ZlgzV6iMAEB3nICBLCTbU) | 8:51 |
-| 58 | [Halle \- Remix](https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [Phindi P](https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU), [TWC](https://open.spotify.com/artist/0SzlbZ7qCxC9AZID7jWJpe) | [Halle \(Remix\)](https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE) | 5:04 |
+| 58 | [Halle \- Remix](https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [Phindi P](https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU), [Twc All Stars](https://open.spotify.com/artist/7aYFc0469uiv4dgB1fkYrn) | [Halle \(Remix\)](https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE) | 5:04 |
 | 59 | [No Weapon](https://open.spotify.com/track/6SIMT6TpSrkw59AHDtfW2O) | [Olalekanmi](https://open.spotify.com/artist/4Pl5P0qsfWKPdz1vQu0DAA) | [No Weapon](https://open.spotify.com/album/5u4YfioF2naYjU4BDivgXu) | 2:44 |
 | 60 | [Time & Season](https://open.spotify.com/track/120j8goUEE6tMSXNbjAJoS) | [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr) | [Time & Season](https://open.spotify.com/album/69esPBnwcUwABieo0lSWNc) | 2:46 |
 | 61 | [Working For Me](https://open.spotify.com/track/4tjRMiGbxJndTMxWWTvpTR) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Working For Me](https://open.spotify.com/album/3IY85aI8A0j18nDg9Eez1y) | 3:01 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 101 | [Count Your Blessings](https://open.spotify.com/track/4beG8ClWVTnoLdVwQGaH4m) | [Paulpriince Ayo](https://open.spotify.com/artist/5pbmCb8XOdvBRfJzZwpVWK), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Count Your Blessings](https://open.spotify.com/album/2myt4es6k288COgh0P7aRv) | 1:22 |
 | 102 | [Restore \- Pt 2](https://open.spotify.com/track/6NKXRyPIjPvcIcX8mFSAAH) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V), [JKP COLLECTIVE](https://open.spotify.com/artist/3w1ntm2mjZQVnJpZfl4O0B), [Pda Truth](https://open.spotify.com/artist/7eqkOQ81gRvDDioVj5udPQ), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [RESTORE \(恢复\) \[Deluxe\]](https://open.spotify.com/album/1SPQd2Nih7wC8Tk6kZQksL) | 2:20 |
 | 103 | [I Will Sing \- Reimagined](https://open.spotify.com/track/2tuCP7CpQmxGQDwKo9YcjU) | [Nimi Stix](https://open.spotify.com/artist/39jgj6aYzq1eltNM1IcEwm), [Mattyyy](https://open.spotify.com/artist/2qcSNoQre12RHmbASSCgTE) | [I Will Sing \(Reimagined\)](https://open.spotify.com/album/7cnvviQS1A37RfLnyTwXdk) | 2:23 |
-| 104 | [He calls me friend](https://open.spotify.com/track/2A9o4fVTpxBbbriu8PDG5r) | [Molly Malumi](https://open.spotify.com/artist/2l0K17EbMGDiYsoXd6Zx1G) | [He calls me friend](https://open.spotify.com/album/4ERLsdD7N8HpMDJemXkGUn) | 5:39 |
+| 104 | [He calls me friend \- Worship Chronicles](https://open.spotify.com/track/2A9o4fVTpxBbbriu8PDG5r) | [Molly Malumi](https://open.spotify.com/artist/2l0K17EbMGDiYsoXd6Zx1G) | [He calls me friend \(Worship Chronicles\)](https://open.spotify.com/album/4ERLsdD7N8HpMDJemXkGUn) | 5:39 |
 | 105 | [Man Of My Dream \(M.O.M.D\)](https://open.spotify.com/track/7Gm5OFhvMI5Swxe0v9RAD1) | [KarlaGod](https://open.spotify.com/artist/2QlFgME9RwrC4SToTWKAse) | [Man Of My Dream \(M.O.M.D\)](https://open.spotify.com/album/70m2dJAVbJgrtpiQDPgrff) | 1:44 |
 | 106 | [Glory to His Name](https://open.spotify.com/track/2eyN1ZqvKYwEycQH2rN1Oz) | [GSense](https://open.spotify.com/artist/7qgUUzBFjqC1i985gr2yz2) | [Glory to His Name](https://open.spotify.com/album/2t3Gjc6mkf5ehih37CWbbM) | 3:17 |
 

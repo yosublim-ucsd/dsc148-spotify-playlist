@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. На обкладинцi: TNMK
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,967 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,973 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Haшi](https://open.spotify.com/track/6ITihG9iy5E9WkvWg80NBg) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [ВАТРА black](https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB) | 3:01 |
+| 1 | [Нaшi](https://open.spotify.com/track/6ITihG9iy5E9WkvWg80NBg) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [ВАТРА black](https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB) | 3:01 |
 | 2 | [ВАВИЛОН](https://open.spotify.com/track/3wDcA4yVxjU1jVu0havb6D) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [ВАВИЛОН](https://open.spotify.com/album/4nazo4fCYSZdf1oNSKGvI1) | 5:06 |
 | 3 | [На даху](https://open.spotify.com/track/6AvzIrBCctDINlsy16lQR3) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [На даху](https://open.spotify.com/album/3FlXdW43VRAn8ww99fNCly) | 2:34 |
 | 4 | [Грай музикант](https://open.spotify.com/track/11qafKlrxs3ftt5pKoHVDB) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3) | [Грай музикант](https://open.spotify.com/album/2eZg06N1Xs5kyia9DiNSUy) | 2:37 |

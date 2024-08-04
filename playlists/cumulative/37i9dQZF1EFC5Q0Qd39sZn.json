@@ -4441,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "Dreaming of You",
+        "url": "https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR"
+      },
+      "artists": [
+        {
+          "name": "Heaven is Shining",
+          "url": "https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245212,
+      "name": "I'm Getting Used to You",
+      "url": "https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1"
+    },
+    {
+      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },

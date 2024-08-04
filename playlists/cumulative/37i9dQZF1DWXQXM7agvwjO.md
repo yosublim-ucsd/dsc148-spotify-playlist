@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: VINI \(Thailand\)
 
-1,448 songs - 3 day 15 hr 15 min
+1,449 songs - 3 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -997,7 +997,7 @@
 | [simon says](https://open.spotify.com/track/5PrAyJlzvbVszSDtHjDvXT) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [simon says](https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U) | 2:34 | 2023-05-11 | 2023-05-26 |
 | [Sing in the Rain](https://open.spotify.com/track/0oVaYKGZswYA36QaqUKKBT) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Sing in the Rain](https://open.spotify.com/album/2BWMIQ0jCngWSmMdEC2JGQ) | 2:15 | 2023-08-31 | 2023-09-08 |
 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 | 2022-03-24 | 2022-05-07 |
-| [sirens](https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [sirens](https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9) | 3:20 | 2024-08-01 |  |
+| [sirens](https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [sirens](https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9) | 3:20 | 2024-08-01 | 2024-08-04 |
 | [Sirens](https://open.spotify.com/track/6HZizUtULpYr2R61iG2IkJ) | [Visiun](https://open.spotify.com/artist/6qqgKFc4hGR6f3P05uRAmx) | [Sirens](https://open.spotify.com/album/5JIrh7kGpBubQXfrcU2kgf) | 2:58 | 2022-10-28 | 2023-01-20 |
 | [Skinky](https://open.spotify.com/track/1hZMv2JTkTW6yN5GPCW07r) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Another Half](https://open.spotify.com/album/6wv2JAbqyYMFbNWTKoPyUW) | 3:42 | 2023-08-24 | 2023-09-29 |
 | [Skyfall](https://open.spotify.com/track/6KGmzZpYHiCw2tFQOybmiw) | [Sepia Times](https://open.spotify.com/artist/4m02Ox4bbSriKKv6wo8gS5) | [Skyfall](https://open.spotify.com/album/1Eu06wOISxzEpyAFPDMFWn) | 4:06 | 2022-10-20 | 2022-12-16 |
@@ -1089,6 +1089,7 @@
 | [Super Happy \(feat\. Ariza\)](https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Super Happy](https://open.spotify.com/album/25fMfhirVYqXXnIIhxkTaF) | 2:54 | 2022-08-18 | 2022-10-21 |
 | [Superhuman](https://open.spotify.com/track/1HeGR9Pi3TCVDl4jrHZv2j) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd), [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T) | [Superhuman](https://open.spotify.com/album/1zLtYbdACs3Y823URmquVY) | 4:15 | 2023-09-29 | 2023-10-30 |
 | [Superior Gengsi](https://open.spotify.com/track/3x4iI1oSfvNPhPu1y3eSW0) | [Grup Musik Hari Libur](https://open.spotify.com/artist/0SAtXxDjtnu19AIjpsDeVA) | [Superior Gengsi](https://open.spotify.com/album/7ofy7hINy7G3NupEOqVZvB) | 3:31 | 2023-11-12 | 2023-11-17 |
+| [Supernova](https://open.spotify.com/track/6eqqVvqRJS5T3WCYMsj946) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Supernova](https://open.spotify.com/album/4o72fxboi0RopWUmOTRxoe) | 4:19 | 2024-08-01 |  |
 | [SUPERSTAR](https://open.spotify.com/track/27ec2g3R7h4Hgz7KRUi7lK) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [SUPERSTAR](https://open.spotify.com/album/4nEdpyUXWcdA4DkBSt3k8b) | 2:37 | 2023-10-12 | 2023-10-20 |
 | [Superstitious Night](https://open.spotify.com/track/6t2oMReq5nutRPILQavVFR) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2), [Alvi Ifthikhar](https://open.spotify.com/artist/6Di7aLRYaPL5wt6xtdSTnD) | [Superstitious Night](https://open.spotify.com/album/7bVenrU93eAVkSb8USLnon) | 3:20 | 2024-07-25 | 2024-08-02 |
 | [Supra](https://open.spotify.com/track/0MHXRs859cDbV4zXyu0Ahv) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [Emerald](https://open.spotify.com/album/4nVkJSfp4i0h5A906jvjb3) | 3:22 | 2023-11-12 | 2023-11-17 |

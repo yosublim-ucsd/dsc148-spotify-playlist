@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/0dNeLG8tONsnsENlFvkDBe"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129784,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/4Xm7NkqCD6Zf6jQ0urA68x"
+    },
+    {
+      "album": {
         "name": "balloons don't float here",
         "url": "https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw"
       },

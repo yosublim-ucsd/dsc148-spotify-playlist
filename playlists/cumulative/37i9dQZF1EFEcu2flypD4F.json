@@ -6889,6 +6889,24 @@
     },
     {
       "album": {
+        "name": "Wild Ones (Club Mix)",
+        "url": "https://open.spotify.com/album/7FntTAsGpLUJl0eSZkXh6E"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206019,
+      "name": "Wild Ones (Club Mix)",
+      "url": "https://open.spotify.com/track/3D2Oe2TxIUqP8FFm1yKaXF"
+    },
+    {
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },

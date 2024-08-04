@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 小明 \(Showmaîn\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,438 likes - 123 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,445 likes - 123 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 29 | [一瞬間](https://open.spotify.com/track/23RfZ6VIC4cbQakEi2Xvff) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [一瞬間](https://open.spotify.com/album/3VBYWKe1QxKXPhBRUbmqUu) | 3:51 |
 | 30 | [五條悟](https://open.spotify.com/track/5Trfk3HgozmchO8Q7YsGmV) | [尤時雨](https://open.spotify.com/artist/6VZlJla5fcw20R97dOIadz) | [五條悟](https://open.spotify.com/album/0YAy9HCA0DLrPte6o2UiiA) | 2:35 |
 | 31 | [折叠夏日](https://open.spotify.com/track/77Wu7BcMuiHqIcrgo3RAyH) | [李晋晔](https://open.spotify.com/artist/0hpy8QQt1iiksH1d1sPoIC) | [折叠夏日](https://open.spotify.com/album/3UAuJmQ4Ve2SNX15xMqMiH) | 3:27 |
-| 32 | [多諷刺的愛情](https://open.spotify.com/track/1nTCGT3Gt3dkhf00JzDr39) | [林伟强](https://open.spotify.com/artist/0BaxrleV9bC7MnpHPKYmtR) | [多諷刺的愛情](https://open.spotify.com/album/0b7jMSoT1i9Ir3oruE2NDa) | 5:15 |
+| 32 | [多諷刺的愛情](https://open.spotify.com/track/1nTCGT3Gt3dkhf00JzDr39) | [林伟强](https://open.spotify.com/artist/1SYwxKwTHbVGjXrW5XhFn7) | [多諷刺的愛情](https://open.spotify.com/album/0b7jMSoT1i9Ir3oruE2NDa) | 5:15 |
 | 33 | [好想重新回到認識你的瞬間](https://open.spotify.com/track/66LSEwZQ3pO0HjHHe1RNm6) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [好想重新回到認識你的瞬間](https://open.spotify.com/album/3DgPKp7y4ExTSQR560tCcG) | 4:22 |
 | 34 | [樂園](https://open.spotify.com/track/1TlcAeEQl9ort0wL4ZySKy) | [Nemo Lin](https://open.spotify.com/artist/74DXVAxpII7okrU2rb8tRT) | [樂園](https://open.spotify.com/album/0qvMnQEspyVy7Ph81sdAXY) | 3:13 |
 | 35 | [神模神樣](https://open.spotify.com/track/6BNzpB20ygvpiU1z7zS4gz) | [OuiMCB](https://open.spotify.com/artist/4E1CT4sw3JisO0nEx5xqHP) | [神模神樣](https://open.spotify.com/album/51vKP7yAJWFiFyJj3XXDR6) | 2:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Escucha tus próximas canciones favoritas en compañía de Nsqk, medallista de oro en sacar rolones 🥇🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,070 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,192 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

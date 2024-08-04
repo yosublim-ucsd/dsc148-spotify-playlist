@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 163000,
       "name": "Blues of the Night",
       "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 208640,
       "name": "Far Away Again",
       "url": "https://open.spotify.com/track/4OnWVEvkYoFbEDWPwkvqLl"
@@ -5872,6 +5872,24 @@
       "duration_ms": 205453,
       "name": "Last Slice Of Heaven",
       "url": "https://open.spotify.com/track/4mmyKUU1AKiXK8vrYCKafp"
+    },
+    {
+      "album": {
+        "name": "Leadfoot",
+        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165576,
+      "name": "Leadfoot",
+      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
     },
     {
       "album": {
@@ -10366,6 +10384,24 @@
       "duration_ms": 157214,
       "name": "This Old Plane",
       "url": "https://open.spotify.com/track/4VCRlqJr50b8q3zJEkc4Ei"
+    },
+    {
+      "album": {
+        "name": "This Sad Song (Single Version) [Live]",
+        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138534,
+      "name": "This Sad Song (Single Version) [Live]",
+      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
     },
     {
       "album": {

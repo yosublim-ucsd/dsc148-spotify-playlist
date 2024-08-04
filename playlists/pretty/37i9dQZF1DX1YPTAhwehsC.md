@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,018 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,115 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 7 | [Baby Girl On The Way](https://open.spotify.com/track/6FHsuGMFpmY4cxT7qL4l1c) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Baby Girl On The Way](https://open.spotify.com/album/10JghYSsQ9P5vXQQpcOoZq) | 2:52 |
 | 8 | [Yes Freestyle \(feat\. Sheff G\)](https://open.spotify.com/track/0qGH4Nwcv39LR70Bi5mYYM) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Yes Freestyle \(feat\. Sheff G\)](https://open.spotify.com/album/0S4LOOa2enVHI6ExvmrHHu) | 1:51 |
 | 9 | [GYAT](https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! \(Bonus\)](https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK) | 1:54 |
-| 10 | [LGLG](https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LGLG](https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5) | 2:56 |
-| 11 | [5AM IN PHILLY](https://open.spotify.com/track/2xaCeQ5mTMhMrf8kAei5GW) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [5AM IN PHILLY](https://open.spotify.com/album/7reihBEibaW7B0rhyjhgav) | 3:30 |
-| 12 | [My Baby \(feat\. STAR BANDZ\)](https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [2 Sides of the Story](https://open.spotify.com/album/6uPMZVukSlHx20cwHBfSlf) | 2:58 |
-| 13 | [Waterproof](https://open.spotify.com/track/6kAeWwIJtSpWawV2QBssAk) | [Steph G](https://open.spotify.com/artist/1AjUSwDb1g2P9RqiCHLVeY) | [Waterproof](https://open.spotify.com/album/1p2uKAYBHcfUEq0zaz0Rch) | 2:23 |
-| 14 | [UKRAINE](https://open.spotify.com/track/1ZAUJfeyXVwmcqu5qX7A0e) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [UKRAINE](https://open.spotify.com/album/4EzS3KcSeRTnbBJqcTakh6) | 2:10 |
+| 10 | [5AM IN PHILLY](https://open.spotify.com/track/2xaCeQ5mTMhMrf8kAei5GW) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [5AM IN PHILLY](https://open.spotify.com/album/7reihBEibaW7B0rhyjhgav) | 3:30 |
+| 11 | [My Baby \(feat\. STAR BANDZ\)](https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [2 Sides of the Story](https://open.spotify.com/album/6uPMZVukSlHx20cwHBfSlf) | 2:58 |
+| 12 | [Waterproof](https://open.spotify.com/track/6kAeWwIJtSpWawV2QBssAk) | [Steph G](https://open.spotify.com/artist/1AjUSwDb1g2P9RqiCHLVeY) | [Waterproof](https://open.spotify.com/album/1p2uKAYBHcfUEq0zaz0Rch) | 2:23 |
+| 13 | [UKRAINE](https://open.spotify.com/track/1ZAUJfeyXVwmcqu5qX7A0e) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [UKRAINE](https://open.spotify.com/album/4EzS3KcSeRTnbBJqcTakh6) | 2:10 |
+| 14 | [BB Belt](https://open.spotify.com/track/3oLlS8NTMdePBohjgPZKk1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 1:56 |
 | 15 | [Everything Lit](https://open.spotify.com/track/3ECYmjiIOeCCXrpSkVj8ff) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Everything Lit](https://open.spotify.com/album/5XL0ne5zAAok8w8A4mZ9Cx) | 2:25 |
 | 16 | [Worda Bro](https://open.spotify.com/track/6SfdiJE1Ls5ItYUCvZ7B2O) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Worda Bro](https://open.spotify.com/album/14tCjme0ay6q7RqlfuqeJF) | 1:59 |
 | 17 | [Trick](https://open.spotify.com/track/4Inza1lYiwj1XWGaEoY3B5) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Trick](https://open.spotify.com/album/5C9QBRFVfenix80twC2bj1) | 2:02 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 50 | [No Ø Zone \(feat\. VonOff1700\)](https://open.spotify.com/track/1dShewvlJ7mlMzTBuhd1uQ) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [No Ø Zone \(feat\. VonOff1700\)](https://open.spotify.com/album/0ZoPCgMfRyoNpiL3vgVCu3) | 3:32 |
 | 51 | [Favorite Lady \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Favorite Lady \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 |
 | 52 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 |
-| 53 | [Blick \(feat\. NLE Choppa\) \- Remix](https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Blick \(feat\. NLE Choppa\) \[Remix\]](https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc) | 3:08 |
+| 53 | [She's Hot](https://open.spotify.com/track/5FDa2oOuhGQPCMhWhoSCty) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [She's Hot](https://open.spotify.com/album/2XFM7SGRSMPrgQkb8tLFBF) | 2:26 |
 | 54 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 |
 | 55 | [Jodeci \(with Vontee the Singer\)](https://open.spotify.com/track/0MQDhOWqDJcdrjJQwHofJL) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [Jodeci](https://open.spotify.com/album/7nRKPkgavcc7wLiOXVVvdS) | 2:57 |
 | 56 | [Cash Academy](https://open.spotify.com/track/0b72YUbtczdBna3ozyfG0W) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L) | [Leaks, Vol\. 2](https://open.spotify.com/album/5tjgVpWhBlqgF9VfX94Bld) | 2:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 59 | [B's inna club](https://open.spotify.com/track/6Rc3E6TDwyCZIVvIJsptbp) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Freshman Grad.](https://open.spotify.com/album/44TpQtfROIJvYF4bwYxoPn) | 1:27 |
 | 60 | [Cory Gunz "On The Radar" Freestyle](https://open.spotify.com/track/3ePmw29u090unEfYVsSdcK) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Cory Gunz "On The Radar" Freestyle](https://open.spotify.com/album/4kl2D7B2EKalqr6ZWt3Y1i) | 3:43 |
 
-Snapshot ID: `Zq0IiQAAAADzKZtjYjM4A3X6oZgsGXp7`
+Snapshot ID: `Zq3MeQAAAABDMMHw+nrLazI+wvnl5wUF`

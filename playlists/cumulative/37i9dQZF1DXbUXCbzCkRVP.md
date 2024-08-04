@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-114 songs - 7 hr 22 min
+115 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alone With Yourself](https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Alone With Yourself](https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH) | 3:53 | 2022-11-24 |  |
 | [Apollo Jump](https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l) | [Lucky Millinder](https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23) | [Big Band Bounce & Boogie](https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk) | 3:26 | 2022-07-08 | 2024-04-19 |
 | [Aurora](https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw) | [Daniel Arena](https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA) | [Io](https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20) | 4:44 | 2023-01-13 |  |
-| [Avalanche](https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 2:39 | 2022-05-25 |  |
+| [Avalanche](https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 2:39 | 2022-05-25 | 2024-08-04 |
 | [Blind Willie](https://open.spotify.com/track/7Dc0GqiXeIqiQaTngeBcod) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Blind Willie](https://open.spotify.com/album/4lDz2uL6kTVYjSQKwGQVd3) | 2:55 | 2023-08-23 |  |
 | [Blue Dreamer](https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Duke Levine](https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh) | [Country, Blues & More](https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP) | 2:13 | 2022-11-24 |  |
 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 | 2022-05-25 |  |
@@ -51,6 +51,7 @@
 | [Gaslighter's Ball](https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Gaslighter's Ball](https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo) | 3:10 | 2023-01-27 |  |
 | [Gotta Move](https://open.spotify.com/track/0lre3EEoygX3PQ0Qi7dDbD) | [Alexis Korner](https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe) | [R&B From The Marquee](https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na) | 2:31 | 2023-08-23 |  |
 | [Gotta Move](https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll) | [Alexis Korner's Blues Incorporated](https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN) | [R&B from the Marquee / At the Cavern \(Remastered\)](https://open.spotify.com/album/435zTVZqyNJba4YteDro9M) | 2:30 | 2022-11-24 | 2024-04-19 |
+| [Guitar Shuffle](https://open.spotify.com/track/7LrcdVXy2SAa9VP3B3fs9N) | [Big Bill Broonzy](https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu) | [The Southern Blues Vol.4](https://open.spotify.com/album/4apehfV2CL3eyearMCibIf) | 3:27 | 2024-05-29 |  |
 | [Hall of Fame Shuffle](https://open.spotify.com/track/5ACkIkSkjFnniug7zSJo0l) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [Hall of Fame Shuffle](https://open.spotify.com/album/7EqM9a5tlgUvB78GYdl7GS) | 5:27 | 2023-08-23 | 2024-07-27 |
 | [Hawaiian Boogie](https://open.spotify.com/track/50IAP78bUna2exWkQiGhrM) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Saga Blues: Chicago Slide Guitar Masters "From Tampa Red to Elmore James"](https://open.spotify.com/album/34KpwnL6xD2nYfX8hgoEPA) | 2:19 | 2022-05-25 |  |
 | [Hawaiian Boogie \(No\. 2\)](https://open.spotify.com/track/3CaLMAdCR0IWOSGRHLh53x) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Blues Kingpins](https://open.spotify.com/album/6ZYbk8xFYOiqSBkxUmOOVI) | 2:19 | 2022-11-24 | 2024-02-07 |

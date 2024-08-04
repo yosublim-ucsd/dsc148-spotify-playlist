@@ -2,7 +2,7 @@
 
 ### [This Is Morgan Wallen](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2zJOi2)
 
-> This is Morgan Wallen。アーティストの代表曲をひとつのプレイリストに。
+> This is Morgan Wallen\. The essential tracks, all in one playlist.
 
 79 songs - 4 hr 21 min
 

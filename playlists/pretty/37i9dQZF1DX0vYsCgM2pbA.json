@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 138121,
+  "num_followers": 138142,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "TOMMY",
+        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
+      },
+      "artists": [
+        {
+          "name": "WALKER.",
+          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
+        }
+      ],
+      "duration_ms": 212521,
+      "name": "TOMMY",
+      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Since I Don't Have You (Dual Remix)",
         "url": "https://open.spotify.com/album/1Bxt7K4vf4jnsbkQWhzzZE"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 166254,
       "name": "Since I Don't Have You - Dual Remix",
       "url": "https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "TOMMY",
-        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
-      },
-      "artists": [
-        {
-          "name": "WALKER.",
-          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
-        }
-      ],
-      "duration_ms": 212521,
-      "name": "TOMMY",
-      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "The Remixes",
-        "url": "https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig"
-      },
-      "artists": [
-        {
-          "name": "Anakelly",
-          "url": "https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9"
-        },
-        {
-          "name": "Leo Portela",
-          "url": "https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Under The Milky Way - Leo Portela Remix",
-      "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 169658,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "The Remixes",
+        "url": "https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig"
+      },
+      "artists": [
+        {
+          "name": "Anakelly",
+          "url": "https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9"
+        },
+        {
+          "name": "Leo Portela",
+          "url": "https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Under The Milky Way - Leo Portela Remix",
+      "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"
     },
     {
       "added_at": "2024-02-01 13:01:25",

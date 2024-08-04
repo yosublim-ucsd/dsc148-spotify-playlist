@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Devin Wild
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,375 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,451 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Insanity Inside \- Into The Madness 2024 OST](https://open.spotify.com/track/070ydeVRaI38mYEAZk8S8k) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [The Insanity Inside \(Into The Madness 2024 OST\)](https://open.spotify.com/album/1JVwIia5kNlyJx5BHifbMR) | 4:10 |
-| 2 | [Sweet but Psycho](https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Sweet but Psycho](https://open.spotify.com/album/4OB4IRGAHNxCDqriQJuWT9) | 2:51 |
+| 2 | [Sweet But Psycho](https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Sweet But Psycho](https://open.spotify.com/album/4OB4IRGAHNxCDqriQJuWT9) | 2:51 |
 | 3 | [Krankenhaus](https://open.spotify.com/track/7eYHuij0jATbIh33IhxmHX) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Teknoclash](https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb), [Lost Identity](https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h) | [Krankenhaus](https://open.spotify.com/album/4Q5D3F01P7ZRzNGNn05TT4) | 2:22 |
 | 4 | [Till I Collapse](https://open.spotify.com/track/2G5pp5lBvvOZobxOhimIh6) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06) | [Till I Collapse](https://open.spotify.com/album/38wErlxsJZ55IxGjT3Zq0c) | 2:38 |
 | 5 | [Wild Ones](https://open.spotify.com/track/18nVnqg01aqt1Bgu1Kq0WV) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [Wild Ones](https://open.spotify.com/album/6qx0RO98OmKtZpeay4cu4K) | 3:34 |

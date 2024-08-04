@@ -1,6 +1,6 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 267961,
+  "num_followers": 268145,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/18yDzTr0dsuw268dHopO43"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 227741,
+      "name": "Call Your Girlfriend",
+      "url": "https://open.spotify.com/track/0BfySEp4LJTvZfxxlfaaOU"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
         "name": "Dark Night of The Soul",
         "url": "https://open.spotify.com/album/0DmKQGWmKXQ3zmjTIQQzK1"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 272933,
       "name": "Little Girl (feat. Julian Casablancas)",
       "url": "https://open.spotify.com/track/0Ih55K62jZIbeTysGHJkW0"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/18yDzTr0dsuw268dHopO43"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 227741,
-      "name": "Call Your Girlfriend",
-      "url": "https://open.spotify.com/track/0BfySEp4LJTvZfxxlfaaOU"
     },
     {
       "added_at": "2024-03-18 13:17:02",

@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 68691,
+  "num_followers": 68784,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Soil",
-        "url": "https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ"
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
       },
       "artists": [
         {
-          "name": "The Soil",
-          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
         }
       ],
-      "duration_ms": 246066,
-      "name": "Iinkomo",
-      "url": "https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4"
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+        "name": "The Soil",
+        "url": "https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ"
       },
       "artists": [
         {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+          "name": "The Soil",
+          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
         }
       ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+      "duration_ms": 246066,
+      "name": "Iinkomo",
+      "url": "https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Angel Of Mine",
-      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Uliza Kiatu",
         "url": "https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 190122,
       "name": "Nkwagala",
       "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Angel Of Mine",
+      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
     },
     {
       "added_at": "2024-05-22 11:00:00",

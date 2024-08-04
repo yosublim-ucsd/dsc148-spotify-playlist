@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,565 likes - 20 songs - 1 hr 11 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,567 likes - 20 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tu Di Drum \(GREG \(BR\) Remix\)](https://open.spotify.com/track/4YpjL4B6gRcE7YowZmuLXM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [No Guest List \(Deluxe\)](https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ) | 6:13 |
+| 1 | [Tu Di Drum \(GREG \(BR\) Remix\)](https://open.spotify.com/track/4YpjL4B6gRcE7YowZmuLXM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [No Guest List \(Deluxe\)](https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ) | 2:47 |
 | 2 | [Take Me Away](https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Take Me Away](https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw) | 2:26 |
 | 3 | [Going Down](https://open.spotify.com/track/3KOHKi6cTh1IRAxUwmrMok) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Going Down / Don't Play EP](https://open.spotify.com/album/1OKsSktA0eC9wOMKnVWGEe) | 5:47 |
 | 4 | [Cha Cha Cha \(Bruno Furlan Remix\)](https://open.spotify.com/track/7lNyQm09JHENyOOpCjw8LH) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [No Guest List \(Deluxe\)](https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ) | 3:16 |

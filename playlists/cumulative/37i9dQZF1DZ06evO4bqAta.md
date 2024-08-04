@@ -2,7 +2,7 @@
 
 ### [This Is Bob Dylan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bqAta)
 
-> This is Bob Dylan\. Todos os maiores hits em uma só playlist.
+> This Is Bob Dylan\. Los temas esenciales, todos en una lista.
 
 111 songs - 8 hr 2 min
 

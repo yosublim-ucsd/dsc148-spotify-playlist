@@ -4,7 +4,7 @@
 
 > 
 
-576 songs - 1 day 8 hr 8 min
+576 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,7 +535,7 @@
 | [Tribale](https://open.spotify.com/track/4wVgQ9FP0hRAwCLj6Dafsr) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [Caramelo](https://open.spotify.com/album/0Q4HpbXQutgP39kZawLm7a) | 2:42 | 2024-06-21 | 2024-06-29 |
 | [Trick Daddy](https://open.spotify.com/track/3Luwyvu9z27Di8fy78sGa4) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Trick Daddy / I Got Money](https://open.spotify.com/album/5yHdlP0VgQDJUBGyMDzh2t) | 3:00 | 2024-05-17 | 2024-05-25 |
 | [Tu Di Drum](https://open.spotify.com/track/15vJitibJtJHKeNmGf3Dz2) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [No Guest List](https://open.spotify.com/album/7cprE3sKPwvLtjsWGLBDYr) | 3:06 | 2024-05-31 | 2024-06-22 |
-| [Tu Di Drum \(GREG \(BR\) Remix\)](https://open.spotify.com/track/4YpjL4B6gRcE7YowZmuLXM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [No Guest List \(Deluxe\)](https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ) | 6:13 | 2024-08-02 |  |
+| [Tu Di Drum \(GREG \(BR\) Remix\)](https://open.spotify.com/track/4YpjL4B6gRcE7YowZmuLXM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [No Guest List \(Deluxe\)](https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ) | 2:47 | 2024-08-02 |  |
 | [Tu Tu](https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [Tu Tu](https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw) | 3:03 | 2024-02-16 | 2024-02-24 |
 | [Turn it Up](https://open.spotify.com/track/6GQ8k7n7CSNjSXN42cTYlE) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Turn It Up](https://open.spotify.com/album/66pannmlBSJYnwyeMiFQR3) | 2:53 | 2024-05-17 | 2024-05-25 |
 | [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 | 2024-08-02 |  |

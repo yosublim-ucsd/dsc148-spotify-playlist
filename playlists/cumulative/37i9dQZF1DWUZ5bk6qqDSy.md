@@ -4,7 +4,7 @@
 
 > Ten hours long continuous white noise to help you relax and let go.
 
-450 songs - 21 hr 2 min
+451 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bedtime Noise](https://open.spotify.com/track/4N76WiyzUaIhiUbJLTDEWg) | [Forq Noise](https://open.spotify.com/artist/6YASAyfxH5nuFQhwX6MB5n) | [Astral Noise](https://open.spotify.com/album/1xc9kORV0jdTVUODvUM24L) | 3:35 | 2021-12-01 | 2022-06-10 |
 | [Below the Fall \- River Noise](https://open.spotify.com/track/6sXtxe7FGKa8a7C8fJvEDt) | [The Mindful](https://open.spotify.com/artist/5emKKqhb4oYf9k3sWw0At9) | [Mindfulness White Noise](https://open.spotify.com/album/7qWWQFUC7A8j6G0j8DHJnK) | 1:34 | 2021-12-01 | 2022-12-22 |
 | [Beneath The Surface](https://open.spotify.com/track/48X2dWdhT84ZS6lj6ZDjoD) | [Sleeping Ocean](https://open.spotify.com/artist/49PiZXcGBtgO9CwPC0SUGw) | [Beneath The Surface](https://open.spotify.com/album/78i64SMc5sjTETYK3RuWYh) | 3:11 | 2021-12-01 |  |
-| [Beyond White Noise](https://open.spotify.com/track/6BSHFyKbY8UtRzraHpbrBp) | [White Textures](https://open.spotify.com/artist/3po9omZSjr6BgIzdw2Wsjz) | [Beyond White Noise](https://open.spotify.com/album/1ggZotkupGe7tz9BTMiM4J) | 3:01 | 2024-07-31 |  |
+| [Beyond White Noise](https://open.spotify.com/track/6BSHFyKbY8UtRzraHpbrBp) | [White Textures](https://open.spotify.com/artist/3po9omZSjr6BgIzdw2Wsjz) | [Beyond White Noise](https://open.spotify.com/album/1ggZotkupGe7tz9BTMiM4J) | 3:01 | 2024-07-31 | 2024-08-04 |
 | [Big Universe 250 Hz](https://open.spotify.com/track/5e3xBGf5RU9Kps9zyMvo8e) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [In The Noise](https://open.spotify.com/album/0fa4s6gzRkLanH66t5jie2) | 2:35 | 2021-12-01 | 2022-06-10 |
 | [Blissful White Noise](https://open.spotify.com/track/4T2okoJo9x0s518RtlUKrM) | [Sea of Noise](https://open.spotify.com/artist/3Beh31xrbBxn3ycObir7vz) | [Sound Mind](https://open.spotify.com/album/797QBc0k2h60FiDCyyUjSF) | 3:01 | 2021-12-01 | 2022-06-10 |
 | [Breathe Easy](https://open.spotify.com/track/7LnDKGTwMoLv3XSgxOnj83) | [High Res Lo Fi](https://open.spotify.com/artist/2EHYuRVxkX0f9VsvoOSCI1) | [Weekly White Noise](https://open.spotify.com/album/1HMBbQKH4GveqLBuITbvWf) | 2:35 | 2022-02-25 | 2024-07-27 |
@@ -223,6 +223,7 @@
 | [Peaceful White](https://open.spotify.com/track/4hquUhrAj1UdqfxxR3WrYT) | [Luke Andersson](https://open.spotify.com/artist/5aFhL9biVJqgXPKDvQyTFc) | [Peaceful White](https://open.spotify.com/album/6FVNQ6uPPPYRxG6VAeIN9C) | 2:59 | 2021-12-01 | 2022-12-22 |
 | [Peaceful White Noise](https://open.spotify.com/track/2nTNILkx5NP5aoEYa1m7zr) | [Recordings From Earth](https://open.spotify.com/artist/3ZQb2yyHzgU02WZWbMOnyU) | [Peaceful White Noise](https://open.spotify.com/album/7iCC03yjc5OdyJnodQKamE) | 2:43 | 2022-04-27 |  |
 | [Pearl Dreams](https://open.spotify.com/track/3rJleB4h5Y5tSd5ewMDkaU) | [EXOA](https://open.spotify.com/artist/16fII77WGyUG8E5DTIW4EU) | [Pearl Dreams](https://open.spotify.com/album/612M8dCLVY2MjbD4sfKX4L) | 5:16 | 2024-07-31 |  |
+| [Pearly White Noise](https://open.spotify.com/track/2KF8eFDG3rJ2kl4RHoTUyH) | [Dream Son](https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo) | [Pearly White Noise](https://open.spotify.com/album/3iX2j5SGw0ccs76uiQacPH) | 5:14 | 2024-07-31 |  |
 | [Perfect Noise](https://open.spotify.com/track/2ihYaSaEwaKPvYKHWdrx2x) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Soft Pink Noise](https://open.spotify.com/album/26s1Hy0MO8kUBINOfESt7z) | 3:42 | 2021-12-01 | 2022-10-28 |
 | [Pillow State of Mind](https://open.spotify.com/track/16LjD9K8Nv7slf267kbQJV) | [Sonic Observations](https://open.spotify.com/artist/1GyhuweKXGa3R8mBbRDwWe) | [Pillow State of Mind](https://open.spotify.com/album/4FI0D9DPPPr9aj9HeKYZFR) | 2:08 | 2024-07-31 |  |
 | [Platinum White Noise](https://open.spotify.com/track/61CPJZf1FqRiILxKsltqRB) | [Noise Design](https://open.spotify.com/artist/4L5Dto2z6lWOgm19IXWNDr) | [Platinum White Noise](https://open.spotify.com/album/32QO4HBhet75IezXGbYFdc) | 2:56 | 2021-12-01 | 2022-10-28 |

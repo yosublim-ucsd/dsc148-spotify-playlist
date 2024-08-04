@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-966 songs - 2 day 21 hr 17 min
+967 songs - 2 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Desert Mule](https://open.spotify.com/track/3ztjQ0GdMdbgoH3EGwqMxb) | [F.S\. Blumm](https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Desert Mule](https://open.spotify.com/album/2Wjdk2beQr4hesuzDyJ2J8) | 5:24 | 2021-07-23 | 2022-04-21 |
 | [Deslizando sobre seda](https://open.spotify.com/track/1l7K3bbrW7OCnZ6KgAKr3c) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Rincones Seguros](https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5) | 3:02 | 2023-08-22 | 2023-09-16 |
 | [Desperation](https://open.spotify.com/track/6uy0SQ7Zbp0FWsqtK7zkze) | [Julian Calor](https://open.spotify.com/artist/2y8eOaQNjiIuITkz6zGfgL) | [Desperation](https://open.spotify.com/album/5kQfVBONLbWPSAviiTj9Wi) | 2:57 | 2019-05-26\* | 2020-08-26 |
+| [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 | 2024-08-02 |  |
 | [Diamonds](https://open.spotify.com/track/297ZF3Zp0VFLY21qZ4bQ6W) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Diamonds](https://open.spotify.com/album/2wz27a9CrwZf9Kgu6PgWq2) | 2:04 | 2022-03-25 |  |
 | [Diamonds](https://open.spotify.com/track/7IhFrpGDnBnCPlVxEgaUDg) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:34 | 2019-06-19\* | 2020-10-22 |
 | [Dietrofront](https://open.spotify.com/track/0pD3ZURkGEUYtFgB8DIgIk) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/1U9Bys0H6WOgZZNqUg0rgo) | 6:17 | 2021-06-07 | 2022-04-20 |
@@ -962,7 +963,7 @@
 | [Wonda](https://open.spotify.com/track/2QEpeCQjrNsx2czYpi955l) | [Vandrz](https://open.spotify.com/artist/39aL8sGmqpSVt5hgraIRhw) | [STROBE](https://open.spotify.com/album/2bSpW7nlrEzNUPERyU5fqX) | 2:45 | 2023-10-27 |  |
 | [World Turns](https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [World Turns](https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn) | 5:23 | 2022-09-09 | 2022-10-16 |
 | [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 | 2022-09-09 | 2024-04-19 |
-| [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 | 2024-03-15 |  |
+| [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 | 2024-03-15 | 2024-08-04 |
 | [XX Intro](https://open.spotify.com/track/46MzZcKKqhiAyNjDQnoIsl) | [Kate Simko](https://open.spotify.com/artist/2KXLSIzI7CY7AJg5ARUOSb), [London Electronic Orchestra](https://open.spotify.com/artist/7K8x3XADxtiWL6hTiR2inf) | [Kate Simko & London Electronic Orchestra](https://open.spotify.com/album/7Bp97g4nrxVcW8kGNffnwy) | 3:07 | 2023-11-10 | 2024-04-19 |
 | [XX Intro \- Original Mix](https://open.spotify.com/track/6PBjqYBDA09CG7WJm4sXKF) | [Kate Simko](https://open.spotify.com/artist/2KXLSIzI7CY7AJg5ARUOSb), [London Electronic Orchestra](https://open.spotify.com/artist/7K8x3XADxtiWL6hTiR2inf) | [Kate Simko & London Electronic Orchestra](https://open.spotify.com/album/4BIN17Mw2Bh1fbvQ5Egsii) | 3:07 | 2019-05-26\* | 2023-11-05 |
 | [Yellow Bird](https://open.spotify.com/track/1r5J8bYOWq1Dal5jMQ06WX) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [A Color Map of the Sun \(Deluxe Version\)](https://open.spotify.com/album/4LcmZzFiH4gmNk8meb66iO) | 5:39 | 2019-06-24 | 2020-08-26 |

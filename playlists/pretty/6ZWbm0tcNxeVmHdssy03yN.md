@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 43,181 likes - 97 songs - 5 hr 14 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 43,189 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 8 | [Real People](https://open.spotify.com/track/3Fibnk49KocG9t0bDPoLoL) | [Bluebiird](https://open.spotify.com/artist/6WQtjMVyfW5S8wyuCudWFd) | [Real People](https://open.spotify.com/album/7tH0OeiofF02HAjq9YjmqY) | 2:51 |
 | 9 | [Bacio](https://open.spotify.com/track/5oSE9MP0p5aYtOf2iMyp0i) | [Wes Chiller](https://open.spotify.com/artist/2Db2n5HtwOIHl77l8wlyQZ), [Revenge Wife](https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT) | [Bacio](https://open.spotify.com/album/3W72pqEAGqBS2kitjSpGAK) | 2:51 |
 | 10 | [ALONE](https://open.spotify.com/track/53q92RP7AQ5GdppHXoQck5) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [ALONE](https://open.spotify.com/album/0POeAqu7MrM4zeSrE3SEjk) | 3:20 |
-| 11 | [Leave A Light On](https://open.spotify.com/track/4O2zMxi6z5lWrAvCONv4mO) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Leave A Light On](https://open.spotify.com/album/1oaxcode1JbjbTHriOZEmS) | 5:14 |
+| 11 | [Leave A Light On](https://open.spotify.com/track/4O2zMxi6z5lWrAvCONv4mO) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Covers](https://open.spotify.com/album/1oaxcode1JbjbTHriOZEmS) | 5:14 |
 | 12 | [Langelihle \(Beautiful Day\)](https://open.spotify.com/track/4LblGEFA3LlNAqkNS5ZwLi) | [Lungi Naidoo](https://open.spotify.com/artist/66qfrvIX87ukAaAgxE5inz) | [Langelihle \(Beautiful Day\)](https://open.spotify.com/album/3SzEKzbAwPpZRx2uEAigsX) | 3:30 |
 | 13 | [Khala Ngani](https://open.spotify.com/track/0k9w95YMnVRkcqV85NkXwN) | [NaCo](https://open.spotify.com/artist/7nigJqtAVhlLKcR8qhLxkv), [KNOWLEY\-D](https://open.spotify.com/artist/4tY3pt1z6b3I5pdcROYVEV), [Mpoet](https://open.spotify.com/artist/0fLNw74QyoLO3hCBfhgNGU), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L) | [Khala Ngani](https://open.spotify.com/album/6G1TvHXGFxTzsHSWIXPfS1) | 7:01 |
 | 14 | [Jy's Okay](https://open.spotify.com/track/00kgvDwY5up65mrI7UAR6K) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0) | [Jy's Okay](https://open.spotify.com/album/011LkhfToL5uKN7nA6OoOm) | 3:04 |

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 39966,
+  "num_followers": 40000,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -1204,17 +1204,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
         }
       ],
-      "duration_ms": 209374,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
+      "duration_ms": 178374,
+      "name": "Deep Sea DRIP",
+      "url": "https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -1232,13 +1228,17 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         }
       ],
-      "duration_ms": 178374,
-      "name": "Deep Sea DRIP",
-      "url": "https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu"
+      "duration_ms": 209374,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/6ZOOniV66m11wsEYkHQMoP"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 143053,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/1T8y6o6n9K4s1lXNQfEKVX"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
         "name": "Everything You Wanted",
         "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
       },
@@ -2303,30 +2319,6 @@
       "duration_ms": 252367,
       "name": "Aquaman",
       "url": "https://open.spotify.com/track/6XyFNu5mbPcIIdiTCHS3qH"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/6vko8JQNpg4Hg886cpFbvF"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 191187,
-      "name": "RUN IT",
-      "url": "https://open.spotify.com/track/3rMDfuxGyBLyI46q1xgSoA"
     }
   ],
   "unique_name": "This Is Jay Park",

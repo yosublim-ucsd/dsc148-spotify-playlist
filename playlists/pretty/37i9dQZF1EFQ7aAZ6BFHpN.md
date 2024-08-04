@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 148 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 316 likes - 148 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 128 | [Porgy and Bess Pt\. 1: Porgy, I Hates to Go...](https://open.spotify.com/track/7eRzCCDmAi1dxg3eYqOwlD) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Milestones of Jazz Legends \- Duke Ellington and the His Vocalists, Vol\. 5](https://open.spotify.com/album/57VaAjRge3vuvq5lxBhOxA) | 1:00 |
 | 129 | [Pay Some Attention to Me](https://open.spotify.com/track/6GnjjWJKJtSM5RSGaCF0WD) | [Lena Jansson](https://open.spotify.com/artist/4m4gSGFjX9mrzRrQUdnxVo), [Nils Lindberg Combo](https://open.spotify.com/artist/2jUufg1a3S5np12pTCdNqk) | [Jansson, Lena: That Certain Feeling](https://open.spotify.com/album/2bXBKhTIcmH4YI7kBEolIW) | 5:27 |
 | 130 | [Overflow](https://open.spotify.com/track/2DKtHTCrrdjIfISJe9uDLK) | [Bernt Rosengren Octet](https://open.spotify.com/artist/00YyCPR9UjuVm4UCypwhhR) | [Plays Porgy & Bess](https://open.spotify.com/album/1rfBJOOVXK7EENlH8M0UT7) | 3:21 |
-| 131 | [Japanese](https://open.spotify.com/track/3jaCDn4AOYQMUdN9o34PIs) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Solano Winds Community Concert Band](https://open.spotify.com/artist/1YLhjnQplgUGOvRNYZcV5p), [Bill Doherty](https://open.spotify.com/artist/2EGUuNUucquz9IGOgctXZo) | ["DUOS!" Gershwin and Grainger](https://open.spotify.com/album/74Rw3MJUDCd9Wrc8HMfrP7) | 1:42 |
-| 132 | [You're Mighty Lucky](https://open.spotify.com/track/5LgRsiI2qihuEJvemlWEmT) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Danny Burstein](https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3), [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:35 |
+| 131 | [You're Mighty Lucky](https://open.spotify.com/track/5LgRsiI2qihuEJvemlWEmT) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Danny Burstein](https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3), [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:35 |
+| 132 | [Japanese](https://open.spotify.com/track/3jaCDn4AOYQMUdN9o34PIs) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Solano Winds Community Concert Band](https://open.spotify.com/artist/1YLhjnQplgUGOvRNYZcV5p), [Bill Doherty](https://open.spotify.com/artist/2EGUuNUucquz9IGOgctXZo) | ["DUOS!" Gershwin and Grainger](https://open.spotify.com/album/74Rw3MJUDCd9Wrc8HMfrP7) | 1:42 |
 | 133 | [You'll Still Be There](https://open.spotify.com/track/4lORHJ7SKOAcNjkmpMjED6) | [David Daniels](https://open.spotify.com/artist/6uELdghdD8aUe94aDyyMCK), [Marti Stevens](https://open.spotify.com/artist/0HTYgqS3ggoUKgNXlIYWE4) | [Oh, Kay! \(The Original Cast Album\)](https://open.spotify.com/album/0zGvpLNJcPl8ylxbn0fc8o) | 3:14 |
 | 134 | [Porgy and Bess Pt\. 1: No, No, Brother, Porgy Ain't Soft On No Woman...](https://open.spotify.com/track/5fcIbDDDK369lK8qaUyYg7) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Milestones of Jazz Legends \- Duke Ellington and the His Vocalists, Vol\. 5](https://open.spotify.com/album/57VaAjRge3vuvq5lxBhOxA) | 6:56 |
 | 135 | [Home](https://open.spotify.com/track/0sSwIvwh26CP6o9dFnEFWY) | [Dave Daniels](https://open.spotify.com/artist/0Vh90V75jUqGR31zSjASYz) | [Oh, Kay! \(The Original Cast Album\)](https://open.spotify.com/album/0zGvpLNJcPl8ylxbn0fc8o) | 2:03 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 147 | [Mary, Queen Of Scots](https://open.spotify.com/track/5CSSuStXPBgDlh9zpWiVI6) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Primrose](https://open.spotify.com/album/3vzbMJ8Ft5sE4y8pzNv782) | 3:40 |
 | 148 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 
-Snapshot ID: `AbYX+AAAAAAV2GrdFBcCMD/q9n3RfHV9`
+Snapshot ID: `AbYdmAAAAAAS7ROm0v6ellWtlZfd7W7z`

@@ -2,7 +2,7 @@
 
 ### [This Is Terry Riley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wmvjq)
 
-> This is Terry Riley\. The essential tracks, all in one playlist.
+> This Is Terry Riley\. Los temas esenciales, todos en una lista.
 
 176 songs - 1 day 0 hr 41 min
 

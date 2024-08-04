@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Appreciation",
+        "url": "https://open.spotify.com/album/4Jqd5OiORj1ymZtpgtMFxN"
+      },
+      "artists": [
+        {
+          "name": "Johann Eder",
+          "url": "https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166796,
+      "name": "Appreciation",
+      "url": "https://open.spotify.com/track/5rL3vtLmgC53w0QVF8Sn8W"
+    },
+    {
+      "album": {
         "name": "Aqua Aura",
         "url": "https://open.spotify.com/album/5NdiSoyeQn9WL8rMB219xC"
       },
@@ -5934,7 +5952,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 195306,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"

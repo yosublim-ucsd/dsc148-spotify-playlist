@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 174000,
       "name": "Duy Sesimi",
       "url": "https://open.spotify.com/track/104YH2h7OtypkVgBAjcS6O"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 171612,
       "name": "SEN\u0130N OLSUN",
       "url": "https://open.spotify.com/track/6HjKzIcneM1tVlpQlKulkq"
@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "zalim",
+        "url": "https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130060,
+      "name": "zalim",
+      "url": "https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC"
+    },
+    {
+      "album": {
         "name": "\u00c7ATAPAT",
         "url": "https://open.spotify.com/album/6pdkNZvWbVb908zfH3AynF"
       },
@@ -1582,6 +1600,24 @@
       "duration_ms": 191250,
       "name": "\u00dc\u015f\u00fcmem Ondan De\u011fil",
       "url": "https://open.spotify.com/track/6xjyNZ9yjxGenZaiMDM4lg"
+    },
+    {
+      "album": {
+        "name": "\u015eikayet",
+        "url": "https://open.spotify.com/album/2vkTeCqOTbZ0BMJlVpuiyV"
+      },
+      "artists": [
+        {
+          "name": "artun",
+          "url": "https://open.spotify.com/artist/3VNxudvX3h9TzgzaCW3WEO"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258657,
+      "name": "\u015eikayet",
+      "url": "https://open.spotify.com/track/6sbbry86W7EUiXGs7haJnS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9EWkqxS1pO0"

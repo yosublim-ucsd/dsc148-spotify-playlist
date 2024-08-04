@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Charli xcx & Billie Eilish \(pictured\), A$AP Rocky, Mura Masa and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,669 likes - 118 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,743 likes - 118 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

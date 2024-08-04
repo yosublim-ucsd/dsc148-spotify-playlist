@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-289 songs - 17 hr 38 min
+290 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Mountains Quake](https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Leave Some Things Behind](https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd) | 2:01 | 2023-01-13 |  |
 | [Mr\. Mannys](https://open.spotify.com/track/2DBxSvS6cTI5d54tEi2qQn) | [Chris Pandolfi](https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI) | [Looking Glass](https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV) | 3:46 | 2021-12-03 | 2022-05-28 |
 | [Muscle Car](https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f) | [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Muscle Car](https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY) | 5:28 | 2023-05-26 |  |
-| [Nancy Blevins](https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5) | [Allison de Groot & Tatiana Hargreaves](https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe) | [Hurricane Clarice](https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76) | 3:09 | 2022-03-25 |  |
+| [Nancy Blevins](https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5) | [Allison de Groot & Tatiana Hargreaves](https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe) | [Hurricane Clarice](https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76) | 3:09 | 2022-03-25 | 2024-08-04 |
 | [Neighbor Mike](https://open.spotify.com/track/4KtXTRp1LjJxyno1sAK49G) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Brad Kolodner](https://open.spotify.com/artist/1rsfRrzcfeju6lX030WEOB) | [Hair & Hide](https://open.spotify.com/album/1hWSmIeJs2sgkpoJd7VcYo) | 3:34 | 2021-12-03 | 2022-07-22 |
 | [New South Africa](https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP) | [Béla Fleck & Abigail Washburn](https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm) | 4:33 | 2021-12-03 |  |
 | [No Resolution](https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Fork In The Road](https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes) | 4:48 | 2021-12-03 |  |
@@ -241,6 +241,7 @@
 | [Taxland \(feat\. Sierra Hull\)](https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW) | [Justin Moses](https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola), [Barry Bales](https://open.spotify.com/artist/04csPEQnhfQ5zY6vPMvwds), [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Taxland \(feat\. Sierra Hull\)](https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn) | 3:25 | 2023-11-24 |  |
 | [Team Hoover](https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Team Hoover](https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT) | 5:41 | 2023-06-23 |  |
 | [The American Fiddler](https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [The American Fiddler](https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms) | 4:10 | 2024-04-12 |  |
+| [The Drifter](https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ) | [Danny Roberts](https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE) | [The Drifter](https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW) | 3:47 | 2024-08-02 |  |
 | [The Good, the Bad and the Ugly](https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg) | [Southern Raised](https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH) | [The Good, the Bad and the Ugly](https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo) | 5:51 | 2022-07-22 | 2024-06-01 |
 | [The Green Fields Of Glentown, Le Reel des Nouveaux Mariés, Flash Away The Pressing Gang](https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU) | [The Duhks](https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY) | [Your Daughters & Your Sons](https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C) | 4:25 | 2021-12-03 |  |
 | [The Majestic Swan \- Instrumental](https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6) | [Cadillac Sky](https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8) | [Gravity's Our Enemy](https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684) | 4:11 | 2021-12-03 |  |

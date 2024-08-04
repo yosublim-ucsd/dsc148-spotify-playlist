@@ -1,6 +1,6 @@
 {
   "description": "Waves and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
-  "num_followers": 30670,
+  "num_followers": 30732,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Waves of Daelbata",
-        "url": "https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb"
-      },
-      "artists": [
-        {
-          "name": "Eryone",
-          "url": "https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv"
-        }
-      ],
-      "duration_ms": 168336,
-      "name": "Waves of Daelbata",
-      "url": "https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
         "name": "Above the Clouds",
         "url": "https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 175000,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
+        "name": "Waves of Daelbata",
+        "url": "https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb"
+      },
+      "artists": [
+        {
+          "name": "Eryone",
+          "url": "https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv"
+        }
+      ],
+      "duration_ms": 168336,
+      "name": "Waves of Daelbata",
+      "url": "https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Enlightened Adrift",
-        "url": "https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp"
-      },
-      "artists": [
-        {
-          "name": "J. Cartwright",
-          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
-        }
-      ],
-      "duration_ms": 150625,
-      "name": "Enlightened Adrift",
-      "url": "https://open.spotify.com/track/2qnd80g4Q2voFJONxPEZff"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
         "name": "The North Sea",
         "url": "https://open.spotify.com/album/7CBWzwXLxmfXco1i9Kza09"
       },
@@ -1119,22 +1103,34 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Ocean Mindfulness",
-        "url": "https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh"
+        "name": "Enlightened Adrift",
+        "url": "https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp"
       },
       "artists": [
         {
-          "name": "Raf21",
-          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
-        },
-        {
-          "name": "Human Is Alive",
-          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
+          "name": "J. Cartwright",
+          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
         }
       ],
-      "duration_ms": 207914,
-      "name": "Ocean Mindfulness",
-      "url": "https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ"
+      "duration_ms": 150625,
+      "name": "Enlightened Adrift",
+      "url": "https://open.spotify.com/track/2qnd80g4Q2voFJONxPEZff"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
+        "name": "Singing Mermaids",
+        "url": "https://open.spotify.com/album/7rwtwkooAD4zrqkvH8Mff3"
+      },
+      "artists": [
+        {
+          "name": "George Memfri",
+          "url": "https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Singing Mermaids",
+      "url": "https://open.spotify.com/track/7MnNQEoNtmddjkcM7pQsaH"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Singing Mermaids",
-        "url": "https://open.spotify.com/album/7rwtwkooAD4zrqkvH8Mff3"
+        "name": "Ocean Mindfulness",
+        "url": "https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh"
       },
       "artists": [
         {
-          "name": "George Memfri",
-          "url": "https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl"
+          "name": "Raf21",
+          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+        },
+        {
+          "name": "Human Is Alive",
+          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Singing Mermaids",
-      "url": "https://open.spotify.com/track/7MnNQEoNtmddjkcM7pQsaH"
+      "duration_ms": 207914,
+      "name": "Ocean Mindfulness",
+      "url": "https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
+        "name": "Marina Paradise",
+        "url": "https://open.spotify.com/album/1O1LO9tmn2EWzBms6PbnuC"
+      },
+      "artists": [
+        {
+          "name": "Claddagh Glas",
+          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Marina Paradise",
+      "url": "https://open.spotify.com/track/6GyiSgsuqXFJMLBECpXlcY"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
         "name": "Sunrise Serenade",
         "url": "https://open.spotify.com/album/5fXtwzH2IFeVPS1EXzOyc9"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 203346,
       "name": "Zen (Sound Bath)",
       "url": "https://open.spotify.com/track/6P1PwPQz9v8OpDmsaJLplo"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
-        "name": "Marina Paradise",
-        "url": "https://open.spotify.com/album/1O1LO9tmn2EWzBms6PbnuC"
-      },
-      "artists": [
-        {
-          "name": "Claddagh Glas",
-          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Marina Paradise",
-      "url": "https://open.spotify.com/track/6GyiSgsuqXFJMLBECpXlcY"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
+        "name": "Embedded Waves",
+        "url": "https://open.spotify.com/album/1BBvbqT9A4Ftkk8td956tO"
+      },
+      "artists": [
+        {
+          "name": "Dormironauts",
+          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Embedded Waves",
+      "url": "https://open.spotify.com/track/5M0bzHl4Xer4ZwiQs2ZPLR"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
         "name": "174 Hz Luminous Reefs",
         "url": "https://open.spotify.com/album/6ssUd0PYC0wpT6CGQ94UCd"
       },
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Embedded Waves",
-        "url": "https://open.spotify.com/album/1BBvbqT9A4Ftkk8td956tO"
+        "name": "Soothing Beach",
+        "url": "https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII"
       },
       "artists": [
         {
-          "name": "Dormironauts",
-          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
+          "name": "Eshe Fajah",
+          "url": "https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Embedded Waves",
-      "url": "https://open.spotify.com/track/5M0bzHl4Xer4ZwiQs2ZPLR"
+      "duration_ms": 142857,
+      "name": "Soothing Beach",
+      "url": "https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Soothing Beach",
-        "url": "https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII"
-      },
-      "artists": [
-        {
-          "name": "Eshe Fajah",
-          "url": "https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Soothing Beach",
-      "url": "https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
         "name": "Morning Waves",
         "url": "https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 172211,
       "name": "Morning Waves",
       "url": "https://open.spotify.com/track/1rECiVNfP8569A717vmLe1"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
-        "name": "Shores of Serenity",
-        "url": "https://open.spotify.com/album/3DdHLlGtxU5vLbYEvyMzc5"
-      },
-      "artists": [
-        {
-          "name": "Moon Garden",
-          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Shores of Serenity",
-      "url": "https://open.spotify.com/track/56Wi8HppRbnVgvG4DDrm76"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1523,34 +1507,18 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Mindful Swell",
-        "url": "https://open.spotify.com/album/6zmEZNa4jxDxm0ZKLbEEAP"
+        "name": "Shores of Serenity",
+        "url": "https://open.spotify.com/album/3DdHLlGtxU5vLbYEvyMzc5"
       },
       "artists": [
         {
-          "name": "Bright Lens",
-          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Mindful Swell",
-      "url": "https://open.spotify.com/track/4IdY42vTEo4xF4cWMErT9W"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
-        "name": "432 Hz Tsiatso",
-        "url": "https://open.spotify.com/album/76MZZfmw1fdZHZeQWAjD7Q"
-      },
-      "artists": [
-        {
-          "name": "Asha Ward",
-          "url": "https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "432 Hz Tsiatso",
-      "url": "https://open.spotify.com/track/2InPTG1gjUW2dsBUIgLyHU"
+      "duration_ms": 152000,
+      "name": "Shores of Serenity",
+      "url": "https://open.spotify.com/track/56Wi8HppRbnVgvG4DDrm76"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1571,6 +1539,22 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
+        "name": "Mindful Swell",
+        "url": "https://open.spotify.com/album/6zmEZNa4jxDxm0ZKLbEEAP"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Mindful Swell",
+      "url": "https://open.spotify.com/track/4IdY42vTEo4xF4cWMErT9W"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
         "name": "Soft Sea Waves",
         "url": "https://open.spotify.com/album/3vMqqCHWcoOS3qysd89GiH"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 174677,
       "name": "Soft Sea Waves",
       "url": "https://open.spotify.com/track/16PZo5L2PS0p9WNES66TlO"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
+        "name": "432 Hz Tsiatso",
+        "url": "https://open.spotify.com/album/76MZZfmw1fdZHZeQWAjD7Q"
+      },
+      "artists": [
+        {
+          "name": "Asha Ward",
+          "url": "https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "432 Hz Tsiatso",
+      "url": "https://open.spotify.com/track/2InPTG1gjUW2dsBUIgLyHU"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT"
-      },
-      "artists": [
-        {
-          "name": "Clouds Come Down",
-          "url": "https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8"
-        }
-      ],
-      "duration_ms": 231102,
-      "name": "Silent Retreat (Ocean View)",
-      "url": "https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
         "name": "Obscure Ocean",
         "url": "https://open.spotify.com/album/3d2kKnsb4KIGKDjWlOuXVo"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 148035,
       "name": "Obscure Ocean",
       "url": "https://open.spotify.com/track/6O59ijRb9pv9CedleQJW6L"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT"
+      },
+      "artists": [
+        {
+          "name": "Clouds Come Down",
+          "url": "https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8"
+        }
+      ],
+      "duration_ms": 231102,
+      "name": "Silent Retreat (Ocean View)",
+      "url": "https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf"
     },
     {
       "added_at": "2024-07-08 12:44:11",

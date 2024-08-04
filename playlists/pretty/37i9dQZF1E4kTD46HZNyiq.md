@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With By The Coast, LAVE, VICTORS and more
+> Mit By The Coast, LAVE, VICTORS und anderen Künstler\*innen
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,851 likes - 50 songs - 3 hr 11 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Keep Me Close](https://open.spotify.com/track/4iGXkFkUTl55yoVmvXJr8D) | [Rhineland](https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a) | [Heard It in a Dream, Love](https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI) | 3:46 |
 | 50 | [Bad Caffeine](https://open.spotify.com/track/6bkeIYd3Awy4vZyP7OHL56) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Bad Caffeine](https://open.spotify.com/album/7buohOmlkqtsJoUJgHT99B) | 4:13 |
 
-Snapshot ID: `Zq2DwAAAAACjs+xLEgQVvw+mvYok87eJ`
+Snapshot ID: `Zq7dQQAAAADztSeVJFi7AUJrgcpnQBqe`

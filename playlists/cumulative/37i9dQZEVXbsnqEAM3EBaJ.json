@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "Angela Brownridge plays Tchaikovsky & Schumann",
+        "url": "https://open.spotify.com/album/6LksOZbC7bDyI6XJ5f6o64"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Angela Brownridge",
+          "url": "https://open.spotify.com/artist/7suBrtDHxXAC0bJ0TIiL4S"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210226,
+      "name": "18 Pieces, Op. 72: XVIII. Sc\u00e8ne dansante. Invitation au trepak",
+      "url": "https://open.spotify.com/track/7wquSj8FFHY9RRe9q60x01"
+    },
+    {
+      "album": {
         "name": "1971",
         "url": "https://open.spotify.com/album/5NQlz34r4WxXuJ8gIDxTDn"
       },
@@ -5866,7 +5888,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 160986,
       "name": "Couldn't Love You More",
       "url": "https://open.spotify.com/track/76Xe5O7neH9OCBYvqeEZsJ"
@@ -9920,7 +9942,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 307653,
       "name": "Forever Young - Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)",
       "url": "https://open.spotify.com/track/3d8wAwAgFQn2oEIw8HI6Jb"
@@ -9982,7 +10004,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone) - Acoustic Version",
       "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
@@ -11862,7 +11884,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 272639,
       "name": "Hear You Me",
       "url": "https://open.spotify.com/track/2lyUYcQi8XW0O3iAYmZpwi"
@@ -12993,6 +13015,24 @@
     },
     {
       "album": {
+        "name": "I Can Do It With a Broken Heart",
+        "url": "https://open.spotify.com/album/3yVqF1TOg60hk9ehgMj3na"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart - Instrumental",
+      "url": "https://open.spotify.com/track/0Z8YQJNXTCZqflWehjoJqJ"
+    },
+    {
+      "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
@@ -13616,7 +13656,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 213553,
       "name": "I Wish We Were Leaving - Radio Edit",
       "url": "https://open.spotify.com/track/6cv2Dw9plGC3NU2If9OjEJ"
@@ -15738,7 +15778,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 223546,
       "name": "Keep Pushin' - Live, Hamburg, 1979",
       "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
@@ -18596,7 +18636,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 276046,
       "name": "Meta Indefinita",
       "url": "https://open.spotify.com/track/4NPAI7Pji2rBtReF2XpFbc"
@@ -22690,7 +22730,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 303440,
       "name": "Prepackaged",
       "url": "https://open.spotify.com/track/5SaEsMhNB9f6wI2dbZ4xJ2"
@@ -22748,7 +22788,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 186679,
       "name": "Pretty Good To Feel Something",
       "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
@@ -28036,7 +28076,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 622645,
       "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\": 4. Finale. Adagio lamentoso",
       "url": "https://open.spotify.com/track/7CyUo4HNS3vtbxs3PDJ5ql"
@@ -28800,7 +28840,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 307000,
       "name": "The Cave We Fear to Enter",
       "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
@@ -33890,7 +33930,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 202758,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"

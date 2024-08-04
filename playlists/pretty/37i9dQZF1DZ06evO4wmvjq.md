@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 
 ### [This Is Terry Riley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wmvjq)
 
-> This is Terry Riley\. The essential tracks, all in one playlist.
+> This Is Terry Riley\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,106 likes - 50 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,107 likes - 50 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 49 | [Sanguine Cherry](https://open.spotify.com/track/5DRTBcoHrx4YM5uO5M1lFi) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Sanguine Cherry](https://open.spotify.com/album/7J8yyaLuRs9BsAHF4A5U9H) | 0:50 |
 | 50 | [Garden of Earthly Delights](https://open.spotify.com/track/1ikh8xH14iF7NgvNz48btv) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m) | 5:40 |
 
-Snapshot ID: `ZqrQAAAAAACCSrgHoaBWeXIBX+3sck7U`
+Snapshot ID: `ZqrQAAAAAAD4fdf/N3iJHGRS4AXEbNJO`

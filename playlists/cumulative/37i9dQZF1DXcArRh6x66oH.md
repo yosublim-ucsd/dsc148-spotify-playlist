@@ -2,7 +2,7 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> built for the climb
+> five years of Country Squire being all your'n
 
 308 songs - 18 hr 34 min
 

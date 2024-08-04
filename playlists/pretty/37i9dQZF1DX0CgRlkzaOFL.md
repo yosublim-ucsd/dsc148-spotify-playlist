@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,114 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,205 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 53 | [lit\(var\)](https://open.spotify.com/track/7mZ5nhoyb6vcInY3AherBC) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [映画 聲の形 オリジナル・サウンドトラック a shape of light【形態A】](https://open.spotify.com/album/7ESzwDgNKNk8qJtbOAmX3Y) | 2:14 |
 | 54 | [Prelude \(From "Angel's Egg"\)](https://open.spotify.com/track/3qPdfEagq3UMnBlI8fyj6Z) | [Yoshihiro Kanno](https://open.spotify.com/artist/1heTq679gdTz4dVxujnP2m), [Noriko Ogawa](https://open.spotify.com/artist/60Ygpctc1ZdaRuvvrkiqAU) | [Yoshihiro Kanno: Light, Water, Rainbow...](https://open.spotify.com/album/5U6LNjErYVpSQSVQk5mhjf) | 3:25 |
 | 55 | [Omake\-Pfadlib](https://open.spotify.com/track/0HxoynruEEEo4DF0axOFNj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:31 |
-| 56 | [pfAD\-10:罪](https://open.spotify.com/track/3a3yOY5NhZV9msnSMC1T5e) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Takafumi Wada](https://open.spotify.com/artist/3sxGuh5kVr4exa9PABWTm1) | [七つの大罪 オリジナル・サウンドトラック 2](https://open.spotify.com/album/67H16vW2PEzBo2ZrTkWVHz) | 2:12 |
+| 56 | [pfAD\-10:罪](https://open.spotify.com/track/3a3yOY5NhZV9msnSMC1T5e) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [七つの大罪 オリジナル・サウンドトラック 2](https://open.spotify.com/album/67H16vW2PEzBo2ZrTkWVHz) | 2:12 |
 | 57 | [Rei\-Opus Ⅴ \(EMA01\)](https://open.spotify.com/track/69bGff6rYUHT6Fzodw6wpV) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "EVANGELION 1.0" YOU ARE\(NOT\)ALONE.](https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k) | 2:59 |
 | 58 | [AdラLib](https://open.spotify.com/track/4AwCgFvlH58SmKbNWFKsWY) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [キルラキル コンプリートサウンドトラック](https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6) | 3:23 |
 | 59 | [IiMuRoYa\-$.feat 3rd\-Mov.:HEiW@→KiZUN@](https://open.spotify.com/track/59owDR67uubyLwhXNEtQ2k) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック II](https://open.spotify.com/album/0y3XZ3R8MsOQGx16H1wsuz) | 4:12 |

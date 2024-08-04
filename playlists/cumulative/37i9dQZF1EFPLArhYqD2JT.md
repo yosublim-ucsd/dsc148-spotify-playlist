@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-385 songs - 19 hr 31 min
+386 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Shaking the Blues Away \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5UQB8BMAvG8kFhFY3znlxf) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [With A Smile And A Song](https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS) | 3:30 | 2024-07-26 |  |
 | [Since They Turn Loch Lomond Into Swing](https://open.spotify.com/track/08BSsLQRCYy9C4GMfnoMtK) | [Ginger Rogers and Fred Astaire](https://open.spotify.com/artist/47sMVzsgSHNatdsgfc8RG4) | [Ginger Rodgers & Fred Astaire](https://open.spotify.com/album/6sdadofq19ht7bDXvs45km) | 2:42 | 2024-07-26 |  |
 | [Sisters \(with Betty Clooney & Paul Weston & His Orchestra\)](https://open.spotify.com/track/7ulfzXGryvQwmpaiuaAkVC) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Betty Clooney](https://open.spotify.com/artist/0WIT6HzDRIvRSgiBkvkyml), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Irving Berlin's "White Christmas"](https://open.spotify.com/album/6dl9kzPEA7STWrEAZqbAFZ) | 2:44 | 2024-07-26 |  |
-| [Sittin' In The Sun](https://open.spotify.com/track/4GJsxSWqJYlhyezWye88sV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:17 | 2024-07-26 |  |
+| [Sittin' In The Sun](https://open.spotify.com/track/4GJsxSWqJYlhyezWye88sV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:17 | 2024-07-26 | 2024-08-04 |
+| [Sittin' In The Sun](https://open.spotify.com/track/3HweMyWc0IfCUfmgh5dg5a) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/4JtsHZBPAvCXNaXWOWV08j) | 3:18 | 2024-08-03 |  |
 | [Slumming On Park Avenue](https://open.spotify.com/track/523L3jqAKxUYpJt1BoBMhT) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 2:24 | 2024-07-26 |  |
 | [Smile and Show Your Dimple](https://open.spotify.com/track/4RXnEq60FjthJCwmIqQURo) | [Paragon Ragtime Orchestra](https://open.spotify.com/artist/4yF9RZa80FC7Er6QjA6RvH), [Rick Benjamin](https://open.spotify.com/artist/1ytyC1KEcdOBjVFt0N9Hpz) | [Irving Berlin \- "This Is the Life!"](https://open.spotify.com/album/5YnLM1K9Lk3XaPDmaEE3aB) | 1:30 | 2024-07-26 |  |
 | [Snookey Ookums \(from "Easter Parade"\) \- 2022 Remaster](https://open.spotify.com/track/0UkaEfk0S0tE5bvvg2dh6M) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 0:59 | 2024-07-26 |  |

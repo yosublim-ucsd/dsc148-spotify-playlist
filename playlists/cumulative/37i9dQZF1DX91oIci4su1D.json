@@ -2410,7 +2410,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 189850,
       "name": "Breath of Life",
       "url": "https://open.spotify.com/track/7pkVmfzwkugvPTNVQLQU1i"
@@ -10144,6 +10144,28 @@
       "duration_ms": 229337,
       "name": "Like A Prayer",
       "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
+    },
+    {
+      "album": {
+        "name": "Like DAT",
+        "url": "https://open.spotify.com/album/1Pmq59yfQH0d5wXY7KRXat"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224117,
+      "name": "Like DAT",
+      "url": "https://open.spotify.com/track/17lr3qI03WESpCHYTBjqPZ"
     },
     {
       "album": {

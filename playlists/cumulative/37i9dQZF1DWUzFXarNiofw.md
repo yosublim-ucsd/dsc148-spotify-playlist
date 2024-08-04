@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Moses Sumney
 
-2,756 songs - 6 day 1 hr 37 min
+2,756 songs - 6 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 | 2022-12-02 | 2023-02-04 |
 | [Believe](https://open.spotify.com/track/77ld03JoBuWZoFBcPVOSzb) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [A Beautiful Patience](https://open.spotify.com/album/2GJDCkQDAygjTCYa5d78ww) | 3:23 | 2023-11-24 | 2024-01-20 |
 | [Believe](https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME \(Expanded Edition\)](https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO) | 3:31 | 2024-02-23 | 2024-04-06 |
-| [bell \(single version\)](https://open.spotify.com/track/0K4FT5OQub6DDCTZx8hyDp) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [bell](https://open.spotify.com/album/1r9jBA4EJRvYyAwZcEgmAh) | 3:11 | 2024-07-19 |  |
+| [bell](https://open.spotify.com/track/0K4FT5OQub6DDCTZx8hyDp) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [bell](https://open.spotify.com/album/1r9jBA4EJRvYyAwZcEgmAh) | 4:28 | 2024-07-19 |  |
 | [BELLA](https://open.spotify.com/track/4QMGInAtqzpZDNEuEsfhF3) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [BELLA](https://open.spotify.com/album/7zG1tak7S3mRQYyw0bxvLN) | 2:29 | 2024-03-08 | 2024-04-27 |
 | [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 | 2024-01-26 | 2024-03-09 |
 | [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2022-07-29 | 2022-09-24 |
@@ -1788,7 +1788,7 @@
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-07 | 2022-02-19 |
 | [Out of Touch](https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Out of Touch](https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr) | 3:32 | 2023-02-24 | 2023-05-06 |
 | [Outlaws](https://open.spotify.com/track/5K2qhmQv5jAFGHoyDbCxaF) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Outlaws](https://open.spotify.com/album/5WrFIHs57MmJueaxNAV0qY) | 3:09 | 2024-05-03 | 2024-06-22 |
-| [Outside](https://open.spotify.com/track/5oWQfNGRqmeRQ2QnpQYT5u) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Outside](https://open.spotify.com/album/6Jws1yCoDC7jninFkcAFId) | 2:23 | 2024-08-02 |  |
+| [Outside](https://open.spotify.com/track/5oWQfNGRqmeRQ2QnpQYT5u) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Outside](https://open.spotify.com/album/6Jws1yCoDC7jninFkcAFId) | 2:23 | 2024-08-02 |  |
 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 | 2022-09-09 | 2022-10-08 |
 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 | 2023-04-07 | 2023-06-17 |
 | [Outside Freestyle](https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Outside Freestyle](https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F) | 2:50 | 2023-02-24 | 2023-05-06 |

@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-204 songs - 9 hr 25 min
+205 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Devil](https://open.spotify.com/track/6O56L08jW9J5oFmD7YKXm2) | [ISHNLV](https://open.spotify.com/artist/5qZzS4qbriUwGeqoj8U1p3) | [Devil](https://open.spotify.com/album/2oS8pY5JB8KZyiqkfgMy98) | 2:39 | 2022-04-21 | 2022-05-21 |
 | [Diddy Bop](https://open.spotify.com/track/6bNyhGcRsX3eNS2ZsBOwLN) | [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz), [Coffeeshop](https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC), [Thatsimo](https://open.spotify.com/artist/6YpREiVGQMVkSzsl4kVwdv), [OTG Stiffy](https://open.spotify.com/artist/01DxU2EiRTJfdFE9cub5hJ) | [Diddy Bop](https://open.spotify.com/album/2k36aJWIyPGVj02Ghb2den) | 2:47 | 2022-07-22 | 2022-09-10 |
 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 | 2022-08-26 |  |
+| [Dope Track](https://open.spotify.com/track/4Z38jEv7REm9di26vAAO6A) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Beat Tape 3](https://open.spotify.com/album/15DkAowq0NYedaw8ieeepT) | 2:31 | 2024-08-02 |  |
 | [Drown](https://open.spotify.com/track/69QeE5b6cEkOm7ptLhNsip) | [Donkong](https://open.spotify.com/artist/2iSzx6yX8XC77IGgRlRZgX), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Drown](https://open.spotify.com/album/6sRAShGQGmgorTBILDoFgL) | 3:30 | 2022-06-03 | 2022-08-13 |
 | [Dubai](https://open.spotify.com/track/21JaPxq2EGDDHKxGX8Cwwl) | [Mosees](https://open.spotify.com/artist/1Bff29cYcg0JkyYiyhFguD) | [Dubai](https://open.spotify.com/album/0nxlL5KuQPIlqgj6uJ6j9C) | 2:24 | 2022-06-16 | 2022-09-03 |
 | [Dune](https://open.spotify.com/track/3DYl0qnXwMYMKcXHn95i7d) | [Infraction](https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ), [Alexi Action](https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw) | [Dune](https://open.spotify.com/album/6IzhSilCIno7FCwaj74CmD) | 2:23 | 2022-05-20 | 2022-06-17 |
@@ -137,7 +138,7 @@
 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 | 2022-09-02 |  |
 | [Nico And The Niners](https://open.spotify.com/track/4EbvHHWqLq8y1iM7U7loo6) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Nico And The Niners](https://open.spotify.com/album/0u0uEGYDqo1bXl9jtXTibA) | 2:48 | 2022-06-03 | 2022-07-16 |
 | [Nico And The Niners \- Slowed](https://open.spotify.com/track/4UZHUNh2RDSvisZyLBQUHd) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Nico And The Niners](https://open.spotify.com/album/3Srj2MLhrDDpibB3gwZmmb) | 3:24 | 2022-07-28 | 2022-09-03 |
-| [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 | 2023-01-05 |  |
+| [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 | 2023-01-05 | 2024-08-04 |
 | [Numb](https://open.spotify.com/track/6yNvTSNpvHfIVDjlLNnVqF) | [VERVGE](https://open.spotify.com/artist/57MA3sAmDw91t1XqH6rJRk), [MGL](https://open.spotify.com/artist/55Rtgu6jVgw4Mv5NeGWUak) | [Numb](https://open.spotify.com/album/09V8HbdOk5BjmRlgY3e5a9) | 2:32 | 2022-06-10 | 2022-09-24 |
 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 | 2022-05-12 |  |
 | [Oley Oley](https://open.spotify.com/track/54lZaPBQceXNLv3wvYH69c) | [Tunahan Turhan](https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz), [Barış Çakır](https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J) | [Oley Oley](https://open.spotify.com/album/6rYvSUUkK6wRpgfih4kOEc) | 3:19 | 2022-05-12 | 2022-06-17 |

@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 313440,
       "name": "King of Castles",
       "url": "https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg"
@@ -2268,6 +2268,32 @@
       "duration_ms": 376477,
       "name": "Phola Nhliziyo",
       "url": "https://open.spotify.com/track/0ziisLze9KEolVdFZTdMfM"
+    },
+    {
+      "album": {
+        "name": "Praise You (feat. Kabza De Small & Stakev)",
+        "url": "https://open.spotify.com/album/3t7igCI5G4TSbN4YUgOU7p"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416283,
+      "name": "Praise You (feat. Kabza De Small & Stakev)",
+      "url": "https://open.spotify.com/track/20ViaCg5GzOr9VPlGvJLaj"
     },
     {
       "album": {

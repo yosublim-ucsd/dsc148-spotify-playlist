@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Xamuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,343 likes - 83 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,325 likes - 83 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 73 | [Pepp@](https://open.spotify.com/track/6tV3ou10FfpVcUbUwPfTjs) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH) | [Pepp@](https://open.spotify.com/album/1BGVpDtN7BiwUKQYvhnJtm) | 1:50 |
 | 74 | [Desacreditado](https://open.spotify.com/track/53D9OYFhiy44r1zpLfNibw) | [MC Neguinho BDP](https://open.spotify.com/artist/1qjORnMWwHW1ILrXFwkMbX), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Taramps](https://open.spotify.com/artist/4ZEOtfy8YKar5Jqu1yR3TH), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Desacreditado](https://open.spotify.com/album/3dBkxWW3c79WeQ9OkRpvPW) | 4:00 |
 | 75 | [Tic Tac](https://open.spotify.com/track/3rlHmQ0Esl4d1utdUrBM8z) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Tic Tac](https://open.spotify.com/album/0RzJlPj22xSVHh7kILUSaN) | 1:50 |
-| 76 | [ME DIZ QUEM](https://open.spotify.com/track/05sxyHW2Kc1iUE23LPLUPK) | [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [ME DIZ QUEM](https://open.spotify.com/album/5Nu3kt1PhXlhDalF9k9WPi) | 4:24 |
+| 76 | [ME DIZ QUEM](https://open.spotify.com/track/05sxyHW2Kc1iUE23LPLUPK) | [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [A$IX](https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6) | [ME DIZ QUEM](https://open.spotify.com/album/5Nu3kt1PhXlhDalF9k9WPi) | 4:24 |
 | 77 | [MONTANHA RUSSA](https://open.spotify.com/track/4jJZnJaXD3T5JzyLyV0nnM) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [PERFORMANCES DE UM ROMANCE PORFÍRIO](https://open.spotify.com/album/2I2mngywBEtFDHJ2p3luD3) | 2:09 |
 | 78 | [Jhony Convida \#11 \- Reis da Rua](https://open.spotify.com/track/1ENugKJoKr7id0HWeGnhuB) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Prado](https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq) | [Jhony Convida \#11 \- Reis da Rua](https://open.spotify.com/album/4GyV7gspagECVyPHdsy53f) | 2:54 |
 | 79 | [Sou Eu Mesma](https://open.spotify.com/track/0jBkw14sG2bbWaAWt95INe) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sou Eu Mesma](https://open.spotify.com/album/3XrbOjWQ3dRDGAynXACRAP) | 1:36 |

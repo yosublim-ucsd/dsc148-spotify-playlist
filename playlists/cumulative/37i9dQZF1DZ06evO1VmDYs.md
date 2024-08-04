@@ -2,7 +2,7 @@
 
 ### [This Is Weezer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VmDYs)
 
-> This is Weezer\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This Is Weezer\. Los temas esenciales, todos en una lista.
 
 61 songs - 3 hr 23 min
 

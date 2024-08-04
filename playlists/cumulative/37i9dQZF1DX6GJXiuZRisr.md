@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-520 songs - 1 day 12 hr 33 min
+521 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Follow me \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/5c4xnWEDCzN3Y2RrjV7GKb) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Follow Me \(Remixes\)](https://open.spotify.com/album/6yFdfs6u4PRuuhpTrTelp8) | 4:23 | 2021-05-07 | 2022-04-20 |
 | [Follow You Anywhere](https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Follow You Anywhere](https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs) | 4:04 | 2022-07-01 | 2023-04-06 |
 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 | 2024-05-10 |  |
-| [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 | 2024-04-05 |  |
+| [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 | 2024-04-05 | 2024-08-04 |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 | 2023-02-26 |
 | [Forget It](https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH) | 2:53 | 2022-07-01 | 2023-07-15 |
 | [Free Your Mind](https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Free Your Mind](https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r) | 5:38 | 2023-06-02 | 2024-01-22 |
@@ -247,6 +247,7 @@
 | [Kochi](https://open.spotify.com/track/3qda6E8ABSxAXfyxQtdtwF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Kochi EP](https://open.spotify.com/album/0g8ukB0hRj9nW6bfJUUdfd) | 4:49 | 2021-05-07 | 2022-09-20 |
 | [Ksamil](https://open.spotify.com/track/07pb7ZBBycZbLdg8CyjXX2) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Ksamil](https://open.spotify.com/album/3b2vBOGMSALZnYA6Vdub0E) | 3:10 | 2021-05-07 | 2022-07-23 |
 | [Lac de Soi](https://open.spotify.com/track/4CDThn846W8Jp8Xqznv5B8) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Lac de Soi](https://open.spotify.com/album/59FbwgMdBY4gC50lCcKThZ) | 4:59 | 2021-05-07 | 2022-04-19 |
+| [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 | 2024-08-02 |  |
 | [Latenza](https://open.spotify.com/track/1HfOHJB7S9kErWUfzKpOHI) | [ASCO](https://open.spotify.com/artist/0FpEluMjDj6Lvn1yHpMGIe) | [Latenza](https://open.spotify.com/album/3j4A1xUXk2ltz2bp36cWTy) | 4:10 | 2021-05-07 | 2022-04-19 |
 | [Lavirra \- Edit](https://open.spotify.com/track/4P0LVOqZiKdHObiWi2HhND) | [Leossa](https://open.spotify.com/artist/1DxrLM2jS3lshF3s8BPHQs) | [Bound By Time](https://open.spotify.com/album/3sifGWnEOsOcRu5d6NazlE) | 4:41 | 2021-07-02 | 2022-07-28 |
 | [Let You Go](https://open.spotify.com/track/3KD6IJoaBg3i7efqistOnh) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [SØNIN](https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC), [AunA](https://open.spotify.com/artist/3WKwSfbeWEtLBUENdbdJ2A) | [Let You Go](https://open.spotify.com/album/2NjwadjbSBDELXLElNoBaV) | 4:46 | 2023-01-20 | 2023-03-30 |

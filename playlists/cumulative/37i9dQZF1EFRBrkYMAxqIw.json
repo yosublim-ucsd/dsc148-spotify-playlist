@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Give And Take",
+        "url": "https://open.spotify.com/album/1uOPjG1f6x1vEh8SQHQ8XS"
+      },
+      "artists": [
+        {
+          "name": "Emily Burns",
+          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165369,
+      "name": "Give and Take",
+      "url": "https://open.spotify.com/track/4o1XGDEeTSjCHDwk2WOVqY"
+    },
+    {
+      "album": {
         "name": "Go Fast Go Slow",
         "url": "https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG"
       },

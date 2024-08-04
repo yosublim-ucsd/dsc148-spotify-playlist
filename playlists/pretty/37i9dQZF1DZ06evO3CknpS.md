@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 ### [This Is Clara Rockmore](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CknpS)
 
-> This is Clara Rockmore\. The essential tracks, all in one playlist.
+> This Is Clara Rockmore\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,490 likes - 31 songs - 2 hr 18 min
 
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 30 | [Doubt](https://open.spotify.com/track/0SC43N4foOI5OGSAHYrXve) | [Mikhail Glinka](https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 2:29 |
 | 31 | [Sonata for violin and piano: Allegro](https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 8:57 |
 
-Snapshot ID: `ZqrQAAAAAAC7GBNSAFPvMqIh3JIOs9Y/`
+Snapshot ID: `ZqrQAAAAAAATEA+M0jaK/nJ2a9ZB62BL`

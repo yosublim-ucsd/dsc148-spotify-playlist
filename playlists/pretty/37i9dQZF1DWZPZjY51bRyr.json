@@ -1,6 +1,6 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 34840,
+  "num_followers": 34871,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Healing Winds",
+        "url": "https://open.spotify.com/album/3ii72HV58BygTMrrqVh4UJ"
+      },
+      "artists": [
+        {
+          "name": "Eta Centauri",
+          "url": "https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Healing Winds",
+      "url": "https://open.spotify.com/track/4dMKw8w6WNByJ5nVWdVEb2"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Dawn Of Day",
         "url": "https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 205500,
       "name": "In Everness",
       "url": "https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Healing Winds",
-        "url": "https://open.spotify.com/album/3ii72HV58BygTMrrqVh4UJ"
-      },
-      "artists": [
-        {
-          "name": "Eta Centauri",
-          "url": "https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Healing Winds",
-      "url": "https://open.spotify.com/track/4dMKw8w6WNByJ5nVWdVEb2"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ"
-      },
-      "artists": [
-        {
-          "name": "Reiki Akoya",
-          "url": "https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5"
-        }
-      ],
-      "duration_ms": 190382,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Manipur Winds",
         "url": "https://open.spotify.com/album/4uQrOVzatkBTjnie3N6QYT"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 189666,
       "name": "Manipur Winds",
       "url": "https://open.spotify.com/track/0UhVwa60Zm8twFtSEmVTmf"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ"
+      },
+      "artists": [
+        {
+          "name": "Reiki Akoya",
+          "url": "https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5"
+        }
+      ],
+      "duration_ms": 190382,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "528 Hz \u2013 Delta",
-        "url": "https://open.spotify.com/album/2eVww2WQchoorYqZJVwHEM"
-      },
-      "artists": [
-        {
-          "name": "Bernie Longo",
-          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
-        }
-      ],
-      "duration_ms": 129705,
-      "name": "528 Hz \u2013 Delta",
-      "url": "https://open.spotify.com/track/2aO8jdjLcUEv7yfEdjdpGL"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/0SGOI4MicvD4VvOT9ae0tM"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 180000,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/79Ou2nfpXBr7ReJIa0Q6hO"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "528 Hz \u2013 Delta",
+        "url": "https://open.spotify.com/album/2eVww2WQchoorYqZJVwHEM"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "duration_ms": 129705,
+      "name": "528 Hz \u2013 Delta",
+      "url": "https://open.spotify.com/track/2aO8jdjLcUEv7yfEdjdpGL"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "432 Hz Lotus",
+        "url": "https://open.spotify.com/album/4y7l5zPX113XxJE8g1XCeI"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Parson",
+          "url": "https://open.spotify.com/artist/59S9QzQL8JVg6lts6OmX7I"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "432 Hz Lotus",
+      "url": "https://open.spotify.com/track/2sdrlf1AV9jJqORYxGlIan"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "The Break of Dawn",
         "url": "https://open.spotify.com/album/14zBgbLcZRWENB1zq8cp1n"
       },
@@ -1367,6 +1383,22 @@
       "duration_ms": 203416,
       "name": "The Break of Dawn",
       "url": "https://open.spotify.com/track/4mXD6Q7OPXWQm6LDajgOBl"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Pune",
+        "url": "https://open.spotify.com/album/0jUYXqBJAa9peMbYsTP5wE"
+      },
+      "artists": [
+        {
+          "name": "Arch",
+          "url": "https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Pune",
+      "url": "https://open.spotify.com/track/0RmW4i2Drbqe2i7rLzReL4"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1403,22 +1435,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "432 Hz Lotus",
-        "url": "https://open.spotify.com/album/4y7l5zPX113XxJE8g1XCeI"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Parson",
-          "url": "https://open.spotify.com/artist/59S9QzQL8JVg6lts6OmX7I"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "432 Hz Lotus",
-      "url": "https://open.spotify.com/track/2sdrlf1AV9jJqORYxGlIan"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Clear Thoughts",
         "url": "https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Pune",
-        "url": "https://open.spotify.com/album/0jUYXqBJAa9peMbYsTP5wE"
-      },
-      "artists": [
-        {
-          "name": "Arch",
-          "url": "https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Pune",
-      "url": "https://open.spotify.com/track/0RmW4i2Drbqe2i7rLzReL4"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Silver Glass",
         "url": "https://open.spotify.com/album/3SDKwHZQNkNkDNzPW6EQLU"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 203442,
       "name": "Silver Glass",
       "url": "https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Harps of Refinement",
+        "url": "https://open.spotify.com/album/24rrR09ppuyoNWgKwGRP4J"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "duration_ms": 180911,
+      "name": "Harps of Refinement",
+      "url": "https://open.spotify.com/track/7rmtLLMsb4zKZbs8m4TBFs"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Harps of Refinement",
-        "url": "https://open.spotify.com/album/24rrR09ppuyoNWgKwGRP4J"
-      },
-      "artists": [
-        {
-          "name": "Beyond Observable",
-          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
-        }
-      ],
-      "duration_ms": 180911,
-      "name": "Harps of Refinement",
-      "url": "https://open.spotify.com/track/7rmtLLMsb4zKZbs8m4TBFs"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Tranquility",
         "url": "https://open.spotify.com/album/0pP3iJlExImW0IusI2wy6Q"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "When The Night Comes Falling",
-        "url": "https://open.spotify.com/album/0AuGuxo0WS2AK2NZC2ViQq"
-      },
-      "artists": [
-        {
-          "name": "Buddha's Sleep",
-          "url": "https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2"
-        }
-      ],
-      "duration_ms": 138037,
-      "name": "When The Night Comes Falling",
-      "url": "https://open.spotify.com/track/0pGqzYTy2GqJj1FJ8IO6QH"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Dock Of A Bay",
         "url": "https://open.spotify.com/album/5oFKiyVLw4Z4HGEeAYp44j"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 185480,
       "name": "Dock Of A Bay",
       "url": "https://open.spotify.com/track/4e7YepU8jkIS1bLwRNckhq"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "When The Night Comes Falling",
+        "url": "https://open.spotify.com/album/0AuGuxo0WS2AK2NZC2ViQq"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Sleep",
+          "url": "https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2"
+        }
+      ],
+      "duration_ms": 138037,
+      "name": "When The Night Comes Falling",
+      "url": "https://open.spotify.com/track/0pGqzYTy2GqJj1FJ8IO6QH"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Pyaar",
-        "url": "https://open.spotify.com/album/6cDfieJqr3qa0bx7mTGL7C"
-      },
-      "artists": [
-        {
-          "name": "Ashia Kashyap",
-          "url": "https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Pyaar",
-      "url": "https://open.spotify.com/track/3WEiy40dTlBu9OU4JkzzAt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Duduk Dreams",
         "url": "https://open.spotify.com/album/4epyHlVlNDz5TuETXucJG3"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Pyaar",
+        "url": "https://open.spotify.com/album/6cDfieJqr3qa0bx7mTGL7C"
+      },
+      "artists": [
+        {
+          "name": "Ashia Kashyap",
+          "url": "https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Pyaar",
+      "url": "https://open.spotify.com/track/3WEiy40dTlBu9OU4JkzzAt"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Joyous Flow",
         "url": "https://open.spotify.com/album/1rTRvKgABDgCZUrm6FxAKQ"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 197555,
       "name": "Joyous Flow",
       "url": "https://open.spotify.com/track/6IW2PQXNR6BOkAJUWJMoyZ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Clear Skies Ahead",
+        "url": "https://open.spotify.com/album/5rKVWByShf5lLqfFwDBsrg"
+      },
+      "artists": [
+        {
+          "name": "Syla Lo",
+          "url": "https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Clear Skies Ahead",
+      "url": "https://open.spotify.com/track/4m1wouuJbxxmeONhfmeeoV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1719,22 +1735,6 @@
       "duration_ms": 186500,
       "name": "Aethaerum",
       "url": "https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Clear Skies Ahead",
-        "url": "https://open.spotify.com/album/5rKVWByShf5lLqfFwDBsrg"
-      },
-      "artists": [
-        {
-          "name": "Syla Lo",
-          "url": "https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Clear Skies Ahead",
-      "url": "https://open.spotify.com/track/4m1wouuJbxxmeONhfmeeoV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "All Love 432 Hz",
-        "url": "https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa"
+        "name": "L\u00b4unico Mondo",
+        "url": "https://open.spotify.com/album/3OTgcKoceFHbQPoSXTMx6D"
       },
       "artists": [
         {
-          "name": "Emeli Saga",
-          "url": "https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj"
+          "name": "Yoga Sonique",
+          "url": "https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0"
         }
       ],
-      "duration_ms": 187202,
-      "name": "All Love 432 Hz",
-      "url": "https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX"
+      "duration_ms": 157874,
+      "name": "L\u00b4unico Mondo",
+      "url": "https://open.spotify.com/track/0GapXKIQZFt1bxbZ6m2QHN"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "L\u00b4unico Mondo",
-        "url": "https://open.spotify.com/album/3OTgcKoceFHbQPoSXTMx6D"
+        "name": "All Love 432 Hz",
+        "url": "https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa"
       },
       "artists": [
         {
-          "name": "Yoga Sonique",
-          "url": "https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0"
+          "name": "Emeli Saga",
+          "url": "https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj"
         }
       ],
-      "duration_ms": 157874,
-      "name": "L\u00b4unico Mondo",
-      "url": "https://open.spotify.com/track/0GapXKIQZFt1bxbZ6m2QHN"
+      "duration_ms": 187202,
+      "name": "All Love 432 Hz",
+      "url": "https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
-      },
-      "artists": [
-        {
-          "name": "Heart Chakra",
-          "url": "https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Compassion",
-      "url": "https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 150250,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
+      },
+      "artists": [
+        {
+          "name": "Heart Chakra",
+          "url": "https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Perceive",
-        "url": "https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO"
-      },
-      "artists": [
-        {
-          "name": "Julianne Pascal",
-          "url": "https://open.spotify.com/artist/3WLA2XptpVp4ALuVFnnQeO"
-        }
-      ],
-      "duration_ms": 173499,
-      "name": "Perceive",
-      "url": "https://open.spotify.com/track/6A3NVkdtex7xq4YBmC9TET"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "peaceful year calling",
         "url": "https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 188000,
       "name": "peaceful year calling",
       "url": "https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Perceive",
+        "url": "https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO"
+      },
+      "artists": [
+        {
+          "name": "Julianne Pascal",
+          "url": "https://open.spotify.com/artist/3WLA2XptpVp4ALuVFnnQeO"
+        }
+      ],
+      "duration_ms": 173499,
+      "name": "Perceive",
+      "url": "https://open.spotify.com/track/6A3NVkdtex7xq4YBmC9TET"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Dream Spheres",
-        "url": "https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 265500,
-      "name": "Dream Spheres",
-      "url": "https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Fond Memories",
         "url": "https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 226206,
       "name": "Fond Memories",
       "url": "https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Dream Spheres",
+        "url": "https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 265500,
+      "name": "Dream Spheres",
+      "url": "https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Flores Del Cielo",
-        "url": "https://open.spotify.com/album/69U05BZIOhOZR9DUXSPLf0"
-      },
-      "artists": [
-        {
-          "name": "Sonic Xaman",
-          "url": "https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Flores Del Cielo",
-      "url": "https://open.spotify.com/track/5jD1fD1f9uIV9KkgNQaHy6"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Sounds Of The Earth",
         "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 148485,
       "name": "Sounds Of The Earth",
       "url": "https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Flores Del Cielo",
+        "url": "https://open.spotify.com/album/69U05BZIOhOZR9DUXSPLf0"
+      },
+      "artists": [
+        {
+          "name": "Sonic Xaman",
+          "url": "https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Flores Del Cielo",
+      "url": "https://open.spotify.com/track/5jD1fD1f9uIV9KkgNQaHy6"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Aeonian Hope",
-        "url": "https://open.spotify.com/album/3LZYp5sPMmJKpQLKHJgpLH"
-      },
-      "artists": [
-        {
-          "name": "The Peace Within",
-          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
-        }
-      ],
-      "duration_ms": 202409,
-      "name": "Aeonian Hope",
-      "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Descend",
         "url": "https://open.spotify.com/album/4alXFRYsK4de9Ee7J7Vg7n"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 166000,
       "name": "Descend",
       "url": "https://open.spotify.com/track/50JAwhngZgAwl5WmmfuCpM"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Aeonian Hope",
+        "url": "https://open.spotify.com/album/3LZYp5sPMmJKpQLKHJgpLH"
+      },
+      "artists": [
+        {
+          "name": "The Peace Within",
+          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
+        }
+      ],
+      "duration_ms": 202409,
+      "name": "Aeonian Hope",
+      "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2715,18 +2715,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Green Haven",
-        "url": "https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q"
+        "name": "Astral Devotion",
+        "url": "https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8"
       },
       "artists": [
         {
-          "name": "Marolo Ocean",
-          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
+          "name": "FloatSpace",
+          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
         }
       ],
-      "duration_ms": 163436,
-      "name": "Clearing Your Mind",
-      "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
+      "duration_ms": 217274,
+      "name": "Astral Devotion - Spa 432Hz",
+      "url": "https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch"
     }
   ],
   "unique_name": "Wellness (2)",

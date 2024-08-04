@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=nF\-fMVhOQiuvVIe8SYx7WQ>Elaine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,897 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,918 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Moses Sumney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,567 likes - 201 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,655 likes - 201 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 24 | [Communication](https://open.spotify.com/track/68fRVWyPvb63bjiKYigmxj) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Communication](https://open.spotify.com/album/14kGxa1vF3z4BiSiwNPXSC) | 1:30 |
 | 25 | [Take It](https://open.spotify.com/track/5XTpgLp6LZMaw7j4STPkIy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [The Rain](https://open.spotify.com/album/2cGmrZ4vAzf8y0rphZPzqi) | 2:38 |
 | 26 | [ALL THE TIME](https://open.spotify.com/track/0SJpyExB722bVpoqzrhFj5) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [ALL THE TIME](https://open.spotify.com/album/4NLfYhSIdnaEy1ODScJQMX) | 2:48 |
-| 27 | [Outside](https://open.spotify.com/track/5oWQfNGRqmeRQ2QnpQYT5u) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Outside](https://open.spotify.com/album/6Jws1yCoDC7jninFkcAFId) | 2:23 |
+| 27 | [Outside](https://open.spotify.com/track/5oWQfNGRqmeRQ2QnpQYT5u) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Outside](https://open.spotify.com/album/6Jws1yCoDC7jninFkcAFId) | 2:23 |
 | 28 | [only u](https://open.spotify.com/track/2zmzogiVnesAdiv7FIoEfk) | [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [only u](https://open.spotify.com/album/3PigDoDoicbL7txnqGx0Uz) | 2:04 |
 | 29 | [Pretty Please](https://open.spotify.com/track/4OzlFs9MPncXpgia4jTjNq) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [Pretty Please](https://open.spotify.com/album/1bMnJbwO3MJffVkmwYNU4Q) | 2:59 |
 | 30 | [Ruined Me](https://open.spotify.com/track/6EPxltlaBzRzoe2tQtsyvb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Ruined Me](https://open.spotify.com/album/0Hi581Qo6fy4xbe2vDgQJV) | 3:16 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 80 | [2AM](https://open.spotify.com/track/2gvnHG9hb9S7Dwlo6EwAek) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [2AM](https://open.spotify.com/album/35AzGnMYa7ICT9A9jonkIx) | 2:26 |
 | 81 | [All I Want Is You \[Feat\. October London\]](https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [All I Want Is You](https://open.spotify.com/album/6J9R7EmL3lIrfnXzZwxRB8) | 3:20 |
 | 82 | [Butterflies](https://open.spotify.com/track/03FKr8sS1cfUchcefvpniw) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Butterflies](https://open.spotify.com/album/2h1DBv3Q0QtwcqkGSrX0cE) | 2:50 |
-| 83 | [bell \(single version\)](https://open.spotify.com/track/0K4FT5OQub6DDCTZx8hyDp) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [bell](https://open.spotify.com/album/1r9jBA4EJRvYyAwZcEgmAh) | 3:11 |
+| 83 | [bell](https://open.spotify.com/track/0K4FT5OQub6DDCTZx8hyDp) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [bell](https://open.spotify.com/album/1r9jBA4EJRvYyAwZcEgmAh) | 4:28 |
 | 84 | [COLOURS](https://open.spotify.com/track/4XjRbBv7fxOnkkUpag0GnZ) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [COLOURS](https://open.spotify.com/album/04z2enD9M2q39EpPBoYm7p) | 3:59 |
 | 85 | [Beautiful Song](https://open.spotify.com/track/1d993158phLNusQtDTpk1w) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Love Gun 2](https://open.spotify.com/album/2jHaYTt9piEHSwhqA3ZJlB) | 3:30 |
 | 86 | [Nowhere](https://open.spotify.com/track/3lHp0poD3gdNg3uhaxodn5) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc) | [Submerge](https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4) | 3:52 |

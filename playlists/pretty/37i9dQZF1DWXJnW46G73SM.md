@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: شارموفرز
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,925 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,965 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 11 | [اضحك](https://open.spotify.com/track/2Du4t16DUMIQl15VyC6Hi2) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [اضحك](https://open.spotify.com/album/56I8KK1PEo0ckpnKe3R157) | 2:51 |
 | 12 | [ZANN](https://open.spotify.com/track/5qFmwvoaeilACAQCYF7OC0) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [ZANN](https://open.spotify.com/album/5X6rLBXxEMNfl4I1FieiGX) | 2:56 |
 | 13 | [Bena2es](https://open.spotify.com/track/04h3IarMzjkix8Ump6gXlY) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Bena2es](https://open.spotify.com/album/2VpB2Qz2Iv7WZsOaXToKu6) | 4:22 |
-| 14 | [Naghza Men Bernameg Beit El Saad](https://open.spotify.com/track/7Hf149WpSudxajnex8j11d) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Yousra](https://open.spotify.com/artist/17ZirxQ7vp5nMVK02txmCT) | [Naghza Men Bernameg Beit El Saad](https://open.spotify.com/album/13NXGOc8tw6F42bLMRFfjs) | 3:12 |
+| 14 | [Naghza Men Bernameg Beit El Saad](https://open.spotify.com/track/7Hf149WpSudxajnex8j11d) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Youssra](https://open.spotify.com/artist/3OOsp0nm674o3Ih8T7wgRJ) | [Naghza Men Bernameg Beit El Saad](https://open.spotify.com/album/13NXGOc8tw6F42bLMRFfjs) | 3:12 |
 | 15 | [Effeh](https://open.spotify.com/track/6EyUQ6UVrkcfrRrjqynjz1) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Effeh](https://open.spotify.com/album/5QV8g0pZYHJZoRvnNbkM7A) | 3:25 |
 | 16 | [علي بالي](https://open.spotify.com/track/4owd2rdO6oWKdI4lFq9mBz) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [علي بالي](https://open.spotify.com/album/2Acmjhosur2I8HWvYMmgPB) | 3:26 |
 | 17 | [Hob Taht El Enshaa](https://open.spotify.com/track/7ASe4X29gwQLvO2dTtj04d) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Hob Taht El Enshaa](https://open.spotify.com/album/7IoYxk1XGAwq8bdXdVkS52) | 3:22 |

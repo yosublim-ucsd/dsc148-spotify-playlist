@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. Todos os maiores hits em uma só playlist.
+> This is Zudizilla\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 795 likes - 46 songs - 2 hr 52 min
 
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 45 | [TELA EM BRANCO](https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Monique Brito](https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:19 |
 | 46 | [TUDO AGORA](https://open.spotify.com/track/3pvuUaDvth5vD8GdvXK0x5) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [B.art](https://open.spotify.com/artist/6KnF0fsn6wR9fdC5MBP0vE) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 4:50 |
 
-Snapshot ID: `ZqrQAAAAAABm0MVGdHWzK/tcsP7wT0wf`
+Snapshot ID: `ZqrQAAAAAAAuTqh9C3QkV9Ljho6y/5Oj`

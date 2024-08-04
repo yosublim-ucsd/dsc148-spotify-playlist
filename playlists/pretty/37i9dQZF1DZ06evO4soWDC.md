@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 
 ### [This Is Luca Brasi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4soWDC)
 
-> This is Luca Brasi\. Tutti i brani in un'unica playlist.
+> This is Luca Brasi\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 867 likes - 42 songs - 2 hr 7 min
 
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 41 | [Benthos](https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:03 |
 | 42 | [Southbound](https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:40 |
 
-Snapshot ID: `ZqrQAAAAAAB8z4CcS9bSS/ErqUd9yHrH`
+Snapshot ID: `ZqrQAAAAAADcy4Ue6FtD0E1CVGBKKUuU`

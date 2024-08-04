@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,182 likes - 118 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,181 likes - 118 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

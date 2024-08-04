@@ -5847,6 +5847,28 @@
     },
     {
       "album": {
+        "name": "F*cked A Fan",
+        "url": "https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190704,
+      "name": "F*cked A Fan",
+      "url": "https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj"
+    },
+    {
+      "album": {
         "name": "F.N.F. (Let's Go) [Remix]",
         "url": "https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh"
       },
@@ -11606,7 +11628,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
@@ -16606,7 +16628,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 171572,
       "name": "Slow It Down (feat. 310babii) - Remix",
       "url": "https://open.spotify.com/track/4ZBAIrRUGcRnTWWNEVlnWi"
@@ -18555,6 +18577,24 @@
     },
     {
       "album": {
+        "name": "trauma",
+        "url": "https://open.spotify.com/album/0eihBhagAmahQQALFmScz3"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "trauma",
+      "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
+    },
+    {
+      "album": {
         "name": "Hi_TEK MZK, VOL. 1",
         "url": "https://open.spotify.com/album/3x7AHIYqDUbE84OhOuRxrm"
       },
@@ -19706,7 +19746,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 136270,
       "name": "WHAT YOU WANT",
       "url": "https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ"

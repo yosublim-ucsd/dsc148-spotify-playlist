@@ -5248,10 +5248,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 197266,
       "name": "Sittin' In The Sun",
       "url": "https://open.spotify.com/track/4GJsxSWqJYlhyezWye88sV"
+    },
+    {
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/4JtsHZBPAvCXNaXWOWV08j"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198106,
+      "name": "Sittin' In The Sun",
+      "url": "https://open.spotify.com/track/3HweMyWc0IfCUfmgh5dg5a"
     },
     {
       "album": {

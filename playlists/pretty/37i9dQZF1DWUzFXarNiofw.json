@@ -1,6 +1,6 @@
 {
   "description": "The newest r&b drops, every week. Cover: Moses Sumney",
-  "num_followers": 1042567,
+  "num_followers": 1042655,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
@@ -456,12 +456,12 @@
           "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
         },
         {
-          "name": "KDDO",
-          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
-        },
-        {
           "name": "Musa Keys",
           "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "KDDO",
+          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
         }
       ],
       "duration_ms": 143119,
@@ -1456,8 +1456,8 @@
           "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
         }
       ],
-      "duration_ms": 191613,
-      "name": "bell (single version)",
+      "duration_ms": 268113,
+      "name": "bell",
       "url": "https://open.spotify.com/track/0K4FT5OQub6DDCTZx8hyDp"
     },
     {

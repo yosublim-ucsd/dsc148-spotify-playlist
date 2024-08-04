@@ -894,7 +894,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 202424,
       "name": "Alt\u00fcst Olmu\u015fum",
       "url": "https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 210744,
       "name": "Ben Sarho\u015f Oldum",
       "url": "https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 312000,
       "name": "Beni Hat\u0131rla",
       "url": "https://open.spotify.com/track/3pBWA9H0QsXnpkep5vmwoM"
@@ -11846,7 +11846,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 287733,
       "name": "Med Cezir",
       "url": "https://open.spotify.com/track/4ktTv8OPQDbahR4opPanNq"
@@ -13250,6 +13250,24 @@
       "duration_ms": 158063,
       "name": "Or.spu evladiyim",
       "url": "https://open.spotify.com/track/0Hez3aD78FVCD8KFbUFQRc"
+    },
+    {
+      "album": {
+        "name": "Ortak",
+        "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205224,
+      "name": "Ortak",
+      "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
     },
     {
       "album": {
@@ -18058,6 +18076,28 @@
       "duration_ms": 174500,
       "name": "Yerle Yeksan",
       "url": "https://open.spotify.com/track/53hT91rbPCM2V5YVHQSc6r"
+    },
+    {
+      "album": {
+        "name": "Yetmedi",
+        "url": "https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115594,
+      "name": "Yetmedi",
+      "url": "https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd"
     },
     {
       "album": {

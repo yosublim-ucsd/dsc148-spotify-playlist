@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. TELESCOPIOS y Barbi Recanati en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,187 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,185 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cuando Pierdas La Cabeza](https://open.spotify.com/track/3uRwI3rt1vvcp9JlaGSkBN) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Cuando Pierdas La Cabeza](https://open.spotify.com/album/7foqRdatNIVF4E1kGbEnL2) | 3:48 |
+| 1 | [Cuando Pierdas La Cabeza](https://open.spotify.com/track/3uRwI3rt1vvcp9JlaGSkBN) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Cuando Pierdas La Cabeza](https://open.spotify.com/album/7foqRdatNIVF4E1kGbEnL2) | 3:48 |
 | 2 | [CON LOQ1 NACE](https://open.spotify.com/track/5gTcX23cK2d06dbuXBIqcH) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [CON LOQ1 NACE](https://open.spotify.com/album/3PKRHrJ4UgwN6caKvt3mYn) | 3:06 |
 | 3 | [Heart of Thunder](https://open.spotify.com/track/6KcNnnPEEEpAThFNN6DYZl) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z), [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Heart of Thunder](https://open.spotify.com/album/2NrrkmuqKwy5j0C5gIxeNX) | 3:31 |
 | 4 | [21 DE ENERo](https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [21 DE ENERo](https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE) | 2:54 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 36 | [La Ouija](https://open.spotify.com/track/0iTPVfW7uK9v4P64fnY8wK) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [La Ouija](https://open.spotify.com/album/0gCaJMGkjfvuMPOxIZpJS4) | 2:33 |
 | 37 | [Si No Le Contesto](https://open.spotify.com/track/18ifuJXXvLlmgIzJKxutUj) | [MALENI](https://open.spotify.com/artist/6sTP7h5AVF1tCxd91NJS5B), [Amori](https://open.spotify.com/artist/0DqJKNdYD842qcWpmHkw0m) | [Si No Le Contesto](https://open.spotify.com/album/1kuZdR8qpVO1UjRGE5T3Ta) | 3:00 |
 | 38 | [Despertar](https://open.spotify.com/track/608PyDDbE6lHHcQE5bC19O) | [Maltripeada](https://open.spotify.com/artist/1FMBQMgnFL2NDSPVEj86CL) | [Despertar](https://open.spotify.com/album/4QnRdMzCDnSxeIVOtYC89R) | 3:17 |
-| 39 | [corazón de fragmentos](https://open.spotify.com/track/4BxlIeZtSQLRqdcP4MNlYM) | [Espejos Rotos](https://open.spotify.com/artist/35FUex2L1BXcdl9RlalI9m) | [corazón de fragmentos](https://open.spotify.com/album/3tSyBv1Xby85upwpm6vIme) | 2:36 |
+| 39 | [corazón de fragmentos](https://open.spotify.com/track/4BxlIeZtSQLRqdcP4MNlYM) | [Espejos Rotos](https://open.spotify.com/artist/35FUex2L1BXcdl9RlalI9m), [GNoiz](https://open.spotify.com/artist/2PcHww4K44oZBRmiKS4VmY) | [corazón de fragmentos](https://open.spotify.com/album/3tSyBv1Xby85upwpm6vIme) | 2:36 |
 | 40 | [La tragedia del arte](https://open.spotify.com/track/0OOx3amWtDCrHbPd97eyHc) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [La tragedia del arte](https://open.spotify.com/album/3tDgOJYwJAjcTpWBdhjtAE) | 2:27 |
 | 41 | [Nada para siempre](https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI) | 3:49 |
 | 42 | [Ataúd](https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Ataúd](https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8) | 3:09 |

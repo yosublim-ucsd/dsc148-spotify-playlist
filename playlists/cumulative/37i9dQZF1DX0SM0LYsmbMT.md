@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,198 songs - 6 day 16 hr 16 min
+4,199 songs - 6 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2792,6 +2792,7 @@
 | [Pink Hair](https://open.spotify.com/track/480pdo4m262D8OtCh4o37j) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Pink Hair](https://open.spotify.com/album/1bz0vZtayjYd1unUIbwsYE) | 2:13 | 2021-11-27 | 2022-07-29 |
 | [Pink Monstera](https://open.spotify.com/track/2SCpqVUm0lcCbq6bJpgl7h) | [Heitech](https://open.spotify.com/artist/4FZqkBu4TXfyD3SqjkuK2u) | [Pink Monstera](https://open.spotify.com/album/6hSvSweHOHmRJwgJKRXRFe) | 2:09 | 2021-09-25 | 2021-10-22 |
 | [Pinus](https://open.spotify.com/track/7e9nTG9JwJ1Ph3YVsnbE9A) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Ships II](https://open.spotify.com/album/0nh1qguy0ln0TCfbCBTAPc) | 1:08 | 2022-05-12 | 2022-06-01 |
+| [Pirogue](https://open.spotify.com/track/4uFRKqRtCFSsO0oDITKwGT) | [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB), [Hikari](https://open.spotify.com/artist/3Y7OaAKzh0nrozREQPnUkQ) | [Pirogue](https://open.spotify.com/album/2bzRnxIQ4okEs3ApcdWMOw) | 2:03 | 2024-08-01 |  |
 | [Pixels](https://open.spotify.com/track/0ehnvmpfnhD7AJcN0ImmQd) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Pixels](https://open.spotify.com/album/5ATXHMJdJ3FrPIoZjK9cYg) | 2:26 | 2021-03-27 | 2021-08-27 |
 | [Placebo Effect](https://open.spotify.com/track/5xKnJdMJBsDem2LZL5xHIv) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Placebo Effect](https://open.spotify.com/album/3YpFqvNPZdmDrCBJwFZx0k) | 1:46 | 2023-07-13 | 2023-07-28 |
 | [Places to Go](https://open.spotify.com/track/54A9Mi23yDAuiSlr0gC1du) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Places to Go](https://open.spotify.com/album/7HSenZDNEvfqseQTQ16DhB) | 1:18 | 2019-09-06 | 2020-02-28 |
@@ -3493,7 +3494,7 @@
 | [sundaythefirstofaugust](https://open.spotify.com/track/2X7P7uAfV5MLqz4tXUttXO) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [sundaythefirstofaugust](https://open.spotify.com/album/3BzM89d666UZerVmu2gwyG) | 2:37 | 2022-04-28 | 2022-11-20 |
 | [sundaythefirstofaugust](https://open.spotify.com/track/6LIO0pUabklDK3jFZNCgRV) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [sundaythefirstofaugust](https://open.spotify.com/album/2L92NiWEXA3GVfUJ8gacuh) | 2:37 | 2022-11-17 | 2024-04-19 |
 | [Sundew](https://open.spotify.com/track/6PRi7RcZU3P0atYsV6WVmx) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8) | [Sundew](https://open.spotify.com/album/4xWQSV1KUuvABJPGJ9KvUS) | 3:46 | 2024-04-25 | 2024-07-05 |
-| [Sundial](https://open.spotify.com/track/1iTIlFTIOwLoNvMnzcIyVB) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Sundial](https://open.spotify.com/album/3iaSkbJCHsjGd0ItYGN8Er) | 1:50 | 2024-08-01 |  |
+| [Sundial](https://open.spotify.com/track/1iTIlFTIOwLoNvMnzcIyVB) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Sundial](https://open.spotify.com/album/3iaSkbJCHsjGd0ItYGN8Er) | 1:50 | 2024-08-01 | 2024-08-04 |
 | [sundown](https://open.spotify.com/track/15LqhqSSDfZmIylBdlxxVK) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [sundown / whisper](https://open.spotify.com/album/4rrjKhuPxr11fsXNkmJIr7) | 1:46 | 2019-09-06 | 2020-03-04 |
 | [Sundown Walk](https://open.spotify.com/track/3rS6BzChXJRQo0ab0CqvkS) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Sundown Walk](https://open.spotify.com/album/0L0yTBGlexxvcFB2Ay6Mgq) | 2:23 | 2024-04-25 | 2024-07-05 |
 | [Sundowner](https://open.spotify.com/track/3beKlXiUT99l2To0XowN6H) | [Madara](https://open.spotify.com/artist/1CAUMxtWfXsgs5N4MJZ6Vg) | [Space Blunts](https://open.spotify.com/album/4qR4sB7Kh4wa0zgNvSWm4x) | 1:37 | 2020-02-11 | 2020-05-01 |

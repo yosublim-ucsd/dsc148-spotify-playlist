@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Mr\. Bachchan
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,196 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,251 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jikki \(From "Mr\. Bachchan"\)](https://open.spotify.com/track/3jt4l32RiZhupMWal5rRyk) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Jikki \(From "Mr\. Bachchan"\)](https://open.spotify.com/album/0LZ5LX0Wvl1Z3TzF5OhVs5) | 3:29 |
+| 1 | [Jikki \(From "Mr\. Bachchan"\)](https://open.spotify.com/track/3jt4l32RiZhupMWal5rRyk) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Jikki \(From "Mr\. Bachchan"\)](https://open.spotify.com/album/0LZ5LX0Wvl1Z3TzF5OhVs5) | 3:29 |
 | 2 | [Ullaasam \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Krishna Lasya Muthyala](https://open.spotify.com/artist/6Xe2lU4AiHXTk3ehxlm7Ms) | [Ullaasam \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/album/6Pofs9s7Bm0UVK94nenVJs) | 4:42 |
 | 3 | [Kya Lafda \(From "Double ISMART"\)\(Telugu\)](https://open.spotify.com/track/1LAp48f6hb6LYqYFFb4EHV) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Kya Lafda \(From "Double ISMART"\)\(Telugu\)](https://open.spotify.com/album/1m2T5YHndF1qX7r1xBFaho) | 4:31 |
 | 4 | [Sooseki \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Sooseki \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/album/7gzl2DEz4LGnwM1qr5UIP5) | 4:20 |

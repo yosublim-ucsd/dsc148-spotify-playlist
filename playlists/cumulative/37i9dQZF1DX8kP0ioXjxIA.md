@@ -2,7 +2,7 @@
 
 ### [This Is BLACKPINK](https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA)
 
-> It's day 2 of our BLACKPINK Anniversary celebration! Let's party As If It's Your Last!
+> BLACKPINK in our area! Join us as we celebrate 8 years with BLACKPINK!
 
 88 songs - 4 hr 45 min
 

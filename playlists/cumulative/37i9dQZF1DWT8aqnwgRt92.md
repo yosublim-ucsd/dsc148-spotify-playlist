@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,499 songs - 3 day 21 hr 44 min
+1,500 songs - 3 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Gift](https://open.spotify.com/track/4kmfs7TFMD9F9z6E2u9gns) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Gift](https://open.spotify.com/album/2hOaPCiLGmRMk5R4ySmy2s) | 4:31 | 2024-01-09 | 2024-01-24 |
 | [Gift](https://open.spotify.com/track/2cTeMPC6HqGeJAa5sPH6XO) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Gift](https://open.spotify.com/album/1wIRhWPNmHZ5ncApXMDAiT) | 3:13 | 2023-01-10 | 2023-03-11 |
 | [Gift](https://open.spotify.com/track/19nxapLc7uFm0kII0uOp8M) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Gift](https://open.spotify.com/album/0ZoP5F7BK2l3qzFXbl1eyy) | 3:14 | 2023-03-07 | 2023-04-09 |
+| [Gift](https://open.spotify.com/track/76gAyGyyhDuHh2r4TdHKaP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス / Gift](https://open.spotify.com/album/6kC9BUz7ObZ0PR0IRR1BpC) | 4:02 | 2024-08-03 |  |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2022-05-28 | 2022-07-27 |
 | [Glitter](https://open.spotify.com/track/4N7q20wGjD32efYY5r9G09) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Glitter](https://open.spotify.com/album/3lSsvZCA16bhwPUgoq7TT3) | 3:20 | 2022-07-26 | 2022-10-19 |
 | [Go Live!](https://open.spotify.com/track/7DtziIc0PbQqXEA2y0GpCR) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Go Live!](https://open.spotify.com/album/2ptmwRdo4fRDPOW1JbNHDv) | 3:50 | 2022-06-28 | 2022-07-06 |
@@ -619,7 +620,7 @@
 | [Repentance Dance](https://open.spotify.com/track/5TUySz7XXn7HBHEBTXosrc) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Repentance Dance](https://open.spotify.com/album/2dfI5u1NJbUVPb6GEpOTxf) | 2:55 | 2023-07-04 | 2023-08-23 |
 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 | 2024-01-22 | 2024-04-11 |
 | [RESISTER \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/4v0GYHuqGhYZFBTVRMeOSm) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [RESISTER \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/5Q9mzyYNLaP22U0Ms3IuIc) | 3:46 | 2022-10-25 | 2022-11-18 |
-| [Resurrection](https://open.spotify.com/track/1vse9vFEYxxF3AhzWU0lz6) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [ゲーム「Re:ゼロから始める異世界生活　Witch's Re:surrection」主題歌「Resurrection」](https://open.spotify.com/album/658Pd2ohjZCxWe5QgDjxTS) | 4:00 | 2024-07-19 |  |
+| [Resurrection](https://open.spotify.com/track/1vse9vFEYxxF3AhzWU0lz6) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [Resurrection（ゲーム「Re:ゼロから始める異世界生活　Witch's Re:surrection」主題歌）](https://open.spotify.com/album/658Pd2ohjZCxWe5QgDjxTS) | 4:00 | 2024-07-19 |  |
 | [reversal](https://open.spotify.com/track/27ViqDyuEQlG1u1Gn5cm0p) | [Anna](https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y) | [reversal](https://open.spotify.com/album/5IGCCikDv7sUqWbU1zVjsO) | 3:42 | 2023-07-18 | 2023-10-04 |
 | [Reversal](https://open.spotify.com/track/3EaLX2LusDc6gdjrBtAGSS) | [Argonavis](https://open.spotify.com/artist/6Kf7Pa6m8q3x53NVZgWJFU) | [CYAN](https://open.spotify.com/album/43hgcfzrljkCzbw3OlKWHE) | 4:13 | 2022-05-28 | 2022-07-06 |
 | [Reversal](https://open.spotify.com/track/78YZXkFnJuXP2hR5KWPeZy) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Reversal](https://open.spotify.com/album/5u7MBz8DAD5t0nPFE5eza0) | 3:23 | 2024-04-16 | 2024-04-19 |
@@ -857,7 +858,7 @@
 | [WONDER LiGHT](https://open.spotify.com/track/3DxQteR3hlJvFGR3NrH7IL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WONDER LiGHT](https://open.spotify.com/album/2IrYnafy5p44G36o8eDvJs) | 3:27 | 2022-10-04 | 2022-11-16 |
 | [Wrong World](https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Wrong World](https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX) | 3:04 | 2024-04-10 | 2024-04-19 |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-03-31 | 2023-07-14 |
-| [YESとNOの間に](https://open.spotify.com/track/39RrY70qJFGRvOK51z5Mbw) | [22/7](https://open.spotify.com/artist/7tn9UjhRgGnDjOWOXuzIgZ) | [YESとNOの間に](https://open.spotify.com/album/3QIha5QmzCBlUuGS87bdHr) | 4:10 | 2024-07-23 |  |
+| [YESとNOの間に](https://open.spotify.com/track/39RrY70qJFGRvOK51z5Mbw) | [22/7](https://open.spotify.com/artist/7tn9UjhRgGnDjOWOXuzIgZ) | [YESとNOの間に](https://open.spotify.com/album/3QIha5QmzCBlUuGS87bdHr) | 4:10 | 2024-07-23 | 2024-08-04 |
 | [Yobigoe](https://open.spotify.com/track/0lctvjZiJkXnHw0mghsq0J) | [Tei](https://open.spotify.com/artist/0rDC7Y5wGmOdqS7JVaZpYI) | [Yobigoe](https://open.spotify.com/album/0EjfZgr0WRu1uOklzp52gV) | 4:41 | 2024-04-10 | 2024-04-19 |
 | [Young Gun of The Sun](https://open.spotify.com/track/1FvOJYT3Q7JI4HvAekiEW8) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(波羅夷 空却\)](https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t) | [Bad Ass Temple \-戒定慧\-](https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy) | 3:02 | 2022-09-01 | 2022-09-16 |
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 | 2024-03-20 |
@@ -900,7 +901,7 @@
 | [この愛に敵うもんはない](https://open.spotify.com/track/3oaqQczgoSVRK8NPvNL6i4) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [この愛に敵うもんはない](https://open.spotify.com/album/5FCwuMphmpu2sJf1Ctom42) | 3:24 | 2024-01-22 | 2024-04-11 |
 | [さがしもの](https://open.spotify.com/track/3gTzLL8x9YZMxMRtpULVIb) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [さがしもの](https://open.spotify.com/album/1ITwEkadUYuEdYKnmZdVCt) | 4:49 | 2024-07-09 | 2024-07-31 |
 | [ささくれ](https://open.spotify.com/track/2IggjcM8LKudTaoCDlCoJM) | [久保あおい](https://open.spotify.com/artist/6tQv9pBC2QYU5InvkNoN0k) | [ささくれ](https://open.spotify.com/album/4oHoW4jY2GC1WQr4RinCxa) | 3:53 | 2023-10-05 | 2023-11-29 |
-| [さよなら、素晴らしき世界よ](https://open.spotify.com/track/4rYWDye90sC4oYuNiyp7qt) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [TVアニメ「異世界失格」エンディングテーマ 「さよなら、素晴らしき世界よ」](https://open.spotify.com/album/2YQKSYZ7HcKYHF9M1loWTn) | 3:57 | 2024-07-16 |  |
+| [さよなら、素晴らしき世界よ](https://open.spotify.com/track/4rYWDye90sC4oYuNiyp7qt) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [さよなら、素晴らしき世界よ（TVアニメ「異世界失格」エンディングテーマ）](https://open.spotify.com/album/2YQKSYZ7HcKYHF9M1loWTn) | 3:57 | 2024-07-16 |  |
 | [しるし](https://open.spotify.com/track/5jSR1EJai9xHvDEAq2rPt9) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [しるし](https://open.spotify.com/album/4MxZof46XxfA0UmmuY4HWM) | 4:12 | 2023-01-05 | 2023-04-09 |
 | [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 | 2022-05-28 | 2022-07-06 |
 | [じゃんけんほい！](https://open.spotify.com/track/5andKZGc1hoy3iCRPUdu7d) | [\#kzn](https://open.spotify.com/artist/6PPyZ24emAZuxz2OK9DDCq), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [じゃんけんほい！](https://open.spotify.com/album/1LxjHndndEihf4ECINj8fE) | 3:34 | 2023-10-10 | 2023-10-25 |

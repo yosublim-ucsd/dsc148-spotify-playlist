@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: Lanberry
 
-115 songs - 5 hr 31 min
+116 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [BIAŁY BEZ](https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [NIE CIERPIE NIE](https://open.spotify.com/album/02e0lE7f2bukYoOJWwBSPT) | 3:44 | 2024-07-01 | 2024-07-19 |
 | [Bilet](https://open.spotify.com/track/6uDRdQUVkjtfTCmEa6Twwk) | [B.R.O](https://open.spotify.com/artist/1JsnraXeS2KK3dgwNR9ARf) | [Bilet](https://open.spotify.com/album/5DR5gLvBrjJ2ie604s9hlh) | 3:08 | 2024-07-01 |  |
 | [BOŻE](https://open.spotify.com/track/4ybFdtL0pGWiWA0Wk46de5) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [BOŻE](https://open.spotify.com/album/1pbMlF0R9bgSR8Txa21oYk) | 3:51 | 2024-08-01 |  |
+| [brudny moncler](https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT), [luvpill](https://open.spotify.com/artist/636Sh0pcePIBMfPNjVsNO8) | [brudny moncler](https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm) | 1:45 | 2024-08-03 |  |
 | [było, minęło](https://open.spotify.com/track/0UqiPItaioGfB7hfmTCDZ1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [było, minęło](https://open.spotify.com/album/77oL0Jtei9L3GH0tMCFwEy) | 3:27 | 2024-07-01 |  |
 | [Całkiem Nowa Bajka](https://open.spotify.com/track/33zbrcm0cYIxT5YvEGlFDl) | [Kleks](https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N), [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH), [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot) | [Akademia Pana Kleksa](https://open.spotify.com/album/2Hdq5qEy07Yod6p8h4XKWA) | 3:13 | 2024-07-01 |  |
 | [Cały czas](https://open.spotify.com/track/0QJOCY8XN0CpmLtIdQLRGK) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Cały czas](https://open.spotify.com/album/76PJvmUn6i4tMeBUqFBHJ8) | 2:48 | 2024-07-01 |  |
@@ -88,7 +89,7 @@
 | [SANTORINI](https://open.spotify.com/track/725GGkOr07ss8F4ta39bc7) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [SANTORINI](https://open.spotify.com/album/5iPUra2nZbLil9V5gaxa97) | 3:47 | 2024-07-01 | 2024-07-19 |
 | [Sing\-Sing](https://open.spotify.com/track/6VEmJ8vZ41dRfiGbj2JYgG) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Sing\-Sing](https://open.spotify.com/album/2zZk9z31q0QfQ3IFRn2cip) | 3:12 | 2024-07-01 |  |
 | [Siłacz](https://open.spotify.com/track/5F4g8gJIyqi7QyKpd7FuU2) | [Ochman](https://open.spotify.com/artist/45YERUZVQOedUFX24vFcvc) | [Siłacz](https://open.spotify.com/album/0rvHoC6ndU1JmNWrJlqCml) | 3:45 | 2024-08-01 |  |
-| [Sobą Tak](https://open.spotify.com/track/4Pd7CIKMDmBP9eHhXNbwpq) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Sobą Tak](https://open.spotify.com/album/7GpqscAy3N1Ukp2OHLou1V) | 2:40 | 2024-07-11 |  |
+| [Sobą Tak](https://open.spotify.com/track/4Pd7CIKMDmBP9eHhXNbwpq) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Sobą Tak](https://open.spotify.com/album/7GpqscAy3N1Ukp2OHLou1V) | 2:40 | 2024-07-11 | 2024-08-04 |
 | [Stawiam na najgorsze](https://open.spotify.com/track/3p1F18Byacl5uB3mrvmXtC) | [Wilhelm](https://open.spotify.com/artist/7jxBlr52pdoKTrrjehTunc) | [Stawiam na najgorsze](https://open.spotify.com/album/1c6LPxvZte0wajFJGf0lu6) | 2:56 | 2024-07-01 | 2024-07-05 |
 | [STER](https://open.spotify.com/track/6O7nUzSVBfMAIF5hJo6dDw) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [STER](https://open.spotify.com/album/5vvho13YQcBgNCgUfNo9Q4) | 2:33 | 2024-07-01 | 2024-07-27 |
 | [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 | 2024-08-02 |

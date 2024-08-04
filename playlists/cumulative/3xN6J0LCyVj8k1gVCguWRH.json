@@ -3381,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "Like None Other",
+        "url": "https://open.spotify.com/album/2OCRmYRuUNu6IKv2Q5SuFZ"
+      },
+      "artists": [
+        {
+          "name": "J.None",
+          "url": "https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183143,
+      "name": "Am I Here",
+      "url": "https://open.spotify.com/track/4l6raknli9gALgCoXnaS4Z"
+    },
+    {
+      "album": {
         "name": "Amalgamation",
         "url": "https://open.spotify.com/album/7xWeWqb3JwFca19AKBRBCI"
       },
@@ -5932,6 +5950,24 @@
       "duration_ms": 186000,
       "name": "Be The Light",
       "url": "https://open.spotify.com/track/50ZiaL8N31nHsmVhrp17dX"
+    },
+    {
+      "album": {
+        "name": "Be Yourself",
+        "url": "https://open.spotify.com/album/0BNOnqpHlxeqTnJiuGKu6B"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172782,
+      "name": "Be Yourself",
+      "url": "https://open.spotify.com/track/1XDi01OpjcVDNKq3ZhiXIa"
     },
     {
       "album": {
@@ -12377,6 +12413,24 @@
     },
     {
       "album": {
+        "name": "Coming Back To You",
+        "url": "https://open.spotify.com/album/1gC7rcNUcRcYhfWGxzujgh"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227107,
+      "name": "Coming Back To You",
+      "url": "https://open.spotify.com/track/5BZWSl60toXxuoClMbiVqh"
+    },
+    {
+      "album": {
         "name": "Coming Back to You",
         "url": "https://open.spotify.com/album/2X7ZvaQQmYHi0iVbTyJe4Y"
       },
@@ -13244,6 +13298,24 @@
       "duration_ms": 201600,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/5GNRwykb05mu9Rz1aCqPhr"
+    },
+    {
+      "album": {
+        "name": "Cranes in the Sky (Spotify Singles)",
+        "url": "https://open.spotify.com/album/260Kae28MIGcLpp248A869"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268875,
+      "name": "Cranes in the Sky - Spotify Singles",
+      "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
     },
     {
       "album": {
@@ -27101,6 +27173,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5DwDBcLVD2vpDOrzIaNlz8"
+      },
+      "artists": [
+        {
+          "name": "Maggie Reitan",
+          "url": "https://open.spotify.com/artist/53DXlWD6ae0k30EAV6t5rk"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200678,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4NFg6HYKa0qj3Mv9a7Imzy"
+    },
+    {
+      "album": {
         "name": "Time For Healing",
         "url": "https://open.spotify.com/album/4hXec8HEn4R03xC3n2JDlf"
       },
@@ -34045,6 +34135,24 @@
     },
     {
       "album": {
+        "name": "Leave The Light On For Me",
+        "url": "https://open.spotify.com/album/7o7VJItgEcigXJEyfkMhsx"
+      },
+      "artists": [
+        {
+          "name": "Benni Frank",
+          "url": "https://open.spotify.com/artist/2bRS7FSjDc0BgnMMiDDVka"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227524,
+      "name": "Leave The Light On For Me",
+      "url": "https://open.spotify.com/track/4GArRiXhTAxHQwnwODbeCe"
+    },
+    {
+      "album": {
         "name": "Perfect Crimes",
         "url": "https://open.spotify.com/album/0uWnorUDnMyUO9OeyKm0Df"
       },
@@ -36602,7 +36710,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 186300,
       "name": "Love Don't Come Easy",
       "url": "https://open.spotify.com/track/2CGXZbeVZusfZiJaih8DbF"
@@ -40006,7 +40114,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 193103,
       "name": "Mocca in Paris",
       "url": "https://open.spotify.com/track/0r77L1R5bVs1GUfIl8YVx4"
@@ -43796,7 +43904,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 235741,
       "name": "Nothing But A Smile",
       "url": "https://open.spotify.com/track/0PMMB4J1eYN8x2grckDi44"
@@ -56572,7 +56680,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-04",
       "duration_ms": 180296,
       "name": "Stomp & Holler",
       "url": "https://open.spotify.com/track/0J9H8KVWlfKNqVGjzkrWXZ"
@@ -60088,6 +60196,24 @@
       "duration_ms": 147500,
       "name": "the cycle",
       "url": "https://open.spotify.com/track/5Qb7N4W7wWCWQx42ZUpBwc"
+    },
+    {
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/1qfu5qBDO9n6S5tovKYQ1X"
+      },
+      "artists": [
+        {
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "The Dark",
+      "url": "https://open.spotify.com/track/06b9t1OXzvmdVk6MWRjozU"
     },
     {
       "album": {
@@ -69376,6 +69502,24 @@
       "duration_ms": 182000,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/0j8Czyl6iYqRiQn1feRtsh"
+    },
+    {
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/4YjFZ32iJRUp0fvWobBpEh"
+      },
+      "artists": [
+        {
+          "name": "Alexi Fehlman",
+          "url": "https://open.spotify.com/artist/4ARvgAdqg94Xby2NzrYblp"
+        }
+      ],
+      "date_added": "2024-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123341,
+      "name": "you + I + our cat",
+      "url": "https://open.spotify.com/track/4W0BbcNBFeqQfiauf3QXaO"
     },
     {
       "album": {

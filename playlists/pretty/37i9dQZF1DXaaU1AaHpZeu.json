@@ -1,6 +1,6 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. TELESCOPIOS y Barbi Recanati en portada.",
-  "num_followers": 288187,
+  "num_followers": 288185,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
@@ -16,12 +16,12 @@
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        },
-        {
           "name": "TELESCOPIOS",
           "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        },
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
       "duration_ms": 228737,
@@ -670,6 +670,10 @@
         {
           "name": "Espejos Rotos",
           "url": "https://open.spotify.com/artist/35FUex2L1BXcdl9RlalI9m"
+        },
+        {
+          "name": "GNoiz",
+          "url": "https://open.spotify.com/artist/2PcHww4K44oZBRmiKS4VmY"
         }
       ],
       "duration_ms": 156415,

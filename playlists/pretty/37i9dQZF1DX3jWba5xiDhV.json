@@ -1,6 +1,6 @@
 {
   "description": "Pino D'Angi\u00f2, italo disco king, you will always be missed \ud83d\udc94 1952-2024",
-  "num_followers": 238921,
+  "num_followers": 239230,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-07-16 11:53:19",
       "album": {
+        "name": "BUBBLEGUM (J\u00fcrgen Paape \"Frutti Di Mare\" Remix)",
+        "url": "https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C"
+      },
+      "artists": [
+        {
+          "name": "ISABELLA",
+          "url": "https://open.spotify.com/artist/2mm9hPa6bzyiKaCeKBb55l"
+        },
+        {
+          "name": "J\u00fcrgen Paape",
+          "url": "https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk"
+        }
+      ],
+      "duration_ms": 315916,
+      "name": "BUBBLEGUM - J\u00fcrgen Paape \"Frutti Di Mare\" Remix",
+      "url": "https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO"
+    },
+    {
+      "added_at": "2024-07-16 11:53:19",
+      "album": {
         "name": "Baciami",
         "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
       },
@@ -1239,26 +1259,6 @@
     {
       "added_at": "2024-07-16 11:53:19",
       "album": {
-        "name": "BUBBLEGUM (J\u00fcrgen Paape \"Frutti Di Mare\" Remix)",
-        "url": "https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C"
-      },
-      "artists": [
-        {
-          "name": "ISABELLA",
-          "url": "https://open.spotify.com/artist/2mm9hPa6bzyiKaCeKBb55l"
-        },
-        {
-          "name": "J\u00fcrgen Paape",
-          "url": "https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk"
-        }
-      ],
-      "duration_ms": 315916,
-      "name": "BUBBLEGUM - J\u00fcrgen Paape \"Frutti Di Mare\" Remix",
-      "url": "https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO"
-    },
-    {
-      "added_at": "2024-07-16 11:53:19",
-      "album": {
         "name": "From Here to Eternity (Remastered)",
         "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
       },
@@ -1291,26 +1291,18 @@
     {
       "added_at": "2024-07-16 11:53:19",
       "album": {
-        "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
-        "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
+        "name": "Dirty Talk",
+        "url": "https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP"
       },
       "artists": [
         {
-          "name": "Kano",
-          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Lorenz Rhode",
-          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+          "name": "Klein & M.B.O.",
+          "url": "https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f"
         }
       ],
-      "duration_ms": 401773,
-      "name": "It's a War - Purple Disco Machine & Lorenz Rhode Instrumental",
-      "url": "https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN"
+      "duration_ms": 335333,
+      "name": "Dirty Talk",
+      "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
     }
   ],
   "unique_name": "Italo Disco",

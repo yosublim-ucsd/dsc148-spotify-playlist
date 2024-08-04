@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 140798,
+  "num_followers": 140806,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "It's Your Night",
         "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 254880,
       "name": "How Do You Keep The Music Playing",
       "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "A Strange Arrangement",
-        "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 150933,
-      "name": "Just Ain't Gonna Work Out",
-      "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 239906,
       "name": "Gun",
       "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "A Strange Arrangement",
+        "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 150933,
+      "name": "Just Ain't Gonna Work Out",
+      "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Home Again (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 249745,
-      "name": "Tell Me A Tale",
-      "url": "https://open.spotify.com/track/6GQQz48swxNlRrhflWmd2q"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Soul Power",
         "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 270306,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Home Again (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 249745,
+      "name": "Tell Me A Tale",
+      "url": "https://open.spotify.com/track/6GQQz48swxNlRrhflWmd2q"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Art Of Tea",
-        "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
-      },
-      "artists": [
-        {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Monkey See-Monkey Do",
-      "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Meaning To Tell Ya",
         "url": "https://open.spotify.com/album/72m72nAelaKn2ONWk9nSV0"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
+        "name": "The Art Of Tea",
+        "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
       },
       "artists": [
         {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
         }
       ],
-      "duration_ms": 148240,
-      "name": "Let's Take a Walk",
-      "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
+      "duration_ms": 215293,
+      "name": "Monkey See-Monkey Do",
+      "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1635,6 +1619,22 @@
       "duration_ms": 191786,
       "name": "I'll Be Around - 2003 Remaster",
       "url": "https://open.spotify.com/track/3HFdPsHeAtmIrCz5fOYnp4"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "Let's Take a Walk",
+      "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Definitive Soul: Spinners",
-        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Could It Be I'm Falling in Love - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0aQQWzYCSXu92bloNvQCrn"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Fulfillingness' First Finale",
         "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 208097,
       "name": "Smile Please",
       "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Definitive Soul: Spinners",
+        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Could It Be I'm Falling in Love - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0aQQWzYCSXu92bloNvQCrn"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Sing Me a Song",
-        "url": "https://open.spotify.com/album/0N6sFugBivjG1IEUlriDHN"
-      },
-      "artists": [
-        {
-          "name": "Sherry Dyanne",
-          "url": "https://open.spotify.com/artist/2JACl2MnidXPb6QeRrsaVB"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "Lift My Blues",
-      "url": "https://open.spotify.com/track/0OKGYoLV41gGrNyfNpWlsa"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Another Side",
         "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 214506,
       "name": "You've Become a Habit",
       "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Sing Me a Song",
+        "url": "https://open.spotify.com/album/0N6sFugBivjG1IEUlriDHN"
+      },
+      "artists": [
+        {
+          "name": "Sherry Dyanne",
+          "url": "https://open.spotify.com/artist/2JACl2MnidXPb6QeRrsaVB"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Lift My Blues",
+      "url": "https://open.spotify.com/track/0OKGYoLV41gGrNyfNpWlsa"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Give Me a Reason",
-        "url": "https://open.spotify.com/album/5xDDJqVki1FKnyLOn5UhTs"
-      },
-      "artists": [
-        {
-          "name": "The Tibbs",
-          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
-        }
-      ],
-      "duration_ms": 178966,
-      "name": "Give Me a Reason",
-      "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 323000,
       "name": "What's Going On - Live at the Troubador, Los Angeles, CA",
       "url": "https://open.spotify.com/track/1zSgozTCF928FD2IKThfMf"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Give Me a Reason",
+        "url": "https://open.spotify.com/album/5xDDJqVki1FKnyLOn5UhTs"
+      },
+      "artists": [
+        {
+          "name": "The Tibbs",
+          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
+        }
+      ],
+      "duration_ms": 178966,
+      "name": "Give Me a Reason",
+      "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Bleeding Edge",
-        "url": "https://open.spotify.com/album/27EWlKpIxk0YCcpc3pI6ge"
-      },
-      "artists": [
-        {
-          "name": "The Revelations featuring Tre Williams",
-          "url": "https://open.spotify.com/artist/6jPnbwYs6cq2QyMrDxDJoV"
-        }
-      ],
-      "duration_ms": 338080,
-      "name": "Let's Straighten It Out",
-      "url": "https://open.spotify.com/track/31RB0e7i3uPJfY5qz06ZHO"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Woodstock Generation",
         "url": "https://open.spotify.com/album/4ozDtdDznuECwLlFboqv0W"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 150306,
       "name": "The Dark End Of The Street",
       "url": "https://open.spotify.com/track/1qboV1rrtiCburWz7E07lB"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Bleeding Edge",
+        "url": "https://open.spotify.com/album/27EWlKpIxk0YCcpc3pI6ge"
+      },
+      "artists": [
+        {
+          "name": "The Revelations featuring Tre Williams",
+          "url": "https://open.spotify.com/artist/6jPnbwYs6cq2QyMrDxDJoV"
+        }
+      ],
+      "duration_ms": 338080,
+      "name": "Let's Straighten It Out",
+      "url": "https://open.spotify.com/track/31RB0e7i3uPJfY5qz06ZHO"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2567,6 +2567,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "Who Is Jill Scott? (Words And Sounds Vol. 1)",
+        "url": "https://open.spotify.com/album/2fwvQikqDmWiam99r1om1B"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 354400,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/7A8YLLXffwbChLJs1sW67Y"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "Not Guilty",
         "url": "https://open.spotify.com/album/5N1n0iLL8IWYBzqAZ9eWsR"
       },
@@ -2579,22 +2595,6 @@
       "duration_ms": 360830,
       "name": "Suspicious",
       "url": "https://open.spotify.com/track/4kmjsi97KPdrn83uyF6UCQ"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "Sister Love: The Warner Bros. Recordings",
-        "url": "https://open.spotify.com/album/0ID6yMGnkB3Fxr15HoOve6"
-      },
-      "artists": [
-        {
-          "name": "Lorraine Ellison",
-          "url": "https://open.spotify.com/artist/7h38QSSoFKgb7WgNC7cZp0"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "You've Really Got a Hold on Me - Single Version",
-      "url": "https://open.spotify.com/track/5m8zKwogmJl7Fw2qgIoMeE"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2615,18 +2615,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Who Is Jill Scott? (Words And Sounds Vol. 1)",
-        "url": "https://open.spotify.com/album/2fwvQikqDmWiam99r1om1B"
+        "name": "Sister Love: The Warner Bros. Recordings",
+        "url": "https://open.spotify.com/album/0ID6yMGnkB3Fxr15HoOve6"
       },
       "artists": [
         {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+          "name": "Lorraine Ellison",
+          "url": "https://open.spotify.com/artist/7h38QSSoFKgb7WgNC7cZp0"
         }
       ],
-      "duration_ms": 354400,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/7A8YLLXffwbChLJs1sW67Y"
+      "duration_ms": 180346,
+      "name": "You've Really Got a Hold on Me - Single Version",
+      "url": "https://open.spotify.com/track/5m8zKwogmJl7Fw2qgIoMeE"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2759,6 +2759,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "Love And Happiness",
+      "url": "https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb"
       },
@@ -2859,22 +2875,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "Love And Happiness",
-      "url": "https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Jim",
         "url": "https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab"
       },
@@ -2919,22 +2919,6 @@
       "duration_ms": 304026,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/2jGfOCUOXBxrV63jlFVZMV"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "Satellite Love",
-        "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
-      },
-      "artists": [
-        {
-          "name": "Giovanca",
-          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Forgive My Soul",
-      "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -3003,6 +2987,22 @@
       "duration_ms": 183440,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/2RE8rBl5QfF1NA5aLc3dvA"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Satellite Love",
+        "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
+      },
+      "artists": [
+        {
+          "name": "Giovanca",
+          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Forgive My Soul",
+      "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
     },
     {
       "added_at": "2024-07-08 07:31:01",

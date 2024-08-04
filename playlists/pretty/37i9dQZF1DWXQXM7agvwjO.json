@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: VINI (Thailand)",
-  "num_followers": 98419,
+  "num_followers": 98430,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-08-01 16:06:04",
       "album": {
+        "name": "\u4e00\u500b\u773c\u795e",
+        "url": "https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu"
+      },
+      "artists": [
+        {
+          "name": "my little airport",
+          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "\u4e00\u500b\u773c\u795e",
+      "url": "https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn"
+    },
+    {
+      "added_at": "2024-08-01 16:06:04",
+      "album": {
         "name": "\u505a\u4e00\u534a\u7684\u5922",
         "url": "https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 181714,
       "name": "Divine",
       "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
-    },
-    {
-      "added_at": "2024-08-01 16:06:04",
-      "album": {
-        "name": "\u4e00\u500b\u773c\u795e",
-        "url": "https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu"
-      },
-      "artists": [
-        {
-          "name": "my little airport",
-          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "\u4e00\u500b\u773c\u795e",
-      "url": "https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn"
     },
     {
       "added_at": "2024-08-01 16:06:04",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-08-01 16:06:04",
       "album": {
+        "name": "favourite jeans",
+        "url": "https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 208461,
+      "name": "favourite jeans",
+      "url": "https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3"
+    },
+    {
+      "added_at": "2024-08-01 16:06:04",
+      "album": {
         "name": "Getaway (feat. Phum Viphurit)",
         "url": "https://open.spotify.com/album/3Bm2iB1HH5jHglICVBIbH7"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 247745,
       "name": "Getaway (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/5JfLK7hYOhU3fj2xCxEKQ5"
-    },
-    {
-      "added_at": "2024-08-01 16:06:04",
-      "album": {
-        "name": "favourite jeans",
-        "url": "https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 208461,
-      "name": "favourite jeans",
-      "url": "https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3"
     },
     {
       "added_at": "2024-08-01 16:06:04",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-08-01 16:06:04",
       "album": {
+        "name": "Amerika",
+        "url": "https://open.spotify.com/album/7tO1FeNs2m4qSf2Awugv1u"
+      },
+      "artists": [
+        {
+          "name": "Bank",
+          "url": "https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF"
+        }
+      ],
+      "duration_ms": 249932,
+      "name": "Amerika",
+      "url": "https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ"
+    },
+    {
+      "added_at": "2024-08-01 16:06:04",
+      "album": {
         "name": "Painless",
         "url": "https://open.spotify.com/album/0ZcJ5jY1VVjAzvP9H1X4bk"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 193880,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4"
-    },
-    {
-      "added_at": "2024-08-01 16:06:04",
-      "album": {
-        "name": "Amerika",
-        "url": "https://open.spotify.com/album/7tO1FeNs2m4qSf2Awugv1u"
-      },
-      "artists": [
-        {
-          "name": "Bank",
-          "url": "https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF"
-        }
-      ],
-      "duration_ms": 249932,
-      "name": "Amerika",
-      "url": "https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ"
     },
     {
       "added_at": "2024-08-01 16:06:04",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-08-01 16:06:04",
       "album": {
-        "name": "If I Say I Love You",
-        "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
-      },
-      "artists": [
-        {
-          "name": "\u6050\u9f8d\u7684\u76ae",
-          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
-        },
-        {
-          "name": "Summer Salt",
-          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
-        }
-      ],
-      "duration_ms": 230704,
-      "name": "If I Say I Love You",
-      "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
-    },
-    {
-      "added_at": "2024-08-01 16:06:04",
-      "album": {
         "name": "DREAMGALS",
         "url": "https://open.spotify.com/album/71lfgxQ0k0YM6SyI5PvagJ"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 238474,
       "name": "PRIORITY",
       "url": "https://open.spotify.com/track/3AoNt2hiCPI8zAz4Rgq5k9"
+    },
+    {
+      "added_at": "2024-08-01 16:06:04",
+      "album": {
+        "name": "If I Say I Love You",
+        "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
+      },
+      "artists": [
+        {
+          "name": "\u6050\u9f8d\u7684\u76ae",
+          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
+        },
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "duration_ms": 230704,
+      "name": "If I Say I Love You",
+      "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
     },
     {
       "added_at": "2024-08-01 16:06:04",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-08-01 16:06:04",
       "album": {
-        "name": "\u795d\u798f",
-        "url": "https://open.spotify.com/album/64dqnbWFC9GnDNHqTMEnHm"
+        "name": "i hate u",
+        "url": "https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 220540,
-      "name": "\u795d\u798f",
-      "url": "https://open.spotify.com/track/4fVRwxkLnFsxspPdtXcac7"
+      "duration_ms": 169767,
+      "name": "i hate u",
+      "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
     },
     {
       "added_at": "2024-08-01 16:06:04",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-08-01 16:06:04",
       "album": {
-        "name": "i hate u",
-        "url": "https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI"
+        "name": "\u795d\u798f",
+        "url": "https://open.spotify.com/album/64dqnbWFC9GnDNHqTMEnHm"
       },
       "artists": [
         {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 169767,
-      "name": "i hate u",
-      "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
+      "duration_ms": 220540,
+      "name": "\u795d\u798f",
+      "url": "https://open.spotify.com/track/4fVRwxkLnFsxspPdtXcac7"
     },
     {
       "added_at": "2024-08-01 16:06:04",
@@ -1591,6 +1591,22 @@
       "duration_ms": 175350,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/6Kg8KoSEacO0Y21pL0ZcDj"
+    },
+    {
+      "added_at": "2024-08-01 16:06:04",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/2k4BOhOjINPaPn2foFTpNk"
+      },
+      "artists": [
+        {
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+        }
+      ],
+      "duration_ms": 214621,
+      "name": "Kewpid",
+      "url": "https://open.spotify.com/track/0mxKq6T6Yd0iGbJ4n0QEBF"
     },
     {
       "added_at": "2024-08-01 16:06:04",
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2024-08-01 16:06:04",
       "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/2k4BOhOjINPaPn2foFTpNk"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4o72fxboi0RopWUmOTRxoe"
       },
       "artists": [
         {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
         }
       ],
-      "duration_ms": 214621,
-      "name": "Kewpid",
-      "url": "https://open.spotify.com/track/0mxKq6T6Yd0iGbJ4n0QEBF"
+      "duration_ms": 259428,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6eqqVvqRJS5T3WCYMsj946"
     },
     {
       "added_at": "2024-08-01 16:06:04",
@@ -1679,22 +1695,6 @@
       "duration_ms": 237998,
       "name": "Abettor\uff08\u5f71\u96c6\u300a\u5851\u81a0\u82b1\u300b\u7247\u5c3e\u66f2\uff09",
       "url": "https://open.spotify.com/track/7vPtWXSa2qyBNQ5a2p0FsG"
-    },
-    {
-      "added_at": "2024-08-01 16:06:04",
-      "album": {
-        "name": "sirens",
-        "url": "https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9"
-      },
-      "artists": [
-        {
-          "name": "Paolo Sandejas",
-          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
-        }
-      ],
-      "duration_ms": 200675,
-      "name": "sirens",
-      "url": "https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus"
     },
     {
       "added_at": "2024-08-01 16:06:04",

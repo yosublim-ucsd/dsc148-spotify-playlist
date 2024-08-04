@@ -2,7 +2,7 @@
 
 ### [This Is Moneybagg Yo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21kuKR)
 
-> This is Moneybagg Yo。アーティストの代表曲をひとつのプレイリストに。
+> This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
 107 songs - 4 hr 59 min
 
