@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 
 > This Is Binomio de Oro de América\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,554 likes - 49 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,572 likes - 49 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

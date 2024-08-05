@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7747793,
+  "num_followers": 7748097,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
       },
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
       },
@@ -1147,6 +1127,30 @@
       "duration_ms": 203307,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Go Back (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Go Back (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1255,30 +1259,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Go Back (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Go Back (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 155076,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/3bjM6KcvV1MwkAm7DJQb9O"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1407,34 +1407,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Rule The World (Everybody)",
-        "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Rule The World (Everybody)",
-      "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -1479,6 +1451,34 @@
       "duration_ms": 174337,
       "name": "Murder On The Dancefloor - David Guetta Remix",
       "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Rule The World (Everybody)",
+        "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Rule The World (Everybody)",
+      "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Wrong or Right (The Riddle)",
         "url": "https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm"
       },
@@ -1687,6 +1671,30 @@
       "duration_ms": 154620,
       "name": "Wrong or Right (The Riddle)",
       "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Drinkin'",
+        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149545,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
     }
   ],
   "unique_name": "Gym Hits",

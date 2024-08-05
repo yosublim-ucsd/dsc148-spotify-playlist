@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Halsey.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,008 likes - 79 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,021 likes - 79 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 2 | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/album/1ZonF7ec14BnRP96ifuD96) | 2:44 |
 | 3 | [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 |
 | 4 | [valssi](https://open.spotify.com/track/5enVWJXH9X2Biou4niupoJ) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [soittorasia](https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu) | 3:57 |
-| 5 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf) | 4:44 |
-| 6 | [Viel yhen kerran](https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Viel yhen kerran](https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e) | 3:42 |
+| 5 | [Viel yhen kerran](https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Viel yhen kerran](https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e) | 3:42 |
+| 6 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf) | 4:44 |
 | 7 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 8 | [Saanko mä luvan](https://open.spotify.com/track/5zFAUq1NZuI6uPaTPCm8Yf) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Saanko mä luvan](https://open.spotify.com/album/6KcpOL8g1andfwBer4Iwgf) | 2:59 |
 | 9 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 |
 | 10 | [En sitä tarkoittanut](https://open.spotify.com/track/00PdQeNpWlEzqrMN3eauPl) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [En sitä tarkoittanut](https://open.spotify.com/album/58lUia8zs4GrvsxDt6v3vO) | 2:46 |
 | 11 | [Lupaa et sä lähet](https://open.spotify.com/track/7MR91GiYTmxI5U9oKhqn9c) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Lupaa et sä lähet](https://open.spotify.com/album/3Z3oF6JddtFYHYMY3JFCct) | 3:23 |
 | 12 | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa) | 2:28 |
-| 13 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 |
-| 14 | [Yliajattelen sua](https://open.spotify.com/track/3cYXxC2KHuhx1NxiN04g0t) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Yliajattelen sua](https://open.spotify.com/album/5tfV5vwt0S0PMbMZAbkLVp) | 2:51 |
+| 13 | [Yliajattelen sua](https://open.spotify.com/track/3cYXxC2KHuhx1NxiN04g0t) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Yliajattelen sua](https://open.spotify.com/album/5tfV5vwt0S0PMbMZAbkLVp) | 2:51 |
+| 14 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 |
 | 15 | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 |
 | 16 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 |
 | 17 | [Pysyvää](https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Pysyvää](https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG) | 3:10 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 78 | [Lutkajenkka](https://open.spotify.com/track/3AfyderccqdtuLSTYAu3vv) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [Lutkajenkka](https://open.spotify.com/album/52ixbntmHugJHdcSwAtsiB) | 2:42 |
 | 79 | [Anna rakas \(raju hetki\)](https://open.spotify.com/track/56Zd8JgzFBKpbRgNMvxwa9) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Pilvi Hämäläinen](https://open.spotify.com/artist/5UFJGFpQM3dH3Qk63nrdjg) | [Anna rakas \(raju hetki\)](https://open.spotify.com/album/5PuhSGjjWX33X7HqsTTwMI) | 2:43 |
 
-Snapshot ID: `Zqv3jAAAAABT6DrKDTmYCj4owi8obbNk`
+Snapshot ID: `Zq9jRgAAAADC5xpOsr4yVXqLdLqaZpJ6`

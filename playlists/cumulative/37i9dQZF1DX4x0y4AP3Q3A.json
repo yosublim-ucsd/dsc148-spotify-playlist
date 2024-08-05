@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Wojtek Szuma\u0144ski",
+  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Max Bravura",
   "name": "Tylko Polski Rock",
   "tracks": [
     {
@@ -1089,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "Maska",
+        "url": "https://open.spotify.com/album/2Q8nIdqeLLIBNW75vRNowd"
+      },
+      "artists": [
+        {
+          "name": "Insekt",
+          "url": "https://open.spotify.com/artist/5ctFHtfBz9nSEJy8gbc1JG"
+        },
+        {
+          "name": "Insekt Orkiestra",
+          "url": "https://open.spotify.com/artist/7mXmoNgvhwWtqeRkzPr1M9"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "Maska",
+      "url": "https://open.spotify.com/track/2SxFzAu5DPeg64Ill8Srul"
+    },
+    {
+      "album": {
         "name": "Maski",
         "url": "https://open.spotify.com/album/1M7PdXpHGkE9MA3PsQE0Si"
       },
@@ -1763,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Roboty",
+        "url": "https://open.spotify.com/album/2jJfK3kEY9xPEv8o8XLi2w"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Roboty",
+      "url": "https://open.spotify.com/track/5dI9OMRn37zPKmspyvY5CR"
+    },
+    {
+      "album": {
         "name": "PPP/CONSTRUCT.IO/RODE-O",
         "url": "https://open.spotify.com/album/2S3yxwPc6vFp8y4JkQz7w8"
       },
@@ -1846,7 +1886,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 205366,
       "name": "Scenariusze wszystkie z\u0142e",
       "url": "https://open.spotify.com/track/5VIoJhwhhx8JmIFBpVOCAG"
@@ -2055,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Dzie\u0142o w Klatce",
+        "url": "https://open.spotify.com/album/6D4PxlncK91tgosac6JK9B"
+      },
+      "artists": [
+        {
+          "name": "Katashi",
+          "url": "https://open.spotify.com/artist/7drgpl3GzkBJNkbNeTCmPm"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273115,
+      "name": "SZKLANE DOMY",
+      "url": "https://open.spotify.com/track/6kzfzczoKHkhy3joxEPFSa"
+    },
+    {
+      "album": {
         "name": "Sztandar",
         "url": "https://open.spotify.com/album/0rNqpU70noBLgotPNPrHNw"
       },
@@ -2106,7 +2164,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 183056,
       "name": "To chyba mi\u0142o\u015b\u0107 jest",
       "url": "https://open.spotify.com/track/7KFoRdClZDKxW1K0YBZoF4"
@@ -2290,7 +2348,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 234793,
       "name": "Wielki Plan",
       "url": "https://open.spotify.com/track/2vLBkuFMxeImptJby7bRLG"

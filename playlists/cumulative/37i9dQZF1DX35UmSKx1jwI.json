@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Break This Habit",
+        "url": "https://open.spotify.com/album/2lyTBmkcPRsp3kitJSEjNK"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172733,
+      "name": "Break This Habit",
+      "url": "https://open.spotify.com/track/410sU1dPbilSPUqx9A6Ir1"
+    },
+    {
+      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 159375,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"

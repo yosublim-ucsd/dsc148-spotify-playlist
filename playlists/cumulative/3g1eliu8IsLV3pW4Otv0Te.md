@@ -4,7 +4,7 @@
 
 > 
 
-215 songs - 14 hr 44 min
+217 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Freedom](https://open.spotify.com/track/6x5OvGcJW0wE8tm3zFxPH8) | [Synergy](https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Freedom](https://open.spotify.com/album/6gOc6YOCvp0WyoGXbCDXa2) | 4:13 | 2023-09-30 |  |
 | [Get Away From Here](https://open.spotify.com/track/0CcQeqwUQTB15ldQ6bH9YC) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [2 \(Deluxe Version\)](https://open.spotify.com/album/3gpHG5MGwnipnap32lFYvI) | 4:13 | 2016-10-05 |  |
 | [Ghost Assassin \- Original Mix](https://open.spotify.com/track/3VPBqHUd17ZvEgabW9ZOUU) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Ghost Assassin EP](https://open.spotify.com/album/3NmmUnjNr6G7wuBWSn0zKw) | 3:41 | 2016-01-14 |  |
+| [Give It To Me](https://open.spotify.com/track/3ebvEbKKCzxCmNUvrYIKUq) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Give It To Me](https://open.spotify.com/album/61zZi6lk2jkwQmCfvrvQG6) | 3:26 | 2024-08-04 |  |
 | [Go Back Home](https://open.spotify.com/track/0aE7qPNrkCTkQonbeUKoNF) | [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Sepia](https://open.spotify.com/album/6pzKfy0Kv18joeyt46ZGy4) | 3:45 | 2016-07-15 |  |
 | [Gold](https://open.spotify.com/track/6WhzFzROw3aq3rPWjgYlxr) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Gold](https://open.spotify.com/album/4sbZHOW6I2LTTjlRJbhVtA) | 3:45 | 2016-01-17 |  |
 | [Got Me Thinking](https://open.spotify.com/track/3iKBtYoamggdtSbDL9FUCa) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Never Give Up](https://open.spotify.com/album/0icAK90Eiv6ImfkI1k5HQF) | 3:32 | 2016-08-27 |  |
@@ -194,6 +195,7 @@
 | [Time Above The Earth](https://open.spotify.com/track/6NoPVnbN7aTBWXcZraFq8I) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 1:54 | 2019-08-07 |  |
 | [Time Bomb \(feat\. Veela\)](https://open.spotify.com/track/26vNIXrv6BI6l0gHHk81Hg) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Boyinaband](https://open.spotify.com/artist/7kfzadZaOgR90Tp8OYH5gM), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Monstercat 007 \- Solace](https://open.spotify.com/album/7dArkHuO5wkus2TJTu6Ytx) | 3:31 | 2016-07-14 |  |
 | [Timeless \(feat\. Veela\)](https://open.spotify.com/track/571MgoPW0hJtXG1C5SFh4H) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Timeless EP](https://open.spotify.com/album/1bQSMFIWID72F4LIluCnB9) | 4:23 | 2016-01-14 |  |
+| [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 | 2024-08-04 |  |
 | [Trauma](https://open.spotify.com/track/5YB7kLolhZvyzAoDr0vawF) | [Hybrid Minds feat\. Rocky Nti](https://open.spotify.com/artist/1ALltKNRptau9ez3ca8HEy), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Rocky Nti](https://open.spotify.com/artist/7vxdIF630QOTloFsFLZzgI) | [Trauma](https://open.spotify.com/album/2TMC90olEVaexRP2eZlrrj) | 5:58 | 2016-01-14 |  |
 | [Traveller](https://open.spotify.com/track/6YvswaIDn1zTyYssiIlRjN) | [Melano](https://open.spotify.com/artist/3ccMUmxnP7Poo48pJXu6X7) | [Traveller](https://open.spotify.com/album/6GOKjjEVeozB5eD3zQeNN7) | 3:29 | 2016-09-07 |  |
 | [Trndsttr \(feat\. M\. Maggie\) \- Lucian Remix](https://open.spotify.com/track/5LZQ5s0kRZS9nBSd1xLK7U) | [Black Coast](https://open.spotify.com/artist/4JMdvZoXArDVuMNNelKmjo), [M\. Maggie](https://open.spotify.com/artist/3jaknADFL7EOn3lSRneM7v), [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4) | [Trndsttr \(feat\. M\. Maggie\) \[Lucian Remix\]](https://open.spotify.com/album/5q3vgbTbWJut1Go3qzVgya) | 2:59 | 2016-09-19 |  |

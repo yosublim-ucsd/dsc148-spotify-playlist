@@ -27674,7 +27674,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 227906,
       "name": "With",
       "url": "https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G"
@@ -30928,7 +30928,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 201411,
       "name": "\u3069\u3046\u3067\u3082\u3044\u3044\u8a71\u304c\u3057\u305f\u3044",
       "url": "https://open.spotify.com/track/2XSRtBSiJK1MpJrIGizsBF"
@@ -31062,6 +31062,24 @@
       "duration_ms": 142697,
       "name": "\u306b\u3083\u3093\u3053\u306e\u54f2\u5b66",
       "url": "https://open.spotify.com/track/50yrMsTgy0Ws7K3IDhM1ZM"
+    },
+    {
+      "album": {
+        "name": "\u306d\u3048\u3001\u3061\u3083\u3093\u3068\u805e\u3044\u3066\u308b\uff1f",
+        "url": "https://open.spotify.com/album/1sXKBqs1PS1ArgzcE0Y3kM"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "\u306d\u3048\u3001\u3061\u3083\u3093\u3068\u805e\u3044\u3066\u308b\uff1f",
+      "url": "https://open.spotify.com/track/3r9U0eU5kDPzOz6iW6Rga0"
     },
     {
       "album": {
@@ -37580,7 +37598,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 276933,
       "name": "\u30ef\u30eb\u30c4",
       "url": "https://open.spotify.com/track/68vtBxs3GCBkVjLS94QVPd"

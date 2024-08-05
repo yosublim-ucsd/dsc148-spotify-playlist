@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 ### [This Is A Boogie Wit da Hoodie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBxkc)
 
-> This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
+> This Is A Boogie Wit da Hoodie\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,029 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,037 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 52 | [Mood Swings](https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:36 |
 | 53 | [R&B Shit \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/70C5mlnBodNJqRYpQi7O9x) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hood Life Krisis Vol\. 3 EP](https://open.spotify.com/album/7hnTROF1tApL0cLtQIztFA) | 3:32 |
 
-Snapshot ID: `ZqrQAAAAAABTr3HajHmUWhGn8g48SrNH`
+Snapshot ID: `ZqrQAAAAAACFj/HwMsLXly9L+UAabOy5`

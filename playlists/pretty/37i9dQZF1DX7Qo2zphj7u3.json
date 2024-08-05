@@ -1,6 +1,6 @@
 {
   "description": "Las rom\u00e1nticas de hoy y de siempre. Foto: Cali Y El Dandee",
-  "num_followers": 2002022,
+  "num_followers": 2001954,
   "original_name": "Pop Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Por el Resto de Tu Vida",
-        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 197476,
-      "name": "Por el Resto de Tu Vida",
-      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -423,38 +403,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Mi Vida Eres T\u00fa",
         "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
       },
@@ -467,6 +415,26 @@
       "duration_ms": 250026,
       "name": "Mi Vida Eres T\u00fa",
       "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -507,6 +475,38 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Faltas T\u00fa",
         "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 239426,
       "name": "Abr\u00e1zame Muy Fuerte",
       "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -571,38 +587,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Noviembre Sin Ti",
-      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Tu \u00daltima Canci\u00f3n",
         "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
       },
@@ -635,6 +619,38 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 272826,
+      "name": "Tengo Todo Excepto a Ti",
+      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Noviembre Sin Ti",
+      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -651,6 +667,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Como Te Recuerdo",
+        "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 305293,
+      "name": "Como Te Recuerdo",
+      "url": "https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -663,6 +695,38 @@
       "duration_ms": 209506,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Un Dia Mas (Edicion Especial)",
+        "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 222986,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/22seP38foydqUMp5Fvkcjm"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -699,6 +763,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Te Esper\u00e9",
+      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Pablo Alboran (Deluxe)",
         "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
       },
@@ -715,54 +795,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 272826,
-      "name": "Tengo Todo Excepto a Ti",
-      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Un Dia Mas (Edicion Especial)",
-        "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 222986,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/22seP38foydqUMp5Fvkcjm"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Como Te Recuerdo",
-        "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 305293,
-      "name": "Como Te Recuerdo",
-      "url": "https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -775,22 +807,6 @@
       "duration_ms": 265626,
       "name": "La Cosa Mas Bella",
       "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Te Esper\u00e9",
-      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 224333,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/0YmzPJsNmuM10SAWwjhIBR"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/5sO5U27s6EUGMBj4fkqUyz"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -875,26 +891,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Cama Incendiada",
-        "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 272576,
-      "name": "Mi Verdad (feat. Shakira)",
-      "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "En Total Plenitud",
         "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
@@ -911,18 +907,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/0YmzPJsNmuM10SAWwjhIBR"
+        "name": "Cama Incendiada",
+        "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
       "artists": [
         {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/5sO5U27s6EUGMBj4fkqUyz"
+      "duration_ms": 272576,
+      "name": "Mi Verdad (feat. Shakira)",
+      "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -971,22 +971,6 @@
       "duration_ms": 215112,
       "name": "Ecos De Amor",
       "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Drama Y Luz",
-        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291866,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Como Te Recuerdo",
+        "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Por Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/5scw7DWTRzsKzeA05QtCQB"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Como Te Recuerdo",
-        "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
+        "name": "Drama Y Luz",
+        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
       },
       "artists": [
         {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 244693,
-      "name": "Por Que Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/5scw7DWTRzsKzeA05QtCQB"
+      "duration_ms": 291866,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "No Hay Imposibles",
-        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
+        "name": "Jose Jose (1)",
+        "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 263666,
-      "name": "Me Enamor\u00e9 de Ti",
-      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
+      "duration_ms": 253000,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Lo Pasado Pasado",
-        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
+        "name": "No Hay Imposibles",
+        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Lo Que No Fue No Ser\u00e1",
-      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
+      "duration_ms": 263666,
+      "name": "Me Enamor\u00e9 de Ti",
+      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1319,42 +1319,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        },
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Tan S\u00f3lo T\u00fa (feat. Alejandra Guzm\u00e1n) - Franco De Vita en Primera Fila",
-      "url": "https://open.spotify.com/track/6dhnmkbc9Z7pGsUyUgZKGX"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Jose Jose (1)",
-        "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1375,18 +1339,38 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Tiempo de oto\u00f1o",
-        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        },
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 275066,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
+      "duration_ms": 237720,
+      "name": "Tan S\u00f3lo T\u00fa (feat. Alejandra Guzm\u00e1n) - Franco De Vita en Primera Fila",
+      "url": "https://open.spotify.com/track/6dhnmkbc9Z7pGsUyUgZKGX"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Lo Pasado Pasado",
+        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Lo Que No Fue No Ser\u00e1",
+      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 211946,
       "name": "\u00bfC\u00f3mo Pagarte?",
       "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Tiempo de oto\u00f1o",
+        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1575,54 +1575,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Sentimientos",
-        "url": "https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Vivir As\u00ed Es Morir de Amor",
-      "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -1647,22 +1599,50 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 206253,
-      "name": "Caminar de Tu Mano (feat. Fonseca)",
-      "url": "https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q"
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1683,6 +1663,22 @@
       "duration_ms": 222800,
       "name": "PLIS",
       "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Desde Andalucia",
+        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 325466,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
     }
   ],
   "unique_name": "Pop Rom\u00e1ntico",

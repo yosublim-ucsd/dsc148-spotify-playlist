@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Matheus Fernandes, Matheus & Kauan
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,735,744 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,740,762 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 7 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
 | 8 | [Haverá Sinais \- Ao Vivo](https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Haverá Sinais \(Ao Vivo\)](https://open.spotify.com/album/15GThOcgtXImBrv3PmlOm6) | 3:10 |
 | 9 | [Morar Nesse Motel](https://open.spotify.com/track/5QpcLTQjh0qO7OIuR9q8IR) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Morar Nesse Motel](https://open.spotify.com/album/1i3R2NzmaLZjDDB6txSgqy) | 3:07 |
-| 10 | [Nem a Pau \(feat\. Simone Mendes\)](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\)](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
+| 10 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
 | 11 | [Cronômetro \- Ao Vivo](https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.3\)](https://open.spotify.com/album/7IrTWvmwWzNs06jd3kEyMQ) | 2:45 |
 | 12 | [Vestido Curto \- Ao Vivo](https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vestido Curto \(Ao Vivo\)](https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC) | 2:31 |
 | 13 | [Bem Mais Que Eu \(Você Quer Caçar Seu Rumo\) \- Ao Vivo](https://open.spotify.com/track/5cdheFwwvj4mi3oJmTynKA) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Bem Mais Que Eu \(Você Quer Caçar Seu Rumo\) \[Ao Vivo\]](https://open.spotify.com/album/58RDGPq0zXYXqlLlwCf78W) | 2:57 |

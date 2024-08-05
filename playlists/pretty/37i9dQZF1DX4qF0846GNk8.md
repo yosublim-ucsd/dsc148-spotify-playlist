@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=DkbXglsCRAGxW\-5IwHA\_nA"> حسن شاكوش </a> و <a href="https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe?si=nAhLxBeESMuzB7k8OJA91w"> حمادة مجدي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,447 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,012 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

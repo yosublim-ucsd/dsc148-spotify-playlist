@@ -1,6 +1,6 @@
 {
   "description": "The best alternative songs of the decade. Cover: Vampire Weekend",
-  "num_followers": 904093,
+  "num_followers": 904086,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+      "duration_ms": 202192,
+      "name": "Doin' Time",
+      "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 202192,
-      "name": "Doin' Time",
-      "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Pure Heroine",
         "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 190185,
       "name": "Royals",
       "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "All My Demons Greeting Me As A Friend (Deluxe)",
         "url": "https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW"
       },
@@ -351,6 +335,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 234693,
       "name": "King Kunta",
       "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -411,6 +395,22 @@
       "duration_ms": 193058,
       "name": "Team",
       "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Drunk",
         "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
       },
@@ -491,38 +507,6 @@
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 347525,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -547,18 +531,34 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+      "duration_ms": 347525,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 248335,
-      "name": "It's Not Living (If It's Not With You)",
-      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "How To Be A Human Being",
         "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 230693,
       "name": "Youth",
       "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 342093,
+      "name": "Shades Of Cool",
+      "url": "https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 342093,
-      "name": "Shades Of Cool",
-      "url": "https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "As the World Caves In",
         "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 248335,
+      "name": "It's Not Living (If It's Not With You)",
+      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 222044,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 252925,
-      "name": "Love It If We Made It",
-      "url": "https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -767,6 +751,22 @@
       "duration_ms": 209919,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 252925,
+      "name": "Love It If We Made It",
+      "url": "https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 248879,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 228466,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 248879,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "A Different Kind Of Fix",
-        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Shuffle",
-      "url": "https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Chaleur Humaine",
         "url": "https://open.spotify.com/album/0xWXamgZr4z2zSYrvcoOar"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 245800,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "A Different Kind Of Fix",
+        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Shuffle",
+      "url": "https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk"
     },
     {
       "added_at": "2022-09-29 15:30:40",

@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 54 | [Rock N Roll Style](https://open.spotify.com/track/21UzAA0Sq5Vgaf3OYcqxZ0) | [CALEIDESCOPE](https://open.spotify.com/artist/40Cha4Qon7sdhQIBkZwlQl), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [FSDW](https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw) | [Rock N Roll Style](https://open.spotify.com/album/3ZqaShirb0rDd77DIKiDmj) | 2:54 |
 | 55 | [Insecurities](https://open.spotify.com/track/3Bv7K7WqHXa0u3tdUyEpNg) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Insecurities](https://open.spotify.com/album/3Q8o4LeEkVHn59LLmGBuuw) | 2:58 |
 | 56 | [It's You](https://open.spotify.com/track/6pbAV8UDevvh8GaWtiylzA) | [Allenx](https://open.spotify.com/artist/6MRiy2aJOrZwKRcgdAZ2oH) | [It's You](https://open.spotify.com/album/6yNCLRluSrZPxK8f5PHWa6) | 2:25 |
-| 57 | [5/10](https://open.spotify.com/track/5rIYn6fgIIraBGl6kvY3g3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Moody](https://open.spotify.com/album/3NeQAa6mtrJdgvbu2pEaAN) | 2:29 |
-| 58 | [Tonight I'm Gonna Dance](https://open.spotify.com/track/3kFcllup1aucn7AWLDKqA3) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD) | [Tonight I'm Gonna Dance](https://open.spotify.com/album/3vgkuOQieRHCrNkrloKZSW) | 2:56 |
-| 59 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
-| 60 | [One More Night to Go](https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd) | [Swasion](https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm) | [One More Night to Go](https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO) | 2:38 |
+| 57 | [One More Night To Go](https://open.spotify.com/track/4Q3l20SmjVi59yoKOG2asT) | [APHn](https://open.spotify.com/artist/3l4cCNbw1p2R7VD8CV82NJ) | [One More Night To Go](https://open.spotify.com/album/01octbPLjMYCYCPBts1kdx) | 2:43 |
+| 58 | [5/10](https://open.spotify.com/track/5rIYn6fgIIraBGl6kvY3g3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Moody](https://open.spotify.com/album/3NeQAa6mtrJdgvbu2pEaAN) | 2:29 |
+| 59 | [Tonight I'm Gonna Dance](https://open.spotify.com/track/3kFcllup1aucn7AWLDKqA3) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD) | [Tonight I'm Gonna Dance](https://open.spotify.com/album/3vgkuOQieRHCrNkrloKZSW) | 2:56 |
+| 60 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
 
-Snapshot ID: `AbYdlwAAAACzBjPg5YjzRXG8mRCN5syG`
+Snapshot ID: `AbYjNwAAAABwWbxrg/I4/MWhpwhWrLpE`

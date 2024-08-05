@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-717 songs - 2 day 17 hr 23 min
+718 songs - 2 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2021-04-21 | 2022-04-23 |
 | [Here To Stay](https://open.spotify.com/track/0GDp1pEmSG9dOuJo53w2ha) | [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Here To Stay](https://open.spotify.com/album/7q24QNVZWKvpIUrxuENhBX) | 6:41 | 2022-04-19 | 2022-08-04 |
 | [Hey Hey \- Jack Back Remix](https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 2:29 | 2024-02-02 |  |
-| [Hideaway](https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Tried](https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF) | 4:29 | 2024-05-10 |  |
+| [Hideaway](https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Tried](https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF) | 4:29 | 2024-05-10 | 2024-08-05 |
 | [Holding On](https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Holding On](https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI) | 3:58 | 2024-02-23 | 2024-07-16 |
 | [Holmen](https://open.spotify.com/track/6BSe0z7siNCq6qbkPJm6CJ) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Holmen](https://open.spotify.com/album/4WHi9n6BQ1o6qbyUJONOWh) | 4:25 | 2024-03-29 | 2024-07-14 |
 | [Home \- Boys Noize Remix](https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nobody Is Not Loved, Remixes, Pt\. 4](https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4) | 6:17 | 2022-07-08 | 2023-01-27 |
@@ -510,6 +510,7 @@
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-08 | 2023-09-30 |
 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 | 2021-05-07 | 2023-03-11 |
 | [Pilgrim](https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pilgrim](https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ) | 3:39 | 2023-09-08 | 2023-10-07 |
+| [Pinie \- Sébastien Léger Remix](https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Pinie \(Sébastien Léger Remix\)](https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv) | 8:24 | 2024-08-02 |  |
 | [Pink Elephant](https://open.spotify.com/track/5PYE614MlfD0iWdug1SjcX) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 5:45 | 2021-09-03 | 2022-07-28 |
 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 | 2022-07-28 | 2024-04-19 |
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2021-09-03 | 2023-04-29 |

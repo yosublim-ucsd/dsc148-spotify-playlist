@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Jennifer Lopez. Los temas esenciales, todos en una lista.",
+  "description": "This is Jennifer Lopez. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Jennifer Lopez",
   "tracks": [
     {
@@ -666,6 +666,10 @@
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
         }
       ],
       "date_added": "2023-07-28",

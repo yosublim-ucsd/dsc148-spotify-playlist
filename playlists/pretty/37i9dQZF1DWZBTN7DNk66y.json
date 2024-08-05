@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Gepe.",
-  "num_followers": 25668,
+  "num_followers": 25669,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "T\u00c1",
         "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
       },
@@ -187,22 +171,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Quiero Mejor",
-        "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 183165,
-      "name": "Quiero Mejor",
-      "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -223,6 +203,26 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Quiero Mejor",
+        "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "duration_ms": 183165,
+      "name": "Quiero Mejor",
+      "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -279,6 +279,30 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Tu nombre en mi",
+        "url": "https://open.spotify.com/album/320FxzOSOiS7OjoV2ZzrLr"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        },
+        {
+          "name": "Diego Cotelo",
+          "url": "https://open.spotify.com/artist/4dQLQZICtzi2JsEhVdgXzi"
+        },
+        {
+          "name": "Juanma Cayota",
+          "url": "https://open.spotify.com/artist/6Uz46jAe2axJJ6zY8WoVrW"
+        }
+      ],
+      "duration_ms": 137327,
+      "name": "Tu nombre en mi",
+      "url": "https://open.spotify.com/track/3YN4SoOPIvM71zicbOgeBu"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -303,6 +327,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Entrada Liberada",
         "url": "https://open.spotify.com/album/4xweB2KJ83gx2p2qkBeIRE"
       },
@@ -315,30 +359,6 @@
       "duration_ms": 159087,
       "name": "Entrada Liberada",
       "url": "https://open.spotify.com/track/4lXdEl2Mq9mCMi8GDdDq2n"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Tu nombre en mi",
-        "url": "https://open.spotify.com/album/320FxzOSOiS7OjoV2ZzrLr"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        },
-        {
-          "name": "Diego Cotelo",
-          "url": "https://open.spotify.com/artist/4dQLQZICtzi2JsEhVdgXzi"
-        },
-        {
-          "name": "Juanma Cayota",
-          "url": "https://open.spotify.com/artist/6Uz46jAe2axJJ6zY8WoVrW"
-        }
-      ],
-      "duration_ms": 137327,
-      "name": "Tu nombre en mi",
-      "url": "https://open.spotify.com/track/3YN4SoOPIvM71zicbOgeBu"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -375,26 +395,6 @@
       "duration_ms": 223142,
       "name": "me hace bien amar(te)",
       "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -495,6 +495,30 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "AHORA QUE ME VOY",
+        "url": "https://open.spotify.com/album/0449a4ZfJtnfK2HONRdBsZ"
+      },
+      "artists": [
+        {
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+        },
+        {
+          "name": "Macha",
+          "url": "https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz"
+        },
+        {
+          "name": "Miguel Molina",
+          "url": "https://open.spotify.com/artist/4KTJ0DSgd8xXhaqKpOYH4e"
+        }
+      ],
+      "duration_ms": 184889,
+      "name": "AHORA QUE ME VOY",
+      "url": "https://open.spotify.com/track/3Kh2Fcer8m1VIzaMS4fQXl"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "El Rostro de los Acantilados",
         "url": "https://open.spotify.com/album/2ZD0El7NaZMoSPtEOszY4w"
       },
@@ -531,30 +555,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "AHORA QUE ME VOY",
-        "url": "https://open.spotify.com/album/0449a4ZfJtnfK2HONRdBsZ"
-      },
-      "artists": [
-        {
-          "name": "Vicente Cifuentes",
-          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
-        },
-        {
-          "name": "Macha",
-          "url": "https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz"
-        },
-        {
-          "name": "Miguel Molina",
-          "url": "https://open.spotify.com/artist/4KTJ0DSgd8xXhaqKpOYH4e"
-        }
-      ],
-      "duration_ms": 184889,
-      "name": "AHORA QUE ME VOY",
-      "url": "https://open.spotify.com/track/3Kh2Fcer8m1VIzaMS4fQXl"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "S\u00e1banas Azules",
         "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 177000,
       "name": "S\u00e1banas Azules",
       "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Los Ojos del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Morris",
+          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
+        }
+      ],
+      "duration_ms": 231038,
+      "name": "Barquito de Papel",
+      "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -587,22 +603,6 @@
       "duration_ms": 200191,
       "name": "Lo que necesito",
       "url": "https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Los Ojos del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Morris",
-          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
-        }
-      ],
-      "duration_ms": 231038,
-      "name": "Barquito de Papel",
-      "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -699,6 +699,42 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Vendaval",
+        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
+      },
+      "artists": [
+        {
+          "name": "Virado",
+          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
+        }
+      ],
+      "duration_ms": 244275,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Frik",
+        "url": "https://open.spotify.com/album/1o9jga0jQBT8ApCNP5IV65"
+      },
+      "artists": [
+        {
+          "name": "Juan Campod\u00f3nico",
+          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 193911,
+      "name": "Frik",
+      "url": "https://open.spotify.com/track/3BSHiT7tGIf5VafjR2u3tF"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "PENAS",
         "url": "https://open.spotify.com/album/3kegSKPC7gclmtLeGYnwLT"
       },
@@ -731,38 +767,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Vendaval",
-        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
-      },
-      "artists": [
-        {
-          "name": "Virado",
-          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
-        }
-      ],
-      "duration_ms": 244275,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "La noche ha ca\u00eddo",
-        "url": "https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 250615,
-      "name": "La noche ha ca\u00eddo",
-      "url": "https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "LXS INFERNALES (Del Valle Encantado)",
         "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
       },
@@ -779,22 +783,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Frik",
-        "url": "https://open.spotify.com/album/1o9jga0jQBT8ApCNP5IV65"
+        "name": "La noche ha ca\u00eddo",
+        "url": "https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP"
       },
       "artists": [
         {
-          "name": "Juan Campod\u00f3nico",
-          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 193911,
-      "name": "Frik",
-      "url": "https://open.spotify.com/track/3BSHiT7tGIf5VafjR2u3tF"
+      "duration_ms": 250615,
+      "name": "La noche ha ca\u00eddo",
+      "url": "https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "LIBRE",
-        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 206803,
-      "name": "Todo lo que puedo darte",
-      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1223,6 +1207,26 @@
       "duration_ms": 282990,
       "name": "Pecho Jard\u00edn",
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "As\u00ed Sea",
+        "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 216766,
+      "name": "As\u00ed Sea",
+      "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "As\u00ed Sea",
-        "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
+        "name": "LIBRE",
+        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
       },
       "artists": [
         {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
         }
       ],
-      "duration_ms": 216766,
-      "name": "As\u00ed Sea",
-      "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
+      "duration_ms": 206803,
+      "name": "Todo lo que puedo darte",
+      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "De cabeza a pies",
-        "url": "https://open.spotify.com/album/6kxifQONbXoeQJDXQT8eqy"
-      },
-      "artists": [
-        {
-          "name": "Cheti",
-          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
-        },
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 143511,
-      "name": "De cabeza a pies",
-      "url": "https://open.spotify.com/track/1CQ5RmaOyNaEpSm1zJDkZz"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Si Me Voy Antes Que Vos",
         "url": "https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e"
       },
@@ -1415,6 +1395,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "De cabeza a pies",
+        "url": "https://open.spotify.com/album/6kxifQONbXoeQJDXQT8eqy"
+      },
+      "artists": [
+        {
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+        },
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 143511,
+      "name": "De cabeza a pies",
+      "url": "https://open.spotify.com/track/1CQ5RmaOyNaEpSm1zJDkZz"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
         "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Porte\u00f1a",
-        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 254829,
-      "name": "Malagradecida",
-      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 174313,
       "name": "Abducida - Remix",
       "url": "https://open.spotify.com/track/3KzUfFElM7qGGC7HP56Yef"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Porte\u00f1a",
+        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 254829,
+      "name": "Malagradecida",
+      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Canta a V\u00edctor Jara",
+        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
+      },
+      "artists": [
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Paloma quiero contarte",
+      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "El encuentro",
         "url": "https://open.spotify.com/album/6DGaiIw3RWqF6zUhncXxig"
       },
@@ -1579,38 +1595,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Canta a V\u00edctor Jara",
-        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
-      },
-      "artists": [
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 175893,
-      "name": "Paloma quiero contarte",
-      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "No lo necesito",
-        "url": "https://open.spotify.com/album/6er8uGoxQtkPzKF5vQnicY"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol de Diego",
-          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "No lo necesito",
-      "url": "https://open.spotify.com/track/3lApRCwkvWPB0KZoHy8hxI"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Un Viajecito",
         "url": "https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 206458,
       "name": "Podr\u00eda Ser",
       "url": "https://open.spotify.com/track/71zKKPiAt3saVxhaMAwvdf"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "No lo necesito",
+        "url": "https://open.spotify.com/album/6er8uGoxQtkPzKF5vQnicY"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol de Diego",
+          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "No lo necesito",
+      "url": "https://open.spotify.com/track/3lApRCwkvWPB0KZoHy8hxI"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "El Despegue",
-        "url": "https://open.spotify.com/album/4X8fEJ5wHzEBSJrfta3Aji"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol de Diego",
-          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Cerquita",
-      "url": "https://open.spotify.com/track/3kURtglEOvd9tVa57xsmns"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "El Vals",
         "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
       },
@@ -1775,6 +1759,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "El Despegue",
+        "url": "https://open.spotify.com/album/4X8fEJ5wHzEBSJrfta3Aji"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol de Diego",
+          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Cerquita",
+      "url": "https://open.spotify.com/track/3kURtglEOvd9tVa57xsmns"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Que Bla Bla Bla",
         "url": "https://open.spotify.com/album/4ErjkZ5Ma27zv8mLXYbgSo"
       },
@@ -1795,58 +1795,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Ya no sigo esperando por ti",
-        "url": "https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN"
+        "name": "Odio despertar",
+        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
         }
       ],
-      "duration_ms": 182296,
-      "name": "Ya no sigo esperando por ti",
-      "url": "https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Abanicos negros",
-        "url": "https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Cuturi",
-          "url": "https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr"
-        }
-      ],
-      "duration_ms": 162843,
-      "name": "Abanicos negros",
-      "url": "https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Me Late",
-        "url": "https://open.spotify.com/album/0Mkxb8rknAgLlrwqv9XdFv"
-      },
-      "artists": [
-        {
-          "name": "laia",
-          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
-        },
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        },
-        {
-          "name": "La Mare",
-          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
-        }
-      ],
-      "duration_ms": 206737,
-      "name": "Me Late",
-      "url": "https://open.spotify.com/track/4bJb1IiYdxU8tQLlRdnqtu"
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1871,18 +1831,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Odio despertar",
-        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
+        "name": "Me Late",
+        "url": "https://open.spotify.com/album/0Mkxb8rknAgLlrwqv9XdFv"
       },
       "artists": [
         {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+          "name": "laia",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+        },
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "La Mare",
+          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
         }
       ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+      "duration_ms": 206737,
+      "name": "Me Late",
+      "url": "https://open.spotify.com/track/4bJb1IiYdxU8tQLlRdnqtu"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1927,6 +1895,38 @@
       "duration_ms": 242892,
       "name": "Viaje Interior",
       "url": "https://open.spotify.com/track/7JGSQWcyyA8jSlU6EPbV0q"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Ya no sigo esperando por ti",
+        "url": "https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 182296,
+      "name": "Ya no sigo esperando por ti",
+      "url": "https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Abanicos negros",
+        "url": "https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Cuturi",
+          "url": "https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr"
+        }
+      ],
+      "duration_ms": 162843,
+      "name": "Abanicos negros",
+      "url": "https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf"
     },
     {
       "added_at": "2024-08-02 03:00:00",

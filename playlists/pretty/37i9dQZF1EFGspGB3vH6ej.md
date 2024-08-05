@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,002 likes - 249 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,001 likes - 249 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 46 | [With You](https://open.spotify.com/track/5F13RMbVzqCHUQSo5KL3Ci) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:47 |
 | 47 | [Can't Let Go](https://open.spotify.com/track/0ikbcCJIJaY9sKEivAXJ4I) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:26 |
 | 48 | [Underneath the Stars](https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:33 |
-| 49 | [Caution](https://open.spotify.com/track/5chgte6PLqxDVWXIUhVwBn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:15 |
-| 50 | [My Love](https://open.spotify.com/track/07o5JbRuDi5ir7rhsOi0ap) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:24 |
+| 49 | [My Love](https://open.spotify.com/track/07o5JbRuDi5ir7rhsOi0ap) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:24 |
+| 50 | [Caution](https://open.spotify.com/track/5chgte6PLqxDVWXIUhVwBn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:15 |
 | 51 | [Jesus Born on This Day](https://open.spotify.com/track/6AoXseJVabZFmKEYjQCXPS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 3:40 |
 | 52 | [I Don't Wanna Cry](https://open.spotify.com/track/1hFtJ5rV3aAm58ErijHdFO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:48 |
 | 53 | [Infinity](https://open.spotify.com/track/7IzurnmQLvZmMDJcpITUyt) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [\#1 to Infinity](https://open.spotify.com/album/6kRdK7cPgLqNfSoI7AMlyj) | 3:59 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 130 | [To The Floor](https://open.spotify.com/track/4cLrmthtf9T0Gua6OKsgcm) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:27 |
 | 131 | [For The Record](https://open.spotify.com/track/2hX1RSQiEaGVtP6mKZ1WNk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:26 |
 | 132 | [Daydream Interlude \- Fantasy Sweet Dub Mix](https://open.spotify.com/track/5XmNooFUhM9Y5Ta5hCm065) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:04 |
-| 133 | [Last Kiss](https://open.spotify.com/track/4w2X59OOUEQyhP1LGVbFkj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:36 |
-| 134 | [Interlude](https://open.spotify.com/track/7sONSf4ZUebcs3BVe8GknG) | [TM Juke](https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R) | [Maps from the Wilderness](https://open.spotify.com/album/7sdJYxemYdWUNldKeFJcKI) | 1:03 |
+| 133 | [Interlude](https://open.spotify.com/track/7sONSf4ZUebcs3BVe8GknG) | [TM Juke](https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R) | [Maps from the Wilderness](https://open.spotify.com/album/7sdJYxemYdWUNldKeFJcKI) | 1:03 |
+| 134 | [Last Kiss](https://open.spotify.com/track/4w2X59OOUEQyhP1LGVbFkj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:36 |
 | 135 | [Thanx 4 Nothin'](https://open.spotify.com/track/7qbyb4fYXKt7MTL1UC5How) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:05 |
 | 136 | [Ribbon](https://open.spotify.com/track/11NxKfNMz21t1HnvWsqwNv) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 4:21 |
 | 137 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 140 | [I've Been Thinking About You](https://open.spotify.com/track/0mL8kPWWoXYEwOmSQvx6t7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:45 |
 | 141 | [Inseparable](https://open.spotify.com/track/3SnzhocraXbgk8dYkIHaBS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 3:33 |
 | 142 | [All In Your Mind](https://open.spotify.com/track/1pbue6khgOfJVEZ1zoFTXL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:43 |
-| 143 | [One Child](https://open.spotify.com/track/2sfLtYTdNnGZc1rZoIkRyY) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas II You](https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv) | 4:25 |
-| 144 | [Never Too Far](https://open.spotify.com/track/2H2H7L4u7yDT2cIIzfIp4c) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:21 |
+| 143 | [Never Too Far](https://open.spotify.com/track/2H2H7L4u7yDT2cIIzfIp4c) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:21 |
+| 144 | [One Child](https://open.spotify.com/track/2sfLtYTdNnGZc1rZoIkRyY) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas II You](https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv) | 4:25 |
 | 145 | [Triumphant \(Get 'Em\)](https://open.spotify.com/track/6Rg7HnPZWJwGy2TWgeUuQL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Triumphant \(Get 'Em\)](https://open.spotify.com/album/4mhnkE0F9WN1RzMJoY8wwG) | 4:10 |
 | 146 | [Loverboy](https://open.spotify.com/track/75b9JVzc4QFvPBO7jDRIVe) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:49 |
 | 147 | [There's Got to Be a Way](https://open.spotify.com/track/4nrGqAXIwimqVx0T1ejUyP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:52 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [Herói](https://open.spotify.com/track/1kEV3SaWpYpYtGQPka4ilY) | [Márcio José](https://open.spotify.com/artist/4C3DIE332Fqn9pc3gjBEFg), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Uma Voz, Um Coração](https://open.spotify.com/album/26fyRBEH5saQYYnZQKzxaI) | 4:25 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbYdoAAAAACx6FI8U0vmRtJXxfpyxptA`
+Snapshot ID: `AbYjQAAAAABNJzmF8lP/TRDbCI9s0WBl`

@@ -1,6 +1,6 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 535107,
+  "num_followers": 535106,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "FIRE ON MARZZ",
-        "url": "https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 190960,
       "name": "Love Affair",
       "url": "https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "FIRE ON MARZZ",
+        "url": "https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -727,22 +727,6 @@
       "duration_ms": 141520,
       "name": "Lil Baby Crush",
       "url": "https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Comfort Crowd",
-      "url": "https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -791,6 +775,22 @@
       "duration_ms": 223638,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Comfort Crowd",
+      "url": "https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Was It Something I Said",
-        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
-      },
-      "artists": [
-        {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Was It Something I Said",
-      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Line Without a Hook (feat. mxmtoon)",
         "url": "https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 251280,
       "name": "Line Without a Hook (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Was It Something I Said",
+        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Was It Something I Said",
+      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
     },
     {
       "added_at": "2023-09-29 20:24:12",

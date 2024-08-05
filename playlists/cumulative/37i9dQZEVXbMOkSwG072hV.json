@@ -6697,6 +6697,28 @@
     },
     {
       "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -22990,7 +23012,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 153000,
       "name": "Ilhabela 2",
       "url": "https://open.spotify.com/track/6622KNu2dncVoEzJt1SGse"
@@ -38130,6 +38152,10 @@
         {
           "name": "MC Pipokinha",
           "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        },
+        {
+          "name": "PIPOKANDO FLUXOS",
+          "url": "https://open.spotify.com/artist/7uzI5MVEmWklRVMh9AEoyD"
         }
       ],
       "date_added": "2024-07-31",

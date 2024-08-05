@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Danielle Bradbery",
-  "num_followers": 199365,
+  "num_followers": 199458,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 170029,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 189495,
       "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 170029,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -735,42 +735,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Texas (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Texas (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Whiskey Blues",
-        "url": "https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y"
-      },
-      "artists": [
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        }
-      ],
-      "duration_ms": 133016,
-      "name": "Whiskey Blues",
-      "url": "https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Strong Enough",
         "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
       },
@@ -791,18 +755,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Western",
-        "url": "https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf"
+        "name": "Whiskey Blues",
+        "url": "https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y"
       },
       "artists": [
         {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
         }
       ],
-      "duration_ms": 181483,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/421Y1KnVaq15mux4QmLJTU"
+      "duration_ms": 133016,
+      "name": "Whiskey Blues",
+      "url": "https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -823,6 +787,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Western",
+        "url": "https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "duration_ms": 181483,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/421Y1KnVaq15mux4QmLJTU"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
         "url": "https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 165619,
       "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
       "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "How Do I Do This",
-      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Nothing To Do Town",
         "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 162773,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "How Do I Do This",
+      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "HIXTAPE: Vol. 1",
-        "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
-      "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Space in My Heart",
         "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
       },
@@ -1527,6 +1503,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "Steal My Love",
+      "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Good Beer",
         "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
       },
@@ -1543,6 +1535,30 @@
       "duration_ms": 174111,
       "name": "Good Beer",
       "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "HIXTAPE: Vol. 1",
+        "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+      "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
+        "name": "Tennessee Love Song",
+        "url": "https://open.spotify.com/album/2pWBzztGG1t2ZHs3aeqwS2"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Anella Herim",
+          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
         }
       ],
-      "duration_ms": 162120,
-      "name": "Steal My Love",
-      "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"
+      "duration_ms": 107460,
+      "name": "Tennessee Love Song",
+      "url": "https://open.spotify.com/track/33LmQ3haOKfbw0FSdbS1dg"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 177026,
       "name": "Always Gonna Love You",
       "url": "https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Tennessee Love Song",
-        "url": "https://open.spotify.com/album/2pWBzztGG1t2ZHs3aeqwS2"
-      },
-      "artists": [
-        {
-          "name": "Anella Herim",
-          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
-        }
-      ],
-      "duration_ms": 107460,
-      "name": "Tennessee Love Song",
-      "url": "https://open.spotify.com/track/33LmQ3haOKfbw0FSdbS1dg"
     },
     {
       "added_at": "2024-08-02 04:00:00",

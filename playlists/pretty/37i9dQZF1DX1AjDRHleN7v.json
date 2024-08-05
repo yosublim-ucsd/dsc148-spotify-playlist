@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 319386,
+  "num_followers": 319494,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Rindo \u00c0 Toa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 195118,
-      "name": "Rindo \u00c0 Toa - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Refletir (Resista)",
         "url": "https://open.spotify.com/album/4q8jyiEtpecQblVyRUASht"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 240000,
       "name": "Refletir (Resista)",
       "url": "https://open.spotify.com/track/0MI5P7TQYEjyTnQVQisbZB"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "Rindo \u00c0 Toa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 195118,
+      "name": "Rindo \u00c0 Toa - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 209719,
-      "name": "Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Encantos Mil",
         "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 201500,
       "name": "Linguagem N\u00e3o Verbal",
       "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 209719,
+      "name": "Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
+        "name": "Meu Destino \u00e9 o Litoral",
+        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Meu Destino \u00e9 o Litoral",
+      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 196642,
       "name": "Sereia",
       "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
-        "name": "Meu Destino \u00e9 o Litoral",
-        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Meu Destino \u00e9 o Litoral",
-      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "O Amor Venceu",
-        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
-      },
-      "artists": [
-        {
-          "name": "Luc DubWise",
-          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
-        }
-      ],
-      "duration_ms": 187884,
-      "name": "O Amor Venceu",
-      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Enquanto Houver",
         "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 180481,
       "name": "Enquanto Houver",
       "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "O Amor Venceu",
+        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
+      },
+      "artists": [
+        {
+          "name": "Luc DubWise",
+          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
+        }
+      ],
+      "duration_ms": 187884,
+      "name": "O Amor Venceu",
+      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Corri Demais",
         "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 178470,
       "name": "Corri Demais",
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "Abre a Janela",
+        "url": "https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os"
+      },
+      "artists": [
+        {
+          "name": "Maresia Ragga Surf",
+          "url": "https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Abre a Janela",
+      "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
     }
   ],
   "unique_name": "Praiana",

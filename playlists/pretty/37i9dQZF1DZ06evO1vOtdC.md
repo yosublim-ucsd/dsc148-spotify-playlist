@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vOtdC.md) - [plain]
 
 ### [This Is Jennifer Lopez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vOtdC)
 
-> This Is Jennifer Lopez\. Los temas esenciales, todos en una lista.
+> This is Jennifer Lopez\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,768 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,782 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vOtdC.md) - [plain]
 | 45 | [Una Noche Más](https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 4:05 |
 | 46 | [Feel The Light \- From The "Home" Soundtrack](https://open.spotify.com/track/26Zco2DqGMnDIjOX0aIqER) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Feel The Light \(From The "Home" Soundtrack\)](https://open.spotify.com/album/4M3KMVcGDPrJvSXn37r54K) | 4:51 |
 | 47 | [Amor, Amor, Amor \(feat\. Wisin\)](https://open.spotify.com/track/7h9sdbDEBfkWSmO4mzGED6) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Amor, Amor, Amor \(feat\. Wisin\)](https://open.spotify.com/album/0iAdCXRBzxH01SbuLvvO2Y) | 3:18 |
-| 48 | [Escapémonos \- Salsa Version](https://open.spotify.com/track/4oGs2MK6C35jMJhaT151yg) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:31 |
+| 48 | [Escapémonos \- Salsa Version](https://open.spotify.com/track/4oGs2MK6C35jMJhaT151yg) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:31 |
 | 49 | [I'm Glad](https://open.spotify.com/track/1hdjVrERYnp4FsjtJaXlB6) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Then](https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM) | 3:42 |
 | 50 | [Nobody's Watching \(Marry Me\)](https://open.spotify.com/track/5hQ9Pn43MLtBzlBQSPVhEG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 2:56 |
 
-Snapshot ID: `ZqrQAAAAAADkwSZjbVjuHtsHV+SkqkMY`
+Snapshot ID: `ZqrQAAAAAACCpzVT9D4nK+/fxuVqB5lk`

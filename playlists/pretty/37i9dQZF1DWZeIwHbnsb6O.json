@@ -1,6 +1,6 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 283155,
+  "num_followers": 283224,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Antolog\u00eda. . . Los Freddy's",
+        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "D\u00e9jenme llorar - Con banda",
+      "url": "https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "40 Aniversario (Componente 1)",
         "url": "https://open.spotify.com/album/3MtyMeFGM6CO4xbImmyZgq"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 193893,
       "name": "Garabato Colorado",
       "url": "https://open.spotify.com/track/1XddjFsSL7rpNLcr7FSop7"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Antolog\u00eda. . . Los Freddy's",
-        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "D\u00e9jenme llorar - Con banda",
-      "url": "https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -635,18 +635,18 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Tan Cerca ... Tan Lejos",
-        "url": "https://open.spotify.com/album/38WQ5FzWFuIz4c58VLklAj"
+        "name": "Que Alegre Va Mar\u00eda",
+        "url": "https://open.spotify.com/album/1ttlxUfJimVo4kiyXCrxa9"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Imelda Miller",
+          "url": "https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J"
         }
       ],
-      "duration_ms": 248266,
-      "name": "Divina Ilusi\u00f3n",
-      "url": "https://open.spotify.com/track/6xFJpltR4UBDXGNE8oTpfj"
+      "duration_ms": 163706,
+      "name": "Voy a Rifar Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5kzDgkyl2iAo4qEitoqU5n"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -663,6 +663,38 @@
       "duration_ms": 184480,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/4irHHlpVq5VCPgqSoJgD89"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Cambia, Cambia",
+        "url": "https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3"
+      },
+      "artists": [
+        {
+          "name": "Los Dug Dug's",
+          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Cambia, Cambia",
+      "url": "https://open.spotify.com/track/3aVnShJUHI4HJjSxukRmhC"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Tan Cerca ... Tan Lejos",
+        "url": "https://open.spotify.com/album/38WQ5FzWFuIz4c58VLklAj"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 248266,
+      "name": "Divina Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/6xFJpltR4UBDXGNE8oTpfj"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -699,8 +731,24 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Cambia, Cambia",
-        "url": "https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3"
+        "name": "Diego Verdaguer En Los 70's",
+        "url": "https://open.spotify.com/album/4v8s9F4HZ0fPMLa5sHj0yp"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0ccJhHqaQM1SzA7xVA4Mqi"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "15 \u00c9xitos de los Dug Dug's Rock and Roll",
+        "url": "https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC"
       },
       "artists": [
         {
@@ -708,25 +756,9 @@
           "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Cambia, Cambia",
-      "url": "https://open.spotify.com/track/3aVnShJUHI4HJjSxukRmhC"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Que Alegre Va Mar\u00eda",
-        "url": "https://open.spotify.com/album/1ttlxUfJimVo4kiyXCrxa9"
-      },
-      "artists": [
-        {
-          "name": "Imelda Miller",
-          "url": "https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J"
-        }
-      ],
-      "duration_ms": 163706,
-      "name": "Voy a Rifar Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5kzDgkyl2iAo4qEitoqU5n"
+      "duration_ms": 247453,
+      "name": "Lost In My World (Perdido en Mi Mundo)",
+      "url": "https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -743,22 +775,6 @@
       "duration_ms": 236786,
       "name": "El Amar y el Querer",
       "url": "https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Diego Verdaguer En Los 70's",
-        "url": "https://open.spotify.com/album/4v8s9F4HZ0fPMLa5sHj0yp"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/0ccJhHqaQM1SzA7xVA4Mqi"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -791,22 +807,6 @@
       "duration_ms": 176173,
       "name": "Corazon de roca",
       "url": "https://open.spotify.com/track/7gZsYjASjfykZdB8ncVJvI"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "15 \u00c9xitos de los Dug Dug's Rock and Roll",
-        "url": "https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC"
-      },
-      "artists": [
-        {
-          "name": "Los Dug Dug's",
-          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Lost In My World (Perdido en Mi Mundo)",
-      "url": "https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU"
     },
     {
       "added_at": "2019-09-04 23:38:38",

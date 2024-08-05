@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-123 songs - 6 hr 56 min
+124 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [In the Name of Love](https://open.spotify.com/track/0VWUhOUNIVOfUoBaq7xqMo) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [The Martin Garrix Experience](https://open.spotify.com/album/3UwcZ5menPSCTvdxyYgxZj) | 3:15 | 2024-03-01 | 2024-06-25 |
 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 | 2024-06-24 |  |
 | [It Is What It Is](https://open.spotify.com/track/0qToG4c9TPophAYK9MaZMA) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:18 | 2024-03-01 |  |
-| [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV) | 3:10 | 2024-03-16 |  |
+| [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV) | 3:10 | 2024-03-16 | 2024-08-05 |
+| [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/track/4CYjabtOnRXJHLClJSvQ1x) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 3:10 | 2024-08-04 |  |
 | [Lebih Dari Kekasihku](https://open.spotify.com/track/4ii3aTST1vQabcKhVPjrKZ) | [Classy](https://open.spotify.com/artist/23RnPEmrU2zuAYavcWZejp) | [X Factor Indonesia Season 2](https://open.spotify.com/album/2AEkMd7QfOCzUyuNqwOok7) | 3:53 | 2024-03-01 |  |
 | [Liquid](https://open.spotify.com/track/3kz2zSK5RjbFdmH6jvdlu3) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:43 | 2024-03-01 |  |
 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 | 2024-03-01 |  |

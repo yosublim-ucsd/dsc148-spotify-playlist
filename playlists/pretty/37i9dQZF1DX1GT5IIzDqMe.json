@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 92600,
+  "num_followers": 92621,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -175,26 +175,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Big Fun (Remastered)",
-        "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Big Fun (Remastered)",
-      "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Galaxy 2 Galaxy: A High Tech Jazz Compilation",
         "url": "https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 361400,
       "name": "Track Ten",
       "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Big Fun (Remastered)",
+        "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Big Fun (Remastered)",
+      "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Pennies From Heaven (Remastered)",
-        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 198159,
-      "name": "Pennies From Heaven (Remastered)",
-      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Clocks / Low Life / Go",
         "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 400579,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Pennies From Heaven (Remastered)",
+        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 198159,
+      "name": "Pennies From Heaven (Remastered)",
+      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -399,6 +399,46 @@
       "duration_ms": 223626,
       "name": "Throw",
       "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
+        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Virus J",
+          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
+        }
+      ],
+      "duration_ms": 190947,
+      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
+      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -443,46 +483,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
-        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        },
-        {
-          "name": "Virus J",
-          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
-        }
-      ],
-      "duration_ms": 190947,
-      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
-      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Right There / Holy Ghost",
         "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 177885,
       "name": "Right There",
       "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "The Art of Music",
-        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 320866,
-      "name": "Telekinesis",
-      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -535,18 +519,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Patterns the Album",
-        "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
+        "name": "The Art of Music",
+        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
       },
       "artists": [
         {
-          "name": "Claude Young",
-          "url": "https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 307933,
-      "name": "Ancelyn",
-      "url": "https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf"
+      "duration_ms": 320866,
+      "name": "Telekinesis",
+      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -567,6 +551,22 @@
       "duration_ms": 312894,
       "name": "Just Want Another Chance - Original Mix",
       "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Patterns the Album",
+        "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
+      },
+      "artists": [
+        {
+          "name": "Claude Young",
+          "url": "https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Ancelyn",
+      "url": "https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -595,22 +595,38 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Waveform Transmission Vol. 2",
-        "url": "https://open.spotify.com/album/0BmR9AfixKN0QsrkEHIXL2"
+        "name": "I Can't Believe",
+        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
       },
       "artists": [
         {
-          "name": "The Vision",
-          "url": "https://open.spotify.com/artist/1IvqVCBOoWeuz2jj5fXYs5"
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         },
         {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 208177,
-      "name": "The Protector",
-      "url": "https://open.spotify.com/track/0Gmv7RQPrem1m4Amdc4Hhk"
+      "duration_ms": 369016,
+      "name": "I Can't Believe - Extended Mix",
+      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "The Curse Breaker / What You Need",
+        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "The Curse Breaker",
+      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -635,22 +651,38 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "I Can't Believe",
-        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
+        "name": "Waveform Transmission Vol. 2",
+        "url": "https://open.spotify.com/album/0BmR9AfixKN0QsrkEHIXL2"
       },
       "artists": [
         {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+          "name": "The Vision",
+          "url": "https://open.spotify.com/artist/1IvqVCBOoWeuz2jj5fXYs5"
         },
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
         }
       ],
-      "duration_ms": 369016,
-      "name": "I Can't Believe - Extended Mix",
-      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
+      "duration_ms": 208177,
+      "name": "The Protector",
+      "url": "https://open.spotify.com/track/0Gmv7RQPrem1m4Amdc4Hhk"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "On A Journey",
+        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 271464,
+      "name": "On A Journey",
+      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -671,34 +703,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "The Curse Breaker / What You Need",
-        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
       "artists": [
         {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "The Curse Breaker",
-      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
-      },
-      "artists": [
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
         {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
         }
       ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+      "duration_ms": 209529,
+      "name": "Savage & Beyond",
+      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -751,22 +771,34 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+        "name": "Sounds",
+        "url": "https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V"
       },
       "artists": [
         {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 209529,
-      "name": "Savage & Beyond",
-      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
+      "duration_ms": 273832,
+      "name": "Make Me Laugh",
+      "url": "https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
+        "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 439929,
+      "name": "Never Grow Old - Re-Plant",
+      "url": "https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -807,38 +839,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
-        "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 439929,
-      "name": "Never Grow Old - Re-Plant",
-      "url": "https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Sounds",
-        "url": "https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 273832,
-      "name": "Make Me Laugh",
-      "url": "https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Neptunes Lair",
         "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
       },
@@ -851,6 +851,26 @@
       "duration_ms": 376680,
       "name": "Andreaen Sand Dunes",
       "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "One Nation",
+        "url": "https://open.spotify.com/album/4ueHBbYbDGOpRTdKBbBoFm"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 202057,
+      "name": "One Nation",
+      "url": "https://open.spotify.com/track/7ygTdMWOt9OrP6dFHbBuEc"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -887,26 +907,6 @@
       "duration_ms": 554692,
       "name": "Riod",
       "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "One Nation",
-        "url": "https://open.spotify.com/album/4ueHBbYbDGOpRTdKBbBoFm"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        }
-      ],
-      "duration_ms": 202057,
-      "name": "One Nation",
-      "url": "https://open.spotify.com/track/7ygTdMWOt9OrP6dFHbBuEc"
     }
   ],
   "unique_name": "Detroit Techno",

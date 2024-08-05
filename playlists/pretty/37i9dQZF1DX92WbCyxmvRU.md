@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain]
 
 > Spotifyで人気のソニックシリーズ楽曲を50曲収録したオフィシャルプレイリスト！/Official playlist of 50 popular Sonic series songs on Spotify! \(C\)SEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,222 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,366 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

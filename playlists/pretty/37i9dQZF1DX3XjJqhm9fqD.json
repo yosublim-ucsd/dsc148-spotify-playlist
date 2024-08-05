@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 89269,
+  "num_followers": 89286,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -555,50 +539,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Apre bal la",
-        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
-      },
-      "artists": [
-        {
-          "name": "Pierre Jean",
-          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
-        },
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 237362,
-      "name": "Apre bal la",
-      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Sak Pase (with Saint Levant & Lolo Zoua\u00ef)",
-        "url": "https://open.spotify.com/album/0iV9zepYN2Ky5Rok36pbjp"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        }
-      ],
-      "duration_ms": 138891,
-      "name": "Sak Pase (with Saint Levant & Lolo Zoua\u00ef)",
-      "url": "https://open.spotify.com/track/69d6auSK5QCTd70YrkYKMb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Kabe",
         "url": "https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh"
       },
@@ -619,6 +559,42 @@
       "duration_ms": 212000,
       "name": "Kabe",
       "url": "https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Apre bal la",
+        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
+      },
+      "artists": [
+        {
+          "name": "Pierre Jean",
+          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
+        },
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 237362,
+      "name": "Apre bal la",
+      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -663,6 +639,50 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Sak Pase (with Saint Levant & Lolo Zoua\u00ef)",
+        "url": "https://open.spotify.com/album/0iV9zepYN2Ky5Rok36pbjp"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 138891,
+      "name": "Sak Pase (with Saint Levant & Lolo Zoua\u00ef)",
+      "url": "https://open.spotify.com/track/69d6auSK5QCTd70YrkYKMb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Egyptian Sun",
+        "url": "https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 257677,
+      "name": "Egyptian Sun",
+      "url": "https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 512940,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Clueless (with Oxlade)",
-        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Clueless (with Oxlade)",
-      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -767,22 +767,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Egyptian Sun",
-        "url": "https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa"
+        "name": "Clueless (with Oxlade)",
+        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 257677,
-      "name": "Egyptian Sun",
-      "url": "https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH"
+      "duration_ms": 164705,
+      "name": "Clueless (with Oxlade)",
+      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -823,50 +823,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Akouna",
-        "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
-      },
-      "artists": [
-        {
-          "name": "Manno Beats",
-          "url": "https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj"
-        },
-        {
-          "name": "Afrotronix",
-          "url": "https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr"
-        },
-        {
-          "name": "Vox Sambou",
-          "url": "https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b"
-        }
-      ],
-      "duration_ms": 230679,
-      "name": "Akouna",
-      "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "HoneyComb",
         "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
@@ -891,6 +847,30 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Akouna",
+        "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
+      },
+      "artists": [
+        {
+          "name": "Manno Beats",
+          "url": "https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj"
+        },
+        {
+          "name": "Afrotronix",
+          "url": "https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr"
+        },
+        {
+          "name": "Vox Sambou",
+          "url": "https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b"
+        }
+      ],
+      "duration_ms": 230679,
+      "name": "Akouna",
+      "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Welcome To Dinna",
         "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 231840,
       "name": "Welcome To Dinna",
       "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1043,34 +1043,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Rap ap rete Rap",
-        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
-      },
-      "artists": [
-        {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Medjy",
-          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
-        },
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        },
-        {
-          "name": "Steves J Bryan",
-          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
-        }
-      ],
-      "duration_ms": 236923,
-      "name": "Si Yo Vle",
-      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Party Girls (feat. Buju Banton) [Micha\u00ebl Brun Dancehall Remix]",
         "url": "https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU"
       },
@@ -1091,26 +1063,6 @@
       "duration_ms": 199550,
       "name": "Party Girls (feat. Buju Banton) - Micha\u00ebl Brun Dancehall Remix",
       "url": "https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Gen Bagay",
-        "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
-      },
-      "artists": [
-        {
-          "name": "Yani Martelly",
-          "url": "https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy"
-        },
-        {
-          "name": "Kenny",
-          "url": "https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Gen Bagay",
-      "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1163,6 +1115,54 @@
       "duration_ms": 363533,
       "name": "Tu me touches",
       "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Rap ap rete Rap",
+        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Medjy",
+          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
+        },
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        },
+        {
+          "name": "Steves J Bryan",
+          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
+        }
+      ],
+      "duration_ms": 236923,
+      "name": "Si Yo Vle",
+      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Gen Bagay",
+        "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
+      },
+      "artists": [
+        {
+          "name": "Yani Martelly",
+          "url": "https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy"
+        },
+        {
+          "name": "Kenny",
+          "url": "https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Gen Bagay",
+      "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1383,6 +1383,38 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Bal Tout",
+        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "Bal Tout",
+      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Mennaj Moun Yo",
         "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
       },
@@ -1419,38 +1451,6 @@
       "duration_ms": 284991,
       "name": "HOLLOW.",
       "url": "https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Bal Tout",
-        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Bal Tout",
-      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Regr\u00e8",
         "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 166008,
       "name": "Wine Pon Me - Remix",
       "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Imitate",
-        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
-      },
-      "artists": [
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 200568,
-      "name": "Imitate",
-      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Sote",
         "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 148000,
       "name": "Sote",
       "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Imitate",
+        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
+      },
+      "artists": [
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 200568,
+      "name": "Imitate",
+      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
     },
     {
       "added_at": "2024-05-24 04:00:00",

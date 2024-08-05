@@ -3033,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "Where the Poison Is",
+        "url": "https://open.spotify.com/album/1YBBcW2P8MyuBNmAcjpggV"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194472,
+      "name": "Where the Poison Is",
+      "url": "https://open.spotify.com/track/2rPduOYc8QyiQVtoNEixk8"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-559 songs - 1 day 9 hr 56 min
+560 songs - 1 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Just Like You Used To](https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg) | 3:08 | 2022-10-03 | 2023-09-12 |
 | [Just Like You Used To](https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:09 | 2022-10-03 | 2023-10-07 |
 | [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 | 2024-06-12 |
+| [Keen](https://open.spotify.com/track/5FjgNCKyg3yYHHTMNQiMgl) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Keen](https://open.spotify.com/album/7Ej5UEFKXWLmQ6g5lYkpWL) | 3:57 | 2024-08-02 |  |
 | [Killing Me Softly With His Song \- Spotify Singles](https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 3:46 | 2024-05-24 |  |
 | [King](https://open.spotify.com/track/1fExFCGaE1Y5qNhPK7aTUy) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:04 | 2023-05-26 | 2023-09-20 |
 | [Kiss The Sky](https://open.spotify.com/track/5kRwRpU0ah48DmRfxARPHt) | [Avery Wilson](https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3) | [Kiss The Sky](https://open.spotify.com/album/5VHPseQHlNgqVA8L0tjYj1) | 5:48 | 2023-09-29 | 2023-12-25 |
@@ -277,7 +278,7 @@
 | [Liquor Store In The Sky \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Liquor Store In The Sky \(feat\. Freddie Gibbs\)](https://open.spotify.com/album/1ynqhxlDR4UiGEJB1obGdu) | 3:20 | 2023-06-09 | 2023-12-31 |
 | [Little Things \(feat\. Yaya Bey\)](https://open.spotify.com/track/7eUxbqEPlbf9rccIDDOy5D) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Mind](https://open.spotify.com/album/5V0Nqn3w1C11avw7i8UhQ8) | 3:46 | 2024-08-02 |  |
 | [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 | 2024-08-02 |  |
-| [LOML](https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [LOML](https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf) | 2:57 | 2023-10-20 |  |
+| [LOML](https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [LOML](https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf) | 2:57 | 2023-10-20 | 2024-08-05 |
 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 | 2023-05-19 |  |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-01-19 |  |
 | [Lost](https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:28 | 2023-09-08 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 ### [This Is Grupo Arriesgado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3q5qqQ)
 
-> This Is Grupo Arriesgado\. Los temas esenciales, todos en una lista.
+> This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,152 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,179 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [Rancherik Asterik](https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rancherik Asterik](https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD) | 2:14 |
 | 50 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Somos Gente Del Sombrero \(En Vivo\)](https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK) | 3:23 |
 
-Snapshot ID: `ZqrQAAAAAABjG4FuJvz1Ne/13gvbji5M`
+Snapshot ID: `ZqrQAAAAAADZ02YRqV9KRnw1RlelJbC/`

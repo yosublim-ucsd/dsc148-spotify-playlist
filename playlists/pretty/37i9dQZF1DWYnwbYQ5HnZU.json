@@ -1,6 +1,6 @@
 {
   "description": "Spotify country fan favorites. Cover: Little Big Town",
-  "num_followers": 2166899,
+  "num_followers": 2166993,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "She Got the Best of Me",
+      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 235766,
       "name": "Love Story (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 183160,
-      "name": "She Got the Best of Me",
-      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
+      "duration_ms": 199946,
+      "name": "Before He Cheats",
+      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 199946,
-      "name": "Before He Cheats",
-      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Die A Happy Man",
-      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -563,6 +563,22 @@
       "duration_ms": 181053,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/1Dm4iAvqwYrZjgSFJNW5TG"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Die A Happy Man",
+      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -595,22 +611,6 @@
       "duration_ms": 188893,
       "name": "One Of Them Girls",
       "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Would You Go With Me",
-      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
         "name": "Dierks Bentley",
         "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 260826,
       "name": "What Was I Thinkin'",
       "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Would You Go With Me",
+      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
         "name": "Songs for the Saints",
         "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 199625,
       "name": "Get Along",
       "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "Mr. Misunderstood",
-        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 179346,
-      "name": "Record Year",
-      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+      "duration_ms": 205106,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -879,18 +879,50 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 205106,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
+      "duration_ms": 193320,
+      "name": "Girl Crush",
+      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Record Year",
+      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -911,50 +943,18 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 193320,
-      "name": "Girl Crush",
-      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 262280,
-      "name": "Talladega",
-      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+      "duration_ms": 166573,
+      "name": "Hotel Key",
+      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -987,22 +987,6 @@
       "duration_ms": 242733,
       "name": "Drive (For Daddy Gene)",
       "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Hotel Key",
-      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -1067,6 +1051,22 @@
       "duration_ms": 234306,
       "name": "Do I Make You Wanna",
       "url": "https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
+      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -1287,22 +1307,6 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
         "name": "Never Will",
         "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
       },
@@ -1315,26 +1319,6 @@
       "duration_ms": 190973,
       "name": "One Night Standards",
       "url": "https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
-      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -1367,6 +1351,22 @@
       "duration_ms": 263120,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Day Drinking",
-      "url": "https://open.spotify.com/track/1pxXqJZBrCREdC0s4Xs6Xz"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
         "name": "Pretty Heart",
         "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
       },
@@ -1471,22 +1455,6 @@
       "duration_ms": 244797,
       "name": "Pretty Heart",
       "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
-    },
-    {
-      "added_at": "2024-08-02 14:42:07",
-      "album": {
-        "name": "Greetings From...Jake",
-        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Made For You",
-      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -1511,18 +1479,34 @@
     {
       "added_at": "2024-08-02 14:42:07",
       "album": {
-        "name": "Lady Antebellum",
-        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
+        "name": "Greetings From...Jake",
+        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 256013,
-      "name": "I Run To You",
-      "url": "https://open.spotify.com/track/2YVCkTYJpv5jelYrHYoEG8"
+      "duration_ms": 238400,
+      "name": "Made For You",
+      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Day Drinking",
+      "url": "https://open.spotify.com/track/1pxXqJZBrCREdC0s4Xs6Xz"
     },
     {
       "added_at": "2024-08-02 14:42:07",
@@ -1539,6 +1523,22 @@
       "duration_ms": 199413,
       "name": "Ain't Nothing 'Bout You",
       "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
+    },
+    {
+      "added_at": "2024-08-02 14:42:07",
+      "album": {
+        "name": "Lady Antebellum",
+        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 256013,
+      "name": "I Run To You",
+      "url": "https://open.spotify.com/track/2YVCkTYJpv5jelYrHYoEG8"
     },
     {
       "added_at": "2024-08-02 14:42:07",

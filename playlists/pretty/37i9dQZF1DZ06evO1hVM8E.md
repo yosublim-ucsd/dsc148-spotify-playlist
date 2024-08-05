@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 ### [This Is La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hVM8E)
 
-> This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
+> This Is La Original Banda El Limón de Salvador Lizárraga\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,936 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,947 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 50 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:03 |
 | 51 | [Rifaré Mi Suerte](https://open.spotify.com/track/1SrYVzqCiKywmHYYsCJ0pI) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:06 |
 
-Snapshot ID: `ZqrQAAAAAABqerm4Tu7iCOtElVx4LC5t`
+Snapshot ID: `ZqrQAAAAAACFkpnKL+0+mBrzJt1qOFFG`

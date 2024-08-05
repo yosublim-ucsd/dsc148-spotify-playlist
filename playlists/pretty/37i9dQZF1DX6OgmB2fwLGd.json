@@ -1,13 +1,69 @@
 {
   "description": "LUCKI, born and raised on the internet.",
-  "num_followers": 1394663,
+  "num_followers": 1394619,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7jOAAAAAAiVHpvqoa0/pvnjFPOvukW",
+  "snapshot_id": "Zq/FYAAAAADQe1hHH6W++TuLZXZHAdm0",
   "tracks": [
+    {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
+    },
+    {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "mewtwo",
+      "url": "https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY"
+    },
     {
       "added_at": "2024-07-30 12:42:45",
       "album": {
@@ -29,6 +85,54 @@
       "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
     },
     {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "KEEP UP // FROSTBITE",
+        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "KEEP UP",
+      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
+    },
+    {
+      "added_at": "2024-08-04 02:02:23",
+      "album": {
+        "name": "trauma",
+        "url": "https://open.spotify.com/album/0eihBhagAmahQQALFmScz3"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 131506,
+      "name": "trauma",
+      "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
+    },
+    {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh"
+    },
+    {
       "added_at": "2024-07-30 12:53:05",
       "album": {
         "name": "Well Dude Here's My Thing",
@@ -45,20 +149,24 @@
       "url": "https://open.spotify.com/track/2cMcUE6wr9tlR3z84XvSQR"
     },
     {
-      "added_at": "2024-07-31 16:40:02",
+      "added_at": "2024-08-04 18:16:00",
       "album": {
-        "name": "Life So Crazy",
-        "url": "https://open.spotify.com/album/2kquRyWJgXH7894vcWgM3O"
+        "name": "Precision",
+        "url": "https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe"
       },
       "artists": [
         {
           "name": "SoFaygo",
           "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 108571,
-      "name": "Life So Crazy",
-      "url": "https://open.spotify.com/track/1iKx45Uo9uQc6Kc6NY37Nt"
+      "duration_ms": 158367,
+      "name": "Precision",
+      "url": "https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl"
     },
     {
       "added_at": "2024-07-30 12:50:39",
@@ -79,6 +187,46 @@
       "duration_ms": 143994,
       "name": "THE BADDEST (BADDER) [feat. Ayesha Erotica]",
       "url": "https://open.spotify.com/track/5tzcByvFyzRPHXrBgOaxkk"
+    },
+    {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "I DID IT (w/ Kanii & Anycia)",
+        "url": "https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "duration_ms": 159837,
+      "name": "I DID IT (w/ Kanii & Anycia)",
+      "url": "https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq"
+    },
+    {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "Landed In Brooklyn",
+        "url": "https://open.spotify.com/album/1TUdTSHZADsMwL2lQBehCa"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 112344,
+      "name": "Landed In Brooklyn",
+      "url": "https://open.spotify.com/track/76OmdO5k80CJPhH9SzfQOS"
     },
     {
       "added_at": "2024-07-30 12:42:45",
@@ -113,6 +261,22 @@
       "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
     },
     {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "afraid",
+        "url": "https://open.spotify.com/album/0fnXhUd1MYDp9N6hsiMHmM"
+      },
+      "artists": [
+        {
+          "name": "Billie Calvinn",
+          "url": "https://open.spotify.com/artist/6H327j2PgX2HZuLgxeuj47"
+        }
+      ],
+      "duration_ms": 164675,
+      "name": "afraid",
+      "url": "https://open.spotify.com/track/6mMGt6yJrPFx7PVffQntDw"
+    },
+    {
       "added_at": "2024-08-04 02:03:47",
       "album": {
         "name": "F*cked A Fan",
@@ -133,6 +297,42 @@
       "url": "https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj"
     },
     {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "Geek",
+        "url": "https://open.spotify.com/album/15Gao0gftur4ZQWlDyIKSL"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 76120,
+      "name": "Geek",
+      "url": "https://open.spotify.com/track/3sIKgS05lsszua6zt0rgf2"
+    },
+    {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "emerge",
+        "url": "https://open.spotify.com/album/2gK6nNSPlCyIzLsl5m6Qc3"
+      },
+      "artists": [
+        {
+          "name": "ptasinski",
+          "url": "https://open.spotify.com/artist/6T9oTkBolkKzQJ5ltR7Yr8"
+        },
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        }
+      ],
+      "duration_ms": 101217,
+      "name": "listeria",
+      "url": "https://open.spotify.com/track/7HZQQIK510dt00sZiTHl7z"
+    },
+    {
       "added_at": "2024-07-31 16:40:02",
       "album": {
         "name": "#gigi",
@@ -147,22 +347,6 @@
       "duration_ms": 142227,
       "name": "real feel",
       "url": "https://open.spotify.com/track/63GsoM062nSNJzQ6QF0Iws"
-    },
-    {
-      "added_at": "2024-08-04 02:02:23",
-      "album": {
-        "name": "trauma",
-        "url": "https://open.spotify.com/album/0eihBhagAmahQQALFmScz3"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 131506,
-      "name": "trauma",
-      "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
     },
     {
       "added_at": "2024-04-19 05:00:00",
@@ -195,6 +379,22 @@
       "duration_ms": 71724,
       "name": "Affiliations",
       "url": "https://open.spotify.com/track/3dBXJCFQy5VzP3y6sZJKB3"
+    },
+    {
+      "added_at": "2024-07-31 16:40:02",
+      "album": {
+        "name": "Life So Crazy",
+        "url": "https://open.spotify.com/album/2kquRyWJgXH7894vcWgM3O"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "duration_ms": 108571,
+      "name": "Life So Crazy",
+      "url": "https://open.spotify.com/track/1iKx45Uo9uQc6Kc6NY37Nt"
     },
     {
       "added_at": "2024-07-31 16:40:02",

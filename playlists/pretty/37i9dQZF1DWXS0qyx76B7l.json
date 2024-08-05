@@ -1,6 +1,6 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple! \ud83d\udcf8 Chappell Roan is Lady Liberty",
-  "num_followers": 144724,
+  "num_followers": 144733,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2024-06-11 17:08:30",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -207,18 +191,18 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2024-06-11 17:08:30",
@@ -235,6 +219,22 @@
       "duration_ms": 252026,
       "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
+    },
+    {
+      "added_at": "2024-06-11 17:08:30",
+      "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
     },
     {
       "added_at": "2024-06-11 17:08:30",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
-        "name": "Nightlife: Further Listening 1996 - 2000 (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 315280,
-      "name": "New York City Boy - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT"
-    },
-    {
-      "added_at": "2024-06-11 17:08:30",
-      "album": {
         "name": "Kiss: Ace Frehley",
         "url": "https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 183693,
       "name": "New York Groove",
       "url": "https://open.spotify.com/track/1BvpeiApX8qhof8Pmi3YlH"
+    },
+    {
+      "added_at": "2024-06-11 17:08:30",
+      "album": {
+        "name": "Nightlife: Further Listening 1996 - 2000 (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 315280,
+      "name": "New York City Boy - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT"
     },
     {
       "added_at": "2024-06-11 17:08:30",

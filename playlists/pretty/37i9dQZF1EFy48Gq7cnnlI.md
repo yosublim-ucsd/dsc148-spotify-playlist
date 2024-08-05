@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802 likes - 112 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 803 likes - 112 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 64 | [Already Gone](https://open.spotify.com/track/7e6K0ZWjHjFJxk2k7aeu2v) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:10 |
 | 65 | [Don't Believe the Things They Tell You \(They Lie\)](https://open.spotify.com/track/3UKobrVucp8j0sP8Anxqs1) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:05 |
 | 66 | [Villain in Me](https://open.spotify.com/track/446BbuQVXxRVT3RwKnDeab) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
-| 67 | [I Know I'm Not the Only One](https://open.spotify.com/track/0kTzTXAzvfx4ojKw8aLgT6) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:00 |
-| 68 | [Made Up My Mind](https://open.spotify.com/track/68nhmpf5omnTYfSRCZ77L1) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [The Roads](https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU) | 2:50 |
+| 67 | [Made Up My Mind](https://open.spotify.com/track/68nhmpf5omnTYfSRCZ77L1) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [The Roads](https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU) | 2:50 |
+| 68 | [I Know I'm Not the Only One](https://open.spotify.com/track/0kTzTXAzvfx4ojKw8aLgT6) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:00 |
 | 69 | [Tonight](https://open.spotify.com/track/4nfmi9e5kP9iXHGPjOVUks) | [Chasing Grace](https://open.spotify.com/artist/5M6D2PqxdnZMVMCb1jNOTp) | [Nowhere Near Old Enough](https://open.spotify.com/album/4GLDRHD1QWArvXJum0sOw5) | 3:49 |
 | 70 | [Piece by Piece](https://open.spotify.com/track/2qRkZwDiXkZ3pn9J986wGB) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:00 |
 | 71 | [Call Me](https://open.spotify.com/track/3Wevk6rPHoYfCCk6zNQgRX) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Call Me](https://open.spotify.com/album/5EAnX8LJVNCPAKwuIGzxH4) | 3:11 |
@@ -105,14 +105,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 95 | [Need You Like This](https://open.spotify.com/track/6XS0MhQCtr1Sjvifptm5cv) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:25 |
 | 96 | [Revolution](https://open.spotify.com/track/1cMkI0yq7RjIjSQA7cqZhQ) | [Lily Donat](https://open.spotify.com/artist/3jRKjQ2Eul9SnJVFfdyTj2) | [I Am Woman \(Original Motion Picture Soundtrack\) \[Inspired by the story of Helen Reddy\]](https://open.spotify.com/album/4Dv1Twt5mHut1IGY3XF6Dq) | 2:51 |
 | 97 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 |
-| 98 | [Home Of The Terrified](https://open.spotify.com/track/6hlzVaT8sRQy3kfAYrcEO1) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:23 |
-| 99 | [4 Better 4 Worse](https://open.spotify.com/track/1VVx8V9T7AKIHqcRqvbdJd) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Never Waste A Heartbreak](https://open.spotify.com/album/1pDrtSjfeGl78gKFL67OaL) | 2:37 |
+| 98 | [4 Better 4 Worse](https://open.spotify.com/track/1VVx8V9T7AKIHqcRqvbdJd) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Never Waste A Heartbreak](https://open.spotify.com/album/1pDrtSjfeGl78gKFL67OaL) | 2:37 |
+| 99 | [Home Of The Terrified](https://open.spotify.com/track/6hlzVaT8sRQy3kfAYrcEO1) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:23 |
 | 100 | [Silver Second](https://open.spotify.com/track/7xQWEbfhhw60STdzIar6dP) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Theia](https://open.spotify.com/album/0JlZC7e9FLo1bgQ0stvEbM) | 3:09 |
 | 101 | [Chasing Daylight](https://open.spotify.com/track/0SympNX0lUgXjbfUL1KO8G) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:51 |
 | 102 | [Palace](https://open.spotify.com/track/6e3MJw1cAjb1mN2yAVmKZ3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Beautiful \(Platinum Edition\)](https://open.spotify.com/album/3XT3rHDWteNpQNhnARN7Ap) | 3:14 |
 | 103 | [Hold Back](https://open.spotify.com/track/7vsyU7jX2M53yOJtCIYSKh) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where the Light Calls](https://open.spotify.com/album/6WHWwuMGt0T2sH2aZKnmiD) | 3:46 |
 | 104 | [One Thing](https://open.spotify.com/track/1LyS6bH3nN1wtfoNZoe4O9) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 2:52 |
-| 105 | [Last Girl on Earth](https://open.spotify.com/track/6PPxnLwM1Bzyyo0K2Kf5zK) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [Last Girl on Earth](https://open.spotify.com/album/6MUJP0mwWCuUeG9TgAMm2M) | 3:21 |
+| 105 | [Last Girl on Earth](https://open.spotify.com/track/6YCjZMyZEIFWumqnQvGQuB) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [IF THE SHOE FITS, WEAR IT \(ONE LAST CRY EDITION\)](https://open.spotify.com/album/30DtBHGdhiZKhyXjRE7vi8) | 3:21 |
 | 106 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 |
 | 107 | [Don't Look Back](https://open.spotify.com/track/21cXxyZA06qG6FrO7dsk3l) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 4:06 |
 | 108 | [Patchwork Heart](https://open.spotify.com/track/3iIX6xq7tORLwX9UPsMepy) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:55 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 111 | [Love Again](https://open.spotify.com/track/5a1gRWJqyuvuH9jfknO4yd) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Love Again](https://open.spotify.com/album/7ir4YDxoF1JGzuRvaYSZhF) | 3:05 |
 | 112 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 
-Snapshot ID: `AbYdpwAAAADOE6EK1C77px4a9blHCASA`
+Snapshot ID: `AbYjRwAAAACCYvibM5P0LhaxC/SuFVPF`

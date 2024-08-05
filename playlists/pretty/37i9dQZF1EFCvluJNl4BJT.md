@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,499 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,497 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 23 | [Woah \(feat\. Miguel & Ty Dolla $ign\)](https://open.spotify.com/track/2lAUMDyWq80slJVsrYyD7N) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The World Is Yours 2](https://open.spotify.com/album/6GDXnx6AUDGH0tpxXQX0Kn) | 2:52 |
 | 24 | [Another Heartbreak](https://open.spotify.com/track/1TuSfYnKU5uKbYK1esQDLj) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 4:09 |
 | 25 | [Love Is Everything](https://open.spotify.com/track/25tkPPlBrYCXkSIAASibtL) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:32 |
-| 26 | [Poison \(feat\. Lil Wayne\)](https://open.spotify.com/track/1hs54MGy1J69I52GvzsrbB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:42 |
-| 27 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
+| 26 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
+| 27 | [Poison \(feat\. Lil Wayne\)](https://open.spotify.com/track/1hs54MGy1J69I52GvzsrbB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:42 |
 | 28 | [Rent Free](https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:22 |
 | 29 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 |
 | 30 | [Butterfly](https://open.spotify.com/track/11aPoQJ6CwjWqHplsV54oC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/1YwO0apo9Oy6QTI4D8qWUf) | 2:43 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 80 | [to get home\. \(feat\. Leon Thomas & The Soul Rebels\)](https://open.spotify.com/track/1DVSgQOZnIya4H5a9cJqOC) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Euphonyus](https://open.spotify.com/album/7jlnxMcPR6LK0bvBtQyu45) | 2:54 |
 | 81 | [Say So](https://open.spotify.com/track/6qUNIQQQXIaUDHjTqzHgGr) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours \(Deluxe Edition\)](https://open.spotify.com/album/18B1n9lvJ7lvu31CMvtBlk) | 3:14 |
 | 82 | [Dumb Shit](https://open.spotify.com/track/7jet0y1TxW6Jfyst9rWWYY) | [Good Girl](https://open.spotify.com/artist/7LmBaPNWiMSVoBawL30uQR) | [Good Girl](https://open.spotify.com/album/3ZvHNWQl5vzUPO15UkRaqk) | 2:57 |
-| 83 | [Hello How Are You](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
+| 83 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 84 | [System](https://open.spotify.com/track/77Ylv38EbvWLxQ5ejjAce5) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side](https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp) | 3:14 |
 | 85 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AbYdnAAAAAAkfgk0Fi/0QFp7mnStSW6q`
+Snapshot ID: `AbYjPAAAAAD3FAUGa00Xmeth4uv1fixV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,339 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,397 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 36 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 |
 | 37 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
 | 38 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
-| 39 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 |
-| 40 | [eventide](https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [eventide](https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh) | 2:10 |
-| 41 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |
-| 42 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 39 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 40 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 |
+| 41 | [eventide](https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [eventide](https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh) | 2:10 |
+| 42 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |
 | 43 | [making her smile](https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882) | [Equity Slate](https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q), [soojeong](https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO) | [Apart](https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If) | 1:12 |
 | 44 | [clear blue atmosphere](https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [clear blue atmosphere](https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ) | 2:20 |
 | 45 | [Stay In Bed](https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Stay In Bed](https://open.spotify.com/album/3US880QWOU3JqaIOguUilz) | 2:04 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 59 | [Rainy Days](https://open.spotify.com/track/1r9oOKrKaYExVI8w9naQSV) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb) | [Rainy Days](https://open.spotify.com/album/489BARvb76UOnK1OBIVQoY) | 1:58 |
 | 60 | [tranquility](https://open.spotify.com/track/6rl4T0vpbACeNmZs3kVwH6) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [tranquility](https://open.spotify.com/album/4kSIZWRmsNizAuO110oBq6) | 2:36 |
 | 61 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
-| 62 | [Lost In The Wilderness](https://open.spotify.com/track/0igM1OQrEBkeaLn63WBjeS) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Lost In The Wilderness](https://open.spotify.com/album/0W6keNnJ8Qg0C3WaN9YcVh) | 2:34 |
-| 63 | [Choke](https://open.spotify.com/track/28PYwyQETvCDNXMRBFAtzr) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/1MwrviwJTM0eBcrEkjwbZn) | 3:00 |
+| 62 | [Choke](https://open.spotify.com/track/28PYwyQETvCDNXMRBFAtzr) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/1MwrviwJTM0eBcrEkjwbZn) | 3:00 |
+| 63 | [Lost In The Wilderness](https://open.spotify.com/track/0igM1OQrEBkeaLn63WBjeS) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Lost In The Wilderness](https://open.spotify.com/album/0W6keNnJ8Qg0C3WaN9YcVh) | 2:34 |
 | 64 | [emerald](https://open.spotify.com/track/09ekHMx7dXh7EQMAmNqUrD) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/6bG4Sy0DN6zYSi6kLlBJMF) | 2:34 |
 | 65 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 |
 | 66 | [Louie's Lullaby](https://open.spotify.com/track/5Y69oMuGeIxfP4tIcCv6EO) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/64EqJeopKgcy7Ae1ZdPLnz) | 2:51 |
 | 67 | [talk it out](https://open.spotify.com/track/1VDM0Wv8wqX4hLSdzudVey) | [Rob Smyles](https://open.spotify.com/artist/6KIclyZuF2o55kSUaiRe5P) | [Babymakers](https://open.spotify.com/album/3LOCIMlQsItb0QJN1poD29) | 3:31 |
-| 68 | [Sick of This](https://open.spotify.com/track/5JtkrEGCt433sr2wEGSVsR) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/57V7Q54bacsS1tJYnHxmDT) | 3:53 |
-| 69 | [Bloom](https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:01 |
+| 68 | [Bloom](https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:01 |
+| 69 | [Sick of This](https://open.spotify.com/track/5JtkrEGCt433sr2wEGSVsR) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/57V7Q54bacsS1tJYnHxmDT) | 3:53 |
 | 70 | [Stella's Story](https://open.spotify.com/track/2wdxmhbldL8GzplUFEWeqE) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2) | [Palettes](https://open.spotify.com/album/4WsuSiZsFuddq0r6f8dMJl) | 1:32 |
 | 71 | [We Are Safe Here.](https://open.spotify.com/track/0a2q5SUFudT2x9Ce56hGIL) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [Summertime and the Living's Easier.](https://open.spotify.com/album/08scJWiEuLoGdLQWpIhW0z) | 2:11 |
 | 72 | [Blue \(feat\. Drwn.\)](https://open.spotify.com/track/4RIu43eVxjbWuUhNwTUxwb) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/67fCjPsA2tdDb7YcpMYynn) | 2:03 |

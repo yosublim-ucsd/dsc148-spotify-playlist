@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 91 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 91 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 32 | [Send Me a Sign](https://open.spotify.com/track/1ZM8nE9PkSmAFqv0lry3U4) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 5:01 |
 | 33 | [The Fool](https://open.spotify.com/track/6IODcVjWGEyQMn4WplPOxV) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:12 |
 | 34 | [GawtDamn](https://open.spotify.com/track/5rrMfW2sh52oy02sWLPZVM) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 4:55 |
-| 35 | [HUMBLE ME](https://open.spotify.com/track/0cKykVvNFfHVyPzLdQI6xT) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [HUMBLE ME](https://open.spotify.com/album/6K0i2TgBy7x4agrBXIrnrF) | 2:56 |
+| 35 | [HUMBLE ME](https://open.spotify.com/track/4EjUNNQSA0zLU4FVTdpnku) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Michael & The Mighty Midnight Revival, Songs For Sinners And Saints](https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO) | 2:56 |
 | 36 | [Alone](https://open.spotify.com/track/0654qpngLbRcjdIvgkhFhO) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:16 |
 | 37 | [Our Affairs](https://open.spotify.com/track/0kX2wKKbi3EnLpGprOoXSd) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 5:20 |
 | 38 | [Ecstasy](https://open.spotify.com/track/52JtIQpkzgcNLmDoDBHuTp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 2:13 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 90 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 91 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AbYdowAAAABheuIusRGMAfV00LFx9XbT`
+Snapshot ID: `AbYjQwAAAAAKqiCJxl2dvDdxQq7nXt15`

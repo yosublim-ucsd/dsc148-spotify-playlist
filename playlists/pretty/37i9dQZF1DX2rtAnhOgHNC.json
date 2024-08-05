@@ -1,6 +1,6 @@
 {
   "description": "Los grandes \u00e9xitos de la d\u00e9cada pasada, en M\u00e9xico. Carla Morrison en portada.",
-  "num_followers": 236568,
+  "num_followers": 236583,
   "original_name": "Los 2010 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZpFFBgAAAACJUrKcj5lT/+M3eFVFz0dL",
   "tracks": [
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
-    },
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
@@ -43,6 +27,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -55,6 +55,22 @@
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -91,18 +107,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+      "duration_ms": 227586,
+      "name": "Mi Buen Amor",
+      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -155,26 +175,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 227586,
-      "name": "Mi Buen Amor",
-      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -187,6 +187,26 @@
       "duration_ms": 199320,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -243,22 +263,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
         "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
@@ -271,6 +275,22 @@
       "duration_ms": 288893,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -323,26 +343,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
         "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
@@ -387,18 +387,18 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Los Ni\u00f1os Grandes No Juegan",
-        "url": "https://open.spotify.com/album/2XvDnpebvUFa49NKpPvakc"
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Nunca Te Pude Alcanzar",
-      "url": "https://open.spotify.com/track/7fdGqeuvSLVNMwFb6mDbXp"
+      "duration_ms": 251146,
+      "name": "La De La Mala Suerte",
+      "url": "https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -419,6 +419,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "Los Ni\u00f1os Grandes No Juegan",
+        "url": "https://open.spotify.com/album/2XvDnpebvUFa49NKpPvakc"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Nunca Te Pude Alcanzar",
+      "url": "https://open.spotify.com/track/7fdGqeuvSLVNMwFb6mDbXp"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 237106,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "La De La Mala Suerte",
-      "url": "https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Aztl\u00e1n",
-        "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
       },
@@ -495,6 +479,38 @@
       "duration_ms": 224333,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV"
+    },
+    {
+      "added_at": "2022-02-24 02:27:38",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Aztl\u00e1n",
+        "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -515,22 +531,6 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
-    },
-    {
-      "added_at": "2022-02-24 02:27:38",
-      "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -603,6 +603,38 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "Programaton",
+        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Arrullo De Estrellas",
+      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Drama Y Luz",
+        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 291866,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -635,22 +667,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Programaton",
-        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Arrullo De Estrellas",
-      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "Dalt\u00f3nico",
         "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Drama Y Luz",
-        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 291866,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
+      "duration_ms": 182600,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -703,22 +719,6 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -755,6 +755,22 @@
       "duration_ms": 291106,
       "name": "Hoy Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 224085,
+      "name": "Visita",
+      "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -807,22 +823,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 224085,
-      "name": "Visita",
-      "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "B\u00e1lsamo",
         "url": "https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "\u00bfC\u00f3mo Pagarte?",
-      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "Otra Vida",
         "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
       },
@@ -867,6 +851,26 @@
       "duration_ms": 190480,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 217653,
+      "name": "No Me Acuerdo",
+      "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
     }
   ],
   "unique_name": "Los 2010 M\u00e9xico",

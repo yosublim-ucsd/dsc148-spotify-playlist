@@ -1,6 +1,6 @@
 {
   "description": "Amp up your commute with rock hits, new and old. Cover: Pearl Jam",
-  "num_followers": 496449,
+  "num_followers": 496570,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -283,8 +299,8 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
       "artists": [
         {
@@ -292,25 +308,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
-    },
-    {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
-    },
-    {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
         "name": "Stadium Arcadium",
         "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
       },
@@ -363,6 +347,22 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
         "name": "The Better Life",
         "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 233933,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
-    },
-    {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -455,6 +439,22 @@
       "duration_ms": 222826,
       "name": "Dragula",
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
-    },
-    {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
         "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
       },
@@ -683,22 +667,6 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
-      },
-      "artists": [
-        {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Paralyzer",
-      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
-    },
-    {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
+        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Paralyzer",
+      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "From The Fires",
-        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
+        "name": "Wonder What's Next (Expanded Edition)",
+        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
       "artists": [
         {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
         }
       ],
-      "duration_ms": 180640,
-      "name": "Highway Tune",
-      "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
+      "duration_ms": 238400,
+      "name": "The Red",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -1007,34 +1007,18 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "Wonder What's Next (Expanded Edition)",
-        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+        "name": "From The Fires",
+        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
       "artists": [
         {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
         }
       ],
-      "duration_ms": 238400,
-      "name": "The Red",
-      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
-    },
-    {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
-        "name": "The Sound of Madness",
-        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 233986,
-      "name": "Sound of Madness",
-      "url": "https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY"
+      "duration_ms": 180640,
+      "name": "Highway Tune",
+      "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -1051,6 +1035,22 @@
       "duration_ms": 260333,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
+        "name": "The Sound of Madness",
+        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "Sound of Madness",
+      "url": "https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Living Dead Girl",
-      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
-    },
-    {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
         "name": "One-X",
         "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 209333,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Living Dead Girl",
+      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 186533,
-      "name": "Hash Pipe",
-      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
+      "duration_ms": 238573,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5sG3G54H21hNfd5etlheoe"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -1571,6 +1571,22 @@
       "duration_ms": 304373,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Hash Pipe",
+      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/5sG3G54H21hNfd5etlheoe"
-    },
-    {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
         "name": "Leave a Whisper (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
       },
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X"
     },
     {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
       "added_at": "2024-06-19 02:33:00",
       "album": {
         "name": "Violator (Deluxe)",
@@ -1683,6 +1667,22 @@
       "duration_ms": 293986,
       "name": "Policy of Truth",
       "url": "https://open.spotify.com/track/0Mb20VmqR2lvtgbEermW2v"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
-    },
-    {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
         "name": "The Real Thing",
         "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 293653,
       "name": "Epic",
       "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2024-06-03 16:51:45",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-06-03 16:51:45",
       "album": {
-        "name": "Purple (2019 Remaster)",
-        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Vasoline - 2019 Remaster",
-      "url": "https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"
-    },
-    {
-      "added_at": "2024-06-03 16:51:45",
-      "album": {
         "name": "Famous",
         "url": "https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 210653,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2"
+    },
+    {
+      "added_at": "2024-06-03 16:51:45",
+      "album": {
+        "name": "Purple (2019 Remaster)",
+        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Vasoline - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"
     },
     {
       "added_at": "2024-06-03 16:51:45",

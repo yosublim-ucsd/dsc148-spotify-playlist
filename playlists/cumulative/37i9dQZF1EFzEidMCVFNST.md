@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-397 songs - 18 hr 51 min
+398 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Quer Beijar Pra Ver](https://open.spotify.com/track/2nyCzrDlbQdvvj50Kmtj3C) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Quer Beijar Pra Ver](https://open.spotify.com/album/5WG4IyE5qPtAKCdx1WkHpy) | 3:15 | 2024-01-29 |  |
 | [Quero Ver Você Fazer](https://open.spotify.com/track/4S7qM1EarHgEd0DUnzHSMf) | [Sem Reznha](https://open.spotify.com/artist/1jcSJxePI4nTKpjHrWfBNd) | [Proposta Ousada](https://open.spotify.com/album/5GPY0YeuM308v8rKT1cUiM) | 2:40 | 2024-03-26 |  |
 | [Raiva Boa de Passar \- Ao Vivo](https://open.spotify.com/track/496EyHBPrRiky2JrC2hkHK) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 2:57 | 2024-01-29 |  |
+| [RASCUNHO](https://open.spotify.com/track/5qY6KlNVjy04tR7a3PqZ1K) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/5EJ3c9jg1lTDl8tzELC4nV) | 2:43 | 2024-08-04 |  |
 | [Recadinho para Você](https://open.spotify.com/track/7t6jt692pPcwua3IZx9ipI) | [Ingrid Mantovani](https://open.spotify.com/artist/2TjJZ2XYZGbGnnjD6k1hWg) | [Recadinho para Você](https://open.spotify.com/album/4KC8323hXv1uYuNi4zWkXR) | 2:24 | 2024-01-29 |  |
 | [Recompensa](https://open.spotify.com/track/7FtyTz9YLFgfJjN4gYWGjB) | [Acácio](https://open.spotify.com/artist/1WIBi4F6CHYW5BSSY0Yn92) | [O Ferinha da Bahia \(Ao Vivo no Embu, SP\)](https://open.spotify.com/album/2UVyNkfIS2F8WTC7N5iB0K) | 3:15 | 2024-01-29 |  |
 | [Relógio](https://open.spotify.com/track/45khULP8E3Ow2tXITNKuSP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Hipnose](https://open.spotify.com/album/3eB3h2dbEKoFpaRNp480B2) | 2:53 | 2024-01-29 |  |

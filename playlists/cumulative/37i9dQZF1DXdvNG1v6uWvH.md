@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-1,525 songs - 3 day 8 hr 24 min
+1,526 songs - 3 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Distractions](https://open.spotify.com/track/2bFeVBQJI8YLFgsCkrOWx4) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [Distractions](https://open.spotify.com/album/5TlIBPQza3KgYGuxYWNdhq) | 3:01 | 2024-07-19 | 2024-07-27 |
 | [Dive Into Your Love](https://open.spotify.com/track/2S5tDUyKFQazkKA5EM4Vjb) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Sebastian Wibe](https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO), [Nadia Gattas](https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw) | [Dive Into Your Love](https://open.spotify.com/album/0qzLD28GJHMKt0p0izbRT3) | 2:45 | 2024-05-10 | 2024-05-17 |
 | [Divine](https://open.spotify.com/track/5SLKPmVFjhthK8VH0gxwac) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Gúfigis](https://open.spotify.com/album/3ce5PIIXYHhKyXD5MZShdI) | 3:16 | 2024-06-07 | 2024-06-08 |
-| [Djöfulsdráttur](https://open.spotify.com/track/68ZBQuDlMOqJGco9YA2K2p) | [Dio Tríó](https://open.spotify.com/artist/0JiGumZv6yzV6jlm6p54Bo) | [Vesturgata](https://open.spotify.com/album/369PMHC6ekZ01TpGBQcZV7) | 3:05 | 2024-08-02 |  |
+| [Djöfulsdráttur](https://open.spotify.com/track/68ZBQuDlMOqJGco9YA2K2p) | [Dio Tríó](https://open.spotify.com/artist/0JiGumZv6yzV6jlm6p54Bo) | [Vesturgata](https://open.spotify.com/album/369PMHC6ekZ01TpGBQcZV7) | 3:05 | 2024-08-02 | 2024-08-05 |
 | [Do](https://open.spotify.com/track/53uNZ7qEGdCEmrCeLkWCEJ) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [Do](https://open.spotify.com/album/698groKvbHk5ADnI49FgWt) | 2:22 | 2024-05-31 | 2024-06-07 |
 | [Do You Feel?](https://open.spotify.com/track/31KVlHFlnNsJJi5Y3YFtYQ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:01 | 2024-06-07 | 2024-06-14 |
 | [DO YOU REMEMBER?](https://open.spotify.com/track/59A5LZK8mD22b3h4kYfODX) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [DO YOU REMEMBER?](https://open.spotify.com/album/45pd4mH1xyMdRKzFxuwrGr) | 3:19 | 2024-05-03 | 2024-05-10 |
@@ -757,6 +757,7 @@
 | [Landslide \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/46H8LJ9y3WVQR3hTcYeKdu) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:23 | 2024-07-19 | 2024-07-27 |
 | [Larger Than Life](https://open.spotify.com/track/1ClFh6NVjnfcbwyg8v5rhl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Larger Than Life](https://open.spotify.com/album/7fUI9zL0oPxUN31AeD9tJX) | 2:55 | 2024-05-31 | 2024-06-02 |
 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 | 2024-05-31 | 2024-06-07 |
+| [Late Night Pimp](https://open.spotify.com/track/6buzQb9cYnSEnG6buXK2LX) | [Juno Paul](https://open.spotify.com/artist/3H4roNkMDnWHhrcVGHSRGs) | [Gimp](https://open.spotify.com/album/3N2GMGItvm9nJlOtvjpzAe) | 4:07 | 2024-08-02 |  |
 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 | 2024-08-02 |  |
 | [Lately I](https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Lately I](https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj) | 3:07 | 2024-04-26 | 2024-05-03 |
 | [Lay Down Love](https://open.spotify.com/track/1Bz0AFoSSeQryAC012LboJ) | [Önnu Jónu Son](https://open.spotify.com/artist/1hSwmbp2UKVDWIKRaLQhgT) | [The Radio Won’t Let Me Sleep](https://open.spotify.com/album/6gPGfmqb4AhY34fKe0Y0IN) | 2:39 | 2024-05-03 | 2024-05-05 |

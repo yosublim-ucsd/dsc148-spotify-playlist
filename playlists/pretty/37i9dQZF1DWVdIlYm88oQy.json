@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 70s! Cover: Julio Iglesias",
-  "num_followers": 59690,
+  "num_followers": 59750,
   "original_name": "Los 70s",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 243573,
       "name": "Y Volver\u00e9 - Remastered 1994",
       "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
       "artists": [
         {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Muri\u00f3 La Flor",
-      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
+      "duration_ms": 409080,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -319,6 +319,38 @@
       "duration_ms": 157493,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Muri\u00f3 La Flor",
+      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 285360,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -359,38 +391,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 409080,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 285360,
-      "name": "Volc\u00e1n",
-      "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 275600,
       "name": "Quererte a Ti",
       "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "15 Exitos De Oro",
+        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -475,22 +491,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Maelo...El \u00danico",
-        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 339240,
-      "name": "El Nazareno",
-      "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 319773,
       "name": "Black Magic Woman / Gypsy Queen",
       "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "15 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -539,6 +523,22 @@
       "duration_ms": 401880,
       "name": "Pl\u00e1stico",
       "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Maelo...El \u00danico",
+        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 339240,
+      "name": "El Nazareno",
+      "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
+        "name": "Falso Amor",
+        "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Falso Amor",
+      "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
         "name": "Antologia (Volumen 2)",
         "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Falso Amor",
-        "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Falso Amor",
-      "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Joyas Rancheras Al Estilo",
         "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 231146,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/3zurIMqOVQiriB1oJlZxA8"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "Confesiones De Invierno",
-        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Confesiones de Invierno",
-      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -787,6 +771,22 @@
       "duration_ms": 170106,
       "name": "Se a Cabo",
       "url": "https://open.spotify.com/track/5JPXVcoVUZd3JYTQEFf9ug"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Confesiones De Invierno",
+        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Confesiones de Invierno",
+      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
     },
     {
       "added_at": "2024-04-24 22:48:02",

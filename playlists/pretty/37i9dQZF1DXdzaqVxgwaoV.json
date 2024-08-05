@@ -1,6 +1,6 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 123935,
+  "num_followers": 123928,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,26 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Milenario, Vol. 3",
+        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
         "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 268106,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Milenario, Vol. 3",
-        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Navidades Con la Sonora Dinamita: 16 Grandes \u00c9xitos Navide\u00f1os",
         "url": "https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 311676,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "Sorbito De Champagne",
-      "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 220354,
       "name": "Ojitos Hechiceros",
       "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "Sorbito De Champagne",
+      "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "El Ausente",
-      "url": "https://open.spotify.com/track/4CO9UNnLewlBcthMau8Ipj"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
         "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 305950,
       "name": "La Due\u00f1a de Mi Suerte",
       "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/4CO9UNnLewlBcthMau8Ipj"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -791,22 +791,6 @@
       "duration_ms": 157866,
       "name": "Se Me Perdio La Cadenita",
       "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Traicionera - Digitally Remastered Original",
-      "url": "https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -887,6 +871,42 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Traicionera - Digitally Remastered Original",
+      "url": "https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Mano A Mano",
         "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 299744,
       "name": "Toma de M\u00ed",
       "url": "https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Daniela",
-      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Listos para Bailar",
+        "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        }
+      ],
+      "duration_ms": 219498,
+      "name": "Se Va la Vida",
+      "url": "https://open.spotify.com/track/5ayLeELVP0BNklcdHvSiDj"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "50 A\u00f1os De Fiesta",
         "url": "https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "A Pulir la Hebilla",
-        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
-      },
-      "artists": [
-        {
-          "name": "Nelson Henriquez",
-          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Baion de Madrid",
-      "url": "https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Historia Musical de el Tropicombo",
         "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Listos para Bailar",
-        "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
+        "name": "A Pulir la Hebilla",
+        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+          "name": "Nelson Henriquez",
+          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
         }
       ],
-      "duration_ms": 219498,
-      "name": "Se Va la Vida",
-      "url": "https://open.spotify.com/track/5ayLeELVP0BNklcdHvSiDj"
+      "duration_ms": 176746,
+      "name": "Baion de Madrid",
+      "url": "https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Farolito (Little Star)",
-      "url": "https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
         "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 168453,
       "name": "Solo Un Cigarrillo",
       "url": "https://open.spotify.com/track/4LhVMfmZ5OQq1dUP778MCq"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Farolito (Little Star)",
+      "url": "https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2"
     },
     {
       "added_at": "2023-12-20 18:46:33",

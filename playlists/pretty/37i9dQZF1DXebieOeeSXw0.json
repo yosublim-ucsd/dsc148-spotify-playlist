@@ -1,6 +1,6 @@
 {
   "description": "The amazing sounds of the tropics \ud83c\udf34\ud83e\udd65\ud83e\udd6d\ud83c\udfb6",
-  "num_followers": 15190,
+  "num_followers": 15207,
   "original_name": "Tropicana",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
-      },
-      "artists": [
-        {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
-        }
-      ],
-      "duration_ms": 386160,
-      "name": "Fantastic Man",
-      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Talkin' Verve",
         "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 160826,
       "name": "Evil Ways",
       "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 386160,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
     },
     {
       "added_at": "2022-04-01 05:13:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Day To Day Living",
-        "url": "https://open.spotify.com/album/0O9RCPHr27N8qhU4SK8Yke"
-      },
-      "artists": [
-        {
-          "name": "Don Carlos",
-          "url": "https://open.spotify.com/artist/5WcGRaGsl0b9sul7jVdDgc"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "I'm Not Crazy",
-      "url": "https://open.spotify.com/track/194CaJc8VDIpcTLX6Jzmg5"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Classic Rockers",
         "url": "https://open.spotify.com/album/3xEweRKkxWOs8VG4oIT6kI"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 153666,
       "name": "King Tubby Meets The Rockers Uptown",
       "url": "https://open.spotify.com/track/6dRX3GyCjrxHm8o5VcIM0h"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Day To Day Living",
+        "url": "https://open.spotify.com/album/0O9RCPHr27N8qhU4SK8Yke"
+      },
+      "artists": [
+        {
+          "name": "Don Carlos",
+          "url": "https://open.spotify.com/artist/5WcGRaGsl0b9sul7jVdDgc"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "I'm Not Crazy",
+      "url": "https://open.spotify.com/track/194CaJc8VDIpcTLX6Jzmg5"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",
-        "url": "https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX"
-      },
-      "artists": [
-        {
-          "name": "Mulatu Astatke",
-          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Y\u00e8gell\u00e9 Tezeta (My Own Memory)",
-      "url": "https://open.spotify.com/track/0nIfIiTrlOeiFEYpVCJZtY"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Se Pego la Champeta en Cartagena, Vol. 2",
         "url": "https://open.spotify.com/album/2W9Y5aDHbnbj6zvXylDz8E"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 259266,
       "name": "El Viejo Zorro",
       "url": "https://open.spotify.com/track/0tjWdb4WSFbrethLQNufOH"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",
+        "url": "https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Y\u00e8gell\u00e9 Tezeta (My Own Memory)",
+      "url": "https://open.spotify.com/track/0nIfIiTrlOeiFEYpVCJZtY"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/4n2UrVNTtPaKHt9h6SQwr6"
     },
     {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Versus (EP)",
+        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
+      },
+      "artists": [
+        {
+          "name": "Palenke Soultribe",
+          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "El Makako",
+      "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
+    },
+    {
       "added_at": "2022-03-30 01:19:56",
       "album": {
         "name": "Exotic Other",
@@ -939,22 +955,6 @@
       "duration_ms": 149947,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/3xt0wOjQFYUcIdVGByFps0"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Versus (EP)",
-        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
-      },
-      "artists": [
-        {
-          "name": "Palenke Soultribe",
-          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "El Makako",
-      "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1113,6 +1113,22 @@
       "url": "https://open.spotify.com/track/5fv7uY4AfOWlaLS0GVjibW"
     },
     {
+      "added_at": "2022-04-01 05:13:54",
+      "album": {
+        "name": "Rei Momo",
+        "url": "https://open.spotify.com/album/2JQU5ZvGycMsa7gITyaGb6"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Loco De Amor",
+      "url": "https://open.spotify.com/track/2uJsn2yi8HVZ8qwICHcNSW"
+    },
+    {
       "added_at": "2021-12-24 18:28:12",
       "album": {
         "name": "De Mar y R\u00edo",
@@ -1143,22 +1159,6 @@
       "duration_ms": 458573,
       "name": "City Train",
       "url": "https://open.spotify.com/track/4EmWF3T4gHAHYm9BVrTWRt"
-    },
-    {
-      "added_at": "2022-04-01 05:13:54",
-      "album": {
-        "name": "Rei Momo",
-        "url": "https://open.spotify.com/album/2JQU5ZvGycMsa7gITyaGb6"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Loco De Amor",
-      "url": "https://open.spotify.com/track/2uJsn2yi8HVZ8qwICHcNSW"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Homowo",
-        "url": "https://open.spotify.com/album/4eK9uta9LmaxMUcBFbTbS2"
-      },
-      "artists": [
-        {
-          "name": "Basa Basa",
-          "url": "https://open.spotify.com/artist/699lZFg1YHsQCg9WOQkecl"
-        }
-      ],
-      "duration_ms": 247889,
-      "name": "African Soul Power",
-      "url": "https://open.spotify.com/track/6YR0HSclw7HGb0xfVd7k8c"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Latin Gold Collection",
         "url": "https://open.spotify.com/album/2O8OijldTY0tq1lQSjg7xP"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Goldmine Dub",
-        "url": "https://open.spotify.com/album/3nsVUj5t7YjAsZkhX7tVPN"
+        "name": "Homowo",
+        "url": "https://open.spotify.com/album/4eK9uta9LmaxMUcBFbTbS2"
       },
       "artists": [
         {
-          "name": "The Revolutionaries",
-          "url": "https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7"
+          "name": "Basa Basa",
+          "url": "https://open.spotify.com/artist/699lZFg1YHsQCg9WOQkecl"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Bitter Blood",
-      "url": "https://open.spotify.com/track/1uSBFmy1Gs1qeLdWkVBLUI"
+      "duration_ms": 247889,
+      "name": "African Soul Power",
+      "url": "https://open.spotify.com/track/6YR0HSclw7HGb0xfVd7k8c"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1509,6 +1493,22 @@
       "url": "https://open.spotify.com/track/1fG9NSb7ACnzdtaFNtlyJI"
     },
     {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Goldmine Dub",
+        "url": "https://open.spotify.com/album/3nsVUj5t7YjAsZkhX7tVPN"
+      },
+      "artists": [
+        {
+          "name": "The Revolutionaries",
+          "url": "https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Bitter Blood",
+      "url": "https://open.spotify.com/track/1uSBFmy1Gs1qeLdWkVBLUI"
+    },
+    {
       "added_at": "2022-04-07 03:46:32",
       "album": {
         "name": "Latin-Esque",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/7yx1DPeFep6kfAgU2WR2R5"
     },
     {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Legends of Benin (Analog Africa No. 5)",
-        "url": "https://open.spotify.com/album/2IwDFFtsvqq7FZheZ20bKC"
-      },
-      "artists": [
-        {
-          "name": "Gnonnas Pedro et ses Dadjes",
-          "url": "https://open.spotify.com/artist/102XE3OKVJ8ri01yWEjH1D"
-        }
-      ],
-      "duration_ms": 431733,
-      "name": "La Musica en v\u00e9rit\u00e9",
-      "url": "https://open.spotify.com/track/6KG3uMvfPVb2dkU4hfMMiJ"
-    },
-    {
       "added_at": "2022-03-30 15:29:10",
       "album": {
         "name": "El Baile Alem\u00e1n",
@@ -1555,6 +1539,22 @@
       "duration_ms": 328539,
       "name": "Showroom Dummies",
       "url": "https://open.spotify.com/track/3AMLgEBl0klJETA7FiQXuA"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Legends of Benin (Analog Africa No. 5)",
+        "url": "https://open.spotify.com/album/2IwDFFtsvqq7FZheZ20bKC"
+      },
+      "artists": [
+        {
+          "name": "Gnonnas Pedro et ses Dadjes",
+          "url": "https://open.spotify.com/artist/102XE3OKVJ8ri01yWEjH1D"
+        }
+      ],
+      "duration_ms": 431733,
+      "name": "La Musica en v\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/6KG3uMvfPVb2dkU4hfMMiJ"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "A Arte De Chico Buarque",
-        "url": "https://open.spotify.com/album/6buA4UqZTeUKUG2xRAlOcC"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Ca\u00e7ada",
-      "url": "https://open.spotify.com/track/6Im08Kf52WrL9bhOZD26xe"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Echos hypnotiques, from the Vaults of Albarika Store, Vol. 2: 1969-1979 (Analog Africa No. 6)",
         "url": "https://open.spotify.com/album/06V8YvCnql3bT9KzZbqU6v"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 313960,
       "name": "Noude Ma Gnin Tche De Me",
       "url": "https://open.spotify.com/track/1QoscuA1IQbIKSAxCVVMl4"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "A Arte De Chico Buarque",
+        "url": "https://open.spotify.com/album/6buA4UqZTeUKUG2xRAlOcC"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Ca\u00e7ada",
+      "url": "https://open.spotify.com/track/6Im08Kf52WrL9bhOZD26xe"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1671,22 +1671,6 @@
       "duration_ms": 406256,
       "name": "Family",
       "url": "https://open.spotify.com/track/5YowhCQYE5HkKbXt4bSCM0"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Legends of Benin (Analog Africa No. 5)",
-        "url": "https://open.spotify.com/album/2IwDFFtsvqq7FZheZ20bKC"
-      },
-      "artists": [
-        {
-          "name": "Gnonnas Pedro et ses Dadjes",
-          "url": "https://open.spotify.com/artist/102XE3OKVJ8ri01yWEjH1D"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Dadje Von O Von Non",
-      "url": "https://open.spotify.com/track/4bkIej36kkH9cQakZYeVO5"
     },
     {
       "added_at": "2022-01-18 17:58:13",
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839"
+        "name": "Legends of Benin (Analog Africa No. 5)",
+        "url": "https://open.spotify.com/album/2IwDFFtsvqq7FZheZ20bKC"
       },
       "artists": [
         {
-          "name": "Les Ambassadeurs",
-          "url": "https://open.spotify.com/artist/3Mt7Zv63zztQhheSXTRa1x"
+          "name": "Gnonnas Pedro et ses Dadjes",
+          "url": "https://open.spotify.com/artist/102XE3OKVJ8ri01yWEjH1D"
         }
       ],
-      "duration_ms": 762480,
-      "name": "Mandjou",
-      "url": "https://open.spotify.com/track/4TLGUA3N47qYyl4rdNkTFG"
+      "duration_ms": 234986,
+      "name": "Dadje Von O Von Non",
+      "url": "https://open.spotify.com/track/4bkIej36kkH9cQakZYeVO5"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1751,6 +1735,22 @@
       "duration_ms": 254862,
       "name": "Terreiro de M\u00e3e Nazinha",
       "url": "https://open.spotify.com/track/2QNqTKJA6TeNZKQg4cUtlo"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839"
+      },
+      "artists": [
+        {
+          "name": "Les Ambassadeurs",
+          "url": "https://open.spotify.com/artist/3Mt7Zv63zztQhheSXTRa1x"
+        }
+      ],
+      "duration_ms": 762480,
+      "name": "Mandjou",
+      "url": "https://open.spotify.com/track/4TLGUA3N47qYyl4rdNkTFG"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
     },
     {
-      "added_at": "2022-03-30 15:29:10",
-      "album": {
-        "name": "A New Dimension",
-        "url": "https://open.spotify.com/album/0kYkRhUBquTb3x6VeZPHCe"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 324933,
-      "name": "Grazing In The Grass",
-      "url": "https://open.spotify.com/track/2ro5ZNIscqtub8ECGDUQFU"
-    },
-    {
       "added_at": "2021-12-24 18:28:12",
       "album": {
         "name": "Jamb\u00fa E Os M\u00edticos Sons Da Amaz\u00f4nia (Analog Africa No. 28)",
@@ -1867,6 +1851,22 @@
       "duration_ms": 187533,
       "name": "Vamos Farrear",
       "url": "https://open.spotify.com/track/0infHXhToXG6WQu5zQAfp2"
+    },
+    {
+      "added_at": "2022-03-30 15:29:10",
+      "album": {
+        "name": "A New Dimension",
+        "url": "https://open.spotify.com/album/0kYkRhUBquTb3x6VeZPHCe"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 324933,
+      "name": "Grazing In The Grass",
+      "url": "https://open.spotify.com/track/2ro5ZNIscqtub8ECGDUQFU"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Tchico et son orchestre Kilimandjaro",
-        "url": "https://open.spotify.com/album/72W3L6q3On9nu02qPKZPT0"
-      },
-      "artists": [
-        {
-          "name": "Tchico",
-          "url": "https://open.spotify.com/artist/6ArvtMB9pCDw9t1drSbDCY"
-        }
-      ],
-      "duration_ms": 522575,
-      "name": "Dinamic Afro Soukous",
-      "url": "https://open.spotify.com/track/5wlvlbiN4J3eQqBJMe0i4y"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "\u00bfRemember Me From The Party?",
         "url": "https://open.spotify.com/album/3RuAKfxUSrLiLtWssuhTJo"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 279346,
       "name": "La Democracia",
       "url": "https://open.spotify.com/track/1IA7cTmFqyI8dKW15you1T"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Tchico et son orchestre Kilimandjaro",
+        "url": "https://open.spotify.com/album/72W3L6q3On9nu02qPKZPT0"
+      },
+      "artists": [
+        {
+          "name": "Tchico",
+          "url": "https://open.spotify.com/artist/6ArvtMB9pCDw9t1drSbDCY"
+        }
+      ],
+      "duration_ms": 522575,
+      "name": "Dinamic Afro Soukous",
+      "url": "https://open.spotify.com/track/5wlvlbiN4J3eQqBJMe0i4y"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2093,22 +2093,6 @@
       "url": "https://open.spotify.com/track/2G7lm3OayZMrYKtxSsHqSV"
     },
     {
-      "added_at": "2022-04-07 03:46:32",
-      "album": {
-        "name": "Jamaica Ska",
-        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Quirazco",
-          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
-        }
-      ],
-      "duration_ms": 135810,
-      "name": "Jamaica Ska",
-      "url": "https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD"
-    },
-    {
       "added_at": "2021-12-24 18:28:12",
       "album": {
         "name": "A Bale Ndikuwuzeni",
@@ -2127,18 +2111,18 @@
     {
       "added_at": "2022-04-07 03:46:32",
       "album": {
-        "name": "The Best Of Perez Prado: The Original Mambo #5",
-        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
+        "name": "Jamaica Ska",
+        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "To\u00f1o Quirazco",
+          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
         }
       ],
-      "duration_ms": 158026,
-      "name": "Skokiaan",
-      "url": "https://open.spotify.com/track/7lSKz9Gb4xhcmXsxSYGp4s"
+      "duration_ms": 135810,
+      "name": "Jamaica Ska",
+      "url": "https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2155,6 +2139,22 @@
       "duration_ms": 191733,
       "name": "Premiere Alerte",
       "url": "https://open.spotify.com/track/1xyXeyQWiA7RYhOOLMh9QU"
+    },
+    {
+      "added_at": "2022-04-07 03:46:32",
+      "album": {
+        "name": "The Best Of Perez Prado: The Original Mambo #5",
+        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 158026,
+      "name": "Skokiaan",
+      "url": "https://open.spotify.com/track/7lSKz9Gb4xhcmXsxSYGp4s"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Nadina",
-        "url": "https://open.spotify.com/album/69nxwFpUNnWVR4hC1jwx7T"
-      },
-      "artists": [
-        {
-          "name": "Mbilia Bel",
-          "url": "https://open.spotify.com/artist/0PshVqflBfiJqteIeRr6Qk"
-        }
-      ],
-      "duration_ms": 650786,
-      "name": "Mobali Nangai Wana",
-      "url": "https://open.spotify.com/track/6f1PDBmqVdJjMP0kNmIy50"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Liital",
         "url": "https://open.spotify.com/album/1GzFpRvnyTeUX70CgQhS2T"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 276511,
       "name": "Dieuleul-Dieuleul",
       "url": "https://open.spotify.com/track/6A2ixx4jDRHg4GCN4S2gqg"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Nadina",
+        "url": "https://open.spotify.com/album/69nxwFpUNnWVR4hC1jwx7T"
+      },
+      "artists": [
+        {
+          "name": "Mbilia Bel",
+          "url": "https://open.spotify.com/artist/0PshVqflBfiJqteIeRr6Qk"
+        }
+      ],
+      "duration_ms": 650786,
+      "name": "Mobali Nangai Wana",
+      "url": "https://open.spotify.com/track/6f1PDBmqVdJjMP0kNmIy50"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2525,22 +2525,6 @@
       "url": "https://open.spotify.com/track/2vz8cFurdxLkRVf92P4EcR"
     },
     {
-      "added_at": "2023-02-28 03:54:14",
-      "album": {
-        "name": "Remastered Classics, Vol. 57, Machito",
-        "url": "https://open.spotify.com/album/46q8bqSbPZ1fLlIQgXizeO"
-      },
-      "artists": [
-        {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Relax and Mambo",
-      "url": "https://open.spotify.com/track/2G22aOAEw1EC6ehUdfSFYd"
-    },
-    {
       "added_at": "2021-12-24 18:28:12",
       "album": {
         "name": "Lalango",
@@ -2555,6 +2539,22 @@
       "duration_ms": 216116,
       "name": "Lalango",
       "url": "https://open.spotify.com/track/77Hx1eeot6epigS1asRwRK"
+    },
+    {
+      "added_at": "2023-02-28 03:54:14",
+      "album": {
+        "name": "Remastered Classics, Vol. 57, Machito",
+        "url": "https://open.spotify.com/album/46q8bqSbPZ1fLlIQgXizeO"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "Relax and Mambo",
+      "url": "https://open.spotify.com/track/2G22aOAEw1EC6ehUdfSFYd"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Afro-Beat Airways: Ghana & Togo 1974-1978 (Analog Africa No. 8)",
-        "url": "https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ"
-      },
-      "artists": [
-        {
-          "name": "Apagya Show Band",
-          "url": "https://open.spotify.com/artist/0ZbDjPBGTUB5gX5H0OnCHC"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Mumunde",
-      "url": "https://open.spotify.com/track/3EgwFlVYFkyzD76vs0GdUC"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "2 Gigantes de la M\u00fasica T\u00edpica",
         "url": "https://open.spotify.com/album/50d25tL4swalf6P59f2bLv"
       },
@@ -2723,6 +2707,22 @@
       "duration_ms": 190000,
       "name": "Un J\u00edbaro Termina'o",
       "url": "https://open.spotify.com/track/3ArHAYZaMLvepHMRvCm73O"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Afro-Beat Airways: Ghana & Togo 1974-1978 (Analog Africa No. 8)",
+        "url": "https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ"
+      },
+      "artists": [
+        {
+          "name": "Apagya Show Band",
+          "url": "https://open.spotify.com/artist/0ZbDjPBGTUB5gX5H0OnCHC"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Mumunde",
+      "url": "https://open.spotify.com/track/3EgwFlVYFkyzD76vs0GdUC"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2839,22 +2839,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "El Bravo",
-        "url": "https://open.spotify.com/album/0m7WBEtmt7W2GvH71gPrl8"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 264413,
-      "name": "El Bravo",
-      "url": "https://open.spotify.com/track/1z9l6jR99lnxoEjku5iht2"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Trio Matamoros",
         "url": "https://open.spotify.com/album/4iFvToxcoqN9n8sPgeSjFk"
       },
@@ -2867,6 +2851,22 @@
       "duration_ms": 153853,
       "name": "La Mujer De Antonio",
       "url": "https://open.spotify.com/track/3VmHAsPZI11cGAsmYA9bWP"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "El Bravo",
+        "url": "https://open.spotify.com/album/0m7WBEtmt7W2GvH71gPrl8"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "El Bravo",
+      "url": "https://open.spotify.com/track/1z9l6jR99lnxoEjku5iht2"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2905,6 +2905,22 @@
       "url": "https://open.spotify.com/track/1aZFstLxEP7gMns39W8QTy"
     },
     {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Big Box Of Afrosound",
+        "url": "https://open.spotify.com/album/7p8GXoclTZMumgjfZkUWDJ"
+      },
+      "artists": [
+        {
+          "name": "Cumbias en Moog",
+          "url": "https://open.spotify.com/artist/0bOBmTNlVh1aNKDTWtedyB"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Cumbia de Sal",
+      "url": "https://open.spotify.com/track/50qOHV8gy3A1NLHNzK2qTg"
+    },
+    {
       "added_at": "2023-04-12 01:57:01",
       "album": {
         "name": "Buena Vista Social Club",
@@ -2923,22 +2939,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Big Box Of Afrosound",
-        "url": "https://open.spotify.com/album/7p8GXoclTZMumgjfZkUWDJ"
-      },
-      "artists": [
-        {
-          "name": "Cumbias en Moog",
-          "url": "https://open.spotify.com/artist/0bOBmTNlVh1aNKDTWtedyB"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Cumbia de Sal",
-      "url": "https://open.spotify.com/track/50qOHV8gy3A1NLHNzK2qTg"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Champetas de Mi Pueblo, Vol. 1",
         "url": "https://open.spotify.com/album/5YX9NaiwLqAxlMsKX9v3US"
       },
@@ -2951,22 +2951,6 @@
       "duration_ms": 233400,
       "name": "El Bicarbonato",
       "url": "https://open.spotify.com/track/1w6k1dCxirHIZxTR7SFsi4"
-    },
-    {
-      "added_at": "2022-03-30 01:15:24",
-      "album": {
-        "name": "Mabanzo",
-        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
-      },
-      "artists": [
-        {
-          "name": "Juanita Euka",
-          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
-        }
-      ],
-      "duration_ms": 335586,
-      "name": "For All It's Worth",
-      "url": "https://open.spotify.com/track/27AlFQwk5IYEnflasT0dAK"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2983,6 +2967,22 @@
       "duration_ms": 765266,
       "name": "Obsecion",
       "url": "https://open.spotify.com/track/1cqwlpDbxFswOg5Ar4Ohja"
+    },
+    {
+      "added_at": "2022-03-30 01:15:24",
+      "album": {
+        "name": "Mabanzo",
+        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
+      },
+      "artists": [
+        {
+          "name": "Juanita Euka",
+          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
+        }
+      ],
+      "duration_ms": 335586,
+      "name": "For All It's Worth",
+      "url": "https://open.spotify.com/track/27AlFQwk5IYEnflasT0dAK"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -3065,22 +3065,6 @@
       "url": "https://open.spotify.com/track/56uRSuENJZV6anVULWNyV3"
     },
     {
-      "added_at": "2022-04-07 03:46:32",
-      "album": {
-        "name": "An Occasional Man",
-        "url": "https://open.spotify.com/album/263LHht9Zj4xQLfrdqaz4D"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 156263,
-      "name": "An Occasional Man",
-      "url": "https://open.spotify.com/track/3RRAvVNfpZZutPYPuatKOh"
-    },
-    {
       "added_at": "2021-12-24 18:28:12",
       "album": {
         "name": "El Trovador",
@@ -3095,6 +3079,22 @@
       "duration_ms": 175840,
       "name": "Yo Canto En el Llano",
       "url": "https://open.spotify.com/track/1MQ6079VJpHUnojEO1uxjC"
+    },
+    {
+      "added_at": "2022-04-07 03:46:32",
+      "album": {
+        "name": "An Occasional Man",
+        "url": "https://open.spotify.com/album/263LHht9Zj4xQLfrdqaz4D"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "duration_ms": 156263,
+      "name": "An Occasional Man",
+      "url": "https://open.spotify.com/track/3RRAvVNfpZZutPYPuatKOh"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -3255,6 +3255,22 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
+        "name": "Sofrito: International Soundclash",
+        "url": "https://open.spotify.com/album/7d2rxMKDWjqhMOUKSVBxyr"
+      },
+      "artists": [
+        {
+          "name": "Kiland et L'Orchestre Mabatala\u00ef",
+          "url": "https://open.spotify.com/artist/2gBbOND6TaUCCmsPnpMK9C"
+        }
+      ],
+      "duration_ms": 381107,
+      "name": "Pour Chercher Le Magot",
+      "url": "https://open.spotify.com/track/4tvw8s6eiNRJlh7oQc6m1J"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
       },
@@ -3391,22 +3407,6 @@
       "duration_ms": 360096,
       "name": "Malukayi (feat. Konono N\u00b01)",
       "url": "https://open.spotify.com/track/2LVQqp4NLjGHu611rqZIQb"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Sofrito: International Soundclash",
-        "url": "https://open.spotify.com/album/7d2rxMKDWjqhMOUKSVBxyr"
-      },
-      "artists": [
-        {
-          "name": "Kiland et L'Orchestre Mabatala\u00ef",
-          "url": "https://open.spotify.com/artist/2gBbOND6TaUCCmsPnpMK9C"
-        }
-      ],
-      "duration_ms": 381107,
-      "name": "Pour Chercher Le Magot",
-      "url": "https://open.spotify.com/track/4tvw8s6eiNRJlh7oQc6m1J"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -3691,22 +3691,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Tambores y Cantos",
-        "url": "https://open.spotify.com/album/0jlO9rDQKxjDg1uYGIXLv8"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Aguacero de Mayo",
-      "url": "https://open.spotify.com/track/65mj1AH6uh5tb73amGwV4j"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Soundway presents Colombia 45s",
         "url": "https://open.spotify.com/album/74YsSPSZPAFbCkhe635qM7"
       },
@@ -3719,6 +3703,22 @@
       "duration_ms": 175906,
       "name": "Cojeme la casa",
       "url": "https://open.spotify.com/track/3w2N2EBA0XVlE8GitLtc0U"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Tambores y Cantos",
+        "url": "https://open.spotify.com/album/0jlO9rDQKxjDg1uYGIXLv8"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Aguacero de Mayo",
+      "url": "https://open.spotify.com/track/65mj1AH6uh5tb73amGwV4j"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -3897,26 +3897,6 @@
       "url": "https://open.spotify.com/track/5ToI2TEH6geM7mOuxEEndO"
     },
     {
-      "added_at": "2022-03-30 15:38:16",
-      "album": {
-        "name": "Elevator Music",
-        "url": "https://open.spotify.com/album/76HfzVQBoxWCULabu2WTn0"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00fcby Trio",
-          "url": "https://open.spotify.com/artist/04WBarCWtSEs8ESWnYPlm5"
-        },
-        {
-          "name": "Buika",
-          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
-        }
-      ],
-      "duration_ms": 386853,
-      "name": "Jaleo",
-      "url": "https://open.spotify.com/track/1awtsQkvPcJTpdPUOL6ROo"
-    },
-    {
       "added_at": "2021-12-24 18:28:12",
       "album": {
         "name": "Los Bailables de Todos los Tiempos, Vol. 3",
@@ -3955,6 +3935,26 @@
       "duration_ms": 294848,
       "name": "Iye Lele Le",
       "url": "https://open.spotify.com/track/7KKkCiWkJ9FYvfDalvEjxA"
+    },
+    {
+      "added_at": "2022-03-30 15:38:16",
+      "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/76HfzVQBoxWCULabu2WTn0"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00fcby Trio",
+          "url": "https://open.spotify.com/artist/04WBarCWtSEs8ESWnYPlm5"
+        },
+        {
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "duration_ms": 386853,
+      "name": "Jaleo",
+      "url": "https://open.spotify.com/track/1awtsQkvPcJTpdPUOL6ROo"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -4627,22 +4627,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Los Miticos del Ritmo (Soundway Records)",
-        "url": "https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Willy's Merengue",
-      "url": "https://open.spotify.com/track/58PVLoVk3zTZs068NB5ECY"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Sound of Siam, Vol. 1 - Leftfield Luk Thung, Jazz & Molam in Thailand 1964-1975 (Soundway Records)",
         "url": "https://open.spotify.com/album/2dBwGURHBB6qsMvGGIhGZs"
       },
@@ -4655,6 +4639,22 @@
       "duration_ms": 221173,
       "name": "Lung Tung Wai",
       "url": "https://open.spotify.com/track/25tb4tWiBBId7x3QPxW7t1"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Los Miticos del Ritmo (Soundway Records)",
+        "url": "https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Willy's Merengue",
+      "url": "https://open.spotify.com/track/58PVLoVk3zTZs068NB5ECY"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -5411,6 +5411,22 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
+        "name": "Afroman\u00eda Caribe",
+        "url": "https://open.spotify.com/album/6Vn2MDsWVvvqEB3jfBxhMG"
+      },
+      "artists": [
+        {
+          "name": "Wganda Kenya",
+          "url": "https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka"
+        }
+      ],
+      "duration_ms": 460970,
+      "name": "Homenaje a los Embajadores",
+      "url": "https://open.spotify.com/track/3yAlh4l1uSVLrVOXbNxMry"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
         "name": "The Roots of Chicha 2",
         "url": "https://open.spotify.com/album/4tXd2KPTbNSLvZhP7c8R2O"
       },
@@ -5427,18 +5443,18 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Afroman\u00eda Caribe",
-        "url": "https://open.spotify.com/album/6Vn2MDsWVvvqEB3jfBxhMG"
+        "name": "Cumbia Beat Volume 1",
+        "url": "https://open.spotify.com/album/5PlGsMD5RPgn8SqjRiyCXG"
       },
       "artists": [
         {
-          "name": "Wganda Kenya",
-          "url": "https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka"
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
         }
       ],
-      "duration_ms": 460970,
-      "name": "Homenaje a los Embajadores",
-      "url": "https://open.spotify.com/track/3yAlh4l1uSVLrVOXbNxMry"
+      "duration_ms": 204426,
+      "name": "Guajira sicod\u00e9lica",
+      "url": "https://open.spotify.com/track/7ac7hTJ17Jdr0Q0SbIyDeD"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -5487,22 +5503,6 @@
       "duration_ms": 250666,
       "name": "Pa\u00eds Tropical",
       "url": "https://open.spotify.com/track/4Q0gDNPIlcPkEYLlhhPfNh"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Cumbia Beat Volume 1",
-        "url": "https://open.spotify.com/album/5PlGsMD5RPgn8SqjRiyCXG"
-      },
-      "artists": [
-        {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Guajira sicod\u00e9lica",
-      "url": "https://open.spotify.com/track/7ac7hTJ17Jdr0Q0SbIyDeD"
     },
     {
       "added_at": "2021-12-24 18:28:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,689 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,684 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 76 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
 | 77 | [It’s Beginning to Look A Lot Like Christmas](https://open.spotify.com/track/2zJwg3CotBHJdJHjQoSxkS) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [It’s Beginning to Look A Lot Like Christmas](https://open.spotify.com/album/0ezjRiJSHHbFOwkaAh2LN0) | 3:07 |
 | 78 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 |
-| 79 | [Mistletoe](https://open.spotify.com/track/32OWobmyAz8J2qA8iWekyS) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2) | 3:02 |
-| 80 | [Santa Tell Me](https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau) | 3:24 |
+| 79 | [Wonderful Christmastime \[Edited Version\] \- Remastered 2011 / Edited Version](https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:47 |
+| 80 | [Mistletoe](https://open.spotify.com/track/32OWobmyAz8J2qA8iWekyS) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2) | 3:02 |
 
 Snapshot ID: `ZYLQ1wAAAABPGlRmo3G4c/d0bkD+RRua`

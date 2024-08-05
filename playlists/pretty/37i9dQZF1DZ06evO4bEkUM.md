@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 ### [This Is Paramore](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bEkUM)
 
-> This is Paramore\. The essential tracks, all in one playlist.
+> This is Paramore\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,063 likes - 46 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,258 likes - 46 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 45 | [In the Mourning](https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:05 |
 | 46 | [Hello Cold World](https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:23 |
 
-Snapshot ID: `ZqrQAAAAAABrTs5TdA4eK4RxACZth9eF`
+Snapshot ID: `ZqrQAAAAAABjYh+lH60YUZZjvW5oTh4S`

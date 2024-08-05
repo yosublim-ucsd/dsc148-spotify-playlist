@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VX21KbpzwO.md) - [plain]
 
 > Discover the bangers of the Middle East and North Africa.<br/>Cover : Mohamed Ramadan, Future & Massari
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,689 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,712 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

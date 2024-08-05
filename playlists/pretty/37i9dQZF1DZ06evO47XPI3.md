@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 ### [This Is The Delfonics](https://open.spotify.com/playlist/37i9dQZF1DZ06evO47XPI3)
 
-> This is The Delfonics\. The essential tracks, all in one playlist.
+> This Is The Delfonics\. Todas as faixas essenciais numa única playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,577 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,578 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 49 | [Lost Without You](https://open.spotify.com/track/2CBq0T7YKG6kQXHDxve0Q1) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 3:02 |
 | 50 | [Love On A Two Way Street \- Live](https://open.spotify.com/track/1dZQXLbCGVjkKJXvcJ8CYX) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Ray, Goodman & Brown](https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh) | [The Delfonics vs Ray, Goodman & Brown Live In Concert](https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5) | 4:02 |
 
-Snapshot ID: `ZqrQAAAAAACB5X1K9G3/NqTnzi0cw3Ak`
+Snapshot ID: `ZqrQAAAAAACEGXmjLS1XzM4GvIZPk5UH`

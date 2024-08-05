@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 ### [This Is Jesús Adrián Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1e4ODC)
 
-> This Is Jesús Adrián Romero\. Los temas esenciales, todos en una lista.
+> This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,564 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,609 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 49 | [Una Casa Vacía](https://open.spotify.com/track/7BwjXbstceaeN4bjbt9caj) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 2:47 |
 | 50 | [Brilla](https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 3:19 |
 
-Snapshot ID: `ZqrQAAAAAADJaDQBPsY0Hec9MUiF7sgY`
+Snapshot ID: `ZqrQAAAAAAB60ZeODyYpKWGhE6nPJzqn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Skepta, R2R More
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,475 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,484 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 5 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 6 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 |
 | 7 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
-| 8 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 |
+| 8 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 | 9 | [UK SYNTH \(feat\. Bawo\)](https://open.spotify.com/track/1PB6xNX3CtzaHQ0l1bhFW6) | [Deema](https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [UK SYNTH \(feat\. Bawo\)](https://open.spotify.com/album/08O45uAoySxb7Y2KSmPARW) | 1:52 |
 | 10 | [Make a W \(feat\. Skrillex, AJ Tracey & BEAM\)](https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 2:57 |
-| 11 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
+| 11 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 |
 | 12 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 |
 | 13 | [\#skeptacore pt.3](https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [\#skeptacore pt.3](https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof) | 2:39 |
 | 14 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 |

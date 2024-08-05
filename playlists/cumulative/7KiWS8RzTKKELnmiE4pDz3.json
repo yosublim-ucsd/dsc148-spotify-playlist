@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Blank Blank",
+        "url": "https://open.spotify.com/album/6L2X9oAs6pLMweH6pSpfTT"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170853,
+      "name": "21",
+      "url": "https://open.spotify.com/track/1AdXchAT6hBUm5d6y4nKjI"
+    },
+    {
+      "album": {
         "name": "BACK IN ACTION 3.0",
         "url": "https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM"
       },
@@ -5132,6 +5150,28 @@
       "duration_ms": 170749,
       "name": "HIDEOUT (feat. Fijimacintosh)",
       "url": "https://open.spotify.com/track/3gauWyhhIKYnKdhROrTRcc"
+    },
+    {
+      "album": {
+        "name": "On the Run",
+        "url": "https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195160,
+      "name": "High (feat. Elton John)",
+      "url": "https://open.spotify.com/track/7iMDaY1LnASwCk2uUpMtii"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 723705,
+  "num_followers": 723726,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+        "name": "Untamed",
+        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },
       "artists": [
         {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+      "duration_ms": 231333,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Untamed",
-        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
       "artists": [
         {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Burning House",
-      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "WHAT I HAVE",
-        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178681,
-      "name": "WHAT I HAVE",
-      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 262079,
       "name": "Nothing Like You",
       "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "WHAT I HAVE",
+        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Wild Honey",
-        "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Wild Honey",
-      "url": "https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Honestly (Deluxe)",
         "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
@@ -739,22 +723,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Think About It",
-        "url": "https://open.spotify.com/album/3i8tWI30TAqLDO7FLpqRTq"
-      },
-      "artists": [
-        {
-          "name": "Meg McRee",
-          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Think About It",
-      "url": "https://open.spotify.com/track/3ypWiuw7W7XUj5qDZrRFFI"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
       },
@@ -771,6 +739,22 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/3i8tWI30TAqLDO7FLpqRTq"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/3ypWiuw7W7XUj5qDZrRFFI"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
         "name": "ballerini",
         "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 236226,
       "name": "half of my hometown - ballerini album version",
       "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Wild Honey",
+        "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Wild Honey",
+      "url": "https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
-      },
-      "artists": [
-        {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "20/10 TN",
-      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Because Of Yours",
         "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 240837,
       "name": "Because Of Yours",
       "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+      },
+      "artists": [
+        {
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "20/10 TN",
+      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Home To Me",
-        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 186316,
-      "name": "Home To Me",
-      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "firstborn",
         "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 213340,
       "name": "sunflower.",
       "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
+        "name": "Time Is Cold (Coffee House Version)",
+        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 188541,
+      "name": "Time Is Cold (Coffee House Version)",
+      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
         "name": "Roadtripsong",
         "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/1iepnn71MidOJZ7Y3vfgE4"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
-        "name": "Time Is Cold (Coffee House Version)",
-        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 188541,
-      "name": "Time Is Cold (Coffee House Version)",
-      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
     }
   ],
   "unique_name": "Country Coffeehouse",

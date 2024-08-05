@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-465 songs - 1 day 4 hr 54 min
+466 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-08 | 2023-12-20 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-24 |  |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-21 | 2024-06-01 |
-| [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 |  |
+| [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 | 2024-08-05 |
 | [SWEET NONFICTION](https://open.spotify.com/track/0fXXfojTJEeJEF0p69qmo2) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [SWEET NONFICTION](https://open.spotify.com/album/37XW4vuhNFKGUliZ3qkTv3) | 3:19 | 2024-04-06 | 2024-05-16 |
 | [Take a picture](https://open.spotify.com/track/0iEzzJ3zmNQqATy2MilumS) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Take a picture](https://open.spotify.com/album/3kBl936FCNH8BLtpl21kWg) | 3:01 | 2021-04-01 | 2021-08-11 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-10 | 2023-07-09 |
@@ -378,6 +378,7 @@
 | [大正浪漫](https://open.spotify.com/track/3uw93CiI34uZlfk8ywep1e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [大正浪漫](https://open.spotify.com/album/4D1e5OPqOqOWhQhiNleOOl) | 2:48 | 2021-09-17 | 2021-11-28 |
 | [常緑](https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [you](https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw) | 2:51 | 2021-11-25 | 2022-10-14 |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-02-08 |  |
+| [忘れてください](https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [忘れてください](https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb) | 3:38 | 2024-08-04 |  |
 | [怪物](https://open.spotify.com/track/2vjY3jGKElvqXoaGNEuYef) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 3:25 | 2021-12-04 | 2021-12-05 |
 | [怪物](https://open.spotify.com/track/6uhIF5J5Txaie0is2nXdxU) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:25 | 2021-12-03 | 2022-08-12 |
 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 | 2021-03-27\* | 2021-12-03 |

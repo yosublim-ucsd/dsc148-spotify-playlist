@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 191286,
+  "num_followers": 191456,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2KfxK9sO9xnjeFxizuXljy"
+    },
+    {
+      "added_at": "2024-07-22 13:56:55",
+      "album": {
         "name": "F\u00e4bodjazz",
         "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 205373,
       "name": "Blue Lester",
       "url": "https://open.spotify.com/track/427fYkFx1Arn2qGQeGVGNT"
-    },
-    {
-      "added_at": "2024-07-22 13:56:55",
-      "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/2KfxK9sO9xnjeFxizuXljy"
     },
     {
       "added_at": "2024-07-22 13:56:55",
@@ -311,6 +311,26 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
+        "name": "Ben And \"Sweets\"",
+        "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
+        }
+      ],
+      "duration_ms": 330693,
+      "name": "How Long Has This Been Going On",
+      "url": "https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib"
+    },
+    {
+      "added_at": "2024-07-22 13:56:55",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -347,6 +367,22 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
+        "name": "Jazz Masters",
+        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
+    },
+    {
+      "added_at": "2024-07-22 13:56:55",
+      "album": {
         "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
@@ -359,42 +395,6 @@
       "duration_ms": 473386,
       "name": "Lover Man - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5PfcpDnzz8VdUoziFWnhrU"
-    },
-    {
-      "added_at": "2024-07-22 13:56:55",
-      "album": {
-        "name": "Way Out West (OJC Remaster)",
-        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 471173,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"
-    },
-    {
-      "added_at": "2024-07-22 13:56:55",
-      "album": {
-        "name": "Ben And \"Sweets\"",
-        "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Harry \"Sweets\" Edison",
-          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
-        }
-      ],
-      "duration_ms": 330693,
-      "name": "How Long Has This Been Going On",
-      "url": "https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib"
     },
     {
       "added_at": "2024-07-22 13:56:55",
@@ -415,18 +415,38 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
-        "name": "Jazz Masters",
-        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 248373,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
+      "duration_ms": 193173,
+      "name": "In The Wee Small Hours Of The Morning",
+      "url": "https://open.spotify.com/track/7A2fFWAMjU689JhOCxVs70"
+    },
+    {
+      "added_at": "2024-07-22 13:56:55",
+      "album": {
+        "name": "Way Out West (OJC Remaster)",
+        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 471173,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"
     },
     {
       "added_at": "2024-07-22 13:56:55",
@@ -491,26 +511,6 @@
       "duration_ms": 375066,
       "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
-    },
-    {
-      "added_at": "2024-07-22 13:56:55",
-      "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "In The Wee Small Hours Of The Morning",
-      "url": "https://open.spotify.com/track/7A2fFWAMjU689JhOCxVs70"
     },
     {
       "added_at": "2024-07-22 13:56:55",
@@ -711,6 +711,30 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
+        "name": "Portrait In Jazz [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Scott LaFaro",
+          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
+    },
+    {
+      "added_at": "2024-07-22 13:56:55",
+      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -743,30 +767,6 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
-        "name": "Portrait In Jazz [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Scott LaFaro",
-          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
-    },
-    {
-      "added_at": "2024-07-22 13:56:55",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 333493,
-      "name": "I'm A Fool To Want",
-      "url": "https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ"
-    },
-    {
-      "added_at": "2024-07-22 13:56:55",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 256706,
       "name": "Ernie's Tune",
       "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
+    },
+    {
+      "added_at": "2024-07-22 13:56:55",
+      "album": {
+        "name": "Art",
+        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 333493,
+      "name": "I'm A Fool To Want",
+      "url": "https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ"
     },
     {
       "added_at": "2024-07-22 13:56:55",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
-        "name": "Messages",
-        "url": "https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 523266,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/4y3Rmu6XbLeUi95ym34PGq"
-    },
-    {
-      "added_at": "2024-07-22 13:56:55",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 311533,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/3b85Jv4nFjRZNsorLlXA0p"
+    },
+    {
+      "added_at": "2024-07-22 13:56:55",
+      "album": {
+        "name": "Messages",
+        "url": "https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 523266,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/4y3Rmu6XbLeUi95ym34PGq"
     },
     {
       "added_at": "2024-07-22 13:56:55",
@@ -1311,18 +1311,22 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
-        "name": "Les Plus Grands Moments Du Jazz",
-        "url": "https://open.spotify.com/album/1QtejTzzHfh76jf7w8Bjih"
+        "name": "Getz Meets Mulligan In Hi-Fi",
+        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
       },
       "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
         {
           "name": "Gerry Mulligan",
           "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 246760,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/7my3KVDRhNAwYVYMpv1iib"
+      "duration_ms": 346160,
+      "name": "Ballad",
+      "url": "https://open.spotify.com/track/0uLojEpJu5d0TFDz7FOPjm"
     }
   ],
   "unique_name": "Jazz Noir",

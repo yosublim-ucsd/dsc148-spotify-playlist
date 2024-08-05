@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 166838,
       "name": "Aquela Pessoa - Ao Vivo",
       "url": "https://open.spotify.com/track/5asabafNzfAzjUecDvuNES"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 133546,
       "name": "Barulho Do Foguete - Ao Vivo",
       "url": "https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS"
@@ -5466,7 +5466,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 163089,
       "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
       "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
@@ -10184,7 +10184,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -11716,7 +11716,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 142470,
       "name": "Licor 43",
       "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
@@ -15201,7 +15201,7 @@
     },
     {
       "album": {
-        "name": "Nem a Pau (feat. Simone Mendes)",
+        "name": "Nem a Pau (feat. Simone Mendes) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm"
       },
       "artists": [
@@ -15218,7 +15218,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161920,
-      "name": "Nem a Pau (feat. Simone Mendes)",
+      "name": "Nem a Pau (feat. Simone Mendes) - Ao Vivo",
       "url": "https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa"
     },
     {
@@ -18472,7 +18472,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 161610,
       "name": "P\u00e1gina De Ex - Ao Vivo",
       "url": "https://open.spotify.com/track/6IFMz6Buh3dKoUjULWE26n"
@@ -19776,6 +19776,28 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Saveiro",
+        "url": "https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS"
+      },
+      "artists": [
+        {
+          "name": "Kaique e Felipe",
+          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144665,
+      "name": "Saveiro",
+      "url": "https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G"
     },
     {
       "album": {
@@ -21452,7 +21474,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 164307,
       "name": "S\u00f3 Vou Namorar",
       "url": "https://open.spotify.com/track/4xEYeY9OSYP7c8dSwlpBFD"
@@ -22980,7 +23002,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 121384,
       "name": "TUMB\u00c1TUM",
       "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"
@@ -23796,7 +23818,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 164240,
       "name": "Vazou Na Braquiara - Ao Vivo",
       "url": "https://open.spotify.com/track/2RX89Di479sc53wkaNgt9E"

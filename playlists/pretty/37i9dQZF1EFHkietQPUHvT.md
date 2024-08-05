@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 33 | [Don't Wake Me](https://open.spotify.com/track/6PWxbGXyK8X8FNbnprbfk7) | [Damian McGinty](https://open.spotify.com/artist/55vhWUMlow4Z91foJtpm1Y) | [Those Were the Days](https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5) | 3:10 |
 | 34 | [Breakfast Over Bae](https://open.spotify.com/track/6y8JwscZfUoEFBhoTLX7Ie) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:35 |
 | 35 | [Crybaby](https://open.spotify.com/track/27F4VM8xaqFeJ2C6n9D6kv) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Crybaby](https://open.spotify.com/album/1b1Y7SyrrrB9aExenixvyW) | 3:00 |
-| 36 | [Simple](https://open.spotify.com/track/1faJyWGSpckvsMnyr2QJFs) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Simple](https://open.spotify.com/album/4KDLdM2hHAGb57QMR8DJQr) | 3:07 |
-| 37 | [biting my tongue](https://open.spotify.com/track/1717Jvw2vyq7KNiutIJmLO) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 2:35 |
+| 36 | [biting my tongue](https://open.spotify.com/track/1717Jvw2vyq7KNiutIJmLO) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 2:35 |
+| 37 | [Simple](https://open.spotify.com/track/1faJyWGSpckvsMnyr2QJFs) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Simple](https://open.spotify.com/album/4KDLdM2hHAGb57QMR8DJQr) | 3:07 |
 | 38 | [Here to Stay](https://open.spotify.com/track/3ByAouukHhrz3koxrKKG3L) | [Brendan Murray](https://open.spotify.com/artist/7vXVpxnqu4GYer1u9eNvLw) | [Here to Stay](https://open.spotify.com/album/3J9wxDOwgdBIf3gyAeuHSK) | 2:59 |
 | 39 | [not around](https://open.spotify.com/track/6GlD9ntcLBrncwEbC72nN0) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 3:12 |
 | 40 | [Taxi](https://open.spotify.com/track/2jkMuY6mQLuPXZwfh58LIk) | [Eiza Murphy](https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9) | [Taxi](https://open.spotify.com/album/6zipOgixmS3YXGHbNDIioT) | 3:01 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 47 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 48 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AbYdngAAAADYc+D8sWDEj1otD08kG6+K`
+Snapshot ID: `AbYjPgAAAABAqU3e09AipWnkIfocReid`

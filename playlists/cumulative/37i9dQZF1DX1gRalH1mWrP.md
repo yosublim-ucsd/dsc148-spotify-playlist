@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,269 songs - 2 day 17 hr 29 min
+1,270 songs - 2 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [How Do You Sleep?](https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep?](https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo) | 3:22 | 2019-07-20 | 2020-04-29 |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-06-29 | 2020-07-08 |
 | [Hurt Again](https://open.spotify.com/track/3JPXFD2aJ4dHPMnGwo41bO) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:22 | 2019-07-06 | 2019-08-13 |
+| [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-08-03 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-13 |  |
 | [I am not a woman, I'm a god](https://open.spotify.com/track/5RhFmJifQe83FpQ6ZFFTZ5) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:56 | 2021-09-24 | 2022-02-12 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-04-12 | 2022-07-02 |
@@ -1064,7 +1065,7 @@
 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-08-04 | 2024-04-19 |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-04-14 | 2023-03-08 |
 | [Sunshine \(feat\. Lil Wayne & Childish Gambino\)](https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 3:26 | 2022-06-18 | 2023-03-11 |
-| [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2024-06-14 |  |
+| [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2024-06-14 | 2024-08-05 |
 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 | 2020-04-29 | 2020-08-05 |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-19 | 2023-03-08 |
 | [SUPERNOVAS](https://open.spotify.com/track/3G2YEKUndBuKU2Jnpmvn3b) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [SUPERNOVAS](https://open.spotify.com/album/3ZnCIld45Q9BavqKFJZsXs) | 3:05 | 2020-09-26 | 2021-04-30 |

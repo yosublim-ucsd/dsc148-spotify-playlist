@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1716756,
+  "num_followers": 1716773,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 250866,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "Venus (Acoustic)",
+        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 175120,
+      "name": "Sweet Love of Mine (Acoustic)",
+      "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "Halleluya",
         "url": "https://open.spotify.com/album/4ZDbn99PxmBpj3UtcDXWWx"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 234493,
       "name": "Halleluya",
       "url": "https://open.spotify.com/track/1eiSkx4vQiHJ2tzMDDjL01"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "Venus (Acoustic)",
-        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 175120,
-      "name": "Sweet Love of Mine (Acoustic)",
-      "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Venus (Acoustic)",
-        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Till Forever (Acoustic)",
-      "url": "https://open.spotify.com/track/3bELVNyQDvjRqJiMiFoohe"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "...but i'd rather be with you",
         "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 235418,
       "name": "Sunflower, Vol. 6",
       "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Venus (Acoustic)",
+        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Till Forever (Acoustic)",
+      "url": "https://open.spotify.com/track/3bELVNyQDvjRqJiMiFoohe"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Sea Of Love",
-        "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
+        "name": "Hard Won",
+        "url": "https://open.spotify.com/album/3S36fR57klmwmODtORET8C"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+          "name": "Lizzie No",
+          "url": "https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn"
         }
       ],
-      "duration_ms": 203190,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS"
+      "duration_ms": 217560,
+      "name": "Please Don't Change Your Mind",
+      "url": "https://open.spotify.com/track/5qFG8i1wsPsPgGdqwPfQJQ"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1347,18 +1343,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Hard Won",
-        "url": "https://open.spotify.com/album/3S36fR57klmwmODtORET8C"
+        "name": "Sea Of Love",
+        "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
       },
       "artists": [
         {
-          "name": "Lizzie No",
-          "url": "https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
         }
       ],
-      "duration_ms": 217560,
-      "name": "Please Don't Change Your Mind",
-      "url": "https://open.spotify.com/track/5qFG8i1wsPsPgGdqwPfQJQ"
+      "duration_ms": 203190,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "One Step Away",
-        "url": "https://open.spotify.com/album/18XbMZCbZZU5FdLEUXRliJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Francis",
-          "url": "https://open.spotify.com/artist/5aPyEsPhCyp84LyZ4e3lzH"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Upon These Stones",
-      "url": "https://open.spotify.com/track/6IRAHTNBYOOAGtgH8R6uvu"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "The Lingering",
         "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 183877,
       "name": "How We Used to Love",
       "url": "https://open.spotify.com/track/6XkChVvxj0Cakfae17NaK3"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "One Step Away",
+        "url": "https://open.spotify.com/album/18XbMZCbZZU5FdLEUXRliJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/5aPyEsPhCyp84LyZ4e3lzH"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Upon These Stones",
+      "url": "https://open.spotify.com/track/6IRAHTNBYOOAGtgH8R6uvu"
     },
     {
       "added_at": "2024-07-05 22:35:53",

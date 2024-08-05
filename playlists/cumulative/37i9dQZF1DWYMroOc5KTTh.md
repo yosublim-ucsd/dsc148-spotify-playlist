@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-532 songs - 1 day 11 hr 28 min
+533 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Jenny \(Heaven Can You Hear Me\)](https://open.spotify.com/track/6j5PkIPTIt17kDCNppFmpy) | [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2), [Belfort](https://open.spotify.com/artist/5n2GF9IrgXtV9s2HBPCI3R) | [Jenny \(Heaven Can You Hear Me\)](https://open.spotify.com/album/48E7qLe1f4qle7WeA2qt2X) | 3:15 | 2024-01-05 | 2024-03-01 |
 | [Jessica \(feat\. LILO LI\)](https://open.spotify.com/track/41H2fON7xrNirxSmbEgPVR) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [LILO LI](https://open.spotify.com/artist/39clKYxsPkQCMRc7iFgRIh) | [Jessica \(feat\. LILO LI\)](https://open.spotify.com/album/4BCnp2BEpkmSlMPfu2pJS2) | 3:21 | 2021-12-03 | 2022-07-14 |
 | [Joy](https://open.spotify.com/track/776Kqi9RqGbXHWCHzU2ZSi) | [Colour Castle](https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS) | [Joy](https://open.spotify.com/album/2fF2IYnssbpRwuL5lgMaPT) | 4:07 | 2021-12-03 | 2022-07-23 |
-| [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2023-05-22 |  |
+| [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2023-05-22 | 2024-08-05 |
 | [JOY \(Don't It Make You Feel\)](https://open.spotify.com/track/1PUSsDVdfoSD8TBeSUJRBx) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Don’t It Make You Feel\)](https://open.spotify.com/album/0dY0wbc3n8SS4WWfHdxo0L) | 3:22 | 2022-06-10 | 2023-01-17 |
 | [JOY \(God Only Knows\)](https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(God Only Knows\)](https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU) | 4:26 | 2023-01-16 | 2023-11-17 |
 | [JOY \(Head To The Sky\)](https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Head To The Sky\)](https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu) | 3:50 | 2023-09-01 | 2023-10-08 |
@@ -537,6 +537,7 @@
 | [You](https://open.spotify.com/track/4vrnHICJfoguGfzLkQeyy5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Chenai](https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w) | [You](https://open.spotify.com/album/4RE02XZPC2HudccO2yKKeP) | 3:48 | 2022-04-06 | 2022-04-11 |
 | [You and Me](https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Renaissance](https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9) | 3:34 | 2023-10-06 | 2024-06-07 |
 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 | 2021-12-03 | 2022-07-29 |
+| [You Take Me Higher](https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [You Take Me Higher](https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8) | 3:07 | 2024-07-23 |  |
 | [You're The One](https://open.spotify.com/track/6gCQOoiPsCVJWahUic1JDT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [You're The One](https://open.spotify.com/album/7Cd98dJhEkm97KdjIe4RLh) | 3:19 | 2022-01-11 | 2022-05-30 |
 | [Your Moment](https://open.spotify.com/track/5JAbCjlhaks42cZsR7iYlL) | [Hugo Hamlet](https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO), [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Your Moment](https://open.spotify.com/album/7xuuHSrc2f8oJlp5ndu2E2) | 3:24 | 2022-03-07 | 2022-03-10 |
 | [Álom](https://open.spotify.com/track/2yGif5vdTFISbpFvPLmOqM) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Supervillain](https://open.spotify.com/album/3LHbQ672nttiCLx9g0ZnaF) | 4:18 | 2022-04-06 | 2022-04-13 |

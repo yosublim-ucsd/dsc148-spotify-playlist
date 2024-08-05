@@ -4,7 +4,7 @@
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-147 songs - 4 hr 56 min
+148 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Floating on Air](https://open.spotify.com/track/48Xj9a0vTxbUNpT7uxOTSM) | [Moon Neux](https://open.spotify.com/artist/42DQbGLMNeNbupqDMIe2J9), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG), [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV) | [Floating on Air](https://open.spotify.com/album/4vGUX1nQpp99O1kMMwJXlE) | 1:46 | 2024-02-05 |  |
 | [Gentle Whispers](https://open.spotify.com/track/10ot1rXVDEgiOEXRbpQa4f) | [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [In the Stillness](https://open.spotify.com/album/0RKqBzih1tgkqTInODST75) | 1:49 | 2024-02-05 |  |
 | [Going Home](https://open.spotify.com/track/0GOjSi5z8laFBfYDiwg0Bv) | [Sight](https://open.spotify.com/artist/7eaRQVMCCA3WpmqJTHZG7S) | [Going Home](https://open.spotify.com/album/1wcfzz1pSQjk6cslrli05L) | 2:11 | 2024-02-05 | 2024-05-19 |
+| [goodbye](https://open.spotify.com/track/0wQyNKjEGxg7wIwSWNL5Mn) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [goodbye](https://open.spotify.com/album/485WZIHQ4pmGhTDNHaBOds) | 2:15 | 2024-08-04 |  |
 | [Harmonic Delirium](https://open.spotify.com/track/2uwHq3iKROPcgzd1oekf2j) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Melodies of Serenity](https://open.spotify.com/album/3Z6J66tVl7nqa1lzFqftrA) | 2:18 | 2024-02-05 |  |
 | [Harmonic Drifts](https://open.spotify.com/track/584gZRyqrMTAEPfvrSPo0z) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Serenade of Stardust](https://open.spotify.com/album/4UaC5YladAxDnolCjmZVZG) | 2:10 | 2024-02-05 |  |
 | [Harmonic Echoes](https://open.spotify.com/track/6v0WxYk1BDesUXo1on5Ra5) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Luminous Reverberations](https://open.spotify.com/album/2EQSCXFUV6MhW7EBaFOIKv) | 1:55 | 2024-02-05 |  |

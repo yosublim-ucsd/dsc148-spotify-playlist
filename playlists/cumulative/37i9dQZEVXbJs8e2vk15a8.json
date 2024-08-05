@@ -869,6 +869,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290194,
+      "name": "530",
+      "url": "https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4"
+    },
+    {
+      "album": {
         "name": "6.5",
         "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
       },
@@ -5651,6 +5677,28 @@
     },
     {
       "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "album": {
         "name": "LOADING...",
         "url": "https://open.spotify.com/album/54eQTsG6OahvtsYGwLNQx6"
       },
@@ -7576,6 +7624,24 @@
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "album": {
+        "name": "Chihiro",
+        "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128575,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
     },
     {
       "album": {
@@ -16708,7 +16774,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
@@ -17612,7 +17678,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 209800,
       "name": "Hymne \u00e0 l'amour - Live",
       "url": "https://open.spotify.com/track/7wQEazOrLEHSCMo3gEuV88"
@@ -25202,7 +25268,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 157453,
       "name": "Mirame",
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"

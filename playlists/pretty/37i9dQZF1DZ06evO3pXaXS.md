@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 
 ### [This Is The Police](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pXaXS)
 
-> This is The Police\. The essential tracks, all in one playlist.
+> This is The Police\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,127 likes - 49 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,181 likes - 49 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 | 48 | [Goodbye Tomorrow](https://open.spotify.com/track/1SLmGbYOQGG4PPW109de9U) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Super Deluxe Edition\)](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 3:12 |
 | 49 | [Friends](https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:36 |
 
-Snapshot ID: `ZqrQAAAAAADcpd+kUr02dmJ4vNOhYF42`
+Snapshot ID: `ZqrQAAAAAAA44r2mp2DN+wz6EC0An52V`

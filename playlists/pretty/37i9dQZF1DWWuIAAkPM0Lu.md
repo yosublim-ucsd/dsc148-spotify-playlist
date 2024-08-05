@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ..\. så længe jeg er sexyyy 🧡 <a href="spotify:artist:1GKN1Js8fa19K23eIhOMhg">Annika</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,879 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,886 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

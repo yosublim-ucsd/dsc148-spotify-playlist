@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "As Good As It Gets",
+        "url": "https://open.spotify.com/album/4Pec12P4fgTobswnqjEGUX"
+      },
+      "artists": [
+        {
+          "name": "Matt Evans",
+          "url": "https://open.spotify.com/artist/7AuomWHj23iYxqqvm7c8us"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215524,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/44dCuAjqxZnx3lgYMqjEnL"
+    },
+    {
+      "album": {
         "name": "Christmas Party",
         "url": "https://open.spotify.com/album/69a0N3kvOVpl6cLb5RD5Dg"
       },
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 195848,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak"
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 195848,
       "name": "Cry",
       "url": "https://open.spotify.com/track/2E4mmddIrk7WHGr0ZsUMOa"
@@ -6348,7 +6366,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 92626,
       "name": "Meet Christine",
       "url": "https://open.spotify.com/track/7BvitHMNGMpGqhPtPgBppa"

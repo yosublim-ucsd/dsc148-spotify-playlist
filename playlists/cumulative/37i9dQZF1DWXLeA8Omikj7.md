@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-967 songs - 2 day 21 hr 23 min
+968 songs - 2 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,7 @@
 | [Memory Arc](https://open.spotify.com/track/74EnBZX68SMjd6rTylcpPe) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/4ciNhQuziH6TtbRbDaHicN) | 2:13 | 2019-06-19\* | 2022-04-19 |
 | [memphis](https://open.spotify.com/track/1gr3wnx384k5kcQAs2S1FA) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [memphis](https://open.spotify.com/album/2EGO4ULEQ7dq6tW0G1fbYQ) | 3:14 | 2022-03-11 |  |
 | [Mercy Falls](https://open.spotify.com/track/6oSxm8jKgVbrlKo4Ktd1qr) | [CharlestheFirst](https://open.spotify.com/artist/2FTj5ijy8lP59d2V9dHR6I) | [The Reach EP](https://open.spotify.com/album/2HVGlBI4fH2y5pDBZ6WhZf) | 3:13 | 2019-06-19\* | 2020-08-26 |
-| [Merlins Head \- Aparde Remix](https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Juno \(Remixes\)](https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C) | 4:39 | 2021-10-22 |  |
+| [Merlins Head \- Aparde Remix](https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Juno \(Remixes\)](https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C) | 4:39 | 2021-10-22 | 2024-08-05 |
 | [Metro](https://open.spotify.com/track/2c6JKsE4PPXOtlD5ehbVIS) | [The EMBR](https://open.spotify.com/artist/5td7Gb5zym0uodrde5koHp) | [Metro](https://open.spotify.com/album/0GV6XG6ygQkjF1JuDdpazQ) | 2:32 | 2019-06-19\* | 2020-08-26 |
 | [Midnite](https://open.spotify.com/track/6hhq4YSYbt8ajR3j3mVcHv) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Midnite](https://open.spotify.com/album/4kxI7zTFmwZcfbLfZ1KgJV) | 3:03 | 2019-06-19\* | 2020-08-26 |
 | [Miniature](https://open.spotify.com/track/2Tt3QTJW4mFiJ8kB97U0pU) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Miniature](https://open.spotify.com/album/4B17VWg6cInzyyzyDl1WV4) | 3:05 | 2019-07-25 | 2022-04-20 |
@@ -589,6 +589,7 @@
 | [Observer](https://open.spotify.com/track/5WFbxlg2dUDhSMGkP6VTZe) | [DigiDogz](https://open.spotify.com/artist/1dcQEHWXq8rz6vcSxHiaCY) | [Observer](https://open.spotify.com/album/72P46Z6pwyFLaZChEfqHKG) | 3:42 | 2019-06-19\* | 2022-04-21 |
 | [October](https://open.spotify.com/track/20yRqzq5FEzgirJAUT4TIr) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [October](https://open.spotify.com/album/0ALujZZFOWQaHKKTN5s6m0) | 5:35 | 2021-08-20 | 2022-07-14 |
 | [Odyssée](https://open.spotify.com/track/3J9N8f8pBJxAoFwACKJPHN) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Ceremony](https://open.spotify.com/album/6TL4avCkN5YCaTwsosOP2v) | 4:40 | 2019-06-20 | 2020-10-19 |
+| [Olo](https://open.spotify.com/track/2P8CicrYJacONOh0F9awzs) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Olo](https://open.spotify.com/album/27sPbhj334yQduAIlmLwy7) | 4:37 | 2024-08-02 |  |
 | [On Deck](https://open.spotify.com/track/7hNWjvl7amThfh2uiZjoOa) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:35 | 2021-04-27 | 2022-04-19 |
 | [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 3:42 | 2020-04-23 |  |
 | [One More Hour](https://open.spotify.com/track/1sWnKhSzwYXkdS9ri2HwPE) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [One More Hour](https://open.spotify.com/album/0sp3BCsO6JxuD7JkWl8HAH) | 5:37 | 2024-06-14 |  |

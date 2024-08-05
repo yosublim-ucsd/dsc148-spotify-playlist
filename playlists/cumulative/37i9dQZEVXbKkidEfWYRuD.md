@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,546 songs - 2 day 23 hr 47 min
+1,547 songs - 2 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [BESTIE](https://open.spotify.com/track/6fyQVDmueOJWskMaUacp7t) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l), [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 1:55 | 2022-10-22 | 2022-10-29 |
 | [BESTSELLER](https://open.spotify.com/track/6rnmvTLg2KnF0rZUCgRWHH) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5), [Zivert](https://open.spotify.com/artist/1pvmXh50KezixmCHnp9XvV) | [BESTSELLER](https://open.spotify.com/album/7bA2UGo5MJwtDmyqOqGwnC) | 3:43 | 2021-03-27\* | 2021-05-21 |
 | [Big Tymers](https://open.spotify.com/track/66jiJ5DX54pWNBL2Vt2859) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 3:11 | 2021-10-23 | 2022-01-14 |
-| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-18 |  |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-18 | 2024-08-05 |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-24 | 2023-05-26 |
 | [BITTERSUITE](https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:58 | 2024-05-18 | 2024-05-20 |
 | [BLIND SPOT](https://open.spotify.com/track/6uVpG6300TODQGjOAtXJjh) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:20 | 2023-11-11 | 2023-11-13 |
@@ -251,6 +251,7 @@
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 |  |
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2024-01-01 | 2024-01-03 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2022-01-01 | 2023-01-03 |
+| [FIELD TRIP](https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:47 | 2024-08-04 |  |
 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-25 | 2023-03-27 |
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-03 | 2021-04-06 |
 | [First Day Out](https://open.spotify.com/track/2xrPQGb3D6JGyyTvYOrXc6) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [First Day Out](https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY) | 2:14 | 2022-07-01 | 2022-07-09 |
@@ -678,7 +679,7 @@
 | [SHUM](https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [SHUM](https://open.spotify.com/album/4AQOhI7QMKq9vmHuzduPRk) | 2:52 | 2021-05-21 | 2021-08-04 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-09-27 |
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-10 | 2021-04-19 |
-| [Si Ai](https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Si Ai](https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK) | 2:46 | 2024-07-30 |  |
+| [Si Ai](https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Si Ai](https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK) | 2:46 | 2024-07-30 | 2024-08-05 |
 | [Sidnytseїd](https://open.spotify.com/track/30IlQpX7dVokqnMeuf31Wj) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [Sidnytseїd](https://open.spotify.com/album/692dv170oxmk9LAcSEfA6U) | 2:01 | 2023-01-28 | 2023-02-25 |
 | [Silhouette](https://open.spotify.com/track/077yUjKZ53I5GK8C7aS5by) | [MiyaGi & Endspiel](https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4) | [HATTORI](https://open.spotify.com/album/5AyqSPIOfYqVDIwAOdAPSi) | 3:49 | 2022-10-29 | 2022-11-06 |
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-07-31 |
@@ -1287,7 +1288,7 @@
 | [По Глазам](https://open.spotify.com/track/53bbEINuw0ez3ntLcqYCu2) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [АРТЁМ](https://open.spotify.com/album/41uurV69BIoO6FwaRdXkWo) | 2:00 | 2021-03-27\* | 2021-05-05 |
 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 | 2023-12-01 |  |
 | [Погані сусіди](https://open.spotify.com/track/16buytNF31fLKzDP9q7ZEg) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Погані сусіди](https://open.spotify.com/album/4cag70AzB98J6JePUV9pqv) | 2:53 | 2023-05-07 | 2023-06-27 |
-| [Погляд](https://open.spotify.com/track/66Xj2OpnDALdW0G509b9yY) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [SOBOL'](https://open.spotify.com/artist/2tzrAdVhSe0qIQBpedBCHh) | [Погляд](https://open.spotify.com/album/2U3ecGQPqMwXz4vSOps8Td) | 2:56 | 2023-03-08 | 2024-07-27 |
+| [Погляд](https://open.spotify.com/track/66Xj2OpnDALdW0G509b9yY) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [SOBOL'](https://open.spotify.com/artist/2tzrAdVhSe0qIQBpedBCHh) | [Погляд](https://open.spotify.com/album/2U3ecGQPqMwXz4vSOps8Td) | 2:56 | 2023-03-08 |  |
 | [Погоди](https://open.spotify.com/track/5sJt5rmSaKTQyAymKx6e1W) | [DSPRITE](https://open.spotify.com/artist/69PhufCTrndjECAUsBPFtw) | [Погоди](https://open.spotify.com/album/4yNMRTBvOZvRDLGSNLMOtQ) | 1:52 | 2021-11-26 | 2021-12-19 |
 | [Под Звездопадом](https://open.spotify.com/track/4XNPw2OPBGxIIhNLnNbZIi) | [Tima Belorusskih](https://open.spotify.com/artist/0bOSNnz9bGAUlV3OJ3rnQW) | [Под Звездопадом](https://open.spotify.com/album/0YSNqKlD2U2GHaxKCF4XB3) | 3:36 | 2021-06-20 | 2021-07-04 |
 | [ПОДАРОК](https://open.spotify.com/track/1Mm9DXmUXT2xiCQAZPEEaK) | [АКУЛИЧ](https://open.spotify.com/artist/5DUv28BBZb6uQ0VLaZ36XZ), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ПОДАРОК](https://open.spotify.com/album/6CgHw7fVn7IGRn6UxLbIf3) | 2:39 | 2024-02-17 | 2024-03-18 |

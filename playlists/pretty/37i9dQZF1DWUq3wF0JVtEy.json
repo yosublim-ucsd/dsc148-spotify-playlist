@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 933617,
+  "num_followers": 933645,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-07-12 15:50:21",
       "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
-    },
-    {
-      "added_at": "2024-07-12 15:50:21",
-      "album": {
         "name": "808",
         "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2024-07-12 15:50:21",
       "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
       },
       "artists": [
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "added_at": "2024-07-12 15:50:21",
@@ -1299,6 +1283,22 @@
       "duration_ms": 144677,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
+    },
+    {
+      "added_at": "2024-07-12 15:50:21",
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2024-07-12 15:50:21",
@@ -1647,30 +1647,6 @@
     {
       "added_at": "2024-07-12 15:50:21",
       "album": {
-        "name": "Mind Awake, Body Asleep",
-        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "HYPERBEAM",
-          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Mind Awake, Body Asleep",
-      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
-    },
-    {
-      "added_at": "2024-07-12 15:50:21",
-      "album": {
         "name": "Quick Highs",
         "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
       },
@@ -1707,22 +1683,26 @@
     {
       "added_at": "2024-07-12 15:50:21",
       "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
+        "name": "Mind Awake, Body Asleep",
+        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
       "artists": [
         {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         },
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
         }
       ],
-      "duration_ms": 155520,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
+      "duration_ms": 150447,
+      "name": "Mind Awake, Body Asleep",
+      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
     },
     {
       "added_at": "2024-07-12 15:50:21",
@@ -1747,6 +1727,26 @@
       "duration_ms": 244218,
       "name": "B\u20acNZ",
       "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
+    },
+    {
+      "added_at": "2024-07-12 15:50:21",
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
       "added_at": "2024-07-12 15:50:21",

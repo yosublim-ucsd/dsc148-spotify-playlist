@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Hermanos Guti\u00e9rrez",
-  "num_followers": 23335,
+  "num_followers": 23364,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
       "artists": [
         {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 234080,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
+      "duration_ms": 256773,
+      "name": "Flaco",
+      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
-      "duration_ms": 256773,
-      "name": "Flaco",
-      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
+      "duration_ms": 234080,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -227,22 +227,6 @@
       "duration_ms": 234040,
       "name": "Hermosa Drive",
       "url": "https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 321662,
-      "name": "Como me encanta",
-      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -291,6 +275,22 @@
       "duration_ms": 199936,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 321662,
+      "name": "Como me encanta",
+      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Wacha Checa",
         "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
       },
@@ -403,38 +419,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "mis compas tan aqu\u00ed",
+        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "mis compas tan aqu\u00ed",
+      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Larga Duraci\u00f3n",
         "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 262184,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "mis compas tan aqu\u00ed",
-        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "mis compas tan aqu\u00ed",
-      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Mi Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 237596,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Casa en el \u00e1rbol",
         "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Prender\u00e9 Una Velita",
-        "url": "https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI"
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m"
       },
       "artists": [
         {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 195335,
-      "name": "Tranquilo, Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q"
+      "duration_ms": 237596,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 217609,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Prender\u00e9 Una Velita",
+        "url": "https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 195335,
+      "name": "Tranquilo, Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
+        "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 236301,
+      "name": "Te Lo Debo Contar",
+      "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
-        "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
+        "name": "Oh, Sweet Honey",
+        "url": "https://open.spotify.com/album/6vQABaZxu3xzRcyFlIXomN"
       },
       "artists": [
         {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 236301,
-      "name": "Te Lo Debo Contar",
-      "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
+      "duration_ms": 230153,
+      "name": "Oh, Sweet Honey",
+      "url": "https://open.spotify.com/track/2Yd6qoD71geLrQN436PuJt"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 235966,
       "name": "hastalamadre",
       "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Oh, Sweet Honey",
-        "url": "https://open.spotify.com/album/6vQABaZxu3xzRcyFlIXomN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 230153,
-      "name": "Oh, Sweet Honey",
-      "url": "https://open.spotify.com/track/2Yd6qoD71geLrQN436PuJt"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Caf\u00e9 Conmigo",
+        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 176238,
+      "name": "Caf\u00e9 Conmigo",
+      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Veintitr\u00e9s",
         "url": "https://open.spotify.com/album/7ARpIwyTK8jDS5lDCoBdFL"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 208029,
       "name": "Veintitr\u00e9s",
       "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Caf\u00e9 Conmigo",
-        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 176238,
-      "name": "Caf\u00e9 Conmigo",
-      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Entre Los Dos",
-        "url": "https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 215791,
-      "name": "Entre Los Dos",
-      "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "La \u00daltima Ola",
         "url": "https://open.spotify.com/album/14yYxeHiP07nFfEYanYjSq"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+        "name": "Entre Los Dos",
+        "url": "https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
         }
       ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
+      "duration_ms": 215791,
+      "name": "Entre Los Dos",
+      "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 235531,
       "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
       "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "LIBRE",
-        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 206803,
-      "name": "Todo lo que puedo darte",
-      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "El Bosque Finland\u00e9s",
         "url": "https://open.spotify.com/album/4VoNeN99ahd1uhJYwX2rBs"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 151544,
       "name": "Estuve ah\u00ed",
       "url": "https://open.spotify.com/track/0lSaZz9iV1StO8USF1IkJx"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "LIBRE",
+        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 206803,
+      "name": "Todo lo que puedo darte",
+      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
     },
     {
       "added_at": "2024-07-19 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 166 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 166 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 82 | [Move](https://open.spotify.com/track/4F93hL6knRV2DYdo50r63z) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Move](https://open.spotify.com/album/56aEePjHqXCuNXtoBQxNhn) | 3:09 |
 | 83 | [Love Just Ain't Enough](https://open.spotify.com/track/6ccP5gih4lhJWoYrBK3ZgH) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:36 |
 | 84 | [Declaration](https://open.spotify.com/track/5h3sUmbwEdFkxejGryYhj6) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:38 |
-| 85 | [Out For The Weekend](https://open.spotify.com/track/7rl1Z4u5EEtG03Nv6NohsB) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Out For The Weekend](https://open.spotify.com/album/5xTD5saqA6XYfi3A7C8nyA) | 3:27 |
-| 86 | [Kite \(with Olly Alexander\)](https://open.spotify.com/track/6AN0wDN46SCN5TA3MRVFoD) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Kite \(with Olly Alexander\)](https://open.spotify.com/album/0zy151IhoJGNdB8crkkKiQ) | 2:46 |
+| 85 | [Kite \(with Olly Alexander\)](https://open.spotify.com/track/6AN0wDN46SCN5TA3MRVFoD) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Kite \(with Olly Alexander\)](https://open.spotify.com/album/0zy151IhoJGNdB8crkkKiQ) | 2:46 |
+| 86 | [Out For The Weekend](https://open.spotify.com/track/7rl1Z4u5EEtG03Nv6NohsB) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Out For The Weekend](https://open.spotify.com/album/5xTD5saqA6XYfi3A7C8nyA) | 3:27 |
 | 87 | [Lonely](https://open.spotify.com/track/0u0UwHTBElRtS8QImH1oR4) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 2:40 |
 | 88 | [Loudmouth](https://open.spotify.com/track/6cCHKwvTMIrA0SyRjkoN6C) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 4:02 |
 | 89 | [Bloody Hell](https://open.spotify.com/track/1BQ17JlAkS8cgTkvelXQHP) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:54 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 165 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 166 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/5PpOMBlbEqS5FIjZNOrkTZ) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbYdigAAAADFtJ6Qg3Bat1VpG6pEDOXW`
+Snapshot ID: `AbYjKgAAAAC46MNLIlZ6ko6X75rePmvi`

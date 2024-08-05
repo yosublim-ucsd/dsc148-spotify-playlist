@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230 likes - 129 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 230 likes - 130 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 58 | [Shoot Down The Sun](https://open.spotify.com/track/1agXGm6VaKxT5DckyuhCJc) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Shoot Down The Sun](https://open.spotify.com/album/1E9dHNaYD5tfmslrOwNRyj) | 3:10 |
 | 59 | [You Matter to Me](https://open.spotify.com/track/2Kr1yWpmD7t3wyuu2fVhMU) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:13 |
 | 60 | [Start Again](https://open.spotify.com/track/1FypvNODDT5HbtPbIDsugy) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:40 |
-| 61 | [Blueprints](https://open.spotify.com/track/3anbBxikNOxuhTyjgQbATh) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Blueprints](https://open.spotify.com/album/7sPrHqcvrDmYO9AhKV5Tgo) | 3:32 |
-| 62 | [Humans](https://open.spotify.com/track/7KmEHD4bLjod8nhGFYYU2X) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Humans](https://open.spotify.com/album/5OPflo8FBOC3I0PySfpfef) | 3:33 |
+| 61 | [Humans](https://open.spotify.com/track/7KmEHD4bLjod8nhGFYYU2X) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Humans](https://open.spotify.com/album/5OPflo8FBOC3I0PySfpfef) | 3:33 |
+| 62 | [Blueprints](https://open.spotify.com/track/3anbBxikNOxuhTyjgQbATh) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Blueprints](https://open.spotify.com/album/7sPrHqcvrDmYO9AhKV5Tgo) | 3:32 |
 | 63 | [The Answer](https://open.spotify.com/track/4FNs5xchSa49YAzHh8QG09) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [The Years in Between](https://open.spotify.com/album/54vQHuNLb2W5K8e9vU6a8y) | 2:51 |
 | 64 | [Novocaine](https://open.spotify.com/track/05TZjnjIisRVDp37lkhq8e) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:18 |
 | 65 | [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 83 | [Air](https://open.spotify.com/track/24xjtgb8iTOIicQPckLhV7) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [37 Adventures Presents Odd Numbers Vol\. 1](https://open.spotify.com/album/26hQ13HaEXraD2GTYZ337y) | 4:02 |
 | 84 | [Gravity \(feat\. Tyler Shaw\)](https://open.spotify.com/track/2cGoqq76QeKeL8H5MSXIlS) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [ORIGIN](https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG) | 3:03 |
 | 85 | [Always Love](https://open.spotify.com/track/3esb4GVLQ2uUdVSwIWTwWD) | [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Always Love](https://open.spotify.com/album/0DCVDrAgMoOfL1ZCGG9lsa) | 2:31 |
-| 86 | [Hollow](https://open.spotify.com/track/1wzkXmEypIDfp1tMJfrsII) | [Tom King](https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT) | [Confessions of a Lonely Heart](https://open.spotify.com/album/3AcdIC0iguxQRnrOx677k7) | 3:17 |
-| 87 | [Find Love Now](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Find Love Now](https://open.spotify.com/album/3fHQQAcbPXEMXPZuMCbapF) | 2:42 |
+| 86 | [Find Love Now](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Find Love Now](https://open.spotify.com/album/3fHQQAcbPXEMXPZuMCbapF) | 2:42 |
+| 87 | [Hollow](https://open.spotify.com/track/1wzkXmEypIDfp1tMJfrsII) | [Tom King](https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT) | [Confessions of a Lonely Heart](https://open.spotify.com/album/3AcdIC0iguxQRnrOx677k7) | 3:17 |
 | 88 | [Remember Me \(feat\. Stealth\)](https://open.spotify.com/track/2P05O4MevMZFthpwZEDGBh) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Remember Me \(feat\. Stealth\)](https://open.spotify.com/album/6DFkcVQt8csmoaKXhzBU8y) | 6:53 |
 | 89 | [Silver Linings](https://open.spotify.com/track/3HH0rLObJZRRe1SK00Og6H) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Silver Linings](https://open.spotify.com/album/72T0alpDO0p68JS48Zswgu) | 3:53 |
 | 90 | [strangers](https://open.spotify.com/track/6ErwR2KyOsB0xc4oYFMPkW) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:21 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 108 | [Paradise](https://open.spotify.com/track/02QcMeK6YrwvOWQ9XWpyYp) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Cautionary Tales of Youth](https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9) | 3:05 |
 | 109 | [All Around The World](https://open.spotify.com/track/68O6kIl42XxQBltMi3g8mZ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:31 |
 | 110 | [Better Man](https://open.spotify.com/track/75o9dfDkw3F6hjSujBJQZi) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Better Man](https://open.spotify.com/album/6pFTHq7uBtEGJBjlOx5YDn) | 3:14 |
-| 111 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
-| 112 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
+| 111 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
+| 112 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
 | 113 | [Trouble](https://open.spotify.com/track/7zPBtvZpPAOy9fgfdgmyiC) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [We Were Thunder](https://open.spotify.com/album/6jYRzhiEnzVANGGHHJZ1C3) | 3:21 |
 | 114 | [Hearts on Fire](https://open.spotify.com/track/0VfCWPRxguIufZ4KMDrlAr) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 4:00 |
 | 115 | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/track/63fOfmMz3g2xEwc3CbVPhv) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/album/2P6UbvQ5yPsFHspB9CO5mj) | 2:31 |
@@ -137,5 +137,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 127 | [Blame Myself](https://open.spotify.com/track/0pd0n1og6VABJdjoDdvP2R) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 3:15 |
 | 128 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 129 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
+| 130 | [Before You Let Me Down](https://open.spotify.com/track/778HnQTXflDcZVMWnCwrIf) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2) | [Before You Let Me Down](https://open.spotify.com/album/5cUVqdVm9a0Ahuw1VPUnEA) | 3:03 |
 
-Snapshot ID: `AbYdowAAAAB5MoWKGhYuupjyHcn5Ptpq`
+Snapshot ID: `AbYjQwAAAACmocKq1Fil0MkVqta9G/Sz`

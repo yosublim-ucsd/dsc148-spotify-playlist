@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-774 songs - 1 day 18 hr 13 min
+775 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 | 2022-10-19 | 2023-07-15 |
 | [Dance With Me](https://open.spotify.com/track/5TdzPzC6hlBT5cofaaqybi) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:20 | 2023-04-28 | 2023-06-03 |
 | [Dancing](https://open.spotify.com/track/6x1jUK7H6qZVS265OCnlVw) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Endless Summer](https://open.spotify.com/album/1i1hnI5ABCJE0CbbLsuIL1) | 4:05 | 2021-12-15 | 2022-04-08 |
-| [Dancing in My Room](https://open.spotify.com/track/3kRNoUvagaaJF1xCgdNRgH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [KALENA](https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB) | [Dancing in My Room](https://open.spotify.com/album/022Ax0SL7UAnIRSvyF220j) | 3:38 | 2023-07-14 |  |
+| [Dancing in My Room](https://open.spotify.com/track/3kRNoUvagaaJF1xCgdNRgH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [KALENA](https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB) | [Dancing in My Room](https://open.spotify.com/album/022Ax0SL7UAnIRSvyF220j) | 3:38 | 2023-07-14 | 2024-08-05 |
 | [Dawn Rise](https://open.spotify.com/track/6TOqU9kVOg0Z16EEN3FKOm) | [Colton Bryan](https://open.spotify.com/artist/1x9dy0YY8U7OAbT3opvFjO) | [Dawn Rise](https://open.spotify.com/album/4fRgWwUzS0uadgSBXdRJMH) | 3:30 | 2021-12-15 | 2022-10-19 |
 | [Day by Day \- A COLORS SHOW](https://open.spotify.com/track/0Da3eqAgSgLp4UiVdCjJJ1) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Day by Day \- A COLORS SHOW](https://open.spotify.com/album/7vggzM9Ag5clwyHjXuZU8F) | 3:50 | 2023-09-29 | 2024-07-09 |
 | [Daydream](https://open.spotify.com/track/57OukQCxwo81b1v9B7iuhg) | [Cariss Auburn](https://open.spotify.com/artist/2ufvSyz0aDtPdSTzB6a3b1) | [Daydream](https://open.spotify.com/album/5zUC2dAZOqF34yXVNI6g91) | 3:16 | 2021-12-15 | 2022-06-11 |
@@ -160,6 +160,7 @@
 | [Desperate Soul](https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Desperate Soul](https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4) | 2:07 | 2023-03-24 | 2024-06-16 |
 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 | 2022-09-29 | 2023-04-01 |
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-04-07 | 2023-08-12 |
+| [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 | 2024-08-02 |  |
 | [Do 2 Me](https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Do 2 Me](https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf) | 3:20 | 2021-12-15 | 2023-04-25 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-06-30 | 2023-05-13 |
 | [Do It out of Love](https://open.spotify.com/track/0B6fMeNXW2Ug9R5u23cbb0) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Do It out of Love](https://open.spotify.com/album/7nQpVw6tKZk4mieDLuhBMm) | 3:33 | 2024-06-21 |  |
@@ -300,7 +301,7 @@
 | [I Hope](https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [I Hope](https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9) | 2:33 | 2023-04-07 | 2023-08-26 |
 | [I Know I Know I Know](https://open.spotify.com/track/1dpGE0PERvAOk0kSpzcBzN) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [I Know I Know I Know](https://open.spotify.com/album/1vaQ8RLfPE0BmQsEKKT5ab) | 4:04 | 2021-12-15 | 2022-07-29 |
 | [I Like That](https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:20 | 2023-02-17 | 2023-02-18 |
-| [I Love Being Invisible](https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [I Love Being Invisible](https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI) | 3:01 | 2023-03-17 |  |
+| [I Love Being Invisible](https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [I Love Being Invisible](https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI) | 3:01 | 2023-03-17 | 2024-08-05 |
 | [I Miss My Dawgs](https://open.spotify.com/track/1nkWeF77qk4RkLpn4omPWL) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [I Miss My Dawgs](https://open.spotify.com/album/0sUDfuTYoVshMqFstFSrNz) | 2:22 | 2022-06-30 | 2022-10-13 |
 | [I Miss My Dawgs](https://open.spotify.com/track/37HoJKXTnuru9ZPBmduLZ0) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [I Miss My Dawgs](https://open.spotify.com/album/7KWwx7xR4GcwlngBP2Wyop) | 2:22 | 2021-12-15 | 2022-07-29 |
 | [I Miss My Dawgs](https://open.spotify.com/track/4TGr7DABbGcswqRBbsgVGo) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [I Miss My Dawgs](https://open.spotify.com/album/4LD60CxKu26yXwCWDcupau) | 2:22 | 2023-01-12 | 2023-03-26 |
@@ -659,7 +660,7 @@
 | [Sweet Nothing](https://open.spotify.com/track/2tF7vtDQKT8SW1E0oxQn2U) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Sweet Nothing](https://open.spotify.com/album/2UWJzgUpIJpurnzuT1bpqT) | 3:29 | 2023-05-26 | 2023-07-15 |
 | [Table for Two](https://open.spotify.com/track/4QcoLNjHgwDIoMvKeIm6aK) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP), [Bran Mazz](https://open.spotify.com/artist/2gAvPf7H37Rbp6B4DimriZ) | [Table for Two](https://open.spotify.com/album/2n5GM1tmlT3LwTicApBbUG) | 3:27 | 2021-12-15 | 2023-03-10 |
 | [Take 2](https://open.spotify.com/track/4ds7pOjZFtjJaXusB5IOoO) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 2:25 | 2024-06-15 |  |
-| [Take It Easy \(Miles' Song\)](https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES PT III](https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q) | 3:11 | 2023-11-19 | 2024-08-03 |
+| [Take It Easy \(Miles' Song\)](https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES PT III](https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q) | 3:11 | 2023-11-19 |  |
 | [Take Off Your Cool \(feat\. Norah Jones\)](https://open.spotify.com/track/2faSzprTWJ7L1EkZNko4ww) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:38 | 2021-12-15 | 2023-04-15 |
 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/2XNYdSnpZvwlFr9gGWM8uX) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/album/6jNc9ab3Twwr4U3iBQM7wq) | 3:24 | 2021-12-15 | 2022-04-07 |
 | [Talk about us](https://open.spotify.com/track/6issJt39BhQbPQK7mM7KxB) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Tell Jimmy](https://open.spotify.com/album/7qW0v91QqdcYVuu4sVMLVt) | 3:02 | 2024-02-17 | 2024-07-29 |

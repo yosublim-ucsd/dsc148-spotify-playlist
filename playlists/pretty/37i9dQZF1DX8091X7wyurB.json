@@ -1,6 +1,6 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 145419,
+  "num_followers": 145658,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "One Name (Jesus) [Live]",
         "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 559267,
       "name": "One Name (Jesus) - Live",
       "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Glory & Wonder",
-        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Tremble - Live",
-      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -455,6 +439,22 @@
       "duration_ms": 168000,
       "name": "Jireh (My Provider)",
       "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Glory & Wonder",
+        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Tremble - Live",
+      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -589,30 +589,6 @@
       "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
     },
     {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "There Is More (Live)",
-        "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Reuben Morgan",
-          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
-        }
-      ],
-      "duration_ms": 329080,
-      "name": "Who You Say I Am - Live",
-      "url": "https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Another One (feat. Chris Brown)",
@@ -665,36 +641,28 @@
       "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
-      "added_at": "2024-05-17 00:01:00",
+      "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+        "name": "There Is More (Live)",
+        "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
       "artists": [
         {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 406680,
-      "name": "Defe Defe",
-      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Koseunti",
-        "url": "https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z"
-      },
-      "artists": [
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
         }
       ],
-      "duration_ms": 263575,
-      "name": "Koseunti",
-      "url": "https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas"
+      "duration_ms": 329080,
+      "name": "Who You Say I Am - Live",
+      "url": "https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -729,24 +697,36 @@
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
     },
     {
-      "added_at": "2024-07-19 00:01:00",
+      "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Let There Be Light (Deluxe)",
-        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
         }
       ],
-      "duration_ms": 341080,
-      "name": "What A Beautiful Name - Live",
-      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
+      "duration_ms": 406680,
+      "name": "Defe Defe",
+      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Koseunti",
+        "url": "https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 263575,
+      "name": "Koseunti",
+      "url": "https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -781,6 +761,34 @@
       "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
     },
     {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "The Maverick Way Complete",
+        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "duration_ms": 498332,
+      "name": "For My Good (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
+    },
+    {
       "added_at": "2024-07-19 00:01:00",
       "album": {
         "name": "All Of The Above",
@@ -799,6 +807,26 @@
       "duration_ms": 330360,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Let There Be Light (Deluxe)",
+        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 341080,
+      "name": "What A Beautiful Name - Live",
+      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -841,22 +869,6 @@
       "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
     },
     {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
@@ -879,34 +891,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "The Maverick Way Complete",
-        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Todd Galberth",
-          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
-        }
-      ],
-      "duration_ms": 498332,
-      "name": "For My Good (feat. Todd Galberth)",
-      "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Elevated",
         "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 234667,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
     },
     {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Spirit Of Praise, Vol. 9 (Live)",
@@ -1077,24 +1061,20 @@
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
     },
     {
-      "added_at": "2024-06-14 00:01:00",
+      "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Oba Awon Oba",
-        "url": "https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW"
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
         }
       ],
-      "duration_ms": 733135,
-      "name": "Oba Awon Oba",
-      "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1113,40 +1093,40 @@
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
-      "added_at": "2024-05-03 00:01:00",
+      "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
         }
       ],
-      "duration_ms": 170118,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
+      "duration_ms": 279160,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
+      "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "Truth in Sounds",
-        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+        "name": "Oba Awon Oba",
+        "url": "https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW"
       },
       "artists": [
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 546156,
-      "name": "I Get Backing",
-      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+      "duration_ms": 733135,
+      "name": "Oba Awon Oba",
+      "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1191,6 +1171,42 @@
       "duration_ms": 409146,
       "name": "Cornerstone - Live",
       "url": "https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 170118,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 280424,
+      "name": "Chinedum",
+      "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1285,22 +1301,6 @@
       "url": "https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 280424,
-      "name": "Chinedum",
-      "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
-    },
-    {
       "added_at": "2024-03-29 00:01:00",
       "album": {
         "name": "Moyongcwele",
@@ -1315,6 +1315,22 @@
       "duration_ms": 309473,
       "name": "Moyongcwele",
       "url": "https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "You Do This One",
+        "url": "https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 226649,
+      "name": "You Do This One",
+      "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1383,22 +1399,6 @@
       "duration_ms": 537866,
       "name": "Your Glory / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "You Do This One",
-        "url": "https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 226649,
-      "name": "You Do This One",
-      "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "That's My King",
+        "url": "https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250477,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "These Are The Days (feat. Blessing Offor)",
         "url": "https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ"
       },
@@ -1531,38 +1547,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "That's My King",
-        "url": "https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250477,
-      "name": "That's My King",
-      "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "All Things",
-        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "All Things",
-      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Ifunanya",
         "url": "https://open.spotify.com/album/76QHVLQYinJCGAUeQS6d2e"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 218166,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "All Things",
+        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "All Things",
+      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
     },
     {
       "added_at": "2024-02-16 00:01:00",

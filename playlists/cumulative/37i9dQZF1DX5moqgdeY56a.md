@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-140 songs - 8 hr 24 min
+141 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cien Años](https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 3:42 | 2021-12-13 | 2024-04-19 |
 | [Cien Años](https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Cien Años](https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A) | 3:42 | 2024-04-09 |  |
 | [Como Tu Mujer](https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:23 | 2024-04-09 |  |
+| [Compromiso Descartado](https://open.spotify.com/track/6x5tKn6RhX8lje0KvZFJH6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/250gRUcDCQmYOhxgPU2aIj) | 2:40 | 2024-04-09 |  |
 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 | 2022-09-22 | 2023-12-25 |
 | [Cruz de Olvido](https://open.spotify.com/track/7gFj8NlJJ9KwkFvKaQwzxA) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 3:45 | 2024-04-09 |  |
 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/7MaFKBLhW220azgglkJiws) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:33 | 2024-04-09 |  |
@@ -93,7 +94,7 @@
 | [Nada de Ti](https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nada de Ti](https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q) | 3:43 | 2023-10-13 |  |
 | [Nadie Como Tú](https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nadie Como Tú](https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1) | 3:30 | 2023-10-13 |  |
 | [Nadie Es Eterno](https://open.spotify.com/track/4i3uCgeimloYd8UgEj8Rkl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 6](https://open.spotify.com/album/4KtbBbWdNmdbuNZj4QO3Ca) | 2:52 | 2021-12-13 | 2024-04-19 |
-| [Navajas En El Viento](https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Navajas En El Viento](https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj) | 3:45 | 2021-12-13 |  |
+| [Navajas En El Viento](https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Navajas En El Viento](https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj) | 3:45 | 2021-12-13 | 2024-08-05 |
 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/0mqT6BK2rnEtuwLB5OPkVb) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:11 | 2024-04-09 |  |
 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:11 | 2021-12-13 | 2024-04-19 |
 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/51gNwRZGaM3SE84HcnSO06) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Éxitos Para La Fiesta \-Las Numero Uno\-](https://open.spotify.com/album/0zqHvACI7LFDz2z2bMg9Zk) | 4:11 | 2022-09-22 | 2022-11-13 |

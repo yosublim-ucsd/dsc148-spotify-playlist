@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-608 songs - 1 day 7 hr 18 min
+610 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-06-08 | 2024-08-02 |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-28 | 2024-06-01 |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-25 |  |
+| [530](https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 4:50 | 2024-08-04 |  |
 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-04 | 2024-07-03 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-30 | 2024-06-02 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:51 | 2024-06-01 |  |
@@ -164,10 +165,11 @@
 | [Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Internet Famous](https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6) | 2:03 | 2024-04-04 | 2024-05-02 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-04-16 | 2024-05-08 |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-07-09 | 2024-07-17 |
+| [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 | 2024-08-04 |  |
 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-04-16 | 2024-05-15 |
 | [Feel Like Hell Today](https://open.spotify.com/track/2vAb9wcdtpEEo076TgO0GV) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Feel Like Hell Today](https://open.spotify.com/album/7A5cd8etZqqXpbXUsnLdE5) | 2:56 | 2024-05-28 | 2024-06-09 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-09 | 2024-07-14 |
-| [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2024-04-15 |  |
+| [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2024-04-15 | 2024-08-05 |
 | [Fighter \- Eurovision Version](https://open.spotify.com/track/6K4Opq24wkYBidAuLpqutv) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [Fighter \(Eurovision Version\)](https://open.spotify.com/album/3zGEOLJy9x96GeYgRPoXEO) | 2:59 | 2024-05-16 | 2024-05-20 |
 | [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 | 2024-04-28 | 2024-05-02 |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-30 | 2024-05-08 |
@@ -496,7 +498,7 @@
 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 | 2024-03-22 | 2024-04-02 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-01-29 | 2024-03-16 |
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-16 | 2024-08-04 |
-| [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 | 2024-08-01 |  |
+| [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 | 2024-08-01 | 2024-08-05 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-01-29 | 2024-05-08 |
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/3W2kGv8CcwRl2MWQN5vxKL) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 | 2024-02-27 | 2024-03-15 |
 | [Subconscious](https://open.spotify.com/track/49tZayx9YX7rAFwOVdwQhw) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 5:37 | 2024-02-09 | 2024-02-12 |

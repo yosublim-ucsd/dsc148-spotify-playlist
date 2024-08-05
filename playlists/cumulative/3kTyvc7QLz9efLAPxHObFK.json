@@ -30327,6 +30327,28 @@
     },
     {
       "album": {
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/40uderlqt7fwSjrb1X10k9"
+      },
+      "artists": [
+        {
+          "name": "Dead X",
+          "url": "https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma"
+        },
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/1O4SkvHwM1Y04NDVMvbBfO"
+    },
+    {
+      "album": {
         "name": "Wanna Be Free",
         "url": "https://open.spotify.com/album/4crhvQ4yIMZJElfCVPoIKn"
       },

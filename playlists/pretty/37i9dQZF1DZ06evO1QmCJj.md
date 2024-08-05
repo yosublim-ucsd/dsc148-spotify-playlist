@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 ### [This Is Lola Indigo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QmCJj)
 
-> This Is Lola Indigo\. Los temas esenciales, todos en una lista.
+> This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,445 likes - 52 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,463 likes - 52 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 51 | [Piketaison](https://open.spotify.com/track/6Oqk95NE1dakJBbO2ZaYxv) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [CL34N](https://open.spotify.com/album/4mGvnfMaCkGXo1LHWjiOmD) | 3:01 |
 | 52 | [Tamagochi](https://open.spotify.com/track/2SQ1gU5lP0C6yAZQu37iTr) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:46 |
 
-Snapshot ID: `ZqrQAAAAAACvgNu9HQ35NDDpCm3Yb7W7`
+Snapshot ID: `ZqrQAAAAAAArHBXiCIiM3oevtp6GL68r`

@@ -1,15 +1,175 @@
 {
   "description": "BLACKPINK in our area! Join us as we celebrate 8 years with BLACKPINK!",
-  "num_followers": 3213166,
+  "num_followers": 3214833,
   "original_name": "This Is BLACKPINK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq2dMAAAAAC1hORMflup+2MjIZDE1IiM",
+  "snapshot_id": "Zq7usAAAAABEcXrVJwmDQ9tyav4tnuDQ",
   "tracks": [
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB"
+    },
+    {
+      "added_at": "2024-08-04 03:00:00",
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "Don't Know What To Do",
+      "url": "https://open.spotify.com/track/7ibZWzytUh41z5ycK2I5N8"
+    },
+    {
+      "added_at": "2024-08-04 03:00:00",
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 191225,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/6MN6oiT2d7qxYEOwXwgV34"
+    },
+    {
+      "added_at": "2024-08-04 03:00:00",
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 191030,
+      "name": "Hope Not",
+      "url": "https://open.spotify.com/track/6euC2yxyQA6uztolUYnhiW"
+    },
+    {
+      "added_at": "2024-08-04 03:00:00",
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 201225,
+      "name": "DDU-DU DDU-DU (Remix)",
+      "url": "https://open.spotify.com/track/0NdEvupVBxG5zyVLGtpJpg"
+    },
+    {
+      "added_at": "2024-08-04 03:00:00",
+      "album": {
+        "name": "KILL THIS LOVE (JP Ver.)",
+        "url": "https://open.spotify.com/album/0uWttVLwkFxcW1PkBAsmZd"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "KILL THIS LOVE - JP Ver.",
+      "url": "https://open.spotify.com/track/3mpGXkkjhY8K5C9OsaCMBo"
+    },
+    {
+      "added_at": "2024-08-04 03:00:00",
+      "album": {
+        "name": "KILL THIS LOVE (JP Ver.)",
+        "url": "https://open.spotify.com/album/0uWttVLwkFxcW1PkBAsmZd"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "DON'T KNOW WHAT TO DO - JP Ver.",
+      "url": "https://open.spotify.com/track/38eKmp6QjELXKgLh0pePfG"
+    },
+    {
+      "added_at": "2024-08-04 03:00:00",
+      "album": {
+        "name": "KILL THIS LOVE (JP Ver.)",
+        "url": "https://open.spotify.com/album/0uWttVLwkFxcW1PkBAsmZd"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "KICK IT - JP Ver.",
+      "url": "https://open.spotify.com/track/6HHbjSWWGh6j9JcmLZ41Py"
+    },
+    {
+      "added_at": "2024-08-04 03:00:00",
+      "album": {
+        "name": "KILL THIS LOVE (JP Ver.)",
+        "url": "https://open.spotify.com/album/0uWttVLwkFxcW1PkBAsmZd"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "HOPE NOT - JP Ver.",
+      "url": "https://open.spotify.com/track/04xEHIAK4MsI7ZSN1hSDQN"
+    },
+    {
+      "added_at": "2024-08-04 03:00:00",
+      "album": {
+        "name": "DDU-DU DDU-DU (Remix JP Ver.)",
+        "url": "https://open.spotify.com/album/37OWAhKTXeHFcPPTkADa5v"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 201225,
+      "name": "DDU-DU DDU-DU - Remix JP Ver.",
+      "url": "https://open.spotify.com/track/2ERO7JFeaRMIdlEn9JTryn"
+    },
+    {
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
@@ -25,7 +185,7 @@
       "url": "https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
@@ -41,7 +201,7 @@
       "url": "https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
@@ -57,7 +217,7 @@
       "url": "https://open.spotify.com/track/2r5oD7twaQTsv5KoRS6v16"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
@@ -73,7 +233,7 @@
       "url": "https://open.spotify.com/track/3AyLh4R4D3fQfyqCsTdFf3"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
         "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
@@ -89,7 +249,7 @@
       "url": "https://open.spotify.com/track/4jUEHIrc443f743JbyLN0y"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
         "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
@@ -105,7 +265,7 @@
       "url": "https://open.spotify.com/track/02h4inVwwNX1cMuGCDtsgV"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
         "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
@@ -121,7 +281,7 @@
       "url": "https://open.spotify.com/track/6OKXcx7tClGAS0o2cOTl2v"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
         "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
@@ -137,7 +297,7 @@
       "url": "https://open.spotify.com/track/7IS4NciwYPs1wMywOKx69z"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "As If It's Your Last",
         "url": "https://open.spotify.com/album/6IzQb2kLydYNfzmKXvmndX"
@@ -153,7 +313,7 @@
       "url": "https://open.spotify.com/track/1Zyd6zQnC6XIIzmg3hP7Ot"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
         "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
@@ -169,7 +329,7 @@
       "url": "https://open.spotify.com/track/5nIjOnMbC0QDMrYFLGx0yV"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK (Japanese Version)",
         "url": "https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0"
@@ -185,7 +345,7 @@
       "url": "https://open.spotify.com/track/6kZE8ZhOUM2rGmeG9qk7Y9"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK (Japanese Version)",
         "url": "https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0"
@@ -201,7 +361,7 @@
       "url": "https://open.spotify.com/track/2IbQ5hQVrzg4e6bNruEqOs"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK (Japanese Version)",
         "url": "https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0"
@@ -217,7 +377,7 @@
       "url": "https://open.spotify.com/track/6Fcoih4yHMyXLzDcTeVUgn"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK (Japanese Version)",
         "url": "https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0"
@@ -233,7 +393,7 @@
       "url": "https://open.spotify.com/track/5m8wiO2ySMpCtYSwHatWQr"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK (Japanese Version)",
         "url": "https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0"
@@ -249,7 +409,7 @@
       "url": "https://open.spotify.com/track/2jjh53eV2QVGIRjGTawheD"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SQUARE ONE",
         "url": "https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4"
@@ -265,7 +425,7 @@
       "url": "https://open.spotify.com/track/7HWmJ1wBecOAMNGjC6SmKE"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SQUARE ONE",
         "url": "https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4"
@@ -281,7 +441,7 @@
       "url": "https://open.spotify.com/track/3yHQKddM8SVCRnuPSo3HPN"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SQUARE TWO",
         "url": "https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf"
@@ -297,7 +457,7 @@
       "url": "https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SQUARE TWO",
         "url": "https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf"
@@ -313,7 +473,7 @@
       "url": "https://open.spotify.com/track/4TWHREp4wv0TmewqR6rgRd"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SQUARE TWO",
         "url": "https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf"
@@ -329,7 +489,7 @@
       "url": "https://open.spotify.com/track/0doLJjIDrYkoXDb4b9Qa8n"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "JENNIE Special Single [You & Me]",
         "url": "https://open.spotify.com/album/4L7q11BarOHdF0BVCTvkMC"
@@ -345,7 +505,7 @@
       "url": "https://open.spotify.com/track/6p2GEXda3oj2PjPGoZieTK"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "THE GIRLS (BLACKPINK THE GAME OST)",
         "url": "https://open.spotify.com/album/0slmdIwTsoubwL5Sy5E1Vj"
@@ -361,7 +521,7 @@
       "url": "https://open.spotify.com/track/2FI28SeyrsLmor4TaNmjEn"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
@@ -377,7 +537,7 @@
       "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
@@ -393,7 +553,7 @@
       "url": "https://open.spotify.com/track/7e4OpsQwklauQSXlBvM5WD"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
@@ -409,7 +569,7 @@
       "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/2myz9HGT2vuOArEgOCCyMV"
@@ -425,7 +585,7 @@
       "url": "https://open.spotify.com/track/01WTV3NRDIeFFUwaYr9PCZ"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
@@ -441,7 +601,7 @@
       "url": "https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
@@ -457,7 +617,7 @@
       "url": "https://open.spotify.com/track/5y4WmuvFX1t3NdSId0MFOh"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
@@ -473,7 +633,7 @@
       "url": "https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
@@ -489,7 +649,7 @@
       "url": "https://open.spotify.com/track/1XoY4WZrvPIphBaikXGjF8"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
@@ -505,7 +665,7 @@
       "url": "https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
@@ -521,7 +681,7 @@
       "url": "https://open.spotify.com/track/1Wwh6gmMeolwzbRzfZMY5b"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
         "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
@@ -549,7 +709,7 @@
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
@@ -565,7 +725,7 @@
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d"
@@ -581,7 +741,7 @@
       "url": "https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "How You Like That",
         "url": "https://open.spotify.com/album/1AkGUEtocePYti6xefsECx"
@@ -597,7 +757,7 @@
       "url": "https://open.spotify.com/track/6y6k14YN6MbKpGIv1Rk00Q"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
@@ -613,23 +773,7 @@
       "url": "https://open.spotify.com/track/4Vhvlhomv8fTp2e6I4XTpe"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
-      "album": {
-        "name": "Kill This Love",
-        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "Kill This Love",
-      "url": "https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB"
-    },
-    {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/68GNh1ZjfSewE8uBCH3UnR"
@@ -645,7 +789,7 @@
       "url": "https://open.spotify.com/track/2XIaetAZTyR7oQfHh8DZ2B"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
@@ -661,7 +805,7 @@
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
@@ -677,23 +821,7 @@
       "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
-      "album": {
-        "name": "Kill This Love",
-        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 201081,
-      "name": "Don't Know What To Do",
-      "url": "https://open.spotify.com/track/7ibZWzytUh41z5ycK2I5N8"
-    },
-    {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
@@ -709,7 +837,7 @@
       "url": "https://open.spotify.com/track/1b0PG9Zd1HhOwq3n9QNkDg"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "Sour Candy (with BLACKPINK)",
         "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB"
@@ -729,23 +857,7 @@
       "url": "https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
-      "album": {
-        "name": "Kill This Love",
-        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 191225,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/6MN6oiT2d7qxYEOwXwgV34"
-    },
-    {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL - Live",
         "url": "https://open.spotify.com/album/1Q2x3A0YKL8IB7FYL82QiS"
@@ -761,39 +873,7 @@
       "url": "https://open.spotify.com/track/69Bi7veKMrb2mRq00HkRyO"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
-      "album": {
-        "name": "Kill This Love",
-        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 201225,
-      "name": "DDU-DU DDU-DU (Remix)",
-      "url": "https://open.spotify.com/track/0NdEvupVBxG5zyVLGtpJpg"
-    },
-    {
-      "added_at": "2024-08-03 03:00:00",
-      "album": {
-        "name": "Kill This Love",
-        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 191030,
-      "name": "Hope Not",
-      "url": "https://open.spotify.com/track/6euC2yxyQA6uztolUYnhiW"
-    },
-    {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "Ice Cream (with Selena Gomez)",
         "url": "https://open.spotify.com/album/0J1uiXQshfRtz2R8lgUlQk"
@@ -813,7 +893,7 @@
       "url": "https://open.spotify.com/track/60jpDubMmVyR5molJp2TCm"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "How You Like That",
         "url": "https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH"
@@ -829,7 +909,7 @@
       "url": "https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
@@ -845,7 +925,7 @@
       "url": "https://open.spotify.com/track/09JE599HkmbidwGWyD4ZGy"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
@@ -861,7 +941,7 @@
       "url": "https://open.spotify.com/track/4yOqfpzmL4FvmXJTUgAMUP"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
@@ -877,7 +957,7 @@
       "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "Ice Cream (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl"
@@ -897,7 +977,7 @@
       "url": "https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX"
     },
     {
-      "added_at": "2024-08-03 03:00:00",
+      "added_at": "2024-08-04 03:00:00",
       "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"

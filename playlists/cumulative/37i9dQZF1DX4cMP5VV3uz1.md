@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-269 songs - 16 hr 1 min
+270 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Run \(Part 1\)](https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Run \(Part 1\)](https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs) | 2:15 | 2024-03-01 |  |
 | [Run Up \(Unknown T\)](https://open.spotify.com/track/2d4Opt89xsBbTSOEnl8WPn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:16 | 2022-09-30 | 2024-02-25 |
 | [Sabertooth](https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Sabertooth](https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl) | 4:26 | 2024-07-25 |  |
+| [Savage](https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Savage](https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S) | 3:24 | 2024-08-02 |  |
 | [Say My Name](https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Say My Name](https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD) | 2:39 | 2024-07-25 |  |
 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 | 2022-09-30 | 2023-07-13 |
 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 | 2023-11-17 | 2024-08-03 |
@@ -232,7 +233,7 @@
 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 | 2022-09-30 | 2024-04-19 |
 | [Star 69 \- Shermanology Remix](https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Star 69 \(Shermanology Remix\)](https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt) | 5:53 | 2023-07-27 | 2023-09-02 |
 | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [MoMo](https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ) | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99) | 4:02 | 2023-01-25 | 2024-07-27 |
-| [Stop Talking](https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF) | [Stop Talking](https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz) | 3:46 | 2024-07-25 |  |
+| [Stop Talking](https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF) | [Stop Talking](https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz) | 3:46 | 2024-07-25 | 2024-08-05 |
 | [STR8 SHELLIN](https://open.spotify.com/track/4iJ4bipmCeD2YyxxwVRzZj) | [AC MC](https://open.spotify.com/artist/4KjH1GComY1Qv7Qr7xsblC), [Genesis Elijah](https://open.spotify.com/artist/7ykM9gwcxoplthUOlrih06), [Duece](https://open.spotify.com/artist/5wKLXEkonQiYRa4lvat3By) | [STR8 SHELLIN](https://open.spotify.com/album/0jyVETFfg6Y9xhdlXwCCaa) | 3:26 | 2022-10-28 | 2023-01-26 |
 | [Streetside](https://open.spotify.com/track/48nIqwRQyLtqEcGzJWykLL) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Streetside](https://open.spotify.com/album/138qbOSq6Wy6ubheDW8HBK) | 3:39 | 2023-04-13 | 2023-07-28 |
 | [Streetside](https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Streetside](https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN) | 3:39 | 2022-09-30 | 2023-05-19 |

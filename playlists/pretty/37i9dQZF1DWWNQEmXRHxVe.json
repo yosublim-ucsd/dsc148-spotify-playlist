@@ -1,6 +1,6 @@
 {
   "description": "Music from the most memorable halftime shows. Cover: Usher",
-  "num_followers": 122576,
+  "num_followers": 122613,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 233478,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 233478,
-      "name": "Locked out of Heaven",
-      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
         "name": "Loud (Japan Version)",
         "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -411,22 +427,6 @@
       "duration_ms": 294573,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 263786,
-      "name": "Adventure of a Lifetime",
-      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -495,22 +479,6 @@
       "duration_ms": 213520,
       "name": "Can't Feel My Face",
       "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "She Will Be Loved - Radio Mix",
-      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -531,6 +499,38 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Adventure of a Lifetime",
+      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "She Will Be Loved - Radio Mix",
+      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Forgot About Dre",
-      "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -631,6 +611,26 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Forgot About Dre",
+      "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -663,18 +679,18 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 267266,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -699,18 +715,18 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+      "duration_ms": 342680,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -747,22 +763,6 @@
       "duration_ms": 326466,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 342680,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "Armageddon - The Album",
-        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 192426,
       "name": "It's Gonna Be Me",
       "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 179640,
-      "name": "I Kissed A Girl",
-      "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -1231,18 +1231,34 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+      "duration_ms": 179640,
+      "name": "I Kissed A Girl",
+      "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
+        "name": "I Got You (I Feel Good)",
+        "url": "https://open.spotify.com/album/5UqTOjkfRMzkORwpeOWtt3"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "I Got You (I Feel Good)",
-        "url": "https://open.spotify.com/album/5UqTOjkfRMzkORwpeOWtt3"
-      },
-      "artists": [
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
         "name": "Talking Book",
         "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 254933,
       "name": "Black or White",
       "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
         "name": "good kid, m.A.A.d city",
         "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
@@ -1411,26 +1411,18 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "The Cookbook",
-        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 226863,
-      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
-      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
+      "duration_ms": 193213,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1447,22 +1439,6 @@
       "duration_ms": 221226,
       "name": "Love Don't Cost a Thing",
       "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Single Ladies (Put a Ring on It)",
-      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1539,6 +1515,30 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
+        "name": "The Cookbook",
+        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "duration_ms": 226863,
+      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
+      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
         "name": "Devil Without a Cause",
         "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
       },
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
         "name": "The Saga Continues...",
         "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 253066,
       "name": "Bad Boy for Life",
       "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 520786,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
         "name": "Diamond Diana: The Legacy Collection",
         "url": "https://open.spotify.com/album/2iPkYpFitI1RXmnnza1PeN"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 215200,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/1KbuhBnzMHp4eq1q6flhWd"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 520786,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
     }
   ],
   "unique_name": "Halftime Hits",

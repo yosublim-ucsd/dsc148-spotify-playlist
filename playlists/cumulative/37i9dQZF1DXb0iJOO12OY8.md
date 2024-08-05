@@ -4,7 +4,7 @@
 
 > 😵‍💫
 
-62 songs - 3 hr 4 min
+63 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Danseproblem](https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [Danseproblem](https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE) | 2:43 | 2024-06-27 | 2024-07-06 |
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-18 |  |
 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 |  |
-| [En gång till](https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [En gång till](https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD) | 2:25 | 2024-06-27 |  |
+| [En gång till](https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [En gång till](https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD) | 2:25 | 2024-06-27 | 2024-08-05 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 |  |
 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 | 2024-06-27 | 2024-07-10 |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-06-27 |  |
@@ -45,6 +45,7 @@
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-06-27 |  |
 | [når du slår ut håret blir jeg slått ut](https://open.spotify.com/track/2tqcI5NvNbt9F8fP33I9B5) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [når du slår ut håret blir jeg slått ut](https://open.spotify.com/album/1wOjIjsn0o2fPE0OkrOdHv) | 1:57 | 2024-06-27 |  |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-06-27 |  |
+| [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 | 2024-08-01 |  |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-06-27 |  |
 | [Røde Rubin](https://open.spotify.com/track/0Pdi9usvND947TMv869DmN) | [Plaza](https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ) | [Røde Rubin](https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI) | 2:36 | 2024-06-27 | 2024-07-06 |
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-27 |  |

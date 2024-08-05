@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 686440,
+  "num_followers": 686530,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "I Still Haven't Found What I'm Looking For / my future",
         "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 212157,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 273506,
-      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 211346,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
+      "duration_ms": 273506,
+      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Enjoy The Silence",
+      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Enjoy The Silence",
-      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Sunday Night Sessions",
-        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 284971,
-      "name": "Hotel California (Cover)",
-      "url": "https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 234600,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Sunday Night Sessions",
+        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 284971,
+      "name": "Hotel California (Cover)",
+      "url": "https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Sunday Night Sessions",
-        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 166868,
-      "name": "Heart of Gold (Cover)",
-      "url": "https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 208198,
       "name": "Brandy (You're a Fine Girl)",
       "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Sunday Night Sessions",
+        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 166868,
+      "name": "Heart of Gold (Cover)",
+      "url": "https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
         }
       ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Busted Jukebox Volume 3",
-        "url": "https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Strangers (From \"Life In A Day\")",
         "url": "https://open.spotify.com/album/5gZVsnYndVV84cOFYrJ8wX"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 192963,
       "name": "Strangers - From \"Life In A Day\"",
       "url": "https://open.spotify.com/track/7yntS3BLfzBAKaHsIvYzjw"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Busted Jukebox Volume 3",
+        "url": "https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx"
     },
     {
       "added_at": "2024-06-07 04:00:00",

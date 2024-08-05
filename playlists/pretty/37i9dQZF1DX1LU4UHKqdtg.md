@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ＆TEAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,592 likes - 102 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,612 likes - 102 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

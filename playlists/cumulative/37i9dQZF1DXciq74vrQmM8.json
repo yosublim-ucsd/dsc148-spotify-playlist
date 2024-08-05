@@ -13619,6 +13619,24 @@
     },
     {
       "album": {
+        "name": "shut up!",
+        "url": "https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103669,
+      "name": "shut up!",
+      "url": "https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB"
+    },
+    {
+      "album": {
         "name": "SICK OF IT*",
         "url": "https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf"
       },

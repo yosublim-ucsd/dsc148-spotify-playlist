@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-147 songs - 7 hr 21 min
+148 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Mala É Falsa \- Ao Vivo](https://open.spotify.com/track/3dyN3yQuMi2UWKRfRY0ISt) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [1 Dois 3 \(Ao Vivo\)](https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi) | 3:03 | 2023-10-13 | 2024-04-19 |
 | [A Rosa E O Beija\-Flor \- Na Praia / Ao Vivo](https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e) | 2:50 | 2023-10-13 |  |
 | [Abre o Portão Que Eu Cheguei \- Ao Vivo](https://open.spotify.com/track/27gdqSnSgCfiro2gk3WZdp) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [50/50 \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4ibh4ZJMONa5aR7ZtKDJHu) | 4:40 | 2023-10-13 | 2024-04-19 |
+| [Acertou a Mão](https://open.spotify.com/track/3jdfc1nTrxJAARKz84wmAd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acertou a Mão](https://open.spotify.com/album/6SbiYGzuP9sDvwXqu1SF0E) | 3:02 | 2024-07-15 |  |
 | [Ainda Sou Tão Seu \- Ao Vivo](https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Esquenta Do Felipe Araújo \(Ao Vivo\)](https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33) | 2:42 | 2023-10-13 |  |
 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 | 2023-10-13 |  |
 | [Amante Não Tem Lar \- Ao Vivo](https://open.spotify.com/track/6P8v1a8jyfwG5kc7Si1kUp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \- Ao Vivo Em Manaus](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 2:53 | 2023-10-13 |  |
@@ -128,7 +129,7 @@
 | [Saudade em Gotas \(feat\. Wesley Safadão\) \- Ao Vivo](https://open.spotify.com/track/4pnlRYoaaGu24SuC3et5Pv) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Yasmin Santos Ao Vivo em São Paulo \- EP 3](https://open.spotify.com/album/4vDG2NrteQOLWTpmCcyYrO) | 3:10 | 2023-10-13 | 2024-07-29 |
 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 | 2023-10-13 |  |
 | [Se Eu Te Procurar](https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Do Jeito que Nóis Gosta 2](https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM) | 2:41 | 2023-10-13 |  |
-| [Segue O Plano \- Ao Vivo](https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi) | 2:33 | 2023-10-13 |  |
+| [Segue O Plano \- Ao Vivo](https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi) | 2:33 | 2023-10-13 | 2024-08-05 |
 | [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 | 2023-10-13 |  |
 | [Short Jeans \- Ao Vivo](https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Short Jeans \(Ao Vivo\)](https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x) | 3:00 | 2023-10-13 |  |
 | [Siga a Seta \(feat\. Matheus & Kauan\) \- Ao Vivo](https://open.spotify.com/track/5AQNVgt7BKHKRhrNFFgSPF) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Siga a Seta \(feat\. Matheus & Kauan\) \[Ao Vivo\]](https://open.spotify.com/album/7j3YXsHgy2GW48kSjzTlR7) | 2:51 | 2023-10-13 |  |

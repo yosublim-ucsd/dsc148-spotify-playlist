@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 
 ### [This Is Gojira](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lb5gk)
 
-> This is Gojira\. The essential tracks, all in one playlist.
+> This Is Gojira\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,725 likes - 41 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,941 likes - 41 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 | 40 | [Lizard Skin](https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:30 |
 | 41 | [Indians](https://open.spotify.com/track/4qto5WBvuqH6fkHGxcaGuo) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 3:58 |
 
-Snapshot ID: `ZqrQAAAAAACl4ZoZbLuKm07RII3/oENC`
+Snapshot ID: `ZqrQAAAAAACihSyDPxQl19yCJM34NCbA`

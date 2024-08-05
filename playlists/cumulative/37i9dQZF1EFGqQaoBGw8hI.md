@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-628 songs - 1 day 19 hr 54 min
+629 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Angry Dance](https://open.spotify.com/track/7IAQKxGChgYSSS6hZm6JLf) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 3:49 | 2022-09-08 |  |
 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 | 2022-09-08 |  |
 | [Are We Laughing?](https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:06 | 2023-05-26 |  |
+| [As Good As It Gets](https://open.spotify.com/track/44dCuAjqxZnx3lgYMqjEnL) | [Matt Evans](https://open.spotify.com/artist/7AuomWHj23iYxqqvm7c8us) | [As Good As It Gets](https://open.spotify.com/album/4Pec12P4fgTobswnqjEGUX) | 3:35 | 2024-08-04 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/0MfjH6DpyGrBQZoaWIsv4G) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Christmas Party](https://open.spotify.com/album/69a0N3kvOVpl6cLb5RD5Dg) | 2:34 | 2022-09-08 | 2024-07-19 |
 | [Auld Lang Syne](https://open.spotify.com/track/0mZe6fbJ4MTEL2RRdubgZZ) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Christmas Party](https://open.spotify.com/album/3wKrIrZ6rJGclVWOlalysx) | 2:34 | 2024-07-18 |  |
 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 | 2023-06-06 |  |
@@ -119,8 +120,8 @@
 | [Country Comfort](https://open.spotify.com/track/5p9MpS0JdzVfbdJuHwhvqI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 5:06 | 2022-09-08 |  |
 | [Crazy Water](https://open.spotify.com/track/3QapUPFJkO7bMjn5BF1Jlz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:42 | 2022-09-08 |  |
 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 | 2022-09-08 |  |
-| [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 | 2024-02-17 | 2024-05-27 |
-| [Cry](https://open.spotify.com/track/2E4mmddIrk7WHGr0ZsUMOa) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/7koYXv6j6UkP1q0kzxYa3V) | 3:15 | 2024-05-26 |  |
+| [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 | 2024-02-17 |  |
+| [Cry](https://open.spotify.com/track/2E4mmddIrk7WHGr0ZsUMOa) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/7koYXv6j6UkP1q0kzxYa3V) | 3:15 | 2024-05-26 | 2024-08-05 |
 | [Cry To Heaven](https://open.spotify.com/track/6XOoAqdkeebLjIy2b8zTvG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 4:16 | 2022-09-08 |  |
 | [Crystal](https://open.spotify.com/track/4bpNHxM2QdnG4p7ZtUb86M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:05 | 2022-09-08 |  |
 | [Dam wam znak](https://open.spotify.com/track/3CJ7Pv6VqKMpmHOxdRhwbN) | [Artur Zmijewski](https://open.spotify.com/artist/2xp0UH29O0hdWs2WMRQXsW) | [Król Lew \(Ścieżka Dźwiękowa z Filmu\)](https://open.spotify.com/album/2JBq570cXuZRg5eg6l7WWM) | 2:03 | 2022-09-08 |  |
@@ -346,7 +347,7 @@
 | [Mansfield](https://open.spotify.com/track/3I0Cw8Qy3vB1gy1W76GPyv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:53 | 2022-09-08 |  |
 | [Medicine Man](https://open.spotify.com/track/3dBrcMVXCjQq2c19gyVImX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:36 | 2023-05-26 |  |
 | [MEDLEY \- 1974年10月26日 ライブ at 中野サンプラザ](https://open.spotify.com/track/78bUCIVClCc1ZiuojgK6ml) | [Off Course](https://open.spotify.com/artist/5YQX51PLEtKQAKnMFt5jnG) | [秋ゆく街で オフコース・ライヴ・イン・コンサート \(1974年10月26日 ライブ at 中野サンプラザ\)](https://open.spotify.com/album/4KOdPyfbbuvILOQ8jGh5T1) | 6:14 | 2023-05-26 |  |
-| [Meet Christine](https://open.spotify.com/track/7BvitHMNGMpGqhPtPgBppa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:32 | 2023-05-26 |  |
+| [Meet Christine](https://open.spotify.com/track/7BvitHMNGMpGqhPtPgBppa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:32 | 2023-05-26 | 2024-08-05 |
 | [Mellow](https://open.spotify.com/track/51Y1WwassIhqZYBwwaAjzr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:32 | 2022-09-08 |  |
 | [Memory Of Love](https://open.spotify.com/track/5E0TUUfpxgWQ4uMKeZyT2B) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:08 | 2023-05-26 |  |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2022-12-04 | 2023-01-09 |

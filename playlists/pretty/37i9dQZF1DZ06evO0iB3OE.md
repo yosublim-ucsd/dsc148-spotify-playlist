@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 ### [This Is El Potro De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iB3OE)
 
-> This Is El Potro De Sinaloa\. Los temas esenciales, todos en una lista.
+> This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,933 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,938 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 49 | [El Cargamento Del Diablo](https://open.spotify.com/track/7sGWaqVuPGvfmXtnF71frT) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:51 |
 | 50 | [Cada Día Más](https://open.spotify.com/track/41ppkQ1wP7nFuG3DdPNT1O) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [El Tiempo](https://open.spotify.com/artist/4mKF9sU49S24j9spalTw4y), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cada Día Más](https://open.spotify.com/album/3QWNrgcsaNSH0oBtEEfz5i) | 4:15 |
 
-Snapshot ID: `ZqrQAAAAAADHhjaGonCHNAGBGnSo1PqB`
+Snapshot ID: `ZqrQAAAAAADdYyrS+nl7BECAEV6hlqSc`

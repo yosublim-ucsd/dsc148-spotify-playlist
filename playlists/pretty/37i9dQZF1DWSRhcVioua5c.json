@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 77117,
+  "num_followers": 77145,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Uno Mismo",
-        "url": "https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5"
+        "name": "La Voz Del Viento",
+        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
         }
       ],
-      "duration_ms": 272613,
-      "name": "El Secreto de Tu Vida",
-      "url": "https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0"
+      "duration_ms": 157080,
+      "name": "Adios Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/6c9C5tlbSJLC2HY2ItbBcH"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -215,24 +215,8 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "La Voz Del Viento",
-        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
-      },
-      "artists": [
-        {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Adios Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/6c9C5tlbSJLC2HY2ItbBcH"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
-        "name": "Mi Cantar",
-        "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
+        "name": "Uno Mismo",
+        "url": "https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5"
       },
       "artists": [
         {
@@ -240,25 +224,9 @@
           "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 259566,
-      "name": "Olvida Que Te He Amado",
-      "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
-        "name": "Lo Mejor de la Zamba Argentina",
-        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Zamba del Cantor Enamorado",
-      "url": "https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ"
+      "duration_ms": 272613,
+      "name": "El Secreto de Tu Vida",
+      "url": "https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -275,22 +243,6 @@
       "duration_ms": 213705,
       "name": "Mi Loco Amor",
       "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
-        "name": "Due\u00f1a de Mi Alma",
-        "url": "https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "Due\u00f1a de Mi Alma",
-      "url": "https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -327,6 +279,22 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
+        "name": "Lo Mejor de la Zamba Argentina",
+        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Zamba del Cantor Enamorado",
+      "url": "https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
         "name": "Mas Alla De La Ternura",
         "url": "https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc"
       },
@@ -359,6 +327,74 @@
       "duration_ms": 248653,
       "name": "Nuestro adi\u00f3s",
       "url": "https://open.spotify.com/track/4L1JmLqESzxrvlgGCaNOOD"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
+        "name": "Mi Cantar",
+        "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 259566,
+      "name": "Olvida Que Te He Amado",
+      "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
+        "name": "Due\u00f1a de Mi Alma",
+        "url": "https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "duration_ms": 249090,
+      "name": "Due\u00f1a de Mi Alma",
+      "url": "https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 297360,
+      "name": "Vuela una Lagrima",
+      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
+        "name": "Gira",
+        "url": "https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM"
+      },
+      "artists": [
+        {
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+        }
+      ],
+      "duration_ms": 225573,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -431,22 +467,6 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Gira",
-        "url": "https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM"
-      },
-      "artists": [
-        {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
-        }
-      ],
-      "duration_ms": 225573,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
         "name": "El Punto Final",
         "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 213418,
       "name": "El Punto Final",
       "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 297360,
-      "name": "Vuela una Lagrima",
-      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -515,6 +515,22 @@
       "duration_ms": 197866,
       "name": "Nuestro Juramento",
       "url": "https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
+        "name": "Sol Nocturno, Pt. 1",
+        "url": "https://open.spotify.com/album/7i5RT2diSWPj2jX4G8iyoR"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 233275,
+      "name": "Sol Nocturno",
+      "url": "https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -639,22 +655,6 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Sol Nocturno, Pt. 1",
-        "url": "https://open.spotify.com/album/7i5RT2diSWPj2jX4G8iyoR"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 233275,
-      "name": "Sol Nocturno",
-      "url": "https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
       },
@@ -751,6 +751,38 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 249985,
+      "name": "La del Olvido",
+      "url": "https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
+        "name": "Al Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Al Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg"
       },
@@ -815,38 +847,6 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 249985,
-      "name": "La del Olvido",
-      "url": "https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
-        "name": "Al Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Al Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
         "name": "Luna Llena",
         "url": "https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR"
       },
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
+        "name": "D\u00e9jame Intentar",
+        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 162192,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
         "name": "Ojos de Cielo",
         "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 192266,
       "name": "Zambita pa' Enamorar",
       "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
-        "name": "D\u00e9jame Intentar",
-        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "D\u00e9jame Intentar",
-      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 267012,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
         "name": "Quien Me Quita Lo Cantado",
         "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 201427,
       "name": "Por las costas entrerrianas",
       "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 267012,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Tierra Mia",
-        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        },
-        {
-          "name": "Sebastian Llapur",
-          "url": "https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0"
-        }
-      ],
-      "duration_ms": 268875,
-      "name": "Flor Palida",
-      "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -1131,6 +1111,26 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
+        "name": "Tierra Mia",
+        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        },
+        {
+          "name": "Sebastian Llapur",
+          "url": "https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0"
+        }
+      ],
+      "duration_ms": 268875,
+      "name": "Flor Palida",
+      "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
         "name": "Volver A Verte",
         "url": "https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4"
       },
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Bien o Mal",
-        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+        "name": "Adi\u00f3s Amor M\u00edo",
+        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 210818,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
+      "duration_ms": 149680,
+      "name": "Adi\u00f3s Amor M\u00edo",
+      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Adi\u00f3s Amor M\u00edo",
-        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 149680,
-      "name": "Adi\u00f3s Amor M\u00edo",
-      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
         "name": "Respuesta",
         "url": "https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 215672,
       "name": "Mil Momentos - En Vivo",
       "url": "https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
+        "name": "Asuntos Pendientes",
+        "url": "https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
         "name": "Huella",
         "url": "https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 193886,
       "name": "La Forma Perfecta",
       "url": "https://open.spotify.com/track/5cpScCtXXmeE9H4UhuIpwh"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
-        "name": "Asuntos Pendientes",
-        "url": "https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Asuntos Pendientes",
-      "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Lo Mejor de Mi...",
-        "url": "https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB"
+        "name": "La Desamorada",
+        "url": "https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3"
       },
       "artists": [
         {
-          "name": "Tamara Castro",
-          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Zamba de Amor en Vuelo",
-      "url": "https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5"
+      "duration_ms": 241477,
+      "name": "La Desamorada",
+      "url": "https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

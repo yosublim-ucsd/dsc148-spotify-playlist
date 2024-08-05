@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,479 songs - 3 day 17 hr 53 min
+1,480 songs - 3 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,7 +804,7 @@
 | [RIDE](https://open.spotify.com/track/6HlopwTXKBrTMzIW6NxjMV) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [Mellow In Da Street](https://open.spotify.com/artist/4szZFJd99QG7taRthx1Fq3) | [RIDE](https://open.spotify.com/album/45tl32WBDXpa7Gsgo0atzZ) | 2:39 | 2023-08-08 | 2023-08-23 |
 | [ring ring, you kill me](https://open.spotify.com/track/7BDzU8Dcit2KqznktWxDHb) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Killer in Neverland](https://open.spotify.com/album/6vOSP7R3SEdTMgZm90GunD) | 3:10 | 2022-08-24 | 2022-09-23 |
 | [ripple](https://open.spotify.com/track/3kQMsWayIAqbgRou15Y9Wy) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [ripple](https://open.spotify.com/album/5yN3BNFVlWJLD6x7xYFUYM) | 2:44 | 2022-07-28 | 2022-08-03 |
-| [RISE TOGETHER](https://open.spotify.com/track/4vGetXZZizkgXnWKWo3GkS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [RISE TOGETHER](https://open.spotify.com/album/15BXpNu8SXEPh9TVKse4ng) | 3:03 | 2024-04-16 |  |
+| [RISE TOGETHER](https://open.spotify.com/track/4vGetXZZizkgXnWKWo3GkS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [RISE TOGETHER](https://open.spotify.com/album/15BXpNu8SXEPh9TVKse4ng) | 3:03 | 2024-04-16 | 2024-08-05 |
 | [Ritual](https://open.spotify.com/track/5pMQGKuEEmSg7VwFsELYAa) | [Baku Furukawa](https://open.spotify.com/artist/2em1oRhLgRPKX9yBh9HjR9) | [Ritual](https://open.spotify.com/album/1RU7uZlku0Sc2PjiwL4atQ) | 4:39 | 2022-05-26 | 2022-06-08 |
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-08 | 2022-12-28 |
 | [Roll](https://open.spotify.com/track/0HJLF7MON8XtyVMxZTySfP) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/0TDwqGmj6AX3qYmxA2oK95) | 3:35 | 2022-12-20 | 2022-12-22 |
@@ -1396,6 +1396,7 @@
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2024-01-10 | 2024-01-17 |
 | [景色一空](https://open.spotify.com/track/3CfgUhEuuWhwQRkj60SjbY) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/6gyGX7WrIQKwOWGZHFHgJu) | 4:47 | 2023-10-10 | 2023-10-18 |
 | [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 | 2022-12-27 | 2022-12-29 |
+| [曖昧なBEACH](https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [曖昧なBEACH](https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6) | 2:39 | 2024-07-30 |  |
 | [最後](https://open.spotify.com/track/0qa0TiXSLBFtSwRYzoo7UL) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [最後](https://open.spotify.com/album/1vORFEKjt7ipDV4VgxJptl) | 5:04 | 2023-02-07 | 2023-02-15 |
 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 | 2022-10-18 | 2022-11-30 |
 | [月へ行こう](https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [月へ行こう](https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w) | 3:18 | 2024-03-07 |  |

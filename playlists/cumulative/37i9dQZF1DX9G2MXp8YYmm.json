@@ -652,7 +652,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 142679,
       "name": "Delil",
       "url": "https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 272049,
       "name": "Herhalde",
       "url": "https://open.spotify.com/track/6NoU0H7vKasJE29Z4jDmYA"
@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Neden Anlamad\u0131n Beni?",
+        "url": "https://open.spotify.com/album/2coCoZ06wAwafV4lUeJ8QO"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136858,
+      "name": "Neden Anlamad\u0131n Beni?",
+      "url": "https://open.spotify.com/track/2Ai8HBSGn3KYyYFBemhf51"
+    },
+    {
+      "album": {
         "name": "Nereye Kadar",
         "url": "https://open.spotify.com/album/5PYBFjQAwPNuvrsyBKNyrT"
       },
@@ -1234,6 +1252,24 @@
       "duration_ms": 172154,
       "name": "Olmu\u015fum Leyla",
       "url": "https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj"
+    },
+    {
+      "album": {
+        "name": "Ortak",
+        "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205224,
+      "name": "Ortak",
+      "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
     },
     {
       "album": {

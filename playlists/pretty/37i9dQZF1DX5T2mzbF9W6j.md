@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,683 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,676 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 46 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 |
 | 47 | [Somewhere Close To Heaven](https://open.spotify.com/track/00CohVTIAro42OEyH1crVW) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Somewhere Close To Heaven](https://open.spotify.com/album/1Y5NGmwUJgLZEIgpwHaeug) | 2:22 |
 | 48 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |
-| 49 | [O miłości](https://open.spotify.com/track/5gWIF2Rqa9rXufl7696JoU) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 2:57 |
-| 50 | [Beautiful Reason](https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Beautiful Reason](https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl) | 3:03 |
+| 49 | [Beautiful Reason](https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Beautiful Reason](https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl) | 3:03 |
+| 50 | [O miłości](https://open.spotify.com/track/5gWIF2Rqa9rXufl7696JoU) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 2:57 |
 | 51 | [Nie ma Cię tu](https://open.spotify.com/track/7gNGlEQQQQMlBILu3BhRuA) | [Marta Bijan](https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt) | [Nie ma Cię tu](https://open.spotify.com/album/2DXY3yPf7YoSEglJBJ6xO1) | 2:29 |
 | 52 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
 | 53 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 |
 | 54 | [KEEP IT UP](https://open.spotify.com/track/6x5GkDddrOaBTmX55yU12Y) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [KEEP IT UP](https://open.spotify.com/album/05WGAVWDAoG8uoyCSee8IQ) | 2:46 |
 | 55 | [Va Banque](https://open.spotify.com/track/6Y9ji63BDB0OxG5K06xyNL) | [Julia Żugaj](https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1), [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Va Banque](https://open.spotify.com/album/2zZQCmGDsZGyG6u3w6b31m) | 2:58 |
 | 56 | [Sacrifice Tomorrow](https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Sacrifice Tomorrow](https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu) | 2:25 |
-| 57 | [Śrubka](https://open.spotify.com/track/42HCLyg66bqYWCPU3wqyMS) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Śrubka](https://open.spotify.com/album/2i4XVKYPGzTpFiesqiGpDj) | 4:10 |
-| 58 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 |
-| 59 | [Myślę sobie, Ż](https://open.spotify.com/track/3HmXpWEdyrczsUgbUAd3qe) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Myślę sobie, Ż](https://open.spotify.com/album/7v0o8LcqjbGCprYoKg2ptg) | 2:50 |
-| 60 | [HATE YOUR GUTS](https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [HATE YOUR GUTS](https://open.spotify.com/album/0wOwIIsyCvsviyZVMyMkuW) | 2:36 |
+| 57 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 |
+| 58 | [Myślę sobie, Ż](https://open.spotify.com/track/3HmXpWEdyrczsUgbUAd3qe) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Myślę sobie, Ż](https://open.spotify.com/album/7v0o8LcqjbGCprYoKg2ptg) | 2:50 |
+| 59 | [HATE YOUR GUTS](https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [HATE YOUR GUTS](https://open.spotify.com/album/0wOwIIsyCvsviyZVMyMkuW) | 2:36 |
+| 60 | [Śrubka](https://open.spotify.com/track/42HCLyg66bqYWCPU3wqyMS) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Śrubka](https://open.spotify.com/album/2i4XVKYPGzTpFiesqiGpDj) | 4:10 |
 
 Snapshot ID: `ZqNzLwAAAABonu4MSy1E7KVT7cdc+fFM`

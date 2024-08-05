@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 512 songs - 1 day 9 hr 48 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 515 songs - 1 day 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -520,5 +520,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 510 | [ascension](https://open.spotify.com/track/62MSbv3IJNlQdN2NMfOGny) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:12 |
 | 511 | [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 |
 | 512 | [Acrid Avid Jam Shred](https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 7:39 |
+| 513 | [A Good Thing](https://open.spotify.com/track/4h7N08txmbfso1H5WtUkjS) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Carrier Pigeon](https://open.spotify.com/album/5ufL1kagvdUMrUNNP4FCuV) | 3:29 |
+| 514 | [My Garage \(with Zac Brown\)](https://open.spotify.com/track/0L9aSYUIDijRCT1yzsKAsr) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Zac Brown](https://open.spotify.com/artist/2I15upWbYjmarUFHtCc6vo) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:36 |
+| 515 | [Live from 54th](https://open.spotify.com/track/5UkiLo3RAeN2Y3qmtFAmG2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Los Angeles](https://open.spotify.com/album/6SbSnccPne65cY6Fovd0h7) | 1:43 |
 
-Snapshot ID: `AAAGVHGT4rdvxR2JqijBizsoh99XnEfE`
+Snapshot ID: `AAAGV/vE9fJIs7kMUOfdQj/dBW2h6pk3`

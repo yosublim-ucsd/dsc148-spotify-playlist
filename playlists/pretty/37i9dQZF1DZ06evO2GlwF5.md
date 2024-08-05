@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO2GlwF5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2GlwF5)
 
-### [This Is Maaya Sakamoto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
+### [This Is 坂本真綾](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
 
-> This is Maaya Sakamoto\. The essential tracks, all in one playlist.
+> This is 坂本真綾\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,206 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,207 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 | 49 | [Aoi Hitomi](https://open.spotify.com/track/1qq3YfabdCwpHFhqnWSnUz) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 3\)](https://open.spotify.com/album/7o8sLz2KsnZ0ykcQS6OxYM) | 3:17 |
 | 50 | [ないものねだり](https://open.spotify.com/track/3ZSFHKTl8dLGLioGaWkYJj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:05 |
 
-Snapshot ID: `ZqrQAAAAAAC/e8Vfe6UE2zuidxPmfSCO`
+Snapshot ID: `ZqrQAAAAAABaqIBohkOrtd5Gk8acJxI8`

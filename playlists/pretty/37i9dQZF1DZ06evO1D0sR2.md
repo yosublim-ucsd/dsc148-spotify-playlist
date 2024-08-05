@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,679 likes - 50 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,680 likes - 50 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

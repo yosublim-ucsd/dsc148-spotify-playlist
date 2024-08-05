@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 311466,
       "name": "Arrive You \uff5e\u305d\u308c\u304c\u904b\u547d\u3067\u3082\uff5e",
       "url": "https://open.spotify.com/track/15bnvXKZYELjdZctyfy34X"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 293000,
       "name": "Clover Days",
       "url": "https://open.spotify.com/track/2Sr5PN3zTM0tgQydeMeCQ7"
@@ -4891,6 +4891,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
+        "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237040,
+      "name": "\u30b3\u30b3\u30ed \u30a8\u30af\u30b5\u30b5\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/5HbQqTZIUk8izZCEs9tsOE"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30f3\u30ea\u30ba\u30e0\u30fb\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 (Brand New Ver.)",
         "url": "https://open.spotify.com/album/0MxRdYIqMGX6KlskKC2tsK"
       },
@@ -5358,6 +5376,24 @@
       "duration_ms": 223680,
       "name": "\u30d3\u30c3\u30b0\u30d0\u30f3\u30ba\u30d0\u30ea\u30dc\u30fc!!!!!",
       "url": "https://open.spotify.com/track/37gOl5toVCK881uykTEmFD"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
+        "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
+      },
+      "artists": [
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "\u30d5\u30a7\u30b9\u30bf\u30fb\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4SgY4ttJOw7jPFCqcrUcV1"
     },
     {
       "album": {

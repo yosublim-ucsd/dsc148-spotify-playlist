@@ -14717,6 +14717,24 @@
     },
     {
       "album": {
+        "name": "Hinode",
+        "url": "https://open.spotify.com/album/5yJDZPiyHZAjvOoQkryexl"
+      },
+      "artists": [
+        {
+          "name": "Sorai",
+          "url": "https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "Hinode",
+      "url": "https://open.spotify.com/track/0kAXBA7ZLIK6TxHPqCbDRu"
+    },
+    {
+      "album": {
         "name": "hjortron",
         "url": "https://open.spotify.com/album/5sANFRqIeEJUz1aVPmgEjA"
       },
@@ -27724,7 +27742,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 129475,
       "name": "rodeo",
       "url": "https://open.spotify.com/track/1tCNCWswBD2eoaYnrQGKFi"

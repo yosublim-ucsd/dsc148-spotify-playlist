@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 ### [This Is The Intruders](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JHaiA)
 
-> This is The Intruders\. The essential tracks, all in one playlist.
+> This Is The Intruders\. Todas as faixas essenciais numa única playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,813 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,815 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 49 | [Only One](https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Tommy Brown](https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436) | [Only One](https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9) | 4:17 |
 | 50 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
 
-Snapshot ID: `ZqrQAAAAAABodemtpnzCZcXoOI0JPsuv`
+Snapshot ID: `ZqrQAAAAAADj2KnPtFkMzQ2dazjN74Z7`

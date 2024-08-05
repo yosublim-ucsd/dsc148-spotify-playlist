@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 38120,
+  "num_followers": 38153,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Club Vibes Part 04",
-        "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Knocking Birds",
-      "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Club Vibes Part 04",
+        "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Knocking Birds",
+      "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Teki Teki",
+        "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
+      },
+      "artists": [
+        {
+          "name": "Ishimaru",
+          "url": "https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "Teki Teki",
+      "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Nuthin' On EP",
         "url": "https://open.spotify.com/album/0xHCfboVdtsec7vOiammF5"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 210000,
       "name": "Nuthin' On",
       "url": "https://open.spotify.com/track/2iSKzMK0aNxmNAzdBVN6jp"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Teki Teki",
-        "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
-      },
-      "artists": [
-        {
-          "name": "Ishimaru",
-          "url": "https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "Teki Teki",
-      "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Stutter EP",
         "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
-      },
-      "artists": [
-        {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Movimiento",
         "url": "https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 333913,
       "name": "Tempelhof",
       "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Where Ya At",
-        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
-      },
-      "artists": [
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Where Ya At",
-      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1631,22 +1615,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Space Bump",
-        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
+        "name": "Where Ya At",
+        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        },
-        {
-          "name": "Deeft",
-          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
         }
       ],
-      "duration_ms": 167004,
-      "name": "Space Bump",
-      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
+      "duration_ms": 228750,
+      "name": "Where Ya At",
+      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1671,6 +1651,26 @@
       "duration_ms": 342623,
       "name": "Break Down - Dennis Cruz Remix",
       "url": "https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Space Bump",
+        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Deeft",
+          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+        }
+      ],
+      "duration_ms": 167004,
+      "name": "Space Bump",
+      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
       "added_at": "2024-08-02 04:00:00",

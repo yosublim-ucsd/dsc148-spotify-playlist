@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Haley Heynderickx
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,844 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,010 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 32 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
 | 33 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 34 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
-| 35 | [Drugs](https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Drugs](https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e) | 3:23 |
+| 35 | [DRUGS](https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [DRUGS](https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e) | 3:23 |
 | 36 | [Taste The Dirt](https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Taste The Dirt](https://open.spotify.com/album/5SFkvjzqD5QmOARqp1MIDm) | 2:56 |
 | 37 | [So Far Gone \(feat\. Lizzy McAlpine\)](https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:16 |
 | 38 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 |

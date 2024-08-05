@@ -1,6 +1,6 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
-  "num_followers": 1004481,
+  "num_followers": 1010459,
   "original_name": "Summer House 2024",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
         "name": "Black Friday (pretty like the sun)",
         "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -239,34 +239,22 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
+        "name": "Free (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
       },
       "artists": [
         {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
-        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
-        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
-      },
-      "artists": [
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
-      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+      "duration_ms": 212345,
+      "name": "Free (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -303,22 +291,34 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "Free (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
         }
       ],
-      "duration_ms": 212345,
-      "name": "Free (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
+      "duration_ms": 140000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "Beso (Fruta Fresca)",
-        "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 197694,
-      "name": "Beso (Fruta Fresca)",
-      "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P"
       },
@@ -439,18 +419,22 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+        "name": "Beso (Fruta Fresca)",
+        "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+      "duration_ms": 197694,
+      "name": "Beso (Fruta Fresca)",
+      "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -475,6 +459,22 @@
       "duration_ms": 196853,
       "name": "How You Feel (Ft. Leven Kali)",
       "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
         "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
         "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "Hotstepper",
-        "url": "https://open.spotify.com/album/2fEyzL7jdYeu1trYCeFTXr"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        }
-      ],
-      "duration_ms": 141795,
-      "name": "Hotstepper",
-      "url": "https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
         "name": "Lauren (I Can't Stay Forever)",
         "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 200550,
       "name": "Lauren (I Can't Stay Forever)",
       "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
+        "name": "Hotstepper",
+        "url": "https://open.spotify.com/album/2fEyzL7jdYeu1trYCeFTXr"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "duration_ms": 141795,
+      "name": "Hotstepper",
+      "url": "https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -859,6 +859,26 @@
       "duration_ms": 250000,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -927,26 +947,6 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "Friendly Pressure (Sunship Remixes)",
-        "url": "https://open.spotify.com/album/6RPDt4qkk82lw4JMPTIJsl"
-      },
-      "artists": [
-        {
-          "name": "Jhelisa",
-          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
-        },
-        {
-          "name": "Sunship",
-          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
-        }
-      ],
-      "duration_ms": 334760,
-      "name": "Friendly Pressure - Into The Sunshine Mix",
-      "url": "https://open.spotify.com/track/70kfnr6pptxpV8YXjii68u"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
         "name": "The Cruelest Summer",
         "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
       },
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
+        "name": "Friendly Pressure (Sunship Remixes)",
+        "url": "https://open.spotify.com/album/6RPDt4qkk82lw4JMPTIJsl"
+      },
+      "artists": [
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        },
+        {
+          "name": "Sunship",
+          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
+        }
+      ],
+      "duration_ms": 334760,
+      "name": "Friendly Pressure - Into The Sunshine Mix",
+      "url": "https://open.spotify.com/track/70kfnr6pptxpV8YXjii68u"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
         "name": "Kongo (Han\u00ee 's Remix)",
         "url": "https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 233505,
       "name": "Kongo (Han\u00ee\u00b4s Remix)",
       "url": "https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 160314,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
+        "name": "The Door (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 210476,
+      "name": "The Door - CYRIL Remix",
+      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
         "name": "Blue Berries",
         "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 159586,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
-        "name": "The Door (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 210476,
-      "name": "The Door - CYRIL Remix",
-      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
         "name": "Corpo e Can\u00e7\u00e3o (Club Mix)",
         "url": "https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD"
       },
@@ -1319,46 +1339,6 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "Peru (Peace Control Remix)",
-        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        }
-      ],
-      "duration_ms": 287179,
-      "name": "Peru - Peace Control Remix",
-      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
         "name": "Karibu",
         "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
       },
@@ -1375,18 +1355,22 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+        "name": "Peru (Peace Control Remix)",
+        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
         }
       ],
-      "duration_ms": 298469,
-      "name": "Back To One",
-      "url": "https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF"
+      "duration_ms": 287179,
+      "name": "Peru - Peace Control Remix",
+      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -1411,6 +1395,22 @@
       "duration_ms": 381322,
       "name": "Champion",
       "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 298469,
+      "name": "Back To One",
+      "url": "https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 219208,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
         "name": "Get Busy (Odd Mob Club Mix)",
         "url": "https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW"
       },
@@ -1615,6 +1595,26 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
         "name": "A Fire Inside Of Me",
         "url": "https://open.spotify.com/album/5HH7aYCowVuzif3gYObhbu"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 238080,
       "name": "A Fire Inside Of Me",
       "url": "https://open.spotify.com/track/3N5JcXOMWU0J1lZcJrAVms"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -1647,22 +1663,6 @@
       "duration_ms": 190476,
       "name": "Live Without Love",
       "url": "https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "Waiting For Tonight",
-        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 198019,
-      "name": "Waiting For Tonight",
-      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
         "name": "Cruel Summer (Marcus Layton Edit)",
         "url": "https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U"
       },
@@ -1883,22 +1863,6 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
-      },
-      "artists": [
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
-    },
-    {
-      "added_at": "2024-08-02 17:34:10",
-      "album": {
         "name": "Daydreamer",
         "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
       },
@@ -1915,6 +1879,22 @@
       "duration_ms": 160403,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -1943,18 +1923,22 @@
     {
       "added_at": "2024-08-02 17:34:10",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
       },
       "artists": [
         {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
+      "duration_ms": 198019,
+      "name": "Waiting For Tonight",
+      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
     },
     {
       "added_at": "2024-08-02 17:34:10",
@@ -1975,6 +1959,22 @@
       "duration_ms": 159310,
       "name": "Body on Fire",
       "url": "https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ"
+    },
+    {
+      "added_at": "2024-08-02 17:34:10",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2024-08-02 17:34:10",

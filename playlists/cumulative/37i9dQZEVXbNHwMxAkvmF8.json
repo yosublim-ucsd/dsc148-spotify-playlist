@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 124273,
       "name": "BAGIRA",
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -6802,7 +6802,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 181530,
       "name": "Feledn\u00e9d",
       "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
@@ -6934,6 +6934,32 @@
       "duration_ms": 166588,
       "name": "Fiatal \u00e9s \u0151r\u00fclt",
       "url": "https://open.spotify.com/track/3sE7DmCeV0NOU9iTuToADc"
+    },
+    {
+      "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167228,
+      "name": "FIELD TRIP",
+      "url": "https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u"
     },
     {
       "album": {
@@ -9246,7 +9272,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 227032,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
@@ -23162,7 +23188,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 190687,
       "name": "Walkin a street",
       "url": "https://open.spotify.com/track/5SDMdbd64hSpeg1OTCUy7L"

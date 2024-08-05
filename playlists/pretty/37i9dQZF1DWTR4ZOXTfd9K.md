@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,247 likes - 100 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,297 likes - 100 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 7 | [Dig Dis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:09 |
 | 8 | [Moanin'](https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Moanin' \(Expanded Edition\)](https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC) | 9:30 |
 | 9 | [Freedom March \- Remastered](https://open.spotify.com/track/5SwlamKyZwNdIhuSTxVwsG) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Sunday Mornin'](https://open.spotify.com/album/13kjTNpNB9CkwNIys1M1bG) | 8:42 |
-| 10 | [Cheese Cake \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 6:33 |
+| 10 | [Cheese Cake \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 6:33 |
 | 11 | [lamplight](https://open.spotify.com/track/0rRtkc4eUbH2v6qBtw00l4) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 3:37 |
 | 12 | [Fugitive Ritual, Selah](https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 5:47 |
 | 13 | [The Water Is Rising](https://open.spotify.com/track/5KNveW74OVXrSL6GV1OFsC) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [The Sky Will Still Be There Tomorrow](https://open.spotify.com/album/2OGx1jpcmEF8vJoTaEyAh9) | 5:08 |

@@ -1,6 +1,6 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 74769,
+  "num_followers": 74809,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
@@ -331,38 +331,6 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 328600,
-      "name": "K.D.'s Motion - Rudy Van Gelder Edition/2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/6CuppdxxPFj7v81NCHfaJa"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
-        "name": "Green Street (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 440760,
-      "name": "No. 1 Green Street - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0dqWEPknT78MzavS5S4dLL"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
         "name": "The Magnificent Thad Jones (Remastered)",
         "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 414466,
       "name": "Charcoal Blues - Remastered 2004 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 328600,
+      "name": "K.D.'s Motion - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/6CuppdxxPFj7v81NCHfaJa"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -427,18 +411,18 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "Goin' Up",
-        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
+        "name": "The Sidewinder (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 419600,
-      "name": "Blues For Brenda - 1997 Remastered",
-      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
+      "duration_ms": 370160,
+      "name": "Gary's Notebook - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/00dDsLgxoPzhbPD3owDfwT"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -459,18 +443,34 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "The Sidewinder (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
+        "name": "Green Street (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 370160,
-      "name": "Gary's Notebook - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/00dDsLgxoPzhbPD3owDfwT"
+      "duration_ms": 440760,
+      "name": "No. 1 Green Street - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0dqWEPknT78MzavS5S4dLL"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "Goin' Up",
+        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 419600,
+      "name": "Blues For Brenda - 1997 Remastered",
+      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -487,6 +487,22 @@
       "duration_ms": 331600,
       "name": "Sweet 'n' Sour",
       "url": "https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "The Big Beat (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 571680,
+      "name": "The Chess Players - Remastered 2005",
+      "url": "https://open.spotify.com/track/63Ko3TB1r09NYmWr8T3VH9"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -519,6 +535,22 @@
       "duration_ms": 400840,
       "name": "The Cat Walk - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 304453,
+      "name": "The Joker - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -571,38 +603,6 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "The Big Beat (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 571680,
-      "name": "The Chess Players - Remastered 2005",
-      "url": "https://open.spotify.com/track/63Ko3TB1r09NYmWr8T3VH9"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
-        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
-        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 304453,
-      "name": "The Joker - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
         "name": "Sonny Rollins",
         "url": "https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 478453,
       "name": "Decision - Remastered 1999",
       "url": "https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
-        "name": "Byrd In Hand",
-        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 505080,
-      "name": "Here I Am - Rudy Van Gelder Edition/Remastered 2003",
-      "url": "https://open.spotify.com/track/7iu2Oae1eI295Ay086GNFt"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -655,34 +639,18 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+        "name": "Byrd In Hand",
+        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 511853,
-      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
-        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 465066,
-      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
-      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
+      "duration_ms": 505080,
+      "name": "Here I Am - Rudy Van Gelder Edition/Remastered 2003",
+      "url": "https://open.spotify.com/track/7iu2Oae1eI295Ay086GNFt"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -751,38 +719,6 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "Royal Flush",
-        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 381640,
-      "name": "Hush - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
-        "name": "The Turnaround",
-        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 404213,
-      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
         "name": "Six Pieces Of Silver",
         "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
@@ -799,18 +735,34 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "Horace Silver And The Jazz Messengers",
-        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 446986,
-      "name": "Creepin' In - Remastered",
-      "url": "https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP"
+      "duration_ms": 511853,
+      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -831,6 +783,22 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 381640,
+      "name": "Hush - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
         "name": "Star Bright",
         "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
@@ -847,6 +815,22 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 446986,
+      "name": "Creepin' In - Remastered",
+      "url": "https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
         "name": "Rollin' With Leo (Remastered)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -859,6 +843,54 @@
       "duration_ms": 385200,
       "name": "Rollin' With Leo - Remastered",
       "url": "https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "Lee-Way",
+        "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 729613,
+      "name": "Midtown Blues",
+      "url": "https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "The Turnaround",
+        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 404213,
+      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 439866,
+      "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -891,38 +923,6 @@
       "duration_ms": 294893,
       "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
-        "name": "Lee-Way",
-        "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 729613,
-      "name": "Midtown Blues",
-      "url": "https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 439866,
-      "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
+        "name": "Hootin' 'N Tootin'",
+        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
+      },
+      "artists": [
+        {
+          "name": "Fred Jackson",
+          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
+        }
+      ],
+      "duration_ms": 345466,
+      "name": "Preach Brother",
+      "url": "https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
         "name": "Here Comes Louis Smith",
         "url": "https://open.spotify.com/album/3mAny7ItvGWEF0EZmyxbRY"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 281986,
       "name": "Hoe Down",
       "url": "https://open.spotify.com/track/7kDlGHJVjuMGVZWNDlH9Ru"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
-        "name": "Hootin' 'N Tootin'",
-        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
-      },
-      "artists": [
-        {
-          "name": "Fred Jackson",
-          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
-        }
-      ],
-      "duration_ms": 345466,
-      "name": "Preach Brother",
-      "url": "https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v"
     },
     {
       "added_at": "2024-07-08 07:17:28",

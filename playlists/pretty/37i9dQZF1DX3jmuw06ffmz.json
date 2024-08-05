@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 2000. Foto: Paulina Rubio",
-  "num_followers": 322007,
+  "num_followers": 322133,
   "original_name": "Pop Latino: Los 2000",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 240613,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
     },
     {
       "added_at": "2024-06-12 20:29:16",
@@ -387,38 +387,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Un Dia Mas (Edicion Especial)",
-        "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 222986,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/22seP38foydqUMp5Fvkcjm"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Cu\u00eddate",
-      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -451,22 +419,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Mi Primer Millon",
-      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "El Templo del Pop",
         "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
       },
@@ -483,6 +435,38 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Cu\u00eddate",
+      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Un Dia Mas (Edicion Especial)",
+        "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 222986,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/22seP38foydqUMp5Fvkcjm"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 205373,
       "name": "A Dios Le Pido",
       "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Mi Primer Millon",
+      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
     },
     {
       "added_at": "2024-06-12 20:29:16",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "El Mundo Se Equivoca",
-        "url": "https://open.spotify.com/album/6C0am1pBvF0viIFsa0FZnp"
-      },
-      "artists": [
-        {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "Me Muero",
-      "url": "https://open.spotify.com/track/3ri9fLG89OdSpjxheYxU7S"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "Mundo Lite",
         "url": "https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 275373,
       "name": "Duele El Amor",
       "url": "https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "El Mundo Se Equivoca",
+        "url": "https://open.spotify.com/album/6C0am1pBvF0viIFsa0FZnp"
+      },
+      "artists": [
+        {
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "Me Muero",
+      "url": "https://open.spotify.com/track/3ri9fLG89OdSpjxheYxU7S"
     },
     {
       "added_at": "2024-06-12 20:29:16",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
         "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 310866,
       "name": "Sin miedo a nada (feat. Amaia Montero)",
       "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
     },
     {
       "added_at": "2024-06-12 20:29:16",

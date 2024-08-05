@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jennifer Lopez. Los temas esenciales, todos en una lista.",
-  "num_followers": 466768,
+  "description": "This is Jennifer Lopez. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 466782,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqrQAAAAAADkwSZjbVjuHtsHV+SkqkMY",
+  "snapshot_id": "ZqrQAAAAAACCpzVT9D4nK+/fxuVqB5lk",
   "tracks": [
     {
       "added_at": null,
@@ -1006,6 +1006,10 @@
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
         }
       ],
       "duration_ms": 331293,

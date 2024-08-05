@@ -661,6 +661,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167228,
+      "name": "FIELD TRIP",
+      "url": "https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u"
+    },
+    {
+      "album": {
         "name": "PEEKABOO",
         "url": "https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi"
       },
@@ -1792,7 +1818,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -3962,7 +3988,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
@@ -4838,7 +4864,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "\u0423\u0442\u0440\u043e",
       "url": "https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr"

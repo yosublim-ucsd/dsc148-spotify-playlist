@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 205281,
+  "num_followers": 205318,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
         "name": "Kingdom Come (Live)",
         "url": "https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ"
       },
@@ -231,34 +247,22 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Everything And Nothing Less (Live)",
-        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
+        "name": "Live at the Banks House",
+        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
       },
       "artists": [
         {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 326613,
-      "name": "God Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
         }
       ],
-      "duration_ms": 349586,
-      "name": "O Come to the Altar (Live)",
-      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+      "duration_ms": 376093,
+      "name": "Nothing I Hold on to (Live)",
+      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -279,6 +283,22 @@
       "duration_ms": 220133,
       "name": "Worship Through It",
       "url": "https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "Everything And Nothing Less (Live)",
+        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 326613,
+      "name": "God Of Miracles - Live",
+      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -315,42 +335,18 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Live at the Banks House",
-        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
+        "name": "On My Side",
+        "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
       },
       "artists": [
         {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        },
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 376093,
-      "name": "Nothing I Hold on to (Live)",
-      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "Another One (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 392308,
-      "name": "Another One (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
+      "duration_ms": 284946,
+      "name": "Throne Room",
+      "url": "https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -371,18 +367,22 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "On My Side",
-        "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
+        "name": "Another One (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
       },
       "artists": [
         {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 284946,
-      "name": "Throne Room",
-      "url": "https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu"
+      "duration_ms": 392308,
+      "name": "Another One (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Forever Amen",
-      "url": "https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
         "url": "https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 315946,
       "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
       "url": "https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Forever Amen",
+      "url": "https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "Take Courage (Radio Version)",
-      "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "A Million Saints (Live)",
         "url": "https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 208864,
       "name": "A Million Saints (Live)",
       "url": "https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "Take Courage (Radio Version)",
+      "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 333574,
-      "name": "Holy Ground",
-      "url": "https://open.spotify.com/track/7L73QNGkvyi7rX6zJ0fcwO"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Live At Church: Mixtape Vol. 1",
         "url": "https://open.spotify.com/album/5TTMY7j38aJ11kqrsZoXtC"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 719169,
       "name": "Nothing Else / All I Need Is You - Medley / Live",
       "url": "https://open.spotify.com/track/1FU3FhTkha9P7TtYqCDUdY"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 333574,
+      "name": "Holy Ground",
+      "url": "https://open.spotify.com/track/7L73QNGkvyi7rX6zJ0fcwO"
     },
     {
       "added_at": "2024-08-03 08:12:04",

@@ -1923,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Ataque de Ansiedad (Arial 5)",
+        "url": "https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156532,
+      "name": "Ataque de Ansiedad (Arial 5)",
+      "url": "https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18"
+    },
+    {
+      "album": {
         "name": "Atterrissage",
         "url": "https://open.spotify.com/album/7JOb07lFRC4z6NsrWd4D82"
       },
@@ -5329,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "Dance at the Function",
+        "url": "https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd"
+      },
+      "artists": [
+        {
+          "name": "Amilli",
+          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205901,
+      "name": "Dance at the Function",
+      "url": "https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW"
+    },
+    {
+      "album": {
         "name": "Now You See Me",
         "url": "https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J"
       },
@@ -8343,6 +8379,24 @@
     },
     {
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/2pBsm9BxIYXOfcdeUXlO3L"
       },
@@ -10970,6 +11024,24 @@
       "duration_ms": 249600,
       "name": "I Should've Known",
       "url": "https://open.spotify.com/track/2d7BDniXFXApGT1ggmF7BN"
+    },
+    {
+      "album": {
+        "name": "i thought that i'd know by now",
+        "url": "https://open.spotify.com/album/6T7nzcZGGzuhuhLfSKffyE"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174574,
+      "name": "I thought that i'd know by now",
+      "url": "https://open.spotify.com/track/7yd3WBefexIk6jtlXJr0HN"
     },
     {
       "album": {
@@ -13990,7 +14062,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 220192,
       "name": "Love Me Like You Say You Do",
       "url": "https://open.spotify.com/track/4NO0f4NB6jmsmUT2hNtNE8"
@@ -17742,6 +17814,24 @@
       "duration_ms": 197093,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
+    },
+    {
+      "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162735,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs"
     },
     {
       "album": {
@@ -22178,7 +22268,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 120078,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr"
@@ -22820,7 +22910,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 166562,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/3rX4Wd80m9PSvse363wwKz"
@@ -22896,7 +22986,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 177904,
       "name": "The Girl Who Cried Love",
       "url": "https://open.spotify.com/track/35r2RTtVGguSzfGPJgoxLl"
@@ -23112,7 +23202,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 141406,
       "name": "Thumb War",
       "url": "https://open.spotify.com/track/4PCS43NMFxaBqSAocp67Ml"

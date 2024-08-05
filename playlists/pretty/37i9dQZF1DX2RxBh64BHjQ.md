@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4VCriUU9CsPnUvoAsxVk1p">310babii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,774,257 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,774,625 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

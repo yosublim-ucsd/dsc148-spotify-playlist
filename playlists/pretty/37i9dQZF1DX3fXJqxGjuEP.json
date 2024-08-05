@@ -1,6 +1,6 @@
 {
   "description": "Give your day a warm and fruity vibe with Latin music! \ud83c\udf1e\ud83c\udf34\ud83c\udf4d\ud83c\udf49",
-  "num_followers": 675707,
+  "num_followers": 675762,
   "original_name": "Tropical Vibe",
   "owner": {
     "name": "Spotify",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
-      "added_at": "2024-03-21 20:23:59",
-      "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Vitamina D",
-      "url": "https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
@@ -511,6 +495,22 @@
       "duration_ms": 247733,
       "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
       "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
+    },
+    {
+      "added_at": "2024-03-21 20:23:59",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Vitamina D",
+      "url": "https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Satingarona, Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -619,22 +603,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "So\u00f1\u00e9 Contigo",
-        "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
       },
       "artists": [
         {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 211935,
-      "name": "So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -659,6 +639,26 @@
       "duration_ms": 221335,
       "name": "Aurora Dijo Adi\u00f3s",
       "url": "https://open.spotify.com/track/2Z82k4TZ7rLmyxrw8ApeQI"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "So\u00f1\u00e9 Contigo",
+        "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "chiquita suelta",
-        "url": "https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 160718,
-      "name": "chiquita suelta",
-      "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
-    },
-    {
       "added_at": "2022-04-17 18:31:09",
       "album": {
         "name": "TANDEM",
@@ -859,18 +843,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "\u00daltimos D\u00edas",
-        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
+        "name": "chiquita suelta",
+        "url": "https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
         }
       ],
-      "duration_ms": 319933,
-      "name": "\u00daltimos D\u00edas",
-      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
+      "duration_ms": 160718,
+      "name": "chiquita suelta",
+      "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -927,6 +911,22 @@
       "duration_ms": 288653,
       "name": "Luna Completa",
       "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "\u00daltimos D\u00edas",
+        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 319933,
+      "name": "\u00daltimos D\u00edas",
+      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1125,6 +1125,30 @@
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
+      "added_at": "2023-07-21 19:48:53",
+      "album": {
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 260584,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Ta Que Tiembla (Pachyman Remix)",
@@ -1199,30 +1223,6 @@
       "duration_ms": 327923,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
-    },
-    {
-      "added_at": "2023-07-21 19:48:53",
-      "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 260584,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1353,6 +1353,46 @@
       "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
+      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
+    },
+    {
+      "added_at": "2022-06-08 03:35:19",
+      "album": {
+        "name": "Amor Entre Mujer",
+        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 272799,
+      "name": "Amor Entre Mujer",
+      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
+    },
+    {
       "added_at": "2023-02-03 04:48:46",
       "album": {
         "name": "Porque Yo",
@@ -1371,22 +1411,6 @@
       "duration_ms": 181914,
       "name": "Porque Yo",
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
-      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1439,30 +1463,6 @@
       "duration_ms": 188320,
       "name": "Post Qu\u00edmica",
       "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
-    },
-    {
-      "added_at": "2022-06-08 03:35:19",
-      "album": {
-        "name": "Amor Entre Mujer",
-        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Polocorp",
-          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 272799,
-      "name": "Amor Entre Mujer",
-      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 196984,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Heavenly Sweetness Sampler #3",
         "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 184750,
       "name": "Acapulco, dos de la tard",
       "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 196984,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1717,22 +1717,6 @@
       "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
     },
     {
-      "added_at": "2022-09-03 02:45:23",
-      "album": {
-        "name": "Las 4:40",
-        "url": "https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 197017,
-      "name": "Las 4:40",
-      "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
@@ -1755,6 +1739,22 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
+    },
+    {
+      "added_at": "2022-09-03 02:45:23",
+      "album": {
+        "name": "Las 4:40",
+        "url": "https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 197017,
+      "name": "Las 4:40",
+      "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1845,22 +1845,6 @@
       "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
     },
     {
-      "added_at": "2023-11-16 17:08:42",
-      "album": {
-        "name": "Ya Va Pasar",
-        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 203494,
-      "name": "Ya Va Pasar",
-      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Flora y Fauna",
@@ -1875,6 +1859,22 @@
       "duration_ms": 173311,
       "name": "Amor Frutero",
       "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
+    },
+    {
+      "added_at": "2023-11-16 17:08:42",
+      "album": {
+        "name": "Ya Va Pasar",
+        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 203494,
+      "name": "Ya Va Pasar",
+      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
     },
     {
       "added_at": "2023-05-25 23:32:50",

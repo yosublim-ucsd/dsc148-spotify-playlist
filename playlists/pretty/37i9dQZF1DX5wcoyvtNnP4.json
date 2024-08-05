@@ -1,6 +1,6 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 488321,
+  "num_followers": 488305,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-26 08:09:58",
       "album": {
-        "name": "Birds In The Sky",
-        "url": "https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X"
-      },
-      "artists": [
-        {
-          "name": "NewEra",
-          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
-        }
-      ],
-      "duration_ms": 133548,
-      "name": "Birds In The Sky",
-      "url": "https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES"
-    },
-    {
-      "added_at": "2024-07-26 08:09:58",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 181957,
       "name": "Whistle (feat. Calum Scott)",
       "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
+    },
+    {
+      "added_at": "2024-07-26 08:09:58",
+      "album": {
+        "name": "Birds In The Sky",
+        "url": "https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X"
+      },
+      "artists": [
+        {
+          "name": "NewEra",
+          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
+        }
+      ],
+      "duration_ms": 133548,
+      "name": "Birds In The Sky",
+      "url": "https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES"
     },
     {
       "added_at": "2024-07-26 08:09:58",
@@ -411,6 +411,50 @@
     {
       "added_at": "2024-07-26 08:09:58",
       "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    {
+      "added_at": "2024-07-26 08:09:58",
+      "album": {
+        "name": "Never Be Lonely",
+        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 134570,
+      "name": "Never Be Lonely",
+      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
+    },
+    {
+      "added_at": "2024-07-26 08:09:58",
+      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
       },
@@ -467,50 +511,6 @@
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
-    },
-    {
-      "added_at": "2024-07-26 08:09:58",
-      "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
-    },
-    {
-      "added_at": "2024-07-26 08:09:58",
-      "album": {
-        "name": "Never Be Lonely",
-        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 134570,
-      "name": "Never Be Lonely",
-      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
     },
     {
       "added_at": "2024-07-26 08:09:58",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-26 08:09:58",
       "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+    },
+    {
+      "added_at": "2024-07-26 08:09:58",
+      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
       },
@@ -691,18 +707,22 @@
     {
       "added_at": "2024-07-26 08:09:58",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+        "name": "I",
+        "url": "https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo"
       },
       "artists": [
         {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
         }
       ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+      "duration_ms": 139422,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"
     },
     {
       "added_at": "2024-07-26 08:09:58",
@@ -727,26 +747,6 @@
       "duration_ms": 162857,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
-    },
-    {
-      "added_at": "2024-07-26 08:09:58",
-      "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 139422,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"
     },
     {
       "added_at": "2024-07-26 08:09:58",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-07-26 08:09:58",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 177206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
+    },
+    {
+      "added_at": "2024-07-26 08:09:58",
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 147973,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
-    },
-    {
-      "added_at": "2024-07-26 08:09:58",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 177206,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
     },
     {
       "added_at": "2024-07-26 08:09:58",
@@ -991,30 +991,6 @@
       "duration_ms": 170045,
       "name": "Do It Better (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
-    },
-    {
-      "added_at": "2024-07-26 08:09:58",
-      "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 166632,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
     },
     {
       "added_at": "2024-07-26 08:09:58",
@@ -1059,6 +1035,30 @@
       "duration_ms": 162353,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP"
+    },
+    {
+      "added_at": "2024-07-26 08:09:58",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 166632,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
     },
     {
       "added_at": "2024-07-26 08:09:58",

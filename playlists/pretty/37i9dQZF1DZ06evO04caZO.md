@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 
 > This is The Strokes\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,934 likes - 41 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,025 likes - 41 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

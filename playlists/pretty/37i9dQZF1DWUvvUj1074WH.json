@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 183361,
+  "num_followers": 183408,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -212,25 +196,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 306440,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -311,6 +279,38 @@
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 306440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 236920,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Are You Gonna Go My Way",
-      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -831,22 +815,18 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+      "duration_ms": 211933,
+      "name": "Are You Gonna Go My Way",
+      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -863,6 +843,26 @@
       "duration_ms": 215866,
       "name": "La C\u00e9lula Que Explota",
       "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "News Of The World (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "Blondes Have More Fun",
         "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 236333,
       "name": "Viento",
       "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 267226,
       "name": "Kumbala",
       "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 156197,
       "name": "Irresponsables",
       "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "No Es Lo Que Parece",
-        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Kil\u00f3metros",
-      "url": "https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "No Es Lo Que Parece",
+        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Cargo",
-        "url": "https://open.spotify.com/album/4GDchmJ8oESRJ58cDXvnE0"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/3iA4foXIFpekwHyma7pRs1"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 250293,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "Cargo",
+        "url": "https://open.spotify.com/album/4GDchmJ8oESRJ58cDXvnE0"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/3iA4foXIFpekwHyma7pRs1"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Pampas Reggae",
-        "url": "https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/2lqFwTECuP5VNUvzzotxWo"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "Fobia",
         "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 157106,
       "name": "El Microbito",
       "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "Pampas Reggae",
+        "url": "https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2lqFwTECuP5VNUvzzotxWo"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "The Coral",
-        "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
-      },
-      "artists": [
-        {
-          "name": "The Coral",
-          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Dreaming of You",
-      "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 188917,
       "name": "Mi Mu\u00f1equita Sint\u00e9tica",
       "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "The Coral",
+        "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
+      },
+      "artists": [
+        {
+          "name": "The Coral",
+          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Dreaming of You",
+      "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Viva Hate (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Suedehead - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0kA5scXMiaO5Ms2GQ4pRWa"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 238747,
       "name": "Ch\u00fantaros Style",
       "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "Viva Hate (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Suedehead - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0kA5scXMiaO5Ms2GQ4pRWa"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "Solos en Am\u00e9rica",
         "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
       },
@@ -2135,34 +2119,18 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Yours Truly, Angry Mob",
-        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
       "artists": [
         {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 204200,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 266746,
-      "name": "Guitarras Blancas",
-      "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -2183,6 +2151,22 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
+        "name": "Yours Truly, Angry Mob",
+        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
       },
@@ -2199,6 +2183,22 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Guitarras Blancas",
+      "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
         "name": "The Return of El Santo",
         "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
       },
@@ -2211,6 +2211,22 @@
       "duration_ms": 287013,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Mal Bicho",
+      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -2279,22 +2295,6 @@
     {
       "added_at": "2024-07-11 01:06:59",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Mal Bicho",
-      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
         "name": "The Hurting",
         "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
       },
@@ -2339,22 +2339,6 @@
       "duration_ms": 180826,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
-    },
-    {
-      "added_at": "2024-07-11 01:06:59",
-      "album": {
-        "name": "Mundo Feliz",
-        "url": "https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 215413,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx"
     },
     {
       "added_at": "2024-07-11 01:06:59",
@@ -2419,6 +2403,22 @@
       "duration_ms": 339933,
       "name": "Mi Ag\u00fcita Amarilla",
       "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
+    },
+    {
+      "added_at": "2024-07-11 01:06:59",
+      "album": {
+        "name": "Mundo Feliz",
+        "url": "https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6"
+      },
+      "artists": [
+        {
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx"
     }
   ],
   "unique_name": "La Cervecer\u00eda",

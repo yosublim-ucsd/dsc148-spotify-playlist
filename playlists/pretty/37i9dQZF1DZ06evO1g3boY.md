@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 ### [This Is Emicida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g3boY)
 
-> This is Emicida\. Todos os maiores hits em uma só playlist.
+> This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,418 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,427 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [A Chapa é Quente \- Ao Vivo](https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 3:52 |
 | 50 | [Boa Esperança](https://open.spotify.com/track/2v3FdNAsIe9rh62DOb4ZIz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [J\. Ghetto](https://open.spotify.com/artist/6vcFsBBJc4qleLGg6JzT4z) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:02 |
 
-Snapshot ID: `ZqrQAAAAAAB1ZdoSdnMYyNhSyrhMLKlF`
+Snapshot ID: `ZqrQAAAAAACEYE+5ROCe0sconHWz6GVE`

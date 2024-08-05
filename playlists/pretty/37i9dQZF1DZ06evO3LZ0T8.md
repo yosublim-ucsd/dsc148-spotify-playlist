@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,959 likes - 45 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,967 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

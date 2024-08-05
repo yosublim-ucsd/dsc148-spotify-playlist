@@ -323,22 +323,6 @@
     {
       "added_at": "2024-08-01 03:58:14",
       "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 170629,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
-    },
-    {
-      "added_at": "2024-08-01 03:58:14",
-      "album": {
         "name": "Y2K!",
         "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 123469,
       "name": "TTYL",
       "url": "https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7"
+    },
+    {
+      "added_at": "2024-08-01 03:58:14",
+      "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 170629,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
     },
     {
       "added_at": "2024-08-01 03:58:14",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-01 03:58:14",
       "album": {
-        "name": "Free Like",
-        "url": "https://open.spotify.com/album/3oLm7KrYF4ZMdqlialglaN"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 169114,
-      "name": "Free Like",
-      "url": "https://open.spotify.com/track/1pRvzjKNkW5DY1ycqAftIR"
-    },
-    {
-      "added_at": "2024-08-01 03:58:14",
-      "album": {
         "name": "Still Waters",
         "url": "https://open.spotify.com/album/32qFN5Usk7h9t1AJLwXJ2p"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 232797,
       "name": "Honest",
       "url": "https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT"
+    },
+    {
+      "added_at": "2024-08-01 03:58:14",
+      "album": {
+        "name": "Free Like",
+        "url": "https://open.spotify.com/album/3oLm7KrYF4ZMdqlialglaN"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 169114,
+      "name": "Free Like",
+      "url": "https://open.spotify.com/track/1pRvzjKNkW5DY1ycqAftIR"
     },
     {
       "added_at": "2024-08-01 03:58:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 151 songs - 8 hr 9 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 153 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 149 | [Montego Slay](https://open.spotify.com/track/6WBzCRqjK96aKBvKiIyiZO) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 3:58 |
 | 150 | [Soul Doubt](https://open.spotify.com/track/1i0r2mb2SaHFjphF1dtizV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(III\)](https://open.spotify.com/album/3WEiXCyMnt06uLuJ6GqizD) | 2:00 |
 | 151 | [9k Freestyle](https://open.spotify.com/track/3P2g3b9uT8k2SoOmGbDco4) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [9k Freestyle](https://open.spotify.com/album/0av82aRcZgT5tDynSdVThi) | 2:12 |
+| 152 | [21](https://open.spotify.com/track/1AdXchAT6hBUm5d6y4nKjI) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blank Blank](https://open.spotify.com/album/6L2X9oAs6pLMweH6pSpfTT) | 2:50 |
+| 153 | [High \(feat\. Elton John\)](https://open.spotify.com/track/7iMDaY1LnASwCk2uUpMtii) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [On the Run](https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO) | 3:15 |
 
-Snapshot ID: `AAAcx0VqnANAdpcxRtJZ+Sz3K5Ku+tOB`
+Snapshot ID: `AAAcydscgL52epiBNJpMv6rgCX9U35OV`

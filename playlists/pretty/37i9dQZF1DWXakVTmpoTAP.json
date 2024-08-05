@@ -1,6 +1,6 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 18178,
+  "num_followers": 18179,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
+        "name": "Little Earthquakes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 341813,
+      "name": "Winter - 2015 Remaster",
+      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
+    },
+    {
+      "added_at": "2024-06-16 15:20:38",
+      "album": {
         "name": "Home At Last",
         "url": "https://open.spotify.com/album/1eJpsLmeCaf02MCGsdbM6W"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 228453,
       "name": "Ready, Set, Don't Go",
       "url": "https://open.spotify.com/track/4SSUj4OC7giqpMNCqSQSCf"
-    },
-    {
-      "added_at": "2024-06-16 15:20:38",
-      "album": {
-        "name": "Little Earthquakes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 341813,
-      "name": "Winter - 2015 Remaster",
-      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
     },
     {
       "added_at": "2024-06-16 15:20:38",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
-        "name": "Hits Alive",
-        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Anything Like Me",
-      "url": "https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda"
-    },
-    {
-      "added_at": "2024-06-16 15:20:38",
-      "album": {
         "name": "Soldier of Love",
         "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 198026,
       "name": "I'm Her Daddy",
       "url": "https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej"
+    },
+    {
+      "added_at": "2024-06-16 15:20:38",
+      "album": {
+        "name": "Hits Alive",
+        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Anything Like Me",
+      "url": "https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda"
     },
     {
       "added_at": "2024-06-16 15:20:38",

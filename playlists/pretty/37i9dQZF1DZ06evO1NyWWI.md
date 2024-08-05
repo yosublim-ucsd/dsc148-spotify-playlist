@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 
 ### [This Is Led Zeppelin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NyWWI)
 
-> This is Led Zeppelin\. The essential tracks, all in one playlist.
+> This Is Led Zeppelin\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,795 likes - 49 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,925 likes - 49 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 48 | [The Crunge \- Remaster](https://open.spotify.com/track/7IgBLFklu75pp8Y1vphChS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 3:17 |
 | 49 | [Hot Dog \- Remaster](https://open.spotify.com/track/5K2yYEoc9ljOlzoMnhQSgm) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 3:18 |
 
-Snapshot ID: `ZqrQAAAAAADClB6hJdxnZHlsQB5EY9K6`
+Snapshot ID: `ZqrQAAAAAACcXFR3fLM4uCP6jC6Y8cVl`

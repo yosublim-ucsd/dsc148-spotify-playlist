@@ -1,6 +1,6 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 21344,
+  "num_followers": 21359,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "In The Night (feat. Jorja Smith & Amaarae)",
         "url": "https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe"
       },
@@ -255,6 +239,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Deep in the Water",
         "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
       },
@@ -311,38 +311,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "1:59 (feat. Gunna)",
         "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
       },
@@ -359,6 +327,22 @@
       "duration_ms": 192089,
       "name": "1:59 (feat. Gunna)",
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -391,6 +375,22 @@
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -507,18 +507,30 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+        "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 196426,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
+      "duration_ms": 237623,
+      "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -535,6 +547,22 @@
       "duration_ms": 155695,
       "name": "Lagos Love Story",
       "url": "https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -615,34 +643,6 @@
       "duration_ms": 144000,
       "name": "Looking for God",
       "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
-        "url": "https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce"
-      },
-      "artists": [
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 237623,
-      "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Love practitioner",
-        "url": "https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y"
-      },
-      "artists": [
-        {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
-        }
-      ],
-      "duration_ms": 155403,
-      "name": "Love practitioner",
-      "url": "https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Algorithm",
         "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 227368,
       "name": "HERicane",
       "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Love practitioner",
+        "url": "https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 155403,
+      "name": "Love practitioner",
+      "url": "https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -931,18 +931,34 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+        "name": "Love & Romance",
+        "url": "https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
         }
       ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
+      "duration_ms": 133343,
+      "name": "Love & Romance",
+      "url": "https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "ITS NOT THAT DEEP",
+        "url": "https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 117761,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -967,18 +983,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "ITS NOT THAT DEEP",
-        "url": "https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB"
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
       },
       "artists": [
         {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 117761,
-      "name": "SUPERSTAR",
-      "url": "https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi"
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -995,22 +1011,6 @@
       "duration_ms": 159131,
       "name": "SUNSET BLVD",
       "url": "https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Love & Romance",
-        "url": "https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 133343,
-      "name": "Love & Romance",
-      "url": "https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1035,6 +1035,22 @@
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Sophcore",
+        "url": "https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 147428,
       "name": "Feels Good - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5sufqLTHrxCbXhRDeYownS"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Sophcore",
-        "url": "https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Hey Girl",
-      "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Hold Me Tight",
-        "url": "https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz"
+        "name": "Waiting On You",
+        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
       },
       "artists": [
         {
-          "name": "Manana",
-          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
         }
       ],
-      "duration_ms": 199306,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK"
+      "duration_ms": 163555,
+      "name": "Waiting On You",
+      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1363,6 +1363,22 @@
       "duration_ms": 160200,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0V8My1NtUo51470iBrav0Y"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "duration_ms": 199306,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1443,34 +1459,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Lost Time",
-        "url": "https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X"
+        "name": "Soul Searching",
+        "url": "https://open.spotify.com/album/4NspnWD3q3ji5ufaeTy7Lq"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "nezsa",
+          "url": "https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM"
         }
       ],
-      "duration_ms": 172687,
-      "name": "Lost Time",
-      "url": "https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Align (Sorry)",
-        "url": "https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6"
-      },
-      "artists": [
-        {
-          "name": "Manana",
-          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "Align (Sorry)",
-      "url": "https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua"
+      "duration_ms": 174545,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/40koVJVPscwPtadljPKMjq"
     }
   ],
   "unique_name": "Cocoa Butter ",

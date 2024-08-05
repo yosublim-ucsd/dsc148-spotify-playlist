@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 ### [This Is Motörhead](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UHpXG)
 
-> This is Motörhead\. The essential tracks, all in one playlist.
+> This Is Motörhead\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,757 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,791 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 49 | [1916](https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 3:44 |
 | 50 | [Too Good To Be True](https://open.spotify.com/track/2r4KEU4enoON5SiUCL4HLV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e) | 3:36 |
 
-Snapshot ID: `ZqrQAAAAAAA4IPPGpkB8BhXG/ChltksC`
+Snapshot ID: `ZqrQAAAAAADxl3VYr4XTY1PtjL4gEctt`

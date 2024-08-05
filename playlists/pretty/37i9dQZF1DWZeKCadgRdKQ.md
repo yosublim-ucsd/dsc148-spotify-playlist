@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient and post\-rock music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,479,339 likes - 185 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,479,769 likes - 185 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 25 | [Atmosphere](https://open.spotify.com/track/19g2Q1yE3LlRykOa5sLL7C) | [Savione](https://open.spotify.com/artist/3BqdrzfJnVqaTOI84wcjVg) | [Atmosphere](https://open.spotify.com/album/6onogylUTUOmrp6Fwb6F5j) | 2:32 |
 | 26 | [Body Language](https://open.spotify.com/track/23Z6yAJZiMj7lilkVY18a5) | [Equilibrium](https://open.spotify.com/artist/59jQO7J3QjAagf5hmJDc6A) | [Body Language](https://open.spotify.com/album/7zbQsDDUHqu2AQRBlhw1hC) | 2:29 |
 | 27 | [Headspace](https://open.spotify.com/track/1dONhBwI00X9RqmWwyNyHF) | [amaron](https://open.spotify.com/artist/01aRA4ZySdCi0bmRhTyGhf) | [Headspace](https://open.spotify.com/album/7sH0j9DFAE6NFNMXudgUVF) | 2:28 |
-| 28 | [Entropy](https://open.spotify.com/track/7IQiA0AS6H75uULh09EoHp) | [Antonio Roberto](https://open.spotify.com/artist/3qfRuoQ6A1uFzEdXfJsUTG) | [Entropy](https://open.spotify.com/album/0TUnPJbHP1krkbxOoTzFr9) | 2:03 |
+| 28 | [Entropy](https://open.spotify.com/track/7IQiA0AS6H75uULh09EoHp) | [Antonio Roberto](https://open.spotify.com/artist/1MPnkkIDlbT3ZoryQbOiyc) | [Entropy](https://open.spotify.com/album/0TUnPJbHP1krkbxOoTzFr9) | 2:03 |
 | 29 | [Quiet And Gentle](https://open.spotify.com/track/1nFI8uEfuL6E9Kykv6lTXI) | [BBG's](https://open.spotify.com/artist/0rKBlryjOUk7Oy1v0RCG0o) | [Quiet And Gentle](https://open.spotify.com/album/0dDtVTzmbkbYkK0p6Yw0jk) | 2:40 |
 | 30 | [Inner Calm](https://open.spotify.com/track/7Anprc8qpsTpgGBFCCUkaj) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Inner Calm](https://open.spotify.com/album/4XJnVVkctq17qjCpiYvIaj) | 3:27 |
 | 31 | [Captured In Time](https://open.spotify.com/track/5To1fEcYOWETr7lO7WAg5f) | [Serenity Within](https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp) | [Captured In Time](https://open.spotify.com/album/7qHgsvtd9JHsetIAf6QvP4) | 2:17 |

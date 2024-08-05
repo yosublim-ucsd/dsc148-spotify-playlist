@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,315 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,325 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [EDM](https://open.spotify.com/track/1LZ8P7gjRdjwgDBOFnUS5B) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:43 |
 | 50 | [кто ты](https://open.spotify.com/track/1eAy3nePI1v2EHpye6iy0g) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [кто ты](https://open.spotify.com/album/48Zo7gXVhzzW5VbvUQjzxy) | 1:40 |
 
-Snapshot ID: `LkGYcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LkLp8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

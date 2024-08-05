@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 657 likes - 33 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 658 likes - 33 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

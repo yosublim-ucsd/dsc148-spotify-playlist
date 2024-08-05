@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 ### [This Is Travis Scott](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vGf4I)
 
-> This is Travis Scott\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Travis Scott\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,505,890 likes - 52 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,506,647 likes - 52 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 51 | [pick up the phone](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [pick up the phone](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 |
 | 52 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 |
 
-Snapshot ID: `ZqrQAAAAAACrAKnsTk26SZUfL76OQrW4`
+Snapshot ID: `ZqrQAAAAAAABwvXstZVKqOY95g1Iw3+U`

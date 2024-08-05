@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12275,
+  "num_followers": 12279,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
-      },
-      "artists": [
-        {
-          "name": "Hidden Orchestra",
-          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
-        }
-      ],
-      "duration_ms": 344640,
-      "name": "Spoken",
-      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
-    },
-    {
       "added_at": "2022-09-03 03:50:05",
       "album": {
         "name": "Black Earth",
@@ -315,6 +299,22 @@
       "duration_ms": 387666,
       "name": "Constant Fear",
       "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
+      },
+      "artists": [
+        {
+          "name": "Hidden Orchestra",
+          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
+        }
+      ],
+      "duration_ms": 344640,
+      "name": "Spoken",
+      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
       "added_at": "2024-06-19 16:43:41",
@@ -705,6 +705,26 @@
       "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"
     },
     {
+      "added_at": "2022-04-06 04:00:43",
+      "album": {
+        "name": "Lenz Pianoday 2022",
+        "url": "https://open.spotify.com/album/5o3mfWFGzWv89xNQCOVk19"
+      },
+      "artists": [
+        {
+          "name": "Jan Sturm",
+          "url": "https://open.spotify.com/artist/6IVzJ4t1rAmWv72P9VbYgm"
+        },
+        {
+          "name": "STURM",
+          "url": "https://open.spotify.com/artist/3PiKVGvjj3QLtRaKfU0ggL"
+        }
+      ],
+      "duration_ms": 139885,
+      "name": "Lenz Pianoday 2022",
+      "url": "https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL"
+    },
+    {
       "added_at": "2022-02-25 04:13:05",
       "album": {
         "name": "Marrow",
@@ -743,26 +763,6 @@
       "duration_ms": 413993,
       "name": "Night Bunny (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP"
-    },
-    {
-      "added_at": "2022-04-06 04:00:43",
-      "album": {
-        "name": "Lenz Pianoday 2022",
-        "url": "https://open.spotify.com/album/5o3mfWFGzWv89xNQCOVk19"
-      },
-      "artists": [
-        {
-          "name": "Jan Sturm",
-          "url": "https://open.spotify.com/artist/6IVzJ4t1rAmWv72P9VbYgm"
-        },
-        {
-          "name": "STURM",
-          "url": "https://open.spotify.com/artist/3PiKVGvjj3QLtRaKfU0ggL"
-        }
-      ],
-      "duration_ms": 139885,
-      "name": "Lenz Pianoday 2022",
-      "url": "https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido"
     },
     {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "Lightless Room",
-        "url": "https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc"
-      },
-      "artists": [
-        {
-          "name": "Lucas Carlson",
-          "url": "https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7"
-        }
-      ],
-      "duration_ms": 299178,
-      "name": "Lightless Room",
-      "url": "https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu"
-    },
-    {
       "added_at": "2022-02-18 04:38:12",
       "album": {
         "name": "atomic bombs atomic bonds i love you",
@@ -939,6 +923,22 @@
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
+      "added_at": "2022-02-18 05:44:49",
+      "album": {
+        "name": "Lightless Room",
+        "url": "https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc"
+      },
+      "artists": [
+        {
+          "name": "Lucas Carlson",
+          "url": "https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7"
+        }
+      ],
+      "duration_ms": 299178,
+      "name": "Lightless Room",
+      "url": "https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "AM Prosperita\u0308t",
-        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
-      },
-      "artists": [
-        {
-          "name": "Lujo Asi\u00e1tico",
-          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
-        }
-      ],
-      "duration_ms": 288068,
-      "name": "AM Prosperita\u0308t",
-      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "Pyramid",
         "url": "https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 488904,
       "name": "Spiral Era",
       "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "AM Prosperita\u0308t",
+        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
+      },
+      "artists": [
+        {
+          "name": "Lujo Asi\u00e1tico",
+          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
+        }
+      ],
+      "duration_ms": 288068,
+      "name": "AM Prosperita\u0308t",
+      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
     },
     {
       "added_at": "2021-10-06 04:38:12",

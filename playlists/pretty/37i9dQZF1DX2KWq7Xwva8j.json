@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Luis Cort\u00e9s",
-  "num_followers": 26871,
+  "num_followers": 26876,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -175,38 +175,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Lo que nunca te dije",
-        "url": "https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 160632,
-      "name": "Lo que nunca te dije",
-      "url": "https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "En Sue\u00f1os",
         "url": "https://open.spotify.com/album/3KcJkq3hVSWymkMUKMkv97"
       },
@@ -243,22 +211,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "fumas?",
-        "url": "https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 178111,
-      "name": "fumas?",
-      "url": "https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Por Si Ma\u00f1ana No Estoy",
         "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
       },
@@ -275,24 +227,24 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Esa Morena",
-        "url": "https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc"
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
       },
       "artists": [
         {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 172040,
-      "name": "Esa Morena",
-      "url": "https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ"
+      "duration_ms": 207750,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
     },
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Estamos a un beso",
-        "url": "https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM"
+        "name": "Lo que nunca te dije",
+        "url": "https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID"
       },
       "artists": [
         {
@@ -300,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
         }
       ],
-      "duration_ms": 192720,
-      "name": "Estamos a un beso",
-      "url": "https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH"
+      "duration_ms": 160632,
+      "name": "Lo que nunca te dije",
+      "url": "https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -331,6 +283,38 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "fumas?",
+        "url": "https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 178111,
+      "name": "fumas?",
+      "url": "https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Esa Morena",
+        "url": "https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 172040,
+      "name": "Esa Morena",
+      "url": "https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Coraz\u00f3n Quemado",
         "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
       },
@@ -343,38 +327,6 @@
       "duration_ms": 185473,
       "name": "Coraz\u00f3n Quemado",
       "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Vicente Amor",
-        "url": "https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 112551,
-      "name": "Vicente Amor",
-      "url": "https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -395,6 +347,78 @@
       "duration_ms": 160589,
       "name": "De Charco En Charco",
       "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Estamos a un beso",
+        "url": "https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Estamos a un beso",
+      "url": "https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Vicente Amor",
+        "url": "https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 112551,
+      "name": "Vicente Amor",
+      "url": "https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "SexySensible",
+        "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        }
+      ],
+      "duration_ms": 154549,
+      "name": "Xarnega",
+      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -483,30 +507,6 @@
       "duration_ms": 97422,
       "name": "Azul Zafiro",
       "url": "https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "SexySensible",
-        "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
-      },
-      "artists": [
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
-        },
-        {
-          "name": "Bexnil",
-          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
-        }
-      ],
-      "duration_ms": 154549,
-      "name": "Xarnega",
-      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Contacto Cero",
-        "url": "https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "D\u00e9jame t\u00fa",
-      "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Fuego - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 199402,
       "name": "Fuego - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Contacto Cero",
+        "url": "https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "D\u00e9jame t\u00fa",
+      "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
     },
     {
       "added_at": "2024-07-18 22:00:00",

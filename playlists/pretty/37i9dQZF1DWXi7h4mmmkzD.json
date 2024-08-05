@@ -1,6 +1,6 @@
 {
   "description": "Nighttime is the right time for these party hits!",
-  "num_followers": 579828,
+  "num_followers": 579938,
   "original_name": "Country Nights",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Beer Never Broke My Heart",
-      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
         "name": "True Believers",
         "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 298373,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "3 Songs At A Time Sampler",
-        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 163854,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+      "duration_ms": 182960,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 182960,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
+      "duration_ms": 263386,
+      "name": "Springsteen",
+      "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -303,38 +303,34 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 263386,
-      "name": "Springsteen",
-      "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 180906,
-      "name": "1, 2 Many",
-      "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -355,18 +351,22 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
+      "duration_ms": 180906,
+      "name": "1, 2 Many",
+      "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 234346,
-      "name": "Whiskey Glasses",
-      "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
+      "duration_ms": 202346,
+      "name": "Head Over Boots",
+      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Head Over Boots",
-      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
+      "duration_ms": 234346,
+      "name": "Whiskey Glasses",
+      "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
         "name": "Take A Back Road",
         "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
       },
@@ -663,38 +679,6 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 205706,
       "name": "I Like It, I Love It",
       "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "Here For A Good Time",
-        "url": "https://open.spotify.com/album/0JxBiJVEmzFJdbMwgLohC1"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Here For A Good Time",
-      "url": "https://open.spotify.com/track/11OFYsUK9EVJsQ6nutH32M"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 190240,
       "name": "House Party",
       "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
+        "name": "Here For A Good Time",
+        "url": "https://open.spotify.com/album/0JxBiJVEmzFJdbMwgLohC1"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Here For A Good Time",
+      "url": "https://open.spotify.com/track/11OFYsUK9EVJsQ6nutH32M"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
         "name": "County Line",
         "url": "https://open.spotify.com/album/1uNypcb5QCqYQ70tg6LV5q"
       },
@@ -879,26 +863,6 @@
       "duration_ms": 152000,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
-        "name": "One Thing Right",
-        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "One Thing Right",
-      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -935,6 +899,22 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
@@ -947,22 +927,6 @@
       "duration_ms": 189780,
       "name": "5 Foot 9",
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
-        "name": "Wildflowers and Wild Horses",
-        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Wildflowers and Wild Horses (Single Version)",
-      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -983,6 +947,22 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
+        "name": "Wildflowers and Wild Horses",
+        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Wildflowers and Wild Horses (Single Version)",
+      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
         "name": "Golden Road",
         "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
@@ -999,6 +979,26 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
+        "name": "One Thing Right",
+        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "One Thing Right",
+      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 205106,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
+        "name": "The Road And The Radio",
+        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -1043,22 +1059,6 @@
       "duration_ms": 172480,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
-        "name": "The Road And The Radio",
-        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Good as You",
-      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
         "name": "One Margarita",
         "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 193426,
       "name": "One Margarita",
       "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Good as You",
+      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Cowboy Casanova",
-      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
         "name": "Get Closer (Deluxe Version)",
         "url": "https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 273586,
       "name": "Long Hot Summer",
       "url": "https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Cowboy Casanova",
+      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
     },
     {
       "added_at": "2024-07-05 22:42:35",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-05 22:42:35",
       "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Breaking Up Was Easy In The 90's",
-      "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
-    },
-    {
-      "added_at": "2024-07-05 22:42:35",
-      "album": {
         "name": "Here's To The Good Times",
         "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 222013,
       "name": "Get Your Shine On",
       "url": "https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd"
+    },
+    {
+      "added_at": "2024-07-05 22:42:35",
+      "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Breaking Up Was Easy In The 90's",
+      "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
     },
     {
       "added_at": "2024-07-05 22:42:35",

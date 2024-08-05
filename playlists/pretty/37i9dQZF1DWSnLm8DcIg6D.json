@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack to your girl dinner. cover: Tinashe",
-  "num_followers": 150657,
+  "num_followers": 150669,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-07-12 01:01:30",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 251240,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-07-12 01:01:30",
@@ -327,18 +327,34 @@
     {
       "added_at": "2024-07-12 01:01:30",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2024-07-12 01:01:30",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 251240,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
     },
     {
       "added_at": "2024-07-28 14:00:00",
@@ -355,6 +371,38 @@
       "duration_ms": 150000,
       "name": "JOYRIDE",
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
+    },
+    {
+      "added_at": "2024-07-12 01:01:30",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2024-07-12 01:01:30",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2024-07-12 01:01:30",
@@ -391,54 +439,6 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2024-07-12 01:01:30",
-      "album": {
-        "name": "Paint The Town Red",
-        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
-    },
-    {
-      "added_at": "2024-07-12 01:01:30",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-07-12 01:01:30",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2024-07-12 01:01:30",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-12 01:01:30",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2024-07-12 01:01:30",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2024-07-12 01:01:30",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2024-07-12 01:01:30",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-07-12 01:01:30",
       "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "Primadonna",
+      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
+    },
+    {
+      "added_at": "2024-07-12 01:01:30",
+      "album": {
         "name": "DEMIDEVIL",
         "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 178404,
       "name": "Slumber Party (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ"
-    },
-    {
-      "added_at": "2024-07-12 01:01:30",
-      "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 221075,
-      "name": "Primadonna",
-      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
     },
     {
       "added_at": "2024-07-12 01:01:30",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-12 01:01:30",
       "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
-    },
-    {
-      "added_at": "2024-07-12 01:01:30",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 230200,
       "name": "Jumpin', Jumpin'",
       "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+    },
+    {
+      "added_at": "2024-07-12 01:01:30",
+      "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "added_at": "2024-07-12 01:01:30",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-07-12 01:01:30",
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 215459,
+      "name": "ALIEN SUPERSTAR",
+      "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
+    },
+    {
+      "added_at": "2024-07-12 01:01:30",
+      "album": {
         "name": "Bongos (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2024-07-12 01:01:30",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 215459,
-      "name": "ALIEN SUPERSTAR",
-      "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
-    },
-    {
-      "added_at": "2024-07-12 01:01:30",
-      "album": {
         "name": "cinderella's dead",
         "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-07-12 01:01:30",
       "album": {
-        "name": "DEMIDEVIL",
-        "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 146523,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
-    },
-    {
-      "added_at": "2024-07-12 01:01:30",
-      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 213640,
       "name": "girls like me don't cry",
       "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
+    },
+    {
+      "added_at": "2024-07-12 01:01:30",
+      "album": {
+        "name": "DEMIDEVIL",
+        "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 146523,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
     },
     {
       "added_at": "2024-07-12 01:01:30",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-07-12 01:01:30",
       "album": {
-        "name": "NANi",
-        "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 154991,
-      "name": "NANi",
-      "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
-    },
-    {
-      "added_at": "2024-07-12 01:01:30",
-      "album": {
         "name": "New Bottega",
         "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 188915,
       "name": "New Bottega",
       "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
+    },
+    {
+      "added_at": "2024-07-12 01:01:30",
+      "album": {
+        "name": "NANi",
+        "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 154991,
+      "name": "NANi",
+      "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
     },
     {
       "added_at": "2024-07-12 01:01:30",

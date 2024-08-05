@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i think the apple's rotten right to the core 🍏
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,619 likes - 956 songs - 2 day 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,646 likes - 956 songs - 2 day 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -816,7 +816,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 806 | [Love You So](https://open.spotify.com/track/4msYRkezQgynuZNubvVbHk) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [The King Khan & BBQ Show](https://open.spotify.com/album/7kHrwYwLS5HUng16CHd5rF) | 3:45 |
 | 807 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 |
 | 808 | [Sorry to Your Next Ex](https://open.spotify.com/track/3MmSF1hLnAHBrpF4A0fY9d) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Sorry to Your Next Ex](https://open.spotify.com/album/2lvlrdFQRBNcgok4O4QKGK) | 2:49 |
-| 809 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 |
+| 809 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [LEW](https://open.spotify.com/artist/5lAx57Iv5lQLzOpkdVMiTC) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 |
 | 810 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 |
 | 811 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 |
 | 812 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,570 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,593 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 10 | [Come Over \[Missing You\]](https://open.spotify.com/track/4MAo6tvIRCEjUZLOrC9Z4q) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [REGGAE Music Again](https://open.spotify.com/album/7JRTrGi5KSTpPQIg7f5DhM) | 3:28 |
 | 11 | [That Day Will Come](https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk) | [Capleton](https://open.spotify.com/artist/23LSpqiDjUNo8W54p1g2HP) | [Reign Of Fire](https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21) | 4:06 |
 | 12 | [My Woman, My Everything \(feat\. Wandecoal\)](https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [My Woman, My Everything \(feat\. Wandecoal\) \- Single](https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4) | 3:53 |
-| 13 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 |
-| 14 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
-| 15 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
-| 16 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
-| 17 | [Deport Them](https://open.spotify.com/track/5KhypMVGqMI9mgsrrv2lxc) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Stage One](https://open.spotify.com/album/6Y5344aCqHNxQNAUStzHrd) | 3:08 |
-| 18 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
-| 19 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
+| 13 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
+| 14 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 |
+| 15 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
+| 16 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
+| 17 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
+| 18 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
+| 19 | [Deport Them](https://open.spotify.com/track/5KhypMVGqMI9mgsrrv2lxc) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Stage One](https://open.spotify.com/album/6Y5344aCqHNxQNAUStzHrd) | 3:08 |
 | 20 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 21 | [Soul Provider](https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 4:14 |
 | 22 | [Saddest Day](https://open.spotify.com/track/4qaxWylitp9qvg0zsaEqeo) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:43 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 36 | [Rumours](https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [One Man Against The World](https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr) | 6:09 |
 | 37 | [Differentology \(Ready for the Road\)](https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Differentology](https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a) | 4:20 |
 | 38 | [Greetings](https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE) | [Half Pint](https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS) | [Half Pint](https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s) | 3:39 |
-| 39 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
-| 40 | [Sweep Over My Soul](https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk) | [Luciano](https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W) | [Sweep Over My Soul](https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR) | 3:53 |
+| 39 | [Sweep Over My Soul](https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk) | [Luciano](https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W) | [Sweep Over My Soul](https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR) | 3:53 |
+| 40 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
 | 41 | [Note To Self \(Okay\) \[feat\. Chronixx\]](https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Note To Self](https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV) | 4:04 |
 | 42 | [Budy Bye](https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Mr\. Budy Bye](https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw) | 4:04 |
 | 43 | [Unity We Need \(feat\. Chronixx\)](https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Together We Stand](https://open.spotify.com/album/1eUOFuDvLbju6Dbqj2KqlK) | 4:25 |

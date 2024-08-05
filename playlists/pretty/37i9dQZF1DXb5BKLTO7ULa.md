@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Yade Lauren
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,338 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,359 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

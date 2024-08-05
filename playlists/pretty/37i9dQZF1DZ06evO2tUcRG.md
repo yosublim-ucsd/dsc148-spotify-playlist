@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 ### [This Is Gabriela Rocha](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tUcRG)
 
-> This is Gabriela Rocha\. Todos os maiores hits em uma só playlist.
+> This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,410 likes - 51 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,416 likes - 51 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 50 | [Acts 2](https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Acts 2](https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1) | 6:15 |
 | 51 | [Eu e o Rei \- Ao Vivo](https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Eu e o Rei \(Ao Vivo\)](https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ) | 5:37 |
 
-Snapshot ID: `ZqrQAAAAAADMWMTJl/e0CNmu/EP5pJNz`
+Snapshot ID: `ZqrQAAAAAAAojdExNAT++WgUg1Decy3p`

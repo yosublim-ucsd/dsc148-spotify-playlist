@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 
 ### [This Is Vanessa Zamora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2avZ2E)
 
-> This is Vanessa Zamora\. The essential tracks, all in one playlist.
+> This is Vanessa Zamora\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,657 likes - 46 songs - 2 hr 38 min
 
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 45 | [rayo violeta](https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:53 |
 | 46 | [Correr](https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:38 |
 
-Snapshot ID: `ZqrQAAAAAADxZqbpm2oh3wcCx4mZPwNb`
+Snapshot ID: `ZqrQAAAAAACdy+S/ximDrnm8ZadGc+RN`

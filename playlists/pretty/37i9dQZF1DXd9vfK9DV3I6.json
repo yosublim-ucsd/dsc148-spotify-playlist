@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 328135,
+  "num_followers": 328286,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        }
-      ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
         "name": "Dle Yaman (116 Deep Mix)",
         "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
       },
@@ -407,6 +387,26 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        }
+      ],
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
         "name": "Le Beirut",
         "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
@@ -423,42 +423,6 @@
       "duration_ms": 431520,
       "name": "Le Beirut",
       "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        },
-        {
-          "name": "Elnur Mikayilov",
-          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
-      },
-      "artists": [
-        {
-          "name": "Sandra N.",
-          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
-        }
-      ],
-      "duration_ms": 186017,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -483,6 +447,26 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Elnur Mikayilov",
+          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
         "name": "Heatiche (Vip Mix)",
         "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 216521,
       "name": "Heatiche - Vip Mix",
       "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
+      },
+      "artists": [
+        {
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
+        }
+      ],
+      "duration_ms": 186017,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
         "name": "Moulat Lkhala",
         "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 192000,
       "name": "Moulat Lkhala",
       "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 410526,
-      "name": "Euphrates",
-      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 172000,
       "name": "Silent",
       "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 410526,
+      "name": "Euphrates",
+      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Ahwak (Deeper Remix)",
-        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 300582,
-      "name": "Ahwak (Deeper Remix)",
-      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
+        "name": "Ahwak (Deeper Remix)",
+        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 300582,
+      "name": "Ahwak (Deeper Remix)",
+      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
         "name": "Kun",
         "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 314336,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
         "name": "Sakaratou Achiqin",
         "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 139415,
       "name": "Sakaratou Achiqin",
       "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
       },
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Ormila",
-        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
       },
       "artists": [
         {
-          "name": "Majed Zane",
-          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
-        },
-        {
-          "name": "Sam Abdullah",
-          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 298867,
-      "name": "Ormila",
-      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -1223,18 +1219,22 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+        "name": "Ormila",
+        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
       "artists": [
         {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+          "name": "Majed Zane",
+          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
+        },
+        {
+          "name": "Sam Abdullah",
+          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
         }
       ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
+      "duration_ms": 298867,
+      "name": "Ormila",
+      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Anatolieni",
-        "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        },
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        }
-      ],
-      "duration_ms": 126545,
-      "name": "Anatolieni",
-      "url": "https://open.spotify.com/track/0aiLsfS9b2L7puIX9FsuEv"
-    },
-    {
-      "added_at": "2024-08-01 19:05:18",
-      "album": {
         "name": "Ilios",
         "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
       },
@@ -1615,22 +1595,22 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "1980",
-        "url": "https://open.spotify.com/album/39aFTWfO0P1eJzyIdJAsIC"
+        "name": "Anatolieni",
+        "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
       },
       "artists": [
         {
-          "name": "Ilhan Ersahin",
-          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
         },
         {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
         }
       ],
-      "duration_ms": 297146,
-      "name": "1980",
-      "url": "https://open.spotify.com/track/6EuNxyzQs4CyJop38QPRHr"
+      "duration_ms": 126545,
+      "name": "Anatolieni",
+      "url": "https://open.spotify.com/track/0aiLsfS9b2L7puIX9FsuEv"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -1659,6 +1639,26 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
+    },
+    {
+      "added_at": "2024-08-01 19:05:18",
+      "album": {
+        "name": "1980",
+        "url": "https://open.spotify.com/album/39aFTWfO0P1eJzyIdJAsIC"
+      },
+      "artists": [
+        {
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        },
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 297146,
+      "name": "1980",
+      "url": "https://open.spotify.com/track/6EuNxyzQs4CyJop38QPRHr"
     },
     {
       "added_at": "2024-08-01 19:05:18",
@@ -1911,18 +1911,22 @@
     {
       "added_at": "2024-08-01 19:05:18",
       "album": {
-        "name": "Arabian Soul",
-        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
+        "name": "Descalzo",
+        "url": "https://open.spotify.com/album/0i1fEBRGPphcPQTCzD3EHb"
       },
       "artists": [
         {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+          "name": "Derun",
+          "url": "https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo"
+        },
+        {
+          "name": "ARKADYAN",
+          "url": "https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI"
         }
       ],
-      "duration_ms": 312125,
-      "name": "Arabian Soul",
-      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
+      "duration_ms": 447680,
+      "name": "Descalzo",
+      "url": "https://open.spotify.com/track/2jcW2YUOaih8Gywf4hgL4b"
     }
   ],
   "unique_name": "mosaic",

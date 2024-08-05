@@ -4,7 +4,7 @@
 
 > i could kiss a hundred people 💋  Mimi Webb
 
-2,138 songs - 4 day 11 hr 32 min
+2,139 songs - 4 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [Clarity](https://open.spotify.com/track/6FXQ9ghvyzV2zYlUEie5BH) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Clarity](https://open.spotify.com/album/5NJxsb5bQl5s4JqWRc8uu9) | 3:16 | 2022-01-14 | 2022-03-26 |
 | [CLONES](https://open.spotify.com/track/20Qs2YytFIhWlw278Pd8B8) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [CLONES](https://open.spotify.com/album/4eAI0f1nna07Mz5v86KgNe) | 2:04 | 2022-11-25 | 2022-12-24 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-07 |  |
-| [closer \(feat\. salem ilese\)](https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [closer \(feat\. salem ilese\)](https://open.spotify.com/album/0uw76tQa9eYOLkJhtqYcwD) | 2:54 | 2024-03-15 |  |
+| [closer \(feat\. salem ilese\)](https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [closer \(feat\. salem ilese\)](https://open.spotify.com/album/0uw76tQa9eYOLkJhtqYcwD) | 2:54 | 2024-03-15 | 2024-08-05 |
 | [Closer Than Ever](https://open.spotify.com/track/6P64tGUq7wh2EDHdxY7eZo) | [Aalta](https://open.spotify.com/artist/63QdB7DkszP8EigKLVVOgx), [Lenachka](https://open.spotify.com/artist/1KMdIxzX1BddGfY2H8aGvn) | [Closer Than Ever](https://open.spotify.com/album/74B97NXUAGodFlrZHQN40y) | 3:46 | 2019-06-27 | 2020-04-18 |
 | [Closure \(feat\. Calica\)](https://open.spotify.com/track/4sE5BzWDrAVNZzuslCi6K5) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Closure feat\. Calica](https://open.spotify.com/album/1JoKaXrvdh5FbP2nB6VB5R) | 3:36 | 2021-11-19 | 2021-11-20 |
 | [cloudbathing](https://open.spotify.com/track/3SjBwAnJXh69mDAsAea3iu) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [cloudbathing](https://open.spotify.com/album/4ZPcZDtqMJmzOfG9bbIFyD) | 3:02 | 2022-05-27 | 2022-07-15 |
@@ -1830,6 +1830,7 @@
 | [Sweat](https://open.spotify.com/track/0TzXhuxOpmvIa68QykPqIV) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Sweat](https://open.spotify.com/album/1lgihc94VjHPpUEIS9S7gp) | 3:03 | 2022-07-29 | 2022-09-17 |
 | [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 | 2023-01-13 | 2023-06-24 |
 | [Sweet Tooth Baby](https://open.spotify.com/track/7h9GhjA4crhzz4z0Qk9h2Q) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA), [YOREN!](https://open.spotify.com/artist/1q0VsVFCMq4eICivuuJQQW) | [Sweet Tooth Baby](https://open.spotify.com/album/3EHocdF9UkeXjlEEGCrdCx) | 3:20 | 2020-09-30 | 2021-01-15 |
+| [Swim Team](https://open.spotify.com/track/02bspHTO5nyWnlC57g6N2K) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Swim Team](https://open.spotify.com/album/3cXWNfufTSW2A552Wv3WAY) | 3:11 | 2024-08-02 |  |
 | [Swimming Pools](https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Swimming Pools](https://open.spotify.com/album/5Zcg17XUGy8YawKHEfBpff) | 2:38 | 2022-06-24 | 2022-08-13 |
 | [swimming pools](https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [swimming pools](https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN) | 2:32 | 2024-01-12 | 2024-03-14 |
 | [Swing Swing](https://open.spotify.com/track/0VWRbuEicramx9Hp2iWCTC) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Swing Swing](https://open.spotify.com/album/1kImx6P9OYh8lob0po00jJ) | 3:11 | 2019-05-26\* | 2019-08-13 |

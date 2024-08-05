@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Eminem",
-  "num_followers": 27881,
+  "num_followers": 27895,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Trojan Horse",
-      "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "EZIOKWU (UNCUT)",
         "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Trojan Horse",
+      "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "let it breathe (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/4vpx4cL7IRedZul0j0bL2c"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -739,6 +719,26 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "let it breathe (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/4vpx4cL7IRedZul0j0bL2c"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
@@ -751,6 +751,26 @@
       "duration_ms": 272112,
       "name": "Search & Rescue",
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "We Uh Shoot (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 153842,
+      "name": "We Uh Shoot (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -823,30 +843,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Stop Giving Me Advice",
-        "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 242453,
-      "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
-      "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
@@ -879,6 +875,30 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Stop Giving Me Advice",
+        "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 242453,
+      "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+      "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "TECHNICIAN",
         "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
       },
@@ -899,54 +919,6 @@
       "duration_ms": 156428,
       "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
       "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "We Uh Shoot (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 153842,
-      "name": "We Uh Shoot (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "All Is Yellow",
-        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lil Skies",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
-        }
-      ],
-      "duration_ms": 169014,
-      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
-      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1059,6 +1031,70 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "On Up",
+        "url": "https://open.spotify.com/album/3YLwQzaO1nUO6E4aMFTt7c"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 150763,
+      "name": "On Up",
+      "url": "https://open.spotify.com/track/7k0QYUgeKHmNuroFKUbQbw"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "All Is Yellow",
+        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "NO SLEEP $$$ (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Bad Boy Etiquette 102: Continuous Assessment",
         "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
       },
@@ -1103,26 +1139,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "NO SLEEP $$$ (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Yeah Glo! (Alternate Versions)",
         "url": "https://open.spotify.com/album/71b560lfhaeBlp4URJHAzx"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "FAN",
-        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "FAN",
-      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
     }
   ],
   "unique_name": "Hype List",

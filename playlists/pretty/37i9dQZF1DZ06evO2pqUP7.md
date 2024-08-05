@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 ### [This Is Lunay](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pqUP7)
 
-> This is Lunay\. The essential tracks, all in one playlist.
+> This Is Lunay\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,447 likes - 51 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,456 likes - 51 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 50 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
 | 51 | [Costear \- Equipo Negro Remix](https://open.spotify.com/track/71mReylcyG7MfF1dqpVQEe) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [AMMUNATION](https://open.spotify.com/artist/1UrscYQay7QLyK3HTws7xS) | [Costear \(Equipo Negro Remix\)](https://open.spotify.com/album/58GTCQ17sVh9kAB6PgAIFl) | 8:56 |
 
-Snapshot ID: `ZqrQAAAAAAA2oHLIvpM5zHkAnc3sfQYI`
+Snapshot ID: `ZqrQAAAAAACSZxLrS9Zd/0AP5kZSiNAq`

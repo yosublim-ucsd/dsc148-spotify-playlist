@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 ### [This Is Stevie Ray Vaughan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO35m9Q4)
 
-> This Is Stevie Ray Vaughan\. Los temas esenciales, todos en una lista.
+> This is Stevie Ray Vaughan\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,322 likes - 48 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,375 likes - 48 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 47 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 |
 | 48 | [Ask Me No Questions](https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:02 |
 
-Snapshot ID: `ZqrQAAAAAACd1YGKKU3IgEMxQCT71P1E`
+Snapshot ID: `ZqrQAAAAAACgslTDH3qVcoCH5nSGLsG9`

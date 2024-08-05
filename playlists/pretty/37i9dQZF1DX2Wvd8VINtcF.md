@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Hanumankind
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,034 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,047 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

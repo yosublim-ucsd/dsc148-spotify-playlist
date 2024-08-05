@@ -1,6 +1,6 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 513359,
+  "num_followers": 513603,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,58 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "duration_ms": 379533,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "The Man From Mo\u2019 Wax (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/522WXUW4LHX4uc3TZhJCdZ"
+      },
+      "artists": [
+        {
+          "name": "DJ KRUSH",
+          "url": "https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM"
+        }
+      ],
+      "duration_ms": 290013,
+      "name": "Kemuri",
+      "url": "https://open.spotify.com/track/2mxTWNaUEHwdedwdS9KYcW"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
         "name": "So...How's Your Girl?",
         "url": "https://open.spotify.com/album/11xrdpHkh2KUuxPGEfQZKG"
       },
@@ -119,22 +171,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "The Man From Mo\u2019 Wax (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/522WXUW4LHX4uc3TZhJCdZ"
-      },
-      "artists": [
-        {
-          "name": "DJ KRUSH",
-          "url": "https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM"
-        }
-      ],
-      "duration_ms": 290013,
-      "name": "Kemuri",
-      "url": "https://open.spotify.com/track/2mxTWNaUEHwdedwdS9KYcW"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "Very Mercenary",
         "url": "https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV"
       },
@@ -147,26 +183,6 @@
       "duration_ms": 216001,
       "name": "The Sensual Woman",
       "url": "https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Horace Andy",
-          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
-        }
-      ],
-      "duration_ms": 379533,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -199,22 +215,6 @@
       "duration_ms": 228840,
       "name": "6 Underground",
       "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -267,6 +267,22 @@
       "duration_ms": 471560,
       "name": "Protection",
       "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 293200,
+      "name": "Wandering Star",
+      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -335,22 +351,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Blue Lines (2012 Mix/Master)",
-        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Blue Lines - 2012 Mix/Master",
-      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "Psyence Fiction",
         "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 376160,
       "name": "Rabbit in Your Headlights",
       "url": "https://open.spotify.com/track/6CQiD0STiKFsjSdVKtztjJ"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "Wandering Star",
-      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -415,6 +399,22 @@
       "duration_ms": 382360,
       "name": "Original - Remastered",
       "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Blue Lines (2012 Mix/Master)",
+        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Blue Lines - 2012 Mix/Master",
+      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
+        "name": "Natural Born Killa (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
+      },
+      "artists": [
+        {
+          "name": "Photek",
+          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
+        }
+      ],
+      "duration_ms": 321932,
+      "name": "Into the 90's",
+      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 210533,
       "name": "Ponderosa",
       "url": "https://open.spotify.com/track/3USAAb0W0n99SOensmme2D"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
-        "name": "Natural Born Killa (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
-      },
-      "artists": [
-        {
-          "name": "Photek",
-          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
-        }
-      ],
-      "duration_ms": 321932,
-      "name": "Into the 90's",
-      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en"
-      },
-      "artists": [
-        {
-          "name": "Skylab",
-          "url": "https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7"
-        }
-      ],
-      "duration_ms": 339626,
-      "name": "Seashell",
-      "url": "https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "Blow Your Headphones",
         "url": "https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en"
+      },
+      "artists": [
+        {
+          "name": "Skylab",
+          "url": "https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7"
+        }
+      ],
+      "duration_ms": 339626,
+      "name": "Seashell",
+      "url": "https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
         "name": "Spill",
         "url": "https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 266693,
       "name": "Legend of the Golden Snake - Single Version",
       "url": "https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+      },
+      "artists": [
+        {
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -1011,18 +1027,34 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+        "name": "Mr. Brubaker's Strawberry Alarm Clock",
+        "url": "https://open.spotify.com/album/1YrlvrywWuhaeQXQYOPxDo"
       },
       "artists": [
         {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
+          "name": "Neotropic",
+          "url": "https://open.spotify.com/artist/0J7MEv1kdBkTE4HzW7FtoH"
         }
       ],
-      "duration_ms": 241760,
-      "name": "Long Road",
-      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
+      "duration_ms": 307565,
+      "name": "Under Violent Objects",
+      "url": "https://open.spotify.com/track/3PscZ65ebR61zAN9H5KNEL"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Paradise Blown",
+        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
+      },
+      "artists": [
+        {
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+        }
+      ],
+      "duration_ms": 346160,
+      "name": "Take Nine",
+      "url": "https://open.spotify.com/track/1LY5nlaBgdMtz9FS3thZjp"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -1043,22 +1075,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Mr. Brubaker's Strawberry Alarm Clock",
-        "url": "https://open.spotify.com/album/1YrlvrywWuhaeQXQYOPxDo"
-      },
-      "artists": [
-        {
-          "name": "Neotropic",
-          "url": "https://open.spotify.com/artist/0J7MEv1kdBkTE4HzW7FtoH"
-        }
-      ],
-      "duration_ms": 307565,
-      "name": "Under Violent Objects",
-      "url": "https://open.spotify.com/track/3PscZ65ebR61zAN9H5KNEL"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "Songs Of A Dead Dreamer",
         "url": "https://open.spotify.com/album/59FLtEnXNqYKwT5M3W3XoG"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 410400,
       "name": "Galactic Funk",
       "url": "https://open.spotify.com/track/62ZtyaPFFVPEKQbCdLAScn"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
-        "name": "Paradise Blown",
-        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
-      },
-      "artists": [
-        {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
-        }
-      ],
-      "duration_ms": 346160,
-      "name": "Take Nine",
-      "url": "https://open.spotify.com/track/1LY5nlaBgdMtz9FS3thZjp"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
-      },
-      "artists": [
-        {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
-        }
-      ],
-      "duration_ms": 352000,
-      "name": "Electric Lazyland",
-      "url": "https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "Casanova 70",
         "url": "https://open.spotify.com/album/0HCq99iUU77YIMOagEgM6L"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 291960,
       "name": "It's Indian Tobacco My Friend",
       "url": "https://open.spotify.com/track/5MNjFXVscPucoKUDacsL5N"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+      },
+      "artists": [
+        {
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+        }
+      ],
+      "duration_ms": 352000,
+      "name": "Electric Lazyland",
+      "url": "https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp"
     },
     {
       "added_at": "2024-07-15 20:04:22",

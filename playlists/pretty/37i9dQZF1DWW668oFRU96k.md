@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Calvin Harris x Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,823 likes - 94 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,844 likes - 94 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

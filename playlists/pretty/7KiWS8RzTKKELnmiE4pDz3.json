@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAcx0VqnANAdpcxRtJZ+Sz3K5Ku+tOB",
+  "snapshot_id": "AAAcydscgL52epiBNJpMv6rgCX9U35OV",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2695,6 +2695,42 @@
       "duration_ms": 132668,
       "name": "9k Freestyle",
       "url": "https://open.spotify.com/track/3P2g3b9uT8k2SoOmGbDco4"
+    },
+    {
+      "added_at": "2024-08-04 14:14:48",
+      "album": {
+        "name": "Blank Blank",
+        "url": "https://open.spotify.com/album/6L2X9oAs6pLMweH6pSpfTT"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "21",
+      "url": "https://open.spotify.com/track/1AdXchAT6hBUm5d6y4nKjI"
+    },
+    {
+      "added_at": "2024-08-04 14:23:30",
+      "album": {
+        "name": "On the Run",
+        "url": "https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "High (feat. Elton John)",
+      "url": "https://open.spotify.com/track/7iMDaY1LnASwCk2uUpMtii"
     }
   ],
   "unique_name": "main ",

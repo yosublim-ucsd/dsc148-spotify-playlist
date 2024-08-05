@@ -1,6 +1,6 @@
 {
   "description": "Music by our 2024 Artists To Watch. Cover: Jasiel Nu\u00f1ez",
-  "num_followers": 5330,
+  "num_followers": 5333,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "La V\u00edctima",
-        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 156345,
-      "name": "La V\u00edctima",
-      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Martini",
         "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 164365,
       "name": "Martini",
       "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -167,54 +167,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+        "name": "DESAHOGO",
+        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
       },
       "artists": [
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 170089,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "SANDUNGUEA",
-        "url": "https://open.spotify.com/album/4NEEk4i3IvRIoUKsYDM1Lf"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
         },
         {
-          "name": "Ruzzo Doblezz",
-          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
         }
       ],
-      "duration_ms": 154634,
-      "name": "SANDUNGUEA",
-      "url": "https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Obvio Bien",
-        "url": "https://open.spotify.com/album/6rSJacE18Nyc5mEB8hVLBM"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 254348,
-      "name": "Obvio Bien",
-      "url": "https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh"
+      "duration_ms": 161146,
+      "name": "LA CALMA",
+      "url": "https://open.spotify.com/track/0j5ocCGz4i7q0aPD1gNZ6H"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -255,22 +223,70 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "DESAHOGO",
-        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
+        "name": "SANDUNGUEA",
+        "url": "https://open.spotify.com/album/4NEEk4i3IvRIoUKsYDM1Lf"
       },
       "artists": [
         {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         },
         {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
         }
       ],
-      "duration_ms": 161146,
-      "name": "LA CALMA",
-      "url": "https://open.spotify.com/track/0j5ocCGz4i7q0aPD1gNZ6H"
+      "duration_ms": 154634,
+      "name": "SANDUNGUEA",
+      "url": "https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 141866,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -295,58 +311,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "YO KIERO",
-        "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Alan Dazmel",
-          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
-        }
-      ],
-      "duration_ms": 152021,
-      "name": "YO KIERO",
-      "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 141866,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
       },
@@ -359,6 +323,22 @@
       "duration_ms": 138677,
       "name": "COMO SUENAN LAS ESTRELLAS",
       "url": "https://open.spotify.com/track/29MAYnmNwruONslO4E1iZD"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Obvio Bien",
+        "url": "https://open.spotify.com/album/6rSJacE18Nyc5mEB8hVLBM"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 254348,
+      "name": "Obvio Bien",
+      "url": "https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -379,6 +359,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "YO KIERO",
+        "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        }
+      ],
+      "duration_ms": 152021,
+      "name": "YO KIERO",
+      "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Nos Entendemos",
         "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 176016,
       "name": "Nos Entendemos",
       "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Modales",
+        "url": "https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Buen Provecho",
+      "url": "https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -451,18 +467,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Modales",
-        "url": "https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS"
+        "name": "Chiki Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/32YOvP63wnklptWCwAOZx5"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 136421,
-      "name": "Buen Provecho",
-      "url": "https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE"
+      "duration_ms": 122768,
+      "name": "Chiki Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/1SXwXMVllOY1IHVjtol5VL"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -479,22 +495,6 @@
       "duration_ms": 222480,
       "name": "Salsa y Clase",
       "url": "https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Chiki Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/32YOvP63wnklptWCwAOZx5"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 122768,
-      "name": "Chiki Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/1SXwXMVllOY1IHVjtol5VL"
     },
     {
       "added_at": "2024-07-12 04:00:00",

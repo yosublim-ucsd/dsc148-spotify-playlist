@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap. Cover: Control Freak",
-  "num_followers": 887548,
+  "num_followers": 887266,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "We Are Deadbeats (Vol. 4)",
         "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 197260,
       "name": "Redo",
       "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Zurna",
+        "url": "https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Zurna",
+      "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 134222,
       "name": "Thrilla",
       "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Zurna",
-        "url": "https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Zurna",
-      "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 207964,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Your Lovin'",
         "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 186964,
       "name": "GO!",
       "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 207964,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1739,34 +1739,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Cyanide",
-        "url": "https://open.spotify.com/album/0PjSvHusBgifniYJcyBsBp"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "Tommy Trash",
-          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
-        },
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        },
-        {
-          "name": "Lord Gasp",
-          "url": "https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw"
-        }
-      ],
-      "duration_ms": 185285,
-      "name": "Cyanide",
-      "url": "https://open.spotify.com/track/3iFJjgV27J4vDs9N7RAAKs"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "ORIGINAL STEPPA",
         "url": "https://open.spotify.com/album/4atLTvYvrVroGsB8qwiBrc"
       },
@@ -1811,6 +1783,34 @@
       "duration_ms": 198857,
       "name": "UK Ting",
       "url": "https://open.spotify.com/track/3PuTUAsUTR7D3PnYtW1yj4"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Cyanide",
+        "url": "https://open.spotify.com/album/0PjSvHusBgifniYJcyBsBp"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        },
+        {
+          "name": "Lord Gasp",
+          "url": "https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw"
+        }
+      ],
+      "duration_ms": 185285,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/3iFJjgV27J4vDs9N7RAAKs"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1903,18 +1903,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "In The Sky",
-        "url": "https://open.spotify.com/album/0JHdqE1akiFDDTcWM7oJAw"
+        "name": "Makin Moves",
+        "url": "https://open.spotify.com/album/0KiLaRhGNQYN0j94MVjKhN"
       },
       "artists": [
         {
-          "name": "Effin",
-          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
         }
       ],
-      "duration_ms": 233142,
-      "name": "In The Sky",
-      "url": "https://open.spotify.com/track/3Z0aVXkpXQhpYosTStTu4t"
+      "duration_ms": 180000,
+      "name": "Makin Moves",
+      "url": "https://open.spotify.com/track/3QwYSJpsLN0qannLsQqdVE"
     }
   ],
   "unique_name": "Trap Mojito",

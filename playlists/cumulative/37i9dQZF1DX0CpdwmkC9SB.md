@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-212 songs - 12 hr 59 min
+213 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 | 2024-05-31 |  |
 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2024-05-31 |  |
 | [Caroline](https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:36 | 2024-05-31 |  |
-| [Cash For Love](https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Cash For Love](https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo) | 4:36 | 2024-05-31 |  |
+| [Cash For Love](https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Cash For Love](https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo) | 4:36 | 2024-05-31 | 2024-08-05 |
 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 | 2024-05-31 |  |
 | [Choke Hold](https://open.spotify.com/track/1IwYMzwT0oJTmWKmIXAM8W) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [The Phantom Files \(From Cyberpunk 2077\)](https://open.spotify.com/album/70Cg9EoQ42gxXluxkaYGSm) | 2:21 | 2024-05-31 |  |
 | [Clara](https://open.spotify.com/track/1A8WZgfOGq3Axyetvbun0d) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [The Weekend LP](https://open.spotify.com/album/5qwYZjx8q6gwN2UOClhA7z) | 2:35 | 2024-05-31 |  |
@@ -121,6 +121,7 @@
 | [Katy on a Mission](https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:39 | 2024-05-31 |  |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2024-05-31 |  |
 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 | 2024-05-31 |  |
+| [Kudaushe](https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Kudaushe Matimba](https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt) | [Kolaba](https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW) | 3:58 | 2024-05-31 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2024-05-31 |  |
 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 | 2024-06-04 |  |
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2024-05-31 |  |

@@ -1,6 +1,6 @@
 {
   "description": "ist nur einmal im Jahr!",
-  "num_followers": 421446,
+  "num_followers": 421582,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "ZpoVtAAAAAB3TKd0qfAFqOF2mzseq/Ov",
   "tracks": [
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
-        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
-        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
-      },
-      "artists": [
-        {
-          "name": "MXM",
-          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
-        },
-        {
-          "name": "Chris van Dutch",
-          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
-        }
-      ],
-      "duration_ms": 240761,
-      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
-      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
-    },
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 149976,
       "name": "Oberteil",
       "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
+      },
+      "artists": [
+        {
+          "name": "MXM",
+          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        }
+      ],
+      "duration_ms": 240761,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -235,6 +235,26 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
         "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
         "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
       },
@@ -299,26 +319,6 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 210869,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
         "name": "Inselfieber",
         "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 153956,
       "name": "Inselfieber",
       "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
-        "name": "Helene Fischer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Herzbeben",
-      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -371,6 +355,38 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -407,22 +423,6 @@
       "duration_ms": 209240,
       "name": "Das geht ab - Wir feiern die ganze Nacht",
       "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -527,30 +527,6 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "BIER",
-        "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
-      },
-      "artists": [
-        {
-          "name": "Drunken Masters",
-          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
-        },
-        {
-          "name": "Maxim K.I.Z",
-          "url": "https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k"
-        },
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 129652,
-      "name": "BIER",
-      "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
         "name": "Zeig mir den Platz an der Sonne",
         "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 172034,
       "name": "Bock auf Bier",
       "url": "https://open.spotify.com/track/6MvRkE1BZHAEg92WQcR9Pw"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "BIER",
+        "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
+      },
+      "artists": [
+        {
+          "name": "Drunken Masters",
+          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
+        },
+        {
+          "name": "Maxim K.I.Z",
+          "url": "https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k"
+        },
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 129652,
+      "name": "BIER",
+      "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Party Chaos",
-        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        },
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Strobo Pop",
-      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
         "name": "Die Nacht von Freitag auf Montag",
         "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
       },
@@ -763,6 +743,50 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
+        "name": "Lea",
+        "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
+      },
+      "artists": [
+        {
+          "name": "Bierkapit\u00e4n",
+          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+        },
+        {
+          "name": "Andy Luxx",
+          "url": "https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "duration_ms": 159374,
+      "name": "Lea",
+      "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "Party Chaos",
+        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        },
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Strobo Pop",
+      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
         "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
         "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
       },
@@ -795,30 +819,6 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Lea",
-        "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
-      },
-      "artists": [
-        {
-          "name": "Bierkapit\u00e4n",
-          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
-        },
-        {
-          "name": "Andy Luxx",
-          "url": "https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2"
-        },
-        {
-          "name": "Dj Aaron",
-          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
-        }
-      ],
-      "duration_ms": 159374,
-      "name": "Lea",
-      "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
         "name": "Hurra die Gams",
         "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
       },
@@ -835,8 +835,8 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Mallelelele",
-        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+        "name": "Zum Greifen nah",
+        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
       "artists": [
         {
@@ -844,13 +844,13 @@
           "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
         },
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
         }
       ],
-      "duration_ms": 133898,
-      "name": "Mallelelele",
-      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+      "duration_ms": 167142,
+      "name": "Zum Greifen nah",
+      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -891,62 +891,6 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Ouzo",
-        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
-      },
-      "artists": [
-        {
-          "name": "Vincent Gross",
-          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
-        }
-      ],
-      "duration_ms": 274914,
-      "name": "Ouzo",
-      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Nik P.",
-          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
-      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
-        "name": "Zum Greifen nah",
-        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Zum Greifen nah",
-      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
         "name": "Finchi's Love Tape",
         "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
       },
@@ -959,6 +903,22 @@
       "duration_ms": 170773,
       "name": "FiNCHiBOY",
       "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "Ouzo",
+        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
+      },
+      "artists": [
+        {
+          "name": "Vincent Gross",
+          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+        }
+      ],
+      "duration_ms": 274914,
+      "name": "Ouzo",
+      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -983,6 +943,26 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Nik P.",
+          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
+      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
         "name": "Nachbarn",
         "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 181553,
       "name": "Nachbarn",
       "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "Mallelelele",
+        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 133898,
+      "name": "Mallelelele",
+      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Sweet Caroline (Party Remix)",
-        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Sweet Caroline - Party Remix",
-      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
         "name": "Saufi saufi",
         "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 206302,
       "name": "Saufi saufi",
       "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "Sweet Caroline (Party Remix)",
+        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Sweet Caroline - Party Remix",
+      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
+        "name": "Freitag, Samstag",
+        "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 156356,
+      "name": "Freitag, Samstag",
+      "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
         "name": "Kabinenparty",
         "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 142750,
       "name": "Kabinenparty",
       "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
-        "name": "Freitag, Samstag",
-        "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 156356,
-      "name": "Freitag, Samstag",
-      "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Scheiss auf Schickimicki (Video Edit)",
-        "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
-      },
-      "artists": [
-        {
-          "name": "Stefan St\u00fcrmer",
-          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Scheiss auf Schickimicki - Video Edit",
-      "url": "https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
         "name": "Ein Wort sagt mehr als 1000 Bilder",
         "url": "https://open.spotify.com/album/1hh1YtzD7HiKAla6K6W0KZ"
       },
@@ -1255,26 +1235,22 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
+        "name": "Scheiss auf Schickimicki (Video Edit)",
+        "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
       },
       "artists": [
         {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+          "name": "Stefan St\u00fcrmer",
+          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
         },
         {
-          "name": "Julia Engelmann",
-          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
-        },
-        {
-          "name": "Raket One",
-          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         }
       ],
-      "duration_ms": 184160,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+      "duration_ms": 198750,
+      "name": "Scheiss auf Schickimicki - Video Edit",
+      "url": "https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -1339,6 +1315,22 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
         "name": "Ciao 3 Tage Blau",
         "url": "https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw"
       },
@@ -1363,34 +1355,26 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
       "artists": [
         {
           "name": "MartinBepunkt",
           "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -1451,26 +1435,6 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Partysau",
-        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
-      },
-      "artists": [
-        {
-          "name": "Malle Kalle",
-          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
-        },
-        {
-          "name": "Danergy",
-          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Partysau",
-      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
         "name": "Klempner Klaus",
         "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
       },
@@ -1487,6 +1451,26 @@
       "duration_ms": 155820,
       "name": "Klempner Klaus",
       "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "Partysau",
+        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+      },
+      "artists": [
+        {
+          "name": "Malle Kalle",
+          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
+        },
+        {
+          "name": "Danergy",
+          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Partysau",
+      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -1515,6 +1499,26 @@
       "duration_ms": 142750,
       "name": "Kabinenparty (feat. MAKZ 38) - Kreisliga Mix",
       "url": "https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "Senorita",
+        "url": "https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk"
+      },
+      "artists": [
+        {
+          "name": "Kay One",
+          "url": "https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv"
+        },
+        {
+          "name": "Pietro Lombardi",
+          "url": "https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0"
+        }
+      ],
+      "duration_ms": 238978,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD"
     }
   ],
   "unique_name": "Malle Party 2024",

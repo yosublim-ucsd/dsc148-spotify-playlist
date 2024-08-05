@@ -1,6 +1,6 @@
 {
   "description": "Move to this mix of recent dance hits! Cover: Rezz",
-  "num_followers": 89209,
+  "num_followers": 89224,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 145599,
+      "name": "Black Friday (pretty like the sun)",
+      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Black Friday (pretty like the sun)",
-        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 145599,
-      "name": "Black Friday (pretty like the sun)",
-      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -619,26 +599,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "places to be",
-        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 226677,
-      "name": "places to be",
-      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -659,6 +635,30 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "places to be",
+        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 226677,
+      "name": "places to be",
+      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -863,26 +843,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Boyz In Paris (with VINAI)",
-        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
       "artists": [
         {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 151589,
-      "name": "Boyz In Paris (with VINAI)",
-      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -907,6 +883,30 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Lioness",
         "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 172515,
       "name": "Lioness",
       "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sunshine (My Girl)",
+        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Sunshine (My Girl)",
+      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Sunshine (My Girl)",
-        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Sunshine (My Girl)",
-      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Buscando Money",
         "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1003,46 +1019,6 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
-        "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "The Jammin Kid",
-          "url": "https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X"
-        },
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
-      "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1099,6 +1075,30 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+        "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "The Jammin Kid",
+          "url": "https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+      "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1219,6 +1219,38 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -1239,22 +1271,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 125178,
       "name": "Makeba - Ian Asher Remix",
       "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Famax",
-        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
-      },
-      "artists": [
-        {
-          "name": "RAFFA GUIDO",
-          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
-        }
-      ],
-      "duration_ms": 335194,
-      "name": "Famax",
-      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+        "name": "Go Back (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
       },
       "artists": [
         {
@@ -1440,13 +1440,17 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+      "duration_ms": 220538,
+      "name": "Go Back (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1583,6 +1587,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Body Moving",
         "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
       },
@@ -1599,30 +1623,6 @@
       "duration_ms": 154215,
       "name": "Body Moving",
       "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Go Back (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Go Back (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "In The Yuma (feat. Aatig)",
+        "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 156215,
+      "name": "In The Yuma (feat. Aatig)",
+      "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
       },
@@ -1735,22 +1755,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "In The Yuma (feat. Aatig)",
-        "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 156215,
-      "name": "In The Yuma (feat. Aatig)",
-      "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1791,26 +1811,6 @@
       "duration_ms": 334760,
       "name": "Friendly Pressure - Into The Sunshine Mix",
       "url": "https://open.spotify.com/track/70kfnr6pptxpV8YXjii68u"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "The Cruelest Summer",
-        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "Cruel Summer - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
     },
     {
       "added_at": "2024-07-26 04:00:00",

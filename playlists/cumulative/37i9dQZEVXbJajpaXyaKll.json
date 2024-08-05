@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
@@ -1362,6 +1362,28 @@
       "duration_ms": 330000,
       "name": "Bichigyal - Remix",
       "url": "https://open.spotify.com/track/4v45rww5vNHvlu3iqdwa9u"
+    },
+    {
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
       "album": {
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 207967,
       "name": "EXIT (feat. Lazza & Duki)",
       "url": "https://open.spotify.com/track/1VRJ2mhJ3qjUiAdMKs1H8O"
@@ -4200,7 +4222,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 142265,
       "name": "Guess",
       "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
@@ -4644,7 +4666,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 209800,
       "name": "Hymne \u00e0 l'amour - Live",
       "url": "https://open.spotify.com/track/7wQEazOrLEHSCMo3gEuV88"
@@ -5554,7 +5576,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 116869,
       "name": "Lobster",
       "url": "https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid"
@@ -7658,7 +7680,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 195385,
       "name": "Nunca Me Amo - Guarachetamix",
       "url": "https://open.spotify.com/track/0tUVUDxp2I8RXQ1HSWpLg1"
@@ -11418,6 +11440,24 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "album": {
+        "name": "Weightless (Ambient Transmission Vol. 2)",
+        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486840,
+      "name": "Weightless Part 1",
+      "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"
     },
     {
       "album": {

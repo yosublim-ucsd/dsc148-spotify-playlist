@@ -1,6 +1,6 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 33614,
+  "num_followers": 33616,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
+        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
+      },
+      "artists": [
+        {
+          "name": "Jacky Cheung",
+          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
         "name": "\u85cd\u8272\u96e8",
         "url": "https://open.spotify.com/album/0rxL1PxAXQ5bG4ay0V1viU"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 274212,
       "name": "\u53f0\u5317\u4e0b\u7684\u96e8",
       "url": "https://open.spotify.com/track/3e7hjRFdKrRHa10ELZDZUo"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
-        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
-      },
-      "artists": [
-        {
-          "name": "Jacky Cheung",
-          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u53ca\u6642\u96e8",
-        "url": "https://open.spotify.com/album/0DuU7EnkbqIhnXe8CiJsup"
-      },
-      "artists": [
-        {
-          "name": "Control T",
-          "url": "https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge"
-        }
-      ],
-      "duration_ms": 219487,
-      "name": "\u53ca\u6642\u96e8",
-      "url": "https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
         "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 265760,
       "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
       "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u53ca\u6642\u96e8",
+        "url": "https://open.spotify.com/album/0DuU7EnkbqIhnXe8CiJsup"
+      },
+      "artists": [
+        {
+          "name": "Control T",
+          "url": "https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge"
+        }
+      ],
+      "duration_ms": 219487,
+      "name": "\u53ca\u6642\u96e8",
+      "url": "https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u773c\u6dda\u535a\u7269\u9928",
-        "url": "https://open.spotify.com/album/7zYdHfR3NHfp43ULyFHQGK"
-      },
-      "artists": [
-        {
-          "name": "\u912d\u8208",
-          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
-        }
-      ],
-      "duration_ms": 272099,
-      "name": "\u96e8\u5b63\u4e0d\u518d\u4f86",
-      "url": "https://open.spotify.com/track/30oVE79TbVinAaY20uM4VC"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
         "url": "https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 308170,
       "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
       "url": "https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u773c\u6dda\u535a\u7269\u9928",
+        "url": "https://open.spotify.com/album/7zYdHfR3NHfp43ULyFHQGK"
+      },
+      "artists": [
+        {
+          "name": "\u912d\u8208",
+          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
+        }
+      ],
+      "duration_ms": 272099,
+      "name": "\u96e8\u5b63\u4e0d\u518d\u4f86",
+      "url": "https://open.spotify.com/track/30oVE79TbVinAaY20uM4VC"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/6HQ5lvLYVlXyJEl9knI9Eh"
-      },
-      "artists": [
-        {
-          "name": "Sweet John",
-          "url": "https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm"
-        }
-      ],
-      "duration_ms": 242413,
-      "name": "\u964d\u96e8\u6a5f\u7387",
-      "url": "https://open.spotify.com/track/3OS5IhOdUFyXzhZvuNCjgN"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u6b61\u8fce\u812b\u62c9\u5eab",
         "url": "https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u89aa\u611b\u7684\u4e16\u754c",
-        "url": "https://open.spotify.com/album/6GvKzjitgx5uE7o3b14QAb"
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/6HQ5lvLYVlXyJEl9knI9Eh"
       },
       "artists": [
         {
-          "name": "Maggie Chiang",
-          "url": "https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u"
+          "name": "Sweet John",
+          "url": "https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm"
         }
       ],
-      "duration_ms": 260852,
-      "name": "\u8ffd\u96e8",
-      "url": "https://open.spotify.com/track/27glpEFVip10SzfxZ1aCky"
+      "duration_ms": 242413,
+      "name": "\u964d\u96e8\u6a5f\u7387",
+      "url": "https://open.spotify.com/track/3OS5IhOdUFyXzhZvuNCjgN"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
+        "name": "\u89aa\u611b\u7684\u4e16\u754c",
+        "url": "https://open.spotify.com/album/6GvKzjitgx5uE7o3b14QAb"
+      },
+      "artists": [
+        {
+          "name": "Maggie Chiang",
+          "url": "https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u"
+        }
+      ],
+      "duration_ms": 260852,
+      "name": "\u8ffd\u96e8",
+      "url": "https://open.spotify.com/track/27glpEFVip10SzfxZ1aCky"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
         "name": "\u660e\u660e",
         "url": "https://open.spotify.com/album/1KBfGXDPEzKDyxNp04oIbP"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 267078,
       "name": "\u5979\u5728\u96e8\u5929\u60f3\u4ed6",
       "url": "https://open.spotify.com/track/2zXrVSkLy7GoW2RcpLHnkV"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
-        "name": "\u76e7\u5ee3\u4ef2 Good Morning & Good Evening \u5c0f\u5de8\u86cb\u6f14\u5531\u6703",
-        "url": "https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 256281,
-      "name": "\u98a8\u96e8",
-      "url": "https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1207,18 +1191,34 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/7sIQVFVGrSIlFsdrTpVEWQ"
+        "name": "\u76e7\u5ee3\u4ef2 Good Morning & Good Evening \u5c0f\u5de8\u86cb\u6f14\u5531\u6703",
+        "url": "https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi"
       },
       "artists": [
         {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ"
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
         }
       ],
-      "duration_ms": 256298,
-      "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/014dGhEHjpF1osouV9tz0S"
+      "duration_ms": 256281,
+      "name": "\u98a8\u96e8",
+      "url": "https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u5348\u591c\u5169\u9ede\u534a\u7684\u6211",
+        "url": "https://open.spotify.com/album/3HkkCV2VJbRXJ2mTiUPHqM"
+      },
+      "artists": [
+        {
+          "name": "\u694a\u57f9\u5b89",
+          "url": "https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/1Yc1BqPYFaUP8Ktm89lqKr"
     }
   ],
   "unique_name": "\u96e8\u4e2d\u65cb\u5f8b",

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "New songwriters on the horizon from around the world. Cover: <a href=\"https://open.spotify.com/user/1217186610?si=6cbd40453d654a75\">Ariana Wong</a> \u2728",
+  "description": "New songwriters on the horizon from around the world. Cover: <a href=\"https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P?si=0tSU9asaR6eJgqS3JdybwA\">Rowlene</a> \u2728",
   "name": "RADAR Songwriters",
   "tracks": [
+    {
+      "album": {
+        "name": "The Evolution of a Robot - 2nd Generation",
+        "url": "https://open.spotify.com/album/5NbXgY6tA9Y7n7jvhVRzzI"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182482,
+      "name": "143",
+      "url": "https://open.spotify.com/track/1BjEVZ05sAt56wt4H9GZu8"
+    },
     {
       "album": {
         "name": "All I Ever Asked",
@@ -472,6 +494,24 @@
       "duration_ms": 240065,
       "name": "Crocodiles",
       "url": "https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x"
+    },
+    {
+      "album": {
+        "name": "Moments In Between",
+        "url": "https://open.spotify.com/album/009HGDGLlzZtCaAxKJjTOt"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180618,
+      "name": "don't let go",
+      "url": "https://open.spotify.com/track/3vjGBhmD8YrmfpbPITTetz"
     },
     {
       "album": {
@@ -1251,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "overdose",
+        "url": "https://open.spotify.com/album/5SnkdRhNhYmzgWkaIGQijn"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203265,
+      "name": "overdose",
+      "url": "https://open.spotify.com/track/2yAkgFcID5XoXF3yRcu8tc"
+    },
+    {
+      "album": {
         "name": "The Age of Pleasure",
         "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
@@ -1507,6 +1565,28 @@
     },
     {
       "album": {
+        "name": "Strings And Bling",
+        "url": "https://open.spotify.com/album/6JyxiTsgY9NgCgBxwtrhgo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314150,
+      "name": "SMA",
+      "url": "https://open.spotify.com/track/4fkCcUS3Gl5cRi9zNt7oMa"
+    },
+    {
+      "album": {
         "name": "STAINS",
         "url": "https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7"
       },
@@ -1566,6 +1646,24 @@
       "duration_ms": 215650,
       "name": "Still Strangers",
       "url": "https://open.spotify.com/track/0w2xc98HHlWQlwuPeKcmu4"
+    },
+    {
+      "album": {
+        "name": "Sweet Escape",
+        "url": "https://open.spotify.com/album/4A8p0LGa7QVi7fv0jtHhEL"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "Sweet Escape",
+      "url": "https://open.spotify.com/track/5Jkkjn5Ur4cWgJS4taJ9cM"
     },
     {
       "album": {

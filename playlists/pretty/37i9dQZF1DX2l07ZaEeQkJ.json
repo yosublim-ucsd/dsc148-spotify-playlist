@@ -1,6 +1,6 @@
 {
   "description": "trakas hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 92306,
+  "num_followers": 92452,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
@@ -283,42 +283,6 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 230795,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 193568,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -335,6 +299,26 @@
       "duration_ms": 143327,
       "name": "HARLEY QUINN",
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -359,6 +343,22 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 193568,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
         "name": "Entre las de 20",
         "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
       },
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -439,6 +439,46 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
+        "name": "Apaga El Cel",
+        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 170832,
+      "name": "Apaga El Cel",
+      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "Teka (with Peso Pluma)",
+        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Teka (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -451,6 +491,50 @@
       "duration_ms": 204815,
       "name": "CRAZYZ",
       "url": "https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "LA PEOPLE II",
+        "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        }
+      ],
+      "duration_ms": 141064,
+      "name": "LA PEOPLE II",
+      "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "La Intenci\u00f3n",
+        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 249464,
+      "name": "La Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -491,90 +575,6 @@
       "duration_ms": 155888,
       "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
       "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "Apaga El Cel",
-        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 170832,
-      "name": "Apaga El Cel",
-      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "LA PEOPLE II",
-        "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        }
-      ],
-      "duration_ms": 141064,
-      "name": "LA PEOPLE II",
-      "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "Teka (with Peso Pluma)",
-        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Teka (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "La Intenci\u00f3n",
-        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 249464,
-      "name": "La Intenci\u00f3n",
-      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
-        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
-        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 187172,
-      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
-      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -671,26 +651,6 @@
       "duration_ms": 166453,
       "name": "BARBIEZ",
       "url": "https://open.spotify.com/track/5YZgFW1hURKX02zTayrpGI"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Maury",
-          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
-        }
-      ],
-      "duration_ms": 173195,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -719,6 +679,26 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
+        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 187172,
+      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
         "name": "ROMPE LA DOMPE",
         "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 165634,
       "name": "ROMPE LA DOMPE",
       "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "R\u00e1pido Soy",
-        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 114125,
-      "name": "R\u00e1pido Soy",
-      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -855,22 +839,18 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
-        "name": "Kittyponeo",
-        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+        "name": "R\u00e1pido Soy",
+        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         }
       ],
-      "duration_ms": 159170,
-      "name": "Reggaeton Champagne",
-      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
+      "duration_ms": 114125,
+      "name": "R\u00e1pido Soy",
+      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -895,6 +875,26 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 159170,
+      "name": "Reggaeton Champagne",
+      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -1259,6 +1259,30 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
+        "name": "Otro Show",
+        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Otro Show",
+      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
         "name": "Amiri",
         "url": "https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI"
       },
@@ -1335,26 +1359,18 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
-        "name": "Otro Show",
-        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
+        "name": "DELTAS",
+        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
       },
       "artists": [
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Otro Show",
-      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+      "duration_ms": 142372,
+      "name": "DELTAS",
+      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -1371,22 +1387,6 @@
       "duration_ms": 168210,
       "name": "YW&F - Versi\u00f3n Reggaeton",
       "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2024-07-03 18:24:00",

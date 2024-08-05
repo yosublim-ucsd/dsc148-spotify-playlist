@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "this is what falling in love feels like (554Hz)",
         "url": "https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -827,8 +811,8 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
       "artists": [
         {
@@ -836,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 217783,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -911,6 +895,26 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 268235,
+      "name": "Double Fantasy (with Future)",
+      "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/4BmzK2rkU0mJJzfkugX0NG"
       },
@@ -943,28 +947,8 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "Double Fantasy",
-        "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 268235,
-      "name": "Double Fantasy (with Future)",
-      "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
+        "name": "Sweet Oblivion",
+        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
       },
       "artists": [
         {
@@ -972,9 +956,9 @@
           "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 206218,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
+      "duration_ms": 135198,
+      "name": "Sweet Oblivion",
+      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -995,34 +979,18 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
       "artists": [
         {
-          "name": "Eden Golan",
-          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 178965,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 197465,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1043,6 +1011,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
+      },
+      "artists": [
+        {
+          "name": "Eden Golan",
+          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
+        }
+      ],
+      "duration_ms": 178965,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
         "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
       },
@@ -1055,22 +1039,6 @@
       "duration_ms": 224000,
       "name": "\u05e8\u05d5\u05d6",
       "url": "https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "Sweet Oblivion",
-        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 135198,
-      "name": "Sweet Oblivion",
-      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1127,6 +1095,38 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197465,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 206218,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
         "url": "https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "THE LAST EPISODE",
-        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
-      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
         "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
         "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
       },
@@ -1207,6 +1191,38 @@
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/0ttw2K5qNwaKse9LJQBaQt"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
+        "name": "THE LAST EPISODE",
+        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
+      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
+        "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "duration_ms": 234844,
+      "name": "\u05e8\u05e7 \u05e9\u05dc\u05da",
+      "url": "https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1243,22 +1259,6 @@
       "duration_ms": 172800,
       "name": "\u05de\u05e9\u05e7\u05e4\u05d9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        }
-      ],
-      "duration_ms": 234844,
-      "name": "\u05e8\u05e7 \u05e9\u05dc\u05da",
-      "url": "https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "Unicorn",
-        "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
+        "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl"
       },
       "artists": [
         {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
         }
       ],
-      "duration_ms": 170900,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
+      "duration_ms": 287141,
+      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1379,22 +1383,18 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl"
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
       },
       "artists": [
         {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        },
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
         }
       ],
-      "duration_ms": 287141,
-      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag"
+      "duration_ms": 170900,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 159516,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "\u05d5\u05d9\u05e0\u05d9 \u05d5\u05d9\u05d3\u05d9 \u05d5\u05d9\u05e6'\u05d9",
         "url": "https://open.spotify.com/album/2ZAVMJ0cfMztnaQoPiYv4N"
       },
@@ -1575,6 +1591,22 @@
       "duration_ms": 144137,
       "name": "\u05d5\u05d9\u05e0\u05d9 \u05d5\u05d9\u05d3\u05d9 \u05d5\u05d9\u05e6'\u05d9",
       "url": "https://open.spotify.com/track/4RrZdfphKgLiQ6uJJEgIMx"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
+        "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
+        "url": "https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU"
+      },
+      "artists": [
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "duration_ms": 232284,
+      "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
+      "url": "https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1599,34 +1631,26 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P"
+        "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx"
       },
       "artists": [
         {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 159516,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
-        "url": "https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU"
-      },
-      "artists": [
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
         {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+          "name": "Forever Tel Aviv",
+          "url": "https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q"
+        },
+        {
+          "name": "Sagi Kariv",
+          "url": "https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a"
         }
       ],
-      "duration_ms": 232284,
-      "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
-      "url": "https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs"
+      "duration_ms": 154921,
+      "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1643,6 +1667,22 @@
       "duration_ms": 218692,
       "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
       "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
+        "name": "Quiet [from the Netflix Film \u2018Heart of Stone\u2019]",
+        "url": "https://open.spotify.com/album/1XVaTJKPLDku4QGu0bZoXL"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 189694,
+      "name": "Quiet [from the Netflix Film \u2018Heart of Stone\u2019]",
+      "url": "https://open.spotify.com/track/0ir6hnTJdwudrna8HJSHPN"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1699,46 +1739,6 @@
       "duration_ms": 200213,
       "name": "\u05e0\u05ea\u05e7 \u05d0\u05d5\u05ea\u05d9",
       "url": "https://open.spotify.com/track/4DR0S0A8F5DBByYLnPjdCr"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "Forever Tel Aviv",
-          "url": "https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q"
-        },
-        {
-          "name": "Sagi Kariv",
-          "url": "https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a"
-        }
-      ],
-      "duration_ms": 154921,
-      "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "\u05ea\u05e9\u05d5\u05d1\u05d4?",
-        "url": "https://open.spotify.com/album/239QSa9yG5pSpwFPIVRqYN"
-      },
-      "artists": [
-        {
-          "name": "Narkis",
-          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "\u05d4\u05db\u05dc \u05dc\u05d8\u05d5\u05d1\u05d4",
-      "url": "https://open.spotify.com/track/0REMSQVoHQU9U1v5m657bx"
     }
   ],
   "unique_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",

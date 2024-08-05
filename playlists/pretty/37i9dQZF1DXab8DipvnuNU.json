@@ -1,6 +1,6 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 32792,
+  "num_followers": 32810,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -287,6 +271,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -299,6 +299,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -371,22 +387,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 307946,
       "name": "Got to Be Real",
       "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "P.Y.T. (Pretty Young Thing)",
+      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -523,22 +539,6 @@
       "duration_ms": 356200,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -867,18 +867,18 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "Heart Break",
-        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
       "artists": [
         {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 309840,
-      "name": "If It Isn't Love",
-      "url": "https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11"
+      "duration_ms": 343400,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -903,34 +903,50 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "I Feel for You",
-        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+        "name": "Heart Break",
+        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
         }
       ],
-      "duration_ms": 343400,
-      "name": "I Feel for You",
-      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+      "duration_ms": 309840,
+      "name": "If It Isn't Love",
+      "url": "https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11"
     },
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i"
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 194490,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0"
+      "duration_ms": 251426,
+      "name": "Just Friends (Sunny)",
+      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Light Of Worlds",
+        "url": "https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -951,34 +967,18 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "Light Of Worlds",
-        "url": "https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo"
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 257866,
-      "name": "Summer Madness",
-      "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Just Friends (Sunny)",
-      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
+      "duration_ms": 194490,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 159293,
-      "name": "Why Don't We Fall in Love",
-      "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "Funkentelechy Vs. The Placebo Syndrome",
@@ -1099,6 +1083,22 @@
       "duration_ms": 346666,
       "name": "Flash Light",
       "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 159293,
+      "name": "Why Don't We Fall in Love",
+      "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "The Best of Gerald Levert",
-        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
-      },
-      "artists": [
-        {
-          "name": "Levert",
-          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
-        }
-      ],
-      "duration_ms": 262373,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Greatest Hits",
@@ -1203,6 +1187,22 @@
       "duration_ms": 296333,
       "name": "People Everyday - Metamorphosis Mix",
       "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "The Best of Gerald Levert",
+        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
+      },
+      "artists": [
+        {
+          "name": "Levert",
+          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
+        }
+      ],
+      "duration_ms": 262373,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
+        "name": "In My House",
+        "url": "https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane Girls",
+          "url": "https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
         "name": "HOMECOMING: THE LIVE ALBUM",
         "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 240776,
       "name": "Before I Let Go - Homecoming Live Bonus Track",
       "url": "https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Feels Good",
-      "url": "https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91"
     }
   ],
   "unique_name": "The Cookout",

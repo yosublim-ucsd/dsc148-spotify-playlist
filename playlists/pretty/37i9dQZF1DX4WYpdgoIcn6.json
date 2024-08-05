@@ -1,6 +1,6 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 8982640,
+  "num_followers": 8982445,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Nobody Gets Me",
-      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -241,6 +225,22 @@
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
       "added_at": "2024-06-26 09:25:28",
       "album": {
         "name": "The Secret of Us",
@@ -259,6 +259,22 @@
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 343120,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -299,22 +315,6 @@
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 343120,
-      "name": "BLUE",
-      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "Train Wreck",
-      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 180933,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
+      "duration_ms": 208826,
+      "name": "Train Wreck",
+      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "You're Losing Me (From The Vault)",
-        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277831,
-      "name": "You\u2019re Losing Me (From The Vault)",
-      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 213333,
       "name": "Mood Swings (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "All Of The Girls You Loved Before",
-        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221407,
-      "name": "All Of The Girls You Loved Before",
-      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
+        "name": "All Of The Girls You Loved Before",
+        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221407,
+      "name": "All Of The Girls You Loved Before",
+      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
+        "name": "Cheating on You",
+        "url": "https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 196606,
+      "name": "Cheating on You",
+      "url": "https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
-        "name": "Cheating on You",
-        "url": "https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 196606,
-      "name": "Cheating on You",
-      "url": "https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 182566,
-      "name": "imperfect for you",
-      "url": "https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182566,
+      "name": "imperfect for you",
+      "url": "https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 153633,
-      "name": "i wish i hated you",
-      "url": "https://open.spotify.com/track/5cQX9BexkPIEESTZijJhXg"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 153633,
+      "name": "i wish i hated you",
+      "url": "https://open.spotify.com/track/5cQX9BexkPIEESTZijJhXg"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 196752,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
         "name": "I GUESS I'M IN LOVE",
         "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 196752,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
+        "name": "The Prelude",
+        "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 170344,
+      "name": "At My Worst",
+      "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
         "name": "TRUSTFALL (Tour Deluxe Edition)",
         "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "The Prelude",
-        "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 170344,
-      "name": "At My Worst",
-      "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -1579,22 +1595,6 @@
       "duration_ms": 212868,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
-        "name": "how can i pretend?",
-        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "ur so pretty",
-      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 177152,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 177152,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -2091,18 +2091,22 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "i don't want to watch the world end with someone else",
-        "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
+        "name": "Eleven (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak"
       },
       "artists": [
         {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 184505,
-      "name": "i don't want to watch the world end with someone else",
-      "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
+      "duration_ms": 206080,
+      "name": "Eleven (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -2127,22 +2131,34 @@
     {
       "added_at": "2024-05-24 00:00:00",
       "album": {
-        "name": "Eleven (feat. Summer Walker)",
-        "url": "https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak"
+        "name": "i don't want to watch the world end with someone else",
+        "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Eleven (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
+      "duration_ms": 184505,
+      "name": "i don't want to watch the world end with someone else",
+      "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
+    },
+    {
+      "added_at": "2024-05-24 00:00:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Leaving My Love Behind",
+      "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
     },
     {
       "added_at": "2024-05-24 00:00:00",
@@ -2175,22 +2191,6 @@
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
-    },
-    {
-      "added_at": "2024-05-24 00:00:00",
-      "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Leaving My Love Behind",
-      "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
     },
     {
       "added_at": "2024-05-24 00:00:00",

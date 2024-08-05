@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Hayato Sumino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,190 likes - 63 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,223 likes - 63 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

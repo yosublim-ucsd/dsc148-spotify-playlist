@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1024891,
+  "num_followers": 1024910,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "AMARGURA",
-      "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "AMARGURA",
+      "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -195,42 +195,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 223783,
-      "name": "Un Desperdicio",
-      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "La_Playlist.mpeg",
-        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "La_Playlist.mpeg",
-      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "VAGABUNDO",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -251,6 +215,42 @@
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "La_Playlist.mpeg",
+        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "La_Playlist.mpeg",
+      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 223783,
+      "name": "Un Desperdicio",
+      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -391,6 +391,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "CONTIGO (with Ti\u00ebsto)",
         "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
       },
@@ -431,26 +451,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 189282,
       "name": "Tengo Un Plan",
       "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -583,6 +567,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Touching The Sky",
+        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 187517,
+      "name": "Touching The Sky",
+      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 228186,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Touching The Sky",
-        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 187517,
-      "name": "Touching The Sky",
-      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Low Key (feat. Humby)",
         "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
       },
@@ -831,26 +851,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Tarde",
         "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 162181,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -959,26 +975,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Fr\u00eda",
-        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
-        }
-      ],
-      "duration_ms": 176606,
-      "name": "Fr\u00eda",
-      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "El Amor En Los Tiempos Del Perreo",
         "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
@@ -991,38 +987,6 @@
       "duration_ms": 211998,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149255,
-      "name": "Si no no",
-      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1047,6 +1011,42 @@
       "duration_ms": 227784,
       "name": "CARACAS EN EL 2000",
       "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Fr\u00eda",
+        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        }
+      ],
+      "duration_ms": 176606,
+      "name": "Fr\u00eda",
+      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149255,
+      "name": "Si no no",
+      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Junio",
         "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 153506,
       "name": "LAS BABYS",
       "url": "https://open.spotify.com/track/7EJ2c1JMy4knv1wK6bazy0"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Pink Aura",
-        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 193355,
-      "name": "F* OFF",
-      "url": "https://open.spotify.com/track/4c46OwwVzZ2TpWCfvxCrUC"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "\u00c9xtasis",
         "url": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 191606,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 193355,
+      "name": "F* OFF",
+      "url": "https://open.spotify.com/track/4c46OwwVzZ2TpWCfvxCrUC"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Te Imaginaba",
+        "url": "https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 158815,
+      "name": "Te Imaginaba",
+      "url": "https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Fantasi",
         "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Te Imaginaba",
-        "url": "https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU"
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
       },
       "artists": [
         {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 158815,
-      "name": "Te Imaginaba",
-      "url": "https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo"
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1555,22 +1571,6 @@
       "duration_ms": 140957,
       "name": "AGUA",
       "url": "https://open.spotify.com/track/04eJJNfLPEC8bvTnJeyxGO"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "De Qu\u00e9 Manera",
-        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "De Qu\u00e9 Manera",
-      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Melanc\u00f3licos An\u00f3nimos",
+        "url": "https://open.spotify.com/album/5HEZa0uEQUB1ykC4abAvxX"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "Melanc\u00f3licos An\u00f3nimos",
+      "url": "https://open.spotify.com/track/1xFwkEGGB6BDhHFzcpsuf8"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
         "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 187920,
       "name": "CARBON VRMOR",
       "url": "https://open.spotify.com/track/5pQed9UAd4DqG6cWUQegGm"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Melanc\u00f3licos An\u00f3nimos",
-        "url": "https://open.spotify.com/album/5HEZa0uEQUB1ykC4abAvxX"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "Melanc\u00f3licos An\u00f3nimos",
-      "url": "https://open.spotify.com/track/1xFwkEGGB6BDhHFzcpsuf8"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "El Viaje",
-        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 170320,
-      "name": "Medell\u00edn",
-      "url": "https://open.spotify.com/track/7zUUMR5cHF4WIPl7jXORlV"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Dame Un Break",
         "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 200598,
       "name": "Dame Un Break",
       "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "El Viaje",
+        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Medell\u00edn",
+      "url": "https://open.spotify.com/track/7zUUMR5cHF4WIPl7jXORlV"
     },
     {
       "added_at": "2024-08-02 04:00:00",

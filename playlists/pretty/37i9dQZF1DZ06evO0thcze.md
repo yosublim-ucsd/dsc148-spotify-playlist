@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 
 ### [This Is Neto Peña](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0thcze)
 
-> This is Neto Peña\. The essential tracks, all in one playlist.
+> This Is Neto Peña\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,929 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,948 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 50 | [Gallo de Pelea](https://open.spotify.com/track/0YYeNXmLPXWkRbVCnVAgga) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Gallo de Pelea](https://open.spotify.com/album/56X9pfjeVIccEJ8SVJlGod) | 4:24 |
 | 51 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 |
 
-Snapshot ID: `ZqrQAAAAAACOQam7pREirTzTi7bNCD4F`
+Snapshot ID: `ZqrQAAAAAABfcAnBUmwF9i5OgiC30Fgi`

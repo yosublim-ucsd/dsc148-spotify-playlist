@@ -2,7 +2,7 @@
 
 ### [This Is Kali Uchis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO14xkre)
 
-> This is Kali Uchis\. Todos os maiores hits em uma só playlist.
+> This Is Kali Uchis\. Los temas esenciales, todos en una lista.
 
 70 songs - 3 hr 38 min
 

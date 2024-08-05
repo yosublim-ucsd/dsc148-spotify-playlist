@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > Get jiggy with 90s 'dhinchak' beats\. Cover \- Khal Nayak
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,684 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,033 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

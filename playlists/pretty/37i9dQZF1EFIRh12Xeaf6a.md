@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,753 likes - 273 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,755 likes - 273 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 74 | [One Was Johnny](https://open.spotify.com/track/1O7KO0zxO7WuLRfeQtGpQV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 2:08 |
 | 75 | [Goodbye Don't Mean I'm Gone](https://open.spotify.com/track/2R0RZiBr3JzEJR703AkcZh) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:33 |
 | 76 | [Sharing You](https://open.spotify.com/track/4ypZEpTX71A1i5HY8ofw2K) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:02 |
-| 77 | [Walkin' With My Angel](https://open.spotify.com/track/4SRMCUgrwNFN7vUHvyMS7l) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:19 |
-| 78 | [All Life Long \(Edit\)](https://open.spotify.com/track/1tTr4Sp2vbbVwntgk1QStr) | [Freiboitar](https://open.spotify.com/artist/1HcMKF2zXr12XNvN95DKvA), [Jackie Queens](https://open.spotify.com/artist/2Fn9Ex39hElfpqz6HyUgwY) | [All Life Long](https://open.spotify.com/album/5qADZLOscQ71a0EPCmiu0l) | 3:23 |
+| 77 | [All Life Long \(Edit\)](https://open.spotify.com/track/1tTr4Sp2vbbVwntgk1QStr) | [Freiboitar](https://open.spotify.com/artist/1HcMKF2zXr12XNvN95DKvA), [Jackie Queens](https://open.spotify.com/artist/2Fn9Ex39hElfpqz6HyUgwY) | [All Life Long](https://open.spotify.com/album/5qADZLOscQ71a0EPCmiu0l) | 3:23 |
+| 78 | [Walkin' With My Angel](https://open.spotify.com/track/4SRMCUgrwNFN7vUHvyMS7l) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:19 |
 | 79 | [Star Collector \- 2007 Remaster](https://open.spotify.com/track/0tnt3gxEkh3cK3zO95is7f) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd\. \(Deluxe Edition\)](https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF) | 4:26 |
 | 80 | [The Old Crowd](https://open.spotify.com/track/4u4elgxRlDNeiQ0tn3yxnT) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:26 |
 | 81 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 137 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 |
 | 138 | [Screaming and Yelling](https://open.spotify.com/track/6yb7kTRhtmdE5hQvA5VQRU) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 1:16 |
 | 139 | [What Have You Got to Lose](https://open.spotify.com/track/75TZ0xBZiHI09OHm3fu9JR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:30 |
-| 140 | [Raspberry Jam](https://open.spotify.com/track/4MeARHhXvNJ2hhbkTSj7O3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:34 |
-| 141 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
+| 140 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
+| 141 | [Raspberry Jam](https://open.spotify.com/track/4MeARHhXvNJ2hhbkTSj7O3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:34 |
 | 142 | [Like Little Children \- Demo](https://open.spotify.com/track/6lnEZVZbgjIF2ZZ3bsSGak) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:12 |
 | 143 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
 | 144 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbYdpgAAAAD8whRtO+ifi4YjsYW6ceoO`
+Snapshot ID: `AbYjPgAAAAAEIW0CZz16PZLvbwljyiCl`

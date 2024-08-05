@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always\. Cover: <a href="spotify:artist:4sdhhi6q1Ez9l5PagQsykC">Katy Nichole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,868 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,979 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 32 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 |
 | 33 | [Waymaker \- Radio Version](https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Waymaker \(Radio Version\)](https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk) | 4:02 |
 | 34 | [He Reigns](https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Adoration](https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig) | 4:55 |
-| 35 | [Break Every Chain \- Live](https://open.spotify.com/track/3vk0GnIa9jp1B00felbJQE) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Awakening \- Live From Chicago](https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft) | 8:07 |
-| 36 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 |
-| 37 | [The Father's House \- Studio](https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [The Father's House](https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M) | 4:13 |
-| 38 | [Magnify](https://open.spotify.com/track/3wlpaljKzcvj0YYJAMIwXy) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [We Are Messengers](https://open.spotify.com/album/2SMUGFTP3NPh8eVDmUNDiL) | 3:28 |
+| 35 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 |
+| 36 | [The Father's House \- Studio](https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [The Father's House](https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M) | 4:13 |
+| 37 | [Magnify](https://open.spotify.com/track/3wlpaljKzcvj0YYJAMIwXy) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [We Are Messengers](https://open.spotify.com/album/2SMUGFTP3NPh8eVDmUNDiL) | 3:28 |
+| 38 | [Break Every Chain \- Live](https://open.spotify.com/track/3vk0GnIa9jp1B00felbJQE) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Awakening \- Live From Chicago](https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft) | 8:07 |
 | 39 | [You Keep Hope Alive](https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [You Keep Hope Alive](https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp) | 4:11 |
 | 40 | [My Savior My God](https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Anything Worth Saying](https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz) | 4:51 |
-| 41 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
-| 42 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
+| 41 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
+| 42 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
 | 43 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
 | 44 | [Everlasting God](https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Let the Praises Ring: The Best of Lincoln Brewster](https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE) | 4:47 |
 | 45 | [Blessings](https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ) | [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Blessings](https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc) | 4:58 |

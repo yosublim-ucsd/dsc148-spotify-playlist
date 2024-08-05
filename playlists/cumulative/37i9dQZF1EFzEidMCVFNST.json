@@ -5479,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "RASCUNHO",
+        "url": "https://open.spotify.com/album/5EJ3c9jg1lTDl8tzELC4nV"
+      },
+      "artists": [
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163194,
+      "name": "RASCUNHO",
+      "url": "https://open.spotify.com/track/5qY6KlNVjy04tR7a3PqZ1K"
+    },
+    {
+      "album": {
         "name": "Recadinho para Voc\u00ea",
         "url": "https://open.spotify.com/album/4KC8323hXv1uYuNi4zWkXR"
       },

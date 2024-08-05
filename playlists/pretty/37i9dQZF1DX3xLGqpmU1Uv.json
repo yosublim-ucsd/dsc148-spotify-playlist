@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 158200,
+  "num_followers": 158233,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -175,38 +175,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Discos Del Mill\u00f3n",
-        "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Lagrimas De Cristal",
-      "url": "https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -219,6 +187,22 @@
       "duration_ms": 140026,
       "name": "Al Ritmo De La Lluvia",
       "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Discos Del Mill\u00f3n",
+        "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Lagrimas De Cristal",
+      "url": "https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -251,6 +235,22 @@
       "duration_ms": 224533,
       "name": "Rosas en el Mar",
       "url": "https://open.spotify.com/track/3I88eZa7wG0HrbOQeVRKMM"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -315,22 +315,6 @@
       "duration_ms": 133253,
       "name": "Chica ye y\u00e9",
       "url": "https://open.spotify.com/track/6d57N8nRzeGBW2bMinOEKr"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Rock Con los Locos del Ritmo",
-        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 80764,
-      "name": "Yo No Soy Rebelde",
-      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -415,6 +399,22 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 80764,
+      "name": "Yo No Soy Rebelde",
+      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
         "name": "Twist",
         "url": "https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Multiplicaci\u00f3n",
-        "url": "https://open.spotify.com/album/30bcacyGVg5sIxPhNDWEM9"
-      },
-      "artists": [
-        {
-          "name": "Fabricio",
-          "url": "https://open.spotify.com/artist/1PUb6iCJrg0Vs5GBTw2Dkn"
-        }
-      ],
-      "duration_ms": 122773,
-      "name": "Ruedas",
-      "url": "https://open.spotify.com/track/2JyS7QHdJL7QkDJzXCcr1E"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
         "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 171733,
       "name": "Popotitos (Bonie Moroni)",
       "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Multiplicaci\u00f3n",
+        "url": "https://open.spotify.com/album/30bcacyGVg5sIxPhNDWEM9"
+      },
+      "artists": [
+        {
+          "name": "Fabricio",
+          "url": "https://open.spotify.com/artist/1PUb6iCJrg0Vs5GBTw2Dkn"
+        }
+      ],
+      "duration_ms": 122773,
+      "name": "Ruedas",
+      "url": "https://open.spotify.com/track/2JyS7QHdJL7QkDJzXCcr1E"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/17yn43ogchDhAbdWkWJwSU"
     },
     {
-      "added_at": "2024-07-12 13:46:41",
+      "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "100% Mexican Groovy: Batalla Estelar",
-        "url": "https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr"
+        "name": "Las Numero 1 De Angelica Maria",
+        "url": "https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW"
       },
       "artists": [
         {
-          "name": "Salomon Jimenez",
-          "url": "https://open.spotify.com/artist/3smgD1PMafRnTOsCDJCFDx"
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
         }
       ],
-      "duration_ms": 147330,
-      "name": "Algo Tonto",
-      "url": "https://open.spotify.com/track/6V1fjhv6qcnQF24bgZvVDx"
+      "duration_ms": 181533,
+      "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
+      "url": "https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8"
     }
   ],
   "unique_name": "Los 60 M\u00e9xico",

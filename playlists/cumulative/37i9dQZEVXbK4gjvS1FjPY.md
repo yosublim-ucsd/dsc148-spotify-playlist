@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-1,294 songs - 3 day 2 hr 36 min
+1,295 songs - 3 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1086,6 +1086,7 @@
 | [The Last Time \(feat\. Gary Lightbody of Snow Patrol\) \(Taylor’s Version\)](https://open.spotify.com/track/0y6kdSRCVQhSsHSpWvTUm7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Gary Lightbody](https://open.spotify.com/artist/3fCQnw6VSudXBTN5d2QP2z) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:59 | 2021-11-14 | 2021-11-19 |
 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 | 2023-07-06 | 2024-03-30 |
 | [The Manuscript](https://open.spotify.com/track/1DTRUYVd8rYpla9hhVVwjo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:44 | 2024-04-20 | 2024-04-23 |
+| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-08-04 |  |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-13 | 2023-05-15 |
 | [The Prophecy](https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:09 | 2024-04-20 | 2024-04-28 |
 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 | 2024-05-03 | 2024-05-05 |
@@ -1270,7 +1271,7 @@
 | [字字句句](https://open.spotify.com/track/7fAdinC2UTc0Y9GiKrkTtu) | [卢卢快闭嘴](https://open.spotify.com/artist/4wUR1NviIGE01yEfeLNkeV) | [字字句句](https://open.spotify.com/album/5aQMO1ltAoQotkfPCOy0jn) | 3:20 | 2023-08-22 |  |
 | [就忘了吧](https://open.spotify.com/track/0l6w3GsvjJWdZHs3eXTjuL) | [1K](https://open.spotify.com/artist/1zd6jcOk4VE6ey8WbCewFc) | [就忘了吧](https://open.spotify.com/album/2i3Y97GZZj6pH1DTYyyrRt) | 3:23 | 2022-07-13 | 2022-07-17 |
 | [怎麼了](https://open.spotify.com/track/5cU1O9P0EDA0rPkPDykhIm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [終於了解自由 \(Deluxe\)](https://open.spotify.com/album/2lrmHLTedOpdP6TaZDZ77F) | 5:21 | 2021-03-27\* | 2023-11-16 |
-| [总会有人 \(男版\)](https://open.spotify.com/track/5T9ZeccGPOOX7J4YGGwqE3) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [总会有人 \(男版\)](https://open.spotify.com/album/5qzeqSbvzypeOc2IBS7Zyf) | 3:19 | 2024-04-12 |  |
+| [总会有人 \(男版\)](https://open.spotify.com/track/5T9ZeccGPOOX7J4YGGwqE3) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [总会有人 \(男版\)](https://open.spotify.com/album/5qzeqSbvzypeOc2IBS7Zyf) | 3:19 | 2024-04-12 | 2024-08-05 |
 | [恭喜发财](https://open.spotify.com/track/4SDiO7ffalpSPuxn8dXUwh) | [MY ASTRO](https://open.spotify.com/artist/7bmFi3dRcpOeOPbSlxIjlZ) | [天天好天好福气](https://open.spotify.com/album/6fshgZlyva5XbhNcuapkOY) | 2:59 | 2024-02-11 | 2024-02-13 |
 | [想知道你在想什麼 \- 《我吃了那男孩一整年的早餐》電影主題曲](https://open.spotify.com/track/6whxKQ0Ocn1FmzpDc7lTHq) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想知道你在想什麼 \(《我吃了那男孩一整年的早餐》電影主題曲\)](https://open.spotify.com/album/0bk4Iwkx4kZ66ldOfJGQFn) | 4:54 | 2022-01-29 | 2022-09-17 |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2021-07-01 |

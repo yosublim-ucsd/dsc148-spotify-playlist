@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,928 likes - 90 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,786 likes - 90 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dougie](https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6) | [K2S](https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704) | [Dougie](https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih) | 2:21 |
 | 2 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 |
-| 3 | [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 |
-| 4 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 |
+| 3 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 |
+| 4 | [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 |
 | 5 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 |
 | 6 | [Santana](https://open.spotify.com/track/0G0WC5ghZRRH6LJNNXtK1W) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Taxi 5 \(Bande originale inspirée du film\)](https://open.spotify.com/album/4BEvV8uiYjEPcuotngqHJF) | 3:50 |
 | 7 | [Bah Ouais \- Nouvelle École](https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:21 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Canaillou](https://open.spotify.com/track/6LgStwh7l5Y91je4vuT6EC) | [TIMEO](https://open.spotify.com/artist/0pNMzsxbYpuf2bxg1nQWZl) | [Canaillou](https://open.spotify.com/album/2NSYHz9XrchBdlVdtLYUXX) | 2:36 |
 | 90 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 |
 
-Snapshot ID: `Zqt79AAAAACx8TCVKI0ZygpscAUxJkXF`
+Snapshot ID: `Zq/xWgAAAAB5G1ND44ZjQbrWnvhnUnbo`

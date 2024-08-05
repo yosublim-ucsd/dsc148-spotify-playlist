@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I",
-  "num_followers": 61202,
+  "num_followers": 61219,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Km 0",
-        "url": "https://open.spotify.com/album/1mvrraTa5Px5BYfRGUbOdf"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 166036,
-      "name": "Km 0",
-      "url": "https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "3000 Vivos (En Vivo)",
         "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
@@ -423,6 +407,26 @@
       "duration_ms": 269013,
       "name": "Waitin (En Vivo) (feat. MAGIC!)",
       "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Soy d\u00e9bil Sr.",
+        "url": "https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Soy d\u00e9bil Sr.",
+      "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -459,6 +463,90 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Km 0",
+        "url": "https://open.spotify.com/album/1mvrraTa5Px5BYfRGUbOdf"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 166036,
+      "name": "Km 0",
+      "url": "https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Vos Sab\u00e9s",
+        "url": "https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 238291,
+      "name": "Vos sab\u00e9s",
+      "url": "https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "duration_ms": 220565,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 240144,
+      "name": "Pupilas Lejanas (En Vivo)",
+      "url": "https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "duration_ms": 208212,
+      "name": "Cinco",
+      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8"
       },
@@ -487,38 +575,54 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Soy d\u00e9bil Sr.",
-        "url": "https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7"
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
       "artists": [
         {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Soy d\u00e9bil Sr.",
-      "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
     },
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Vos Sab\u00e9s",
-        "url": "https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo"
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
       "artists": [
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
+        },
+        {
+          "name": "Son del Arroyo",
+          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
         }
       ],
-      "duration_ms": 238291,
-      "name": "Vos sab\u00e9s",
-      "url": "https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl"
+      "duration_ms": 201347,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Luz y Compa\u00f1\u00eda",
+      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -539,54 +643,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 240144,
-      "name": "Pupilas Lejanas (En Vivo)",
-      "url": "https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
-      },
-      "artists": [
-        {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
-        }
-      ],
-      "duration_ms": 220565,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "La Misi\u00f3n",
-        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "Stailok",
+          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
         },
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 208212,
-      "name": "Cinco",
-      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+      "duration_ms": 258349,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -615,78 +687,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
-      },
-      "artists": [
-        {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
-        },
-        {
-          "name": "Son del Arroyo",
-          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
-        }
-      ],
-      "duration_ms": 201347,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "Luz y Compa\u00f1\u00eda",
-      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
-      },
-      "artists": [
-        {
-          "name": "Stailok",
-          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 258349,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "3000 Vivos (En Vivo)",
         "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
@@ -699,38 +699,6 @@
       "duration_ms": 247941,
       "name": "Runaway (En Vivo)",
       "url": "https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 196071,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "C\u00f3mo Ver?",
-        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 308522,
-      "name": "C\u00f3mo Ver?",
-      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -767,6 +735,22 @@
       "duration_ms": 385560,
       "name": "Mi Sol",
       "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 196071,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -855,6 +839,22 @@
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "C\u00f3mo Ver?",
+        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 308522,
+      "name": "C\u00f3mo Ver?",
+      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Si No Fuera - Single",
-        "url": "https://open.spotify.com/album/1HEw09m1UAKkfpD1RcAnuW"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 218689,
-      "name": "Si No Fuera",
-      "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Lo Que Decidas Ser\u00e1",
         "url": "https://open.spotify.com/album/2cqqBL8yZKgJ7RnAZa4VxT"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 207637,
       "name": "Lo Que Decidas Ser\u00e1",
       "url": "https://open.spotify.com/track/5MkyPwXXUBx5wgeeYq4bX8"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Si No Fuera - Single",
+        "url": "https://open.spotify.com/album/1HEw09m1UAKkfpD1RcAnuW"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 218689,
+      "name": "Si No Fuera",
+      "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Aroma de Caf\u00e9",
-        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
-      },
-      "artists": [
-        {
-          "name": "Laguna Pai",
-          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
-        }
-      ],
-      "duration_ms": 254085,
-      "name": "Aroma de Caf\u00e9",
-      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Como la Flor",
         "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Rey Mago de las Nubes",
-        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
+        "name": "Aroma de Caf\u00e9",
+        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
         }
       ],
-      "duration_ms": 185666,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
+      "duration_ms": 254085,
+      "name": "Aroma de Caf\u00e9",
+      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1187,6 +1171,22 @@
       "duration_ms": 198680,
       "name": "Puede Parecer",
       "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Rey Mago de las Nubes",
+        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "La Naturaleza",
-        "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
-      },
-      "artists": [
-        {
-          "name": "Planta & Canta",
-          "url": "https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0"
-        },
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 254058,
-      "name": "La Naturaleza",
-      "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Qui\u00e9n Sos?",
         "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
@@ -1311,6 +1291,26 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "La Naturaleza",
+        "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
+      },
+      "artists": [
+        {
+          "name": "Planta & Canta",
+          "url": "https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0"
+        },
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 254058,
+      "name": "La Naturaleza",
+      "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 260266,
       "name": "No Mires Atras",
       "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1415,6 +1431,26 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Que Bonita Vecindad",
+        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Dimelo Ayer",
         "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
       },
@@ -1447,38 +1483,6 @@
       "duration_ms": 196000,
       "name": "Torito",
       "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Siempre en una",
-        "url": "https://open.spotify.com/album/6K53lnXPD7kb7TAnjZDBT7"
-      },
-      "artists": [
-        {
-          "name": "DOMA",
-          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
-        }
-      ],
-      "duration_ms": 220405,
-      "name": "Siempre en una",
-      "url": "https://open.spotify.com/track/7j3BFMiA92T6szrJgHM9yn"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1531,18 +1535,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "En Vivo Teatro Caupolic\u00e1n",
-        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
+        "name": "Siempre en una",
+        "url": "https://open.spotify.com/album/6K53lnXPD7kb7TAnjZDBT7"
       },
       "artists": [
         {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+          "name": "DOMA",
+          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
         }
       ],
-      "duration_ms": 251567,
-      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
-      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
+      "duration_ms": 220405,
+      "name": "Siempre en una",
+      "url": "https://open.spotify.com/track/7j3BFMiA92T6szrJgHM9yn"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1567,22 +1571,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Que Bonita Vecindad",
-        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+        "name": "En Vivo Teatro Caupolic\u00e1n",
+        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
       },
       "artists": [
         {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 223405,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
+      "duration_ms": 251567,
+      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
+      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
     }
   ],
   "unique_name": "Reggae al Sur",

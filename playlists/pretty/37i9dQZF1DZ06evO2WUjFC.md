@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This Is Danny Felix\. Los temas esenciales, todos en una lista.
+> This is Danny Felix\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 787 likes - 51 songs - 3 hr 0 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 50 | [Asi Toco Mi Vida \- Live](https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Finix Style](https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC) | 4:18 |
 | 51 | [Los Botones Azules \- En Vivo](https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 2:25 |
 
-Snapshot ID: `ZqrQAAAAAABABkxl4vd+z545r3s8+PVc`
+Snapshot ID: `ZqrQAAAAAACUHwynxbi1fRqelDoqXzKH`

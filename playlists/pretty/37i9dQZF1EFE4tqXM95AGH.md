@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,165 likes - 169 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,167 likes - 169 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 37 | [One Of Us](https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:58 |
 | 38 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 |
 | 39 | [You Know What I Need](https://open.spotify.com/track/4oSMpaA5jz8WpsmJ9qmYWk) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:50 |
-| 40 | [Plum](https://open.spotify.com/track/0EftP1nY8Mklt77hAMMMug) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:05 |
-| 41 | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf) | 2:55 |
+| 40 | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf) | 2:55 |
+| 41 | [Plum](https://open.spotify.com/track/0EftP1nY8Mklt77hAMMMug) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:05 |
 | 42 | [IN A DREAM](https://open.spotify.com/track/2Cxz0VrxP96Oo9pWZxxNsd) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:49 |
 | 43 | [love, or the lack thereof](https://open.spotify.com/track/2E1eJCNpEniIB1NsDqyGzR) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:07 |
 | 44 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 87 | [Lie for Love](https://open.spotify.com/track/6MrYbA2BABupgYu3eONu7G) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:05 |
 | 88 | [It Even Rains In LA](https://open.spotify.com/track/5bZncPtqBgaIEtaFaH60Sg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:35 |
 | 89 | [Take You Back](https://open.spotify.com/track/1NF9ux53nctr5Rjb3c8i7D) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:49 |
-| 90 | [Cruel](https://open.spotify.com/track/3ZxtQyBPlRDQmffv7KfKCP) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 4:26 |
-| 91 | [I got it bad](https://open.spotify.com/track/40gsPLTRUl4VDevJNoNeNE) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:52 |
+| 90 | [I got it bad](https://open.spotify.com/track/40gsPLTRUl4VDevJNoNeNE) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:52 |
+| 91 | [Cruel](https://open.spotify.com/track/3ZxtQyBPlRDQmffv7KfKCP) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 4:26 |
 | 92 | [Workin On It](https://open.spotify.com/track/4iDPpvvYBnuM5U89cBvWvZ) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:34 |
 | 93 | [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 |
 | 94 | [I Don't Need It To Be Christmas At All](https://open.spotify.com/track/1wmPiEINk0ig3Q0Cit7Anh) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Have You Heard of Christmas?](https://open.spotify.com/album/7lG5kp3WDqPlIap6aPJVLd) | 3:05 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 168 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 169 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AbYdpwAAAAALPANksnpvmOessKYGNrbd`
+Snapshot ID: `AbYjPgAAAACLNxothk0gGZPao66/yFAT`

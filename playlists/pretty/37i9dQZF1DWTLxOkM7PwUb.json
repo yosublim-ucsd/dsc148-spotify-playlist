@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 2133,
+  "num_followers": 2172,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Dos Mil 16",
-      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 330040,
       "name": "Adem\u00e1s de M\u00ed - Remix",
       "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Dos Mil 16",
+      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 174642,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 160638,
       "name": "Pero Ya No",
       "url": "https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 174642,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "GPS (feat. French Montana)",
         "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 216306,
       "name": "GPS (feat. French Montana)",
       "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -735,6 +735,30 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Illuminati (Remix)",
+        "url": "https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam"
+      },
+      "artists": [
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "Illuminati - Remix",
+      "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "C14TORCE III",
         "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
       },
@@ -767,50 +791,6 @@
       "duration_ms": 200000,
       "name": "C\u00f3mo D\u00edmelo",
       "url": "https://open.spotify.com/track/7EehFSuTqX5ufeVwajlnNa"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Illuminati (Remix)",
-        "url": "https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam"
-      },
-      "artists": [
-        {
-          "name": "Kiddtetoon",
-          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
-        },
-        {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "Illuminati - Remix",
-      "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "MAWZ",
-        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 211964,
-      "name": "A tus Pies",
-      "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -855,6 +835,26 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "MAWZ",
+        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "A tus Pies",
+      "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 245141,
       "name": "Dejar Atr\u00e1s / Rompe Corazones",
       "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "C14TORCE IV",
-        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "C14TORCE IV",
-      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -935,26 +919,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Se Termin\u00f3 (feat. Kodigo)",
-        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "Se Termin\u00f3 (feat. Kodigo)",
-      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "DESPUES QUE TE PERDI",
         "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
       },
@@ -971,6 +935,22 @@
       "duration_ms": 247174,
       "name": "DESPUES QUE TE PERDI",
       "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "C14TORCE IV",
+        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "C14TORCE IV",
+      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1039,26 +1019,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "A fuego (Bizarrap Remix)",
-        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 239078,
-      "name": "A fuego - Bizarrap Remix",
-      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Parte de Mi (feat. Lit Killah)",
         "url": "https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo"
       },
@@ -1075,6 +1035,46 @@
       "duration_ms": 194092,
       "name": "Parte de Mi (feat. Lit Killah)",
       "url": "https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Se Termin\u00f3 (feat. Kodigo)",
+        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "Se Termin\u00f3 (feat. Kodigo)",
+      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "A fuego (Bizarrap Remix)",
+        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 239078,
+      "name": "A fuego - Bizarrap Remix",
+      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "CAPRICHOSO",
-        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "CAPRICHOSO",
-      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "CARAMELOS",
         "url": "https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 165818,
       "name": "CARAMELOS",
       "url": "https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "CAPRICHOSO",
+        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "CAPRICHOSO",
+      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1351,22 +1351,54 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Cubierto de Ti",
-        "url": "https://open.spotify.com/album/6LFvjapGGToOCWwAz1CPQs"
+        "name": "P\u00e1lida",
+        "url": "https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
         }
       ],
-      "duration_ms": 269589,
-      "name": "Cubierto de Ti",
-      "url": "https://open.spotify.com/track/4pN4icvWINm9uN3bElfbec"
+      "duration_ms": 214000,
+      "name": "P\u00e1lida",
+      "url": "https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "CON OTRA",
+        "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "CON OTRA",
+      "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Ke Sientes",
+        "url": "https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 207146,
+      "name": "Ke Sientes",
+      "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1395,54 +1427,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "CON OTRA",
-        "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
+        "name": "Cubierto de Ti",
+        "url": "https://open.spotify.com/album/6LFvjapGGToOCWwAz1CPQs"
       },
       "artists": [
         {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "CON OTRA",
-      "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "P\u00e1lida",
-        "url": "https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI"
-      },
-      "artists": [
-        {
-          "name": "Robert Tiamo",
-          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "P\u00e1lida",
-      "url": "https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Ke Sientes",
-        "url": "https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
         }
       ],
-      "duration_ms": 207146,
-      "name": "Ke Sientes",
-      "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
+      "duration_ms": 269589,
+      "name": "Cubierto de Ti",
+      "url": "https://open.spotify.com/track/4pN4icvWINm9uN3bElfbec"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1463,22 +1463,6 @@
       "duration_ms": 172680,
       "name": "Cama Vacia",
       "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "GRACIAS POR NADA",
-        "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 219448,
-      "name": "GRACIAS POR NADA",
-      "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1507,22 +1491,6 @@
       "duration_ms": 162869,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "DAME LOVE",
-        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 190557,
-      "name": "DAME LOVE",
-      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1567,6 +1535,38 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "GRACIAS POR NADA",
+        "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 219448,
+      "name": "GRACIAS POR NADA",
+      "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "No Puedo Fingir",
+        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 164352,
+      "name": "No Puedo Fingir",
+      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "HISTORIA",
         "url": "https://open.spotify.com/album/7MFs4In0iDE87IHLCfDDaT"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "No Puedo Fingir",
-        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
+        "name": "DAME LOVE",
+        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
       },
       "artists": [
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 164352,
-      "name": "No Puedo Fingir",
-      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
+      "duration_ms": 190557,
+      "name": "DAME LOVE",
+      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1647,6 +1647,50 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "G&P3",
+        "url": "https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 196271,
+      "name": "G&P3",
+      "url": "https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Te Olvidaste",
+        "url": "https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "Federico Iv\u00e1n",
+          "url": "https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh"
+        },
+        {
+          "name": "FIM Records",
+          "url": "https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Te Olvidaste",
+      "url": "https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Tus Dudas",
         "url": "https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO"
       },
@@ -1667,22 +1711,6 @@
       "duration_ms": 171891,
       "name": "Tus Dudas",
       "url": "https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "G&P3",
-        "url": "https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 196271,
-      "name": "G&P3",
-      "url": "https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1723,34 +1751,6 @@
       "duration_ms": 224556,
       "name": "No Lo Se",
       "url": "https://open.spotify.com/track/2AzgvH7QJkq4nXBLQeLhuD"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Te Olvidaste",
-        "url": "https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB"
-      },
-      "artists": [
-        {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
-        },
-        {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
-        },
-        {
-          "name": "Federico Iv\u00e1n",
-          "url": "https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh"
-        },
-        {
-          "name": "FIM Records",
-          "url": "https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Te Olvidaste",
-      "url": "https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Es Hoy",
-        "url": "https://open.spotify.com/album/1BVxzFI3LW4TqpKzX7Uz9o"
-      },
-      "artists": [
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Es Hoy",
-      "url": "https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "45",
         "url": "https://open.spotify.com/album/6O6upeYf5MwVKrqV29Ga1l"
       },
@@ -1967,6 +1951,30 @@
       "duration_ms": 206760,
       "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
       "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Desperte Sin Ti (Remix)",
+        "url": "https://open.spotify.com/album/5ddbBmQN5yZ1wVsL9VCVFh"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 319586,
+      "name": "Desperte Sin Ti (Remix)",
+      "url": "https://open.spotify.com/track/4QYQgJhBryglC2hEpVGrZU"
     }
   ],
   "unique_name": "Trap Luv",

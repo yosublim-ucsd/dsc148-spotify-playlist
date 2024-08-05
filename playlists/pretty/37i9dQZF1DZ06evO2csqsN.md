@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 ### [This Is Latto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN)
 
-> This is Latto\. The essential tracks, all in one playlist.
+> This Is Latto\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,323 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,332 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/track/6qLPbIhrnOLnAhSeVlu7V8) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/album/7rf0cUzuhJJiUAxaDg33gM) | 3:27 |
 | 50 | [Champagne Shit \(feat\. Latto & Quavo\) \- Remix](https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Champagne Shit \(feat\. Latto & Quavo\) \[Remix\]](https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM) | 2:57 |
 
-Snapshot ID: `ZqrQAAAAAADZxuVpy9eCbIDQBwVPOrr0`
+Snapshot ID: `ZqrQAAAAAADlDBX8NPKX9SLwBydSOKcS`

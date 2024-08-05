@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-197 songs - 8 hr 45 min
+198 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Mad Summer](https://open.spotify.com/track/74NXZxHh9WGjDTWtkVkAzi) | [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Mad Summer](https://open.spotify.com/album/19mCcLU4lQXBCqg2XRrDF9) | 2:47 | 2023-01-12 |  |
 | [Making It Rain](https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Making It Rain / Buckets](https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z) | 2:27 | 2023-01-12 |  |
 | [Marijus](https://open.spotify.com/track/6tRkeOgUtC4irbNYlGX6cC) | [Colin Jubilee](https://open.spotify.com/artist/0DNgrGKyrlJRgQm1AF7oZ8) | [Marijus](https://open.spotify.com/album/4fZ55qsRlCk4cZK06WUmNh) | 2:46 | 2023-09-29 |  |
+| [Maui Midnight](https://open.spotify.com/track/5RhzrTGuWdN9BwLrsQNK8I) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Maui Midnight](https://open.spotify.com/album/0Qi2WNmlR7BRDqgFnmMTFZ) | 1:59 | 2024-07-25 |  |
 | [Melting Away](https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Melting Away](https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ) | 3:06 | 2023-04-20 |  |
 | [Merits](https://open.spotify.com/track/2BVSKW7MV2zVhew0GcbW9G) | [yud.](https://open.spotify.com/artist/7k6535rJWtEv2TKhv1T6v7) | [Merits](https://open.spotify.com/album/6PAaMZ7PcRN3LtLg1F7ifY) | 1:43 | 2023-01-12 | 2023-05-02 |
 | [Millia](https://open.spotify.com/track/0sUNV4asStRuzKZt00srik) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Millia](https://open.spotify.com/album/33LQ8V4TyHEcjR9mCiEv2x) | 2:20 | 2024-06-28 |  |
@@ -120,7 +121,7 @@
 | [Moonwalker](https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Moonwalker](https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS) | 2:42 | 2023-11-26 |  |
 | [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 | 2023-11-26 |  |
 | [Mostly Toasted](https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Mostly Toasted](https://open.spotify.com/album/4q5FfpWNKHAcsEZlouU0jc) | 1:41 | 2023-01-13 | 2023-07-22 |
-| [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-01-12 |  |
+| [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-01-12 | 2024-08-05 |
 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 | 2023-01-12 | 2023-10-20 |
 | [Newport](https://open.spotify.com/track/1Ieov0BFr2R6L4AwtApqTW) | [Larry Dee](https://open.spotify.com/artist/71FCXGwLKwJQVGkffEzj64) | [Newport](https://open.spotify.com/album/4vT6tlGmNSkDBZ1gglfNvn) | 2:34 | 2023-06-20 | 2024-05-25 |
 | [night mood](https://open.spotify.com/track/1xc37uddWtDmS2RPcVEv47) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [night mood](https://open.spotify.com/album/7yrRTcBURvroZi2godJP0n) | 1:56 | 2023-11-24 | 2024-03-26 |

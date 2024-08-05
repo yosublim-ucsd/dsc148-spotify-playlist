@@ -1,6 +1,6 @@
 {
   "description": "Press play, press start.",
-  "num_followers": 6813875,
+  "num_followers": 6813488,
   "original_name": "Top Gaming Tracks",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
-        "name": "euphoria",
-        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 383639,
-      "name": "euphoria",
-      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
         "name": "DEVIL IS A LIE",
         "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
       "added_at": "2024-07-18 21:07:40",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
-        "name": "GIRLS",
-        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 152979,
-      "name": "GIRLS",
-      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
     },
     {
       "added_at": "2024-07-18 21:07:40",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "one of wun",
-      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "one of wun",
+      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
     },
     {
       "added_at": "2024-07-18 21:07:40",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
         "name": "You & Me (Rivo Remix)",
         "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2024-07-18 21:07:40",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
         "name": "All Stand Together",
         "url": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
       "added_at": "2024-07-18 21:07:40",
@@ -807,38 +807,6 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 264324,
-      "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
         "name": "Montagem Mysterious Game",
         "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
       },
@@ -923,6 +891,38 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2024-07-18 21:07:40",
@@ -987,6 +971,22 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2024-07-18 21:07:40",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
-        "name": "Bandit",
-        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 147746,
-      "name": "BANDIT",
-      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -1291,6 +1275,42 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "BANDIT",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 247444,
-      "name": "First Person Shooter (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
       "added_at": "2024-07-18 21:07:40",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 91453,
       "name": "DERNIERE DANCE FUNK",
       "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2024-07-18 21:07:40",
@@ -1819,30 +1819,6 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "FUK SUMN",
-      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
-    },
-    {
-      "added_at": "2024-07-18 21:07:40",
-      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
       },
@@ -1883,18 +1859,26 @@
     {
       "added_at": "2024-07-18 21:07:40",
       "album": {
-        "name": "500lbs",
-        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 144390,
-      "name": "500lbs",
-      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
     },
     {
       "added_at": "2024-07-18 21:07:40",
@@ -1911,6 +1895,22 @@
       "duration_ms": 128738,
       "name": "HYPNOTIC DATA",
       "url": "https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP"
+    },
+    {
+      "added_at": "2024-07-18 21:07:40",
+      "album": {
+        "name": "500lbs",
+        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
     },
     {
       "added_at": "2024-07-18 21:07:40",

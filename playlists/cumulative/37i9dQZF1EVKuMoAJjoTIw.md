@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EVKuMoAJjoTIw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVKuMoAJjoTIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVKuMoAJjoTIw)
 
-### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
+### [Mix de música melancólica](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a>, <a href=spotify:playlist:37i9dQZF1EIVEXZTzSrj43>Richy Mitch & The Coal Miners</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a>, <a href=spotify:playlist:37i9dQZF1EIVEXZTzSrj43>Richy Mitch & The Coal Miners</a> y más
 
 614 songs - 1 day 11 hr 40 min
 
@@ -95,7 +95,7 @@
 | [Can't Help Falling in Love](https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn) | 2:53 | 2024-04-17 | 2024-04-19 |
 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 | 2022-12-09 | 2024-04-19 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-12-17 | 2024-07-15 |
-| [Carry On](https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:09 | 2022-12-01 |  |
+| [Carry On](https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:09 | 2022-12-01 | 2024-08-05 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-10 | 2024-03-24 |
 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 | 2024-01-04 | 2024-04-17 |
 | [champagne problems](https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:04 | 2023-12-25 | 2024-02-03 |
@@ -180,7 +180,7 @@
 | [Family Line](https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:36 | 2023-12-17 | 2023-12-22 |
 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2024-01-13 | 2024-01-14 |
 | [Father Forgive Me](https://open.spotify.com/track/15lpqHrOIzQtIgPdx8ZEuM) | [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Unclenathannn](https://open.spotify.com/artist/32Yftem1IqHK8e2aJWbvrm) | [Our Remedy](https://open.spotify.com/album/6V2lt0FoMX07RfPr3lhv8W) | 2:06 | 2023-01-26 | 2023-01-27 |
-| [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-11-29 | 2024-07-31 |
+| [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-11-29 |  |
 | [feel like shit](https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:23 | 2023-03-14 | 2023-12-31 |
 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 | 2023-12-24 | 2024-04-09 |
 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 | 2024-01-07 | 2024-02-03 |

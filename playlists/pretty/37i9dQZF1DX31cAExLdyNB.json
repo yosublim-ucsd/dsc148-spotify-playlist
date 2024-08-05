@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 67920,
+  "num_followers": 67935,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,30 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
+        "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 227435,
+      "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
+      "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Somewhere (feat. Gus Dapperton)",
         "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 191213,
       "name": "EME",
       "url": "https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
-        "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227435,
-      "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
-      "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Los Caymanes (Para Olvidar)",
+        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Los Caymanes (Para Olvidar)",
+      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "M\u00e1quina Yin Yang",
         "url": "https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Los Caymanes (Para Olvidar)",
-        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Los Caymanes (Para Olvidar)",
-      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Vine Hasta Marte",
         "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Chapstick",
-        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Nunca Nunca",
         "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 171133,
       "name": "Nunca Nunca",
       "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Chapstick",
+        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
     },
     {
       "added_at": "2024-06-28 21:13:36",

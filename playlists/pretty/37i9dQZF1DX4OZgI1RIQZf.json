@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 91592,
+  "num_followers": 91661,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-06-24 14:41:53",
       "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Dead Man's Bones",
+      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
+    },
+    {
+      "added_at": "2024-06-24 14:41:53",
+      "album": {
         "name": "St. Charles Square",
         "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 188813,
       "name": "Blood Gets Thin",
       "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
-    },
-    {
-      "added_at": "2024-06-24 14:41:53",
-      "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Dead Man's Bones",
-      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
     },
     {
       "added_at": "2024-06-24 14:41:53",

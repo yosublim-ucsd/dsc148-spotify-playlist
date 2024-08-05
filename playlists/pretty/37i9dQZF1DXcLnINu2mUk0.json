@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Nenny",
-  "num_followers": 46441,
+  "num_followers": 46446,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
         "name": "Ber\u00e7o de Ouro",
         "url": "https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv"
       },
@@ -639,26 +655,6 @@
       "duration_ms": 177637,
       "name": "Ber\u00e7o de Ouro",
       "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 216556,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -679,18 +675,22 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
+      "duration_ms": 216556,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 204320,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "CorDaPele",
+        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 178815,
+      "name": "CorDaPele",
+      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -851,18 +867,18 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Pontos Finais",
-        "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
+        "name": "Para Casa",
+        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 194039,
-      "name": "Pontos Finais",
-      "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
+      "duration_ms": 248421,
+      "name": "Para Casa",
+      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -887,34 +903,18 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "CorDaPele",
-        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
+        "name": "Pontos Finais",
+        "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 178815,
-      "name": "CorDaPele",
-      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
-        "name": "Para Casa",
-        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Para Casa",
-      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
+      "duration_ms": 194039,
+      "name": "Pontos Finais",
+      "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Trovador",
-        "url": "https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 226005,
-      "name": "Trovador",
-      "url": "https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
         "name": "Oj\u00e9 Oj\u00e9",
         "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 172000,
       "name": "Oj\u00e9 Oj\u00e9",
       "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "Trovador",
+      "url": "https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Lugar Favorito",
-        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Lugar Favorito",
-      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
         "name": "Partimento",
         "url": "https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 113142,
       "name": "Partimento",
       "url": "https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "Lugar Favorito",
+        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Lugar Favorito",
+      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
     },
     {
       "added_at": "2024-08-01 23:00:00",

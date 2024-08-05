@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,663 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,656 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 15 | [Flowers In December](https://open.spotify.com/track/0G6Ws8Gbdt0S7pZeuYmkmm) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:57 |
 | 16 | [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 |
 | 17 | [Hallelujah](https://open.spotify.com/track/5fxJc8fxbbM5ZiqaL6Ob6y) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hallelujah](https://open.spotify.com/album/7f7BojlN7pow14eayG4UOn) | 3:10 |
-| 18 | [Day After Tomorrow](https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7) | 6:05 |
-| 19 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
+| 18 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
+| 19 | [Day After Tomorrow](https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7) | 6:05 |
 | 20 | [Angel In The Snow](https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 2:38 |
 | 21 | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL) | 3:09 |
 | 22 | [I'm Not My Season \- Solstice Version](https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [A Very Lonely Solstice](https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h) | 3:10 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 48 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
 | 49 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 |
 | 50 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 |
-| 51 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 |
-| 52 | [Last Christmas](https://open.spotify.com/track/6WyeIQXw0Dd6SOjxs0P2is) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Last Christmas](https://open.spotify.com/album/4X80T73WsoHePePZsRhMQw) | 3:10 |
+| 51 | [Last Christmas](https://open.spotify.com/track/6WyeIQXw0Dd6SOjxs0P2is) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Last Christmas](https://open.spotify.com/album/4X80T73WsoHePePZsRhMQw) | 3:10 |
+| 52 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 |
 | 53 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 |
 | 54 | [Last Christmas](https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Last Christmas](https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R) | 4:40 |
 | 55 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX) | 2:08 |
-| 56 | [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 |
-| 57 | [Snowing In LA](https://open.spotify.com/track/3I6TZhBLFUVLWl1vM4I0t6) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Snowing In LA](https://open.spotify.com/album/0bAnJbVxDC5DMCSCyf4SOV) | 3:09 |
+| 56 | [Snowing In LA](https://open.spotify.com/track/3I6TZhBLFUVLWl1vM4I0t6) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Snowing In LA](https://open.spotify.com/album/0bAnJbVxDC5DMCSCyf4SOV) | 3:09 |
+| 57 | [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 |
 | 58 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 |
 | 59 | [baby jesus is nobody's baby now](https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/54ech4ihgHD7emD0ucycog) | 3:35 |
 | 60 | [Last Christmas](https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Last Christmas](https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS) | 2:41 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 ### [This Is Humbe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DwpxK)
 
-> This is Humbe\. The essential tracks, all in one playlist.
+> This Is Humbe\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,777 likes - 43 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,138 likes - 43 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 42 | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/track/4JSXKtwqCVZHuvrHI2wftR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/album/1y3rU2fetwfnS5v0k8G9eM) | 3:11 |
 | 43 | [Nunca Dijiste Adiós](https://open.spotify.com/track/0lTHLJ03jTiaGnhVBTY2vc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:39 |
 
-Snapshot ID: `ZqrQAAAAAAC5laQKmeluVzK/LaQfHeGb`
+Snapshot ID: `ZqrQAAAAAAB0R9dCtOE1T9to4gi5/o3x`

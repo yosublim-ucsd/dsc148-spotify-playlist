@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 408911,
+  "num_followers": 408922,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-06-25 09:12:57",
       "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
+    },
+    {
+      "added_at": "2024-06-25 09:12:57",
+      "album": {
         "name": "Moondance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 202160,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
-    },
-    {
-      "added_at": "2024-06-25 09:12:57",
-      "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2024-06-25 09:12:57",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-06-25 09:12:57",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2024-06-25 09:12:57",
@@ -779,22 +779,6 @@
       "duration_ms": 288826,
       "name": "Lebanese Blonde",
       "url": "https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr"
-    },
-    {
-      "added_at": "2024-06-25 09:12:57",
-      "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2024-06-25 09:12:57",
@@ -847,6 +831,22 @@
     {
       "added_at": "2024-06-25 09:12:57",
       "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+    },
+    {
+      "added_at": "2024-06-25 09:12:57",
+      "album": {
         "name": "I Don't Care (Acoustic)",
         "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
       },
@@ -859,26 +859,6 @@
       "duration_ms": 238220,
       "name": "I Don't Care - Acoustic",
       "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
-    },
-    {
-      "added_at": "2024-06-25 09:12:57",
-      "album": {
-        "name": "Bossa Covers",
-        "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
-      },
-      "artists": [
-        {
-          "name": "Nara",
-          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
-        },
-        {
-          "name": "Bossa Bros",
-          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
-        }
-      ],
-      "duration_ms": 250575,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F"
     },
     {
       "added_at": "2024-06-25 09:12:57",
@@ -907,6 +887,26 @@
       "duration_ms": 562640,
       "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
+    },
+    {
+      "added_at": "2024-06-25 09:12:57",
+      "album": {
+        "name": "Bossa Covers",
+        "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
+      },
+      "artists": [
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        },
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        }
+      ],
+      "duration_ms": 250575,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F"
     },
     {
       "added_at": "2024-06-25 09:12:57",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-06-25 09:12:57",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
-    },
-    {
-      "added_at": "2024-06-25 09:12:57",
-      "album": {
         "name": "Nat \"King\" Cole & Me (Deluxe)",
         "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 128520,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q"
+    },
+    {
+      "added_at": "2024-06-25 09:12:57",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "Hold You in My Arms",
+      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
     },
     {
       "added_at": "2024-06-25 09:12:57",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-06-25 09:12:57",
       "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Will You Love Me Tomorrow?",
+      "url": "https://open.spotify.com/track/7qVd0TKcUDUdVaUogsGm4H"
+    },
+    {
+      "added_at": "2024-06-25 09:12:57",
+      "album": {
         "name": "Bossa Nova Lounge",
         "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
       },
@@ -1283,6 +1299,26 @@
       "duration_ms": 204418,
       "name": "Somewhere Over The Rainbow - Bossa Version",
       "url": "https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K"
+    },
+    {
+      "added_at": "2024-06-25 09:12:57",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 187226,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D"
     },
     {
       "added_at": "2024-06-25 09:12:57",
@@ -1315,42 +1351,6 @@
     {
       "added_at": "2024-06-25 09:12:57",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Will You Love Me Tomorrow?",
-      "url": "https://open.spotify.com/track/7qVd0TKcUDUdVaUogsGm4H"
-    },
-    {
-      "added_at": "2024-06-25 09:12:57",
-      "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 187226,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D"
-    },
-    {
-      "added_at": "2024-06-25 09:12:57",
-      "album": {
         "name": "Solomon Burke's Greatest Hits",
         "url": "https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4"
       },
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-06-25 09:12:57",
       "album": {
-        "name": "Get Lucky (Acoustic)",
-        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 188605,
-      "name": "Get Lucky - Acoustic",
-      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
-    },
-    {
-      "added_at": "2024-06-25 09:12:57",
-      "album": {
         "name": "Ultimate Guitar Classics 1951-1961",
         "url": "https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 118040,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1"
+    },
+    {
+      "added_at": "2024-06-25 09:12:57",
+      "album": {
+        "name": "Get Lucky (Acoustic)",
+        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 188605,
+      "name": "Get Lucky - Acoustic",
+      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
     },
     {
       "added_at": "2024-06-25 09:12:57",

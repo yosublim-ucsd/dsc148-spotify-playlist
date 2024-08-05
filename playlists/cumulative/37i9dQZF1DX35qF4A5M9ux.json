@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 326936,
       "name": "Mascaras",
       "url": "https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O"
@@ -4546,6 +4546,24 @@
       "duration_ms": 292920,
       "name": "Te Va A Doler",
       "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
+    },
+    {
+      "album": {
+        "name": "Back To Work",
+        "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398536,
+      "name": "Te Vas De Mi",
+      "url": "https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB"
     },
     {
       "album": {

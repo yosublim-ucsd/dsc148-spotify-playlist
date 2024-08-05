@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,670 likes - 451 songs - 1 day 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,683 likes - 451 songs - 1 day 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 102 | [Rockin’](https://open.spotify.com/track/36YCdzT57us0LhDmCYtrNE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:52 |
 | 103 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:53 |
 | 104 | [Dancing With Our Hands Tied](https://open.spotify.com/track/7I7JbDv63ZJJsSi24DyJrz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:31 |
-| 105 | [ghostin](https://open.spotify.com/track/4lD7gHKF1e8Y9stQuVezZB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 4:31 |
-| 106 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 |
+| 105 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 |
+| 106 | [ghostin](https://open.spotify.com/track/4lD7gHKF1e8Y9stQuVezZB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 4:31 |
 | 107 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 |
 | 108 | [A Lonely Night](https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 3:40 |
 | 109 | [Remember The Name \(feat\. Eminem & 50 Cent\)](https://open.spotify.com/track/0AtP8EkGPn6SwxKDaUuXec) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:27 |
@@ -283,8 +283,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 273 | [Let There Be Love](https://open.spotify.com/track/5u5wvBQcUTzRzN7dwkrFUB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:21 |
 | 274 | [sadder badder cooler](https://open.spotify.com/track/0T5eWUavIN647AcUFXfZve) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty \(Paw Prints Edition\)](https://open.spotify.com/album/48I4Jtcqu5K5jZWadn035d) | 2:51 |
 | 275 | [Slam Dunk \(Da Funk\)](https://open.spotify.com/track/4UbMDDL7PfcAPji706HQhx) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [5ive](https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A) | 3:36 |
-| 276 | [Take Me Back To London \(Sir Spyro Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/track/4iYxrnTvYsTtyphOTqTvkh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Take Me Back To London \(Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/album/71znMnnyOF4NIe4UpTYbw7) | 3:51 |
-| 277 | [Everything I'm Not](https://open.spotify.com/track/5mO8VNRwbrPqbfLDHE5rre) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg) | 3:21 |
+| 276 | [Everything I'm Not](https://open.spotify.com/track/5mO8VNRwbrPqbfLDHE5rre) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg) | 3:21 |
+| 277 | [Take Me Back To London \(Sir Spyro Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/track/4iYxrnTvYsTtyphOTqTvkh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Take Me Back To London \(Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/album/71znMnnyOF4NIe4UpTYbw7) | 3:51 |
 | 278 | [Bigger](https://open.spotify.com/track/2DTBXyVq5YqQUB26nP0AKc) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is Us](https://open.spotify.com/album/08wSk6XJ7365lO47E1278L) | 3:15 |
 | 279 | ['Cuz I Can](https://open.spotify.com/track/7u01ucT7UCQBun9v9N4ZkX) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:43 |
 | 280 | [Come N Go \(feat\. Enrique Iglesias\)](https://open.spotify.com/track/5Zc3d993GDKljZ5d6NNk3b) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 3:50 |
@@ -460,4 +460,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 450 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 451 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `AbYdmQAAAAChz/x7HMwvh9QAMPzwCxFC`
+Snapshot ID: `AbYjOQAAAAAF9fOopL6uecxIx3C7X/Jl`

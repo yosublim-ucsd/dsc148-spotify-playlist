@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 353881,
+  "num_followers": 353894,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-19 11:55:23",
       "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 152894,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
-    },
-    {
-      "added_at": "2024-07-19 11:55:23",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2024-07-19 11:55:23",
       "album": {
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 152894,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
+    },
+    {
+      "added_at": "2024-07-19 11:55:23",
+      "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
       },
@@ -507,38 +507,6 @@
     {
       "added_at": "2024-07-19 11:55:23",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 169949,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
-    },
-    {
-      "added_at": "2024-07-19 11:55:23",
-      "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 141971,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
-    },
-    {
-      "added_at": "2024-07-19 11:55:23",
-      "album": {
         "name": "20s",
         "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 198218,
       "name": "Sch\u00f6n genug",
       "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
+    },
+    {
+      "added_at": "2024-07-19 11:55:23",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 169949,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
+    },
+    {
+      "added_at": "2024-07-19 11:55:23",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 141971,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
     },
     {
       "added_at": "2024-07-19 11:55:23",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-19 11:55:23",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 200523,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
-    },
-    {
-      "added_at": "2024-07-19 11:55:23",
-      "album": {
         "name": "Faded Love",
         "url": "https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 148345,
       "name": "Faded Love",
       "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
+    },
+    {
+      "added_at": "2024-07-19 11:55:23",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 200523,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
     },
     {
       "added_at": "2024-07-19 11:55:23",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-19 11:55:23",
       "album": {
+        "name": "I Made It",
+        "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "I Made It",
+      "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+    },
+    {
+      "added_at": "2024-07-19 11:55:23",
+      "album": {
         "name": "Butterflies (feat. FLETCHER)",
         "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 191250,
       "name": "Butterflies (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
-    },
-    {
-      "added_at": "2024-07-19 11:55:23",
-      "album": {
-        "name": "I Made It",
-        "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "I Made It",
-      "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
     },
     {
       "added_at": "2024-07-19 11:55:23",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-19 11:55:23",
       "album": {
-        "name": "Thrill Of It All",
-        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 203603,
-      "name": "Thrill Of It All",
-      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
-    },
-    {
-      "added_at": "2024-07-19 11:55:23",
-      "album": {
         "name": "Small Steps",
         "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 166991,
       "name": "Small Steps",
       "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
+    },
+    {
+      "added_at": "2024-07-19 11:55:23",
+      "album": {
+        "name": "Thrill Of It All",
+        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Thrill Of It All",
+      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
     },
     {
       "added_at": "2024-07-19 11:55:23",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-19 11:55:23",
       "album": {
-        "name": "Year of the Young",
-        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Year of the Young",
-      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
-    },
-    {
-      "added_at": "2024-07-19 11:55:23",
-      "album": {
         "name": "You Make Me Happy",
         "url": "https://open.spotify.com/album/7bpDg2iX5pdMWvUapiLVmj"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 201942,
       "name": "You Make Me Happy",
       "url": "https://open.spotify.com/track/68pmau9FpqIwRjryGd2dDn"
+    },
+    {
+      "added_at": "2024-07-19 11:55:23",
+      "album": {
+        "name": "Year of the Young",
+        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Year of the Young",
+      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
     },
     {
       "added_at": "2024-07-19 11:55:23",

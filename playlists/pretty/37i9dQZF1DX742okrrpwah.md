@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Charli xcx, Billie Eilish au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,003 likes - 69 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,017 likes - 69 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 25 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 |
 | 26 | [Horses In A Dream](https://open.spotify.com/track/0QTnrvAOdpW98lSdowjwHM) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Horses In A Dream](https://open.spotify.com/album/6Ca8lM5YZmtmQJZqFl9GpY) | 3:04 |
 | 27 | [Mentos and Coke](https://open.spotify.com/track/1vohIWnkOUnCv60Od198Ma) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Mentos and Coke](https://open.spotify.com/album/4Mk0oTQwMaQcQYSQHt08Gf) | 2:49 |
-| 28 | [Level Up \(feat\. Kany\)](https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Level Up \(feat\. Kany\)](https://open.spotify.com/album/1LPsTbC6Mbs8uaMqQGzfKG) | 2:34 |
+| 28 | [Level Up](https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Level Up](https://open.spotify.com/album/1LPsTbC6Mbs8uaMqQGzfKG) | 2:34 |
 | 29 | [Keen](https://open.spotify.com/track/5FjgNCKyg3yYHHTMNQiMgl) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Keen](https://open.spotify.com/album/7Ej5UEFKXWLmQ6g5lYkpWL) | 3:57 |
 | 30 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 |
 | 31 | [autopista](https://open.spotify.com/track/4wAcJcf2MxlJ5h4ZjGQycl) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [the fair](https://open.spotify.com/album/04v5XPsL4ZnnBGES8Szejc) | 3:50 |

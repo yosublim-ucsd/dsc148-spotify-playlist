@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>
 
-201 songs - 16 hr 12 min
+202 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [DAY OF THE LORD](https://open.spotify.com/track/2PZNojC4NNmMM4l3790LJC) | [REFUGE WRSHP](https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE) | [DAY OF THE LORD](https://open.spotify.com/album/28sHaz4Rcsy7grBT9OkARL) | 7:07 | 2024-04-26 | 2024-05-16 |
 | [Deliverance](https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Deliverance](https://open.spotify.com/album/3U1eMnUPBQwb3UOQBmgsPw) | 3:44 | 2024-03-01 | 2024-05-04 |
 | [Diamant](https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo) | [Isaac M](https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26) | [Diamant](https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX) | 2:58 | 2024-03-22 | 2024-05-24 |
-| [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-16 |  |
+| [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-16 | 2024-08-05 |
 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 | 2023-11-03 | 2024-01-05 |
 | [Dry Bones](https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Dry Bones](https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g) | 11:31 | 2024-02-09 |  |
 | [Eagles](https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Eagles](https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW) | 2:26 | 2024-03-15 | 2024-04-19 |
@@ -127,6 +127,7 @@
 | [My Secret Place \(Holy Spirit Take Over\)](https://open.spotify.com/track/5BAOWgioAf2ErmB0wjRqZo) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [My Secret Place \(Holy Spirit Take Over\)](https://open.spotify.com/album/0M2qtn0x6oRqQjDJ7JAGi9) | 8:50 | 2024-02-02 | 2024-04-01 |
 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 | 2024-02-23 |  |
 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2023-10-20 | 2024-03-14 |
+| [Never seen](https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Never seen](https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD) | 5:15 | 2024-01-05 |  |
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-02-02 |  |
 | [New Heart](https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [New Heart](https://open.spotify.com/album/3c2ryFUaPcq9Gr1cZtKR6Z) | 3:22 | 2024-02-16 | 2024-05-24 |
 | [Ngiyamazi Umhlengi Wami \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngiyamazi Umhlengi Wam \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG) | 3:59 | 2024-02-23 | 2024-05-10 |

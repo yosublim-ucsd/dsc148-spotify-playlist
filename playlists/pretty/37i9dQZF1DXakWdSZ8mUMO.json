@@ -1,6 +1,6 @@
 {
   "description": "Voc\u00ea n\u00e3o para quando est\u00e1 cansado, s\u00f3 quando terminar!",
-  "num_followers": 2117,
+  "num_followers": 2136,
   "original_name": "Pegando Pesado",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Welcome to Paradise",
-      "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 224596,
       "name": "Cut the Cord",
       "url": "https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Welcome to Paradise",
+      "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Wait and Bleed",
-      "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 231480,
       "name": "Monkey Wrench",
       "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Wait and Bleed",
+      "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 316717,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 272240,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
-        "name": "Drones",
-        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 316717,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Alive - Chris Lord-Alge Mix",
-      "url": "https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Meliora (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 239293,
       "name": "Square Hammer",
       "url": "https://open.spotify.com/track/5TNhjanmvwvmjCz2WYwSAv"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Alive - Chris Lord-Alge Mix",
+      "url": "https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Hydrograd",
-        "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Song #3",
-      "url": "https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Got Your Six",
         "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 224906,
       "name": "Wash It All Away",
       "url": "https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Hydrograd",
+        "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Song #3",
+      "url": "https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "The Hand That Feeds",
-      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 210133,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "The Boy Who Died Wolf",
-        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "My Name Is Human",
-      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 205653,
       "name": "State of My Head",
       "url": "https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "The Boy Who Died Wolf",
+        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "My Name Is Human",
+      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "The Oracle (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 315453,
       "name": "Love-Hate-Sex-Pain",
       "url": "https://open.spotify.com/track/36QG29bbGuJkxNgzY6o9Mu"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
-      },
-      "artists": [
-        {
-          "name": "Fozzy",
-          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
-        }
-      ],
-      "duration_ms": 250792,
-      "name": "Judas",
-      "url": "https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "The Path of Totality (Special Edition)",
         "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 190706,
       "name": "Narcissistic Cannibal (feat. Skrillex & Kill the Noise)",
       "url": "https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "duration_ms": 250792,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Outsider",
-        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "Infra-Red",
-      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Jomsviking",
         "url": "https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Immortalized (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 257836,
-      "name": "Immortalized",
-      "url": "https://open.spotify.com/track/7FChJg2hPG2uAZ3hmDg6xL"
+      "duration_ms": 230933,
+      "name": "Infra-Red",
+      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1547,6 +1531,22 @@
       "duration_ms": 229533,
       "name": "Devil on My Shoulder",
       "url": "https://open.spotify.com/track/6M2EVaf2a9qhnY04CVvO95"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 257836,
+      "name": "Immortalized",
+      "url": "https://open.spotify.com/track/7FChJg2hPG2uAZ3hmDg6xL"
     },
     {
       "added_at": "2024-07-05 13:31:30",

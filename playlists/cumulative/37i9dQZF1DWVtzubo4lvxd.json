@@ -3278,7 +3278,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 119171,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4"
@@ -5468,6 +5468,24 @@
       "duration_ms": 222902,
       "name": "Vindication",
       "url": "https://open.spotify.com/track/5eEV0GeXZCPrBaStpbT4aK"
+    },
+    {
+      "album": {
+        "name": "Vintage Erotica",
+        "url": "https://open.spotify.com/album/6RnTk4M9GwvyfCAzFGC41Q"
+      },
+      "artists": [
+        {
+          "name": "Ray Ben Rue",
+          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133600,
+      "name": "Vintage Erotica",
+      "url": "https://open.spotify.com/track/6BrwbWbyecVwH7twX6pbm7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 71398,
+  "num_followers": 71405,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 265173,
-      "name": "Beast Of Burden - Remastered 1994",
-      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+      "duration_ms": 265173,
+      "name": "Beast Of Burden - Remastered 1994",
+      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 217925,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 159714,
       "name": "BOP",
       "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 217925,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "The Getaway",
-        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Dark Necessities",
-      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "El Ritmo Mundial",
         "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 279986,
       "name": "Vasos Vac\u00edos - Remasterizado 2008",
       "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Dark Necessities",
+      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 149040,
-      "name": "Bad Bad Bad (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "Easy (Remix)",
         "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 208079,
       "name": "Estamos Bien",
       "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Bad Bad Bad (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "CARAVANA",
         "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "Morad: Bzrp Music Sessions, Vol. 47",
         "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "TRES PUNTOS SUSPENSIVOS",
         "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 206720,
       "name": "Nos Siguen Pegando Abajo",
       "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "Cicuta (Remix)",
-        "url": "https://open.spotify.com/album/5d10y3nytevf7kBa4xEHpi"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 169932,
-      "name": "Cicuta - Remix",
-      "url": "https://open.spotify.com/track/6qqeq1UoryAxgud2JfF76t"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
         "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 146341,
       "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
       "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "Cicuta (Remix)",
+        "url": "https://open.spotify.com/album/5d10y3nytevf7kBa4xEHpi"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 169932,
+      "name": "Cicuta - Remix",
+      "url": "https://open.spotify.com/track/6qqeq1UoryAxgud2JfF76t"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1571,6 +1571,62 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "JACKBOYS",
+        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 244873,
+      "name": "HIGHEST IN THE ROOM (feat. ROSAL\u00cdA & Lil Baby) - REMIX",
+      "url": "https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -1623,46 +1679,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "JACKBOYS",
-        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 244873,
-      "name": "HIGHEST IN THE ROOM (feat. ROSAL\u00cdA & Lil Baby) - REMIX",
-      "url": "https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "Herstory in the Making",
         "url": "https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG"
       },
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "One Hot Minute (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 285066,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "Sea",
         "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
       },
@@ -1823,26 +1839,6 @@
       "duration_ms": 184546,
       "name": "Me haces bien",
       "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Floor Seats",
-        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "WAM",
-      "url": "https://open.spotify.com/track/7f2HHmhlbdkW5f9Ge26qny"
     }
   ],
   "unique_name": "Antidomingo",

@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw">Jo Black</a>
 
-493 songs - 1 day 5 hr 25 min
+494 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Die Man](https://open.spotify.com/track/0UOflpM3Q5WGmigPr4W2We) | [André Visagie](https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK) | [Bo Dorp](https://open.spotify.com/album/0ob0rVAs13K2PSZeJ8P49w) | 2:42 | 2023-08-31 | 2023-10-27 |
 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 | 2023-05-06 |
 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 | 2024-01-04 |  |
+| [Discount Hearts](https://open.spotify.com/track/4ZLoGWBOmRs5vTog21JEwJ) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Discount Hearts](https://open.spotify.com/album/4fDL2iiY0IXiCgyq6MdVPu) | 2:45 | 2024-07-28 |  |
 | [Doesn't Mean You](https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ) | [Gary Collocott](https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO) | [Doesn't Mean You](https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY) | 3:15 | 2021-06-24 | 2022-02-18 |
 | [Don't Save Me](https://open.spotify.com/track/1T6Go1t6M8rsxj4Qt5VALU) | [HOKUM](https://open.spotify.com/artist/06zsO0gfNuux6sp6vSYRBV) | [The Money Eaters](https://open.spotify.com/album/4ZHztlLyE58FWzreQx1tmU) | 3:10 | 2024-01-04 | 2024-01-27 |
 | [Don't Say Goodbye](https://open.spotify.com/track/7GTj7UNfrqE3glRpZxza7I) | [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Don't Say Goodbye](https://open.spotify.com/album/6B86LoRK5Ddip3RoMUHijd) | 4:24 | 2022-11-24 | 2022-12-09 |
@@ -452,7 +453,7 @@
 | [Tiptoe](https://open.spotify.com/track/2sb1iOmBnDrPFpzRagOhgS) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Tiptoe](https://open.spotify.com/album/3h3GSXsm9dsxIOxjemmAan) | 3:28 | 2023-09-22 | 2024-01-05 |
 | [Toe Roep Ek Jou Naam](https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Toe Roep Ek Jou Naam Velvet Blohm](https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi) | 3:45 | 2022-11-17 | 2023-09-01 |
 | [Too Much \(Feat\. Shane Durrant\)](https://open.spotify.com/track/5ERIKZDFo9IDQl4dg69fzS) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt), [Shane Durrant](https://open.spotify.com/artist/3rJ8mFZryeXC2n5bMkQVkV) | [Fine thanks, and you?](https://open.spotify.com/album/7w9HwmPatYwQd2MgIUqyM8) | 3:12 | 2022-03-31 | 2023-01-27 |
-| [Tot Tyd My Red](https://open.spotify.com/track/4wesBk83cdR6oi2IHmzKZk) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Tot Tyd My Red](https://open.spotify.com/album/0rpivhahSWgMReviuQXL0C) | 3:54 | 2024-07-18 |  |
+| [Tot Tyd My Red](https://open.spotify.com/track/4wesBk83cdR6oi2IHmzKZk) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Tot Tyd My Red](https://open.spotify.com/album/0rpivhahSWgMReviuQXL0C) | 3:54 | 2024-07-18 | 2024-08-05 |
 | [Towards The Sun](https://open.spotify.com/track/57Fo0TBbJvUndg5OXfhiNh) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Towards The Sun](https://open.spotify.com/album/30XPENrsPptG3L6mBHFM9t) | 4:25 | 2021-08-13 | 2022-04-01 |
 | [Towerkop](https://open.spotify.com/track/0lxm6E9GTyQ8hJXxnR5hZb) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Towerkop](https://open.spotify.com/album/2WlM9UWueQZ0beAQSbjRKx) | 4:29 | 2022-11-17 | 2023-01-27 |
 | [Toxic Memories](https://open.spotify.com/track/70Vz80OyLKa5UrChrI3ewd) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [Toxic Memories](https://open.spotify.com/album/21uYLW8NnoSJVdYTamQGx6) | 2:41 | 2021-09-23 | 2022-03-18 |

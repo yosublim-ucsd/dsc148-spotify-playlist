@@ -1,6 +1,6 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 556465,
+  "num_followers": 556534,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
@@ -155,38 +155,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -223,6 +191,22 @@
       "duration_ms": 211294,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -267,6 +251,22 @@
       "duration_ms": 179052,
       "name": "Alone, Pt. II",
       "url": "https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "Wasted Love (feat. Lagique)",
-        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
-        }
-      ],
-      "duration_ms": 139563,
-      "name": "Wasted Love (feat. Lagique)",
-      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "Not So Bad (feat. Emie)",
         "url": "https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I"
       },
@@ -671,6 +651,26 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "Wasted Love (feat. Lagique)",
+        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "duration_ms": 139563,
+      "name": "Wasted Love (feat. Lagique)",
+      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
       },
@@ -691,6 +691,26 @@
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "Loved By You (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -731,26 +751,6 @@
       "duration_ms": 179652,
       "name": "WOW (feat. Sabrina Carpenter) - Remix",
       "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "Loved By You (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "Close To Me (feat. Swae Lee)",
         "url": "https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ"
       },
@@ -947,30 +931,6 @@
       "duration_ms": 182623,
       "name": "Close To Me (with Diplo) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Forever Yours (Avicii Tribute)",
-        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Forever Yours - Avicii Tribute",
-      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1007,6 +967,46 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Forever Yours (Avicii Tribute)",
+        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Forever Yours - Avicii Tribute",
+      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "Better When You're Gone",
         "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "Don't Leave Me Alone (feat. Anne-Marie)",
+        "url": "https://open.spotify.com/album/4sqrDaJcbCIo6aeqO26maj"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Don't Leave Me Alone (feat. Anne-Marie)",
+      "url": "https://open.spotify.com/track/2lYTJK94hb0fd1LQtb6Dhk"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
         "url": "https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Don't Leave Me Alone (feat. Anne-Marie)",
-        "url": "https://open.spotify.com/album/4sqrDaJcbCIo6aeqO26maj"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Don't Leave Me Alone (feat. Anne-Marie)",
-      "url": "https://open.spotify.com/track/2lYTJK94hb0fd1LQtb6Dhk"
     },
     {
       "added_at": "2024-02-01 12:54:41",

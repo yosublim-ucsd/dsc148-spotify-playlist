@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 278644,
       "name": "ADIVINO",
       "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 253962,
       "name": "BADGYAL",
       "url": "https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 147907,
       "name": "El Principio de algo",
       "url": "https://open.spotify.com/track/6tZI1nTl6m40HG5Rs7QuHL"
@@ -3230,7 +3230,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 201030,
       "name": "HOLA PERDIDA REMIX",
       "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
@@ -3840,7 +3840,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 219413,
       "name": "La Isla del Amor (feat. Maki)",
       "url": "https://open.spotify.com/track/0Gw9QC3RqHmTdGqHIWLHb6"
@@ -4006,7 +4006,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 150000,
       "name": "LA REINA",
       "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
@@ -5344,7 +5344,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 202184,
       "name": "Nochentera",
       "url": "https://open.spotify.com/track/1Ca6I91p9T2IgVwmdNLMT1"
@@ -5750,7 +5750,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -6188,7 +6188,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/0RD94y2DlYTzEePb4WuVbU"
@@ -6434,7 +6434,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
@@ -7596,7 +7596,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 189282,
       "name": "Tengo Un Plan",
       "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
@@ -7698,6 +7698,32 @@
       "duration_ms": 183428,
       "name": "Thal\u00eda",
       "url": "https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo"
+    },
+    {
+      "album": {
+        "name": "Thal\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/1pp1JiTZQM7mRDtn4jCVwN"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230857,
+      "name": "Thal\u00eda - Remix",
+      "url": "https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1"
     },
     {
       "album": {

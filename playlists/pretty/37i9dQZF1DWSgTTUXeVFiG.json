@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 10206,
+  "num_followers": 10265,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "De Mi Enam\u00f3rate - Live Version",
+      "url": "https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
         "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
         "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 273053,
       "name": "Llorar\u00e1s - Live",
       "url": "https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "De Mi Enam\u00f3rate - Live Version",
-      "url": "https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -263,38 +263,6 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        },
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        },
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        },
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        },
-        {
-          "name": "Nora",
-          "url": "https://open.spotify.com/artist/50qoEvPHvc3H9dmOBShQSM"
-        }
-      ],
-      "duration_ms": 352853,
-      "name": "Vali\u00f3 La Pena (feat. Jose Alberto \"El Canario\", Cheo Feliciano, Andy Monta\u00f1ez & Nora) - Live Version",
-      "url": "https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
         "name": "Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves",
         "url": "https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL"
       },
@@ -323,6 +291,38 @@
       "duration_ms": 406440,
       "name": "Tengo Ganas - Live Carnegie Version",
       "url": "https://open.spotify.com/track/0dfKQSS9o3pfSducqHXaCy"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        },
+        {
+          "name": "Nora",
+          "url": "https://open.spotify.com/artist/50qoEvPHvc3H9dmOBShQSM"
+        }
+      ],
+      "duration_ms": 352853,
+      "name": "Vali\u00f3 La Pena (feat. Jose Alberto \"El Canario\", Cheo Feliciano, Andy Monta\u00f1ez & NORA) - Live Version",
+      "url": "https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -359,22 +359,6 @@
       "duration_ms": 435640,
       "name": "Anacaona - Live",
       "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 321200,
-      "name": "Tu Amor Me Hace Bien - Live Version",
-      "url": "https://open.spotify.com/track/6mMZl9sPeoTM79XaIaPg9J"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -431,6 +415,22 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 321200,
+      "name": "Tu Amor Me Hace Bien - Live Version",
+      "url": "https://open.spotify.com/track/6mMZl9sPeoTM79XaIaPg9J"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
         "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
         "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 352480,
-      "name": "Medias Negras - Live Version",
-      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
         "name": "40... y Contando (En Vivo Desde Puerto Rico)",
         "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
       },
@@ -483,22 +467,18 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Live At The Cheetah, Vol. 1",
-        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
         }
       ],
-      "duration_ms": 557626,
-      "name": "Descarga Fania - Live",
-      "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
+      "duration_ms": 352480,
+      "name": "Medias Negras - Live Version",
+      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -535,6 +515,26 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 557626,
+      "name": "Descarga Fania - Live",
+      "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
         "name": "Grupo Niche (En Vivo)",
         "url": "https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
-        "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
-      },
-      "artists": [
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 343266,
-      "name": "Un Verano en Nueva York - Live Version",
-      "url": "https://open.spotify.com/track/0JcrTxvfkJb6vOowJorCfO"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
         "name": "Una Historia Musical",
         "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Live At The Cheetah, Vol. 2",
-        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
+        "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
+        "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 444960,
-      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
-      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
+      "duration_ms": 343266,
+      "name": "Un Verano en Nueva York - Live Version",
+      "url": "https://open.spotify.com/track/0JcrTxvfkJb6vOowJorCfO"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -651,6 +635,26 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
+        "name": "40 Anniversary (Live Hits)",
+        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Hector Tricoche",
+          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Lobo Domesticado \"En Vivo\"",
+      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
         "name": "A Night Of Salsa",
         "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
       },
@@ -683,22 +687,18 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "40 Anniversary (Live Hits)",
-        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+        "name": "Live At The Cheetah, Vol. 2",
+        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Hector Tricoche",
-          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
         }
       ],
-      "duration_ms": 286573,
-      "name": "Lobo Domesticado \"En Vivo\"",
-      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
+      "duration_ms": 444960,
+      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
+      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -731,34 +731,6 @@
       "duration_ms": 313120,
       "name": "Desesperado / T\u00fa No Le Amas Le Temes Medley - Live Version",
       "url": "https://open.spotify.com/track/2YOS0XgUx4FcbL4wh2SvCR"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "Live At The Red Garter, Vol. 1",
-        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Sabor Sabor - Live",
-      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -807,6 +779,50 @@
       "duration_ms": 373400,
       "name": "Lluvia - En Vivo",
       "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "Live At The Red Garter, Vol. 1",
+        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Sabor Sabor - Live",
+      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 338093,
+      "name": "Mi Bajo y Yo - Live Version",
+      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -899,22 +915,6 @@
       "duration_ms": 371813,
       "name": "Sonido Bestial - En Vivo",
       "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 338093,
-      "name": "Mi Bajo y Yo - Live Version",
-      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
     },
     {
       "added_at": "2024-03-19 14:30:29",

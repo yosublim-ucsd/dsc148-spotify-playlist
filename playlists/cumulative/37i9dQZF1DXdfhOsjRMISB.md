@@ -4,7 +4,7 @@
 
 > Country music to accompany you on the open road\. Cover: Miranda Lambert
 
-401 songs - 22 hr 11 min
+402 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2024-08-02 |  |
 | [Burn 'Em All](https://open.spotify.com/track/2UBvtKeetnXn6lMnsBUrZz) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Burn 'Em All](https://open.spotify.com/album/0IzNkQjU9fUw1SlVgQDckM) | 3:05 | 2021-12-03 | 2022-07-24 |
 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 | 2023-08-01 |  |
+| [Burn It Down \- Radio Edit](https://open.spotify.com/track/4bARASJEokNacSYtEhoNBp) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Burn It Down \(Radio Edit\)](https://open.spotify.com/album/113muW4YS82jqoS39y5Jgl) | 3:36 | 2024-08-02 |  |
 | [Burning Man](https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:58 | 2021-12-03 |  |
 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 | 2021-12-03 |  |
 | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx) | 3:03 | 2022-11-14 | 2024-08-03 |
@@ -224,7 +225,7 @@
 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 | 2021-12-03 |  |
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2021-12-03 | 2022-07-29 |
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2022-07-01 | 2024-04-19 |
-| [Most People Are Good](https://open.spotify.com/track/79LAFAkR1ATb4iIQvZuCL0) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What Makes You Country](https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy) | 3:41 | 2022-07-01 |  |
+| [Most People Are Good](https://open.spotify.com/track/79LAFAkR1ATb4iIQvZuCL0) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What Makes You Country](https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy) | 3:41 | 2022-07-01 | 2024-08-05 |
 | [Mud on the Tires](https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Mud On The Tires](https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS) | 3:28 | 2023-08-04 |  |
 | [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 | 2022-11-18 | 2022-12-27 |
 | [My Boy](https://open.spotify.com/track/0PjXFoTUNltAvf4IN0N3Xx) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [My Boy](https://open.spotify.com/album/1KMNV3TwzyaD0ongzMHjVQ) | 3:23 | 2021-12-03 | 2022-07-29 |
@@ -390,9 +391,9 @@
 | [Wild Hearts](https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Wild Hearts](https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y) | 3:02 | 2022-06-01 | 2022-11-13 |
 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 | 2021-12-03 |  |
 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 | 2024-08-02 |  |
-| [Wind Up Missin' You](https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin' You](https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG) | 2:46 | 2024-08-02 |  |
+| [Wind Up Missin' You](https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin' You](https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG) | 2:46 | 2024-08-02 | 2024-08-05 |
 | [Wine, Beer, Whiskey](https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:16 | 2021-12-03 |  |
-| [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2022-08-01 | 2024-08-03 |
+| [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2022-08-01 |  |
 | [With A Woman You Love](https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [With A Woman You Love](https://open.spotify.com/album/1b6svBmo0eVcAIfhOSmf71) | 2:47 | 2022-08-01 | 2023-05-14 |
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2023-08-01 |  |
 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 | 2021-12-03 | 2022-11-15 |

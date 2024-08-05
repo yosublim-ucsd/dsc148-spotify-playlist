@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Daniela Spalla en portada.",
-  "num_followers": 85744,
+  "num_followers": 85751,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-07-26 15:08:26",
       "album": {
-        "name": "Hermosa Casualidad",
-        "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 205779,
-      "name": "Hermosa Casualidad",
-      "url": "https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI"
-    },
-    {
-      "added_at": "2024-07-26 15:08:26",
-      "album": {
         "name": "La Raz\u00f3n",
         "url": "https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 162906,
       "name": "La Raz\u00f3n",
       "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
+    },
+    {
+      "added_at": "2024-07-26 15:08:26",
+      "album": {
+        "name": "Hermosa Casualidad",
+        "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 205779,
+      "name": "Hermosa Casualidad",
+      "url": "https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI"
     },
     {
       "added_at": "2024-07-26 15:08:26",
@@ -787,58 +787,6 @@
     {
       "added_at": "2024-07-26 15:08:26",
       "album": {
-        "name": "EL RELOJ (con Maluma)",
-        "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 180521,
-      "name": "EL RELOJ (con Maluma)",
-      "url": "https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ"
-    },
-    {
-      "added_at": "2024-07-26 15:08:26",
-      "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "PLATONIK",
-      "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
-    },
-    {
-      "added_at": "2024-07-26 15:08:26",
-      "album": {
-        "name": "Ley universal",
-        "url": "https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 189838,
-      "name": "Ley universal",
-      "url": "https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ"
-    },
-    {
-      "added_at": "2024-07-26 15:08:26",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -879,6 +827,58 @@
     {
       "added_at": "2024-07-26 15:08:26",
       "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "PLATONIK",
+      "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
+    },
+    {
+      "added_at": "2024-07-26 15:08:26",
+      "album": {
+        "name": "EL RELOJ (con Maluma)",
+        "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 180521,
+      "name": "EL RELOJ (con Maluma)",
+      "url": "https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ"
+    },
+    {
+      "added_at": "2024-07-26 15:08:26",
+      "album": {
+        "name": "Ley universal",
+        "url": "https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 189838,
+      "name": "Ley universal",
+      "url": "https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ"
+    },
+    {
+      "added_at": "2024-07-26 15:08:26",
+      "album": {
         "name": "miamor",
         "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-26 15:08:26",
       "album": {
-        "name": "Lovelove U",
-        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 175479,
-      "name": "Lovelove U",
-      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
-    },
-    {
-      "added_at": "2024-07-26 15:08:26",
-      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
+    },
+    {
+      "added_at": "2024-07-26 15:08:26",
+      "album": {
+        "name": "Lovelove U",
+        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 175479,
+      "name": "Lovelove U",
+      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
     },
     {
       "added_at": "2024-07-26 15:08:26",

@@ -4,7 +4,7 @@
 
 > 
 
-1,562 songs - 3 day 12 hr 47 min
+1,563 songs - 3 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1471,6 +1471,7 @@
 | [Wake Up](https://open.spotify.com/track/5ujH0zeUaY4PzTbieNLitQ) | [Darksiderz](https://open.spotify.com/artist/1XwoaxvFx5Y67ZdLQt2TMa), [ATHRS](https://open.spotify.com/artist/5AXI65sMlxQ1GtWmoyf3jN), [Kreation](https://open.spotify.com/artist/3xDNY0vcZ7JBBX5fhdbT83) | [Letting Go](https://open.spotify.com/album/7rlWtfndeXQ7uS6vQZRrXL) | 3:29 | 2024-05-10 |  |
 | [Wake Up The Neighbours](https://open.spotify.com/track/2eLaCrv73osOtnP31Dy7n1) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [Over The Top](https://open.spotify.com/album/3ZzLWwCFdoYHAnsdDOFhxA) | 3:39 | 2023-10-06 |  |
 | [WAKE UP TO REALITY](https://open.spotify.com/track/2ifB8uuDuMrtonYtQlcCfQ) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [Zero Decay](https://open.spotify.com/artist/6jeIVSYtovQyTuskys78hD) | [WAKE UP TO REALITY](https://open.spotify.com/album/5uKbXalGIjrvJhsZEs8alR) | 3:46 | 2022-11-21 |  |
+| [Wander](https://open.spotify.com/track/1O4SkvHwM1Y04NDVMvbBfO) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Wander](https://open.spotify.com/album/40uderlqt7fwSjrb1X10k9) | 2:24 | 2024-08-04 |  |
 | [Wanna Be Free](https://open.spotify.com/track/6XbYj3HEET0vX9ZjBqjZii) | [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ), [MK](https://open.spotify.com/artist/6srOYVliLMjw56yDyBvV6k) | [Wanna Be Free](https://open.spotify.com/album/4crhvQ4yIMZJElfCVPoIKn) | 3:25 | 2022-09-28 |  |
 | [Wanna Know](https://open.spotify.com/track/0jbLvvL24HROC2kVqio81N) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [BREVKIN](https://open.spotify.com/album/3Elsd1dMiZfACBTZieeJXJ) | 2:59 | 2023-05-09 |  |
 | [Wanna know you](https://open.spotify.com/track/0sN6az0aPSMw3cbpdL6yAJ) | [iMeiden](https://open.spotify.com/artist/7zWpS8VvVTkIb7oWP3scCQ), [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [iMeiden Volume 3](https://open.spotify.com/album/7Ac8wejJO4HngTOalTxhIh) | 4:57 | 2022-02-22 |  |

@@ -2,7 +2,7 @@
 
 ### [This Is Micah Tyler](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYvnfr)
 
-> This is: Micah Tyler\. Alle wichtigen Tracks in einer Playlist.
+> This is Micah Tyler\. Todos os maiores hits em uma só playlist.
 
 37 songs - 2 hr 9 min
 

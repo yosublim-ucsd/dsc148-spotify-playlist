@@ -1,6 +1,6 @@
 {
   "description": "Tremendo vacil\u00f3n. Los \u00e9xitos del merengue de todos los tiempos.",
-  "num_followers": 11304,
+  "num_followers": 11372,
   "original_name": "Radio Merengue",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
+        "name": "La Llave De Mi Corazon",
+        "url": "https://open.spotify.com/album/6wwBmLiZ1qX0FvnABZfNFM"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "La Travesia",
+      "url": "https://open.spotify.com/track/47nD9EtDtUORYiLPDY4DeI"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/6wwBmLiZ1qX0FvnABZfNFM"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 205586,
-      "name": "La Travesia",
-      "url": "https://open.spotify.com/track/47nD9EtDtUORYiLPDY4DeI"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
         "name": "Para El Bailador",
         "url": "https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA"
       },
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286466,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
         "name": "Pintame",
         "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 259066,
       "name": "P\u00edntame",
       "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
     },
     {
       "added_at": "2024-06-07 04:59:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
         "name": "Con Arena Nueva",
         "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 261133,
       "name": "Cuando el Amor se Da\u00f1a",
       "url": "https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
     },
     {
       "added_at": "2024-06-07 04:59:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/6wwBmLiZ1qX0FvnABZfNFM"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Como Yo",
-      "url": "https://open.spotify.com/track/1D5Z5K0orsn5dSDpnan8XO"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
         "name": "Los Reyes Del Ritmo",
         "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
       },
@@ -351,70 +335,6 @@
       "duration_ms": 232133,
       "name": "Nadie Se Muere",
       "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
-      },
-      "artists": [
-        {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "El Cepillo",
-      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "Tropical\u00edsimo, Vol. 1",
-        "url": "https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 394613,
-      "name": "La Quiero a Morir / Si Algun Dia la Vez",
-      "url": "https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "Rebotando",
-        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Como Un Trueno",
-      "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
     },
     {
       "added_at": "2024-06-07 04:59:00",
@@ -435,18 +355,82 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 293306,
-      "name": "El Baile del Sua Sua",
-      "url": "https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne"
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "Rebotando",
+        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Como Un Trueno",
+      "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
+      },
+      "artists": [
+        {
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "El Cepillo",
+      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "Tropical\u00edsimo, Vol. 1",
+        "url": "https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 394613,
+      "name": "La Quiero a Morir / Si Algun Dia la Vez",
+      "url": "https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "La Llave De Mi Corazon",
+        "url": "https://open.spotify.com/album/6wwBmLiZ1qX0FvnABZfNFM"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Como Yo",
+      "url": "https://open.spotify.com/track/1D5Z5K0orsn5dSDpnan8XO"
     },
     {
       "added_at": "2024-06-07 04:59:00",
@@ -467,6 +451,22 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "El Baile del Sua Sua",
+      "url": "https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
         "name": "Sandy & Papo MC",
         "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
       },
@@ -479,86 +479,6 @@
       "duration_ms": 290226,
       "name": "La Hora De Bailar",
       "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/6mAkgcHgvfl78vZcCgmBdq"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/0DytMjpDw0CjYfAG63VCwT"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Este Ritmo Se Baila As\u00ed",
-      "url": "https://open.spotify.com/track/5562EZVkcwO43I03C29RuK"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "El Hombre Mas Famoso De La Tierra",
-        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
-      },
-      "artists": [
-        {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
-        }
-      ],
-      "duration_ms": 373960,
-      "name": "La Novela",
-      "url": "https://open.spotify.com/track/5lwfX0HEWjulISjPHGPC8S"
     },
     {
       "added_at": "2024-06-07 04:59:00",
@@ -579,18 +499,82 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
-        "name": "El Hombre Merengue",
-        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
       "artists": [
         {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
         }
       ],
-      "duration_ms": 283866,
-      "name": "Cachamba",
-      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
+      "duration_ms": 248480,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/6mAkgcHgvfl78vZcCgmBdq"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/0DytMjpDw0CjYfAG63VCwT"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Este Ritmo Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/5562EZVkcwO43I03C29RuK"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "El Hombre Mas Famoso De La Tierra",
+        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
+      },
+      "artists": [
+        {
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+        }
+      ],
+      "duration_ms": 373960,
+      "name": "La Novela",
+      "url": "https://open.spotify.com/track/5lwfX0HEWjulISjPHGPC8S"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
     },
     {
       "added_at": "2024-06-07 04:59:00",
@@ -627,18 +611,18 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
-        "name": "Vuelve el Merengue",
-        "url": "https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj"
+        "name": "El Hombre Merengue",
+        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
       "artists": [
         {
-          "name": "Rubby Perez",
-          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
         }
       ],
-      "duration_ms": 296093,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg"
+      "duration_ms": 283866,
+      "name": "Cachamba",
+      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
     },
     {
       "added_at": "2024-06-07 04:59:00",
@@ -659,6 +643,22 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
+        "name": "Vuelve el Merengue",
+        "url": "https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj"
+      },
+      "artists": [
+        {
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+        }
+      ],
+      "duration_ms": 296093,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/37cohMeuBi6JF8jQefxcgl"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 230373,
       "name": "13 A\u00f1os",
       "url": "https://open.spotify.com/track/56sBMO7NmQccMdCeRf4iS4"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "Latinos",
-        "url": "https://open.spotify.com/album/4X2X6pUs1ToRCn4pz501PP"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 329440,
-      "name": "Latinos",
-      "url": "https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9"
     },
     {
       "added_at": "2024-06-07 04:59:00",
@@ -739,6 +723,42 @@
     {
       "added_at": "2024-06-07 04:59:00",
       "album": {
+        "name": "100% Merengue",
+        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Ronnie Torres",
+          "url": "https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A"
+        }
+      ],
+      "duration_ms": 279546,
+      "name": "Como Olvidar - Merengue Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
+        "name": "Latinos",
+        "url": "https://open.spotify.com/album/4X2X6pUs1ToRCn4pz501PP"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 329440,
+      "name": "Latinos",
+      "url": "https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9"
+    },
+    {
+      "added_at": "2024-06-07 04:59:00",
+      "album": {
         "name": "Ilegales",
         "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 295933,
       "name": "Un Hombre Busca Una Mujer",
       "url": "https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv"
-    },
-    {
-      "added_at": "2024-06-07 04:59:00",
-      "album": {
-        "name": "100% Merengue",
-        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Ronnie Torres",
-          "url": "https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A"
-        }
-      ],
-      "duration_ms": 279546,
-      "name": "Como Olvidar - Merengue Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv"
     },
     {
       "added_at": "2024-06-07 04:59:00",

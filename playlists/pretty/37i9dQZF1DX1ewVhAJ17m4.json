@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Mayday Parade",
-  "num_followers": 575860,
+  "num_followers": 575931,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/5lK5ePFyZ0EQo7RE38ENhm"
       },
@@ -275,22 +291,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Recipe For Disaster",
-        "url": "https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 165971,
-      "name": "Recipe For Disaster",
-      "url": "https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Why Would I Watch",
         "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
       },
@@ -307,34 +307,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "EDGING",
-        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+        "name": "Recipe For Disaster",
+        "url": "https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
         }
       ],
-      "duration_ms": 151533,
-      "name": "EDGING",
-      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Walk This World With Me",
-        "url": "https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Walk This World With Me",
-      "url": "https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ"
+      "duration_ms": 165971,
+      "name": "Recipe For Disaster",
+      "url": "https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -355,18 +339,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
+        "name": "Walk This World With Me",
+        "url": "https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm"
       },
       "artists": [
         {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
         }
       ],
-      "duration_ms": 168903,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
+      "duration_ms": 228372,
+      "name": "Walk This World With Me",
+      "url": "https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -383,6 +367,22 @@
       "duration_ms": 145735,
       "name": "KILL[H]ER",
       "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 168903,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "bad habit",
-        "url": "https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "bad habit",
-      "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Letterman",
         "url": "https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "bad habit",
+        "url": "https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "bad habit",
+      "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -587,6 +587,22 @@
       "duration_ms": 143995,
       "name": "Those Were The Days",
       "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Big Blind",
+        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "Big Blind",
+      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Big Blind",
-        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "Big Blind",
-      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "GROWING UP ON THE INTERNET",
         "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "I Think I'm in Love",
+        "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "I Think I'm in Love",
+      "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Sour",
         "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 149786,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "I Think I'm in Love",
-        "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "I Think I'm in Love",
-      "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 165317,
-      "name": "T.M.I",
-      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Hey Ben",
         "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "cherry cigarettes",
         "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Certified Depressant",
-        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Everything Sucks",
-      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "3 DAY HEADACHE",
         "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 114284,
       "name": "3 DAY HEADACHE",
       "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Certified Depressant",
+        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Everything Sucks",
+      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "No Point Pretending (Song For Tour)",
+        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        },
+        {
+          "name": "Bears In Trees",
+          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "No Point Pretending (Song For Tour)",
+      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -1059,22 +1079,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "No Point Pretending (Song For Tour)",
-        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Bears In Trees",
-          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 179250,
-      "name": "No Point Pretending (Song For Tour)",
-      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "The Storm",
-        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 173614,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Shotgun Wedding",
         "url": "https://open.spotify.com/album/0Dq4FUocTrvMCMOoISTHti"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Pacific Ocean",
-        "url": "https://open.spotify.com/album/4mmTewRsbrBcDUrMI8tHO0"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Pacific Ocean",
-      "url": "https://open.spotify.com/track/5ClDT1S61melj4Jq0rlQ5N"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Generational",
         "url": "https://open.spotify.com/album/0KjcU59seFJaLu75xJJgBv"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 129511,
       "name": "Generational",
       "url": "https://open.spotify.com/track/2H7ReZ9ZqBqp7YoiYaGMew"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Pacific Ocean",
+        "url": "https://open.spotify.com/album/4mmTewRsbrBcDUrMI8tHO0"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Pacific Ocean",
+      "url": "https://open.spotify.com/track/5ClDT1S61melj4Jq0rlQ5N"
     },
     {
       "added_at": "2024-07-18 23:00:00",

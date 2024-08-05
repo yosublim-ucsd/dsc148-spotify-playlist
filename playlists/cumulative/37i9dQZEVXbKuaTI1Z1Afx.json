@@ -1213,6 +1213,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290194,
+      "name": "530",
+      "url": "https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4"
+    },
+    {
+      "album": {
         "name": "Virtuous",
         "url": "https://open.spotify.com/album/1TFaFAKNXMlIeU65RasS9a"
       },
@@ -2500,7 +2526,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 210950,
       "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
@@ -26340,7 +26366,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -28336,7 +28362,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 198068,
       "name": "Lies Lies Lies",
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
@@ -34088,7 +34114,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 145034,
       "name": "NEVER GET USED TO THIS",
       "url": "https://open.spotify.com/track/25f7KnoDqO7nBbPahi15UE"
@@ -40742,7 +40768,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 192720,
       "name": "Red Wine Supernova",
       "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"

@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 122539,
+  "num_followers": 122592,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
+        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
+      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 235335,
       "name": "Ku Ingin Pisah",
       "url": "https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
-        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
-      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Cintanya Aku",
-        "url": "https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4"
-      },
-      "artists": [
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        },
-        {
-          "name": "Arsy Widianto",
-          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
-        }
-      ],
-      "duration_ms": 234125,
-      "name": "Cintanya Aku",
-      "url": "https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
         "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
         "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 242640,
       "name": "Aku Yang Tersakiti",
       "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Cintanya Aku",
+        "url": "https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        }
+      ],
+      "duration_ms": 234125,
+      "name": "Cintanya Aku",
+      "url": "https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Orang Yang Sama",
-        "url": "https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P"
-      },
-      "artists": [
-        {
-          "name": "Virgoun",
-          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
-        }
-      ],
-      "duration_ms": 268534,
-      "name": "Orang Yang Sama",
-      "url": "https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 234589,
       "name": "Masing Masing",
       "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Orang Yang Sama",
+        "url": "https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        }
+      ],
+      "duration_ms": 268534,
+      "name": "Orang Yang Sama",
+      "url": "https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Meraih Bintang",
-        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
       },
       "artists": [
         {
-          "name": "Geisha",
-          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
         }
       ],
-      "duration_ms": 234546,
-      "name": "Karena Kamu",
-      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
+      "duration_ms": 235643,
+      "name": "Terlintas",
+      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
     }
   ],
   "unique_name": "galau rabak",

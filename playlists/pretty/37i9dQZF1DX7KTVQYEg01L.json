@@ -1,6 +1,6 @@
 {
   "description": "celebre seu dia no maior astral! ",
-  "num_followers": 1423670,
+  "num_followers": 1423653,
   "original_name": "Tenha um \u00d3timo Dia!",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-18 17:28:21",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2024-07-18 17:28:21",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2024-07-18 17:28:21",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2024-07-18 17:28:21",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-18 17:28:21",
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
+    {
+      "added_at": "2024-07-18 17:28:21",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 201173,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
-    },
-    {
-      "added_at": "2024-07-18 17:28:21",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
     },
     {
       "added_at": "2024-07-18 17:28:21",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-18 17:28:21",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2024-07-18 17:28:21",
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 248400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+    },
+    {
+      "added_at": "2024-07-18 17:28:21",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2024-07-18 17:28:21",
@@ -959,30 +959,6 @@
     {
       "added_at": "2024-07-18 17:28:21",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
-    },
-    {
-      "added_at": "2024-07-18 17:28:21",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 247058,
       "name": "Toosie Slide",
       "url": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
+    },
+    {
+      "added_at": "2024-07-18 17:28:21",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
     },
     {
       "added_at": "2024-07-18 17:28:21",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-07-18 17:28:21",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
+    },
+    {
+      "added_at": "2024-07-18 17:28:21",
+      "album": {
         "name": "Music From Party of Five",
         "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
       },
@@ -1183,26 +1199,6 @@
     {
       "added_at": "2024-07-18 17:28:21",
       "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/7zeegKviS9AGeoEenSdO6I"
-      },
-      "artists": [
-        {
-          "name": "Keala Settle",
-          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "This Is Me",
-      "url": "https://open.spotify.com/track/2xGjteMU3E1tkEPVFBO08U"
-    },
-    {
-      "added_at": "2024-07-18 17:28:21",
-      "album": {
         "name": "Dona de mim",
         "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
       },
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2024-07-18 17:28:21",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/7zeegKviS9AGeoEenSdO6I"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Keala Settle",
+          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+        },
+        {
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
         }
       ],
-      "duration_ms": 208520,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
+      "duration_ms": 234706,
+      "name": "This Is Me",
+      "url": "https://open.spotify.com/track/2xGjteMU3E1tkEPVFBO08U"
     },
     {
       "added_at": "2024-07-18 17:28:21",

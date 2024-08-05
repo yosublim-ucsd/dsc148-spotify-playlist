@@ -692,7 +692,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
@@ -868,6 +868,32 @@
       "duration_ms": 245406,
       "name": "4R\u00c1NO",
       "url": "https://open.spotify.com/track/2vnyyABepsx3CDh9fxQHqV"
+    },
+    {
+      "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290194,
+      "name": "530",
+      "url": "https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4"
     },
     {
       "album": {
@@ -3790,7 +3816,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 167687,
       "name": "BAKPAKK",
       "url": "https://open.spotify.com/track/6dd2fGbktU3zOHHWK58nto"
@@ -4148,7 +4174,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 173917,
       "name": "Bbejbb",
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
@@ -12980,7 +13006,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 134265,
       "name": "Fl\u00e1kni abstinenta",
       "url": "https://open.spotify.com/track/2RykvSXuvWtBqPCobbmmas"
@@ -13092,7 +13118,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
@@ -14116,7 +14142,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 203225,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/7BrC5U8OUWPHKR4QgzzoE6"
@@ -14838,7 +14864,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -15048,6 +15074,24 @@
       "duration_ms": 296200,
       "name": "Guantanamo",
       "url": "https://open.spotify.com/track/2lVnEPE8ef0KeAeHPiP3Il"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142265,
+      "name": "Guess",
+      "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
     },
     {
       "album": {
@@ -15704,7 +15748,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"

@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1980s.",
-  "num_followers": 89206,
+  "num_followers": 89254,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -123,38 +123,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -171,6 +139,22 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Above The Clouds - The Collection (Deluxe)",
-        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
-      "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "Lap Of Luxury",
         "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 338800,
       "name": "The Flame",
       "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Above The Clouds - The Collection (Deluxe)",
+        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
+      "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 265693,
+      "name": "Rag Doll",
+      "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
         }
       ],
-      "duration_ms": 265693,
-      "name": "Rag Doll",
-      "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
+      "duration_ms": 297426,
+      "name": "Eyes Without A Face - Remastered 1999",
+      "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -783,22 +799,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Greatest Hits 2",
-        "url": "https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "Rattle And Hum",
         "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
       },
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
+        "name": "Greatest Hits 2",
+        "url": "https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
         }
       ],
-      "duration_ms": 297426,
-      "name": "Eyes Without A Face - Remastered 1999",
-      "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
+      "duration_ms": 241946,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM"
     },
     {
       "added_at": "2024-07-12 14:55:35",

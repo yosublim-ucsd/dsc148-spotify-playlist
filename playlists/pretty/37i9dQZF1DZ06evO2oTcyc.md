@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 ### [This Is Kodak Black](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oTcyc)
 
-> This is Kodak Black\. The essential tracks, all in one playlist.
+> This Is Kodak Black\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,754 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,783 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 50 | [SHAKA LAKA \(feat\. Kodak Black\)](https://open.spotify.com/track/39yQeL4CyuYSRcqHB0jj3T) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BLACKBALLED](https://open.spotify.com/album/045ra7EkY07W66G8CP2BjK) | 2:57 |
 | 51 | [Purp](https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 4:00 |
 
-Snapshot ID: `ZqrQAAAAAACfiz8Z2QBZs6xRDEg+9HCm`
+Snapshot ID: `ZqrQAAAAAAAdkcxquvPLrnPCGwH9C37g`

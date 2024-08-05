@@ -1,6 +1,6 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 304661,
+  "num_followers": 304754,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
@@ -139,42 +139,6 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "\u5922\u5e7b",
-        "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        },
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 241156,
-      "name": "\u5922\u5e7b",
-      "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
-        "name": "SOMETHING AIN'T RIGHT",
-        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "SOMETHING AIN'T RIGHT",
-      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
         "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
         "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
       },
@@ -195,6 +159,42 @@
       "duration_ms": 219200,
       "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
       "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
+        "name": "SOMETHING AIN'T RIGHT",
+        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "SOMETHING AIN'T RIGHT",
+      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        },
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 241156,
+      "name": "\u5922\u5e7b",
+      "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "\u30a2\u30a4\u30c9\u30eb",
-        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 213233,
-      "name": "\u30a2\u30a4\u30c9\u30eb",
-      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
         "name": "\u7d76\u5bfe\u96f6\u5ea6",
         "url": "https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 198483,
       "name": "\u7d76\u5bfe\u96f6\u5ea6",
       "url": "https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "\u5730\u7344\u604b\u6587",
-        "url": "https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "\u5730\u7344\u604b\u6587",
-      "url": "https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
+        "name": "\u5730\u7344\u604b\u6587",
+        "url": "https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "\u5730\u7344\u604b\u6587",
+      "url": "https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "\u8a93\u3044 (CHIKAI)",
-        "url": "https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "\u3072\u3068\u3064\u306e\u8a93\u3044 (We\u2019ll Never Change)",
-      "url": "https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
         "name": "\u6674\u308b",
         "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 270705,
       "name": "\u6674\u308b",
       "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
+        "name": "\u8a93\u3044 (CHIKAI)",
+        "url": "https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "\u3072\u3068\u3064\u306e\u8a93\u3044 (We\u2019ll Never Change)",
+      "url": "https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
+        "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
+        "url": "https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 242912,
+      "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
+      "url": "https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
         "name": "\u30aa\u30ec\u30f3\u30b8",
         "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 235200,
       "name": "\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 229328,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
-        "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
-        "url": "https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 242912,
-      "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
-      "url": "https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
-        "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
+        "name": "SHOOTING STAR",
+        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 199333,
-      "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
-      "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+      "duration_ms": 208065,
+      "name": "LEFT RIGHT",
+      "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -887,6 +887,22 @@
       "duration_ms": 230524,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
+        "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
+        "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
+      "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "SHOOTING STAR",
-        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 208065,
-      "name": "LEFT RIGHT",
-      "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
         "name": "BSS 1st Single Album 'SECOND WIND'",
         "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
         "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
         "url": "https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 219328,
       "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
       "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
+        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 315386,
+      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
         "name": "Overdose",
         "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
       },
@@ -1151,38 +1167,6 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "Believe in You",
-        "url": "https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 256999,
-      "name": "Believe in You",
-      "url": "https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
-        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 315386,
-      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
         "name": "\u51ac\u3068\u6625",
         "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 256786,
       "name": "\u51ac\u3068\u6625",
       "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
+        "name": "Believe in You",
+        "url": "https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 256999,
+      "name": "Believe in You",
+      "url": "https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -1227,22 +1227,6 @@
       "duration_ms": 178453,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
-        "name": "Subtitle",
-        "url": "https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 305509,
-      "name": "Subtitle",
-      "url": "https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
+        "name": "Subtitle",
+        "url": "https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 305509,
+      "name": "Subtitle",
+      "url": "https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/7sXKtNSDdHLOipBi2PeUSq"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 223186,
       "name": "Walking with you",
       "url": "https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
-        "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 324633,
-      "name": "115\u4e07\u30ad\u30ed\u306e\u30d5\u30a3\u30eb\u30e0",
-      "url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
+        "name": "SiX",
+        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 248653,
+      "name": "CITRUS",
+      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
         "name": "\u30eb\u30d0\u30fc\u30c8",
         "url": "https://open.spotify.com/album/0SlZ8UoV2wgNqDZNMTpgD0"
       },
@@ -1423,18 +1423,34 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "SiX",
-        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
+        "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
       },
       "artists": [
         {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 248653,
-      "name": "CITRUS",
-      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
+      "duration_ms": 324633,
+      "name": "115\u4e07\u30ad\u30ed\u306e\u30d5\u30a3\u30eb\u30e0",
+      "url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "\u30ac\u30fc\u30c7\u30f3",
+      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "Sharon",
-        "url": "https://open.spotify.com/album/2ScpmNXA1FoVIkUoScsvvO"
+        "name": "\u6625\u6ce5\u68d2",
+        "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 281234,
-      "name": "Sharon",
-      "url": "https://open.spotify.com/track/1Yt3MmQ1BtUS0CAeL0LxZp"
+      "duration_ms": 290289,
+      "name": "\u6625\u6ce5\u68d2",
+      "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -1499,22 +1515,6 @@
       "duration_ms": 207360,
       "name": "\u30ab\u30bf\u30aa\u30e2\u30a4",
       "url": "https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "\u30ac\u30fc\u30c7\u30f3",
-      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
+        "name": "Sharon",
+        "url": "https://open.spotify.com/album/2ScpmNXA1FoVIkUoScsvvO"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 281234,
+      "name": "Sharon",
+      "url": "https://open.spotify.com/track/1Yt3MmQ1BtUS0CAeL0LxZp"
+    },
+    {
+      "added_at": "2024-07-31 00:42:05",
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 196500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
-    },
-    {
-      "added_at": "2024-07-31 00:42:05",
-      "album": {
-        "name": "\u6625\u6ce5\u68d2",
-        "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 290289,
-      "name": "\u6625\u6ce5\u68d2",
-      "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
     },
     {
       "added_at": "2024-07-31 00:42:05",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2024-07-31 00:42:05",
       "album": {
-        "name": "VIBE (feat. Jimin of BTS)",
-        "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
+        "name": "\u58f1",
+        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
         }
       ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
+      "duration_ms": 238973,
+      "name": "\u30ec\u30aa",
+      "url": "https://open.spotify.com/track/3eg3igrhEhzk8bqqRz6XCt"
     },
     {
       "added_at": "2024-07-31 00:42:05",

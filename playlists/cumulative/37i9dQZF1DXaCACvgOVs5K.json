@@ -1587,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241768,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu"
+    },
+    {
+      "album": {
         "name": "Energy (Ewan McVicar '05 Remix)",
         "url": "https://open.spotify.com/album/2wRRQ3sFAFiNzKUFxGms8R"
       },
@@ -1610,6 +1628,32 @@
       "duration_ms": 279875,
       "name": "Energy - Ewan McVicar '05 Remix",
       "url": "https://open.spotify.com/track/3f6u2nwY2wgW8yq9Ith9P0"
+    },
+    {
+      "album": {
+        "name": "Ethnica (Pasilda)",
+        "url": "https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Vanetty",
+          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
+        },
+        {
+          "name": "Afro Medusa",
+          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170157,
+      "name": "Ethnica (Pasilda)",
+      "url": "https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S"
     },
     {
       "album": {
@@ -2360,7 +2404,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 236307,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
@@ -4846,7 +4890,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 154869,
       "name": "rosa blanca",
       "url": "https://open.spotify.com/track/6gBJ4VpnAtnJXnOorPikov"

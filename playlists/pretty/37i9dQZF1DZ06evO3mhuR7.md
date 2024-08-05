@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3mhuR7.md) - [plain]
 
 ### [This Is The Orb](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mhuR7)
 
-> This is The Orb\. Todos os maiores hits em uma só playlist.
+> This is The Orb\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,297 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,303 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3mhuR7.md) - [plain]
 | 49 | [Switch on Leon](https://open.spotify.com/track/5YYjzjQKL32k7pqJmaJRQn) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Electronica 2: The Heart of Noise](https://open.spotify.com/album/2Q5Mrul369ojL9N8DWkWQZ) | 4:43 |
 | 50 | [Sticky End](https://open.spotify.com/track/5OSSD6jXQBMnvjMuGyp0UC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 0:50 |
 
-Snapshot ID: `ZqrQAAAAAAC37Hg3NavWBJe9t+xOyFIv`
+Snapshot ID: `ZqrQAAAAAAD1R7YwuTjRbShseH5wtdCn`

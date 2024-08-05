@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Buscabulla en portada.",
-  "num_followers": 37534,
+  "num_followers": 37531,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -319,30 +319,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Sr. Tigre (French Braids Rework)",
-        "url": "https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        }
-      ],
-      "duration_ms": 212621,
-      "name": "Sr. Tigre - French Braids Rework",
-      "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "R\u00fambala",
         "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 170755,
       "name": "cumbia aesthetic",
       "url": "https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Sr. Tigre (French Braids Rework)",
+        "url": "https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        }
+      ],
+      "duration_ms": 212621,
+      "name": "Sr. Tigre - French Braids Rework",
+      "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -585,6 +585,26 @@
       "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
     },
     {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "Ta Que Tiembla (Pachyman Remix)",
+        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        },
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Ta Que Tiembla - Pachyman Remix",
+      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
+    },
+    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Porque Yo",
@@ -619,46 +639,6 @@
       "duration_ms": 184391,
       "name": "Nunca Paran",
       "url": "https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "traguito",
-      "url": "https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Ta Que Tiembla (Pachyman Remix)",
-        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        },
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Ta Que Tiembla - Pachyman Remix",
-      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
     },
     {
       "added_at": "2024-02-02 04:39:14",
@@ -715,6 +695,26 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "traguito",
+      "url": "https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Harta",
         "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
       },
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "EP II",
-        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 223482,
-      "name": "T\u00e1rtaro",
-      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
-    },
-    {
       "added_at": "2023-05-09 00:13:28",
       "album": {
         "name": "Sauvage",
@@ -785,6 +769,22 @@
       "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
     },
     {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "EP II",
+        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 223482,
+      "name": "T\u00e1rtaro",
+      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
+    },
+    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Mabanzo",
@@ -799,26 +799,6 @@
       "duration_ms": 291786,
       "name": "Alma Seca",
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "En Cantos",
-        "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "En Cantos",
-      "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
     },
     {
       "added_at": "2023-05-08 20:19:13",
@@ -839,22 +819,6 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 248371,
-      "name": "M\u00e9tele",
-      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -879,6 +843,42 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+        }
+      ],
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "En Cantos",
+        "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "En Cantos",
+      "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "El Sonido Nuevo de",
         "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
       },
@@ -893,20 +893,20 @@
       "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
       },
       "artists": [
         {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
+      "duration_ms": 248371,
+      "name": "M\u00e9tele",
+      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
-    },
-    {
       "added_at": "2023-12-07 01:08:32",
       "album": {
         "name": "Almadura",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Noest\u00e1saqu\u00ed",
         "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
       },
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Quer\u00eda Olvidarte",
-        "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 166058,
-      "name": "Quer\u00eda Olvidarte",
-      "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "\u00daltimamente me acuerdo mucho de tu casa",
         "url": "https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf"
       },
@@ -1231,26 +1211,18 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Negro Santo",
-        "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
+        "name": "Rainfalls",
+        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
       },
       "artists": [
         {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Melisa Castellanos",
-          "url": "https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC"
-        },
-        {
-          "name": "Monstruos del Ma\u00f1ana",
-          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
+          "name": "Mandale Mecha",
+          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
         }
       ],
-      "duration_ms": 267111,
-      "name": "Negro Santo",
-      "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
+      "duration_ms": 216379,
+      "name": "Rainfalls",
+      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1287,18 +1259,26 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Rainfalls",
-        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
+        "name": "Negro Santo",
+        "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
       },
       "artists": [
         {
-          "name": "Mandale Mecha",
-          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Melisa Castellanos",
+          "url": "https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC"
+        },
+        {
+          "name": "Monstruos del Ma\u00f1ana",
+          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
         }
       ],
-      "duration_ms": 216379,
-      "name": "Rainfalls",
-      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
+      "duration_ms": 267111,
+      "name": "Negro Santo",
+      "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1355,6 +1335,26 @@
       "duration_ms": 243000,
       "name": "Levante la Mano (Tonga Conga Remix)",
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Quer\u00eda Olvidarte",
+        "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 166058,
+      "name": "Quer\u00eda Olvidarte",
+      "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
     },
     {
       "added_at": "2023-05-05 23:46:53",

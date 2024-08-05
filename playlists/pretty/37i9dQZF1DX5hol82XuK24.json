@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 437220,
+  "num_followers": 437297,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 295093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 200000,
       "name": "I'm Always Here",
       "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 295093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS"
     },
     {
+      "added_at": "2024-06-01 17:19:11",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
+    },
+    {
       "added_at": "2023-11-03 23:08:22",
       "album": {
         "name": "Tusk (Deluxe Edition)",
@@ -379,22 +395,6 @@
       "duration_ms": 110820,
       "name": "Slither",
       "url": "https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx"
-    },
-    {
-      "added_at": "2024-06-01 17:19:11",
-      "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Spirituals",
-        "url": "https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "My Horror",
-      "url": "https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Come Down",
         "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 273360,
       "name": "Physical",
       "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Spirituals",
+        "url": "https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "My Horror",
+      "url": "https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-06-01 17:19:11",
       "album": {
-        "name": "Piggy",
-        "url": "https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Turn Off The Noise",
-      "url": "https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce"
-    },
-    {
-      "added_at": "2024-06-01 17:19:11",
-      "album": {
         "name": "Whole Lotta Nothing",
         "url": "https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 287500,
       "name": "Whole Lotta Nothing",
       "url": "https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw"
+    },
+    {
+      "added_at": "2024-06-01 17:19:11",
+      "album": {
+        "name": "Piggy",
+        "url": "https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Turn Off The Noise",
+      "url": "https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2"
     },
     {
-      "added_at": "2024-06-01 17:19:11",
-      "album": {
-        "name": "this old house",
-        "url": "https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 304291,
-      "name": "teeth",
-      "url": "https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y"
-    },
-    {
       "added_at": "2023-11-03 23:08:22",
       "album": {
         "name": "Serfs Up!",
@@ -983,6 +967,22 @@
       "duration_ms": 342538,
       "name": "Tastes Good With The Money",
       "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
+    },
+    {
+      "added_at": "2024-06-01 17:19:11",
+      "album": {
+        "name": "this old house",
+        "url": "https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 304291,
+      "name": "teeth",
+      "url": "https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y"
     },
     {
       "added_at": "2024-06-01 17:19:11",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb"
     },
     {
-      "added_at": "2024-06-01 17:19:11",
-      "album": {
-        "name": "May I Comply",
-        "url": "https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c"
-      },
-      "artists": [
-        {
-          "name": "Heartworms",
-          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
-        }
-      ],
-      "duration_ms": 240551,
-      "name": "May I Comply",
-      "url": "https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5"
-    },
-    {
       "added_at": "2023-11-03 23:08:22",
       "album": {
         "name": "Debonair",
@@ -1115,6 +1099,22 @@
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "added_at": "2024-06-01 17:19:11",
+      "album": {
+        "name": "May I Comply",
+        "url": "https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c"
+      },
+      "artists": [
+        {
+          "name": "Heartworms",
+          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
+        }
+      ],
+      "duration_ms": 240551,
+      "name": "May I Comply",
+      "url": "https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Exposed to Some Light",
-        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
-      },
-      "artists": [
-        {
-          "name": "Nightbus",
-          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
-        }
-      ],
-      "duration_ms": 239250,
-      "name": "Exposed to Some Light",
-      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "You are the Problem Here",
         "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 218373,
       "name": "You are the Problem Here",
       "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Exposed to Some Light",
+        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
+      },
+      "artists": [
+        {
+          "name": "Nightbus",
+          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Exposed to Some Light",
+      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
     },
     {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "I Don't Know",
-        "url": "https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 330880,
-      "name": "Alps",
-      "url": "https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ"
-    },
-    {
       "added_at": "2024-06-01 17:19:11",
       "album": {
         "name": "So Medieval",
@@ -1457,20 +1441,20 @@
       "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
     },
     {
-      "added_at": "2024-06-01 17:19:11",
+      "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/1Hb73vhOjThgS4BxhJ4KWz"
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z"
       },
       "artists": [
         {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
         }
       ],
-      "duration_ms": 269189,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/190Jy5UvDjBbbpnfDFFOc1"
+      "duration_ms": 330880,
+      "name": "Alps",
+      "url": "https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ"
     },
     {
       "added_at": "2024-06-01 17:19:11",
@@ -1503,6 +1487,22 @@
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2024-06-01 17:19:11",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/1Hb73vhOjThgS4BxhJ4KWz"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "duration_ms": 269189,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/190Jy5UvDjBbbpnfDFFOc1"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1621,20 +1621,20 @@
       "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
-      "added_at": "2023-11-03 23:08:22",
+      "added_at": "2024-06-01 17:19:11",
       "album": {
-        "name": "Here Lies Our Love",
-        "url": "https://open.spotify.com/album/5oZRa4gKveXsvvu6tlWgOV"
+        "name": "Starting and Staring",
+        "url": "https://open.spotify.com/album/7ItYXwOKuLOCINQfl7t2lG"
       },
       "artists": [
         {
-          "name": "Wilted Flower",
-          "url": "https://open.spotify.com/artist/0lPEl2oXjSBkmzAvzhb587"
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Beautiful, but Bleak",
-      "url": "https://open.spotify.com/track/4COhacNez6tWj4GTGNKJvB"
+      "duration_ms": 180444,
+      "name": "Starting and Staring",
+      "url": "https://open.spotify.com/track/2XsyUC0ufwTPbJR1xZsJez"
     }
   ],
   "unique_name": "Spooky",

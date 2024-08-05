@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Agua Ardiente",
+        "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273971,
+      "name": "Perdida En El Fuego",
+      "url": "https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU"
+    },
+    {
+      "album": {
         "name": "Besos en la Espalda",
         "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
       },
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 239360,
       "name": "Se te nota",
       "url": "https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T"

@@ -1,6 +1,6 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3127932,
+  "num_followers": 3128636,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 270213,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 208946,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 270213,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
-      "added_at": "2022-04-14 15:08:02",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
-    },
-    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "One of These Nights (2013 Remaster)",
@@ -329,6 +313,22 @@
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
+      "added_at": "2022-04-14 15:08:02",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
+    },
+    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "Wild Cherry",
@@ -343,6 +343,22 @@
       "duration_ms": 300000,
       "name": "Play That Funky Music",
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -379,22 +395,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Band On The Run (Standard)",
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 313026,
       "name": "Band On The Run - 2010 Remaster",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 286219,
-      "name": "Life in the Fast Lane - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -527,6 +527,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "City to City",
         "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 365626,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
-    },
-    {
-      "added_at": "2022-04-14 15:08:02",
-      "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -685,6 +669,22 @@
       "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
+      "added_at": "2022-04-14 15:08:02",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+    },
+    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "Easter",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "In Color",
         "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 191226,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Rubberband Man / Now That We're Together",
-        "url": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "The Rubberband Man",
-      "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Rubberband Man / Now That We're Together",
+        "url": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "The Rubberband Man",
+      "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
     },
     {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Flashback",
@@ -1003,6 +987,22 @@
       "duration_ms": 259826,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/5qRJD1yaLJ5s0J3JpbgnwA"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "The Grand Illusion",
         "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 367000,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Chicago II",
-        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 289800,
-      "name": "25 or 6 to 4 - 2002 Remaster",
-      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Lake Shore Drive",
         "url": "https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+        "name": "Chicago II",
+        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 275506,
-      "name": "Ride Like the Wind",
-      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
+      "duration_ms": 289800,
+      "name": "25 or 6 to 4 - 2002 Remaster",
+      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
     },
     {
       "added_at": "2022-04-14 15:08:02",
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "American Woman",
-        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
       "artists": [
         {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 307493,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC"
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+        "name": "American Woman",
+        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
         }
       ],
-      "duration_ms": 242453,
-      "name": "Badlands",
-      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
+      "duration_ms": 307493,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1355,6 +1339,22 @@
       "duration_ms": 362400,
       "name": "New York State of Mind",
       "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 242453,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
     },
     {
       "added_at": "2022-04-14 15:08:02",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2"
     },
     {
-      "added_at": "2022-04-14 15:08:02",
-      "album": {
-        "name": "Young Americans (2016 Remaster)",
-        "url": "https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 313706,
-      "name": "Young Americans - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7uPmQttafLiJyju14JREY4"
-    },
-    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "The Ultimate Bee Gees",
@@ -1419,6 +1403,22 @@
       "duration_ms": 256453,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+    },
+    {
+      "added_at": "2022-04-14 15:08:02",
+      "album": {
+        "name": "Young Americans (2016 Remaster)",
+        "url": "https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 313706,
+      "name": "Young Americans - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7uPmQttafLiJyju14JREY4"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Dreamboat Annie",
-        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 328360,
-      "name": "Magic Man",
-      "url": "https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 266826,
       "name": "Thinking of You - 1995 Remaster",
       "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Dreamboat Annie",
+        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 328360,
+      "name": "Magic Man",
+      "url": "https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE"
     },
     {
       "added_at": "2021-02-10 18:00:33",

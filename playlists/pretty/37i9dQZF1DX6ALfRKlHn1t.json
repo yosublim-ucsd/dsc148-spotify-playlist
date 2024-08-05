@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1132475,
+  "num_followers": 1132921,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
         "name": "Hell N Back (Sped Up)",
         "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
     },
     {
       "added_at": "2024-07-15 18:40:59",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Kona Town",
-        "url": "https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4"
-      },
-      "artists": [
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Stone Love",
-      "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
         "name": "Black Summer",
         "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
+        "name": "Kona Town",
+        "url": "https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Stone Love",
+      "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
     },
     {
       "added_at": "2024-07-15 18:40:59",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 138466,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
         "name": "Is It Magic?",
         "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Water the Flowers, Pray for a Garden",
-        "url": "https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1"
       },
       "artists": [
         {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 206419,
-      "name": "Water the Flowers, Pray for a Garden",
-      "url": "https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL"
+      "duration_ms": 138466,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw"
     },
     {
       "added_at": "2024-07-15 18:40:59",
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
+        "name": "Water the Flowers, Pray for a Garden",
+        "url": "https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 206419,
+      "name": "Water the Flowers, Pray for a Garden",
+      "url": "https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 219964,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
         "name": "Chaos Angel",
         "url": "https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 217320,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/6F49TZfQKs658WuxeKgF4R"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
       "added_at": "2024-07-15 18:40:59",

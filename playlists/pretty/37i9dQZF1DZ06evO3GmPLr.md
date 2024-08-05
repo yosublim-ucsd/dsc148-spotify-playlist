@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 ### [This Is Little Simz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr)
 
-> This is Little Simz\. The essential tracks, all in one playlist.
+> This Is Little Simz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,701 likes - 39 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,714 likes - 39 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 38 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 39 | [damn right](https://open.spotify.com/track/3Q1HNg15qwjOlDy5ia1NJc) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:00 |
 
-Snapshot ID: `ZqrQAAAAAABGj2G/rfBavWg4WYyzJ67E`
+Snapshot ID: `ZqrQAAAAAAAMToi8DdVpRj7ONI7uk+0h`

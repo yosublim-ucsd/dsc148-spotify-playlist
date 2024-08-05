@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 133829,
       "name": "El Doctorado",
       "url": "https://open.spotify.com/track/3K17sPli1ZwYitB1rBQH0l"
@@ -2938,6 +2938,28 @@
       "duration_ms": 125257,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/0ZicqbVRJBG71sAGgc77s8"
+    },
+    {
+      "album": {
+        "name": "El Pron\u00f3stico",
+        "url": "https://open.spotify.com/album/1xYzvFY0GUHYbWx7uAYoTI"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "KINGTO",
+          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128793,
+      "name": "El Pron\u00f3stico",
+      "url": "https://open.spotify.com/track/3SyKJIkKoA4RFMrdqYSTxj"
     },
     {
       "album": {
@@ -3838,7 +3860,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 142840,
       "name": "Hipnotizados",
       "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
@@ -3982,7 +4004,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 178695,
       "name": "Imaginate que soy yo",
       "url": "https://open.spotify.com/track/0piCjuFlGx5KLaALEVU3NI"

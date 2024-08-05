@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=m\-BeAsoeRDWGmVR3hAASTg>Ada Ehi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,431 likes - 106 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,508 likes - 106 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

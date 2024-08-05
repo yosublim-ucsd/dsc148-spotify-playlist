@@ -4,7 +4,7 @@
 
 > The greatest indie love songs of all time.
 
-271 songs - 16 hr 48 min
+272 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Juxtapozed with U](https://open.spotify.com/track/2umbhz2teUJ8QpOl4bBD7T) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Rings Around the World](https://open.spotify.com/album/6g6WBTqT5gE4fAcwRljpjc) | 3:08 | 2021-01-28 | 2022-11-13 |
 | [K.](https://open.spotify.com/track/36Zs84njjWZD3TGYE77WPC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [K.](https://open.spotify.com/album/33qYH2dRlz8DSCWFYZB1Fc) | 5:19 | 2021-01-28 | 2022-02-11 |
 | [Let You Down](https://open.spotify.com/track/1qpGMJi0ippCaMUOs7cz2q) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Let You Down](https://open.spotify.com/album/5lFDNl6WwhLIIl15kyWGxw) | 3:47 | 2023-02-02 |  |
-| [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:05 | 2024-01-30 |  |
+| [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:05 | 2024-01-30 | 2024-08-05 |
 | [Lilo](https://open.spotify.com/track/56aLJW6EJJxbp6uVRvXjVy) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Lilo](https://open.spotify.com/album/0FPYC0qznWJLdzIJIbTne1) | 4:19 | 2021-01-28 | 2022-07-29 |
 | [Linger](https://open.spotify.com/track/7eFkHQnplG4kmxg1MX3iOd) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Trending Now Volume 13](https://open.spotify.com/album/55cpIO2Bckrz35ZTS27EzR) | 4:33 | 2022-02-10 | 2022-11-13 |
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2022-02-10 | 2024-04-19 |
@@ -184,6 +184,7 @@
 | [Please Don't Die](https://open.spotify.com/track/6yg89pQKdqMxKUx4h2lvcJ) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Please Don't Die](https://open.spotify.com/album/5XyUhtbKYXGoKJwsHvRfWz) | 3:24 | 2022-02-10 | 2022-07-29 |
 | [Postcards From Italy](https://open.spotify.com/track/5YAhKEMTGMh6SxTSYcUJl6) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Gulag Orkestar](https://open.spotify.com/album/5N82AYJ3FG1znFz3EqJNMm) | 4:17 | 2022-02-10 | 2022-07-29 |
 | [Postcards from Italy](https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/4yP7cyoeE3F6EyJPZ9v47V) | 4:17 | 2022-02-10 | 2023-02-14 |
+| [Puppy Love](https://open.spotify.com/track/0uNo3E6rg68AFf18ZyeLgm) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:27 | 2024-01-19 |  |
 | [Rent \- 2001 Remaster](https://open.spotify.com/track/79p7mYGJC9IgybmPsZf5HP) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually](https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74) | 5:08 | 2021-01-28 | 2022-09-18 |
 | [Rent \- 2018 Remaster](https://open.spotify.com/track/2FtttuNvgYjTT03FKCHlG8) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually: Further Listening 1987 \- 1988 \(2018 Remaster\)](https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7) | 5:08 | 2022-02-10 | 2023-02-14 |
 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 | 2022-02-10 | 2024-04-19 |

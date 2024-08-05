@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 404660,
+  "num_followers": 404726,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
+        "name": "In The Lonely Hour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
         "name": "Conversations in the Dark",
         "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 312066,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/6MY1xABxoZATrEr4FeUhEM"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
-        "name": "In The Lonely Hour (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
-      "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
     },
     {
       "added_at": "2024-08-02 11:57:17",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
+        "name": "Oh My Messy Mind",
+        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C"
       },
@@ -619,18 +635,22 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
-        "name": "Oh My Messy Mind",
-        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+        "name": "Las burbujas del caj\u00f3n",
+        "url": "https://open.spotify.com/album/36dpLupe8eMdmdfjPvEcqM"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 225920,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+      "duration_ms": 193731,
+      "name": "No me dejes caer",
+      "url": "https://open.spotify.com/track/2sPHM5gHzgGT8UrhWxQrjl"
     },
     {
       "added_at": "2024-08-02 11:57:17",
@@ -663,26 +683,6 @@
       "duration_ms": 162666,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/0Dv23k5ErS9XO9U2BYRI0F"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
-        "name": "Las burbujas del caj\u00f3n",
-        "url": "https://open.spotify.com/album/36dpLupe8eMdmdfjPvEcqM"
-      },
-      "artists": [
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 193731,
-      "name": "No me dejes caer",
-      "url": "https://open.spotify.com/track/2sPHM5gHzgGT8UrhWxQrjl"
     },
     {
       "added_at": "2024-08-02 11:57:17",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Need The Sun To Break",
+      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Need The Sun To Break",
-      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
         "name": "The Bakman Tapes",
         "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc"
-      },
-      "artists": [
-        {
-          "name": "Vazquez Sounds",
-          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc"
+      },
+      "artists": [
+        {
+          "name": "Vazquez Sounds",
+          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE"
     },
     {
       "added_at": "2024-08-02 11:57:17",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 240622,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2024-08-02 11:57:17",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
-        "name": "Cosmic Wacho",
-        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 205577,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
         "name": "Lo Contrario",
         "url": "https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 190398,
       "name": "Lo Contrario",
       "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
+        "name": "Cosmic Wacho",
+        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 205577,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
     },
     {
       "added_at": "2024-08-02 11:57:17",

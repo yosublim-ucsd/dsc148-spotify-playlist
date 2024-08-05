@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,351 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,391 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 48 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 |
 | 49 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 50 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
-| 51 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
-| 52 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
-| 53 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
-| 54 | [Innocent](https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Innocent](https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u) | 2:36 |
+| 51 | [Innocent](https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Innocent](https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u) | 2:36 |
+| 52 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
+| 53 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
+| 54 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
 | 55 | [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 |
 | 56 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
 | 57 | [Asymmetry](https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Asymmetry](https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq) | 4:04 |

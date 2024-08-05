@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Bailando Conmigo",
+        "url": "https://open.spotify.com/album/7djPbH5A3hZTfhjSevXD7E"
+      },
+      "artists": [
+        {
+          "name": "Luis Vega",
+          "url": "https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193820,
+      "name": "Bailando Conmigo",
+      "url": "https://open.spotify.com/track/54zaCLddYYPF5MTHtJy4xc"
+    },
+    {
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"

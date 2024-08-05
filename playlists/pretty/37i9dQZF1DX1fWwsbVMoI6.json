@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 116256,
+  "num_followers": 116296,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-07-02 17:08:05",
       "album": {
-        "name": "A Llorar a Otra Parte",
-        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
-      },
-      "artists": [
-        {
-          "name": "Hnos Yaipen",
-          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
-    },
-    {
-      "added_at": "2024-07-02 17:08:05",
-      "album": {
         "name": "Por Qu\u00e9 Te Fuiste",
         "url": "https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd"
       },
@@ -367,18 +351,18 @@
     {
       "added_at": "2024-07-02 17:08:05",
       "album": {
-        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
-        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
+        "name": "A Llorar a Otra Parte",
+        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
       },
       "artists": [
         {
-          "name": "Los Hermanos Castro",
-          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
         }
       ],
-      "duration_ms": 178626,
-      "name": "Con Tinta Roja",
-      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
+      "duration_ms": 233813,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
     },
     {
       "added_at": "2024-07-02 17:08:05",
@@ -395,6 +379,22 @@
       "duration_ms": 240120,
       "name": "El Embrujo",
       "url": "https://open.spotify.com/track/66Y7UyvE5aEgiPl9dDZScz"
+    },
+    {
+      "added_at": "2024-07-02 17:08:05",
+      "album": {
+        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
+        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Castro",
+          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Con Tinta Roja",
+      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
     },
     {
       "added_at": "2024-07-02 17:08:05",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-02 17:08:05",
       "album": {
-        "name": "Teatro Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo 5",
-          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
-        }
-      ],
-      "duration_ms": 219951,
-      "name": "Cambio Mi Coraz\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2"
-    },
-    {
-      "added_at": "2024-07-02 17:08:05",
-      "album": {
         "name": "Imposible Olvidarte",
         "url": "https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 358000,
       "name": "Por Siempre Mi Angel",
       "url": "https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN"
+    },
+    {
+      "added_at": "2024-07-02 17:08:05",
+      "album": {
+        "name": "Teatro Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        }
+      ],
+      "duration_ms": 219951,
+      "name": "Cambio Mi Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2"
     },
     {
       "added_at": "2024-07-02 17:08:05",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-07-02 17:08:05",
       "album": {
-        "name": "Nuestros 30 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/7uWi6ggwuyvGPmUn5QIKB1"
-      },
-      "artists": [
-        {
-          "name": "Corazon Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        },
-        {
-          "name": "Farik Grippa",
-          "url": "https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2"
-        }
-      ],
-      "duration_ms": 336683,
-      "name": "Tu Ausencia - En Vivo",
-      "url": "https://open.spotify.com/track/4Vy8gFPwZHuR35cwlYNoSE"
-    },
-    {
-      "added_at": "2024-07-02 17:08:05",
-      "album": {
         "name": "Me Emborrachar\u00e9",
         "url": "https://open.spotify.com/album/3wXwoHLYaapEjLT7xJvSgR"
       },
@@ -639,6 +619,22 @@
     {
       "added_at": "2024-07-02 17:08:05",
       "album": {
+        "name": "Sonido 2000 de Tarapoto",
+        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 195696,
+      "name": "Mi Carin\u0303ito",
+      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
+    },
+    {
+      "added_at": "2024-07-02 17:08:05",
+      "album": {
         "name": "Solo Hay Una...!",
         "url": "https://open.spotify.com/album/0eKI4Krwfk5MNigWz1W3aW"
       },
@@ -655,18 +651,22 @@
     {
       "added_at": "2024-07-02 17:08:05",
       "album": {
-        "name": "Sonido 2000 de Tarapoto",
-        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
+        "name": "Nuestros 30 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/7uWi6ggwuyvGPmUn5QIKB1"
       },
       "artists": [
         {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+          "name": "Corazon Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        },
+        {
+          "name": "Farik Grippa",
+          "url": "https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2"
         }
       ],
-      "duration_ms": 195696,
-      "name": "Mi Carin\u0303ito",
-      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
+      "duration_ms": 336683,
+      "name": "Tu Ausencia - En Vivo",
+      "url": "https://open.spotify.com/track/4Vy8gFPwZHuR35cwlYNoSE"
     },
     {
       "added_at": "2024-07-02 17:08:05",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-02 17:08:05",
       "album": {
-        "name": "Cerveza",
-        "url": "https://open.spotify.com/album/2lpuYOEhZG1vqeNgYHdxez"
-      },
-      "artists": [
-        {
-          "name": "Corazon Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        }
-      ],
-      "duration_ms": 189730,
-      "name": "Cerveza",
-      "url": "https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B"
-    },
-    {
-      "added_at": "2024-07-02 17:08:05",
-      "album": {
         "name": "T\u00fa Me Haces M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/6Pst0oXGzZmBGlIXYKr5jn"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 256255,
       "name": "Loco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs"
+    },
+    {
+      "added_at": "2024-07-02 17:08:05",
+      "album": {
+        "name": "El Baile de la Serpiente",
+        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Juraste Querrerme",
+      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
     },
     {
       "added_at": "2024-07-02 17:08:05",
@@ -807,34 +807,42 @@
     {
       "added_at": "2024-07-02 17:08:05",
       "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d"
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/1KwqvNN3q7AOsalOiXOGlf"
       },
       "artists": [
         {
-          "name": "Dilbert Aguilar y su Orquesta La Tribu",
-          "url": "https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y"
+          "name": "Patrick Romantik",
+          "url": "https://open.spotify.com/artist/3czJg4rK6iHdgBmjS1MiCA"
+        },
+        {
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+        },
+        {
+          "name": "Erick Elera",
+          "url": "https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW"
         }
       ],
-      "duration_ms": 240848,
-      "name": "Sacude el Billete",
-      "url": "https://open.spotify.com/track/5sJHdbckrzXFABt9KqBTXa"
+      "duration_ms": 209097,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/0betY4GqNwj5KrvsUPs0RM"
     },
     {
       "added_at": "2024-07-02 17:08:05",
       "album": {
-        "name": "El Baile de la Serpiente",
-        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
+        "name": "Cerveza",
+        "url": "https://open.spotify.com/album/2lpuYOEhZG1vqeNgYHdxez"
       },
       "artists": [
         {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+          "name": "Corazon Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
         }
       ],
-      "duration_ms": 209293,
-      "name": "Juraste Querrerme",
-      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
+      "duration_ms": 189730,
+      "name": "Cerveza",
+      "url": "https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B"
     }
   ],
   "unique_name": "Cumbias de Oro",

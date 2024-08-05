@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 
 ### [This Is Eminem](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gTUOY)
 
-> This is Eminem\. The essential tracks, all in one playlist.
+> This Is Eminem\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,803,041 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,803,770 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 49 | [I Need A Doctor](https://open.spotify.com/track/70ATm56tH7OrQ1zurYssz0) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [I Need A Doctor](https://open.spotify.com/album/45IcnOlgrZDKNwwbNO7CAn) | 4:43 |
 | 50 | [Higher](https://open.spotify.com/track/3eMsgWDRq5dKl5SBTYGv2J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:42 |
 
-Snapshot ID: `ZqrQAAAAAABKuVko2b5oC4g1g+qCjtwF`
+Snapshot ID: `ZqrQAAAAAAD5jjwRMRyJWkheTr32Obiy`

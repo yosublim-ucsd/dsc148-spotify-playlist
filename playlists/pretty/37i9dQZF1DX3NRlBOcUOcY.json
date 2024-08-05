@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 442397,
+  "num_followers": 442405,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,26 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "TOMMY & PAMELA",
-      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -251,54 +251,22 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "CONTIGO (with Ti\u00ebsto)",
-        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 192786,
-      "name": "CONTIGO (with Ti\u00ebsto)",
-      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 245939,
-      "name": "Moscow Mule",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
-        "name": "D\u00e9jame Entrar",
-        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 254705,
-      "name": "D\u00e9jame Entrar",
-      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+      "duration_ms": 209361,
+      "name": "TOMMY & PAMELA",
+      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -323,26 +291,50 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "Que Se Cuide",
-        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 155624,
-      "name": "Que Se Cuide",
-      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+      "duration_ms": 254705,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -411,6 +403,30 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
+        "name": "Que Se Cuide",
+        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Que Se Cuide",
+      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
         "name": "VAGABUNDO",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "QUE CHIMBA DE VIDA",
         "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 173524,
-      "name": "La Canci\u00f3n Feliz Del Disco",
-      "url": "https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "La Esquina del Mall",
         "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 207387,
       "name": "La Esquina del Mall",
       "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 173524,
+      "name": "La Canci\u00f3n Feliz Del Disco",
+      "url": "https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 160733,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "curita",
-        "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "curita",
-      "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "Se\u00f1orita (Remix)",
         "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 181591,
       "name": "Se\u00f1orita - Remix",
       "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "curita",
+        "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "curita",
+      "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "Tortura",
-        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Tortura",
-      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "La Misi\u00f3n",
         "url": "https://open.spotify.com/album/1ePhu33yby4C7qx1ypRrSS"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 214736,
       "name": "La Misi\u00f3n",
       "url": "https://open.spotify.com/track/3dyo3TI5QpPi1mkgEBB9oK"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "Tortura",
+        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "Feriado",
-        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 166399,
-      "name": "Feriado",
-      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "Noche de Novela (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/4OciFRoNTzmF0ORAQqCrk9"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 170396,
       "name": "El Que Espera",
       "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "RANGOS",
+      "url": "https://open.spotify.com/track/0Zvjkpcw5XJQtdnqFatffM"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
         "name": "EL CANTANTE DEL GHETTO",
         "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 205714,
       "name": "EL CANTANTE DEL GHETTO",
       "url": "https://open.spotify.com/track/4qqQXznNVnBO8L4yv3GeKr"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
-        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
-        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "RANGOS",
-      "url": "https://open.spotify.com/track/0Zvjkpcw5XJQtdnqFatffM"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
-        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "K4G",
-          "url": "https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU"
-        }
-      ],
-      "duration_ms": 248653,
-      "name": "SHOFAR",
-      "url": "https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
       },
@@ -2151,6 +2131,26 @@
       "duration_ms": 171400,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "K4G",
+          "url": "https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU"
+        }
+      ],
+      "duration_ms": 248653,
+      "name": "SHOFAR",
+      "url": "https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp"
     },
     {
       "added_at": "2024-07-26 16:13:35",

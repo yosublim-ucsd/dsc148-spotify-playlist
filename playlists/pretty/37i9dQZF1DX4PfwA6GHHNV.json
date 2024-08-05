@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 18236,
+  "num_followers": 18246,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "FETICHE",
+        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 165379,
+      "name": "sodade",
+      "url": "https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "A Volta Do Astro-Rei",
         "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 175543,
       "name": "Online",
       "url": "https://open.spotify.com/track/6q0eaSM4WDEHavJ9BSbIfq"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "FETICHE",
-        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        }
-      ],
-      "duration_ms": 165379,
-      "name": "sodade",
-      "url": "https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Sua Boca",
-        "url": "https://open.spotify.com/album/713CT4lO8XlIET42xTkGfd"
-      },
-      "artists": [
-        {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Sua Boca",
-      "url": "https://open.spotify.com/track/6uQBN4yMHx5RylUXXrEnfg"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "Garotas Amam Namorar",
         "url": "https://open.spotify.com/album/4wgbXSLUAfX5DwflkH3YYD"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 127358,
       "name": "Lingerie Azul",
       "url": "https://open.spotify.com/track/04l6YnwfUE1c3M4Ukzrf58"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Sua Boca",
+        "url": "https://open.spotify.com/album/713CT4lO8XlIET42xTkGfd"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Sua Boca",
+      "url": "https://open.spotify.com/track/6uQBN4yMHx5RylUXXrEnfg"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
       },
@@ -623,26 +643,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 194862,
-      "name": "Luar",
-      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
@@ -675,6 +675,30 @@
       "duration_ms": 215572,
       "name": "T\u00f4 Aqui de Novo",
       "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
+      },
+      "artists": [
+        {
+          "name": "Neittan",
+          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
+        },
+        {
+          "name": "Paulla",
+          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
+        },
+        {
+          "name": "AlmaViva M\u00fasica",
+          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
+        }
+      ],
+      "duration_ms": 162338,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -723,26 +747,22 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
+        "name": "Natureza",
+        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
       },
       "artists": [
         {
-          "name": "Neittan",
-          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "Paulla",
-          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
-        },
-        {
-          "name": "AlmaViva M\u00fasica",
-          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
         }
       ],
-      "duration_ms": 162338,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
+      "duration_ms": 144000,
+      "name": "Natureza",
+      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -779,26 +799,6 @@
       "duration_ms": 217959,
       "name": "Replay",
       "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "Natureza",
-        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Natureza",
-      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
     },
     {
       "added_at": "2024-07-26 03:03:00",

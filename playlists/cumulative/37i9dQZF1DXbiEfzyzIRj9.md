@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Jamie xx
 
-827 songs - 2 day 13 hr 4 min
+828 songs - 2 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Crush](https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Crush](https://open.spotify.com/album/7GFnomhPOTcD3hexX6GNRn) | 4:59 | 2024-03-21 | 2024-07-12 |
 | [Cry Cry Cry](https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Cry Cry Cry](https://open.spotify.com/album/76swTUVCbbVU1pZHr2YMrO) | 3:22 | 2023-03-23 | 2023-05-19 |
 | [Crystal](https://open.spotify.com/track/77NlLyX4TCDrggCOI7Vtmt) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Crystal](https://open.spotify.com/album/71mVMiVEsfype5XwCGFkGU) | 2:50 | 2024-03-07 |  |
+| [Cue and Nat](https://open.spotify.com/track/1LObEx74alFGQzE1RKQzJV) | [Shimpei Watanabe](https://open.spotify.com/artist/3gEWP5rg9EZl9cW6TPxB7S) | [Dee Dot See](https://open.spotify.com/album/2jxh2vClBRyRGuNUZN5xzB) | 6:53 | 2024-08-05 |  |
 | [CYGNUS \- Another Take](https://open.spotify.com/track/5z32XED6Qp2ed7xZRIEKZ4) | [Hiroshi Watanabe](https://open.spotify.com/artist/3YMGEE2v8JFucik7FvSndd) | [Cygnus Remixes](https://open.spotify.com/album/3f1uaUrrN25LiZVCVAyte0) | 8:37 | 2024-01-11 | 2024-04-05 |
 | [D40](https://open.spotify.com/track/4kmuw8IApJvIxr7x5225wQ) | [Allen Mock](https://open.spotify.com/artist/1FWowTsaucHkPDgmAGGk4T), [Lowki](https://open.spotify.com/artist/51If4Xoq3EAp0IE0wwE1F2) | [Deadlift EP](https://open.spotify.com/album/3VjAevSxvM8DZ35drrofO3) | 5:56 | 2024-04-12 | 2024-05-24 |
 | [Daikanyama \(Let Me Take You\)](https://open.spotify.com/track/11H0oU5XEXgTOqWRz6XwAO) | [Sloppy Disk](https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN) | [So Sloppy Vol.1](https://open.spotify.com/album/6GVdnlARdw1ZgoFCWXqQ41) | 5:22 | 2023-11-09 | 2024-06-07 |

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: beabadoobee
 
-1,919 songs - 4 day 5 hr 18 min
+1,920 songs - 4 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Black Coffee](https://open.spotify.com/track/5XFnuOu9ReQ1BjyV7qUxqU) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0KONPUiVqapPUbrdYSsGvV) | 2:24 | 2022-01-14 | 2022-07-24 |
 | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/track/1kOzY6GwBam1lTWxD7OloO) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo), [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0KONPUiVqapPUbrdYSsGvV) | 2:24 | 2021-08-04 | 2022-04-15 |
 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 | 2023-10-18 |
+| [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-02 |  |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 | 2023-09-30 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-06-30 | 2024-06-11 |
 | [Blame Game](https://open.spotify.com/track/23YKtFHHfoCCgPN3jE7Ye0) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Blame Game](https://open.spotify.com/album/2ROajNedjFylk0fhSUeE2E) | 3:34 | 2021-01-15 | 2021-02-02 |
@@ -329,7 +330,7 @@
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-17 |  |
 | [CHIPS \(feat\. American Teeth\)](https://open.spotify.com/track/1Sw6ZQVNo79SKZNah62003) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [CHIPS \(feat\. American Teeth\)](https://open.spotify.com/album/7mnXucSsqFrJKSPPE5oL4K) | 2:47 | 2021-09-24 | 2022-04-15 |
 | [Cigarette](https://open.spotify.com/track/1WUc5gHP8wu1aRek4pjQTt) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [Cigarette](https://open.spotify.com/album/0PtOidDgC3aRpGvdtAT7nZ) | 3:20 | 2021-02-17 | 2021-02-28 |
-| [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 | 2024-02-02 | 2024-07-27 |
+| [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 | 2024-02-02 |  |
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-03-22 |  |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-14 |  |
 | [Classic](https://open.spotify.com/track/3nXCsRBwRBCJv8owAJnYQ0) | [Tori Templet](https://open.spotify.com/artist/7ulINFYFROOmdGxDhsjMqG) | [Classic](https://open.spotify.com/album/2PYKaf5p9Ot4IHx2MFkWUh) | 2:47 | 2020-11-17 | 2021-01-28 |
@@ -521,7 +522,7 @@
 | [DUI](https://open.spotify.com/track/585BK4XWLggY2wCeO6dG1U) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [DUI](https://open.spotify.com/album/0s9urnWu1OkCcYEDpV03ig) | 2:58 | 2021-03-01 | 2021-05-26 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-08-27 | 2022-01-21 |
 | [Dumb Girl](https://open.spotify.com/track/1ncVpMTDUXN0kaJWncRg7t) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [Dumb Girl](https://open.spotify.com/album/4Pv5X3rCv3ymnyIgKKwzmo) | 3:01 | 2021-05-13 | 2021-10-16 |
-| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 |  |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 | 2024-08-05 |
 | [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 | 2024-03-02 |
 | [ease your mind](https://open.spotify.com/track/4VA9yqBTQjjAZL4fQhlK9M) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [ease your mind](https://open.spotify.com/album/4wYxQMGyGCQn4L9i9MjxCR) | 2:52 | 2020-10-20 | 2020-10-21 |
 | [Easier To Lie](https://open.spotify.com/track/2oTYHOVAq3HcHvwb3a9L1j) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Easier To Lie](https://open.spotify.com/album/7fJTu9UzXo6UqAeZw8NIHP) | 2:38 | 2021-01-25 | 2021-10-09 |
@@ -1823,7 +1824,7 @@
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2021-03-14 | 2021-10-16 |
 | [Watching You Disappear](https://open.spotify.com/track/5QcZdMoxsvfXkK0TnlF0hn) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Watching You Disappear](https://open.spotify.com/album/00GvccCzssnxgeitqcLY2H) | 3:15 | 2020-10-13\* | 2020-11-20 |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2023-09-29 | 2023-12-09 |
-| [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 |  |
+| [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 | 2024-08-05 |
 | [Waves](https://open.spotify.com/track/6dH6NIftdswHruAjD80ZHB) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Waves](https://open.spotify.com/album/03GjkxYFYALwT61skyiFjW) | 2:13 | 2020-10-13\* | 2021-06-03 |
 | [Way Way Back](https://open.spotify.com/track/2hX7tp2n5rcObTtuhjo6cM) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun \(deluxe\)](https://open.spotify.com/album/6fhydReXt41QBLPRiompN5) | 3:57 | 2022-02-25 | 2022-07-29 |
 | [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-07-21 | 2024-03-30 |

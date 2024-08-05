@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Kevin AMF en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,257 likes - 65 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,877 likes - 65 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

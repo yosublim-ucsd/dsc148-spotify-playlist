@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Delfina Campos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,110 likes - 76 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,123 likes - 76 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

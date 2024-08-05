@@ -2,12 +2,13 @@
 
 ### [RADAR Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX2TlTLxcIo6J)
 
-> New songwriters on the horizon from around the world\. Cover: <a href="https://open.spotify.com/user/1217186610?si=6cbd40453d654a75">Ariana Wong</a> ✨
+> New songwriters on the horizon from around the world\. Cover: <a href="https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P?si=0tSU9asaR6eJgqS3JdybwA">Rowlene</a> ✨
 
-103 songs - 5 hr 23 min
+108 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [143](https://open.spotify.com/track/1BjEVZ05sAt56wt4H9GZu8) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [The Evolution of a Robot \- 2nd Generation](https://open.spotify.com/album/5NbXgY6tA9Y7n7jvhVRzzI) | 3:02 | 2024-08-05 |  |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-05-27 | 2024-03-22 |
 | [All Over](https://open.spotify.com/track/394IT4yrYjwT65ePqKLFbq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 2:55 | 2023-10-05 |  |
 | [Alıştım Zehrine](https://open.spotify.com/track/0QH13vxepuaLmJvBFRwDDD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Alıştım Zehrine](https://open.spotify.com/album/6xL4FouxMMHxeQjbMJZNn0) | 2:39 | 2024-05-13 |  |
@@ -29,6 +30,7 @@
 | [Creature \- MYRNE Remix](https://open.spotify.com/track/2tv8ppFp8QeGsWxk9I05az) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Creature \(MYRNE Remix\)](https://open.spotify.com/album/1ARlBuNQfm3t9pljmDwbsv) | 6:56 | 2024-05-28 |  |
 | [Crocodiles](https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Crocodiles](https://open.spotify.com/album/6cLS5tRoyiw8U6lH1Zc4UX) | 4:00 | 2024-03-22 |  |
 | [Crocodiles](https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 4:00 | 2024-02-26 | 2024-04-19 |
+| [don't let go](https://open.spotify.com/track/3vjGBhmD8YrmfpbPITTetz) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Moments In Between](https://open.spotify.com/album/009HGDGLlzZtCaAxKJjTOt) | 3:00 | 2024-08-05 |  |
 | [Downtown](https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7) | 2:11 | 2024-03-21 |  |
 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/3BRI2KJHYRJfse5DYmyoxM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 2:36 | 2024-02-26 | 2024-03-22 |
 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 | 2024-02-26 |  |
@@ -69,6 +71,7 @@
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2022-05-27 |  |
 | [okokok](https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C) | 2:38 | 2024-04-28 |  |
 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 | 2024-03-22 |  |
+| [overdose](https://open.spotify.com/track/2yAkgFcID5XoXF3yRcu8tc) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [overdose](https://open.spotify.com/album/5SnkdRhNhYmzgWkaIGQijn) | 3:23 | 2024-08-05 |  |
 | [Paid In Pleasure](https://open.spotify.com/track/0wkYibs7oR46Tq1k7sIQLu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 1:46 | 2024-03-21 |  |
 | [Pastello Bianco](https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:56 | 2024-04-28 |  |
 | [patience interlude](https://open.spotify.com/track/24xpL4l70GDGIVFIxLbW8s) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 2:21 | 2023-10-05 |  |
@@ -83,9 +86,11 @@
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-10-05 |  |
 | [scars](https://open.spotify.com/track/350l5Tkctw6RMcIdl7MlaS) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:26 | 2023-02-24 | 2023-10-05 |
 | [Seventeen](https://open.spotify.com/track/14q1di5KECs3R2KmH9fG98) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Seventeen](https://open.spotify.com/album/6OBbmaYcACR9czAXelEMod) | 2:52 | 2023-10-05 |  |
+| [SMA](https://open.spotify.com/track/4fkCcUS3Gl5cRi9zNt7oMa) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Strings And Bling](https://open.spotify.com/album/6JyxiTsgY9NgCgBxwtrhgo) | 5:14 | 2024-08-05 |  |
 | [STAINS](https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [STAINS](https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7) | 5:46 | 2022-07-22 |  |
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2023-08-15 | 2023-10-05 |
 | [Still Strangers](https://open.spotify.com/track/0w2xc98HHlWQlwuPeKcmu4) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 3:35 | 2024-05-28 |  |
+| [Sweet Escape](https://open.spotify.com/track/5Jkkjn5Ur4cWgJS4taJ9cM) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Sweet Escape](https://open.spotify.com/album/4A8p0LGa7QVi7fv0jtHhEL) | 3:06 | 2024-08-05 |  |
 | [Sweet Love](https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz) | 4:05 | 2022-07-22 |  |
 | [That Guy](https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [That Guy](https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z) | 2:34 | 2024-03-21 |  |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2023-02-24 | 2023-10-05 |

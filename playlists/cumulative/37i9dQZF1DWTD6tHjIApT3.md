@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: milet
 
-2,610 songs - 6 day 23 hr 25 min
+2,611 songs - 6 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1455,7 +1455,7 @@
 | [Wish](https://open.spotify.com/track/6wMnf3VRkhtT8NmJuWNimt) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Wish](https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi) | 4:46 | 2022-10-04 | 2022-12-16 |
 | [Wishing](https://open.spotify.com/track/1VfdAoxCRpZce6H1Er7EUa) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [UNTITLED](https://open.spotify.com/album/5YcBwWlQmOm6Hd3VqohUsC) | 2:49 | 2023-12-12 | 2023-12-20 |
 | [Wishing](https://open.spotify.com/track/4xnmwQFY3pU00bO8qeu63K) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [UNTITLED](https://open.spotify.com/album/5kekyUJVTxhkaRAuEN0l73) | 2:49 | 2023-12-12 | 2023-12-14 |
-| [With](https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [With](https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE) | 3:47 | 2023-10-05 | 2024-08-02 |
+| [With](https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [With](https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE) | 3:47 | 2023-10-05 |  |
 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-02-09 | 2023-10-18 |
 | [Wolf](https://open.spotify.com/track/1mjl6shDbIttccQj3ktzuB) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [Wolf](https://open.spotify.com/album/6aSz8m9KHNfymtKh3TDOE9) | 3:09 | 2023-11-21 | 2023-11-29 |
 | [Wolf](https://open.spotify.com/track/562QVA1IwYK8FpKbTAN3jU) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [Wolf](https://open.spotify.com/album/689ooeF6npWjM7n2k6qLrl) | 3:09 | 2023-11-21 | 2023-11-23 |
@@ -1626,7 +1626,7 @@
 | [とけてゆく](https://open.spotify.com/track/6MUgmXLHN3ISrKjPvEdKR5) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [とけてゆく](https://open.spotify.com/album/3jrkSlRHt1KMwsuY60NK31) | 3:31 | 2023-08-08 | 2023-08-16 |
 | [とりあえず](https://open.spotify.com/track/7k2kKPLzxIa4OmDeoiWfYD) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [とりあえず](https://open.spotify.com/album/6Fg4RusObKTcshoLDWv05K) | 4:37 | 2023-05-02 | 2023-05-31 |
 | [どうせなら](https://open.spotify.com/track/3DR0n6s6j44UpU4HxmZKu5) | [三品瑠香](https://open.spotify.com/artist/2g0GsRYLm3PyW8QWLSqwZn) | [どうせなら](https://open.spotify.com/album/1IynaW4ycIqWiKs9u5IGId) | 2:46 | 2023-03-16 | 2023-03-22 |
-| [どうでもいい話がしたい](https://open.spotify.com/track/2XSRtBSiJK1MpJrIGizsBF) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい](https://open.spotify.com/album/4eLTAkwR2aCbADYfSRBwlS) | 3:21 | 2024-04-23 |  |
+| [どうでもいい話がしたい](https://open.spotify.com/track/2XSRtBSiJK1MpJrIGizsBF) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい](https://open.spotify.com/album/4eLTAkwR2aCbADYfSRBwlS) | 3:21 | 2024-04-23 | 2024-08-05 |
 | [どうでもいい話がしたい \- Acoustic Version](https://open.spotify.com/track/3UiLsCu8AbAeQJ3nFrNOhY) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい \(Acoustic Version\)](https://open.spotify.com/album/7ln4sfgOmXBlIiZPG1GFsx) | 3:37 | 2024-01-16 | 2024-01-18 |
 | [どこへも行かないで](https://open.spotify.com/track/0QctNmKMvT5Hw4aWO1HJI7) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [どこへも行かないで](https://open.spotify.com/album/5uzQHJQVfnPR9sZXxG6PlJ) | 2:44 | 2023-04-18 | 2023-04-26 |
 | [どろり](https://open.spotify.com/track/7aKsAGXjb5c4D1awswSqLz) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [どろり](https://open.spotify.com/album/5gdxkTGeEEdWUYBLTqOK5g) | 3:40 | 2022-06-30 | 2022-07-28 |
@@ -1634,6 +1634,7 @@
 | [なっちゃうじゃん](https://open.spotify.com/track/5CVwgag198M1tphvD6qQEs) | [SISUI](https://open.spotify.com/artist/1aHPV1r6xE06GSbj2LpwFY), [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi) | [なっちゃうじゃん](https://open.spotify.com/album/0h9pnLp4f43Egog0MPYGbd) | 2:51 | 2022-07-21 | 2022-07-27 |
 | [なんでもないよ、](https://open.spotify.com/track/2Xrt2feI7KpAi2UEmWuHef) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [それを愛と呼ぶなら](https://open.spotify.com/album/0Ej3EgTBPQ5QR9zD1aV0rl) | 3:25 | 2022-06-16 | 2022-08-18 |
 | [にゃんこの哲学](https://open.spotify.com/track/50yrMsTgy0Ws7K3IDhM1ZM) | [Alliance de chat noir](https://open.spotify.com/artist/3liE7A8jYYC6ZS3Cg6InNe) | [にゃんこの哲学](https://open.spotify.com/album/3qeQALj9tnUOu2G3TM9px3) | 2:22 | 2024-06-04 | 2024-06-12 |
+| [ねえ、ちゃんと聞いてる？](https://open.spotify.com/track/3r9U0eU5kDPzOz6iW6Rga0) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [ねえ、ちゃんと聞いてる？](https://open.spotify.com/album/1sXKBqs1PS1ArgzcE0Y3kM) | 4:02 | 2024-07-30 |  |
 | [ねえ、彗星 \(映画「たまつきの夢」より\)](https://open.spotify.com/track/4k9RFvjfJQIb8XhYBbSEvM) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA) | [ねえ、彗星 \(映画「たまつきの夢」より\)](https://open.spotify.com/album/4UN2zG5rymkzHbpQrWrnQa) | 2:10 | 2023-07-18 | 2023-07-26 |
 | [ねえ聞いて](https://open.spotify.com/track/2XVyl3Ys1eXFTmNO7MBqkv) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [ねえ聞いて](https://open.spotify.com/album/0bDoKum6x34N5sxbyseQrx) | 4:03 | 2024-03-19 | 2024-04-10 |
 | [ねがい](https://open.spotify.com/track/1WIgEjPZMlGtkEwOXmzmWX) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [風上に閃いて](https://open.spotify.com/album/0R8OEzcEunIIF7WULJ2xit) | 4:24 | 2024-04-30 | 2024-05-08 |
@@ -1980,7 +1981,7 @@
 | [ロンリー・ロンリー](https://open.spotify.com/track/0nMecAgvS3dtSvPTmFOChC) | [Idiot Pop](https://open.spotify.com/artist/6t8D7bjh5Tk8aGBeSJ4RoP), [hajimepop](https://open.spotify.com/artist/4jBNro44OdvyeuZfvdof8w), [小林もも](https://open.spotify.com/artist/20OhrRKFeJHwxibO75gghF) | [ロンリー・ロンリー](https://open.spotify.com/album/2M73IjvMmqbH5g9b2c0eHP) | 3:06 | 2022-06-02 | 2022-06-08 |
 | [ワイン](https://open.spotify.com/track/6pD0uDexqAkUTeAhguZtL5) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [adieu 3](https://open.spotify.com/album/32TZ2E7UbvWSAWMJU0oXnj) | 4:30 | 2022-09-08 | 2022-09-28 |
 | [ワインレッドの心](https://open.spotify.com/track/5ouJWUwtOUjU1FIMSpvXdw) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [ワインレッドの心](https://open.spotify.com/album/2UKBzNiQNK6KSfmNrnW0zg) | 4:08 | 2024-03-19 | 2024-03-27 |
-| [ワルツ](https://open.spotify.com/track/68vtBxs3GCBkVjLS94QVPd) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [ワルツ](https://open.spotify.com/album/31BC9S9cEbJYjjkyJIxc4N) | 4:36 | 2024-04-23 |  |
+| [ワルツ](https://open.spotify.com/track/68vtBxs3GCBkVjLS94QVPd) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [ワルツ](https://open.spotify.com/album/31BC9S9cEbJYjjkyJIxc4N) | 4:36 | 2024-04-23 | 2024-08-05 |
 | [ワレバ](https://open.spotify.com/track/4ByBr9n6K2V59pwDvSDJdm) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [ワレバ](https://open.spotify.com/album/6iLOFyOKpQwyHScbAcCkUo) | 3:14 | 2023-12-19 | 2023-12-27 |
 | [ワンルーム](https://open.spotify.com/track/1IZjP9p8OvqJ6Niar0KIEK) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 5:35 | 2022-07-26 | 2022-08-24 |
 | [ワールドエンド・ガールフレンド](https://open.spotify.com/track/0clF1bzacjTjJBXNO74PrN) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [ワールドエンド・ガールフレンド](https://open.spotify.com/album/3YMEePag8Tirx0z3uK7Ajx) | 2:29 | 2023-08-31 | 2023-09-06 |

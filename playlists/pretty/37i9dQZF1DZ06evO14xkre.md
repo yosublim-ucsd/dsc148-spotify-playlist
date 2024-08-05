@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 
 ### [This Is Kali Uchis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO14xkre)
 
-> This is Kali Uchis\. Todos os maiores hits em uma só playlist.
+> This Is Kali Uchis\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,152 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,246 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 49 | [Only Girl](https://open.spotify.com/track/2id1xnRQloCopsF5IFRY15) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Only Girl](https://open.spotify.com/album/5k1bL1NVtMr8M8WbRbZCtM) | 3:42 |
 | 50 | [Are You Feeling Sad?](https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 2:38 |
 
-Snapshot ID: `ZqrQAAAAAABSi3nmTlYBOjSIWdsJLEEl`
+Snapshot ID: `ZqrQAAAAAADyC9ERhbFgZ4Yz5yJwAUaA`

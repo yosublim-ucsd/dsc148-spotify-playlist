@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > aula da AULAS é marcelo d2 \- eu tiro é onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,616 likes - 57 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,599 likes - 57 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

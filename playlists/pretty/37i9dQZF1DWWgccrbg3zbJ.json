@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 304312,
+  "num_followers": 304866,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 128985,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
         "name": "The Brasil Project Vol. II",
         "url": "https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 128985,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
         "name": "Chico Buarque De Hollanda N\u00ba4",
         "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
       },
@@ -239,42 +239,6 @@
       "duration_ms": 147840,
       "name": "Gente Humilde",
       "url": "https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "The Wonderful World Of Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "A Felicidade",
-      "url": "https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "O Melhor da Parceria",
-        "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Insensatez",
-      "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -295,22 +259,6 @@
       "duration_ms": 102008,
       "name": "Brigas Nunca Mais",
       "url": "https://open.spotify.com/track/3SkLW48Xt2knevezFTs0pY"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Tin Tin Por Tin Tin",
-      "url": "https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -347,6 +295,42 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
+        "name": "O Melhor da Parceria",
+        "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
+        "name": "The Wonderful World Of Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 124586,
+      "name": "A Felicidade",
+      "url": "https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
         "name": "Mr. Bossa Nova",
         "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
       },
@@ -367,18 +351,34 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel"
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 207906,
-      "name": "Children's Games",
-      "url": "https://open.spotify.com/track/0oiNDJWFLPQoAm35OwT66P"
+      "duration_ms": 220360,
+      "name": "Tin Tin Por Tin Tin",
+      "url": "https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
+        "name": "O Piano de Jo\u00e3o Donato",
+        "url": "https://open.spotify.com/album/2hGPFVqOzHV5ZB359SEfiW"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "\u00ca Lal\u00e1 Lay-\u00ca",
+      "url": "https://open.spotify.com/track/7BQSe1LHaS5mDtUT91eHmW"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -443,34 +443,18 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Ultimate Guitar Classics 1951-1961",
-        "url": "https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito"
+        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 118040,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "O Piano de Jo\u00e3o Donato",
-        "url": "https://open.spotify.com/album/2hGPFVqOzHV5ZB359SEfiW"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "\u00ca Lal\u00e1 Lay-\u00ca",
-      "url": "https://open.spotify.com/track/7BQSe1LHaS5mDtUT91eHmW"
+      "duration_ms": 207906,
+      "name": "Children's Games",
+      "url": "https://open.spotify.com/track/0oiNDJWFLPQoAm35OwT66P"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -515,38 +499,6 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Tereza My Love",
-      "url": "https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "Plays and Sings Bossa Nova",
-        "url": "https://open.spotify.com/album/44zM914NmvslUJaJW2msNc"
-      },
-      "artists": [
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        }
-      ],
-      "duration_ms": 139600,
-      "name": "Sambalamento",
-      "url": "https://open.spotify.com/track/4fJrqBOXrJ9QwaqJ9UsptN"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
       },
@@ -563,22 +515,6 @@
       "duration_ms": 229800,
       "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "Samba De Verao",
-      "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -611,8 +547,8 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Chega de Saudade (42 Original Tracks)",
-        "url": "https://open.spotify.com/album/3pWt2byZuo2KDF8wac8JXR"
+        "name": "Ultimate Guitar Classics 1951-1961",
+        "url": "https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito"
       },
       "artists": [
         {
@@ -620,15 +556,15 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 121573,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/0QhoniumuDQIQY46aIebRq"
+      "duration_ms": 118040,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1"
     },
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel"
       },
       "artists": [
         {
@@ -636,9 +572,41 @@
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 309066,
-      "name": "The Red Blouse",
-      "url": "https://open.spotify.com/track/4wBdGRxCaWFtqei59k5InB"
+      "duration_ms": 261573,
+      "name": "Tereza My Love",
+      "url": "https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
+        "name": "Plays and Sings Bossa Nova",
+        "url": "https://open.spotify.com/album/44zM914NmvslUJaJW2msNc"
+      },
+      "artists": [
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Sambalamento",
+      "url": "https://open.spotify.com/track/4fJrqBOXrJ9QwaqJ9UsptN"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "Samba De Verao",
+      "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -675,22 +643,6 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "The New Sound Of Brazil / Piano Of Jo\u00e3o Donato",
-        "url": "https://open.spotify.com/album/64UoZw5GAHgZjO463vdgGH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Manha de Carnaval",
-      "url": "https://open.spotify.com/track/2LFcZ1nrrMPmGOvuEwAK23"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
         "name": "Getz/Gilberto",
         "url": "https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y"
       },
@@ -715,6 +667,54 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 309066,
+      "name": "The Red Blouse",
+      "url": "https://open.spotify.com/track/4wBdGRxCaWFtqei59k5InB"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
+        "name": "The New Sound Of Brazil / Piano Of Jo\u00e3o Donato",
+        "url": "https://open.spotify.com/album/64UoZw5GAHgZjO463vdgGH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Manha de Carnaval",
+      "url": "https://open.spotify.com/track/2LFcZ1nrrMPmGOvuEwAK23"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
+        "name": "Chega de Saudade (42 Original Tracks)",
+        "url": "https://open.spotify.com/album/3pWt2byZuo2KDF8wac8JXR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/0QhoniumuDQIQY46aIebRq"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
         "name": "Francis Albert Sinatra & Antonio Carlos Jobim",
         "url": "https://open.spotify.com/album/1DcmsgvmP94BH8XShg74N0"
       },
@@ -731,6 +731,46 @@
       "duration_ms": 194573,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/3QczGFzPU2pr54vcRn90at"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
+        "name": "Stan Getz: The Bossa Nova Albums",
+        "url": "https://open.spotify.com/album/4TcCL29jgD69v38woQX85i"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 309813,
+      "name": "Para Machuchar Meu Coracao",
+      "url": "https://open.spotify.com/track/0jsezJ6ZF2MjxTGIqSQfWC"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
+        "name": "Pure Bossa Nova",
+        "url": "https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Este Seu Olhar",
+      "url": "https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -807,42 +847,18 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Stan Getz: The Bossa Nova Albums",
-        "url": "https://open.spotify.com/album/4TcCL29jgD69v38woQX85i"
+        "name": "Bluchanga",
+        "url": "https://open.spotify.com/album/4UxbD3B7SIIBphqtKpdTKU"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
         }
       ],
-      "duration_ms": 309813,
-      "name": "Para Machuchar Meu Coracao",
-      "url": "https://open.spotify.com/track/0jsezJ6ZF2MjxTGIqSQfWC"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "Pure Bossa Nova",
-        "url": "https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Este Seu Olhar",
-      "url": "https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm"
+      "duration_ms": 266986,
+      "name": "Bluchanga",
+      "url": "https://open.spotify.com/track/1zxMcomnqXDoPipY4ACR8t"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -863,22 +879,6 @@
       "duration_ms": 167000,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/7Fp9aHipEXSe218KJOQOG1"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "Bluchanga",
-        "url": "https://open.spotify.com/album/4UxbD3B7SIIBphqtKpdTKU"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "Bluchanga",
-      "url": "https://open.spotify.com/track/1zxMcomnqXDoPipY4ACR8t"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -919,6 +919,30 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
+        "name": "Getz/Gilberto",
+        "url": "https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Vivo Sonhando",
+      "url": "https://open.spotify.com/track/6tGwpf1CczvEvzVaDVUPjk"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
         "name": "The Sound Of Love",
         "url": "https://open.spotify.com/album/3KYK6KPU7EFjCsrt5cvsXC"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 181453,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/00KsnoekYhjdUu9yAPvXVh"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "Getz/Gilberto",
-        "url": "https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Vivo Sonhando",
-      "url": "https://open.spotify.com/track/6tGwpf1CczvEvzVaDVUPjk"
     },
     {
       "added_at": "2024-07-08 08:03:54",

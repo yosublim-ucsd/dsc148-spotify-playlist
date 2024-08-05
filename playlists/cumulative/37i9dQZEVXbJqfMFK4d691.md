@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bolivia.
 
-765 songs - 1 day 17 hr 48 min
+766 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,11 +82,12 @@
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 | 2022-08-30 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2021-03-27\* | 2021-08-03 |
 | [Bailando Conmigo](https://open.spotify.com/track/50oP4ToVfNdIQTDHr4dTyC) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Bailando Conmigo](https://open.spotify.com/album/3T02174EN2zNYSyjb7Um1N) | 3:13 | 2023-04-20 | 2024-06-12 |
+| [Bailando Conmigo](https://open.spotify.com/track/54zaCLddYYPF5MTHtJy4xc) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Bailando Conmigo](https://open.spotify.com/album/7djPbH5A3hZTfhjSevXD7E) | 3:13 | 2024-08-04 |  |
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-03-27\* | 2021-10-23 |
 | [Bang Bang](https://open.spotify.com/track/61YzdCCBPM5Pc7lIiD5i8C) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Troubadour](https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo) | 3:06 | 2021-12-27 | 2022-01-17 |
 | [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2021-11-14 | 2022-06-24 |
 | [BATICANO](https://open.spotify.com/track/5qzLdvRViHUrRNdkpakG7C) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:16 | 2023-10-14 | 2023-10-16 |
-| [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-07-20 |  |
+| [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-07-20 | 2024-08-05 |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2024-04-15 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-03-05 | 2024-04-07 |
 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 | 2023-01-05 | 2023-10-07 |

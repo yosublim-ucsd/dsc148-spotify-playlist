@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,641 songs - 3 day 13 hr 25 min
+1,642 songs - 3 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-11-30 | 2022-12-29 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-07-20 | 2023-01-16 |
 | [Ferrari \- D1MA Remix](https://open.spotify.com/track/7tleRLLNqW5yH7846TguuZ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU), [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [Ferrari \(D1MA Remix\)](https://open.spotify.com/album/5i0B1JwfduRTWXo34U0yoJ) | 2:52 | 2022-12-29 | 2023-05-07 |
+| [FIELD TRIP](https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:47 | 2024-08-04 |  |
 | [FIFTY](https://open.spotify.com/track/0St57Ts9cUkrHIQUeKYKe8) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [INGEN ROSER UDEN TORNE](https://open.spotify.com/album/5LgXmRK2qQq5NNnQA5tLUN) | 2:46 | 2022-06-04 | 2022-06-19 |
 | [Finally It's Christmas Again](https://open.spotify.com/track/58K5nAWRgdHtdUdrQaScGv) | [Youknowwho](https://open.spotify.com/artist/52jN7IKeNLSZvuFEjrM9ba), [Christina](https://open.spotify.com/artist/5huUF1XazRSvkFuuJxMjj4) | [Finally It's Christmas Again](https://open.spotify.com/album/4kznq1BDydGRs7rmEIYAwh) | 3:51 | 2021-11-28 | 2023-12-27 |
 | [Finde På \(feat\. Artigeardit & Sivas\)](https://open.spotify.com/track/6343QrkZ4Puef1ng6x00K9) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Hva ved de om Lams](https://open.spotify.com/album/0klSbgZIH2cjPlvtpPGQLE) | 2:33 | 2021-06-27 | 2021-06-28 |
@@ -856,7 +857,7 @@
 | [Kompliceret \(feat\. Sivas\)](https://open.spotify.com/track/1qxDqokn60CBm91c3zD4Io) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:13 | 2024-01-03 | 2024-01-14 |
 | [Komplimenter \(feat\. Shooter Gang\)](https://open.spotify.com/track/3r9OFjS4faHR2h8ZjZqQZV) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Komplimenter \(feat\. Shooter Gang\)](https://open.spotify.com/album/0QGxDExBFtpCMaaOiHk2Ec) | 3:21 | 2022-05-30 | 2022-06-05 |
 | [Kompromis](https://open.spotify.com/track/21buRwKEiznywpwdGp5jLL) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Kompromis](https://open.spotify.com/album/16CgqUDytyW5GhKkTqNRKN) | 3:06 | 2022-07-30 | 2022-09-02 |
-| [Kongen Af Danmark](https://open.spotify.com/track/5uIy18j51mPvUhDcrGuj1p) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Kongen Af Danmark](https://open.spotify.com/album/6D5w04x7LcIocDSvBcSrPi) | 3:57 | 2024-05-25 |  |
+| [Kongen Af Danmark](https://open.spotify.com/track/5uIy18j51mPvUhDcrGuj1p) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Kongen Af Danmark](https://open.spotify.com/album/6D5w04x7LcIocDSvBcSrPi) | 3:57 | 2024-05-25 | 2024-08-05 |
 | [Kongespil \- Tinka og Kongespillet](https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ) | [Midt I En Drøm Eller Noget Der Ligner](https://open.spotify.com/album/0Ac80GpaaAu8pUGfjO6Swb) | 2:50 | 2021-11-23 | 2023-12-30 |
 | [Kronisk Skeptisk](https://open.spotify.com/track/3ePrkdVdaGpT5EZBnMe2lZ) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 1:45 | 2022-09-03 | 2022-09-05 |
 | [Krop & Sjæl](https://open.spotify.com/track/4HJxQ1Xo3UTU9DB21Vo5wr) | [Uden Filter](https://open.spotify.com/artist/5BkScp9mw63dqYXNnCVcPB), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Krop & Sjæl](https://open.spotify.com/album/3mrTx0TQHpCv7HBMNLZ7NU) | 2:32 | 2023-05-27 | 2023-05-30 |

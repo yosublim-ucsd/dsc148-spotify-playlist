@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 ### [This Is Kaliii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq)
 
-> This is Kaliii\. The essential tracks, all in one playlist.
+> This Is Kaliii\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 3,689 likes - 49 songs - 2 hr 17 min
 
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 48 | [12](https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM) | [Foe](https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [12](https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1) | 3:11 |
 | 49 | [Y'all Want Me \(Remix\)](https://open.spotify.com/track/5Twf9Om6Y90LR24Ickm0SP) | [John'nay Lasha](https://open.spotify.com/artist/0vcMP4qw5S5V7D3YUgOuFG), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Y'all Want Me \(Remix\)](https://open.spotify.com/album/6cFfBIJZ4E71VVBOUkIUAr) | 3:15 |
 
-Snapshot ID: `ZqrQAAAAAABRpKTMJPHvriJU2prE8GZF`
+Snapshot ID: `ZqrQAAAAAACZKR0DjEr91iA9VuopBGwS`

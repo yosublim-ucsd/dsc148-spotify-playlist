@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: VINI \(Thailand\)
 
-1,449 songs - 3 day 15 hr 19 min
+1,450 songs - 3 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-16 | 2023-04-14 |
 | [A380](https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [A380](https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN) | 3:38 | 2023-03-23 | 2023-05-09 |
 | [Abeokuta](https://open.spotify.com/track/3nqujATHQsyEg104eXcaNI) | [Ki!](https://open.spotify.com/artist/68ZbJ6NBdeGlDRxv3jM0DP) | [The Boy from Haeundae Beach](https://open.spotify.com/album/4xcpRLcCpNEcAzPyR5GIHO) | 4:13 | 2022-11-17 | 2023-01-20 |
-| [Abettor（影集《塑膠花》片尾曲）](https://open.spotify.com/track/7vPtWXSa2qyBNQ5a2p0FsG) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Abettor（影集《塑膠花》片尾曲）](https://open.spotify.com/album/1blZ7rVZHKi6SW5n4U5vrv) | 3:57 | 2024-04-18 |  |
+| [Abettor（影集《塑膠花》片尾曲）](https://open.spotify.com/track/7vPtWXSa2qyBNQ5a2p0FsG) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Abettor（影集《塑膠花》片尾曲）](https://open.spotify.com/album/1blZ7rVZHKi6SW5n4U5vrv) | 3:57 | 2024-04-18 | 2024-08-05 |
 | [Acervation](https://open.spotify.com/track/1WDBTG5GxhEqETVuOlyESU) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Acervation](https://open.spotify.com/album/5HGJXHbUXFfMXwHdwjFanD) | 3:49 | 2023-10-12 | 2023-11-10 |
 | [Adolescence](https://open.spotify.com/track/6HWCh9JBOFAJ1nQmaQn0Rx) | [VVAS](https://open.spotify.com/artist/4JqgpBh90G3CofWnz8QKkc), [Wave And So](https://open.spotify.com/artist/7tGqjrytCoVKlwyqkkFE4f) | [Eyesore](https://open.spotify.com/album/0bqsBeug05U8OTSQzzTXhN) | 3:51 | 2024-02-29 | 2024-03-15 |
 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 | 2023-08-03 | 2023-09-16 |
@@ -1045,6 +1045,7 @@
 | [Stationary Bike](https://open.spotify.com/track/6VRvc0MJnGEoxBJJE81iyM) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [Stationary Bike](https://open.spotify.com/album/0iTtw3q2b3w5krUub6W9Ed) | 2:46 | 2023-05-12 | 2023-05-19 |
 | [stay away go!](https://open.spotify.com/track/40Ud4qavLWVlzy0oFgvo71) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [internet teenage lover](https://open.spotify.com/album/0NT5ZBUomUJezXJAZtKXOK) | 4:34 | 2023-12-18 | 2024-03-29 |
 | [Stay Down](https://open.spotify.com/track/79R9bqUjcNpxbVHussLqne) | [Common People Like You](https://open.spotify.com/artist/485LFmKmOvxKT55DHC3Njm) | [Stay Down](https://open.spotify.com/album/4KjIXvJyUVVU9ZriV8Um46) | 3:48 | 2023-11-01 | 2023-11-24 |
+| [Staying up All Night](https://open.spotify.com/track/6V6T7ObBtnC07VQh4BX8Cr) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Staying up All Night](https://open.spotify.com/album/6bMmhb1GtaxLT3YLBknocB) | 3:22 | 2024-08-01 |  |
 | [STeAKFACe\*\* ᕙ\(⇀‸↼‶\)ᕗ](https://open.spotify.com/track/7KATT8Q9RnpLz8w7n6oJdG) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [STeAKFACe\*\* ᕙ\(⇀‸↼‶\)ᕗ](https://open.spotify.com/album/5VySVRfSsU377GubJd5Sfy) | 3:15 | 2024-02-01 | 2024-04-02 |
 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 | 2022-04-21 | 2022-05-27 |
 | [Still TV](https://open.spotify.com/track/06Kowi9KHQG0Tr6xTrR9L6) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Still TV](https://open.spotify.com/album/77scd2071T2lh7WbambsIQ) | 2:59 | 2022-06-23 | 2022-07-29 |

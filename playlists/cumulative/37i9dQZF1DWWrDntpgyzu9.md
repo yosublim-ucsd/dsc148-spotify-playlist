@@ -4,7 +4,7 @@
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
 
-188 songs - 11 hr 33 min
+189 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Café](https://open.spotify.com/track/6i9ToXS6CAfjpp8veBklg1) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 3:10 | 2021-09-22 | 2022-07-28 |
 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Ao Vivo / Remastered\)](https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT) | 4:16 | 2021-09-22 | 2022-07-28 |
 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2023-12-01 |  |
-| [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 | 2023-12-01 |  |
+| [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 | 2023-12-01 | 2024-08-05 |
 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 | 2022-11-09 |  |
 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 | 2023-12-01 |  |
 | [Cheguei](https://open.spotify.com/track/6cbZb9mVAc5s8HtwklLoI0) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:54 | 2021-09-22 | 2022-06-27 |
@@ -88,6 +88,7 @@
 | [Largado As Traças \- Acústico](https://open.spotify.com/track/74gguwbBvfBTurNJUWFOsC) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano \- Acústico](https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN) | 3:37 | 2021-09-22 | 2022-07-28 |
 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 | 2021-09-22 | 2024-04-19 |
 | [Liberdade Provisória \- Ao Vivo](https://open.spotify.com/track/3Ghyp3X5Ua9ypHnBIgOObI) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo no Ibirapuera, Vol\. 1](https://open.spotify.com/album/0P8BJygXjQmRzkyTFHTBIQ) | 3:07 | 2021-09-22 | 2022-07-29 |
+| [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 | 2024-08-02 |  |
 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 | 2024-04-26 |  |
 | [Linda](https://open.spotify.com/track/6ALXhCtReKYxst5J0hWE2z) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Linda](https://open.spotify.com/album/0yUG7cuIKqq5Vvuw2m1vXQ) | 2:55 | 2021-09-22 | 2022-07-29 |
 | [Litrão \- Ao Vivo Em Recife / 2020](https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [10 Anos Na Praia \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl) | 2:50 | 2021-09-22 | 2022-07-29 |

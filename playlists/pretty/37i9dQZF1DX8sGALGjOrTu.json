@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 484230,
+  "num_followers": 484309,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
+        "name": "What Separates Me From You",
+        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
         "name": "Selfish Machines",
         "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
       },
@@ -175,54 +191,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
-        "name": "What Separates Me From You",
-        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
-        "name": "Dying Is Your Latest Fashion",
-        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Not Good Enough For Truth In Clich\u00e9",
-      "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
@@ -235,6 +203,22 @@
       "duration_ms": 366560,
       "name": "Demolition Lovers",
       "url": "https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -271,22 +255,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "A Flair For The Dramatic",
-        "url": "https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 264413,
-      "name": "Yeah Boy and Doll Face",
-      "url": "https://open.spotify.com/track/51rIDh0FOCNCFkdbtIOyU0"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
       },
@@ -299,6 +267,22 @@
       "duration_ms": 207586,
       "name": "My Heroine",
       "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "A Flair For The Dramatic",
+        "url": "https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "Yeah Boy and Doll Face",
+      "url": "https://open.spotify.com/track/51rIDh0FOCNCFkdbtIOyU0"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -319,8 +303,8 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "This War Is Ours (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+        "name": "Dying Is Your Latest Fashion",
+        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
       },
       "artists": [
         {
@@ -328,9 +312,25 @@
           "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
         }
       ],
-      "duration_ms": 266733,
-      "name": "This War Is Ours (The Guillotine II)",
-      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
+      "duration_ms": 231506,
+      "name": "Not Good Enough For Truth In Clich\u00e9",
+      "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 231096,
       "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
       "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "This War Is Ours (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "This War Is Ours (The Guillotine II)",
+      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "I Caught Fire",
+      "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
         "name": "The City Sleeps in Flames",
         "url": "https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3"
       },
@@ -511,38 +527,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Define The Great Line",
-        "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 242413,
-      "name": "Writing On The Walls",
-      "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "I Caught Fire",
-      "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 207693,
       "name": "The Days Of The Phoenix",
       "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Define The Great Line",
+        "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 242413,
+      "name": "Writing On The Walls",
+      "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -587,6 +587,22 @@
       "duration_ms": 203240,
       "name": "Stare At The Sun",
       "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "A Box Full of Sharp Objects",
+      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -655,22 +671,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Accidents",
-      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "What It Is To Burn",
         "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
       },
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 176373,
-      "name": "A Box Full of Sharp Objects",
-      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+      "duration_ms": 249066,
+      "name": "Accidents",
+      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -735,18 +735,34 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+        "name": "The Weak's End",
+        "url": "https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
         }
       ],
-      "duration_ms": 237826,
-      "name": "Boiled Frogs",
-      "url": "https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO"
+      "duration_ms": 203706,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Juturna",
+        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Act Appalled",
+      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -767,22 +783,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "The Weak's End",
-        "url": "https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a"
-      },
-      "artists": [
-        {
-          "name": "Emery",
-          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "On Frail Wings Of Vanity And Wax",
         "url": "https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 185333,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
-        "name": "Juturna",
-        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Act Appalled",
-      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -843,6 +827,22 @@
       "duration_ms": 208960,
       "name": "Bulls Make Money, Bears Make Money, Pigs Get Slaughtered",
       "url": "https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Boiled Frogs",
+      "url": "https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 171831,
+      "name": "Error Operator",
+      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
         "name": "After The Eulogy",
         "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 226800,
       "name": "Changing",
       "url": "https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
-        "name": "Louder Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 171831,
-      "name": "Error Operator",
-      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Ride The Wings Of Pestilence",
-      "url": "https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Casually Dressed And Deep In Conversation",
         "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 216853,
       "name": "Juneau",
       "url": "https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Ride The Wings Of Pestilence",
+      "url": "https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "All It Takes For Your Dreams To Come True",
-      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Vheissu",
         "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 254853,
       "name": "Image Of The Invisible",
       "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "All It Takes For Your Dreams To Come True",
+      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "I'm Not A Thief, I'm A Treasure Hunter",
-      "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/7ju4BQgiknmVAQSb2V3vky"
       },
@@ -1195,6 +1163,22 @@
       "duration_ms": 169066,
       "name": "Blueprints For Future Homes",
       "url": "https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "I'm Not A Thief, I'm A Treasure Hunter",
+      "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
         "name": "White Lies",
         "url": "https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "There For Tomorrow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZRygrECnzHvuOjRXnQtkd"
-      },
-      "artists": [
-        {
-          "name": "There For Tomorrow",
-          "url": "https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/1xJULOj0c01wovNn42lOsC"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "In the Wake of Determination",
         "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 247386,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "There For Tomorrow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZRygrECnzHvuOjRXnQtkd"
+      },
+      "artists": [
+        {
+          "name": "There For Tomorrow",
+          "url": "https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/1xJULOj0c01wovNn42lOsC"
     },
     {
       "added_at": "2024-07-02 15:11:08",

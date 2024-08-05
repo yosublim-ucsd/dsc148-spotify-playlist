@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Charli xcx, Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,540 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,536 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

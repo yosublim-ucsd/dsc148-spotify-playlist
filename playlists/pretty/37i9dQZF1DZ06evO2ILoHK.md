@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 
 ### [This Is Basement](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ILoHK)
 
-> This is Basement\. The essential tracks, all in one playlist.
+> This Is Basement\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,013 likes - 34 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,022 likes - 34 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 | 33 | [Slip Away](https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 2:57 |
 | 34 | [Right Here](https://open.spotify.com/track/5c8JiWMPVKCpNyLyFJZvpa) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 4:07 |
 
-Snapshot ID: `ZqrQAAAAAAA4J+Gm7YS9neVzDh6kY5dq`
+Snapshot ID: `ZqrQAAAAAADjd+hhl3Aa6L96mzi6/65o`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAE2Rko7GuokaggI2EULLVd",
+  "snapshot_id": "AAAAAAAAAACX/69c5TG/sIezN89xiOmv",
   "tracks": [
     {
       "added_at": "2024-08-02 04:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Necessary Evil",
-        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Necessary Evil",
-      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Somewhere Far Beyond (Revisited)",
         "url": "https://open.spotify.com/album/6xGJmXBiu1afT8eN13KBOJ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 207466,
       "name": "The Bard's Song - In the Forest - Revisited",
       "url": "https://open.spotify.com/track/2og2RFuX8c1iThdlLmV2RW"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Necessary Evil",
+        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Necessary Evil",
+      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Mind Games (The Ultimate Mixes)",
-        "url": "https://open.spotify.com/album/1OvM2qfi9XXUmRaJ7egwNj"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "I'm The Greatest - Ultimate Mix",
-      "url": "https://open.spotify.com/track/0CiKKYLQXZeGjsU7RkvszK"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Cosmic",
         "url": "https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 189394,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/34cdCSNJBuctt5KKC1ch2k"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Mind Games (The Ultimate Mixes)",
+        "url": "https://open.spotify.com/album/1OvM2qfi9XXUmRaJ7egwNj"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "I'm The Greatest - Ultimate Mix",
+      "url": "https://open.spotify.com/track/0CiKKYLQXZeGjsU7RkvszK"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Nothing Left",
-        "url": "https://open.spotify.com/album/2afCiPorAlMyUaX2LVSIGv"
-      },
-      "artists": [
-        {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
-        },
-        {
-          "name": "Solar Fake",
-          "url": "https://open.spotify.com/artist/1ZJYzl0sevnazdNkEYsAOW"
-        }
-      ],
-      "duration_ms": 290368,
-      "name": "Nothing Left",
-      "url": "https://open.spotify.com/track/6LvSq1JBUI0ukokYcplW89"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Laid to Rest (HEALTH Remix)",
         "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 158604,
       "name": "Laid to Rest - HEALTH Remix",
       "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Nothing Left",
+        "url": "https://open.spotify.com/album/2afCiPorAlMyUaX2LVSIGv"
+      },
+      "artists": [
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        },
+        {
+          "name": "Solar Fake",
+          "url": "https://open.spotify.com/artist/1ZJYzl0sevnazdNkEYsAOW"
+        }
+      ],
+      "duration_ms": 290368,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/6LvSq1JBUI0ukokYcplW89"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -455,6 +455,34 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Black Mold",
+        "url": "https://open.spotify.com/album/1G06wIGTvexsq1xiXGdfnX"
+      },
+      "artists": [
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Craig Mabbitt",
+          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Black Mold",
+      "url": "https://open.spotify.com/track/0uOLM57T5P4nRq2ul5u65X"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Cypher G",
         "url": "https://open.spotify.com/album/19xrX25PPln3Xf8o0ISutp"
       },
@@ -483,34 +511,6 @@
       "duration_ms": 234000,
       "name": "Cypher G",
       "url": "https://open.spotify.com/track/3PX5Ni0gE0HPg06xfaU5x0"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Black Mold",
-        "url": "https://open.spotify.com/album/1G06wIGTvexsq1xiXGdfnX"
-      },
-      "artists": [
-        {
-          "name": "Silos",
-          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "Craig Mabbitt",
-          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Black Mold",
-      "url": "https://open.spotify.com/track/0uOLM57T5P4nRq2ul5u65X"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "And Waves of Dreams",
-        "url": "https://open.spotify.com/album/4MaeSCqaXnO0RR0r42YLXx"
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu"
       },
       "artists": [
         {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 142000,
-      "name": "And Waves of Dreams",
-      "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
+      "duration_ms": 170640,
+      "name": "Here I am",
+      "url": "https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu"
+        "name": "And Waves of Dreams",
+        "url": "https://open.spotify.com/album/4MaeSCqaXnO0RR0r42YLXx"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
         }
       ],
-      "duration_ms": 170640,
-      "name": "Here I am",
-      "url": "https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9"
+      "duration_ms": 142000,
+      "name": "And Waves of Dreams",
+      "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -647,26 +647,6 @@
       "duration_ms": 175463,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Country Roads, Take Me Home (2024 Mix)",
-        "url": "https://open.spotify.com/album/1tOOCHUQSI6JJjmgW2nYD4"
-      },
-      "artists": [
-        {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
-        },
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 138118,
-      "name": "Country Roads, Take Me Home - 2024 Mix",
-      "url": "https://open.spotify.com/track/0PCRNtWlXWMcf3HlDhDa3i"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -699,6 +679,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Country Roads, Take Me Home (2024 Mix)",
+        "url": "https://open.spotify.com/album/1tOOCHUQSI6JJjmgW2nYD4"
+      },
+      "artists": [
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+        },
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 138118,
+      "name": "Country Roads, Take Me Home - 2024 Mix",
+      "url": "https://open.spotify.com/track/0PCRNtWlXWMcf3HlDhDa3i"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/7a0OPrgyDJVQmlvYKwKkCS"
       },
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Bask in the Blood of Our Demons - EP",
+        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
+      },
+      "artists": [
+        {
+          "name": "Unearth",
+          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "Warrior Souls",
+      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Plays Metallica, Vol. 2",
         "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 574634,
       "name": "One (feat. Robert Trujillo) - Instrumental",
       "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Bask in the Blood of Our Demons - EP",
-        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
-      },
-      "artists": [
-        {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Warrior Souls",
-      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -823,22 +823,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
-        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+        "name": "Fading Like A Rose - EP",
+        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 173350,
-      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
-      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
+      "duration_ms": 155409,
+      "name": "Fading Like A Rose (Everytime Remix)",
+      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -863,18 +859,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Fading Like A Rose - EP",
-        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
+        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 155409,
-      "name": "Fading Like A Rose (Everytime Remix)",
-      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
     },
     {
       "added_at": "2024-08-02 04:00:00",

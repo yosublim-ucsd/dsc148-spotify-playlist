@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 04 Aug 22:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 04 Aug 04:02 UTC.
 
-1,471 songs - 3 day 9 hr 43 min
+1,473 songs - 3 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Death Grips](https://open.spotify.com/track/2xXgWlANgNbcuFZhD7NFSc) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Death Grips](https://open.spotify.com/album/0fK8Tmhs1ku4p3XAxJJrXd) | 3:33 | 2024-06-13 | 2024-06-15 |
 | [Death of the Party](https://open.spotify.com/track/2VUi7RJrMOf9VgQ3WwGHLO) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Death of the Party](https://open.spotify.com/album/4HkMwpGaFKkuP2FmmdVpeC) | 2:43 | 2024-07-05 | 2024-07-07 |
 | [Death Valley High](https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Death Valley High](https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb) | 2:40 | 2024-07-12 | 2024-07-16 |
-| [Decarabia](https://open.spotify.com/track/3Ie94l4qlS47GeIvzHLuVH) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Decarabia](https://open.spotify.com/album/7DCBSgIgSATKoG75slNunN) | 3:40 | 2024-08-01 |  |
+| [Decarabia](https://open.spotify.com/track/3Ie94l4qlS47GeIvzHLuVH) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Decarabia](https://open.spotify.com/album/7DCBSgIgSATKoG75slNunN) | 3:40 | 2024-08-01 | 2024-08-05 |
 | [Deeper Than Holy \- Radio Edit](https://open.spotify.com/track/1wrUb6JHPbYx30rUaDjuUQ) | [Pastel](https://open.spotify.com/artist/45Tlc11sM7ZCtAkCA9Nrx9) | [Deeper Than Holy \(Radio Edit\)](https://open.spotify.com/album/5vTrz3AK7cyl8gpuSkeHmD) | 3:44 | 2024-07-15 | 2024-07-18 |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-05-10 | 2024-05-14 |
 | [Del Oro](https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Del Oro](https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0) | 6:14 | 2024-06-04 | 2024-06-06 |
@@ -541,6 +541,7 @@
 | [guardian](https://open.spotify.com/track/4lm8Yub4q6Tc1U8nBHnp87) | [BRUHMANEGOD](https://open.spotify.com/artist/4jKJcl7HTKV6FXKizgJiaY), [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [guardian](https://open.spotify.com/album/7EPcsutcoS80QtOzM2fI4L) | 4:25 | 2024-05-11 | 2024-05-15 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 | 2024-08-03 |
 | [guidance](https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [guidance](https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs) | 3:35 | 2024-07-30 | 2024-08-02 |
+| [GUILT \(INTERLUDE\)](https://open.spotify.com/track/0Xue33evzs23fiHffWy2c3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [GUILT \(INTERLUDE\)](https://open.spotify.com/album/3ydGShJ5PF8xxnXBQH7OPx) | 2:12 | 2024-08-04 |  |
 | [GUMSHOE](https://open.spotify.com/track/0uATv7UfsWv4WuDbcq8MQ2) | [Jimmy Poindexter](https://open.spotify.com/artist/5vMbZePneBfRUDZhrIRFZ5) | [GUMSHOE](https://open.spotify.com/album/1Qy0NFoVd7ia9Ir8Fya8Cx) | 4:38 | 2024-07-23 | 2024-07-27 |
 | [Gunsmif](https://open.spotify.com/track/5fe0xUQfEAYE45XwN0h2wC) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Gunsmif](https://open.spotify.com/album/3I1tjuKTVsY4Wt2d0rVM1U) | 1:51 | 2024-05-13 | 2024-05-15 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-26 | 2024-08-01 |
@@ -916,7 +917,7 @@
 | [NOW IS THE TIME](https://open.spotify.com/track/11reRtXKSalcmr5aB8R8FT) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Hus KingPin](https://open.spotify.com/artist/4IBACd17ekILQx6xdtKxyI), [Compton Menace](https://open.spotify.com/artist/39NSbbKVT4Mn8oJEhOSiyV) | [NOW IS THE TIME](https://open.spotify.com/album/1AtGIVwhy4cRl19AM9zflA) | 3:44 | 2024-07-19 | 2024-07-21 |
 | [NYA?](https://open.spotify.com/track/19O7fsiR88lSorOjMkJiJL) | [yurisa](https://open.spotify.com/artist/3bxT3ndZXZjV1teNLoW6fe) | [NYA?](https://open.spotify.com/album/30lhi3ekDv2QIVKP83gUw1) | 4:09 | 2024-05-20 | 2024-05-23 |
 | [Nó](https://open.spotify.com/track/49emwrCApbNt5SVvSc32d4) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D) | [Nó](https://open.spotify.com/album/47IqykpFwqKhoH1he7GXYJ) | 2:52 | 2024-04-30 | 2024-05-02 |
-| [O primm post](https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [O primm post](https://open.spotify.com/album/1iN6xB7mC9JKl83O4ZMtt4) | 3:50 | 2024-08-02 |  |
+| [O primm post](https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [O primm post](https://open.spotify.com/album/1iN6xB7mC9JKl83O4ZMtt4) | 3:50 | 2024-08-02 | 2024-08-05 |
 | [Oblivion](https://open.spotify.com/track/7xMkYj57VjZN8HjLEc3eTY) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Oblivion](https://open.spotify.com/album/6TX5kexYIRx74evKMySRxb) | 6:03 | 2024-05-21 | 2024-05-24 |
 | [Obsessed \(Grimes DJ Edit\)](https://open.spotify.com/track/3e5zzhT10KW2fRWNmJwBvD) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Obsessed \(Grimes DJ Edit\)](https://open.spotify.com/album/6mVmPcTGpmdk1Gtu7qPtaT) | 4:07 | 2024-08-02 | 2024-08-04 |
 | [OCEAN'S ELEVEN](https://open.spotify.com/track/65Yk3CZedWIFu0Jm7choGq) | [Glorb](https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih) | [OCEAN'S ELEVEN](https://open.spotify.com/album/4KLaJWrhEqvQwmEzi3bBki) | 3:02 | 2024-06-20 | 2024-06-22 |
@@ -956,6 +957,7 @@
 | [Para Lennon e McCartney](https://open.spotify.com/track/4nXTHj9GmG8jxaKjopBcqK) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Para Lennon e McCartney](https://open.spotify.com/album/5Vm3PCwxFiamaMoZzH0NIc) | 2:51 | 2024-05-11 | 2024-05-15 |
 | [Paracaídas](https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paracaídas](https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6) | 2:45 | 2024-06-14 | 2024-06-19 |
 | [Paralyzed](https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Paralyzed](https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD) | 3:15 | 2024-06-26 | 2024-06-29 |
+| [PARANOIA](https://open.spotify.com/track/0JEBGDE606MtNgI4BZinFH) | [Chauncey666](https://open.spotify.com/artist/2RrDgEA06BdjYXlzCHRmUh) | [PARANOIA](https://open.spotify.com/album/06uoX3aAmIFypUIblVoQnp) | 2:51 | 2024-08-04 |  |
 | [Parklife \- Live at Wembley Stadium](https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Live at Wembley Stadium\)](https://open.spotify.com/album/3ZzDxJVNHIgXbeiSXwtDqY) | 3:50 | 2024-06-05 | 2024-06-07 |
 | [Party Never Ends](https://open.spotify.com/track/61LV4axlniLckSeyB15HtC) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG) | [Party Never Ends](https://open.spotify.com/album/5mJPlL9P5oLexaBWyP0jys) | 2:10 | 2024-07-22 | 2024-07-25 |
 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-26 | 2024-08-01 |

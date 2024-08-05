@@ -4,7 +4,7 @@
 
 > BLACKPINK in our area! Join us as we celebrate 8 years with BLACKPINK!
 
-88 songs - 4 hr 45 min
+93 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,10 @@
 | [DDU\-DU DDU\-DU \- Live](https://open.spotify.com/track/437Wn1icOBdhQaVnpJpl0F) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL \(Live\)](https://open.spotify.com/album/4i0XmhtxZBPxwpgNeJ1Tvg) | 3:30 | 2020-08-28 | 2024-04-19 |
 | [DDU\-DU DDU\-DU \- Live](https://open.spotify.com/track/69Bi7veKMrb2mRq00HkRyO) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL \- Live](https://open.spotify.com/album/1Q2x3A0YKL8IB7FYL82QiS) | 3:30 | 2020-08-28 |  |
 | [DDU\-DU DDU\-DU \- Remix](https://open.spotify.com/track/4sz6sircK4Jn2SZSHgd96h) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:21 | 2020-08-28 | 2024-04-19 |
+| [DDU\-DU DDU\-DU \- Remix JP Ver.](https://open.spotify.com/track/2ERO7JFeaRMIdlEn9JTryn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DDU\-DU DDU\-DU \(Remix JP Ver.\)](https://open.spotify.com/album/37OWAhKTXeHFcPPTkADa5v) | 3:21 | 2024-08-04 |  |
 | [Don't Know What To Do](https://open.spotify.com/track/38SKB7UfhL6Sd6Joxex5yK) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:21 | 2020-08-28 | 2024-04-19 |
 | [Don't Know What To Do](https://open.spotify.com/track/7ibZWzytUh41z5ycK2I5N8) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:21 | 2020-08-28 |  |
+| [DON'T KNOW WHAT TO DO \- JP Ver.](https://open.spotify.com/track/38eKmp6QjELXKgLh0pePfG) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE \(JP Ver.\)](https://open.spotify.com/album/0uWttVLwkFxcW1PkBAsmZd) | 3:20 | 2024-08-04 |  |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-04-03 | 2024-04-19 |
 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 | 2023-04-03 |  |
 | [Forever Young](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:57 | 2020-08-28 |  |
@@ -38,6 +40,7 @@
 | [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2022-09-16 |  |
 | [Hope Not](https://open.spotify.com/track/3eZD5DZGibwxMAOaCMBg3k) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2020-08-28 | 2024-04-19 |
 | [Hope Not](https://open.spotify.com/track/6euC2yxyQA6uztolUYnhiW) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:11 | 2020-08-28 |  |
+| [HOPE NOT \- JP Ver.](https://open.spotify.com/track/04xEHIAK4MsI7ZSN1hSDQN) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE \(JP Ver.\)](https://open.spotify.com/album/0uWttVLwkFxcW1PkBAsmZd) | 3:11 | 2024-08-04 |  |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-08-28 |  |
 | [How You Like That](https://open.spotify.com/track/6y6k14YN6MbKpGIv1Rk00Q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/1AkGUEtocePYti6xefsECx) | 3:01 | 2020-10-02 |  |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2020-08-28 | 2024-04-19 |
@@ -46,8 +49,10 @@
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 | 2020-08-28 | 2024-04-19 |
 | [Kick It](https://open.spotify.com/track/4rsoLz7ZY1Ldz8dpm4Lqtg) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2020-08-28 | 2024-04-19 |
 | [Kick It](https://open.spotify.com/track/6MN6oiT2d7qxYEOwXwgV34) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:11 | 2020-08-28 |  |
+| [KICK IT \- JP Ver.](https://open.spotify.com/track/6HHbjSWWGh6j9JcmLZ41Py) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE \(JP Ver.\)](https://open.spotify.com/album/0uWttVLwkFxcW1PkBAsmZd) | 3:11 | 2024-08-04 |  |
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2020-08-28 |  |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2020-08-28 | 2024-04-19 |
+| [KILL THIS LOVE \- JP Ver.](https://open.spotify.com/track/3mpGXkkjhY8K5C9OsaCMBo) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE \(JP Ver.\)](https://open.spotify.com/album/0uWttVLwkFxcW1PkBAsmZd) | 3:09 | 2024-08-04 |  |
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-09-10 |  |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-10 | 2024-04-19 |
 | [Love To Hate Me](https://open.spotify.com/track/09JE599HkmbidwGWyD4ZGy) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 2:49 | 2020-10-02 |  |

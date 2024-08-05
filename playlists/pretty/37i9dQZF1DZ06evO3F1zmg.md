@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 ### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This is Saweetie\. The essential tracks, all in one playlist.
+> This Is Saweetie\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,472 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,479 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 50 | [My Girlfriends Are My Boyfriend \(feat\. Saweetie\)](https://open.spotify.com/track/3Ge1KFkRXKJgPz3keyQWaw) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 3:07 |
 | 51 | [Seesaw \(feat\. Saweetie\)](https://open.spotify.com/track/1rlASnWYQsgGz9g2YVCl6I) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Seesaw](https://open.spotify.com/album/0fR9mr0fEAvAlLl0Ks5E0B) | 3:44 |
 
-Snapshot ID: `ZqrQAAAAAABKYTUs8hTjy06QK+9Awx8U`
+Snapshot ID: `ZqrQAAAAAACXOvp2yZ/+JQtFZSX3Vmws`

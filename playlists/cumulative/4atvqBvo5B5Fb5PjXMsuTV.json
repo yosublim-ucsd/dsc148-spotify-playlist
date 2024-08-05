@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Aug 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Aug 04:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -5784,7 +5784,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 220252,
       "name": "Decarabia",
       "url": "https://open.spotify.com/track/3Ie94l4qlS47GeIvzHLuVH"
@@ -10216,6 +10216,24 @@
       "duration_ms": 215198,
       "name": "guidance",
       "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
+    },
+    {
+      "album": {
+        "name": "GUILT (INTERLUDE)",
+        "url": "https://open.spotify.com/album/3ydGShJ5PF8xxnXBQH7OPx"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132666,
+      "name": "GUILT (INTERLUDE)",
+      "url": "https://open.spotify.com/track/0Xue33evzs23fiHffWy2c3"
     },
     {
       "album": {
@@ -17424,7 +17442,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 230399,
       "name": "O primm post",
       "url": "https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5"
@@ -18206,6 +18224,24 @@
       "duration_ms": 195555,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr"
+    },
+    {
+      "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/06uoX3aAmIFypUIblVoQnp"
+      },
+      "artists": [
+        {
+          "name": "Chauncey666",
+          "url": "https://open.spotify.com/artist/2RrDgEA06BdjYXlzCHRmUh"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/0JEBGDE606MtNgI4BZinFH"
     },
     {
       "album": {

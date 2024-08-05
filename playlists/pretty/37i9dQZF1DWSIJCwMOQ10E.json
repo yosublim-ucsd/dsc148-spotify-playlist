@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
-  "num_followers": 95102,
+  "num_followers": 95106,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "CANTO A LA VIDA",
-        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "CANTO A LA VIDA",
-      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
         "name": "Suavemente...Los Exitos",
         "url": "https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 249626,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/2aDFka2ORQkraeJXkYkGxl"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "CANTO A LA VIDA",
+        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "CANTO A LA VIDA",
+      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
     },
     {
       "added_at": "2024-07-12 18:43:55",
@@ -591,6 +591,54 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/61BoBnTname2M5evtYyU6k"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "5 A\u00f1os Aferrados al Sabor",
+        "url": "https://open.spotify.com/album/48MJqCk8jUoM5zU9HWeQJN"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 334132,
+      "name": "Un Vestido Bonito",
+      "url": "https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "Vallenato Apretao",
+        "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 158120,
+      "name": "Vallenato Apretao",
+      "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
@@ -627,38 +675,6 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/61BoBnTname2M5evtYyU6k"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
-        "name": "5 A\u00f1os Aferrados al Sabor",
-        "url": "https://open.spotify.com/album/48MJqCk8jUoM5zU9HWeQJN"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 334132,
-      "name": "Un Vestido Bonito",
-      "url": "https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
         "name": "Desde Mi Ventana",
         "url": "https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "Vallenato Apretao",
-        "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 158120,
-      "name": "Vallenato Apretao",
-      "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -703,6 +703,30 @@
       "duration_ms": 280906,
       "name": "Mala Memoria",
       "url": "https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
+        "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Robinson Dami\u00e1n",
+          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
+        },
+        {
+          "name": "Los Gigantes",
+          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
+        }
+      ],
+      "duration_ms": 239637,
+      "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
+      "url": "https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW"
     },
     {
       "added_at": "2024-07-12 18:43:55",
@@ -787,30 +811,6 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
-        "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Robinson Dami\u00e1n",
-          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
-        },
-        {
-          "name": "Los Gigantes",
-          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
-        }
-      ],
-      "duration_ms": 239637,
-      "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
-      "url": "https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
         "name": "C\u00f3mo No Amarte",
         "url": "https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "Persona Ideal",
-        "url": "https://open.spotify.com/album/7caeVU9hU1Jn0KPLXBlGeX"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 283272,
-      "name": "Persona Ideal",
-      "url": "https://open.spotify.com/track/0u2LbmKA70atp4J59QUnHW"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
         "name": "S\u00f3lo Hits",
         "url": "https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 309920,
       "name": "Cali Pachanguero",
       "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "Persona Ideal",
+        "url": "https://open.spotify.com/album/7caeVU9hU1Jn0KPLXBlGeX"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 283272,
+      "name": "Persona Ideal",
+      "url": "https://open.spotify.com/track/0u2LbmKA70atp4J59QUnHW"
     }
   ],
   "unique_name": "Rumba Colombiana",

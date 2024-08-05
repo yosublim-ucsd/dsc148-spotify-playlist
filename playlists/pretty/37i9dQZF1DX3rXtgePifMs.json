@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 107023,
+  "num_followers": 107149,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Paragon Songs",
-        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
-      },
-      "artists": [
-        {
-          "name": "whenyoung",
-          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Gan Ainm",
-      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -1055,6 +1039,38 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Paragon Songs",
+        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
+      },
+      "artists": [
+        {
+          "name": "whenyoung",
+          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Gan Ainm",
+      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "TOMMY",
+        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
+      },
+      "artists": [
+        {
+          "name": "WALKER.",
+          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
+        }
+      ],
+      "duration_ms": 212521,
+      "name": "TOMMY",
+      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1079,22 +1095,6 @@
       "duration_ms": 155071,
       "name": "Why You Waiting?",
       "url": "https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "TOMMY",
-        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
-      },
-      "artists": [
-        {
-          "name": "WALKER.",
-          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
-        }
-      ],
-      "duration_ms": 212521,
-      "name": "TOMMY",
-      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "EYELIDS",
+        "url": "https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        },
+        {
+          "name": "Cole Bleu",
+          "url": "https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S"
+        }
+      ],
+      "duration_ms": 126744,
+      "name": "EYELIDS",
+      "url": "https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Absolutely Tidy",
         "url": "https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 171726,
       "name": "Absolutely Tidy",
       "url": "https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "EYELIDS",
-        "url": "https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        },
-        {
-          "name": "Cole Bleu",
-          "url": "https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S"
-        }
-      ],
-      "duration_ms": 126744,
-      "name": "EYELIDS",
-      "url": "https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x"
     },
     {
       "added_at": "2023-11-20 15:00:00",

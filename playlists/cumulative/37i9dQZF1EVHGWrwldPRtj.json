@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a> y m\u00e1s",
-  "name": "Mix de chill",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a> and more",
+  "name": "Chill Mix",
   "tracks": [
     {
       "album": {
@@ -994,7 +994,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 242859,
       "name": "Begin",
       "url": "https://open.spotify.com/track/1HeGSI2zSrsrk4uD4VfBtA"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 179428,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is"
@@ -1648,6 +1648,24 @@
       "duration_ms": 215986,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
+    },
+    {
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "album": {
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "death bed (coffee for your head)",
       "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 139000,
       "name": "Here with You",
       "url": "https://open.spotify.com/track/2dNtChXYtvpT7SD7Bfe5KS"
@@ -4918,7 +4936,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
@@ -8124,7 +8142,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 154756,
       "name": "Sau C\u01a1n M\u01b0a",
       "url": "https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf"
@@ -8352,7 +8370,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 135529,
       "name": "Shut up My Moms Calling (Sped up)",
       "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
@@ -9790,7 +9808,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 198331,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm"
@@ -10008,7 +10026,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 125347,
       "name": "The One",
       "url": "https://open.spotify.com/track/2hT9vWmKp6uduKzmalqeMA"
@@ -11130,7 +11148,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 248807,
       "name": "White Ferrari",
       "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"

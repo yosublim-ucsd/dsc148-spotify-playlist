@@ -5340,7 +5340,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 269468,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD"
@@ -10678,6 +10678,32 @@
       "duration_ms": 219212,
       "name": "Pilgrim",
       "url": "https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG"
+    },
+    {
+      "album": {
+        "name": "Pinie (S\u00e9bastien L\u00e9ger Remix)",
+        "url": "https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        },
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504000,
+      "name": "Pinie - S\u00e9bastien L\u00e9ger Remix",
+      "url": "https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz"
     },
     {
       "album": {

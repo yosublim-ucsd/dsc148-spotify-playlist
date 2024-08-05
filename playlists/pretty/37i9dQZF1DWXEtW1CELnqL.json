@@ -1,6 +1,6 @@
 {
   "description": "Laissez-moi plonger, je suis m\u00e9decin.",
-  "num_followers": 62720,
+  "num_followers": 62765,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 321040,
-      "name": "Take A Look Around",
-      "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 321040,
+      "name": "Take A Look Around",
+      "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Around the Fur",
-      "url": "https://open.spotify.com/track/3Fwe3XoPOiyWUPYdBKMTqV"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 206200,
       "name": "Guerrilla Radio",
       "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Around the Fur",
+      "url": "https://open.spotify.com/track/3Fwe3XoPOiyWUPYdBKMTqV"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "Neck Deep",
-        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Dumbstruck Dumbf**k",
-      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 194133,
       "name": "Underclass Hero",
       "url": "https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "Neck Deep",
+        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Dumbstruck Dumbf**k",
+      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "MORE",
-        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 187699,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "Diary (Remastered and Expanded Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 187699,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
     },
     {
       "added_at": "2024-07-24 13:25:11",

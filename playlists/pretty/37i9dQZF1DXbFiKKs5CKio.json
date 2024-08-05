@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 59296,
+  "num_followers": 59310,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,70 @@
     {
       "added_at": "2024-07-26 03:01:00",
       "album": {
+        "name": "curva escura",
+        "url": "https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "curva escura",
+      "url": "https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp"
+    },
+    {
+      "added_at": "2024-07-26 03:01:00",
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
+    },
+    {
+      "added_at": "2024-07-26 03:01:00",
+      "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/1p9ksUAGTlV9BPI7fqs5j2"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Rodd",
+          "url": "https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT"
+        }
+      ],
+      "duration_ms": 239363,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1cCFfCSdS0eHrUBq3l9djO"
+    },
+    {
+      "added_at": "2024-07-26 03:01:00",
+      "album": {
         "name": "MOVA - Algumas Verdades, Outras Mentiras",
         "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
       },
@@ -187,70 +251,6 @@
     {
       "added_at": "2024-07-26 03:01:00",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/1p9ksUAGTlV9BPI7fqs5j2"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
-        {
-          "name": "Rodd",
-          "url": "https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT"
-        }
-      ],
-      "duration_ms": 239363,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1cCFfCSdS0eHrUBq3l9djO"
-    },
-    {
-      "added_at": "2024-07-26 03:01:00",
-      "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
-    },
-    {
-      "added_at": "2024-07-26 03:01:00",
-      "album": {
-        "name": "curva escura",
-        "url": "https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "curva escura",
-      "url": "https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp"
-    },
-    {
-      "added_at": "2024-07-26 03:01:00",
-      "album": {
         "name": "Cola Comigo",
         "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 208617,
       "name": "Cola Comigo",
       "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
-    },
-    {
-      "added_at": "2024-07-26 03:01:00",
-      "album": {
-        "name": "O Amor e Suas Vari\u00e1veis",
-        "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 152630,
-      "name": "De Boa",
-      "url": "https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X"
     },
     {
       "added_at": "2024-07-26 03:01:00",
@@ -315,6 +299,22 @@
       "duration_ms": 129444,
       "name": "Efeito Moral",
       "url": "https://open.spotify.com/track/5V5k3Ml3unt4bH4sIw9Gi4"
+    },
+    {
+      "added_at": "2024-07-26 03:01:00",
+      "album": {
+        "name": "O Amor e Suas Vari\u00e1veis",
+        "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 152630,
+      "name": "De Boa",
+      "url": "https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X"
     },
     {
       "added_at": "2024-07-26 03:01:00",
@@ -387,6 +387,26 @@
       "duration_ms": 330901,
       "name": "Licor",
       "url": "https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr"
+    },
+    {
+      "added_at": "2024-07-26 03:01:00",
+      "album": {
+        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Vai dar Bom (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
     },
     {
       "added_at": "2024-07-26 03:01:00",
@@ -475,50 +495,6 @@
     {
       "added_at": "2024-07-26 03:01:00",
       "album": {
-        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Vai dar Bom (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
-    },
-    {
-      "added_at": "2024-07-26 03:01:00",
-      "album": {
-        "name": "Hip Hop Machine #18",
-        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 357248,
-      "name": "Se Foi",
-      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
-    },
-    {
-      "added_at": "2024-07-26 03:01:00",
-      "album": {
         "name": "Aeroporto",
         "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
       },
@@ -547,6 +523,30 @@
       "duration_ms": 199186,
       "name": "Candeia",
       "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
+    },
+    {
+      "added_at": "2024-07-26 03:01:00",
+      "album": {
+        "name": "Hip Hop Machine #18",
+        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 357248,
+      "name": "Se Foi",
+      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
     },
     {
       "added_at": "2024-07-26 03:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-26 03:01:00",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
+    },
+    {
+      "added_at": "2024-07-26 03:01:00",
+      "album": {
         "name": "Correria",
         "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 201620,
       "name": "Sinto a Sua Falta",
       "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
-    },
-    {
-      "added_at": "2024-07-26 03:01:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
     },
     {
       "added_at": "2024-07-26 03:01:00",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-07-26 03:01:00",
       "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2024-07-26 03:01:00",
-      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 171176,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA"
+    },
+    {
+      "added_at": "2024-07-26 03:01:00",
+      "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2024-07-26 03:01:00",

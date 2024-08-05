@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Lisandro Cuxi
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,213 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,258 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 9 | [POUR TOI](https://open.spotify.com/track/37vFjnnKrdm07M4sjEWyyr) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [POUR TOI](https://open.spotify.com/album/1yCFNhAeny1C006YsfPuQu) | 3:20 |
 | 10 | [Succomber](https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Succomber](https://open.spotify.com/album/1UXhTaV1jujtX4kbwyEbMs) | 4:07 |
 | 11 | [Serre\-moi fort](https://open.spotify.com/track/1TfH1H8BmFn81hwWmPtRef) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Serre\-moi fort](https://open.spotify.com/album/5su35ho6QuT12QzASVupHO) | 3:36 |
-| 12 | [Level Up \(feat\. Kany\)](https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Level Up \(feat\. Kany\)](https://open.spotify.com/album/1LPsTbC6Mbs8uaMqQGzfKG) | 2:34 |
+| 12 | [Level Up](https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Level Up](https://open.spotify.com/album/1LPsTbC6Mbs8uaMqQGzfKG) | 2:34 |
 | 13 | [Ton amour](https://open.spotify.com/track/2iEdw5ymM0dVzaeZHEq4JI) | [Nk Divine](https://open.spotify.com/artist/5uUyNQRdjYew8L4OfHPcqD), [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [DESTINÉE chapitre II in ut regium](https://open.spotify.com/album/1jnGuJq0cEPWYWsGPFaUCH) | 2:32 |
 | 14 | [CORDIALEMENT](https://open.spotify.com/track/4tXLj5UVpzdva0qTANUrER) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [CORDIALEMENT](https://open.spotify.com/album/1C178QIX4FbI7gQfzSnotD) | 3:29 |
 | 15 | [Collé](https://open.spotify.com/track/1PbmgY7RtdguwYVi4su4u1) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Collé](https://open.spotify.com/album/5zflFbhlZVYtE45gqAC5VF) | 2:41 |

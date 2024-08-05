@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > รวมเพลงสากลสุดฮิต และเพลงในกระแสตอนนี้\. The latest hits & viral tracks right now\. Cover: Rangga Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,469 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,462 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

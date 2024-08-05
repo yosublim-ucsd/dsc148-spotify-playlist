@@ -1,6 +1,6 @@
 {
   "description": "Turn up with the biggest party tracks of yesteryear.",
-  "num_followers": 2661150,
+  "num_followers": 2661197,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 270506,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -463,18 +463,22 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 192213,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -499,22 +503,18 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
         }
       ],
-      "duration_ms": 161506,
-      "name": "The Next Episode",
-      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+      "duration_ms": 192213,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -531,6 +531,26 @@
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Hit 'Em Up - Single Version",
+      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -575,26 +595,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Outlawz",
-          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Hit 'Em Up - Single Version",
-      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
         "url": "https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5"
       },
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 197124,
       "name": "Everytime We Touch",
       "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Kings Of Crunk",
-        "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
-      },
-      "artists": [
-        {
-          "name": "Lil Jon & The East Side Boyz",
-          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
-        },
-        {
-          "name": "Ying Yang Twins",
-          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
-        }
-      ],
-      "duration_ms": 334066,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 203786,
       "name": "One, Two Step (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "Kings Of Crunk",
+        "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+        },
+        {
+          "name": "Ying Yang Twins",
+          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+        }
+      ],
+      "duration_ms": 334066,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
         "name": "Jealous Ones Still Envy (J.O.S.E)",
         "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 267093,
       "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
       "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 369573,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 230200,
       "name": "Jumpin', Jumpin'",
       "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 369573,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Pump It",
+      "url": "https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 234000,
       "name": "The Way You Move (feat. Sleepy Brown)",
       "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
-        "name": "Monkey Business",
-        "url": "https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Pump It",
-      "url": "https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "Big Poppa - 2007 Remaster",
-      "url": "https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 226133,
       "name": "On & On",
       "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "Big Poppa - 2007 Remaster",
+      "url": "https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -1683,38 +1683,46 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+        "name": "This Is How We Do It",
+        "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
       "artists": [
         {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
         },
         {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+          "name": "Wino",
+          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
         }
       ],
-      "duration_ms": 292373,
-      "name": "Fergalicious",
-      "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
+      "duration_ms": 238800,
+      "name": "This Is How We Do It",
+      "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
     },
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Aaliyah",
-        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
       "artists": [
         {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        },
+        {
+          "name": "Kidd Kidd",
+          "url": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
         }
       ],
-      "duration_ms": 284640,
-      "name": "Try Again",
-      "url": "https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr"
+      "duration_ms": 286906,
+      "name": "Mrs. Officer",
+      "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
     }
   ],
   "unique_name": "Throwback Jams",

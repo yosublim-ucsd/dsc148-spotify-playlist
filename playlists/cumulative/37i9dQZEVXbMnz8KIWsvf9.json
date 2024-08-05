@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -7726,7 +7726,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 182453,
       "name": "Promethazine",
       "url": "https://open.spotify.com/track/25n8diXqpb6LKyL0Dwzwoy"
@@ -9840,7 +9840,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
@@ -12116,7 +12116,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 288250,
       "name": "\u0e08\u0e32\u0e01\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48(\u0e40\u0e04\u0e22)\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 [La La Bye]",
       "url": "https://open.spotify.com/track/0D9lpJts3mXxe0fvovYUFv"
@@ -13257,6 +13257,24 @@
     },
     {
       "album": {
+        "name": "\u0e1a\u0e38\u0e29\u0e1a\u0e32",
+        "url": "https://open.spotify.com/album/0KN3DuSt304bTCD8ze8fcY"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e21\u0e19\u0e17\u0e2d\u0e25",
+          "url": "https://open.spotify.com/artist/2N6Skva8Ly8APTJy0O2Ypp"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224590,
+      "name": "\u0e1a\u0e38\u0e29\u0e1a\u0e32",
+      "url": "https://open.spotify.com/track/2LCF0vtFyZ5BHaAU3KUSq2"
+    },
+    {
+      "album": {
         "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
         "url": "https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS"
       },
@@ -13706,7 +13724,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 197250,
       "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3",
       "url": "https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j"

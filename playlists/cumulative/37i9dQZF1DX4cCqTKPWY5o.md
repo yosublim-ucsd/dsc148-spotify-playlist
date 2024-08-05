@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-117 songs - 5 hr 58 min
+118 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Bad Habits](https://open.spotify.com/track/2jhsA2UJfvxsvMAOU9Oq9s) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:51 | 2022-03-31 | 2022-07-25 |
 | [Bam Bam](https://open.spotify.com/track/7yHKMYnJoR0mT3IIBczhKV) | [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys), [Coolie Ranx](https://open.spotify.com/artist/129KG3I5BRF7QqEHnPTs6C) | [It's A Bam Bam Diddly!](https://open.spotify.com/album/4tHDTFoSUB5Oavol8DQAuB) | 2:32 | 2022-03-31 | 2022-06-29 |
 | [Banana Boat Song \(Dance Version\)](https://open.spotify.com/track/5hbTcYytDNA6qvrqwm2eOg) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [A Mother Goose Club Dance Party Vol\. 1](https://open.spotify.com/album/4dNfAAOe6vfUKqyMwQphPu) | 3:07 | 2022-07-15 | 2024-07-29 |
-| [Barbie World](https://open.spotify.com/track/72bMredJdYI2iFjQUPGNOX) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 1:50 | 2024-01-30 |  |
+| [Barbie World](https://open.spotify.com/track/72bMredJdYI2iFjQUPGNOX) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 1:50 | 2024-01-30 | 2024-08-05 |
 | [Beggin'](https://open.spotify.com/track/6SYgBTp6KuQ2ZQ91bATYl0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Beggin'](https://open.spotify.com/album/2EClhJEKmxxPX9cMOfMXnq) | 3:18 | 2022-03-31 | 2022-07-23 |
 | [Best Thing Ever \- Dance Remix](https://open.spotify.com/track/07Z7wck6ixwgA8WWQw9qAN) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Nickelodeon Mix It Up! Vol\. 9: Danceapalooza \(The Remixes\)](https://open.spotify.com/album/20sByOLAT2A2S3VpaWCnyK) | 2:33 | 2024-03-22 |  |
 | [Better Days](https://open.spotify.com/track/46jJ6aqpwugeYhg0rciBUx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Better Days](https://open.spotify.com/album/1G5XNPBHbI7gKmN9JzOLB7) | 2:39 | 2022-03-31 | 2022-07-28 |
@@ -80,6 +80,7 @@
 | [It’s Alright \- From The Netflix Film My Little Pony: A New Generation](https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It's Alright \(From The Netflix Film My Little Pony: A New Generation\)](https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7) | 3:13 | 2022-03-31 |  |
 | [Jumping Jack](https://open.spotify.com/track/5Ua7nKxK8fbVl8qFmvbHPP) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Jumping Jack](https://open.spotify.com/album/4V6rcHJLaaSl6pVpo9cUyf) | 2:23 | 2022-03-31 |  |
 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 | 2022-03-31 |  |
+| [Last Dance](https://open.spotify.com/track/0YKpv4IxAD40AkWAmBII1N) | [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Last Dance](https://open.spotify.com/album/1YMGrhRO05Gzcm030DLrpJ) | 2:20 | 2024-03-22 |  |
 | [Levitating](https://open.spotify.com/track/2KA8r3yxck7wKKF9URwYAW) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Levitating](https://open.spotify.com/album/29ZhZIl8jm8uC2ngQ7ybZJ) | 3:22 | 2022-03-31 | 2022-07-29 |
 | [Limbo Rock \- Party Mix](https://open.spotify.com/track/42vbEUpcyzVP4vDDdBmQZo) | [Limbo Rock Kids Party](https://open.spotify.com/artist/5Mtwfzsnnoui0egwH3OsKD) | [Limbo Rock Kids Party](https://open.spotify.com/album/0OE7ESqvOBNX1MHHkb0JeX) | 4:58 | 2022-03-31 | 2022-07-27 |
 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 | 2022-03-31 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 133257,
+  "num_followers": 133254,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Spin Bout U",
-      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -519,6 +499,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -535,18 +531,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+      "duration_ms": 214588,
+      "name": "Spin Bout U",
+      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 218586,
       "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 165000,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 239151,
+      "name": "Sculptures Of Anything Goes",
+      "url": "https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
         "name": "Starcatcher",
         "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 302253,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
-        "name": "The Car",
-        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 239151,
-      "name": "Sculptures Of Anything Goes",
-      "url": "https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 193091,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "Body Paint",
         "url": "https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 315906,
-      "name": "Hive Mind",
-      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
+      "duration_ms": 193091,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1491,6 +1475,22 @@
       "duration_ms": 162038,
       "name": "Good Morning (feat. Susan Carol)",
       "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 315906,
+      "name": "Hive Mind",
+      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2aMFP9x0ZIkOVd0ZSl3zDI"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
         "name": "Emotion Sickness",
         "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
       },
@@ -1695,18 +1711,26 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "World Music Radio",
-        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
       "artists": [
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Hazel Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
         }
       ],
-      "duration_ms": 230440,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2aMFP9x0ZIkOVd0ZSl3zDI"
+      "duration_ms": 217632,
+      "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1771,30 +1795,6 @@
       "duration_ms": 193413,
       "name": "Hardlife",
       "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Hazel Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
-        }
-      ],
-      "duration_ms": 217632,
-      "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/2rzetXorcdU2BH86aoqHmw"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 216986,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
-        "name": "Milagro y Desastre",
-        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 245672,
-      "name": "Milagro y Desastre",
-      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
     },
     {
       "added_at": "2024-02-05 23:56:53",

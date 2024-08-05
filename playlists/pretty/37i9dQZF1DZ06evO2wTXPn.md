@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 ### [This Is KURT](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wTXPn)
 
-> This is KURT\. The essential tracks, all in one playlist.
+> This Is KURT\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,700 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,702 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 49 | [Escapémonos](https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:33 |
 | 50 | [Como Nadie Más](https://open.spotify.com/track/1t8mt1PDXNzRxr2RPt9Ji0) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 4:06 |
 
-Snapshot ID: `ZqrQAAAAAAB66bgEf3IAdRBXBvpqhkNo`
+Snapshot ID: `ZqrQAAAAAACGjVfZaCN1EC7lQEzkHNpP`

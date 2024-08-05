@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-61 songs - 2 hr 35 min
+62 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Not An Angel](https://open.spotify.com/track/7B1cghqpCew1n39hPOD1D6) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Not An Angel](https://open.spotify.com/album/1h7yp7OCNneghWvfix73fP) | 2:20 | 2024-01-29 |  |
 | [Nothing](https://open.spotify.com/track/7zTFAlxrofO8AElz6XoRkR) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Nothing](https://open.spotify.com/album/5FqFsYje6EkS1JlrfYzHAK) | 3:02 | 2024-01-29 |  |
 | [OHNE DICH](https://open.spotify.com/track/71hdTxlg3hYTBomSwAG0mM) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [OHNE DICH](https://open.spotify.com/album/1NzY7UOkZ6uP6oz9sP8AtZ) | 2:54 | 2024-01-29 |  |
-| [One More Night to Go](https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd) | [Swasion](https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm) | [One More Night to Go](https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO) | 2:38 | 2024-03-26 |  |
+| [One More Night To Go](https://open.spotify.com/track/4Q3l20SmjVi59yoKOG2asT) | [APHn](https://open.spotify.com/artist/3l4cCNbw1p2R7VD8CV82NJ) | [One More Night To Go](https://open.spotify.com/album/01octbPLjMYCYCPBts1kdx) | 2:43 | 2024-08-04 |  |
+| [One More Night to Go](https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd) | [Swasion](https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm) | [One More Night to Go](https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO) | 2:38 | 2024-03-26 | 2024-08-05 |
 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 | 2024-01-29 |  |
 | [Pocketful of Sunshine](https://open.spotify.com/track/4wY5xcMsdYBGphuO4vEao1) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN) | [Pocketful of Sunshine](https://open.spotify.com/album/5M5dIzCCOQI84JA5ONuIRN) | 2:29 | 2024-06-22 |  |
 | [Rock N Roll Style](https://open.spotify.com/track/21UzAA0Sq5Vgaf3OYcqxZ0) | [CALEIDESCOPE](https://open.spotify.com/artist/40Cha4Qon7sdhQIBkZwlQl), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [FSDW](https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw) | [Rock N Roll Style](https://open.spotify.com/album/3ZqaShirb0rDd77DIKiDmj) | 2:54 | 2024-07-04 |  |

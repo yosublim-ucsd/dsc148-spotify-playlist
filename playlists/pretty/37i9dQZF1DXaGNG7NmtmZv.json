@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 220538,
+  "num_followers": 220600,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,38 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "Start Today",
+        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Biscuits",
+          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
+        }
+      ],
+      "duration_ms": 123706,
+      "name": "Start Today",
+      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Check Your People",
         "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
       },
@@ -135,6 +167,22 @@
       "duration_ms": 153173,
       "name": "Pure Trauma",
       "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "State Of The World Address",
+        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -171,38 +219,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Start Today",
-        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
-      },
-      "artists": [
-        {
-          "name": "Gorilla Biscuits",
-          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
-        }
-      ],
-      "duration_ms": 123706,
-      "name": "Start Today",
-      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "State Of The World Address",
-        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
-      },
-      "artists": [
-        {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Break Down The Walls",
         "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 124373,
       "name": "Break Down the Walls",
       "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 100800,
-      "name": "Take a Stand",
-      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 238333,
       "name": "Let's Pretend",
       "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Vision of Disorder",
+        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+      },
+      "artists": [
+        {
+          "name": "Vision Of Disorder",
+          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Vision of Disorder",
-        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
       "artists": [
         {
-          "name": "Vision Of Disorder",
-          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
+      "duration_ms": 100800,
+      "name": "Take a Stand",
+      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "River Runs Red [Top Shelf Edition]",
-        "url": "https://open.spotify.com/album/4CEF4KxtSwbw1FeufmRDbi"
-      },
-      "artists": [
-        {
-          "name": "Life Of Agony",
-          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
-        }
-      ],
-      "duration_ms": 114680,
-      "name": "River Runs Red",
-      "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Unorthodox",
         "url": "https://open.spotify.com/album/43x6i9LnpamFuzgOguORon"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 85800,
       "name": "Proud To Be DFL",
       "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "River Runs Red [Top Shelf Edition]",
+        "url": "https://open.spotify.com/album/4CEF4KxtSwbw1FeufmRDbi"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 114680,
+      "name": "River Runs Red",
+      "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "Words in Ink Don't Lie",
+        "url": "https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu"
+      },
+      "artists": [
+        {
+          "name": "Endicott",
+          "url": "https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Ransom Note",
+      "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Progression Through Unlearning",
         "url": "https://open.spotify.com/album/7rIYvEhntzeIkIE78b486h"
       },
@@ -619,18 +635,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Punk Rock Jukebox",
-        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
+        "name": "Get It Away",
+        "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
       },
       "artists": [
         {
-          "name": "Murphy's Law",
-          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
+          "name": "SS Decontrol",
+          "url": "https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a"
         }
       ],
-      "duration_ms": 124360,
-      "name": "Somebody's Gonna Get Their Head Kicked In",
-      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
+      "duration_ms": 166190,
+      "name": "Get It Away",
+      "url": "https://open.spotify.com/track/4G3XY6LeHc54ZEmHw5qNWE"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -651,66 +667,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Words in Ink Don't Lie",
-        "url": "https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu"
+        "name": "Punk Rock Jukebox",
+        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
       },
       "artists": [
         {
-          "name": "Endicott",
-          "url": "https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF"
+          "name": "Murphy's Law",
+          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
         }
       ],
-      "duration_ms": 159066,
-      "name": "Ransom Note",
-      "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "This Is Just the Beginning",
-        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
-      },
-      "artists": [
-        {
-          "name": "Kill Your Idols",
-          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "Can't Take It Away",
-      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
-      },
-      "artists": [
-        {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
-        }
-      ],
-      "duration_ms": 144413,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Get It Away",
-        "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
-      },
-      "artists": [
-        {
-          "name": "SS Decontrol",
-          "url": "https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a"
-        }
-      ],
-      "duration_ms": 166190,
-      "name": "Get It Away",
-      "url": "https://open.spotify.com/track/4G3XY6LeHc54ZEmHw5qNWE"
+      "duration_ms": 124360,
+      "name": "Somebody's Gonna Get Their Head Kicked In",
+      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -731,6 +699,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "This Is Just the Beginning",
+        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
+      },
+      "artists": [
+        {
+          "name": "Kill Your Idols",
+          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
+        }
+      ],
+      "duration_ms": 96053,
+      "name": "Can't Take It Away",
+      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Everything You Know",
         "url": "https://open.spotify.com/album/1g3661VmArydCMCXltxVJk"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 203440,
       "name": "Chasing the Dragon",
       "url": "https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+      },
+      "artists": [
+        {
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+        }
+      ],
+      "duration_ms": 144413,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
     },
     {
       "added_at": "2024-02-07 16:33:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Music for your soul\. Cover: Moses Sumney
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,234 likes - 101 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,303 likes - 101 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

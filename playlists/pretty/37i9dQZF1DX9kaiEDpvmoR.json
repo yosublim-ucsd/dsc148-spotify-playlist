@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92175,
+  "num_followers": 92173,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Purple Gas",
-        "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         },
         {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 180152,
-      "name": "Purple Gas",
-      "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
+      "duration_ms": 236012,
+      "name": "My Fault (feat. Noah Cyrus)",
+      "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -211,22 +211,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+        "name": "Purple Gas",
+        "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         },
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
         }
       ],
-      "duration_ms": 236012,
-      "name": "My Fault (feat. Noah Cyrus)",
-      "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
+      "duration_ms": 180152,
+      "name": "Purple Gas",
+      "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 236055,
-      "name": "Remember Him That Way",
-      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Dispose of Me",
         "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 215974,
       "name": "B\u00e4sta kebaben i hela stan",
       "url": "https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 236055,
+      "name": "Remember Him That Way",
+      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "The Man He Sees in Me",
-        "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 165058,
-      "name": "The Man He Sees in Me",
-      "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Sally/Hungry Eyes",
         "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
       },
@@ -487,6 +471,42 @@
       "duration_ms": 194000,
       "name": "Rytmen av ett regn",
       "url": "https://open.spotify.com/track/284OgQhThXzkssDt6Hdreg"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "The Man He Sees in Me",
+        "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 165058,
+      "name": "The Man He Sees in Me",
+      "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
+        "url": "https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74"
+      },
+      "artists": [
+        {
+          "name": "Danny Saucedo",
+          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+        },
+        {
+          "name": "Amy Deasismont",
+          "url": "https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9"
+        }
+      ],
+      "duration_ms": 160983,
+      "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
+      "url": "https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -523,26 +543,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
-        "url": "https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74"
-      },
-      "artists": [
-        {
-          "name": "Danny Saucedo",
-          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
-        },
-        {
-          "name": "Amy Deasismont",
-          "url": "https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9"
-        }
-      ],
-      "duration_ms": 160983,
-      "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
-      "url": "https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Solen g\u00e5r aldrig ner",
         "url": "https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Parents",
-        "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 126175,
-      "name": "Parents",
-      "url": "https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Hoppas du m\u00e5r bra",
         "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 196560,
       "name": "Hoppas du m\u00e5r bra",
       "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Parents",
+        "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 126175,
+      "name": "Parents",
+      "url": "https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Som jag har l\u00e4ngtat",
-        "url": "https://open.spotify.com/album/183IIgn8Rta9AJkGaP90wG"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ledin",
-          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
-        },
-        {
-          "name": "Vapendragarna",
-          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
-        }
-      ],
-      "duration_ms": 206955,
-      "name": "Som jag har l\u00e4ngtat",
-      "url": "https://open.spotify.com/track/4DWHJnyw4aeD3lQqnHyf0S"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Living Comes With Dying",
         "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 177000,
       "name": "V\u00e5t cigg",
       "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Som jag har l\u00e4ngtat",
+        "url": "https://open.spotify.com/album/183IIgn8Rta9AJkGaP90wG"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        },
+        {
+          "name": "Vapendragarna",
+          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
+        }
+      ],
+      "duration_ms": 206955,
+      "name": "Som jag har l\u00e4ngtat",
+      "url": "https://open.spotify.com/track/4DWHJnyw4aeD3lQqnHyf0S"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "D enkla livet",
-        "url": "https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0"
-      },
-      "artists": [
-        {
-          "name": "Nadja Evelina",
-          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "D enkla livet",
-      "url": "https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Kontakt",
         "url": "https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 164725,
       "name": "Kontakt",
       "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "D enkla livet",
+        "url": "https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0"
+      },
+      "artists": [
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "D enkla livet",
+      "url": "https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Tillbaka i Brunnsvik",
-        "url": "https://open.spotify.com/album/6OWlwPVDf8HUyi9upjrDdc"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlson",
-          "url": "https://open.spotify.com/artist/4Ag5mrJhXH238pExZYJcaM"
-        }
-      ],
-      "duration_ms": 286200,
-      "name": "En v\u00e4rld v\u00e4rd att \u00e4lska",
-      "url": "https://open.spotify.com/track/14mvAyboIxOzI5UMeGqoJK"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Let Her In",
         "url": "https://open.spotify.com/album/5xdOtVBEPBMilhg8xjUd62"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 158181,
       "name": "Hey Little Love",
       "url": "https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Tillbaka i Brunnsvik",
+        "url": "https://open.spotify.com/album/6OWlwPVDf8HUyi9upjrDdc"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlson",
+          "url": "https://open.spotify.com/artist/4Ag5mrJhXH238pExZYJcaM"
+        }
+      ],
+      "duration_ms": 286200,
+      "name": "En v\u00e4rld v\u00e4rd att \u00e4lska",
+      "url": "https://open.spotify.com/track/14mvAyboIxOzI5UMeGqoJK"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Draw Me Closer 2.0",
-        "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
+        "name": "Sommarens famn",
+        "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
       },
       "artists": [
         {
-          "name": "Christoffer Hiding",
-          "url": "https://open.spotify.com/artist/5JLv8I5m5yPUC7Tnw36g7a"
-        },
-        {
-          "name": "Chapee",
-          "url": "https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K"
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
         }
       ],
-      "duration_ms": 309166,
-      "name": "Draw Me Closer 2.0",
-      "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
+      "duration_ms": 174631,
+      "name": "Sommarens famn",
+      "url": "https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1475,22 +1471,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Sommarens famn",
-        "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 174631,
-      "name": "Sommarens famn",
-      "url": "https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Lily Of The Valley",
         "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 189583,
       "name": "Lily Of The Valley",
       "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Draw Me Closer 2.0",
+        "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
+      },
+      "artists": [
+        {
+          "name": "Christoffer Hiding",
+          "url": "https://open.spotify.com/artist/5JLv8I5m5yPUC7Tnw36g7a"
+        },
+        {
+          "name": "Chapee",
+          "url": "https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K"
+        }
+      ],
+      "duration_ms": 309166,
+      "name": "Draw Me Closer 2.0",
+      "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Se mig bara f\u00f6r den jag \u00e4r",
-        "url": "https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "M\u00f6t mig i Gamla Stan (Swing Version)",
-      "url": "https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Dom kallar henne mamma",
         "url": "https://open.spotify.com/album/4eJxnnRLwFL0XzWxC1Eaz1"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 277176,
       "name": "Dom kallar henne mamma",
       "url": "https://open.spotify.com/track/45USEZKMJbftMlYbLjf3Te"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Se mig bara f\u00f6r den jag \u00e4r",
+        "url": "https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "M\u00f6t mig i Gamla Stan (Swing Version)",
+      "url": "https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Endless Road",
-        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 163594,
-      "name": "Endless Road",
-      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/0JDAgonYkc6HaZB4RHSCIq"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 168178,
       "name": "Good Day - 2024 Remaster",
       "url": "https://open.spotify.com/track/3evNXplJ4WDJFtypBEluFF"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Endless Road",
+        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 163594,
+      "name": "Endless Road",
+      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
     },
     {
       "added_at": "2024-06-27 22:00:00",

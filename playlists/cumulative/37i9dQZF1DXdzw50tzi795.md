@@ -4,12 +4,13 @@
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: THE TOYS, NONT TANONT
 
-94 songs - 6 hr 8 min
+95 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2024-01-26 | 2024-03-11 |
 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 | 2024-01-26 | 2024-02-01 |
+| [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 | 2024-08-04 |  |
 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-08 |  |
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2024-01-26 | 2024-03-11 |
 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 | 2024-01-30 |  |
@@ -84,7 +85,7 @@
 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV) | 4:13 | 2024-01-26 | 2024-03-15 |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 | 2024-01-26 | 2024-06-01 |
 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 | 2024-03-27 |  |
-| [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 | 2024-01-26 |  |
+| [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 | 2024-01-26 | 2024-08-05 |
 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 | 2024-01-26 |  |
 | [เมร่อน](https://open.spotify.com/track/3KSS2LFdimgKRcs4ZamWyv) | [Juepak](https://open.spotify.com/artist/4hyjpRJFaQcXR63Wfpjd3D), [จ๊ะ นงผณี](https://open.spotify.com/artist/2kw9oKRxdRVnymE4kd3BgE), [GUNNER](https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv) | [เมร่อน](https://open.spotify.com/album/1tDF30Fp2KCtoI2Ag4GX9Y) | 2:43 | 2024-04-11 | 2024-06-01 |
 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 | 2024-07-18 |  |

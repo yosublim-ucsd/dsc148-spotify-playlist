@@ -431,22 +431,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 290080,
-      "name": "Just Like a Woman",
-      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "The Night I Fell In Love",
         "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 317746,
       "name": "Wait for Love",
       "url": "https://open.spotify.com/track/0y2O8TW10Pj3fel0Upqa54"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 290080,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 206460,
-      "name": "The Ocean",
-      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
       },
@@ -539,6 +523,38 @@
       "duration_ms": 156073,
       "name": "Pray It Away",
       "url": "https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 206460,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -579,18 +595,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+        "name": "Infinite Possibilities",
+        "url": "https://open.spotify.com/album/4L3sYcWC4WVWo3auC0WfxL"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Amel Larrieux",
+          "url": "https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR"
         }
       ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+      "duration_ms": 270760,
+      "name": "Make Me Whole",
+      "url": "https://open.spotify.com/track/6nVWopkV9TK2YR7HZUh8oS"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -607,38 +623,6 @@
       "duration_ms": 359600,
       "name": "So Much Things to Say - Live",
       "url": "https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 207647,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Infinite Possibilities",
-        "url": "https://open.spotify.com/album/4L3sYcWC4WVWo3auC0WfxL"
-      },
-      "artists": [
-        {
-          "name": "Amel Larrieux",
-          "url": "https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR"
-        }
-      ],
-      "duration_ms": 270760,
-      "name": "Make Me Whole",
-      "url": "https://open.spotify.com/track/6nVWopkV9TK2YR7HZUh8oS"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -675,22 +659,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Divine Secrets Of The Ya-Ya Sisterhood - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Selah",
-      "url": "https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/4xWQy5s10Udgbqp0ZJQshJ"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 243733,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/2g3C9WXJ33RPdW18ZZGFlD"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Divine Secrets Of The Ya-Ya Sisterhood - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Selah",
+      "url": "https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 207647,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
       "artists": [
         {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 257776,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV"
+      "duration_ms": 248466,
+      "name": "Butterflyz",
+      "url": "https://open.spotify.com/track/1TpATCBm9ex3N6q7b8rXgS"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 248466,
-      "name": "Butterflyz",
-      "url": "https://open.spotify.com/track/1TpATCBm9ex3N6q7b8rXgS"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Something Melancholy",
         "url": "https://open.spotify.com/album/6IyDksveIfiFQqNyTq25Xy"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 392808,
       "name": "Burning in Birmingham",
       "url": "https://open.spotify.com/track/0IAXIvpoVgk4QWxZ3iazyr"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 257776,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV"
     },
     {
       "added_at": "2023-06-01 04:00:00",

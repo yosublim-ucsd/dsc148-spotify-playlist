@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Y'akoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,449 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,455 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 26 | [Fensterbank](https://open.spotify.com/track/2ajrVWff8PZUzeRF6xSwku) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Fensterbank](https://open.spotify.com/album/3KnjmQv2UbPFlhuscvieV2) | 2:44 |
 | 27 | [Khudahafiz](https://open.spotify.com/track/3hAWqy63tz29SFXNFCpA1D) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [22:22](https://open.spotify.com/album/2rANbjz8DsJtm6dqJMegNv) | 2:22 |
 | 28 | [Kalender](https://open.spotify.com/track/7zirNuxuHUkEhOgBQEhLJf) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kalender](https://open.spotify.com/album/5mgzmuiuNqfDp491jepoBJ) | 3:16 |
-| 29 | [DoReMiFaSo](https://open.spotify.com/track/0DrN9WYQsOuIJIuzqcjvmk) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [DoReMiFaSo](https://open.spotify.com/album/3HOuXjkZ7riiQGljJqCkbm) | 2:05 |
+| 29 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 |
 | 30 | [Mad](https://open.spotify.com/track/1XADbL6VwPL1rqXBVOszfG) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Mad](https://open.spotify.com/album/24Liy9BnSbQPWQoGncnGCE) | 3:22 |
-| 31 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 |
+| 31 | [DoReMiFaSo](https://open.spotify.com/track/0DrN9WYQsOuIJIuzqcjvmk) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [DoReMiFaSo](https://open.spotify.com/album/3HOuXjkZ7riiQGljJqCkbm) | 2:05 |
 | 32 | [Stimmen](https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Stimmen](https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8) | 3:29 |
 | 33 | [wir trafen uns in einem garten](https://open.spotify.com/track/38YmEgPDOqKDPgkwsHw3nR) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [wir trafen uns in einem garten](https://open.spotify.com/album/58Ew6pCPqw2w2eYYGI2waN) | 2:58 |
 | 34 | [AREA CODES](https://open.spotify.com/track/6E3ZYtO2r8DZEHlSlvXOjI) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [AREA CODES](https://open.spotify.com/album/2ilAU5T7UcLW9iz3oRBMtb) | 2:40 |
 | 35 | [Der Blick / Dein Herz ist zu](https://open.spotify.com/track/398X3qX9xuvuPuaXODYnBr) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Der Blick / Dein Herz ist zu](https://open.spotify.com/album/07WtXAuOvj44EZLaPcOzRl) | 2:21 |
 | 36 | [Gravity](https://open.spotify.com/track/1qQwPQAic8RU32iuPwVcCJ) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Gravity](https://open.spotify.com/album/5wcJqzjLklt8LgUeCWIibI) | 2:32 |
 | 37 | [What's Good](https://open.spotify.com/track/655afr1nexUYljRZzlB64D) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [What's Good](https://open.spotify.com/album/3YLIB4TbUC73jhq8fhNmfU) | 2:43 |
-| 38 | [Der letzte Dinosaurier](https://open.spotify.com/track/6idLijwCv8gn4fAUTwOsSO) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Der letzte Dinosaurier](https://open.spotify.com/album/11o9d9xQ2JbXICrxe9yuKp) | 2:37 |
-| 39 | [mies präpariert](https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [mies präpariert](https://open.spotify.com/album/3QHBVLxmVRq7wgXins6kfV) | 2:57 |
+| 38 | [mies präpariert](https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [mies präpariert](https://open.spotify.com/album/3QHBVLxmVRq7wgXins6kfV) | 2:57 |
+| 39 | [Der letzte Dinosaurier](https://open.spotify.com/track/6idLijwCv8gn4fAUTwOsSO) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Der letzte Dinosaurier](https://open.spotify.com/album/11o9d9xQ2JbXICrxe9yuKp) | 2:37 |
 | 40 | [Cringey Doll](https://open.spotify.com/track/64qvYVdK2FQ2ooddDLiaje) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Cringey Doll](https://open.spotify.com/album/03Qp6VFsWPgQ92KNtYKM5y) | 2:24 |
 | 41 | [Mic Check \(Boomerang\)](https://open.spotify.com/track/1sm4d41wnhIcFSOKr0Rd9I) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [Mic Check \(Boomerang\)](https://open.spotify.com/album/4Z6swtt0kdqgkInJzksVGx) | 2:27 |
 | 42 | [hit'n'run](https://open.spotify.com/track/0PM95lyCWlTrG9EgMcRuX1) | [fraen](https://open.spotify.com/artist/0BmSxSKl373sqmoGAdHKTT) | [hit'n'run](https://open.spotify.com/album/71eRrfN8E7zOVZ6nuc8QQn) | 2:07 |

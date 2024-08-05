@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Eminem
 
-444 songs - 22 hr 51 min
+445 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-07 |  |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2022-07-27 | 2023-09-19 |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:12 | 2023-09-18 | 2023-10-02 |
-| [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 | 2023-09-14 |  |
+| [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 | 2023-09-14 | 2024-08-05 |
 | [FARDA](https://open.spotify.com/track/5CAri3YPxIQAPO2cvl0x9t) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [FARDA](https://open.spotify.com/album/41RFpDDBV3XIWfUN8JLCEJ) | 2:45 | 2023-06-02 | 2023-07-21 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-08-07 | 2023-11-11 |
 | [Fela In Versace](https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:28 | 2023-02-16 | 2024-01-15 |
@@ -299,6 +299,7 @@
 | [On My Life](https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [On My Life](https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ) | 2:05 | 2023-09-08 | 2023-09-15 |
 | [ON TEN](https://open.spotify.com/track/4Sbtvgkqpay8iMF6xDKZzF) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg), [DRILL SZN](https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj) | [ON TEN](https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4) | 1:46 | 2023-02-23 | 2023-03-18 |
 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-07-28 | 2023-09-19 |
+| [On Up](https://open.spotify.com/track/7k0QYUgeKHmNuroFKUbQbw) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [On Up](https://open.spotify.com/album/3YLwQzaO1nUO6E4aMFTt7c) | 2:30 | 2024-08-02 |  |
 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 | 2023-01-12 | 2023-01-20 |
 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 | 2024-05-24 |  |
 | [Open The Front Door](https://open.spotify.com/track/4kqpXbmZyHMwVByAV6mdtP) | [Omotee](https://open.spotify.com/artist/3a4SFbgqSV3PtCDSPL6FLt), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Open The Front Door](https://open.spotify.com/album/3s6R1QUm992adma0tFufO6) | 2:49 | 2023-04-14 | 2023-04-21 |

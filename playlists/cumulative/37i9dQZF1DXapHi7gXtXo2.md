@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-154 songs - 8 hr 31 min
+155 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Fractal](https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Fractal](https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2) | 4:25 | 2023-12-01 |  |
 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 | 2023-12-01 |  |
 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 | 2023-12-07 |  |
-| [Goma](https://open.spotify.com/track/6ADV5jQv9nflcA5t4DIlwY) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Goma](https://open.spotify.com/album/0z6pXUmnSyaaZHKYt9SMkC) | 2:29 | 2024-06-07 |  |
+| [Goma](https://open.spotify.com/track/6ADV5jQv9nflcA5t4DIlwY) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Goma](https://open.spotify.com/album/0z6pXUmnSyaaZHKYt9SMkC) | 2:29 | 2024-06-07 | 2024-08-05 |
 | [GUARACHA](https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [GUARACHA](https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy) | 2:37 | 2023-12-01 | 2024-06-08 |
 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 | 2024-02-29 | 2024-04-19 |
 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 | 2024-04-05 |  |
@@ -103,6 +103,7 @@
 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 | 2023-12-01 |  |
 | [No Me Quiero Ir Lejos](https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [No Me Quiero Ir Lejos](https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy) | 3:24 | 2024-04-12 | 2024-08-03 |
 | [No Te Quedes Solo](https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [No Te Quedes Solo](https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U) | 3:30 | 2024-04-25 | 2024-06-08 |
+| [Nos queda bien](https://open.spotify.com/track/2qe70LBa0sShHTwkHEevaM) | [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [La Expedición](https://open.spotify.com/album/4bltAfVxPXIDLJ3nFlEEud) | 3:32 | 2024-07-25 |  |
 | [Ojitos de Md](https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Ojitos de Md](https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv) | 2:17 | 2023-12-01 |  |
 | [Ojitos de Md \- Remix](https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ojitos de Md \(Remix\)](https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik) | 2:50 | 2023-12-01 |  |
 | [Oler A Ti](https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Oler A Ti](https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5) | 3:45 | 2024-04-12 |  |

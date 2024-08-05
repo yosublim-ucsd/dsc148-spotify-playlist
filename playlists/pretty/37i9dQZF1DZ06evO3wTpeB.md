@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 ### [This Is Ali Aka Mind](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wTpeB)
 
-> This Is Ali Aka Mind\. Los temas esenciales, todos en una lista.
+> This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,097 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,102 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 50 | [Bife de Chorizo](https://open.spotify.com/track/6tiKzF6TGrImRyUhkdKM7J) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:02 |
 | 51 | [Sentimiento Cotidiano](https://open.spotify.com/track/1Zpw8tdhQVVvFG8ih0eNg5) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:01 |
 
-Snapshot ID: `ZqrQAAAAAABBwQ22oMRVQOaspldeURI+`
+Snapshot ID: `ZqrQAAAAAAApHEB/P4Od95VWEWXCaJZt`

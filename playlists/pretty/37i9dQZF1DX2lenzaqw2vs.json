@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Paz Carrara",
-  "num_followers": 134423,
+  "num_followers": 134424,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 131437,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 129448,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
         "name": "La cuarta hoja",
         "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
       },
@@ -375,42 +391,6 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 181157,
-      "name": "MADRE",
-      "url": "https://open.spotify.com/track/20ubMMwoL8zs9hDZ149aPl"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 129448,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 511333,
       "name": "La llorona",
       "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 181157,
+      "name": "MADRE",
+      "url": "https://open.spotify.com/track/20ubMMwoL8zs9hDZ149aPl"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 177815,
+      "name": "Me Pongo Loca",
+      "url": "https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
@@ -491,6 +507,22 @@
       "duration_ms": 152280,
       "name": "PERREO FURIOSO",
       "url": "https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
+        "name": "un d\u00eda en Par\u00eds",
+        "url": "https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 242626,
+      "name": "un d\u00eda en Par\u00eds",
+      "url": "https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -559,38 +591,6 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 177815,
-      "name": "Me Pongo Loca",
-      "url": "https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
-        "name": "un d\u00eda en Par\u00eds",
-        "url": "https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 242626,
-      "name": "un d\u00eda en Par\u00eds",
-      "url": "https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 176960,
       "name": "C\u00e1scara de Coco",
       "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
+        "name": "NO HAY LEY",
+        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "NO HAY LEY",
+      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -635,6 +651,26 @@
       "duration_ms": 174923,
       "name": "I Like 2 Be",
       "url": "https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -699,42 +735,6 @@
       "duration_ms": 186773,
       "name": "Y Qu\u00e9?",
       "url": "https://open.spotify.com/track/7IimbpNYdLU9pG366Td4Tm"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
-        "name": "NO HAY LEY",
-        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "NO HAY LEY",
-      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
-        "name": "Noches De Verano",
-        "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Noches De Verano",
-      "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -1071,42 +1071,6 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
-        "name": "El diablo en el cuerpo",
-        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 266875,
-      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
-        "name": "OJALA",
-        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "OJALA",
-      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
         "name": "Querer Querer",
         "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
       },
@@ -1127,18 +1091,22 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
-        "name": "Crimen",
-        "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 187234,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -1155,6 +1123,38 @@
       "duration_ms": 227640,
       "name": "La Custodia",
       "url": "https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
+        "name": "OJALA",
+        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
+        "name": "Crimen",
+        "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 187234,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
+        "name": "Los Caminos Del Amor",
+        "url": "https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 232520,
+      "name": "Los Caminos Del Amor",
+      "url": "https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
         "name": "Si Me Ven",
         "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 207369,
       "name": "T\u00edrame al fondo del mar",
       "url": "https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
-        "name": "Los Caminos Del Amor",
-        "url": "https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "Los Caminos Del Amor",
-      "url": "https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
-        "name": "Del Cibao",
-        "url": "https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG"
-      },
-      "artists": [
-        {
-          "name": "Willie Gomez",
-          "url": "https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Mojados",
-      "url": "https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
         "name": "kiss my friends",
         "url": "https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 162143,
       "name": "kiss my friends",
       "url": "https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
+        "name": "Del Cibao",
+        "url": "https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG"
+      },
+      "artists": [
+        {
+          "name": "Willie Gomez",
+          "url": "https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Mojados",
+      "url": "https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -1503,42 +1503,6 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
-        "name": "TORQUE: Vol. 1",
-        "url": "https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne"
-      },
-      "artists": [
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 171857,
-      "name": "Fue",
-      "url": "https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
-        "name": "Uno de nosotros (feat. Javiera Mena)",
-        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 249518,
-      "name": "Unx de nosotrxs (feat. Javiera Mena)",
-      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
         "name": "Soy Asi",
         "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
       },
@@ -1567,6 +1531,42 @@
       "duration_ms": 170160,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
+        "name": "Uno de nosotros (feat. Javiera Mena)",
+        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 249518,
+      "name": "Unx de nosotrxs (feat. Javiera Mena)",
+      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
+        "name": "TORQUE: Vol. 1",
+        "url": "https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 171857,
+      "name": "Fue",
+      "url": "https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN"
     },
     {
       "added_at": "2024-07-03 18:27:57",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-07-03 18:27:57",
       "album": {
+        "name": "A La Playa",
+        "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 193870,
+      "name": "A La Playa",
+      "url": "https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W"
+    },
+    {
+      "added_at": "2024-07-03 18:27:57",
+      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
-    },
-    {
-      "added_at": "2024-07-03 18:27:57",
-      "album": {
-        "name": "A La Playa",
-        "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 193870,
-      "name": "A La Playa",
-      "url": "https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W"
     },
     {
       "added_at": "2024-07-03 18:27:57",

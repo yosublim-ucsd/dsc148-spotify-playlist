@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 ### [This Is El Tri](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29tDB6)
 
-> This Is El Tri\. Los temas esenciales, todos en una lista.
+> This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,554 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,574 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 49 | [Pamela](https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 4:41 |
 | 50 | [Hasta que el cuerpo aguante](https://open.spotify.com/track/0KCzMpVMHbNASNzegF5miF) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hecho en México](https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7) | 2:09 |
 
-Snapshot ID: `ZqrQAAAAAADpN5pv7xo7GM9gYDHxPog2`
+Snapshot ID: `ZqrQAAAAAABiqBhNib/FnAmbc8FcWIzI`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 
 ### [This Is Big Mama Thornton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EuBHZ)
 
-> This Is Big Mama Thornton\. Los temas esenciales, todos en una lista.
+> This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,333 likes - 51 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,345 likes - 51 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 | 50 | [Laugh, Laugh, Laugh](https://open.spotify.com/track/2pzuKTc2vEY6R8N3I8Koxx) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Precious & Rare: Big Mama Thornton](https://open.spotify.com/album/2pOwJN6EjTB2vKLIIcmXXV) | 2:44 |
 | 51 | [Oh Happy Day](https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 4:03 |
 
-Snapshot ID: `ZqrQAAAAAABVGP9hO3Y7Z/gsHsKaixcg`
+Snapshot ID: `ZqrQAAAAAABUz5++C4VmK2wFFvdbRuEu`

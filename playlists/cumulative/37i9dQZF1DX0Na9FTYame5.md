@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Apache 207, AYLIVA
 
-107 songs - 4 hr 56 min
+108 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Herzfeind \- Titelsong zum Film „Trauzeugen“](https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzfeind \(Titelsong zum Film „Trauzeugen“\)](https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ) | 2:30 | 2024-06-28 |  |
 | [Hier](https://open.spotify.com/track/4pixX8XnfVkmLWQDMANjG9) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Verlieren/Gefunden](https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi) | 2:26 | 2024-07-25 |  |
 | [Himmel Leer](https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Himmel Leer](https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK) | 3:02 | 2024-06-28 |  |
-| [Hund \(feat\. Takt32\)](https://open.spotify.com/track/0YLSTJa2YeDmNNaO7PvpFQ) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Hund \(feat\. Takt32\)](https://open.spotify.com/album/4wCKsCSgFcqu6VnZWBJj8Y) | 3:02 | 2024-06-28 |  |
+| [Hund \(feat\. Takt32\)](https://open.spotify.com/track/0YLSTJa2YeDmNNaO7PvpFQ) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Hund \(feat\. Takt32\)](https://open.spotify.com/album/4wCKsCSgFcqu6VnZWBJj8Y) | 3:02 | 2024-06-28 | 2024-08-05 |
 | [Höhenangst](https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:27 | 2024-06-28 |  |
 | [Ich hass dich](https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Ich hass dich](https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw) | 3:13 | 2024-06-28 |  |
 | [Ich Liebe Dich](https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich Liebe Dich](https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa) | 2:35 | 2024-06-28 |  |
@@ -113,6 +113,7 @@
 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 | 2024-06-28 |  |
 | [winterlove2.0](https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [winterlove2.0](https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb) | 3:08 | 2024-06-28 |  |
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-06-28 |  |
+| [Wünsch mir was](https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY) | [METRICKZ](https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf) | [Mufasa](https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1) | 3:15 | 2024-08-01 |  |
 | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu) | 2:31 | 2024-06-28 |  |
 | [Über dem Himmel](https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Über dem Himmel](https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK) | 2:26 | 2024-06-28 |  |
 

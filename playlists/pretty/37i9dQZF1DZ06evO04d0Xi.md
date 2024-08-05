@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 ### [This Is Fernanda Brum](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04d0Xi)
 
-> This is Fernanda Brum\. The essential tracks, all in one playlist.
+> This is Fernanda Brum\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,794 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,797 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 49 | [Te Amaria Outra Vez](https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 4:23 |
 | 50 | [Apenas Um Toque](https://open.spotify.com/track/6vyBGkgcPlt6ztpCNxoWpS) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas Um Toque](https://open.spotify.com/album/2pComoIWGKFuSPQU6I3iuD) | 5:05 |
 
-Snapshot ID: `ZqrQAAAAAAAVvYYlrmCdoZHt+baqWuu3`
+Snapshot ID: `ZqrQAAAAAAC9gyWk4pwwYasG8M1TWmug`

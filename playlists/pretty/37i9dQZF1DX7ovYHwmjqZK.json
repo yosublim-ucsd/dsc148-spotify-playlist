@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 229334,
+  "num_followers": 229379,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Batidinha",
+      "url": "https://open.spotify.com/track/3KqGO5n8QUERnz0HXcma5S"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
         "name": "Ataraxia",
         "url": "https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Batidinha",
-      "url": "https://open.spotify.com/track/3KqGO5n8QUERnz0HXcma5S"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
         "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
         "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 238310,
       "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
       "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
-      },
-      "artists": [
-        {
-          "name": "Adriana Arias",
-          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
-        }
-      ],
-      "duration_ms": 167764,
-      "name": "Doralice",
-      "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
     },
     {
       "added_at": "2024-07-26 15:02:20",
@@ -395,18 +379,18 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
-        "name": "Anos Dourados",
-        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
       },
       "artists": [
         {
-          "name": "Luiz Lucas",
-          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
+          "name": "Adriana Arias",
+          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
         }
       ],
-      "duration_ms": 333251,
-      "name": "A Paz",
-      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
+      "duration_ms": 167764,
+      "name": "Doralice",
+      "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
     },
     {
       "added_at": "2024-07-26 15:02:20",
@@ -427,6 +411,22 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
+        "name": "Anos Dourados",
+        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
+      },
+      "artists": [
+        {
+          "name": "Luiz Lucas",
+          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
+        }
+      ],
+      "duration_ms": 333251,
+      "name": "A Paz",
+      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
         "name": "Edu & Tom, Tom & Edu",
         "url": "https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 257533,
       "name": "\u00c9 Preciso Dizer Adeus",
       "url": "https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
+        "name": "Um Dia No Mar",
+        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
+      },
+      "artists": [
+        {
+          "name": "Claudio Fonseca Quartet",
+          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
+        }
+      ],
+      "duration_ms": 161901,
+      "name": "Um Dia No Mar",
+      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
     },
     {
       "added_at": "2024-07-26 15:02:20",
@@ -495,22 +511,6 @@
       "duration_ms": 256522,
       "name": "Falando de Amor",
       "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
-        "name": "Um Dia No Mar",
-        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
-      },
-      "artists": [
-        {
-          "name": "Claudio Fonseca Quartet",
-          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
-        }
-      ],
-      "duration_ms": 161901,
-      "name": "Um Dia No Mar",
-      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
     },
     {
       "added_at": "2024-07-26 15:02:20",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
+        "name": "Bim Bom",
+        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 101793,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
         "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
         "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 204394,
       "name": "Cl\u00e1udia",
       "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
-        "name": "Bim Bom",
-        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 101793,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
     },
     {
       "added_at": "2024-07-26 15:02:20",
@@ -723,6 +723,30 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
+        "name": "Samba Sem Ver\u00e3o",
+        "url": "https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH"
+      },
+      "artists": [
+        {
+          "name": "Marcio Nucci",
+          "url": "https://open.spotify.com/artist/5emBFil4bHt1h81zHDIhsa"
+        },
+        {
+          "name": "Delia Fischer",
+          "url": "https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        }
+      ],
+      "duration_ms": 253870,
+      "name": "Samba Sem Ver\u00e3o",
+      "url": "https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
         "name": "House Of Jade",
         "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
       },
@@ -755,66 +779,6 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
-        "name": "Samba Sem Ver\u00e3o",
-        "url": "https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH"
-      },
-      "artists": [
-        {
-          "name": "Marcio Nucci",
-          "url": "https://open.spotify.com/artist/5emBFil4bHt1h81zHDIhsa"
-        },
-        {
-          "name": "Delia Fischer",
-          "url": "https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG"
-        },
-        {
-          "name": "Jaques Morelenbaum",
-          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
-        }
-      ],
-      "duration_ms": 253870,
-      "name": "Samba Sem Ver\u00e3o",
-      "url": "https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
-        "name": "Caminhos Cruzados",
-        "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 152752,
-      "name": "Caminhos Cruzados",
-      "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
-        "name": "As Cores das Flores",
-        "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "M\u00e1rcio Moreira",
-          "url": "https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "As Cores das Flores",
-      "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
         "name": "Sorte!",
         "url": "https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw"
       },
@@ -839,6 +803,26 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
+        "name": "As Cores das Flores",
+        "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "M\u00e1rcio Moreira",
+          "url": "https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "As Cores das Flores",
+      "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
         "name": "Veja Bem Meu Bem (Single)",
         "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 322202,
       "name": "Veja Bem Meu Bem",
       "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
+        "name": "Caminhos Cruzados",
+        "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 152752,
+      "name": "Caminhos Cruzados",
+      "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
     },
     {
       "added_at": "2024-07-26 15:02:20",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
+        "name": "Samba Doce",
+        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
+      },
+      "artists": [
+        {
+          "name": "Jorge Helder",
+          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Samba Doce",
+      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
         "name": "Quase Mem\u00f3ria",
         "url": "https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
-        "name": "Samba Doce",
-        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
-      },
-      "artists": [
-        {
-          "name": "Jorge Helder",
-          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Samba Doce",
-      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
         "name": "Encanto",
         "url": "https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 209254,
       "name": "Encanto",
       "url": "https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
+      },
+      "artists": [
+        {
+          "name": "Francis Hime",
+          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Samba Dolente",
+      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
     },
     {
       "added_at": "2024-07-26 15:02:20",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
-      },
-      "artists": [
-        {
-          "name": "Francis Hime",
-          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Samba Dolente",
-      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
         "name": "Tin Tin Por Tin Tin",
         "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
-        "name": "Muito \u00e0 Vontade",
-        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
-      },
-      "artists": [
-        {
-          "name": "Sammy Silva Band",
-          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
-        }
-      ],
-      "duration_ms": 157268,
-      "name": "Muito \u00e0 Vontade",
-      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
         "name": "Parti Capuri",
         "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 240400,
       "name": "Parti Capuri",
       "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
+        "name": "Muito \u00e0 Vontade",
+        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
+      },
+      "artists": [
+        {
+          "name": "Sammy Silva Band",
+          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
+        }
+      ],
+      "duration_ms": 157268,
+      "name": "Muito \u00e0 Vontade",
+      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
     },
     {
       "added_at": "2024-07-26 15:02:20",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
+        "name": "O Samba, a Roseira e o Vento",
+        "url": "https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg"
+      },
+      "artists": [
+        {
+          "name": "Eliza Meireles",
+          "url": "https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV"
+        }
+      ],
+      "duration_ms": 173178,
+      "name": "Compro o Vento",
+      "url": "https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
         "name": "Feito \u00e0 M\u00e3o",
         "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 279456,
       "name": "Bossa de Maio",
       "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
-        "name": "O Samba, a Roseira e o Vento",
-        "url": "https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg"
-      },
-      "artists": [
-        {
-          "name": "Eliza Meireles",
-          "url": "https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV"
-        }
-      ],
-      "duration_ms": 173178,
-      "name": "Compro o Vento",
-      "url": "https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq"
     },
     {
       "added_at": "2024-07-26 15:02:20",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-07-26 15:02:20",
       "album": {
-        "name": "Bluchanga",
-        "url": "https://open.spotify.com/album/4UxbD3B7SIIBphqtKpdTKU"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "Bluchanga",
-      "url": "https://open.spotify.com/track/1zxMcomnqXDoPipY4ACR8t"
-    },
-    {
-      "added_at": "2024-07-26 15:02:20",
-      "album": {
         "name": "A Bossa Muito Moderna De Donato E Seu Trio",
         "url": "https://open.spotify.com/album/0SgDWR5LcEig2Px0XZnmhZ"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 199000,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO"
+    },
+    {
+      "added_at": "2024-07-26 15:02:20",
+      "album": {
+        "name": "Bluchanga",
+        "url": "https://open.spotify.com/album/4UxbD3B7SIIBphqtKpdTKU"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "Bluchanga",
+      "url": "https://open.spotify.com/track/1zxMcomnqXDoPipY4ACR8t"
     }
   ],
   "unique_name": "Caf\u00e9 Bossa",

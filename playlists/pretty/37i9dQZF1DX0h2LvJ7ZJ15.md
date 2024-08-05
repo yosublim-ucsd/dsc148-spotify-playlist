@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,115 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,562 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 44 | [Hands up! \- Slowed](https://open.spotify.com/track/1cbDFtFwFk3iyYOgnuxNT4) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up! \(The Remix\)](https://open.spotify.com/album/07YCL9cU3GuKxXQucJsKap) | 2:38 |
 | 45 | [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 |
 | 46 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 |
-| 47 | [BASSLINE \- SLOWED](https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP) | [PXRKX](https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4), [Shadow \- Plus](https://open.spotify.com/artist/6LYUNVm4A6yGEYYxmaOSsc) | [BASSLINE](https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK) | 2:10 |
-| 48 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
+| 47 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
+| 48 | [BASSLINE \- SLOWED](https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP) | [PXRKX](https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4), [Shadow \- Plus](https://open.spotify.com/artist/6LYUNVm4A6yGEYYxmaOSsc) | [BASSLINE](https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK) | 2:10 |
 | 49 | [Sahara \- Slowed](https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara \(Slowed\)](https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw) | 3:34 |
 | 50 | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1) | 2:21 |
 

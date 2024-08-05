@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 139672,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
@@ -3308,6 +3308,28 @@
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "album": {
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
+      },
+      "artists": [
+        {
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        },
+        {
+          "name": "Lisdoonvarna Crew",
+          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146384,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
     },
     {
       "album": {

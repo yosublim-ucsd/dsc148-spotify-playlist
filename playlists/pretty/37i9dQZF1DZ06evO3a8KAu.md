@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 ### [This Is Ulices Chaidez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3a8KAu)
 
-> This is Ulices Chaidez\. Tutti i brani in un'unica playlist.
+> This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,202 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,209 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 4:12 |
 | 51 | [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 |
 
-Snapshot ID: `ZqrQAAAAAADN8KR8NnwwOeiAApscdc99`
+Snapshot ID: `ZqrQAAAAAAACWlelh3XtDPsCZW4QnSsM`

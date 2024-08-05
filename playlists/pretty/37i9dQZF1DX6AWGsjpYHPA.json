@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 151543,
+  "num_followers": 151589,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 193401,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Light Of Worlds",
         "url": "https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 193401,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        }
-      ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Remix",
         "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 384986,
       "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
       "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
       "added_at": "2024-07-26 04:00:00",

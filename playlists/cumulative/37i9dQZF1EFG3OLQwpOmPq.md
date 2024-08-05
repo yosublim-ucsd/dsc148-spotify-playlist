@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4e1uL7ct1eJLYsIEob5yEp">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-113 songs - 5 hr 25 min
+114 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [High Hopes](https://open.spotify.com/track/0N3FvAOPKg4oGJLVshk72Y) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [High Hopes](https://open.spotify.com/album/1J3tAErrryLAG4ymvG1LV6) | 2:59 | 2022-06-15 |  |
 | [Hung Up](https://open.spotify.com/track/5piGbFZr6mMi7jfVvQUzGC) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [Hung Up](https://open.spotify.com/album/3lP2uvFc1EPkSL6Seyr6f5) | 4:18 | 2022-05-29 |  |
 | [hypotheticals](https://open.spotify.com/track/1HI84AsI0wokonlV760TRT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [hypotheticals](https://open.spotify.com/album/3VYNIeDemi3QCq5QDFwHo2) | 2:04 | 2022-05-29 |  |
-| [I Can’t Be Me](https://open.spotify.com/track/2utvxuqh4RalwpjM3CRAmH) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [I Can’t Be Me](https://open.spotify.com/album/1qNRDyWPSt6yw9YivJ7JT8) | 3:11 | 2023-08-05 |  |
+| [I Can’t Be Me](https://open.spotify.com/track/2utvxuqh4RalwpjM3CRAmH) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [I Can’t Be Me](https://open.spotify.com/album/1qNRDyWPSt6yw9YivJ7JT8) | 3:11 | 2023-08-05 | 2024-08-05 |
+| [I Can’t Be Me](https://open.spotify.com/track/3LvBL2OMiI2Rn5JMIs1Vky) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [I Can’t Be Me](https://open.spotify.com/album/0RhpeumYFxFcToi41lDdsh) | 3:11 | 2024-08-04 |  |
 | [I Can’t Be Me](https://open.spotify.com/track/6zu3Rz7BgVmeE7QD4DcWzN) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [I Can’t Be Me](https://open.spotify.com/album/4LCZyfna7fJpsMstdTjbVX) | 3:11 | 2022-06-15 | 2023-08-06 |
 | [i'm glad that you found someone](https://open.spotify.com/track/2dEeqbtc9uQ9YeMEhbgesL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [i'm glad that you found someone](https://open.spotify.com/album/4M8qEALk69QAu2QKFPREV6) | 2:18 | 2022-05-29 |  |
 | [ibtc](https://open.spotify.com/track/6QtBzhRBv5nrIDYIAiS2gh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [ibtc](https://open.spotify.com/album/6c0qrNtQaaRbefPkSQIOvw) | 2:03 | 2022-05-29 | 2022-06-16 |

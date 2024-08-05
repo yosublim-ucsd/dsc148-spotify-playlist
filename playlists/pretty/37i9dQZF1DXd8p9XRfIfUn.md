@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: AKRIILA, TAICHU
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,569 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,586 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 38 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 |
 | 39 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 |
 | 40 | [Siempre Fine](https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Siempre Fine](https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4) | 2:45 |
-| 41 | [Mi Fanatica](https://open.spotify.com/track/4M3UPGNere257tK0Qguga2) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Mi Fanatica](https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY) | 3:43 |
-| 42 | [Dimelo Ma](https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Dimelo Ma](https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh) | 2:53 |
+| 41 | [Dimelo Ma](https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Dimelo Ma](https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh) | 2:53 |
+| 42 | [Mi Fanatica](https://open.spotify.com/track/4M3UPGNere257tK0Qguga2) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Mi Fanatica](https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY) | 3:43 |
 | 43 | [La del Tik Tok](https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [La del Tik Tok](https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC) | 4:17 |
 | 44 | [Enemigo](https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Enemigo](https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd) | 2:30 |
 | 45 | [Enredao](https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Enredao](https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7) | 2:52 |

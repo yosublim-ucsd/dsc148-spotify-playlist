@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,380 likes - 46 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,397 likes - 46 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

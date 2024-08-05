@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 223300,
+  "num_followers": 223540,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 192492,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
         "name": "Stay Awhile",
         "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
       },
@@ -127,22 +111,6 @@
       "duration_ms": 277600,
       "name": "Where the Night Begins",
       "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "citynights",
-        "url": "https://open.spotify.com/album/4uYrJhj8oQGKm2UoocoMGF"
-      },
-      "artists": [
-        {
-          "name": "Ny Cic",
-          "url": "https://open.spotify.com/artist/3xmRTk6mD5NZTBGI05KIZ9"
-        }
-      ],
-      "duration_ms": 134980,
-      "name": "citynights",
-      "url": "https://open.spotify.com/track/4a5ydZOgONWaxaFMN4bmyx"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -167,6 +135,38 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
+        "name": "citynights",
+        "url": "https://open.spotify.com/album/4uYrJhj8oQGKm2UoocoMGF"
+      },
+      "artists": [
+        {
+          "name": "Ny Cic",
+          "url": "https://open.spotify.com/artist/3xmRTk6mD5NZTBGI05KIZ9"
+        }
+      ],
+      "duration_ms": 134980,
+      "name": "citynights",
+      "url": "https://open.spotify.com/track/4a5ydZOgONWaxaFMN4bmyx"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 192492,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
         "name": "Babysoul",
         "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
       },
@@ -183,18 +183,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Perfect Moment",
-        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
+        "name": "Sudden Burst Of Energy",
+        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
       },
       "artists": [
         {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
         }
       ],
-      "duration_ms": 285626,
-      "name": "Perfect Moment",
-      "url": "https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df"
+      "duration_ms": 287626,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -215,18 +215,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Sudden Burst Of Energy",
-        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
+        "name": "Perfect Moment",
+        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
       "artists": [
         {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 287626,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
+      "duration_ms": 285626,
+      "name": "Perfect Moment",
+      "url": "https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "Deep Touch",
+      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
         "name": "Porch Java",
         "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
         }
       ],
-      "duration_ms": 276360,
-      "name": "Deep Touch",
-      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
+      "duration_ms": 320733,
+      "name": "Midnight At The Oasis",
+      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -359,22 +375,6 @@
       "duration_ms": 224840,
       "name": "Pacific Breeze",
       "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "Midnight At The Oasis",
-      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Playin' Favorites",
-        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
         "name": "Paks",
         "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 168888,
       "name": "Paks",
       "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "Playin' Favorites",
+        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Read Between the Lines",
+      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
         "name": "Keepin' It Cool",
         "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+        "name": "Big Dume",
+        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
         }
       ],
-      "duration_ms": 262800,
-      "name": "Read Between the Lines",
-      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
+      "duration_ms": 230101,
+      "name": "Big Dume",
+      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -783,38 +799,6 @@
       "duration_ms": 270025,
       "name": "Working Buttons",
       "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "Do not disturb",
-        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
-      },
-      "artists": [
-        {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Do not disturb",
-      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "Big Dume",
-        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
-      },
-      "artists": [
-        {
-          "name": "Citronium",
-          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
-        }
-      ],
-      "duration_ms": 230101,
-      "name": "Big Dume",
-      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -851,22 +835,6 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Got 2 Be Groovin'",
-        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 291226,
-      "name": "Miss Bane",
-      "url": "https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
         "name": "Dressed To Chill",
         "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
       },
@@ -879,6 +847,22 @@
       "duration_ms": 241386,
       "name": "Dressed To Chill",
       "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "Do not disturb",
+        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+      },
+      "artists": [
+        {
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Do not disturb",
+      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -899,6 +883,38 @@
       "duration_ms": 279880,
       "name": "More Or Les Paul",
       "url": "https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "Got 2 Be Groovin'",
+        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 291226,
+      "name": "Miss Bane",
+      "url": "https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -935,22 +951,6 @@
       "duration_ms": 236960,
       "name": "Two of a Kind (feat. Chuck Loeb)",
       "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Candlelight",
-      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Ready to Play",
-        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Catnap",
-      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Pineapple",
-        "url": "https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx"
+        "name": "Ready to Play",
+        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
       },
       "artists": [
         {
-          "name": "Three Peats",
-          "url": "https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco"
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
         }
       ],
-      "duration_ms": 216144,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam"
+      "duration_ms": 303973,
+      "name": "Catnap",
+      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+        "name": "Pineapple",
+        "url": "https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+          "name": "Three Peats",
+          "url": "https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco"
         }
       ],
-      "duration_ms": 277840,
-      "name": "Saturday Cool",
-      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
+      "duration_ms": 216144,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1151,6 +1135,38 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
+        "name": "Little Tokyo",
+        "url": "https://open.spotify.com/album/4OtCVYtmUw5oJ7fSyRqbMQ"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Little Tokyo",
+      "url": "https://open.spotify.com/track/6KH7ps7H92gdLQcfIHpoc6"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Saturday Cool",
+      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 242333,
       "name": "You're The One For Me",
       "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "Little Tokyo",
-        "url": "https://open.spotify.com/album/4OtCVYtmUw5oJ7fSyRqbMQ"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Little Tokyo",
-      "url": "https://open.spotify.com/track/6KH7ps7H92gdLQcfIHpoc6"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Smooth Jazz Radio Hits Volume Two",
-        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
       },
       "artists": [
         {
-          "name": "Gota",
-          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 216293,
-      "name": "In The City Life",
-      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
+      "duration_ms": 308346,
+      "name": "Love To All",
+      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
+        "name": "Smooth Jazz Radio Hits Volume Two",
+        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
       },
       "artists": [
         {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+          "name": "Gota",
+          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Love To All",
-      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
+      "duration_ms": 216293,
+      "name": "In The City Life",
+      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+        "name": "Big Jon",
+        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
         }
       ],
-      "duration_ms": 297493,
-      "name": "Show Me The Way",
-      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
+      "duration_ms": 230886,
+      "name": "Big Jon",
+      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1403,22 +1419,6 @@
       "duration_ms": 325373,
       "name": "Night Calls",
       "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "Big Jon",
-        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
-      },
-      "artists": [
-        {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
-        }
-      ],
-      "duration_ms": 230886,
-      "name": "Big Jon",
-      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
         "name": "Club 1600",
         "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 283000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
     },
     {
       "added_at": "2024-07-22 09:14:02",

@@ -1,6 +1,6 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Lara Somogyi.",
-  "num_followers": 111473,
+  "num_followers": 111503,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Falling Colour",
-        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Falling Colour",
-      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Gymnop\u00e9dies",
         "url": "https://open.spotify.com/album/0Nda1Wpk7K7Wax1EsdvQuI"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 162000,
       "name": "Gymnop\u00e9dies",
       "url": "https://open.spotify.com/track/6r0Jqgnd5i92R2cuE0Z1q6"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Falling Colour",
+        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Falling Colour",
+      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2wz27a9CrwZf9Kgu6PgWq2"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 124451,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/297ZF3Zp0VFLY21qZ4bQ6W"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
         "name": "and we\u2019ll leave it there\u2026",
         "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 219840,
       "name": "and we\u2019ll leave it there\u2026",
       "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2wz27a9CrwZf9Kgu6PgWq2"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 124451,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/297ZF3Zp0VFLY21qZ4bQ6W"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Hafursey (Yfir)",
-        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 299441,
-      "name": "Hafursey (Yfir)",
-      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Empty City",
         "url": "https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 196523,
       "name": "Empty City",
       "url": "https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Hafursey (Yfir)",
+        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 299441,
+      "name": "Hafursey (Yfir)",
+      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "On Giacometti",
-        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 353200,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Who Tends a Garden",
         "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 280625,
       "name": "Who Tends a Garden",
       "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 353200,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "hundred00",
-        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 289210,
-      "name": "hundred00",
-      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Human Reworked",
         "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 277653,
       "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
+        "name": "Unfold (XXIM:EXPO #2)",
+        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        }
+      ],
+      "duration_ms": 218743,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 153120,
       "name": "Home",
       "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Unfold (XXIM:EXPO #2)",
-        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
-      },
-      "artists": [
-        {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
-        }
-      ],
-      "duration_ms": 218743,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "N\u00e9fos",
-        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
-      },
-      "artists": [
-        {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "N\u00e9fos",
-      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Spirit Loop",
         "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 245500,
       "name": "Spirit Loop",
       "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "N\u00e9fos",
+        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "N\u00e9fos",
+      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 425600,
+      "name": "The Boat",
+      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
         "name": "Pavane (Sam Thompson Rework)",
         "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 323693,
       "name": "Pavane - Sam Thompson Rework",
       "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "The Boat",
-        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 425600,
-      "name": "The Boat",
-      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Cort\u00e8ge (Niklas Paschburg Rework)",
-        "url": "https://open.spotify.com/album/6mHpnizw0fgpwMZk00mM5Q"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        }
-      ],
-      "duration_ms": 291529,
-      "name": "Cort\u00e8ge (Niklas Paschburg Rework)",
-      "url": "https://open.spotify.com/track/6HdsRsuRAQdavFThQdfMpN"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "We Could Stay",
         "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 243431,
       "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
       "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Cort\u00e8ge (Niklas Paschburg Rework)",
+        "url": "https://open.spotify.com/album/6mHpnizw0fgpwMZk00mM5Q"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "duration_ms": 291529,
+      "name": "Cort\u00e8ge (Niklas Paschburg Rework)",
+      "url": "https://open.spotify.com/track/6HdsRsuRAQdavFThQdfMpN"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
+        "name": "In All This Heavy Blue",
+        "url": "https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        }
+      ],
+      "duration_ms": 276610,
+      "name": "In All This Heavy Blue",
+      "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
         "name": "Gabriel (Tom Player Strings Version)",
         "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 182212,
       "name": "Gabriel - Tom Player Strings Version",
       "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "In All This Heavy Blue",
-        "url": "https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Colin Stetson",
-          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
-        }
-      ],
-      "duration_ms": 276610,
-      "name": "In All This Heavy Blue",
-      "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Pelikan (Aukai Rework)",
-        "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
+        "name": "4nine",
+        "url": "https://open.spotify.com/album/1yQ94KpsFxIgr1AbbNsmLl"
       },
       "artists": [
         {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
-        },
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
         }
       ],
-      "duration_ms": 332633,
-      "name": "Pelikan - Aukai Rework",
-      "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
+      "duration_ms": 176250,
+      "name": "4nine",
+      "url": "https://open.spotify.com/track/6Vv6v5zjW5rAiSlpEVQxjy"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1639,18 +1635,22 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "4nine",
-        "url": "https://open.spotify.com/album/1yQ94KpsFxIgr1AbbNsmLl"
+        "name": "Pelikan (Aukai Rework)",
+        "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+        },
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
         }
       ],
-      "duration_ms": 176250,
-      "name": "4nine",
-      "url": "https://open.spotify.com/track/6Vv6v5zjW5rAiSlpEVQxjy"
+      "duration_ms": 332633,
+      "name": "Pelikan - Aukai Rework",
+      "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/57oDRa3SH7adaetlWdCSjn"
-      },
-      "artists": [
-        {
-          "name": "Nick Box",
-          "url": "https://open.spotify.com/artist/6bC35LJGdHkMDZuVbg88l6"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Star of the County Down (Matt Robertson Ambient Mix)",
         "url": "https://open.spotify.com/album/70xARhLSnGj1WxOzTsKXya"
       },
@@ -2071,6 +2055,22 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/57oDRa3SH7adaetlWdCSjn"
+      },
+      "artists": [
+        {
+          "name": "Nick Box",
+          "url": "https://open.spotify.com/artist/6bC35LJGdHkMDZuVbg88l6"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
         "name": "Variations",
         "url": "https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i"
       },
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Driving Through the Aftermath of a Storm on a Clear Day",
-        "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        }
-      ],
-      "duration_ms": 151695,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "P\u00e1th\u0113",
         "url": "https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 341013,
       "name": "P\u00e1th\u0113",
       "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Driving Through the Aftermath of a Storm on a Clear Day",
+        "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
+      },
+      "artists": [
+        {
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+        }
+      ],
+      "duration_ms": 151695,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "As Now the Light Retreats",
-        "url": "https://open.spotify.com/album/0xbyQ12QWk7PFgiXjOfVD7"
-      },
-      "artists": [
-        {
-          "name": "Sam Thompson",
-          "url": "https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Phosphenes",
-      "url": "https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "to be found",
         "url": "https://open.spotify.com/album/22kF6tbCqOGFwIT3ju5R6P"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 169750,
       "name": "to be found",
       "url": "https://open.spotify.com/track/4NgYCbbHYDpTRBcoxx9heK"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "As Now the Light Retreats",
+        "url": "https://open.spotify.com/album/0xbyQ12QWk7PFgiXjOfVD7"
+      },
+      "artists": [
+        {
+          "name": "Sam Thompson",
+          "url": "https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Phosphenes",
+      "url": "https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Dialogues",
-        "url": "https://open.spotify.com/album/2PkwLM9JNzXPVwQxyizrZC"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        },
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        }
-      ],
-      "duration_ms": 234293,
-      "name": "Reconnaissance Without End",
-      "url": "https://open.spotify.com/track/7JIFJgMkEHvrasSXjoHBie"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/4jSkTWLz7MKophq1YSdPH1"
       },
@@ -2319,6 +2299,26 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/2PkwLM9JNzXPVwQxyizrZC"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        },
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Reconnaissance Without End",
+      "url": "https://open.spotify.com/track/7JIFJgMkEHvrasSXjoHBie"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
         "name": "Ensemb7e",
         "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
       },
@@ -2331,22 +2331,6 @@
       "duration_ms": 318280,
       "name": "Super Hexacordum - Ensemb7e Version",
       "url": "https://open.spotify.com/track/6aL3anr4gLkHiPi9TM1PpJ"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Entanglement",
-        "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
-      },
-      "artists": [
-        {
-          "name": "Rooydad",
-          "url": "https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Everything in Life is Vibration",
-      "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2387,6 +2371,22 @@
       "duration_ms": 237706,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/01U5Cbupt4k0pbef8kDi7H"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Entanglement",
+        "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
+      },
+      "artists": [
+        {
+          "name": "Rooydad",
+          "url": "https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Everything in Life is Vibration",
+      "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2447,42 +2447,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Diane",
-        "url": "https://open.spotify.com/album/3j8npZa0TYmbkfsFWTnHvi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pioro",
-          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
-        }
-      ],
-      "duration_ms": 237563,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Icaro (Remix)",
-        "url": "https://open.spotify.com/album/0vLsnNQI3KcX5xvdKeTAuU"
-      },
-      "artists": [
-        {
-          "name": "Bryan Senti",
-          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
-        },
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        }
-      ],
-      "duration_ms": 348400,
-      "name": "Icaro - Remix",
-      "url": "https://open.spotify.com/track/0XgTdKdvDqkfSIfGnBADNw"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "La Vagabonde (Joseph Shabason Remix)",
         "url": "https://open.spotify.com/album/5ujDpwlmvXWOvjkUVjOkC5"
       },
@@ -2519,6 +2483,42 @@
       "duration_ms": 305913,
       "name": "La Vagabonde - Joseph Shabason Remix",
       "url": "https://open.spotify.com/track/2L87wbWMzkfROOK6RrmU5l"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Diane",
+        "url": "https://open.spotify.com/album/3j8npZa0TYmbkfsFWTnHvi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pioro",
+          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
+        }
+      ],
+      "duration_ms": 237563,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Icaro (Remix)",
+        "url": "https://open.spotify.com/album/0vLsnNQI3KcX5xvdKeTAuU"
+      },
+      "artists": [
+        {
+          "name": "Bryan Senti",
+          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
+        },
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 348400,
+      "name": "Icaro - Remix",
+      "url": "https://open.spotify.com/track/0XgTdKdvDqkfSIfGnBADNw"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2571,6 +2571,38 @@
       "duration_ms": 369000,
       "name": "Leaving This Behind Again",
       "url": "https://open.spotify.com/track/7tCK6wE3aCJYz4FztSYxFV"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Rose In Abstract (Portico Quartet Remix)",
+        "url": "https://open.spotify.com/album/13Hiad2UiJ7yU9oxvN8A6E"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        },
+        {
+          "name": "Morris Kliphuis",
+          "url": "https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl"
+        },
+        {
+          "name": "Lisa Morgenstern",
+          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        }
+      ],
+      "duration_ms": 301299,
+      "name": "Rose in Abstract - Portico Quartet Remix",
+      "url": "https://open.spotify.com/track/4htEjLpOGBkjMHxoUslMgn"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2635,38 +2667,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Rose In Abstract (Portico Quartet Remix)",
-        "url": "https://open.spotify.com/album/13Hiad2UiJ7yU9oxvN8A6E"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        },
-        {
-          "name": "Morris Kliphuis",
-          "url": "https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl"
-        },
-        {
-          "name": "Lisa Morgenstern",
-          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
-        },
-        {
-          "name": "Clarice Jensen",
-          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
-        }
-      ],
-      "duration_ms": 301299,
-      "name": "Rose in Abstract - Portico Quartet Remix",
-      "url": "https://open.spotify.com/track/4htEjLpOGBkjMHxoUslMgn"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "The Age Of Oddities",
         "url": "https://open.spotify.com/album/1D1XaClDiDPHJBhdVIZNOr"
       },
@@ -2679,6 +2679,38 @@
       "duration_ms": 345482,
       "name": "Ring Out The Darkness",
       "url": "https://open.spotify.com/track/1evRU2VfGEISWDFYOwmhSO"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Step Step Step",
+        "url": "https://open.spotify.com/album/55h9YjJXPitJJOXPUSQy9p"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Aisha Burns",
+          "url": "https://open.spotify.com/artist/1AZoAl5rMnZWGNPGr88krQ"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Jason Treuting",
+          "url": "https://open.spotify.com/artist/3vo9pILdfmYRxSiC21bMnT"
+        }
+      ],
+      "duration_ms": 241390,
+      "name": "Step Step Step",
+      "url": "https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2771,22 +2803,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "\u00e6vi",
-        "url": "https://open.spotify.com/album/1fNG8AKXTWhdcc8OWVMzFs"
-      },
-      "artists": [
-        {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
-        }
-      ],
-      "duration_ms": 324160,
-      "name": "\u00e6vi",
-      "url": "https://open.spotify.com/track/1u1jonznjouksyPiaZlTmt"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2HbLl2KDzOMW3TtcliEKqx"
       },
@@ -2799,6 +2815,22 @@
       "duration_ms": 212042,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/2ML2LRXbX2JfFZzeoqs7PH"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "\u00e6vi",
+        "url": "https://open.spotify.com/album/1fNG8AKXTWhdcc8OWVMzFs"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        }
+      ],
+      "duration_ms": 324160,
+      "name": "\u00e6vi",
+      "url": "https://open.spotify.com/track/1u1jonznjouksyPiaZlTmt"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2823,34 +2855,18 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Step Step Step",
-        "url": "https://open.spotify.com/album/55h9YjJXPitJJOXPUSQy9p"
+        "name": "Papaver",
+        "url": "https://open.spotify.com/album/3ilqKPUf4InrCBSWwzGY8L"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Aisha Burns",
-          "url": "https://open.spotify.com/artist/1AZoAl5rMnZWGNPGr88krQ"
-        },
-        {
-          "name": "Clarice Jensen",
-          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
-        },
-        {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        },
-        {
-          "name": "Jason Treuting",
-          "url": "https://open.spotify.com/artist/3vo9pILdfmYRxSiC21bMnT"
+          "name": "Adam Weiss",
+          "url": "https://open.spotify.com/artist/40A9Tg73TeQTIFN0wgxsBG"
         }
       ],
-      "duration_ms": 241390,
-      "name": "Step Step Step",
-      "url": "https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl"
+      "duration_ms": 246000,
+      "name": "Papaver",
+      "url": "https://open.spotify.com/track/2jXNT0yeCmCpJKUVM5lZZJ"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2867,22 +2883,6 @@
       "duration_ms": 246666,
       "name": "We Were Landed, We Were Landing Gently We Landed (uncut)",
       "url": "https://open.spotify.com/track/1RenBfXqWZiCElrTQVKwTl"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Papaver",
-        "url": "https://open.spotify.com/album/3ilqKPUf4InrCBSWwzGY8L"
-      },
-      "artists": [
-        {
-          "name": "Adam Weiss",
-          "url": "https://open.spotify.com/artist/40A9Tg73TeQTIFN0wgxsBG"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Papaver",
-      "url": "https://open.spotify.com/track/2jXNT0yeCmCpJKUVM5lZZJ"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2919,22 +2919,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Postcards for the Backyard, Pt. 2",
-        "url": "https://open.spotify.com/album/3HZP7L6BeGxu2n71z7XAmE"
-      },
-      "artists": [
-        {
-          "name": "Neighborhood Libraries",
-          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
-        }
-      ],
-      "duration_ms": 154078,
-      "name": "Are We There Yet",
-      "url": "https://open.spotify.com/track/798oxf0qjHIEUWNeH8Giwd"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Rose In Abstract",
         "url": "https://open.spotify.com/album/6Hc12NeN4AfqHtdXhUvV6O"
       },
@@ -2963,18 +2947,18 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Grains of Gold",
-        "url": "https://open.spotify.com/album/1G7nQlAfySuHs7AdGdIyIW"
+        "name": "Postcards for the Backyard, Pt. 2",
+        "url": "https://open.spotify.com/album/3HZP7L6BeGxu2n71z7XAmE"
       },
       "artists": [
         {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
         }
       ],
-      "duration_ms": 282760,
-      "name": "Fastelavn",
-      "url": "https://open.spotify.com/track/5Yw6J6DgRK9TzX1FHAjVzn"
+      "duration_ms": 154078,
+      "name": "Are We There Yet",
+      "url": "https://open.spotify.com/track/798oxf0qjHIEUWNeH8Giwd"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2999,18 +2983,18 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Copper Hills",
-        "url": "https://open.spotify.com/album/0XUHan0ilPermlreqDvVen"
+        "name": "Grains of Gold",
+        "url": "https://open.spotify.com/album/1G7nQlAfySuHs7AdGdIyIW"
       },
       "artists": [
         {
-          "name": "Elskavon",
-          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
         }
       ],
-      "duration_ms": 234520,
-      "name": "New North",
-      "url": "https://open.spotify.com/track/0UKDtIkQ2b0V2GjCcY22Da"
+      "duration_ms": 282760,
+      "name": "Fastelavn",
+      "url": "https://open.spotify.com/track/5Yw6J6DgRK9TzX1FHAjVzn"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -3027,6 +3011,22 @@
       "duration_ms": 180062,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Copper Hills",
+        "url": "https://open.spotify.com/album/0XUHan0ilPermlreqDvVen"
+      },
+      "artists": [
+        {
+          "name": "Elskavon",
+          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "New North",
+      "url": "https://open.spotify.com/track/0UKDtIkQ2b0V2GjCcY22Da"
     },
     {
       "added_at": "2024-07-26 12:23:01",

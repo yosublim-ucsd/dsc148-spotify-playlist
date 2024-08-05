@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,901 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,908 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 12 | [Amor de Mar](https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [Mano Lox](https://open.spotify.com/artist/3VlSOz5b2gEI7vXilAVtsO) | [Boemia, de Fato](https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd) | 2:56 |
 | 13 | [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [AQUINO](https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 |
 | 14 | [Um Brinde](https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV) | [Rick Agra](https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN) | [Um Brinde](https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2) | 2:33 |
-| 15 | [É preciso Calma](https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:35 |
-| 16 | [Do Meu Lado](https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p) | [Veni](https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl) | [Do Meu Lado](https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX) | 2:31 |
+| 15 | [Do Meu Lado](https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p) | [Veni](https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl) | [Do Meu Lado](https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX) | 2:31 |
+| 16 | [É preciso Calma](https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:35 |
 | 17 | [Caramelo](https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Caramelo](https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7) | 3:28 |
 | 18 | [Talante](https://open.spotify.com/track/5P1WNHW4nUcBDFQPXHbSfR) | [Dani\-Vie](https://open.spotify.com/artist/2RrEvDsnA3z244bN2Z32iM), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Minha Cara](https://open.spotify.com/album/7asVGLUfBi2Fxwb818FCzs) | 3:19 |
 | 19 | [Que Seja](https://open.spotify.com/track/4fTZRHPABEvDkfczCrvTtG) | [morgana](https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy) | [Que Seja](https://open.spotify.com/album/559vhzfF3rMa1ohkj0cKhf) | 4:38 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 55 | [Hortelã](https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce) | [leffs](https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs) | [Hortelã](https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y) | 3:05 |
 | 56 | [Surrender!](https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [Surrender!](https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x) | 3:09 |
 | 57 | [Me Liga](https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk) | [GAROUÁ](https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN) | [Me Liga](https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM) | 2:56 |
-| 58 | [ALÔ](https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [YASSIQ](https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl) | 2:08 |
-| 59 | [Se Eu Te Ver de Novo](https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c) | [Góbi](https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos), [Bianca Rhoden](https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI) | [Maçã do Amor](https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa) | 4:35 |
+| 58 | [Se Eu Te Ver de Novo](https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c) | [Góbi](https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos), [Bianca Rhoden](https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI) | [Maçã do Amor](https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa) | 4:35 |
+| 59 | [ALÔ](https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [YASSIQ](https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl) | 2:08 |
 | 60 | [Jacquemus](https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6) | [TOLENTINO](https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ) | [Jacquemus](https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45) | 2:33 |
 | 61 | [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 |
 | 62 | [Brisa](https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Brisa](https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME) | 3:31 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 69 | [Bom Vivant](https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT) | [M\. Costta](https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE) | [VERO](https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi) | 3:17 |
 | 70 | [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 |
 | 71 | [Alívio](https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [Alívio](https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb) | 3:11 |
-| 72 | [Esquece](https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt) | [Jalma](https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L) | [Esquece](https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1) | 2:58 |
-| 73 | [Amigo](https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA) | [Junim](https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft) | [Amigo](https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc) | 2:35 |
+| 72 | [Amigo](https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA) | [Junim](https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft) | [Amigo](https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc) | 2:35 |
+| 73 | [Esquece](https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt) | [Jalma](https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L) | [Esquece](https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1) | 2:58 |
 | 74 | [Disfarça](https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL) | [Silveriô](https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg) | [Disfarça](https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW) | 2:39 |
 | 75 | [perigo !!!](https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [facetime](https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN) | 3:01 |
 | 76 | [Queda livre](https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Queda livre](https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp) | 3:18 |

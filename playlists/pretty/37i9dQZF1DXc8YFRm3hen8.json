@@ -1,6 +1,6 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 174842,
+  "num_followers": 174874,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Soda Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 233746,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 233746,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Nunca Lo Olvides",
-        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 299810,
-      "name": "Nunca Lo Olvides",
-      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
         "name": "Por ces\u00e1rea",
         "url": "https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19"
       },
@@ -303,18 +287,18 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -331,6 +315,22 @@
       "duration_ms": 237546,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -363,6 +363,22 @@
       "duration_ms": 181826,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "Rocanroles Sin Destino",
+        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -415,22 +431,6 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
-        "name": "Rocanroles Sin Destino",
-        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Todo Sigue Igual",
+      "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 261545,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Todo Sigue Igual",
-      "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Voragine",
-        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Cae el Sol",
-      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
         "name": "Ey!",
         "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 209240,
       "name": "Polaroid De Locura Ordinaria",
       "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Cae el Sol",
+      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -711,6 +711,26 @@
       "duration_ms": 277011,
       "name": "Los Calientes",
       "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -759,26 +779,6 @@
       "duration_ms": 268998,
       "name": "El Riesgo",
       "url": "https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
-        "name": "Tango 4",
-        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
         "name": "Parte De La Religion",
         "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 269053,
       "name": "Rezo por Vos",
       "url": "https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 214090,
-      "name": "Las cosas que no se tocan",
-      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
         "name": "Acariciando Lo Aspero",
         "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
       },
@@ -999,22 +983,6 @@
       "duration_ms": 354746,
       "name": "Ala Delta",
       "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 181782,
-      "name": "DESCARTABLE",
-      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -1035,6 +1003,22 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "Las cosas que no se tocan",
+      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
         "name": "Tu Encanto",
         "url": "https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 181782,
+      "name": "DESCARTABLE",
+      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
         "name": "Lo Mejor de Pescado Rabioso",
         "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "La Direcci\u00f3n",
-        "url": "https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 237636,
-      "name": "Se Me Hizo Tarde",
-      "url": "https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
         "name": "Spinetta y los Socios del Desierto",
         "url": "https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 283466,
       "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
       "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "La Direcci\u00f3n",
+        "url": "https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 237636,
+      "name": "Se Me Hizo Tarde",
+      "url": "https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P"
     },
     {
       "added_at": "2024-07-25 18:13:41",

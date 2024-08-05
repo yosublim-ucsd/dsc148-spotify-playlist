@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 ### [This Is Elaine Martins](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ByiTJ)
 
-> This is Elaine Martins\. The essential tracks, all in one playlist.
+> This is Elaine Martins\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 14,625 likes - 50 songs - 3 hr 40 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [És Meu Tudo \(Ao Vivo\)](https://open.spotify.com/track/2nfr7wuyjoI5gqvVIOpABT) | [Ministério Sarando a Terra Ferida](https://open.spotify.com/artist/2sv3lMFX1GnZ7AxUFq6oT3), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ministério Sarando a Terra Ferida \(Ao Vivo\)](https://open.spotify.com/album/4nwCvJGaTRJkBHo8BDRAnz) | 7:39 |
 | 50 | [Linda Flor](https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Linda Flor](https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT) | 3:35 |
 
-Snapshot ID: `ZqrQAAAAAAAlZOastZzjj7Ch57kEmpoD`
+Snapshot ID: `ZqrQAAAAAACtUTQcf/z6aLLzujjdLy41`

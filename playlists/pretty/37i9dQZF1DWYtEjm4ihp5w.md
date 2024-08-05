@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen ma kayn f rap mghribi\. Cover: 7liwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,024 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,096 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 4 | [San Siro](https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [San Siro](https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP) | 3:24 |
 | 5 | [Ferga3 l'flow](https://open.spotify.com/track/5x4XZE1oBOJRBUWz4Y0iml) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 2:39 |
 | 6 | [Hanya Lwe9te](https://open.spotify.com/track/0MxvfoyHnrhPqcRGH61fvn) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Hanya Lwe9te](https://open.spotify.com/album/17YgJ4bcxu6TFYeVbPoQls) | 3:21 |
-| 7 | [Obligación](https://open.spotify.com/track/5YyO478uZQNJ9s9B1cBB3z) | [Delarue](https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [NO STOP](https://open.spotify.com/album/6FPY0EcDgbE3bNaFPAtfVv) | 4:30 |
-| 8 | [NIKEY](https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 4:33 |
-| 9 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 |
-| 10 | [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 |
-| 11 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 |
-| 12 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 |
-| 13 | [VIRA \- SLABA](https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [VIRA \- SLABA](https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb) | 2:48 |
-| 14 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 |
+| 7 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 |
+| 8 | [Obligación](https://open.spotify.com/track/5YyO478uZQNJ9s9B1cBB3z) | [Delarue](https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [NO STOP](https://open.spotify.com/album/6FPY0EcDgbE3bNaFPAtfVv) | 4:30 |
+| 9 | [NIKEY](https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 4:33 |
+| 10 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 |
+| 11 | [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 |
+| 12 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 |
+| 13 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 |
+| 14 | [VIRA \- SLABA](https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [VIRA \- SLABA](https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb) | 2:48 |
 | 15 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 |
 | 16 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 |
 | 17 | [WWW](https://open.spotify.com/track/6mwEXjCDlbOiJf15uV8gsr) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [BEFORE THE MIXTAPE](https://open.spotify.com/album/7CcKHM3IQpawxmRHYL7mU5) | 3:10 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 39 | [Ana Ola Nti](https://open.spotify.com/track/68uOiYbz5lJeTkoaHQq6KV) | [Iguidr](https://open.spotify.com/artist/6tjt10KbSIyUZEid47Kxbg), [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Tifinagh](https://open.spotify.com/album/5mR5F4B7Yvmg6XeLJLUh3t) | 2:39 |
 | 40 | [Ghetto Symphony](https://open.spotify.com/track/0Qk2pgJxmfiAwH1jtjTTBc) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [RECTOVERSO](https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9) | 4:11 |
 
-Snapshot ID: `ZqvZ+gAAAACqqlN4PtGyZiBok2KFSig6`
+Snapshot ID: `Zq9nBAAAAAAm0AvKZleTSkXGRjX5pOSD`

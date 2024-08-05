@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 ### [This Is Joan Baez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0V2kc4)
 
-> This Is Joan Baez\. Los temas esenciales, todos en una lista.
+> This is Joan Baez\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,251 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,256 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [In The Quiet Morning](https://open.spotify.com/track/4Kol6Ecm4yCgHvbLSP3XUG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 2:55 |
 | 50 | [Blessed Are](https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:06 |
 
-Snapshot ID: `ZqrQAAAAAACyyg/JdR33/mK8DnzbMPVH`
+Snapshot ID: `ZqrQAAAAAABps4PKcewaUiLyPj4gQ5+w`

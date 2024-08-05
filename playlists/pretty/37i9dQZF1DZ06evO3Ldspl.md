@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 
 ### [This Is Binomio de Oro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ldspl)
 
-> This Is Binomio de Oro\. Los temas esenciales, todos en una lista.
+> This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,937 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,939 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 49 | [No Vale Quererla](https://open.spotify.com/track/7zZpuiZ1T8aMtyo2Edrc1E) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Exportación](https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp) | 4:55 |
 | 50 | [Tú No Notas](https://open.spotify.com/track/1mNMgUsVZGUmmPDuOld9qT) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:22 |
 
-Snapshot ID: `ZqrQAAAAAAD0CyVdnw+7+QZAmgP9uTh9`
+Snapshot ID: `ZqrQAAAAAAB5ti+706p2efe49Fs/XXnM`

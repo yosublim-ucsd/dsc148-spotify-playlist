@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-90 songs - 4 hr 52 min
+92 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 | 2024-05-31 | 2024-07-24 |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-05-31 |  |
 | [Fingerprints](https://open.spotify.com/track/4kAlUfeHA7oxVKPs823Goj) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Fingerprints](https://open.spotify.com/album/6G5sqLGZw37y6V1ZsFQrBv) | 3:10 | 2024-05-31 |  |
+| [FRENEMIES](https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [FRENEMIES](https://open.spotify.com/album/23J0ze8Ram84QML5PlboAz) | 3:10 | 2024-08-01 |  |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2024-05-31 |  |
 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 | 2024-05-31 | 2024-07-14 |
 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 | 2024-05-31 |  |
@@ -49,7 +50,7 @@
 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 | 2024-05-31 |  |
 | [Like A Girl Does](https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Like A Girl Does](https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW) | 2:52 | 2024-05-31 |  |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-05-31 |  |
-| [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 | 2024-05-31 |  |
+| [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 | 2024-05-31 | 2024-08-05 |
 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-05-31 |  |
 | [Love Heart Cheat Code](https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX) | 4:33 | 2024-05-31 | 2024-07-27 |
 | [Loving Me Lover](https://open.spotify.com/track/1ssaRxZU0QoRFIgrHEVDqr) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Loving Me Lover](https://open.spotify.com/album/0AleWkO3Bq3IfF5WxtCyKZ) | 3:22 | 2024-05-31 | 2024-07-27 |
@@ -67,6 +68,7 @@
 | [Padam Padam](https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5) | 2:46 | 2024-05-31 |  |
 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 | 2024-05-31 |  |
 | [Physical Medicine](https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Physical Medicine](https://open.spotify.com/album/7vhgCsaORnzwuw1c4neLoO) | 3:35 | 2024-07-04 |  |
+| [Powertrippn'](https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J) | 3:10 | 2024-07-18 |  |
 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-25 |  |
 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 | 2024-05-31 |  |
 | [Safety Pin](https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Safety Pin](https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C) | 2:18 | 2024-05-31 | 2024-07-20 |
@@ -81,7 +83,7 @@
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2024-05-31 |  |
 | [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 | 2024-06-27 | 2024-07-31 |
 | [Swarm](https://open.spotify.com/track/1UcsKMDTZksX9AeVIQVL7j) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Swarm](https://open.spotify.com/album/0oo0gUri4GeCoRm4YIHRko) | 2:42 | 2024-05-31 | 2024-07-14 |
-| [Take What You Want](https://open.spotify.com/track/14XKQyTnBQByTqvslOrEUK) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/6azobsqeeFtpjuUKyPSJ3o) | 4:05 | 2024-05-31 |  |
+| [Take What You Want](https://open.spotify.com/track/14XKQyTnBQByTqvslOrEUK) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/6azobsqeeFtpjuUKyPSJ3o) | 4:05 | 2024-05-31 | 2024-08-05 |
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-25 |  |
 | [The Worst Person Alive](https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [The Worst Person Alive](https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz) | 3:30 | 2024-05-31 |  |
 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2024-05-31 |  |

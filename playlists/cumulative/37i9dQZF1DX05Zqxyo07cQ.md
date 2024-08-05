@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-566 songs - 1 day 3 hr 55 min
+567 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Cloudless](https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS) | [Devi Rubio](https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG) | [Cloudless](https://open.spotify.com/album/6VN9f0B6nSqzvulxsupGWV) | 3:44 | 2023-03-23 | 2024-05-05 |
 | [Cloudology](https://open.spotify.com/track/6NGbBlz6b95e6zDDSDvf8J) | [Moomu](https://open.spotify.com/artist/2eZRi0tR0RmIwq6lx3TEZt) | [Aguatic](https://open.spotify.com/album/1WSU1HlUTsOoa051MqIP6u) | 3:07 | 2023-03-23 | 2024-02-09 |
 | [Coastline](https://open.spotify.com/track/56ovbPD58pnbowpTbVP6u7) | [Peaceful Storm](https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm) | [Coastline](https://open.spotify.com/album/6MUO96TQJtIvvguAqzD1gp) | 2:45 | 2024-02-08 | 2024-07-27 |
+| [Come Wander](https://open.spotify.com/track/1d0sc4npZeCAxX4YRuaCNG) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [Come Wander](https://open.spotify.com/album/25ESaoBZ0Owj3a0wNNrFd6) | 2:30 | 2024-08-02 |  |
 | [Compassion](https://open.spotify.com/track/2mejNtx8hB6M56m4hs0bAh) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Rebirth](https://open.spotify.com/album/3sRTdzprJdgyAD4ZiCLAKV) | 3:32 | 2023-03-23 | 2024-02-09 |
 | [Composed](https://open.spotify.com/track/07446huSYQMPjNyMMyAzSx) | [Genki Desu](https://open.spotify.com/artist/6Qf1TunOhzHCzTiIwZNrMp) | [Composed](https://open.spotify.com/album/378amdSHWpQPYO3mPFIrQ2) | 2:48 | 2024-02-08 | 2024-07-19 |
 | [Confianza](https://open.spotify.com/track/5MN8kJAw4b4lgNlz1KO32M) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Confianza](https://open.spotify.com/album/168r4UP4oBoygnv2Y47oLp) | 3:18 | 2023-03-23 | 2024-05-21 |
@@ -201,7 +202,7 @@
 | [Existing](https://open.spotify.com/track/74uFbc3D8QpxBn5CObGShi) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Existing](https://open.spotify.com/album/0iJ2y4SIrZTiptA4eHxoKq) | 2:48 | 2024-06-18 |  |
 | [Expand](https://open.spotify.com/track/1jNIpsh1YfqUWNYmn6ajio) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Expand](https://open.spotify.com/album/24ILC50IPCP0rTdG8p5PLH) | 3:02 | 2024-03-06 | 2024-03-21 |
 | [Expectancy](https://open.spotify.com/track/13c21xph1VSr6Nxc5JSMeP) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Expectancy](https://open.spotify.com/album/2zYNtZBAUbiE3ZBJoxeTMn) | 2:51 | 2024-07-09 |  |
-| [Expired Thoughts](https://open.spotify.com/track/16tv70QfvbOzdpPrjt0MKP) | [Santino Dunleaf](https://open.spotify.com/artist/6UmU6V7Nh76CSxujJEBEja) | [Expired Thoughts](https://open.spotify.com/album/43fkNRsNLSGji8aC8TwZPE) | 3:05 | 2024-04-05 |  |
+| [Expired Thoughts](https://open.spotify.com/track/16tv70QfvbOzdpPrjt0MKP) | [Santino Dunleaf](https://open.spotify.com/artist/6UmU6V7Nh76CSxujJEBEja) | [Expired Thoughts](https://open.spotify.com/album/43fkNRsNLSGji8aC8TwZPE) | 3:05 | 2024-04-05 | 2024-08-05 |
 | [Eyes of Redemption](https://open.spotify.com/track/4sgncJrSzijkzs0oEEyOcn) | [Dolores Fernel](https://open.spotify.com/artist/6eKcmeh4aN49TVfRmNI3cw) | [Eyes of Redemption](https://open.spotify.com/album/1fhB9ZPMq9JfSIEq0RSR17) | 3:03 | 2023-03-23 | 2024-01-18 |
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2023-03-23 | 2024-03-21 |
 | [Fairy Glen](https://open.spotify.com/track/5wqIlPSJHeUZn34gcS7KQR) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Fairy Glen](https://open.spotify.com/album/14uqXEsb5bqZu7dI2yYlQf) | 2:49 | 2023-03-23 | 2024-01-18 |

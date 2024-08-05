@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 37538,
+  "num_followers": 37566,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Micro Macro",
         "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Selected Works II",
         "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Night Journeys II",
-        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 436776,
-      "name": "Night Journeys II",
-      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 360193,
       "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
       "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "The Flower And The Vessel",
-        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        }
-      ],
-      "duration_ms": 478488,
-      "name": "Moderato Cantabile",
-      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "The Flower And The Vessel",
+        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 478488,
+      "name": "Moderato Cantabile",
+      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Evensong: Canticles for the Earth",
-        "url": "https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z"
-      },
-      "artists": [
-        {
-          "name": "Meg Bowles",
-          "url": "https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW"
-        }
-      ],
-      "duration_ms": 351493,
-      "name": "Berceuse for a Star Child",
-      "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Island Alchemy",
         "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 280000,
       "name": "dana\u00efdes",
       "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Evensong: Canticles for the Earth",
+        "url": "https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z"
+      },
+      "artists": [
+        {
+          "name": "Meg Bowles",
+          "url": "https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW"
+        }
+      ],
+      "duration_ms": 351493,
+      "name": "Berceuse for a Star Child",
+      "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Fountainhead",
-        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
-      },
-      "artists": [
-        {
-          "name": "Courtney Swain",
-          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
-        }
-      ],
-      "duration_ms": 405570,
-      "name": "fountainhead",
-      "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "The Fifth Season (Versions)",
         "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 674042,
       "name": "You, at the End - Laurel Halo Version",
       "url": "https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Fountainhead",
+        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
+      },
+      "artists": [
+        {
+          "name": "Courtney Swain",
+          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
+        }
+      ],
+      "duration_ms": 405570,
+      "name": "fountainhead",
+      "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "The Sacrificial Code",
-        "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 653904,
-      "name": "Spectacle Of Ritual",
-      "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Aralkum",
         "url": "https://open.spotify.com/album/64qo09yNVqquWNVde0MA0v"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "The Sacrificial Code",
+        "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "duration_ms": 653904,
+      "name": "Spectacle Of Ritual",
+      "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "EARS",
         "url": "https://open.spotify.com/album/5T9rGi62i1O7wRu3c2f3q4"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 184586,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/7G0celL82dCIDYjUxdPyoG"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Desert Ballads",
-        "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 174758,
-      "name": "As We Record the Disappearing Ice",
-      "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1611,22 +1595,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
-        "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
+        "name": "Desert Ballads",
+        "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
       },
       "artists": [
         {
-          "name": "Nathan Fake",
-          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
-        },
-        {
-          "name": "AFRODEUTSCHE",
-          "url": "https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m"
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
-      "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
+      "duration_ms": 174758,
+      "name": "As We Record the Disappearing Ice",
+      "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1643,6 +1623,42 @@
       "duration_ms": 230051,
       "name": "We Wave From Our Boats",
       "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Aralkum",
+        "url": "https://open.spotify.com/album/64qo09yNVqquWNVde0MA0v"
+      },
+      "artists": [
+        {
+          "name": "Galya Bisengalieva",
+          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Kantubek",
+      "url": "https://open.spotify.com/track/33JnKsodqouVc4032CmMpY"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
+        "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Fake",
+          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
+        },
+        {
+          "name": "AFRODEUTSCHE",
+          "url": "https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
+      "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1675,22 +1691,6 @@
       "duration_ms": 208912,
       "name": "The Trembling of Glass",
       "url": "https://open.spotify.com/track/68Dw3MZNu16CrSYROJAvge"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Aralkum",
-        "url": "https://open.spotify.com/album/64qo09yNVqquWNVde0MA0v"
-      },
-      "artists": [
-        {
-          "name": "Galya Bisengalieva",
-          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Kantubek",
-      "url": "https://open.spotify.com/track/33JnKsodqouVc4032CmMpY"
     }
   ],
   "unique_name": "EQUAL Ambient",

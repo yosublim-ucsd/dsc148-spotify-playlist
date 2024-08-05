@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 40000,
+  "num_followers": 40032,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 218375,
-      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "Son Malas (Feat. Jay Park)",
         "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
       },
@@ -511,6 +491,26 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 218375,
+      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
         "name": "Playinwitme (Remix) [feat. Jay Park]",
         "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
       },
@@ -527,6 +527,62 @@
       "duration_ms": 193060,
       "name": "Playinwitme (Remix) [feat. Jay Park]",
       "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "Westcoast",
+        "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Westcoast",
+      "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "School Rapper4 - Team Battle:Group",
+        "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Lil Bemo",
+          "url": "https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ"
+        },
+        {
+          "name": "YLN Foreign",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+        },
+        {
+          "name": "PLUMA",
+          "url": "https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "GREEN LIGHT (Feat. Jay Park, pH-1) (Prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -575,98 +631,6 @@
       "duration_ms": 188106,
       "name": "DNA (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "Westcoast",
-        "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
-      },
-      "artists": [
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Westcoast",
-      "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 1",
-        "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "toigo",
-          "url": "https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG"
-        },
-        {
-          "name": "J'Kyun",
-          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
-        },
-        {
-          "name": "Jambino",
-          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
-        },
-        {
-          "name": "XINSAYNE",
-          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 265252,
-      "name": "WE (Feat. Jay Park) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "School Rapper4 - Team Battle:Group",
-        "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "Lil Bemo",
-          "url": "https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ"
-        },
-        {
-          "name": "YLN Foreign",
-          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
-        },
-        {
-          "name": "PLUMA",
-          "url": "https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "GREEN LIGHT (Feat. Jay Park, pH-1) (Prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -747,6 +711,66 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
+        "name": "Thuggin 4 My Baby",
+        "url": "https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Thuggin 4 My Baby",
+      "url": "https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 1",
+        "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "toigo",
+          "url": "https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG"
+        },
+        {
+          "name": "J'Kyun",
+          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
+        },
+        {
+          "name": "Jambino",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+        },
+        {
+          "name": "XINSAYNE",
+          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 265252,
+      "name": "WE (Feat. Jay Park) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
         "name": "Dior Socks",
         "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
       },
@@ -807,30 +831,6 @@
       "duration_ms": 231222,
       "name": "Think (feat. Jay Park)",
       "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "Thuggin 4 My Baby",
-        "url": "https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl"
-      },
-      "artists": [
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Thuggin 4 My Baby",
-      "url": "https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -1103,38 +1103,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "WATER",
-        "url": "https://open.spotify.com/album/0B0wIq4zfMLIMUAlBn8dV0"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "WATER",
-      "url": "https://open.spotify.com/track/3u9DcawkiGatrcbubzqo9W"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "Everybody Sucks",
         "url": "https://open.spotify.com/album/2jZAsK8J0X1eqolx9354rL"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 209374,
       "name": "Out Of Place",
       "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "WATER",
+        "url": "https://open.spotify.com/album/0B0wIq4zfMLIMUAlBn8dV0"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "WATER",
+      "url": "https://open.spotify.com/track/3u9DcawkiGatrcbubzqo9W"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 186019,
       "name": "Candy (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 0",
-        "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 121266,
-      "name": "RECEIPTS (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "SLAY HOUSE REMIX",
         "url": "https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 280760,
       "name": "LIKE WATER REMIX (Feat. Jambino, XINSAYNE, toigo, J'Kyun)",
       "url": "https://open.spotify.com/track/39L8LOL4kFsmvbHNvFd8EB"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 0",
+        "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 121266,
+      "name": "RECEIPTS (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl"
     },
     {
       "added_at": "2024-07-02 08:45:37",

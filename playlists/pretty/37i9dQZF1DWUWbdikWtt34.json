@@ -1,13 +1,33 @@
 {
   "description": "Dendang Dangdut teratas. Cover: Iqhbal",
-  "num_followers": 188067,
+  "num_followers": 188090,
   "original_name": "Dangdut Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxIPgAAAACwQWIe9OH2dXuuEwdBiQlB",
+  "snapshot_id": "ZrATuAAAAADYmAC766Eq3Cja4vNwYDzZ",
   "tracks": [
+    {
+      "added_at": "2024-08-04 23:50:16",
+      "album": {
+        "name": "Manembak Di Ateh Kudo",
+        "url": "https://open.spotify.com/album/2391Gq4TbIbCUq1zrLSpia"
+      },
+      "artists": [
+        {
+          "name": "Iqhbal",
+          "url": "https://open.spotify.com/artist/5rFdYocq7VQtYWQ2IBf59M"
+        },
+        {
+          "name": "Fikoh",
+          "url": "https://open.spotify.com/artist/5sxTaMmGwfeWV4MwUqyoeh"
+        }
+      ],
+      "duration_ms": 414461,
+      "name": "Manembak Di Ateh Kudo",
+      "url": "https://open.spotify.com/track/4BDIGLwu9RMQuYewOfq1Rq"
+    },
     {
       "added_at": "2024-08-02 02:45:18",
       "album": {

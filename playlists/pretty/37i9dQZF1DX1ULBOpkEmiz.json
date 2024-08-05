@@ -1,6 +1,6 @@
 {
   "description": "Feeling like summer in 03'",
-  "num_followers": 3639,
+  "num_followers": 3715,
   "original_name": "Summer Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Rock Wit U (Awww Baby)",
+      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Rock Wit U (Awww Baby)",
-      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "A Milli",
-      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
         "name": "Bad Boy's 10th Anniversary- The Hits",
         "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
@@ -435,26 +419,6 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "The Blueprint 2: The Gift & The Curse",
-        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "03' Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
         "name": "Jagged Little Thrill",
         "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
       },
@@ -471,6 +435,22 @@
       "duration_ms": 232573,
       "name": "Where the Party At (feat. Nelly)",
       "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -511,6 +491,26 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
+        "name": "The Blueprint 2: The Gift & The Curse",
+        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "03' Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
         "name": "Street Love",
         "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 209533,
       "name": "Get It Shawty",
       "url": "https://open.spotify.com/track/2a03afRiyAbNAleOByVju4"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
+        "name": "Lucy Pearl",
+        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
+      },
+      "artists": [
+        {
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "Dance Tonight",
+      "url": "https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -543,22 +559,6 @@
       "duration_ms": 204706,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
-        "name": "Lucy Pearl",
-        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
-      },
-      "artists": [
-        {
-          "name": "Lucy Pearl",
-          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Dance Tonight",
-      "url": "https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "Shawty Is Da Shit",
+      "url": "https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
         "name": "Aijuswanaseing",
         "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 237800,
       "name": "Oops (Oh My) [feat. Missy Elliott]",
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
-        "name": "Love/Hate",
-        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
-      },
-      "artists": [
-        {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        }
-      ],
-      "duration_ms": 262773,
-      "name": "Shawty Is Da Shit",
-      "url": "https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "I Just Died",
-      "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
         "name": "The Blueprint 2: The Gift & The Curse",
         "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 329626,
       "name": "Pimpin' All Over The World",
       "url": "https://open.spotify.com/track/6VixoRqnikN4QqegoKUSbH"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
+        "name": "La Bella Mafia",
+        "url": "https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "The Jump Off",
+      "url": "https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6"
     },
     {
       "added_at": "2023-06-19 01:52:12",

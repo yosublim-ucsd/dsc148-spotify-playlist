@@ -1157,6 +1157,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290194,
+      "name": "530",
+      "url": "https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4"
+    },
+    {
+      "album": {
         "name": "Virtuous",
         "url": "https://open.spotify.com/album/1TFaFAKNXMlIeU65RasS9a"
       },
@@ -19047,6 +19073,24 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149522,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
+    },
+    {
+      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -21878,7 +21922,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 209800,
       "name": "Hymne \u00e0 l'amour - Live",
       "url": "https://open.spotify.com/track/7wQEazOrLEHSCMo3gEuV88"
@@ -25754,7 +25798,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -32866,7 +32910,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 150000,
       "name": "MINIMI",
       "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
@@ -56734,7 +56778,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 224280,
       "name": "you look like you love me (feat. Riley Green)",
       "url": "https://open.spotify.com/track/2PyJAiQjp1OPkow2FJZKHR"

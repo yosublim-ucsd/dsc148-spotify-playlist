@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 38057,
+  "num_followers": 38083,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Found (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Found (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 234093,
       "name": "The Message",
       "url": "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 350533,
-      "name": "Nothing Even Matters (feat. D'Angelo)",
-      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -219,6 +219,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 350533,
+      "name": "Nothing Even Matters (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Street Dreams (Bonus Track)",
         "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 295773,
       "name": "Into You (feat. Tamia)",
       "url": "https://open.spotify.com/track/0yHConG49418wPs8UfAt44"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 306257,
-      "name": "t h e . c l i m b . b a c k",
-      "url": "https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 239635,
       "name": "7am On Bridle Path",
       "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 306257,
+      "name": "t h e . c l i m b . b a c k",
+      "url": "https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Crenshaw",
         "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
       },
@@ -519,18 +535,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+      "duration_ms": 253803,
+      "name": "Dreams Money Can Buy",
+      "url": "https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -551,22 +567,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253803,
-      "name": "Dreams Money Can Buy",
-      "url": "https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "1 Up Top Ahk",
         "url": "https://open.spotify.com/album/3iDAjLnQsJwoVU1v09ia4A"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 184736,
       "name": "Sleep Walkin",
       "url": "https://open.spotify.com/track/2Chpj7Kjc3AEi5D6Of4KOE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "august",
-        "url": "https://open.spotify.com/album/7h1xc7a0GqmwkzOu29YbjD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        }
-      ],
-      "duration_ms": 183875,
-      "name": "Mutual Butterflies",
-      "url": "https://open.spotify.com/track/531MBHrtGF6nAkK4zUafi9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -615,18 +599,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+        "name": "august",
+        "url": "https://open.spotify.com/album/7h1xc7a0GqmwkzOu29YbjD"
       },
       "artists": [
         {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
         }
       ],
-      "duration_ms": 133324,
-      "name": "Picture Me Rollin'",
-      "url": "https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx"
+      "duration_ms": 183875,
+      "name": "Mutual Butterflies",
+      "url": "https://open.spotify.com/track/531MBHrtGF6nAkK4zUafi9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -643,26 +627,6 @@
       "duration_ms": 319958,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "don\u2019t i (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -695,6 +659,42 @@
       "duration_ms": 178973,
       "name": "Lost One",
       "url": "https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 133324,
+      "name": "Picture Me Rollin'",
+      "url": "https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "don\u2019t i (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -751,18 +751,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Tower of Silence",
-        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
       "artists": [
         {
-          "name": "Roberto Musci",
-          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         }
       ],
-      "duration_ms": 177255,
-      "name": "Claudia, Wilhelm R And Me",
-      "url": "https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY"
+      "duration_ms": 236546,
+      "name": "Young Nigga (feat. Puff Daddy)",
+      "url": "https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -783,22 +787,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
+        "name": "Tower of Silence",
+        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
       },
       "artists": [
         {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+          "name": "Roberto Musci",
+          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
         }
       ],
-      "duration_ms": 236546,
-      "name": "Young Nigga (feat. Puff Daddy)",
-      "url": "https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX"
+      "duration_ms": 177255,
+      "name": "Claudia, Wilhelm R And Me",
+      "url": "https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 160679,
+      "name": "One Hunnit",
+      "url": "https://open.spotify.com/track/5xAGavHxt4u1zstIsG4DAb"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "American Gangster",
         "url": "https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 399533,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0IofYnPCppEIKAJmc517JS"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Crazy You",
-      "url": "https://open.spotify.com/track/7H4IsC0YmKnAjbGVGZGMQo"
     }
   ],
   "unique_name": "Kofi Siriboe's Taste",

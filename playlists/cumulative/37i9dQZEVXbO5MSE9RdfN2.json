@@ -131,6 +131,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290194,
+      "name": "530",
+      "url": "https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4"
+    },
+    {
+      "album": {
         "name": "6 In the Morning (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
       },
@@ -3057,6 +3083,28 @@
     },
     {
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Milaa",
+          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214214,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
+    },
+    {
+      "album": {
         "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
@@ -3122,7 +3170,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 219710,
       "name": "Femininomenon",
       "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
@@ -9812,7 +9860,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"

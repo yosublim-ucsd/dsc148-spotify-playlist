@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Jhené Aiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,348,661 likes - 150 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,348,763 likes - 150 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

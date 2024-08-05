@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2iBPiw.md) - [plain]
 
 ### [This Is The Beatles](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iBPiw)
 
-> This is The Beatles\. The essential tracks, all in one playlist.
+> This is The Beatles\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,589,490 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,589,722 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2iBPiw.md) - [plain]
 | 50 | [Penny Lane \- Remastered 2009](https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 3:00 |
 | 51 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
 
-Snapshot ID: `ZqrQAAAAAAAVawH8ns5dgT3a+3myZavc`
+Snapshot ID: `ZqrQAAAAAABiAqxMUqGlR62LcKOtuypO`

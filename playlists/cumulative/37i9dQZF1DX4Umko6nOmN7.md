@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-105 songs - 5 hr 39 min
+106 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 | 2024-06-27 |  |
 | [Min melodi](https://open.spotify.com/track/00Nupca8NtYSA00HNh3elc) | [Melina Borglowe](https://open.spotify.com/artist/6iuKUTViI8eNiiZN8hOkFj) | [Min melodi](https://open.spotify.com/album/6abLZBmoqARTk4IEUsI32h) | 2:59 | 2024-06-27 |  |
 | [Misstro](https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Misstro](https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl) | 2:50 | 2024-06-27 |  |
-| [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 | 2024-06-27 |  |
+| [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 | 2024-06-27 | 2024-08-05 |
 | [Om jag somnar](https://open.spotify.com/track/5cbHWtmFMHukKHMGyEoCbf) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Tid & Tro](https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic) | 3:00 | 2024-06-27 |  |
 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 | 2024-06-27 |  |
 | [Penny \(Akustisk\) \[feat\. Penny\]](https://open.spotify.com/track/5Oz05HhOtbbO8baMJURFVj) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Penny](https://open.spotify.com/artist/5XwPvOVGPUg76AOnVfqwQU) | [Penny \(Akustisk\)](https://open.spotify.com/album/20vhMkNyxzPhctrCYeMGzE) | 3:10 | 2024-06-27 |  |
@@ -113,5 +113,6 @@
 | [Wonderful](https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Wonderful](https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw) | 3:46 | 2024-06-27 |  |
 | [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 | 2024-06-27 |  |
 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 | 2024-06-27 |  |
+| [Ängel](https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ängel](https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2) | 3:29 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

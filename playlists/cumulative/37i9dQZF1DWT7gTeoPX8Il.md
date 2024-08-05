@@ -4,7 +4,7 @@
 
 > layan je
 
-199 songs - 13 hr 3 min
+200 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2024-01-18 |  |
 | [Kala Tiba \- \(Nafsu Original Soundtrack\)](https://open.spotify.com/track/6qAG6TTtxyzxzVsDuoTFFx) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Kala Tiba \(Nafsu Original Soundtrack\)](https://open.spotify.com/album/5vzj17JlYoF8J77CMZowUy) | 3:12 | 2024-06-20 | 2024-06-28 |
 | [Kamu Adalah](https://open.spotify.com/track/6tdlq9QCsOCI8KyBsPTLpb) | [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kamu Adalah](https://open.spotify.com/album/4weKO0Ozr2VOybZn5zrBgo) | 4:46 | 2024-02-15 | 2024-02-23 |
-| [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2024-01-18 |  |
+| [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2024-01-18 | 2024-08-05 |
 | [Kasih](https://open.spotify.com/track/0tGHu21mZ1WWLy6h39XuPC) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Kasih](https://open.spotify.com/album/7GpVEzmHPBlGKBMz1R5a2E) | 3:51 | 2024-05-10 | 2024-05-17 |
 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 | 2024-02-01 | 2024-02-23 |
 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 | 2024-04-26 | 2024-05-11 |
@@ -197,6 +197,7 @@
 | [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 | 2024-01-25 | 2024-06-07 |
 | [Telapak](https://open.spotify.com/track/2tOGPUHBvPehZmp2CsIBlc) | [Here Comes July](https://open.spotify.com/artist/0MwqzrPnSMj6dDkIDNXNuF) | [Telapak](https://open.spotify.com/album/4OFuQuVo7a9IDTtRRPf41Z) | 4:04 | 2024-02-29 | 2024-03-08 |
 | [Teman](https://open.spotify.com/track/6OdUXJOghuCjdN8WNK9DBa) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Teman](https://open.spotify.com/album/0HsFWCBUOfZdiIJC5xrbfL) | 3:57 | 2024-02-29 | 2024-03-08 |
+| [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 | 2024-07-25 |  |
 | [Tertawan Hati](https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo) | 3:57 | 2024-01-18 | 2024-04-19 |
 | [Tetap Ku Cinta](https://open.spotify.com/track/7CyIlxl56oUCWtjfnH4S6Q) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L), [Jovita Pearl](https://open.spotify.com/artist/3HLbQCbpfIofxRwCieidX5) | [Tetap Ku Cinta](https://open.spotify.com/album/0nj0CwcVuXt7iJJAwqdouH) | 4:49 | 2024-06-07 | 2024-06-21 |
 | [tiba\-tiba jumat lagi](https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [tiba\-tiba jumat lagi](https://open.spotify.com/album/6xFYX7yfK1mzGs3akS2or7) | 4:09 | 2024-01-25 | 2024-02-02 |

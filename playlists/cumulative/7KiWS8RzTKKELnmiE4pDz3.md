@@ -4,7 +4,7 @@
 
 > 
 
-732 songs - 1 day 11 hr 5 min
+734 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [2020 Vision](https://open.spotify.com/track/6UlRHQJ3WT6VrIlKxSODNz) | [Aanex](https://open.spotify.com/artist/142KXPkDuhALyplZx3lY0h) | [2020 Vision](https://open.spotify.com/album/5bkklyYbs2N8y3S7Uh08sO) | 2:45 | 2023-04-05 | 2023-05-09 |
 | [2021 Vibes](https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:04 | 2023-07-12 | 2024-03-05 |
 | [20YRS OLD](https://open.spotify.com/track/0gQ1ppx7gsNtRATyotFXDg) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [20YRS OLD](https://open.spotify.com/album/3yfgBOTo5BbRA7zew31SFb) | 2:14 | 2022-07-28 | 2023-04-12 |
+| [21](https://open.spotify.com/track/1AdXchAT6hBUm5d6y4nKjI) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blank Blank](https://open.spotify.com/album/6L2X9oAs6pLMweH6pSpfTT) | 2:50 | 2024-08-04 |  |
 | [223's \(feat\. BabyTron\)](https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [BACK IN ACTION 3.0](https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM) | 2:13 | 2022-09-23 | 2023-12-14 |
 | [2:32 am](https://open.spotify.com/track/5RqFxqgj8HsvU98ZNW0Z16) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Thot Slayer 2 Deluxe](https://open.spotify.com/album/23oTLvGIIjGBM3zRF9st0L) | 3:39 | 2022-07-14 | 2023-05-09 |
 | [2nd Place](https://open.spotify.com/track/7hVhyJTFsimfq6GlGEPi0G) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [2nd Place](https://open.spotify.com/album/23wJyOvF4fo9Mp3zHdRx3q) | 2:17 | 2022-09-01 | 2023-05-09 |
@@ -269,6 +270,7 @@
 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 |  |
 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 | 2023-03-21 | 2023-12-14 |
 | [HIDEOUT \(feat\. Fijimacintosh\)](https://open.spotify.com/track/3gauWyhhIKYnKdhROrTRcc) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Fijimacintosh](https://open.spotify.com/artist/5NaFXQQX19INaDDdIZ02sp) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:50 | 2023-01-20 | 2023-04-24 |
+| [High \(feat\. Elton John\)](https://open.spotify.com/track/7iMDaY1LnASwCk2uUpMtii) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [On the Run](https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO) | 3:15 | 2024-08-04 |  |
 | [High John](https://open.spotify.com/track/55liByWjb2T7j0vohSel10) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Laughing so Hard, it Hurts](https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ) | 2:10 | 2024-06-05 |  |
 | [High Rode Out](https://open.spotify.com/track/2SQYJlliOXGs2hMGZzRQ5i) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 1:46 | 2023-01-03 | 2023-05-09 |
 | [Higher & Flyer](https://open.spotify.com/track/1NsPLOtUGQpGCBLnO86bFy) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:07 | 2023-01-07 | 2023-04-24 |

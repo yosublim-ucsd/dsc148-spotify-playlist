@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138248,
+  "num_followers": 138247,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 194731,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Lonely Boy",
         "url": "https://open.spotify.com/album/2uGi7bQZU5My0k1UGJQRz2"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 193653,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/3dOAXUx7I1qnzWzxdnsyB8"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        },
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 220106,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Kiss Ur Face Forever",
         "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 296980,
       "name": "Gondii",
       "url": "https://open.spotify.com/track/6P7FJBspEtLcqjzltUv74y"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        },
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 220106,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "What Feels Like Eternity",
-      "url": "https://open.spotify.com/track/4JmXokIIxfoS3XdhkHUBDw"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 279613,
       "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
       "url": "https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "What Feels Like Eternity",
+      "url": "https://open.spotify.com/track/4JmXokIIxfoS3XdhkHUBDw"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Reaching Out To You",
-        "url": "https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        },
-        {
-          "name": "The Saturday Songwriters",
-          "url": "https://open.spotify.com/artist/4BDzWTj09kazVbiVCdwQI3"
-        }
-      ],
-      "duration_ms": 210026,
-      "name": "Reaching Out To You",
-      "url": "https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Teenage Headache Dreams (with Ellie Rowsell)",
         "url": "https://open.spotify.com/album/5R8GPzld0YydbKawqmbigD"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 283013,
       "name": "Teenage Headache Dreams (with Ellie Rowsell)",
       "url": "https://open.spotify.com/track/5X8FVIy9iaXoDEiIlCjcmp"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Reaching Out To You",
+        "url": "https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        },
+        {
+          "name": "The Saturday Songwriters",
+          "url": "https://open.spotify.com/artist/4BDzWTj09kazVbiVCdwQI3"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "Reaching Out To You",
+      "url": "https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Move to San Francisco",
-        "url": "https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 181492,
-      "name": "Move to San Francisco",
-      "url": "https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "En Tu Orilla",
         "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 205175,
       "name": "En Tu Orilla",
       "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Move to San Francisco",
+        "url": "https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 181492,
+      "name": "Move to San Francisco",
+      "url": "https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "World Psychedelic Classics 3: Love's a Real Thing",
-        "url": "https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6"
-      },
-      "artists": [
-        {
-          "name": "Super Eagles",
-          "url": "https://open.spotify.com/artist/2vyu3bWnidVmXk5wmqJaQ5"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Love's a Real Thing",
-      "url": "https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Favor",
         "url": "https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 278213,
       "name": "Favor",
       "url": "https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "World Psychedelic Classics 3: Love's a Real Thing",
+        "url": "https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6"
+      },
+      "artists": [
+        {
+          "name": "Super Eagles",
+          "url": "https://open.spotify.com/artist/2vyu3bWnidVmXk5wmqJaQ5"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Love's a Real Thing",
+      "url": "https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "HEAVY META",
-        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
-      },
-      "artists": [
-        {
-          "name": "Ron Gallo",
-          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Young Lady, You're Scaring Me",
-      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Cosas Que Probablemente No Van a Pasar",
         "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 160000,
       "name": "Cosas que probablemente no van a pasar",
       "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "HEAVY META",
+        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+      },
+      "artists": [
+        {
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Young Lady, You're Scaring Me",
+      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
     },
     {
       "added_at": "2024-07-12 23:20:36",

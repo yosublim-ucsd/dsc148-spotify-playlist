@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 
 ### [This Is Doja Cat](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33svt5)
 
-> This is Doja Cat\. The essential tracks, all in one playlist.
+> This Is Doja Cat\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,009 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,135 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 51 | [WYM Freestyle](https://open.spotify.com/track/1qimDZEBflJE25RXkF24Yg) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:04 |
 | 52 | [Up And Down](https://open.spotify.com/track/1uQ1TZ9YIWCtBTgq09uoix) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her \(Deluxe\)](https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO) | 2:31 |
 
-Snapshot ID: `ZqrQAAAAAAABE+/Ut6B0U/Eg72A+UtS6`
+Snapshot ID: `ZqrQAAAAAADVm0iPi1eyvH5eOeXAc3Y9`

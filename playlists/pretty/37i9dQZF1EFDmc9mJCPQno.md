@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124 likes - 92 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127 likes - 92 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 75 | [Loser](https://open.spotify.com/track/1JBHJBOr0UKTzHK0XzTII5) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Have U Seen Her?](https://open.spotify.com/album/6duDuIepi6ZCwgAbBw1BQ1) | 3:12 |
 | 76 | [Swap Places](https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:24 |
 | 77 | [Best Friend](https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:15 |
-| 78 | [Performer](https://open.spotify.com/track/1fajhwklF3pSlWvdaaSWG3) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:14 |
-| 79 | [Dreams](https://open.spotify.com/track/6kH7Bipic064vclZxCZxbm) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Dreams](https://open.spotify.com/album/40michyETM6sSdEipUW6BW) | 3:14 |
+| 78 | [Dreams](https://open.spotify.com/track/6kH7Bipic064vclZxCZxbm) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Dreams](https://open.spotify.com/album/40michyETM6sSdEipUW6BW) | 3:14 |
+| 79 | [Performer](https://open.spotify.com/track/1fajhwklF3pSlWvdaaSWG3) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:14 |
 | 80 | [Empathy](https://open.spotify.com/track/5zICqxSi9MRZNmpuaTWfBj) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Empathy](https://open.spotify.com/album/3EdQVRzyA5pRExPGNqZZ7E) | 3:34 |
 | 81 | [Fuckedupminddd](https://open.spotify.com/track/1utfH4im9foOZg7AgeMpKr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 2:54 |
 | 82 | [Free](https://open.spotify.com/track/2wZhh84WylENwS23foVHkF) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Free](https://open.spotify.com/album/5pvr0eVCCJainwXBc6XwnA) | 3:46 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 85 | [Can't Say No](https://open.spotify.com/track/4NKFLpXmmaqqyAOJAgMtP7) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Through](https://open.spotify.com/album/4J0kTKU9ORIpmECus6dTsR) | 2:58 |
 | 86 | [Teenage Self](https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 1:51 |
 | 87 | [no one cares](https://open.spotify.com/track/0aQXCpOF4zFstiNhWAGtXD) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [no one cares](https://open.spotify.com/album/05YHG0o3540O1xXDSAyx0j) | 3:00 |
-| 88 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
-| 89 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 |
+| 88 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 |
+| 89 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
 | 90 | [Wrong](https://open.spotify.com/track/5FWCrwlmk1Kq1jy8khhxvA) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Heavy Love](https://open.spotify.com/album/4g30lAhSUDEOUhs4Izez2s) | 3:12 |
 | 91 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
 | 92 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AbYdnQAAAACQ9FT6LTIoW+JAeVjzT1Cx`
+Snapshot ID: `AbYjPQAAAABlhmpEVBI7wwhMTdLkIEap`

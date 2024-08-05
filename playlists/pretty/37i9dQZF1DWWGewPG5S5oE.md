@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: fox capture plan
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,968 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,988 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 13 | [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 |
 | 14 | [WE WILL](https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:11 |
 | 15 | [Power](https://open.spotify.com/track/7x4HFmjNjvh4NNyEKealJz) | [Kyoto Jazz Massive](https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv), [Vanessa Freeman](https://open.spotify.com/artist/5C4gaWnEwsHzn34UhjVV8c), [Echoes Of A New Dawn Orchestra](https://open.spotify.com/artist/0Ybi9gkQMCI91gq8Ykje1r) | [KJM EOANDO \- Kyoto Jazz Massive 30th Anniversary Edition](https://open.spotify.com/album/1VCZd9NNz9IAmi0fTHiKQS) | 7:22 |
-| 16 | [色彩のブルース](https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 5:33 |
+| 16 | [Sunday Morning](https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:59 |
 | 17 | [Silent Dancer](https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 5](https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN) | 4:10 |
 | 18 | [Dynamics \(Piano Play\-Along\)](https://open.spotify.com/track/081owSLclSGfb3ehGeqGiJ) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/5Rrca8XULMLFX69dhgL0eX) | 2:48 |
 | 19 | [CALL ME](https://open.spotify.com/track/5WiUDi45DPJNgfsF8LBFV5) | [才恵加\(saeka\)](https://open.spotify.com/artist/701fnjrVk4bW0uDZXSVhdF) | [NEW CITY](https://open.spotify.com/album/3i8z39blp9XUU0ijk8PGC9) | 3:56 |
 | 20 | [Hi\-Tech Jazz](https://open.spotify.com/track/0P1BR1g02e2WzuJPmgQDda) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [Hi\-Tech Jazz](https://open.spotify.com/album/1m4h38BB9YwowbbDjGy92Q) | 5:02 |
 | 21 | [Life](https://open.spotify.com/track/1foVQBPHeze4jhdKtQCFFs) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [多和田えみ](https://open.spotify.com/artist/75lvsN9jSpGRWcQhERynWS) | [Life](https://open.spotify.com/album/3kMapkyqMsAi6Hi5I5lfbc) | 3:56 |
-| 22 | [Sunday Morning](https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:59 |
+| 22 | [色彩のブルース](https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 5:33 |
 | 23 | [moon](https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [moon](https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf) | 6:22 |
 | 24 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 25 | [Peaceful Honk](https://open.spotify.com/track/1gHnfWCyM8v7A03Qst7dJ0) | [西口明宏](https://open.spotify.com/artist/7cfJQuXW7ehOs7SixLZJhC) | [Peaceful Honk](https://open.spotify.com/album/4Z9uEm5Vfak2MKEkAHA87j) | 3:04 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 44 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
 | 45 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
 | 46 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
-| 47 | [Sunrise](https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Panorama](https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86) | 3:38 |
-| 48 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
+| 47 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
+| 48 | [Sunrise](https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Panorama](https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86) | 3:38 |
 | 49 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 |
 | 50 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
 

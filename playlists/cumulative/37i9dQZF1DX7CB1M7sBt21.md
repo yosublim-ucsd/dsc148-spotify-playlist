@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-308 songs - 14 hr 48 min
+309 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [STFU](https://open.spotify.com/track/4MY1amv4MW0wyH5vqB89vk) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [STFU](https://open.spotify.com/album/0SIyKVnAO38DvY9J9tQf1V) | 2:13 | 2021-11-19 | 2022-07-21 |
 | [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 | 2023-11-30 | 2024-05-03 |
 | [Straight From the Heart \(feat\. Nørskov\)](https://open.spotify.com/track/4AqyqhDduUCYzwXcFIrhWL) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Nørskov](https://open.spotify.com/artist/5iC6qaicSqv8Wd7Q6dW0BH) | [Straight From The Heart \(feat\. Nørskov\)](https://open.spotify.com/album/4O0gBwGRlHkhsgWNBvtCZX) | 3:28 | 2021-11-19 | 2023-10-18 |
-| [Summer Dreaming](https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Summer Dreaming](https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R) | 3:02 | 2024-05-23 |  |
+| [Summer Dreaming](https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Summer Dreaming](https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R) | 3:02 | 2024-05-23 | 2024-08-05 |
 | [Supaflow](https://open.spotify.com/track/2wX74JRMdBZBv6YVfCLK7n) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R) | [Supaflow](https://open.spotify.com/album/1xNZMcyngkhyiADLYbzVL0) | 2:02 | 2021-11-19 | 2022-07-28 |
 | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL) | 2:43 | 2022-07-28 | 2024-05-03 |
 | [Sweet Dreams](https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/7ihIr7mrNqtqqqSUG5Ts7I) | 2:18 | 2021-11-19 | 2022-07-27 |
@@ -307,6 +307,7 @@
 | [what would you do? \- Galantis Remix](https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [what would you do? \(Galantis Remix\)](https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu) | 2:41 | 2022-07-15 | 2023-12-01 |
 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 | 2023-11-09 |  |
 | [Whenever You Are](https://open.spotify.com/track/1GTNkBaHKcnVrZkFFlaWIW) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Whenever You Are](https://open.spotify.com/album/7isNH3ZySoqj6RK5VlMlQP) | 2:30 | 2024-06-27 |  |
+| [Where Are You Tonight](https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Where Are You Tonight](https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP) | 3:55 | 2024-06-27 |  |
 | [Who Am I](https://open.spotify.com/track/6ZUk5fwY2nDy4QyStdluyb) | [Enzo Ingrosso](https://open.spotify.com/artist/6F1Ynxvudm3avEoQ1sdWq2), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Who Am I](https://open.spotify.com/album/4DaCYbpboG6H5nOBSveMJ3) | 3:27 | 2021-11-19 | 2022-07-29 |
 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 | 2021-11-19 | 2023-11-26 |
 | [You \- Topic Remix](https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [You \(Topic Remix\)](https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z) | 2:37 | 2021-11-19 | 2024-02-09 |

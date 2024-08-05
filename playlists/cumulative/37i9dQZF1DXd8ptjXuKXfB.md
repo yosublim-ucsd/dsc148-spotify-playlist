@@ -4,7 +4,7 @@
 
 > Cool és trendi dalok Magyarországon.
 
-107 songs - 5 hr 20 min
+108 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Boldogtalanság](https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Boldogtalanság](https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18) | 3:06 | 2024-07-01 | 2024-07-04 |
 | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8) | 3:13 | 2024-07-01 |  |
 | [CARTIER](https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:30 | 2024-07-01 |  |
-| [ceremónia](https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 4:33 | 2024-07-22 |  |
+| [ceremónia](https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 4:33 | 2024-07-22 | 2024-08-05 |
 | [Cigány\-ügy](https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Érdi Baba](https://open.spotify.com/artist/5CPKLSKScYKTRdr491KCJu) | [Cigány\-ügy](https://open.spotify.com/album/4wsF3ZBcwC74KWDMiWFjui) | 3:39 | 2024-07-15 |  |
 | [cipoe](https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [cipoe](https://open.spotify.com/album/1aNoilrZREe8e16qX2fFTG) | 3:27 | 2024-07-01 | 2024-07-04 |
 | [DEF](https://open.spotify.com/track/60u35BNjZAqpHKyidj4WZ5) | [Fiatal Veterán](https://open.spotify.com/artist/5LtcR95XUT9MPZzAYyrPjY) | [DEF](https://open.spotify.com/album/0GExaBb0qVACqBO2Xy5cBU) | 2:33 | 2024-07-29 |  |
@@ -113,6 +113,7 @@
 | [VOLT PÁR ALKALOM](https://open.spotify.com/track/1TxuMRsWqKFtBVerKoGrhp) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [VOLT PÁR ALKALOM](https://open.spotify.com/album/5ci8XSR7YwZ7LnpM4Uum7R) | 2:35 | 2024-07-01 | 2024-07-09 |
 | [Voodoo Baba](https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:34 | 2024-07-01 |  |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-07-01 |  |
+| [Ördög Nórika](https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Ördög Nórika](https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw) | 2:03 | 2024-07-29 |  |
 | [Úgy Hiszem](https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 3:19 | 2024-07-01 |  |
 | [úgy unom](https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [A bálban](https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b) | 3:54 | 2024-07-22 | 2024-07-30 |
 

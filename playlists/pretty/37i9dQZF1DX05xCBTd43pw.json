@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36359,
+  "num_followers": 36363,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,70 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
+        "name": "Kompliment",
+        "url": "https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 165572,
+      "name": "Kompliment",
+      "url": "https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "Bored Of The Circus",
+        "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 182817,
+      "name": "Ashes By The Morning",
+      "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "King Bed",
+        "url": "https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 160378,
+      "name": "King Bed",
+      "url": "https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "No Time to Cry",
+        "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "No Time to Cry",
+      "url": "https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
         "name": "Heaven or Hell",
         "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
       },
@@ -403,18 +467,18 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Kompliment",
-        "url": "https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG"
+        "name": "Boys Do Cry",
+        "url": "https://open.spotify.com/album/1PA9VlnwgXGN0W7K5YnkoI"
       },
       "artists": [
         {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+          "name": "Marius Bear",
+          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
         }
       ],
-      "duration_ms": 165572,
-      "name": "Kompliment",
-      "url": "https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O"
+      "duration_ms": 176602,
+      "name": "Boys Do Cry",
+      "url": "https://open.spotify.com/track/5A3JxIX04W5Ttu6Rxy5tWW"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -439,54 +503,6 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "King Bed",
-        "url": "https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 160378,
-      "name": "King Bed",
-      "url": "https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
-        "name": "Bored Of The Circus",
-        "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 182817,
-      "name": "Ashes By The Morning",
-      "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
-        "name": "No Time to Cry",
-        "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "No Time to Cry",
-      "url": "https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 157906,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
-        "name": "Boys Do Cry",
-        "url": "https://open.spotify.com/album/1PA9VlnwgXGN0W7K5YnkoI"
-      },
-      "artists": [
-        {
-          "name": "Marius Bear",
-          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
-        }
-      ],
-      "duration_ms": 176602,
-      "name": "Boys Do Cry",
-      "url": "https://open.spotify.com/track/5A3JxIX04W5Ttu6Rxy5tWW"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Another Heart",
-        "url": "https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d"
-      },
-      "artists": [
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        }
-      ],
-      "duration_ms": 142786,
-      "name": "Another Heart",
-      "url": "https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
         "name": "Alles was ich will",
         "url": "https://open.spotify.com/album/6vqi0ixcuy9pUSlGHFtNRa"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 176383,
       "name": "Alles was ich will",
       "url": "https://open.spotify.com/track/6UAAkP72FLHWMFmhmxm6rZ"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "Another Heart",
+        "url": "https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d"
+      },
+      "artists": [
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "duration_ms": 142786,
+      "name": "Another Heart",
+      "url": "https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "2560",
-        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
-      },
-      "artists": [
-        {
-          "name": "James Gruntz",
-          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "2560",
-      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
         "name": "Colorblind",
         "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 182033,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "2560",
+        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
+      },
+      "artists": [
+        {
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "2560",
+      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Flight Mode",
-        "url": "https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 150794,
-      "name": "Flight Mode",
-      "url": "https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk"
       },
@@ -659,6 +643,38 @@
       "duration_ms": 165257,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "Frostbites",
+        "url": "https://open.spotify.com/album/0dctcL4tY0cRluTW5lSrcT"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 179164,
+      "name": "Frostbites",
+      "url": "https://open.spotify.com/track/3xCMJOdaGSB0WiAZ8gAW3d"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "rabbit holes",
+        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 216307,
+      "name": "rabbit holes",
+      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -683,6 +699,22 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
+        "name": "Flight Mode",
+        "url": "https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 150794,
+      "name": "Flight Mode",
+      "url": "https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
         "name": "SucieriaZH",
         "url": "https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j"
       },
@@ -695,38 +727,6 @@
       "duration_ms": 174296,
       "name": "SucieriaZH",
       "url": "https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
-        "name": "rabbit holes",
-        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 216307,
-      "name": "rabbit holes",
-      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
-        "name": "Frostbites",
-        "url": "https://open.spotify.com/album/0dctcL4tY0cRluTW5lSrcT"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "Frostbites",
-      "url": "https://open.spotify.com/track/3xCMJOdaGSB0WiAZ8gAW3d"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "TikTak",
-        "url": "https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 163143,
-      "name": "TikTak",
-      "url": "https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
         "name": "Tribut",
         "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 197992,
       "name": "Tribut",
       "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "TikTak",
+        "url": "https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 163143,
+      "name": "TikTak",
+      "url": "https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
-      },
-      "artists": [
-        {
-          "name": "Marc Sway",
-          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM"
       },
@@ -827,34 +811,18 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Trade Hearts",
-        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
       },
       "artists": [
         {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+          "name": "Marc Sway",
+          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
         }
       ],
-      "duration_ms": 174786,
-      "name": "Trade Hearts",
-      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
-        "name": "Du kriegst mich nicht zur\u00fcck",
-        "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
-      },
-      "artists": [
-        {
-          "name": "Faber",
-          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Du kriegst mich nicht zur\u00fcck",
-      "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
+      "duration_ms": 180373,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -879,18 +847,18 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+        "name": "Trade Hearts",
+        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
         }
       ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+      "duration_ms": 174786,
+      "name": "Trade Hearts",
+      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -907,6 +875,38 @@
       "duration_ms": 226334,
       "name": "Softly Speaking",
       "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "she calls me daddy",
+        "url": "https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 149960,
+      "name": "she calls me daddy",
+      "url": "https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "Du kriegst mich nicht zur\u00fcck",
+        "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
+      },
+      "artists": [
+        {
+          "name": "Faber",
+          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Du kriegst mich nicht zur\u00fcck",
+      "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "she calls me daddy",
-        "url": "https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ"
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
       "artists": [
         {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 149960,
-      "name": "she calls me daddy",
-      "url": "https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI"
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "i'm sry i love u",
-        "url": "https://open.spotify.com/album/49viDcw7i4XiAfISw95nRm"
-      },
-      "artists": [
-        {
-          "name": "Julia Alexa",
-          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
-        }
-      ],
-      "duration_ms": 195655,
-      "name": "i'm sry i love u",
-      "url": "https://open.spotify.com/track/2QLCvG0lf3n5RKCmcgigEI"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
         "name": "Ehrlich",
         "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "i'm sry i love u",
+        "url": "https://open.spotify.com/album/49viDcw7i4XiAfISw95nRm"
+      },
+      "artists": [
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        }
+      ],
+      "duration_ms": 195655,
+      "name": "i'm sry i love u",
+      "url": "https://open.spotify.com/track/2QLCvG0lf3n5RKCmcgigEI"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Zeilen f\u00fcr dich",
-        "url": "https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 197506,
-      "name": "Zeilen f\u00fcr dich",
-      "url": "https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
         "name": "Can't Be Loved",
         "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "Zeilen f\u00fcr dich",
+        "url": "https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "Zeilen f\u00fcr dich",
+      "url": "https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV"
     },
     {
       "added_at": "2024-07-29 10:05:21",

@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 463555,
+  "num_followers": 463596,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -215,18 +231,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Victimas Del Doctor Cerebro",
-        "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
+        "name": "El Le\u00f3n",
+        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
       "artists": [
         {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 221640,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+      "duration_ms": 237346,
+      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -247,50 +263,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+        "name": "Victimas Del Doctor Cerebro",
+        "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "El Le\u00f3n",
-        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "The Return of El Santo",
-        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
-      },
-      "artists": [
-        {
-          "name": "King Chango",
-          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
-        }
-      ],
-      "duration_ms": 287013,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
+      "duration_ms": 221640,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -307,6 +291,22 @@
       "duration_ms": 191460,
       "name": "Kil\u00f3metros",
       "url": "https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "The Return of El Santo",
+        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
+      },
+      "artists": [
+        {
+          "name": "King Chango",
+          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
+        }
+      ],
+      "duration_ms": 287013,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
         "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
@@ -359,6 +375,22 @@
       "duration_ms": 282120,
       "name": "Pobre de Ti",
       "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -395,70 +427,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Serie Verde - El Gran Silencio",
-        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "Mi Vida es un Tango",
-      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Chanchos Amigos",
         "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
       },
@@ -479,6 +447,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -491,6 +475,70 @@
       "duration_ms": 180826,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Serie Verde - El Gran Silencio",
+        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Mal Bicho",
+      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "Mi Vida es un Tango",
+      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -515,38 +563,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Pero Qu\u00e9 Necesidad",
         "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
       },
@@ -567,6 +583,22 @@
       "duration_ms": 188394,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -607,8 +639,44 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
+        "name": "El \u00daltimo Ska",
+        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+        }
+      ],
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "Que Corran",
+      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Fabulosos Exitos",
+        "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
       },
       "artists": [
         {
@@ -616,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 243293,
-      "name": "Mal Bicho",
-      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
+      "duration_ms": 264026,
+      "name": "Calaveras y Diablitos",
+      "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -639,26 +707,6 @@
       "duration_ms": 187000,
       "name": "Vete Por Donde Viniste",
       "url": "https://open.spotify.com/track/5Wn97vM7JaTNyp8DQIM60d"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "El \u00daltimo Ska",
-        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
-        }
-      ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -687,38 +735,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Fabulosos Exitos",
-        "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "Calaveras y Diablitos",
-      "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Emulsion de Skape",
         "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 143200,
       "name": "Ste Ska",
       "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "Que Corran",
-      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "En la Kalle",
         "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 219733,
       "name": "Su Majestad",
       "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
+        "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "\"Sax\" Maldita Vecindad",
+          "url": "https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq"
+        }
+      ],
+      "duration_ms": 236930,
+      "name": "Pachuco - En Vivo en el Foro Sol - 17.11.17",
+      "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "El Enemigo",
         "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
-        "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "\"Sax\" Maldita Vecindad",
-          "url": "https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq"
-        }
-      ],
-      "duration_ms": 236930,
-      "name": "Pachuco - En Vivo en el Foro Sol - 17.11.17",
-      "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Baile Infinito",
-        "url": "https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR"
-      },
-      "artists": [
-        {
-          "name": "Tomo Como Rey",
-          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 198188,
-      "name": "Es lo que hay",
-      "url": "https://open.spotify.com/track/4sYiGhu0HEL0ZlkbHesfYC"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "El T\u00fanel Del Amor",
         "url": "https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ"
       },
@@ -1351,6 +1331,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Baile Infinito",
+        "url": "https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 198188,
+      "name": "Es lo que hay",
+      "url": "https://open.spotify.com/track/4sYiGhu0HEL0ZlkbHesfYC"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Revolusound Contra Sistema",
         "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 184666,
       "name": "Corrupci\u00f3n Ska",
       "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "As\u00ed No Se Puede Querer",
-        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
-      },
-      "artists": [
-        {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "As\u00ed No Se Puede Querer",
-      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+        "name": "As\u00ed No Se Puede Querer",
+        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
         }
       ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
+      "duration_ms": 216859,
+      "name": "As\u00ed No Se Puede Querer",
+      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1447,6 +1431,38 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Amor por el Ska",
         "url": "https://open.spotify.com/album/5bHFgnkMD0aoNIEMYkH9CO"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "5 A\u00f1os Con Sabor a 20",
         "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 137000,
       "name": "La Ca\u00edda y la Gloria",
       "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Este Ritmo",
+        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 167128,
+      "name": "Este Ritmo",
+      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1539,6 +1555,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "La Bolsa",
+        "url": "https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        },
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 199541,
+      "name": "La Bolsa",
+      "url": "https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Antih\u00e9roes",
         "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
       },
@@ -1555,38 +1591,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "40Tone",
-        "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
+        "name": "Que Empiece Ya!",
+        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
       },
       "artists": [
         {
-          "name": "Felices Adicciones",
-          "url": "https://open.spotify.com/artist/1pKW7UYKScg5YdR6rGsYma"
-        },
-        {
-          "name": "Alexis Korfiatis",
-          "url": "https://open.spotify.com/artist/4oRksQQyxL9dvR3QwK5pcU"
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
         }
       ],
-      "duration_ms": 127181,
-      "name": "40Tone",
-      "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+      "duration_ms": 332695,
+      "name": "Amor Sin Odio",
+      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1611,38 +1627,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "La Bolsa",
-        "url": "https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el"
+        "name": "40Tone",
+        "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
       },
       "artists": [
         {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+          "name": "Felices Adicciones",
+          "url": "https://open.spotify.com/artist/1pKW7UYKScg5YdR6rGsYma"
         },
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Alexis Korfiatis",
+          "url": "https://open.spotify.com/artist/4oRksQQyxL9dvR3QwK5pcU"
         }
       ],
-      "duration_ms": 199541,
-      "name": "La Bolsa",
-      "url": "https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Que Empiece Ya!",
-        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
-      },
-      "artists": [
-        {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        }
-      ],
-      "duration_ms": 332695,
-      "name": "Amor Sin Odio",
-      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
+      "duration_ms": 127181,
+      "name": "40Tone",
+      "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Todo Alg\u00fan D\u00eda Termina",
         "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 248014,
       "name": "Todo Alg\u00fan D\u00eda Termina",
       "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Rebelde Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0hJkYx2cG6rQlvrwoFjHRY"
-      },
-      "artists": [
-        {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Buenas Vibraciones",
-      "url": "https://open.spotify.com/track/1rXhp04B2mcqyuFkHjKPcB"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "El Diablo",
         "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 142252,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Historias de amor y otras mierdas",
+        "url": "https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt"
+      },
+      "artists": [
+        {
+          "name": "Eskorzo",
+          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+        }
+      ],
+      "duration_ms": 185925,
+      "name": "Me Va A Castigar El Se\u00f1or",
+      "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
     }
   ],
   "unique_name": "Ska Latino ",

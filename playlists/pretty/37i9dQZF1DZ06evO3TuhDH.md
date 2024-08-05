@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 ### [This Is Coi Leray](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3TuhDH)
 
-> This is Coi Leray\. The essential tracks, all in one playlist.
+> This Is Coi Leray\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,687 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,692 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 | 50 | [Poster Girl](https://open.spotify.com/track/5EUIAKpcGL0CS9O0Tx3sl4) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 2:57 |
 
-Snapshot ID: `ZqrQAAAAAABJwFKndiW8rUR3NNsU8CKF`
+Snapshot ID: `ZqrQAAAAAADSgdq/oDfV0Vq9lItKCxWq`

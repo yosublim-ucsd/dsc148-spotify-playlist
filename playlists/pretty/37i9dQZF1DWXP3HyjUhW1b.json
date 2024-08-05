@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed est\u00e1n las meras-meras petateras de nuestro cancionero.",
-  "num_followers": 335025,
+  "num_followers": 335065,
   "original_name": "Cancionero Mexicano",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2oK1yzbA7bV7jtiI8nIBSQ"
       },
@@ -175,22 +191,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 156520,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -255,18 +239,18 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 166200,
-      "name": "Y As\u00ed Fue",
-      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
+      "duration_ms": 207586,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -287,18 +271,34 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 207586,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Y As\u00ed Fue",
+      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -315,6 +315,22 @@
       "duration_ms": 263133,
       "name": "Por Mujeres Como T\u00fa",
       "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -371,22 +387,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Me Robaste El Corazon",
         "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 198920,
       "name": "La Chona",
       "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -547,22 +531,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -575,6 +543,38 @@
       "duration_ms": 174160,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3gYgHcEBcuySZwZ2dcTPXV"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Mujeres Divinas",
         "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
       },
@@ -707,34 +691,18 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 171026,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3gYgHcEBcuySZwZ2dcTPXV"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -755,6 +723,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 165480,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "Una Aventura",
         "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Amores",
-        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Tragos Amargos",
         "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 153160,
       "name": "Abrazado de un Poste",
       "url": "https://open.spotify.com/track/2GiQqCOQCOkYA76QmD9Iqf"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "T\u00fa Lo Decidiste",
+      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1075,38 +1091,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "T\u00fa Lo Decidiste",
-      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Canciones De Sus Peliculas",
-        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Somos Los Que Somos (En Vivo)",
         "url": "https://open.spotify.com/album/4fyPhbp4TVAcAePO24DPQE"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 163680,
       "name": "Apenas Te Fuistes Ayer",
       "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Canciones De Sus Peliculas",
+        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Es Cab ... El Viejo",
+        "url": "https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 153106,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/5iJNb87XU4xodNITsyR2PR"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 222360,
       "name": "Cuando Yo Quer\u00eda Ser Grande",
       "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Es Cab ... El Viejo",
-        "url": "https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD"
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 153106,
-      "name": "Mi Gusto Es",
-      "url": "https://open.spotify.com/track/5iJNb87XU4xodNITsyR2PR"
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1627,6 +1627,38 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 137040,
+      "name": "En el \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/0UhL3AaYhG2aRUL4WQ2KC3"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
+        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "La vida es un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "M\u00fasica de America",
         "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
       },
@@ -1663,38 +1695,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
-        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "La vida es un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 137040,
-      "name": "En el \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/0UhL3AaYhG2aRUL4WQ2KC3"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA"
       },
@@ -1723,6 +1723,22 @@
       "duration_ms": 163266,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/5A40LJZRgmHQuXd9U8tMqD"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/7pEV1CmxyDJwFwt9MQWk8g"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1791,22 +1807,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 129400,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/7pEV1CmxyDJwFwt9MQWk8g"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "XEW La Voz de America Latina",
         "url": "https://open.spotify.com/album/7cgNFfmtAKKoF559Mjqb6J"
       },
@@ -1819,6 +1819,22 @@
       "duration_ms": 181720,
       "name": "Amorcito coraz\u00f3n",
       "url": "https://open.spotify.com/track/5edCzkatTA7YC8fy4ZKUPh"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/4bOsvJA6BrBn1DW29YEkji"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1871,22 +1887,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/4bOsvJA6BrBn1DW29YEkji"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Mi Raz\u00f3n De Ser",
         "url": "https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO"
       },
@@ -1919,38 +1919,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me La Avente",
-      "url": "https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/7f9iAg217HyY4rY0f6760q"
       },
@@ -1963,22 +1931,6 @@
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4XC7YfQYxDuUa7I287yeWw"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "El Rey",
-        "url": "https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 194835,
-      "name": "Caminos de Guanajuato",
-      "url": "https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -2003,22 +1955,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 324365,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs"
       },
@@ -2031,6 +1967,70 @@
       "duration_ms": 184746,
       "name": "No Hay Novedad",
       "url": "https://open.spotify.com/track/1cvuESXANPuTV27IFPRtPu"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Aventurero",
+        "url": "https://open.spotify.com/album/4E0c4aLh4PYDNqj3x9UHO7"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Yo Soy El Aventurero",
+      "url": "https://open.spotify.com/track/3GJz7atIMjk3h6lQKTQ7yt"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "El Rey",
+        "url": "https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 194835,
+      "name": "Caminos de Guanajuato",
+      "url": "https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me La Avente",
+      "url": "https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ"
     }
   ],
   "unique_name": "Cancionero Mexicano",

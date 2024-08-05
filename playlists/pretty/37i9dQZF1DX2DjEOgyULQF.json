@@ -1,6 +1,6 @@
 {
   "description": "Ambient with the soothing sounds of water, rain and birds. ",
-  "num_followers": 116610,
+  "num_followers": 116900,
   "original_name": "Nature Relaxation",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo"
-      },
-      "artists": [
-        {
-          "name": "Mystisse",
-          "url": "https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Slowly Stream",
-      "url": "https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Asterism (Sound Bath)",
         "url": "https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 146014,
       "name": "Asterism (Sound Bath)",
       "url": "https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo"
+      },
+      "artists": [
+        {
+          "name": "Mystisse",
+          "url": "https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Slowly Stream",
+      "url": "https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "The Universe Within",
-        "url": "https://open.spotify.com/album/0XVYHXKxNHRGjUGfUN8ukA"
-      },
-      "artists": [
-        {
-          "name": "Proph\u00e9tique",
-          "url": "https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v"
-        }
-      ],
-      "duration_ms": 133003,
-      "name": "The Universe Whitin (Nature Sounds)",
-      "url": "https://open.spotify.com/track/3LK95mRAhmD7mSDKj1qDQq"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Floating senses",
         "url": "https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 155217,
       "name": "Floating senses",
       "url": "https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "The Universe Within",
+        "url": "https://open.spotify.com/album/0XVYHXKxNHRGjUGfUN8ukA"
+      },
+      "artists": [
+        {
+          "name": "Proph\u00e9tique",
+          "url": "https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v"
+        }
+      ],
+      "duration_ms": 133003,
+      "name": "The Universe Whitin (Nature Sounds)",
+      "url": "https://open.spotify.com/track/3LK95mRAhmD7mSDKj1qDQq"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Cottonia Creek",
-        "url": "https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r"
-      },
-      "artists": [
-        {
-          "name": "Alpha Vectoriam",
-          "url": "https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD"
-        }
-      ],
-      "duration_ms": 179580,
-      "name": "Cottonia Creek",
-      "url": "https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf"
-      },
-      "artists": [
-        {
-          "name": "Jaylen Sharise",
-          "url": "https://open.spotify.com/artist/0xrQf6fTJb3fjpYyddA0ph"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Legacy Drift",
         "url": "https://open.spotify.com/album/6FOEczmgps7pqBfvGAXlcD"
       },
@@ -1067,6 +1035,22 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
+        "name": "Cottonia Creek",
+        "url": "https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r"
+      },
+      "artists": [
+        {
+          "name": "Alpha Vectoriam",
+          "url": "https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD"
+        }
+      ],
+      "duration_ms": 179580,
+      "name": "Cottonia Creek",
+      "url": "https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
         "name": "Tributary Balance",
         "url": "https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 187918,
       "name": "Tributary Balance",
       "url": "https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf"
+      },
+      "artists": [
+        {
+          "name": "Jaylen Sharise",
+          "url": "https://open.spotify.com/artist/0xrQf6fTJb3fjpYyddA0ph"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
+        "name": "Corales (Forest)",
+        "url": "https://open.spotify.com/album/6Vk9EcP1P9eZbY4EKPS0j4"
+      },
+      "artists": [
+        {
+          "name": "Asajj Sadie",
+          "url": "https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd"
+        }
+      ],
+      "duration_ms": 159868,
+      "name": "Corales (Forest)",
+      "url": "https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Corales (Forest)",
-        "url": "https://open.spotify.com/album/6Vk9EcP1P9eZbY4EKPS0j4"
-      },
-      "artists": [
-        {
-          "name": "Asajj Sadie",
-          "url": "https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd"
-        }
-      ],
-      "duration_ms": 159868,
-      "name": "Corales (Forest)",
-      "url": "https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Kitsilano",
         "url": "https://open.spotify.com/album/6eRIVdsCRum4Za5YubIgjx"
       },
@@ -1423,54 +1423,6 @@
       "duration_ms": 164000,
       "name": "Kitsilano",
       "url": "https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Serene Lake",
-        "url": "https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo"
-      },
-      "artists": [
-        {
-          "name": "Mjuk",
-          "url": "https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6"
-        }
-      ],
-      "duration_ms": 157499,
-      "name": "Serene Lake (Spa)",
-      "url": "https://open.spotify.com/track/1gBPQ6xYTOszzZWng02LZZ"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Renacer en Calma",
-        "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
-      },
-      "artists": [
-        {
-          "name": "Esmeraldas",
-          "url": "https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Renacer en Calma (Nature)",
-      "url": "https://open.spotify.com/track/15kpyHpO1u89MMGrQLxiEJ"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Portraits (Sound Bath)",
-        "url": "https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7"
-      },
-      "artists": [
-        {
-          "name": "For The Lost",
-          "url": "https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Portraits (Sound Bath)",
-      "url": "https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1507,18 +1459,34 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Circle",
-        "url": "https://open.spotify.com/album/0FWYBWscbQyFSXLHuxTfd3"
+        "name": "Serene Lake",
+        "url": "https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo"
       },
       "artists": [
         {
-          "name": "Campane",
-          "url": "https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr"
+          "name": "Mjuk",
+          "url": "https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6"
         }
       ],
-      "duration_ms": 139874,
-      "name": "Circle",
-      "url": "https://open.spotify.com/track/5kfHwava0Jn209SJch0yVO"
+      "duration_ms": 157499,
+      "name": "Serene Lake (Spa)",
+      "url": "https://open.spotify.com/track/1gBPQ6xYTOszzZWng02LZZ"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Renacer en Calma",
+        "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
+      },
+      "artists": [
+        {
+          "name": "Esmeraldas",
+          "url": "https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Renacer en Calma (Nature)",
+      "url": "https://open.spotify.com/track/15kpyHpO1u89MMGrQLxiEJ"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1535,6 +1503,54 @@
       "duration_ms": 144064,
       "name": "Tree Spirits",
       "url": "https://open.spotify.com/track/4r1O9hHMjiStkmn9iXnYDE"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Portraits (Sound Bath)",
+        "url": "https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7"
+      },
+      "artists": [
+        {
+          "name": "For The Lost",
+          "url": "https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Portraits (Sound Bath)",
+      "url": "https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Essence of the Forest",
+        "url": "https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN"
+      },
+      "artists": [
+        {
+          "name": "Adelina Somerset",
+          "url": "https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Essence of the Forest",
+      "url": "https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/0FWYBWscbQyFSXLHuxTfd3"
+      },
+      "artists": [
+        {
+          "name": "Campane",
+          "url": "https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr"
+        }
+      ],
+      "duration_ms": 139874,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/5kfHwava0Jn209SJch0yVO"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1567,22 +1583,6 @@
       "duration_ms": 159000,
       "name": "Melville (Meditation)",
       "url": "https://open.spotify.com/track/0dvYoaVUiMJAbBtAIbr590"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Essence of the Forest",
-        "url": "https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN"
-      },
-      "artists": [
-        {
-          "name": "Adelina Somerset",
-          "url": "https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Essence of the Forest",
-      "url": "https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Key Of Dreams",
-        "url": "https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3"
-      },
-      "artists": [
-        {
-          "name": "Whispers in Haze",
-          "url": "https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP"
-        }
-      ],
-      "duration_ms": 179784,
-      "name": "Key Of Dreams (Nature)",
-      "url": "https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Simplicity",
         "url": "https://open.spotify.com/album/4IS0Gx9Z1Yi2grpkSeyW5p"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 192307,
       "name": "Simplicity",
       "url": "https://open.spotify.com/track/5ABh3sfeg6DsCcm4uWRGNf"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Key Of Dreams",
+        "url": "https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3"
+      },
+      "artists": [
+        {
+          "name": "Whispers in Haze",
+          "url": "https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP"
+        }
+      ],
+      "duration_ms": 179784,
+      "name": "Key Of Dreams (Nature)",
+      "url": "https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Dream On",
-        "url": "https://open.spotify.com/album/2tlRlrBMx9JpcOUs2C4m4T"
+        "name": "First And Foremost",
+        "url": "https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ"
       },
       "artists": [
         {
-          "name": "Isla Laine",
-          "url": "https://open.spotify.com/artist/1MjZBlMMS2FIikJ0klCTUC"
+          "name": "Amaury Arceneaux",
+          "url": "https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp"
         }
       ],
-      "duration_ms": 195290,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/79U5R6G2pmBRSSGCjlJmA9"
+      "duration_ms": 181132,
+      "name": "First And Foremost",
+      "url": "https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "First And Foremost",
-        "url": "https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ"
+        "name": "Dream On",
+        "url": "https://open.spotify.com/album/2tlRlrBMx9JpcOUs2C4m4T"
       },
       "artists": [
         {
-          "name": "Amaury Arceneaux",
-          "url": "https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp"
+          "name": "Isla Laine",
+          "url": "https://open.spotify.com/artist/1MjZBlMMS2FIikJ0klCTUC"
         }
       ],
-      "duration_ms": 181132,
-      "name": "First And Foremost",
-      "url": "https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2"
+      "duration_ms": 195290,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/79U5R6G2pmBRSSGCjlJmA9"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "My Small River",
-        "url": "https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph"
+        "name": "Introspective Thoughts Gamma",
+        "url": "https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3"
       },
       "artists": [
         {
-          "name": "Emma Hill",
-          "url": "https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1"
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
         }
       ],
-      "duration_ms": 179250,
-      "name": "My Small River",
-      "url": "https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA"
+      "duration_ms": 168000,
+      "name": "Introspective Thoughts Gamma (88-176hz)",
+      "url": "https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -1967,6 +1967,22 @@
       "duration_ms": 175152,
       "name": "Fire Light",
       "url": "https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "My Small River",
+        "url": "https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph"
+      },
+      "artists": [
+        {
+          "name": "Emma Hill",
+          "url": "https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "My Small River",
+      "url": "https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2019,22 +2035,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Deep Waves",
-        "url": "https://open.spotify.com/album/766NOhts6UUYKkr6TOjn6n"
-      },
-      "artists": [
-        {
-          "name": "Sink in Calm",
-          "url": "https://open.spotify.com/artist/3okr43B0Zj9ydMIOuPrMXX"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Deep Waves",
-      "url": "https://open.spotify.com/track/4zXwVwJ9lyE8RS5clgcMog"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "A Bird Sleeping in Paradise",
         "url": "https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns"
       },
@@ -2051,18 +2051,34 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Introspective Thoughts Gamma",
-        "url": "https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3"
+        "name": "Deep Waves",
+        "url": "https://open.spotify.com/album/766NOhts6UUYKkr6TOjn6n"
       },
       "artists": [
         {
-          "name": "Waves Of Sine",
-          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+          "name": "Sink in Calm",
+          "url": "https://open.spotify.com/artist/3okr43B0Zj9ydMIOuPrMXX"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Introspective Thoughts Gamma (88-176hz)",
-      "url": "https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY"
+      "duration_ms": 219000,
+      "name": "Deep Waves",
+      "url": "https://open.spotify.com/track/4zXwVwJ9lyE8RS5clgcMog"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Morning Yoga",
+        "url": "https://open.spotify.com/album/02rCmVAY6NsJXNxFOM1HOa"
+      },
+      "artists": [
+        {
+          "name": "Orakleminds",
+          "url": "https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "Morning Yoga",
+      "url": "https://open.spotify.com/track/745hKdfWK8QlbkmJVNR2kk"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2079,22 +2095,6 @@
       "duration_ms": 164202,
       "name": "The Tone Of Willingness Nature",
       "url": "https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
-        "name": "Namah",
-        "url": "https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU"
-      },
-      "artists": [
-        {
-          "name": "Eta Centauri",
-          "url": "https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Namah (Nature)",
-      "url": "https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2127,6 +2127,22 @@
       "duration_ms": 174191,
       "name": "Chitwan Longing",
       "url": "https://open.spotify.com/track/2HVEoqPXUYIVeshrfufq0u"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Namah",
+        "url": "https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU"
+      },
+      "artists": [
+        {
+          "name": "Eta Centauri",
+          "url": "https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Namah (Nature)",
+      "url": "https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2211,22 +2227,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Morning Yoga",
-        "url": "https://open.spotify.com/album/02rCmVAY6NsJXNxFOM1HOa"
-      },
-      "artists": [
-        {
-          "name": "Orakleminds",
-          "url": "https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC"
-        }
-      ],
-      "duration_ms": 199565,
-      "name": "Morning Yoga",
-      "url": "https://open.spotify.com/track/745hKdfWK8QlbkmJVNR2kk"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "The whim of fate",
         "url": "https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru"
       },
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/3vaTeBzkNTKF3hxABPlo04"
-      },
-      "artists": [
-        {
-          "name": "The Destination",
-          "url": "https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Connection (Nature)",
-      "url": "https://open.spotify.com/track/72psxjeHs75ZxMNbsCEwD7"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Sense",
         "url": "https://open.spotify.com/album/42kJPHsjCUyjlDvkGKvR8B"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 188571,
       "name": "Sense",
       "url": "https://open.spotify.com/track/6NCysERXVV7R2ot0MXsEOV"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3vaTeBzkNTKF3hxABPlo04"
+      },
+      "artists": [
+        {
+          "name": "The Destination",
+          "url": "https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Connection (Nature)",
+      "url": "https://open.spotify.com/track/72psxjeHs75ZxMNbsCEwD7"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/6Ped9Q9msu0Rpm7A0MjYGO"
-      },
-      "artists": [
-        {
-          "name": "our distant worlds",
-          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Earth Song (Brook)",
-      "url": "https://open.spotify.com/track/2u5SfmEplx0MJZrouALhLd"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Pompeiana Waters",
         "url": "https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 174545,
       "name": "Pompeiana Waters",
       "url": "https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/6Ped9Q9msu0Rpm7A0MjYGO"
+      },
+      "artists": [
+        {
+          "name": "our distant worlds",
+          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Earth Song (Brook)",
+      "url": "https://open.spotify.com/track/2u5SfmEplx0MJZrouALhLd"
     },
     {
       "added_at": "2024-07-19 10:12:48",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Eternals",
-        "url": "https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z"
-      },
-      "artists": [
-        {
-          "name": "Sweep Bliss",
-          "url": "https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9"
-        }
-      ],
-      "duration_ms": 134369,
-      "name": "Eternals",
-      "url": "https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c"
-    },
-    {
-      "added_at": "2024-07-19 10:12:48",
-      "album": {
         "name": "Follow the Creek",
         "url": "https://open.spotify.com/album/651sLcIRdIJLBUuC96Iy4l"
       },
@@ -2403,18 +2387,34 @@
     {
       "added_at": "2024-07-19 10:12:48",
       "album": {
-        "name": "Infinite Potential",
-        "url": "https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9"
+        "name": "Circadian Wanderer",
+        "url": "https://open.spotify.com/album/0Xd2U5Kvwo9e1tT3peqXLC"
       },
       "artists": [
         {
-          "name": "unvrsl frqncy",
-          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+          "name": "NREM",
+          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Infinite Potential",
-      "url": "https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv"
+      "duration_ms": 176000,
+      "name": "Dreamy Elixir (alongside Forest Birds)",
+      "url": "https://open.spotify.com/track/0EuxLdWhNLvdpEis08mHJI"
+    },
+    {
+      "added_at": "2024-07-19 10:12:48",
+      "album": {
+        "name": "Eternals",
+        "url": "https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z"
+      },
+      "artists": [
+        {
+          "name": "Sweep Bliss",
+          "url": "https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9"
+        }
+      ],
+      "duration_ms": 134369,
+      "name": "Eternals",
+      "url": "https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c"
     }
   ],
   "unique_name": "Nature Relaxation",

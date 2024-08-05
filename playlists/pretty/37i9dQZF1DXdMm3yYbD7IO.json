@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 367443,
+  "num_followers": 367742,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "The Rhythm of the Night",
         "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 320306,
       "name": "Pump Up The Jam",
       "url": "https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -311,26 +311,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        },
-        {
-          "name": "The Basement Boys",
-          "url": "https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI"
-        }
-      ],
-      "duration_ms": 451826,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
-      "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        },
+        {
+          "name": "The Basement Boys",
+          "url": "https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI"
+        }
+      ],
+      "duration_ms": 451826,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
+      "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 252306,
       "name": "I Wish - Radio Edit",
       "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "All In The Mind",
-        "url": "https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj"
-      },
-      "artists": [
-        {
-          "name": "The Bucketheads",
-          "url": "https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC"
-        }
-      ],
-      "duration_ms": 202934,
-      "name": "The Bomb (These Sounds Fall Into My Mind)",
-      "url": "https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Horny (Radio Edit's)",
         "url": "https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "All In The Mind",
+        "url": "https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj"
+      },
+      "artists": [
+        {
+          "name": "The Bucketheads",
+          "url": "https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC"
+        }
+      ],
+      "duration_ms": 202934,
+      "name": "The Bomb (These Sounds Fall Into My Mind)",
+      "url": "https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Don't Be Cruel",
         "url": "https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "This Is Your Night",
-        "url": "https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA"
-      },
-      "artists": [
-        {
-          "name": "Amber",
-          "url": "https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "This Is Your Night",
-      "url": "https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "'N Sync",
         "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 211000,
       "name": "Tearin' up My Heart - Radio Edit",
       "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "This Is Your Night",
+        "url": "https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA"
+      },
+      "artists": [
+        {
+          "name": "Amber",
+          "url": "https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "This Is Your Night",
+      "url": "https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Space Jam (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 304960,
       "name": "Space Jam",
       "url": "https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 280466,
-      "name": "100% Pure Love",
-      "url": "https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 222666,
       "name": "The Key, The Secret",
       "url": "https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "100% Pure Love",
+      "url": "https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71"
     },
     {
       "added_at": "2024-07-12 19:59:45",

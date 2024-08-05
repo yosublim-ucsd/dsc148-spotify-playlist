@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 187545,
       "name": "Ale jazz!",
       "url": "https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE"
@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Kaprysy",
+        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
+      "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
+    },
+    {
+      "album": {
         "name": "Z\u0142oto",
         "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
       },
@@ -1187,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Kaprysy",
+        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177957,
+      "name": "O mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/5gWIF2Rqa9rXufl7696JoU"
+    },
+    {
+      "album": {
         "name": "O nich, o Tobie",
         "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
       },
@@ -1500,7 +1536,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 246186,
       "name": "Rzu\u0107 Wszystko Co Z\u0142e",
       "url": "https://open.spotify.com/track/11iQIrOyUNjzH6jJtC3NIb"

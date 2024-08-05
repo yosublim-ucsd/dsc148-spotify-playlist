@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: E.L
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,344 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,355 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

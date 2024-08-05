@@ -2,7 +2,7 @@
 
 ### [This Is beabadoobee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1MEzV6)
 
-> This is beabadoobee\. Tutti i brani in un'unica playlist.
+> This is beabadoobee\. The essential tracks, all in one playlist.
 
 53 songs - 2 hr 52 min
 

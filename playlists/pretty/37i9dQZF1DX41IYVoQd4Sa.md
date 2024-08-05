@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,941 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,942 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 41 | [עכשיו זה ברור](https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz) | [Gil Bar Hadas](https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ) | [עכשיו זה ברור](https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI) | 3:38 |
 | 42 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:33 |
 | 43 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 |
-| 44 | [Wild Wonder](https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY) | [Wild Wonder](https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB) | 4:08 |
-| 45 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 |
+| 44 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 |
+| 45 | [Wild Wonder](https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY) | [Wild Wonder](https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB) | 4:08 |
 | 46 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 |
-| 47 | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh) | 2:48 |
-| 48 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 |
-| 49 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 |
+| 47 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 |
+| 48 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 |
+| 49 | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh) | 2:48 |
 | 50 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
 | 51 | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/track/116GDev72vb3hj162mjDGX) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR) | 2:54 |
 | 52 | [ילדים של אלוהים](https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [VuVuVu](https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP) | [ילדים של אלוהים](https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz) | 3:49 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 56 | [במקום אחר](https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi) | [Yoni Rechter](https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh) | [במקום אחר](https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ) | 3:25 |
 | 57 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
 | 58 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
-| 59 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
-| 60 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
+| 59 | [Fool For Your Smile](https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2) | [GADEE](https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0) | [Homesick](https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw) | 3:01 |
+| 60 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
 
 Snapshot ID: `Zqv3UAAAAACEbU9iIQZfyB8ec3GCMTBb`

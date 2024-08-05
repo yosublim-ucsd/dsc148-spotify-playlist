@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "From the Rafters",
+        "url": "https://open.spotify.com/album/0lAFM1Ylrf6KLSEWJO3vb3"
+      },
+      "artists": [
+        {
+          "name": "Fake A Smile",
+          "url": "https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200252,
+      "name": "Beachwood House",
+      "url": "https://open.spotify.com/track/58YlAaGyATujqf7DYJW9XR"
+    },
+    {
+      "album": {
         "name": "Wake",
         "url": "https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi"
       },

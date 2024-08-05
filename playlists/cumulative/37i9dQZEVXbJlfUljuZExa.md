@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,006 songs - 2 day 10 hr 7 min
+1,007 songs - 2 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-27 | 2023-08-12 |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-11-28 | 2024-01-14 |
 | [Bawa Dia Kembali](https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 3:46 | 2024-07-17 |  |
-| [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-08-03 |  |
+| [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-08-03 | 2024-08-05 |
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-06-01 | 2022-06-06 |
 | [Beautiful](https://open.spotify.com/track/6NBbpQfD2MZcCNBOy7iE7Q) | [NCT 2021](https://open.spotify.com/artist/5Qnl3RAtzne7J1dxRv1UBc) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 4:21 | 2021-12-17 | 2021-12-18 |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:47 | 2021-06-13 | 2021-07-11 |
@@ -168,7 +168,7 @@
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:59 | 2023-04-29 | 2023-05-08 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-11-25 |
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-01-18 | 2022-01-24 |
-| [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-02-05 | 2024-05-04 |
+| [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-02-05 |  |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2023-07-07 | 2024-03-26 |
 | [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2022-07-01 | 2022-09-27 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-03-27\* | 2021-03-27 |
@@ -178,7 +178,7 @@
 | [Cheating on You](https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Cheating on You](https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L) | 3:16 | 2021-07-04 | 2021-10-23 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-18 | 2024-06-01 |
 | [Child](https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Child \- SM STATION : NCT LAB](https://open.spotify.com/album/4XGMXl3AMjb11YIKdeujj1) | 3:31 | 2022-02-05 | 2022-02-17 |
-| [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-07-23 |  |
+| [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-07-23 | 2024-08-05 |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-02 | 2021-12-03 |
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 | 2022-03-26 |
 | [Cinta](https://open.spotify.com/track/0jkJChuTxiVr05C2oUAlht) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/1gAC5jqOsnhlGjfucDDkWo) | 3:54 | 2022-03-30 | 2022-04-01 |
@@ -316,6 +316,7 @@
 | [GADISKU](https://open.spotify.com/track/1qLdhMIr4aah67C0MhZy12) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [FITTO](https://open.spotify.com/artist/3OG2k4C5SSrH69YbBU3Mbp), [Gard](https://open.spotify.com/artist/1YeerhN60nteXqkUo06htu) | [CHRONOSPHERE](https://open.spotify.com/album/4bUD7FuNjWluM7QlFxPl45) | 4:07 | 2024-01-11 | 2024-04-20 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-18 | 2022-03-26 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
+| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-08-04 |  |
 | [Gelora](https://open.spotify.com/track/1LSDf9UugcT7zX9FlCQRvL) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX) | [Gelora](https://open.spotify.com/album/1ZO8DsyDKeG3SPU5Uoggjc) | 3:48 | 2024-02-11 | 2024-05-05 |
 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2023-07-22 | 2023-08-03 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-02 |

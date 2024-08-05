@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 > This is Mac Júlia\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,444 likes - 51 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,445 likes - 51 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Buen provecho!",
-  "num_followers": 230602,
+  "num_followers": 230619,
   "original_name": "Hora de la Comida",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
+        "name": "Mariposa Traicionera",
+        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 243307,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 216737,
       "name": "Sus Huellas",
       "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
-        "name": "Mariposa Traicionera",
-        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 243307,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "What Do You Mean? - Acoustic",
-      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "T\u00fa Me Dejaste De Querer",
         "url": "https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 198499,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "What Do You Mean? - Acoustic",
+      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 245062,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 245062,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "chiquita suelta",
         "url": "https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 160718,
       "name": "chiquita suelta",
       "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim"
+        "name": "Nineteeneighties",
+        "url": "https://open.spotify.com/album/4TnqhYlH5FEJzjBdU96III"
       },
       "artists": [
         {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+          "name": "Grant-Lee Phillips",
+          "url": "https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv"
         }
       ],
-      "duration_ms": 130222,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9"
+      "duration_ms": 226106,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/2orxzsGKBr5wI7W1bY6g1A"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Nineteeneighties",
-        "url": "https://open.spotify.com/album/4TnqhYlH5FEJzjBdU96III"
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim"
       },
       "artists": [
         {
-          "name": "Grant-Lee Phillips",
-          "url": "https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv"
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
         }
       ],
-      "duration_ms": 226106,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/2orxzsGKBr5wI7W1bY6g1A"
+      "duration_ms": 130222,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Pero Todo Bien",
-        "url": "https://open.spotify.com/album/1X0YxwZJFQzV3sAD93QnNg"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Pero Todo Bien",
-      "url": "https://open.spotify.com/track/1yiJbOj2u7EEZnZfgqyRFM"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "Me Voy a Valpara\u00edso",
         "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 240576,
       "name": "Me Voy a Valpara\u00edso",
       "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "Pero Todo Bien",
+        "url": "https://open.spotify.com/album/1X0YxwZJFQzV3sAD93QnNg"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Pero Todo Bien",
+      "url": "https://open.spotify.com/track/1yiJbOj2u7EEZnZfgqyRFM"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Nada Me Falta (Welcome To Tijuana)",
-        "url": "https://open.spotify.com/album/1p4nM45VgvTK3XUc4u6YOO"
-      },
-      "artists": [
-        {
-          "name": "Menny Flores",
-          "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Nada Me Falta (Welcome To Tijuana)",
-      "url": "https://open.spotify.com/track/22tGC8xKORmlKcmpKHqdMA"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "Es Por Ti",
         "url": "https://open.spotify.com/album/4OiWC358icDw3f18lxFYjT"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 193684,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/1fPBBcBon7d2EuOcye2rsT"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "Nada Me Falta (Welcome To Tijuana)",
+        "url": "https://open.spotify.com/album/1p4nM45VgvTK3XUc4u6YOO"
+      },
+      "artists": [
+        {
+          "name": "Menny Flores",
+          "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Nada Me Falta (Welcome To Tijuana)",
+      "url": "https://open.spotify.com/track/22tGC8xKORmlKcmpKHqdMA"
     },
     {
       "added_at": "2023-05-05 15:49:38",

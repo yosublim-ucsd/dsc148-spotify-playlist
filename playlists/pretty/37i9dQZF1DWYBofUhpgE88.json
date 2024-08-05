@@ -1,6 +1,6 @@
 {
   "description": "Musica per non smettere mai di crederci \ud83c\udfc6 \ud83d\udcaa\ud83c\udfcb\ufe0f",
-  "num_followers": 345849,
+  "num_followers": 345906,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
@@ -175,26 +175,6 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
-        "name": "APAGA EL CEL",
-        "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
-        }
-      ],
-      "duration_ms": 184806,
-      "name": "APAGA EL CEL",
-      "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
@@ -231,6 +211,42 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
+        "name": "APAGA EL CEL",
+        "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 184806,
+      "name": "APAGA EL CEL",
+      "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 196652,
       "name": "The Box",
       "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
       "added_at": "2024-08-01 14:08:03",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
         "name": "Music To Be Murdered By",
         "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 210800,
       "name": "Godzilla (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2024-08-01 14:08:03",
@@ -487,30 +487,6 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
-        "name": "MONTAGEM - PR FUNK",
-        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 61673,
-      "name": "MONTAGEM - PR FUNK",
-      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/4OssqCixV2Xsxd43wMIQyS"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "duration_ms": 61673,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
     },
     {
       "added_at": "2024-08-01 14:08:03",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
-        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
         "name": "OA",
         "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 235200,
       "name": "OA",
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
+        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
     },
     {
       "added_at": "2024-08-01 14:08:03",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 292093,
       "name": "POWER",
       "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
       "added_at": "2024-08-01 14:08:03",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        }
-      ],
-      "duration_ms": 144210,
-      "name": "TT LE GIRLZ (feat. Niky Savage)",
-      "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "duration_ms": 144210,
+      "name": "TT LE GIRLZ (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
     },
     {
       "added_at": "2024-08-01 14:08:03",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2024-08-01 14:08:03",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
         "name": "The Definition Of X: Pick Of The Litter",
         "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 217586,
       "name": "X Gon' Give It To Ya",
       "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2024-08-01 14:08:03",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Party Up",
+      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
         "name": "Marianela (Que Pasa)",
         "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
-        "name": "...And Then There Was X",
-        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Party Up",
-      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
     },
     {
       "added_at": "2024-08-01 14:08:03",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-08-01 14:08:03",
       "album": {
-        "name": "Popolari",
-        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 200592,
-      "name": "Al\u00e9 (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
-    },
-    {
-      "added_at": "2024-08-01 14:08:03",
-      "album": {
         "name": "California Dreamin' (feat. High Jinx)",
         "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 196899,
       "name": "California Dreamin' (feat. High Jinx)",
       "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
+    },
+    {
+      "added_at": "2024-08-01 14:08:03",
+      "album": {
+        "name": "Popolari",
+        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 200592,
+      "name": "Al\u00e9 (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
     },
     {
       "added_at": "2024-08-01 14:08:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,801 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,872 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 42 | [Aquela Pessoa \- Ao Vivo](https://open.spotify.com/track/5asabafNzfAzjUecDvuNES) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:46 |
 | 43 | [Eu So Comi Ela uma Vez](https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa) | [Dj VN Maestro](https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L), [MC G DS](https://open.spotify.com/artist/1xIma0CABaifVU5xJAqAAs) | [Eu So Comi Ela uma Vez](https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ) | 1:47 |
 | 44 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 |
-| 45 | [Nem a Pau \(feat\. Simone Mendes\)](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\)](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
+| 45 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
 | 46 | [Diferentona](https://open.spotify.com/track/7sAyqOe0BHySvFjSI5tnBA) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Diferentona](https://open.spotify.com/album/38MUiXwqZqB83uzciTp3MU) | 2:58 |
 | 47 | [Barulho Do Foguete \- Ao Vivo](https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:13 |
 | 48 | [Experiência \- Ao Vivo](https://open.spotify.com/track/4G0CNdwFI4oeHFVZDcqLvK) | [Henrique Casttro](https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Experiência \(Ao Vivo\)](https://open.spotify.com/album/6pQEr64rW3rV156wGjmbKT) | 2:54 |
 | 49 | [Melhor Vibe](https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Rocco](https://open.spotify.com/artist/7h0T1H0HPypWgO2ef6jkcZ) | [Melhor Vibe](https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach) | 5:41 |
 | 50 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/6IFMz6Buh3dKoUjULWE26n) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1uA9OubhaxPCMtZM5CMYzy) | 2:41 |
 
-Snapshot ID: `LkGYcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LkLp8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

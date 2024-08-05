@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Adam Port & Stryv en tête de la playlist numéro un en Tunisie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,486 likes - 49 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,544 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Lipta, Mirrr
 
-131 songs - 8 hr 15 min
+132 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [ที่รักใจเย็น](https://open.spotify.com/track/6rgF7lJWhf0jR5ZEJk3cY5) | [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Williams](https://open.spotify.com/artist/0rnxDMQvlw7WzIofQuaXmT) | [URDAWG](https://open.spotify.com/album/1ZQJQ3EAzClG99jCmLefKh) | 3:23 | 2024-06-27 |  |
 | [น่ารักมั้ยไม่รู้ \(Narak Mhai Mai Roo\)](https://open.spotify.com/track/2RDj0KKuo4NP8PxaNf5quT) | [Butterbear](https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr) | [น่ารักมั้ยไม่รู้ \(Narak Mhai Mai Roo\)](https://open.spotify.com/album/6ceHXU8Nvd9nao4NXVScqZ) | 2:55 | 2024-06-27 |  |
 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ \- Single](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 | 2024-06-27 |  |
+| [บุษบา](https://open.spotify.com/track/2LCF0vtFyZ5BHaAU3KUSq2) | [เมนทอล](https://open.spotify.com/artist/2N6Skva8Ly8APTJy0O2Ypp) | [บุษบา](https://open.spotify.com/album/0KN3DuSt304bTCD8ze8fcY) | 3:44 | 2024-08-04 |  |
 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 | 2024-06-27 |  |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-06-27 |  |
 | [ปล่อยไหล \- High](https://open.spotify.com/track/5sW5R4Ofm9zfBuN1jX8MsV) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [ปล่อยไหล \(High\)](https://open.spotify.com/album/1BW3Aq7GCarLeUMHTdwqmA) | 2:47 | 2024-07-26 |  |

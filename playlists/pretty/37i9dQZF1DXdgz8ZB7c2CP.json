@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Killen. & Oaks",
-  "num_followers": 778810,
+  "num_followers": 778827,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Bittersweet Goodbye",
-        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        }
-      ],
-      "duration_ms": 166778,
-      "name": "Bittersweet Goodbye",
-      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "stayinit",
         "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "duration_ms": 166778,
+      "name": "Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -631,6 +631,30 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 146571,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n"
       },
@@ -675,30 +699,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Rumble",
-        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "Rumble",
-      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "So Much In Love (Sub Focus Remix)",
         "url": "https://open.spotify.com/album/47FtmJz3uPnswg7tTrAvF0"
       },
@@ -735,6 +735,34 @@
       "duration_ms": 170975,
       "name": "We Are Making Out",
       "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
+        "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Noisia",
+          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+        },
+        {
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 167253,
+      "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
+      "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -779,6 +807,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "In The Rain",
+        "url": "https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 239441,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "zero experience",
         "url": "https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0"
       },
@@ -795,22 +839,6 @@
       "duration_ms": 167441,
       "name": "rampage",
       "url": "https://open.spotify.com/track/2E5MrNoJuqwBhhxIp5v8F2"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "In The Rain",
-        "url": "https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 239441,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -863,34 +891,6 @@
       "duration_ms": 249894,
       "name": "CHROMA 002 L.A.V.A",
       "url": "https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
-        "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Noisia",
-          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
-        },
-        {
-          "name": "josh pan",
-          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 167253,
-      "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
-      "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Broke My Heart",
         "url": "https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7"
       },
@@ -1079,38 +1063,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Pachamama (feat. Elliphant)",
-        "url": "https://open.spotify.com/album/1X1LkpG3vnr1ZOJuw9ZHkL"
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
       },
       "artists": [
         {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         }
       ],
-      "duration_ms": 145116,
-      "name": "Pachamama (feat. Elliphant)",
-      "url": "https://open.spotify.com/track/2TCpEU82gEzWAOAbjewQpP"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Someone You Can Count On",
-        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 173609,
-      "name": "Rewind.. (But I Love You)",
-      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
+      "duration_ms": 146865,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1131,6 +1095,42 @@
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Someone You Can Count On",
+        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 173609,
+      "name": "Rewind.. (But I Love You)",
+      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Pachamama (feat. Elliphant)",
+        "url": "https://open.spotify.com/album/1X1LkpG3vnr1ZOJuw9ZHkL"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Pachamama (feat. Elliphant)",
+      "url": "https://open.spotify.com/track/2TCpEU82gEzWAOAbjewQpP"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "maybe it's u",
-        "url": "https://open.spotify.com/album/5tDwbRikZ6n4A1EN2fJPHZ"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 237780,
-      "name": "maybe it's u",
-      "url": "https://open.spotify.com/track/2K0onXEr9iCUSYonEf0Bl4"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
       },
@@ -1323,18 +1303,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Del Oro",
-        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
+        "name": "maybe it's u",
+        "url": "https://open.spotify.com/album/5tDwbRikZ6n4A1EN2fJPHZ"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 374122,
-      "name": "Del Oro",
-      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
+      "duration_ms": 237780,
+      "name": "maybe it's u",
+      "url": "https://open.spotify.com/track/2K0onXEr9iCUSYonEf0Bl4"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1359,6 +1343,22 @@
       "duration_ms": 174387,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Del Oro",
+        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 374122,
+      "name": "Del Oro",
+      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1551,6 +1551,42 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "I Love You.",
+      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "SENESCENCE 03 + 04",
         "url": "https://open.spotify.com/album/43YlByO8C1Fh1E9ziG1BbW"
       },
@@ -1579,42 +1615,6 @@
       "duration_ms": 131612,
       "name": "anywhere but here",
       "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "I Love You.",
-      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "STEALTH BOMBER (feat. Flowdan)",
-        "url": "https://open.spotify.com/album/5Zcig8EL8Fk0ND5riw8EU1"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 137016,
-      "name": "STEALTH BOMBER (feat. Flowdan)",
-      "url": "https://open.spotify.com/track/5ufcSQog3pRDAHl2FEwYoH"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Do You Want Me",
         "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 272523,
       "name": "Do You Want Me",
       "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "STEALTH BOMBER (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/5Zcig8EL8Fk0ND5riw8EU1"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 137016,
+      "name": "STEALTH BOMBER (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/5ufcSQog3pRDAHl2FEwYoH"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Things to Come",
-        "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 163944,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Good Lies",
         "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
       },
@@ -1859,22 +1843,6 @@
       "duration_ms": 217369,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "How High",
-        "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        }
-      ],
-      "duration_ms": 192834,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1903,26 +1871,34 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/1CBz4aX5jZADVuCmPbVUfb"
+        "name": "Things to Come",
+        "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
       },
       "artists": [
         {
-          "name": "Fred V",
-          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
-        },
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        },
-        {
-          "name": "Paul Dowling",
-          "url": "https://open.spotify.com/artist/4KIlM7sZWsr4mvfHsqmyqF"
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
         }
       ],
-      "duration_ms": 205620,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2rtJDlbOWQG1zuzhEXhl5t"
+      "duration_ms": 163944,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "How High",
+        "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "duration_ms": 192834,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1963,6 +1939,30 @@
       "duration_ms": 156004,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/1CBz4aX5jZADVuCmPbVUfb"
+      },
+      "artists": [
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Paul Dowling",
+          "url": "https://open.spotify.com/artist/4KIlM7sZWsr4mvfHsqmyqF"
+        }
+      ],
+      "duration_ms": 205620,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2rtJDlbOWQG1zuzhEXhl5t"
     },
     {
       "added_at": "2024-08-01 22:00:00",

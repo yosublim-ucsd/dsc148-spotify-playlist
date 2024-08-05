@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 130689,
+  "num_followers": 130684,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime [Edited Version] - Remastered 2011 / Edited Version",
+      "url": "https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/32OWobmyAz8J2qA8iWekyS"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T"
     }
   ],
   "unique_name": "Easy Christmas",

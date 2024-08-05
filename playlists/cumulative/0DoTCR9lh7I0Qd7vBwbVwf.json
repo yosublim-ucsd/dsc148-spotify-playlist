@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/485WZIHQ4pmGhTDNHaBOds"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8ap",
+          "url": "https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135356,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/0wQyNKjEGxg7wIwSWNL5Mn"
+    },
+    {
+      "album": {
         "name": "Melodies of Serenity",
         "url": "https://open.spotify.com/album/3Z6J66tVl7nqa1lzFqftrA"
       },

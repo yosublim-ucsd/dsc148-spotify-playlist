@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 ### [This Is Megadeth](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17aFuo)
 
-> This is Megadeth\. Todos os maiores hits em uma só playlist.
+> This Is Megadeth\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,294 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,342 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Dogs Of Chernobyl](https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:14 |
 | 50 | [My Last Words \- Remastered](https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 4:55 |
 
-Snapshot ID: `ZqrQAAAAAAB7j8unu6NS37OWufYKhdnE`
+Snapshot ID: `ZqrQAAAAAACrmQrqT0itBrlR//TXPNgI`

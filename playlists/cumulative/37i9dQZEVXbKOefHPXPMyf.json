@@ -364,7 +364,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 118558,
       "name": "3 PECADOS DESPUES\u2026",
       "url": "https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB"
@@ -704,6 +704,32 @@
       "duration_ms": 215744,
       "name": "512",
       "url": "https://open.spotify.com/track/18TugVVujeY5xQDtbfI1Pf"
+    },
+    {
+      "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290194,
+      "name": "530",
+      "url": "https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4"
     },
     {
       "album": {
@@ -12497,6 +12523,24 @@
     },
     {
       "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX"
       },
@@ -14778,7 +14822,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 411729,
       "name": "Estoy Convencido - En vivo",
       "url": "https://open.spotify.com/track/3tibAhUL1rTJjnqipgRwgl"
@@ -16180,7 +16224,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 464453,
       "name": "Flying Whales",
       "url": "https://open.spotify.com/track/5OjCsHeByDYEGxMrb1z8KQ"
@@ -17742,6 +17786,24 @@
       "duration_ms": 186453,
       "name": "GUCCI LOS PA\u00d1OS",
       "url": "https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142265,
+      "name": "Guess",
+      "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
     },
     {
       "album": {
@@ -26432,6 +26494,32 @@
       "duration_ms": 209416,
       "name": "Memory Reboot",
       "url": "https://open.spotify.com/track/1Q68oodivzKjIDnPTXFy83"
+    },
+    {
+      "album": {
+        "name": "Meninos Do Favela",
+        "url": "https://open.spotify.com/album/6oamJM64EV5MH8Na9jVckf"
+      },
+      "artists": [
+        {
+          "name": "MC Hernan do Brasil",
+          "url": "https://open.spotify.com/artist/6w6UhlGYCuEmohDnpFFQcI"
+        },
+        {
+          "name": "DJ Pequenho",
+          "url": "https://open.spotify.com/artist/0Rf2gKYFNuyKA8ODjFfCIv"
+        },
+        {
+          "name": "Fausti Bo",
+          "url": "https://open.spotify.com/artist/3L5wrKjEW4k5iigPt0QbfG"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136323,
+      "name": "Meninos Do Favela",
+      "url": "https://open.spotify.com/track/6rEEOtgl9W9oEfJZ6Rvqt7"
     },
     {
       "album": {
@@ -40436,7 +40524,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
@@ -42152,7 +42240,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 215448,
       "name": "Tengo Un Plan - Remix",
       "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"
@@ -43812,7 +43900,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"

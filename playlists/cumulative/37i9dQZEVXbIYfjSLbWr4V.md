@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-261 songs - 11 hr 30 min
+262 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-12 | 2024-04-05 |
 | [Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Internet Famous](https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6) | 2:03 | 2024-04-04 | 2024-06-03 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-05-03 | 2024-05-09 |
+| [FIELD TRIP](https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:47 | 2024-08-04 |  |
 | [FREESOSA](https://open.spotify.com/track/1SWDfZj8YO4FeDr9kAHfWm) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:46 | 2024-06-29 | 2024-07-01 |
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 |  |
 | [FUK SUMN](https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:29 | 2024-02-12 | 2024-02-16 |
@@ -96,7 +97,7 @@
 | [Slappy Tap](https://open.spotify.com/track/5q0lNR2QzHVatYdjXc9Ty9) | [Baby Melo](https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs) | [Slappy Tap](https://open.spotify.com/album/2AlsoF1eExPmQhY5mic5n6) | 1:02 | 2024-08-01 |  |
 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-04-16 | 2024-05-28 |
 | [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 | 2024-07-20 | 2024-07-22 |
-| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 |  |
+| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 | 2024-08-05 |
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2024-05-15 | 2024-05-24 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-29 | 2024-07-20 |
 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 | 2024-02-16 | 2024-03-17 |
@@ -201,7 +202,7 @@
 | [ПОДАРОК](https://open.spotify.com/track/1Mm9DXmUXT2xiCQAZPEEaK) | [АКУЛИЧ](https://open.spotify.com/artist/5DUv28BBZb6uQ0VLaZ36XZ), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ПОДАРОК](https://open.spotify.com/album/6CgHw7fVn7IGRn6UxLbIf3) | 2:39 | 2024-02-17 | 2024-07-21 |
 | [Поезда](https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS) | [Женя Трофимов](https://open.spotify.com/artist/3JYowG5k65ROJjN5PXx9Ce), [Комната культуры](https://open.spotify.com/artist/0dTuwuNVB1hXbxaDM42ncA) | [Поезда](https://open.spotify.com/album/5RjCEj6KIpdgEAdGokQuLU) | 2:59 | 2024-01-29 |  |
 | [Пожары](https://open.spotify.com/track/1zXv6MYOAyjgMA0iPypPkO) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Пожары](https://open.spotify.com/album/68sNUJIxWC1On3J9PQmEEs) | 3:17 | 2024-06-11 |  |
-| [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2024-01-29 |  |
+| [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2024-01-29 | 2024-08-05 |
 | [последнее лето](https://open.spotify.com/track/0M6DVxO3zzYsAx1PJoG7jO) | [kin](https://open.spotify.com/artist/3gWzZ1G1YylaEyFIwbQMtw) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/1LKztSqCqjJeO7aDFIkhPJ) | 2:17 | 2024-05-10 | 2024-05-13 |
 | [последнее лето](https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:17 | 2024-01-29 | 2024-07-21 |
 | [Последнее свидание](https://open.spotify.com/track/6OlP8aLDdhWQI9TFmOwgdY) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 3:01 | 2024-04-06 | 2024-04-11 |
@@ -245,7 +246,7 @@
 | [У меня свег, у меня стиль](https://open.spotify.com/track/0yieEy5KmWrGZZpijadoaX) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 1:47 | 2024-04-06 | 2024-04-08 |
 | [Универ](https://open.spotify.com/track/2ybOJtV8rIuktM8OXCNRV3) | [Baby Cute](https://open.spotify.com/artist/6DAzBc6NiyLFSKZ8dmj4Rc) | [Универ](https://open.spotify.com/album/2odHypry9PFeYEu72ROzJ2) | 1:57 | 2024-04-16 | 2024-04-19 |
 | [Ути\-Пути](https://open.spotify.com/track/2T1AuZE4fHpWPovzm985OI) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi), [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD) | [Ути\-Пути](https://open.spotify.com/album/4dMvbYXzA9w0SXpaFCvq0b) | 3:08 | 2024-06-22 | 2024-06-30 |
-| [Утро](https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr) | [Дайте танк \(!\)](https://open.spotify.com/artist/6iQqWcDg92kre5ykFLwqD8) | [Радио огонь](https://open.spotify.com/album/5Zzj1GE0qY6yyewhe5jwMc) | 2:27 | 2024-03-07 | 2024-08-04 |
+| [Утро](https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr) | [Дайте танк \(!\)](https://open.spotify.com/artist/6iQqWcDg92kre5ykFLwqD8) | [Радио огонь](https://open.spotify.com/album/5Zzj1GE0qY6yyewhe5jwMc) | 2:27 | 2024-03-07 |  |
 | [фенибут 2.0](https://open.spotify.com/track/4YfWMQ0M3FYOh71etUTmO7) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:29 | 2024-04-16 | 2024-06-02 |
 | [фенибут 2.0 \- speed up](https://open.spotify.com/track/5ktnJaccf1XbHRws28PlyK) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:15 | 2024-04-06 | 2024-06-07 |
 | [ХАЙЕГОХО](https://open.spotify.com/track/5DIprzXMd8Ot7RSVe50qfq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [JAZZ DO IT](https://open.spotify.com/album/54qJYajtPSQ350ArxQmmcU) | 1:36 | 2024-04-13 | 2024-04-17 |

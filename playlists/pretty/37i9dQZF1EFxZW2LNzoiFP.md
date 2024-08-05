@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95 likes - 216 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 95 likes - 217 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 116 | [Dancing](https://open.spotify.com/track/2GaMidZlf2kO3L1ZvORSP5) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Dancing](https://open.spotify.com/album/6ztdw1jAN5UZjj8RPioBIq) | 2:41 |
 | 117 | [Twelvemonth](https://open.spotify.com/track/06Szv3oSZ2KINnzvjM2lCd) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:08 |
 | 118 | [Silence](https://open.spotify.com/track/28CFasFNhNUO83NvGJSbVl) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Silence](https://open.spotify.com/album/4jkUC2e2rZHE3it09y8RqN) | 3:43 |
-| 119 | [In My Head](https://open.spotify.com/track/6UQy3o1wtZP4LUBhG1dCFQ) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [In My Head](https://open.spotify.com/album/4cgbsjwhZDUJPSMQsUX0EP) | 3:51 |
-| 120 | [Little Less](https://open.spotify.com/track/2wZ1kI1A7jeygVj2B3y9sk) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:12 |
+| 119 | [Little Less](https://open.spotify.com/track/2wZ1kI1A7jeygVj2B3y9sk) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:12 |
+| 120 | [In My Head](https://open.spotify.com/track/6UQy3o1wtZP4LUBhG1dCFQ) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [In My Head](https://open.spotify.com/album/4cgbsjwhZDUJPSMQsUX0EP) | 3:51 |
 | 121 | [Wilinout](https://open.spotify.com/track/07bVfkubeWBRUFLzKcvqMB) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Wilinout](https://open.spotify.com/album/1tUewhkamOHq1hlREvo4kG) | 3:20 |
 | 122 | [Happy New Year](https://open.spotify.com/track/0TkUwdRLk2cDqFNYZnFdl5) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:08 |
 | 123 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 |
@@ -189,8 +189,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 179 | [Big Boots](https://open.spotify.com/track/6ERvPEKRAcQ8LOic62sE7z) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:39 |
 | 180 | [At Sunset Sunrise Blooms](https://open.spotify.com/track/1eY1Atu5l6JAH9ezCOY6ty) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 5:53 |
 | 181 | [Follows You Around](https://open.spotify.com/track/0CJVD3yGgXH5bJu3C51lZX) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 3:48 |
-| 182 | [Lake City](https://open.spotify.com/track/17ei6zcl7nYlpiYXkVZaFt) | [Tangerine](https://open.spotify.com/artist/0H626IQejaQUX7Baiy9e62) | [White Dove](https://open.spotify.com/album/2LGHjFv7KrNlbxARw8gpSR) | 4:04 |
-| 183 | ['small miracles'](https://open.spotify.com/track/0XhGZDlgA4S0XMvfiDtWIZ) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 1:24 |
+| 182 | ['small miracles'](https://open.spotify.com/track/0XhGZDlgA4S0XMvfiDtWIZ) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 1:24 |
+| 183 | [Lake City](https://open.spotify.com/track/17ei6zcl7nYlpiYXkVZaFt) | [Tangerine](https://open.spotify.com/artist/0H626IQejaQUX7Baiy9e62) | [White Dove](https://open.spotify.com/album/2LGHjFv7KrNlbxARw8gpSR) | 4:04 |
 | 184 | [Coda](https://open.spotify.com/track/1Nk4O287pOo9TUYQicHw0v) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:22 |
 | 185 | [We Coexist](https://open.spotify.com/track/43cu92QAsRZj5XXQ3vnJIB) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [The Smash Brothers \(Original Soundtrack\)](https://open.spotify.com/album/3aEMoEiAaC78BsaEVe6skZ) | 2:02 |
 | 186 | [Bounty](https://open.spotify.com/track/2LtHvG5lx91a1b5Aoo57LB) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 1:52 |
@@ -207,12 +207,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 197 | [Don't Say Anything](https://open.spotify.com/track/72PIWfefUl2JaQSvgoeUNQ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Don't Say Anything](https://open.spotify.com/album/34kmDkpGvmT7gNon3TuEJ8) | 3:27 |
 | 198 | [Bleed Me Dry](https://open.spotify.com/track/1ApKs9vqOIH9uVvoKR8OaA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Bleed Me Dry](https://open.spotify.com/album/4nEd1bE4Psn7qVbJkMz581) | 3:16 |
 | 199 | [Temptation](https://open.spotify.com/track/3hwo0FI3ZX7HuI1i1va9hL) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 5:29 |
-| 200 | [Beach Bum Palace](https://open.spotify.com/track/2OPjttR2y0KsktacOUGt92) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:28 |
-| 201 | [West Side Love](https://open.spotify.com/track/2NJPwg17EXbo8inxwwHMgl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 4:26 |
+| 200 | [West Side Love](https://open.spotify.com/track/2NJPwg17EXbo8inxwwHMgl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 4:26 |
+| 201 | [Beach Bum Palace](https://open.spotify.com/track/2OPjttR2y0KsktacOUGt92) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:28 |
 | 202 | [Some Kind of Dream](https://open.spotify.com/track/4z99ELIgLtz9xO6nIDaWez) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:47 |
 | 203 | [Facade](https://open.spotify.com/track/3SyN9yQx2FHkKJd9hEG9X8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 2:02 |
-| 204 | [You Messed up](https://open.spotify.com/track/01QKVIO6BxAdVSkMcp53ze) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 3:25 |
-| 205 | [Wandering People](https://open.spotify.com/track/125KRyzooRaF91ZWsoNkvB) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Wandering People](https://open.spotify.com/album/1nHUeBirrH3p2VIr2SRJLD) | 2:24 |
+| 204 | [Wandering People](https://open.spotify.com/track/125KRyzooRaF91ZWsoNkvB) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Wandering People](https://open.spotify.com/album/1nHUeBirrH3p2VIr2SRJLD) | 2:24 |
+| 205 | [You Messed up](https://open.spotify.com/track/01QKVIO6BxAdVSkMcp53ze) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 3:25 |
 | 206 | [Lipstick](https://open.spotify.com/track/3R6uEtU6Y91xYkgtEWyVg8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Lipstick](https://open.spotify.com/album/0Ighxhne5ofrXNsK1594FE) | 3:44 |
 | 207 | [Sleeping Through It All](https://open.spotify.com/track/570t0wn5CYRqsMVh2dk8fn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 1:58 |
 | 208 | [Jerks](https://open.spotify.com/track/5k4s6tcoW7Gup7hAKxgZ3y) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:10 |
@@ -224,5 +224,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 214 | [Stop at Nothing](https://open.spotify.com/track/1IA5qIIzDjymzYxfE5VTOV) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 3:30 |
 | 215 | [L35af](https://open.spotify.com/track/4CBVNHEJSOsBEMFDcufcro) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:07 |
 | 216 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
+| 217 | [Beachwood House](https://open.spotify.com/track/58YlAaGyATujqf7DYJW9XR) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [From the Rafters](https://open.spotify.com/album/0lAFM1Ylrf6KLSEWJO3vb3) | 3:20 |
 
-Snapshot ID: `AbYdnQAAAABjnrVDnrJyWPwDsCqmTp8/`
+Snapshot ID: `AbYjPQAAAAACK07fzTFtnvV+xebO+J1V`

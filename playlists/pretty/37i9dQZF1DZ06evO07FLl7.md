@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 ### [This Is Tassia Reis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07FLl7)
 
-> This is Tassia Reis\. The essential tracks, all in one playlist.
+> This is Tassia Reis\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,917 likes - 50 songs - 3 hr 11 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 49 | [Elza](https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d) | [Rimas e Melodias](https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Mayra Maldjian](https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk) | [Elza](https://open.spotify.com/album/3haMa3eXxCjDFz5BOB6Yno) | 6:04 |
 | 50 | [Flor Laranja](https://open.spotify.com/track/4Oct09kM0spNmbowmgmjE4) | [A.X.L.](https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt), [Skeeter](https://open.spotify.com/artist/7g7jKmP3nb2Ys5jdoZpdsw), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Quando É Preciso Voltar](https://open.spotify.com/album/0nLvIHbTPxE9aPmcP45T6D) | 3:55 |
 
-Snapshot ID: `ZqrQAAAAAABZPNN51BqhnzMXPoE1RtFi`
+Snapshot ID: `ZqrQAAAAAABv1RAI+GHcz4Cv2Yb+XQzU`

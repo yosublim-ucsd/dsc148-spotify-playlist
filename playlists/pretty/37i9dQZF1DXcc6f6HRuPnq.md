@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,898 likes - 80 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,002 likes - 80 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 5 | [Midnight Blues](https://open.spotify.com/track/2n5LevrNK3JbN1WWtXuLD6) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 4:58 |
 | 6 | [Kiss Of Death](https://open.spotify.com/track/7cOzgDiU8MLB8IkK1RsWn1) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Midnight Blue](https://open.spotify.com/album/3eE5mAeyPFKkOfqmvMY3UL) | 7:05 |
 | 7 | [As The Years Go Passing By](https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [I Hear Some Blues Downstairs](https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3) | 4:48 |
-| 8 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 |
-| 9 | [I'll Play The Blues For You \- Edit](https://open.spotify.com/track/6e5jcPUhUNTUeOBRHcGirg) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Chronicle](https://open.spotify.com/album/00sLzZmVoQHr9MZZjspGgt) | 3:56 |
+| 8 | [I'll Play The Blues For You \- Edit](https://open.spotify.com/track/6e5jcPUhUNTUeOBRHcGirg) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Chronicle](https://open.spotify.com/album/00sLzZmVoQHr9MZZjspGgt) | 3:56 |
+| 9 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 |
 | 10 | [The Memory of Our Love](https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Still Frame Replay](https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu) | 7:44 |
 | 11 | [Lenny](https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:57 |
 | 12 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 17 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 |
 | 18 | [Ain’t No Love In The Heart Of The City](https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 5:36 |
 | 19 | [People Get Ready](https://open.spotify.com/track/1nUtE7LNXLGFEJk8kG8gE6) | [Joe Robinson](https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV) | [People Get Ready](https://open.spotify.com/album/5wlHOc1Ek2knIEu5D662MV) | 4:34 |
-| 20 | [RHYTHMS OF THE NIGHT](https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf) | [Thorbjørn Risager & The Black Tornado](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT) | [Track Record](https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR) | 3:46 |
-| 21 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 |
+| 20 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 |
+| 21 | [RHYTHMS OF THE NIGHT](https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf) | [Thorbjørn Risager & The Black Tornado](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT) | [Track Record](https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR) | 3:46 |
 | 22 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
 | 23 | [Reap What You Sow](https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 4:55 |
 | 24 | [Help Me Through The Day](https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [King Of The Blues](https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3) | 4:28 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 74 | [Hoodoo Man](https://open.spotify.com/track/2BjtzMioX7p1F7yiIMQn1B) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [Packing My Bags](https://open.spotify.com/album/1y27gJjOVIB19RrTBUw7Km) | 4:54 |
 | 75 | [Since I Fell For You](https://open.spotify.com/track/1OuJhCr6p1n5XYbaUNScvl) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Sings The Blues](https://open.spotify.com/album/14VAZhx1Qgx05WedZMVCG2) | 2:50 |
 | 76 | [Personal Manager](https://open.spotify.com/track/3rdggOvseyMgqFFbWLLp8W) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa) | 4:30 |
-| 77 | [Gotta Leave](https://open.spotify.com/track/0YO5SB9ZBMEsIpVzXZNrE0) | [Back Door Slam](https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34) | [Roll Away](https://open.spotify.com/album/71UC2xt4eqLqntVo9LsP1v) | 5:49 |
-| 78 | [Baby I Love You](https://open.spotify.com/track/5etgVyV2lvxJMf7Sd8BBrS) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Deuces Wild](https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT) | 4:01 |
+| 77 | [Baby I Love You](https://open.spotify.com/track/5etgVyV2lvxJMf7Sd8BBrS) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Deuces Wild](https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT) | 4:01 |
+| 78 | [Gotta Leave](https://open.spotify.com/track/0YO5SB9ZBMEsIpVzXZNrE0) | [Back Door Slam](https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34) | [Roll Away](https://open.spotify.com/album/71UC2xt4eqLqntVo9LsP1v) | 5:49 |
 | 79 | [Sweet Little Angel](https://open.spotify.com/track/0vUyPyd5cuIZIxTrvrtbR1) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/1JQtDephsJMr9tWdtYgv2y) | 5:30 |
 | 80 | [Same Old Blues Again](https://open.spotify.com/track/4iDihtKlKU9RgCnRkn0tmM) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/1JYSyzv0oKu42PeEtQLKOE) | 6:13 |
 

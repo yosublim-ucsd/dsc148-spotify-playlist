@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1337101,
+  "num_followers": 1337406,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Hand in My Pocket - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Floored",
         "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 244640,
       "name": "Fly",
       "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Hand in My Pocket - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Elastica",
-        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
       },
       "artists": [
         {
-          "name": "Elastica",
-          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+          "name": "Jesus Jones",
+          "url": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
         }
       ],
-      "duration_ms": 140480,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
+      "duration_ms": 189293,
+      "name": "Right Here Right Now",
+      "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Doubt",
-        "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
+        "name": "Elastica",
+        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
       },
       "artists": [
         {
-          "name": "Jesus Jones",
-          "url": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
+          "name": "Elastica",
+          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Right Here Right Now",
-      "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
+      "duration_ms": 140480,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Odelay",
-        "url": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Devils Haircut",
-      "url": "https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Goldfinger",
         "url": "https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 190800,
       "name": "Here In Your Bedroom",
       "url": "https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Odelay",
+        "url": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Devils Haircut",
+      "url": "https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "evan and jaron",
-        "url": "https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy"
-      },
-      "artists": [
-        {
-          "name": "Evan And Jaron",
-          "url": "https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Crazy for This Girl",
-      "url": "https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "James: The Best Of",
         "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 156866,
       "name": "Laid",
       "url": "https://open.spotify.com/track/2L8kaqJ2YHbKlcX1e1rKnf"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "evan and jaron",
+        "url": "https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy"
+      },
+      "artists": [
+        {
+          "name": "Evan And Jaron",
+          "url": "https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Crazy for This Girl",
+      "url": "https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Regretfully Yours",
-        "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
-      },
-      "artists": [
-        {
-          "name": "Superdrag",
-          "url": "https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Sucked Out",
-      "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Absolute Garbage",
         "url": "https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 258133,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Regretfully Yours",
+        "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
+      },
+      "artists": [
+        {
+          "name": "Superdrag",
+          "url": "https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Sucked Out",
+      "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
     },
     {
       "added_at": "2024-06-26 02:07:58",

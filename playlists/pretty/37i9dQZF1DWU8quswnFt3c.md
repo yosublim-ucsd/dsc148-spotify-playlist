@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Céline Dion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,084 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,767 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 6 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 |
 | 7 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 |
 | 8 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 |
-| 9 | [Nem a Pau \(feat\. Simone Mendes\)](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\)](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
+| 9 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
 | 10 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
 | 11 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 12 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 25 | [Getting No Sleep](https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Getting No Sleep](https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB) | 3:12 |
 | 26 | [Six Feet Deep](https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:59 |
 | 27 | [Psycho Killer](https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Psycho Killer](https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA) | 3:44 |
-| 28 | [the boy is mine](https://open.spotify.com/track/4wZWAStC9iUk5VvtiYgwzV) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 2:53 |
-| 29 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 |
+| 28 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 |
+| 29 | [the boy is mine](https://open.spotify.com/track/4wZWAStC9iUk5VvtiYgwzV) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 2:53 |
 | 30 | [To The Moon](https://open.spotify.com/track/6jKDpPlWDdR5NGaFHspAfP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 2:28 |
 | 31 | [Yolun Sonu](https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Yolun Sonu](https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR) | 2:41 |
 | 32 | [RAGAZZI FUORI](https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 2:56 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [Finding You](https://open.spotify.com/track/0g7d8Y9Y2BP8qFZDzngnSz) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Finding You](https://open.spotify.com/album/3SZoj251qJDnDf9heYFepJ) | 3:11 |
 | 35 | [KANORMAL](https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [KANORMAL](https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26) | 3:18 |
 | 36 | [Bad Love God](https://open.spotify.com/track/1MZyCaruig26Lio1Cgosh5) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Bad Love God](https://open.spotify.com/album/3kBaenm4ssWN87HymLEEsB) | 3:23 |
-| 37 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 |
-| 38 | [Lost The Breakup](https://open.spotify.com/track/0gUGaSmX3bKGV3zuyT2uXK) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:09 |
+| 37 | [Lost The Breakup](https://open.spotify.com/track/0gUGaSmX3bKGV3zuyT2uXK) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:09 |
+| 38 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 |
 | 39 | [OMG](https://open.spotify.com/track/5kFUU9epaN7mWHC48kSC1r) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:58 |
 | 40 | [Dreams](https://open.spotify.com/track/6kH7Bipic064vclZxCZxbm) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Dreams](https://open.spotify.com/album/40michyETM6sSdEipUW6BW) | 3:14 |
 | 41 | [ZID](https://open.spotify.com/track/036DrB9LguQLZUnxKcjctQ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [ZID](https://open.spotify.com/album/1Yi80QjxTA9KfqqZtbmyxo) | 3:24 |

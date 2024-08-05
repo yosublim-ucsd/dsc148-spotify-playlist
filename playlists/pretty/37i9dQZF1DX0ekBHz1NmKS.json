@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: Jacqline",
-  "num_followers": 195655,
+  "num_followers": 195648,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Boys In The Sea",
-        "url": "https://open.spotify.com/album/03vSTMCwvCQSp6uq3dsfmN"
-      },
-      "artists": [
-        {
-          "name": "Bianca Ingrosso",
-          "url": "https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "Boys In The Sea",
-      "url": "https://open.spotify.com/track/4j31U5bwTpzRXH9cK9FZdf"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Devil Mode",
         "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 184434,
       "name": "Devil Mode",
       "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Boys In The Sea",
+        "url": "https://open.spotify.com/album/03vSTMCwvCQSp6uq3dsfmN"
+      },
+      "artists": [
+        {
+          "name": "Bianca Ingrosso",
+          "url": "https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "Boys In The Sea",
+      "url": "https://open.spotify.com/track/4j31U5bwTpzRXH9cK9FZdf"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Maskinen \u00e4r tillbaka",
-        "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
-      },
-      "artists": [
-        {
-          "name": "Maskinen",
-          "url": "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
-        }
-      ],
-      "duration_ms": 139836,
-      "name": "Maskinen \u00e4r tillbaka",
-      "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "V\u00e4rldens b\u00e4sta piga",
         "url": "https://open.spotify.com/album/6r1GG2IKdOvglgp1a46lv8"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 165468,
       "name": "V\u00e4rldens b\u00e4sta piga",
       "url": "https://open.spotify.com/track/0jXlLlM8bCViItOjfANDtE"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Maskinen \u00e4r tillbaka",
+        "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
+      },
+      "artists": [
+        {
+          "name": "Maskinen",
+          "url": "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
+        }
+      ],
+      "duration_ms": 139836,
+      "name": "Maskinen \u00e4r tillbaka",
+      "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Midsommar",
-        "url": "https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Midsommar",
-      "url": "https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "\u00c4ngel",
         "url": "https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 209840,
       "name": "\u00c4ngel",
       "url": "https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Midsommar",
+        "url": "https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Midsommar",
+      "url": "https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "the last 90s bitch",
-        "url": "https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg"
-      },
-      "artists": [
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 161566,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Bar Thinking",
         "url": "https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 185286,
       "name": "Bar Thinking",
       "url": "https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "the last 90s bitch",
+        "url": "https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 161566,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Midsommardansen",
+        "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 124601,
+      "name": "Midsommardansen",
+      "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Det blir inte b\u00e4ttre",
         "url": "https://open.spotify.com/album/1GRP0pIQbFixMkTNnlsNLC"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 195906,
       "name": "Det blir inte b\u00e4ttre",
       "url": "https://open.spotify.com/track/6LT4cWGVZPPvXCPIc6Esmi"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Midsommardansen",
-        "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 124601,
-      "name": "Midsommardansen",
-      "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Manic Pixie Dream Girl",
         "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 155872,
       "name": "Naprapat",
       "url": "https://open.spotify.com/track/4ixFRldvgDXk1wva3EeaHM"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "When You Were Mine",
+        "url": "https://open.spotify.com/album/4M24A6zHYnqqZAOjta3FjC"
+      },
+      "artists": [
+        {
+          "name": "Josefine Ridell",
+          "url": "https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8"
+        }
+      ],
+      "duration_ms": 188495,
+      "name": "Only Heart That's Bleeding",
+      "url": "https://open.spotify.com/track/5Uyh904h8oFtT7MsrEDFNc"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Imagine Paradise",
         "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
       },
@@ -1503,6 +1519,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "I HATE IT!",
+        "url": "https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82"
+      },
+      "artists": [
+        {
+          "name": "Hanna Mel",
+          "url": "https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8"
+        }
+      ],
+      "duration_ms": 178701,
+      "name": "I HATE IT!",
+      "url": "https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
       },
@@ -1531,26 +1563,6 @@
       "duration_ms": 159764,
       "name": "Born a Riot",
       "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Draw Me Closer 2.0",
-        "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
-      },
-      "artists": [
-        {
-          "name": "Christoffer Hiding",
-          "url": "https://open.spotify.com/artist/5JLv8I5m5yPUC7Tnw36g7a"
-        },
-        {
-          "name": "Chapee",
-          "url": "https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K"
-        }
-      ],
-      "duration_ms": 309166,
-      "name": "Draw Me Closer 2.0",
-      "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1587,34 +1599,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "When You Were Mine",
-        "url": "https://open.spotify.com/album/4M24A6zHYnqqZAOjta3FjC"
+        "name": "Draw Me Closer 2.0",
+        "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
       },
       "artists": [
         {
-          "name": "Josefine Ridell",
-          "url": "https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8"
-        }
-      ],
-      "duration_ms": 188495,
-      "name": "Only Heart That's Bleeding",
-      "url": "https://open.spotify.com/track/5Uyh904h8oFtT7MsrEDFNc"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "I HATE IT!",
-        "url": "https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82"
-      },
-      "artists": [
+          "name": "Christoffer Hiding",
+          "url": "https://open.spotify.com/artist/5JLv8I5m5yPUC7Tnw36g7a"
+        },
         {
-          "name": "Hanna Mel",
-          "url": "https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8"
+          "name": "Chapee",
+          "url": "https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K"
         }
       ],
-      "duration_ms": 178701,
-      "name": "I HATE IT!",
-      "url": "https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v"
+      "duration_ms": 309166,
+      "name": "Draw Me Closer 2.0",
+      "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
     },
     {
       "added_at": "2024-06-27 22:00:00",

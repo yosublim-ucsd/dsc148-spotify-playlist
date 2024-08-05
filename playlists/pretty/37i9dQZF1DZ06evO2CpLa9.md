@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 ### [This Is Santa Fe Klan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CpLa9)
 
-> This Is Santa Fe Klan\. Los temas esenciales, todos en una lista.
+> This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,502 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,532 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 50 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 |
 | 51 | [Si Aquí Estuvieras](https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lich Weezy](https://open.spotify.com/artist/4XiMUcMQp7CjjUX0728Bqu) | [Si Aquí Estuvieras](https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU) | 5:21 |
 
-Snapshot ID: `ZqrQAAAAAAA3qWWaHp8OrlWxyi9wzsK6`
+Snapshot ID: `ZqrQAAAAAAAeDETE42Rm3p4aMLDYiR86`

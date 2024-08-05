@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. emily jeffri
 
-914 songs - 1 day 20 hr 4 min
+915 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -727,6 +727,7 @@
 | [Shinra Dark Pop](https://open.spotify.com/track/1EcQCDJGRTbUyGHhAvyRvT) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [Shinra Dark Pop](https://open.spotify.com/album/1pD3UcDc6DNbzkYNl9yehf) | 2:10 | 2023-08-17 | 2023-11-18 |
 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 | 2024-05-24 |
 | [Shockwave](https://open.spotify.com/track/19xegamOXWHUg3YdibYfRi) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/39YL5TUKANLWh4s5QtuSU0) | 3:17 | 2022-01-12 | 2022-01-29 |
+| [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 | 2024-08-04 |  |
 | [SICK OF IT\*](https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [SICK OF IT\*](https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf) | 2:09 | 2022-09-29 | 2022-10-11 |
 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 | 2022-10-06 | 2022-11-11 |
 | [Silent](https://open.spotify.com/track/1b2zA5ryrida0khSGtp0ZY) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Silent](https://open.spotify.com/album/692IggWHYFp0eyJBWmTW3d) | 2:28 | 2022-09-01 | 2022-09-30 |

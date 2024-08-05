@@ -1,6 +1,6 @@
 {
   "description": "Enjoy mysterious and dreamy music as if walking in a dream. (\uafc8 \uc18d\uc744 \uac70\ub2d0\ub4ef \uc2e0\ube44\ub86d\uace0 \ubabd\ud658\uc801\uc778 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 79574,
+  "num_followers": 79593,
   "original_name": "d r e a m l i k e \u3132 \u315c \u3141",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,74 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/4stu4P8xHdm8ywpX1YpdFJ"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Heaven (Feat. Sam Kim)",
+      "url": "https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
+        "name": "IS ANYBODY OUT THERE?",
+        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
         "name": "LISTEN 035 Restless",
         "url": "https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra"
       },
@@ -187,74 +255,6 @@
       "duration_ms": 231709,
       "name": "lovememore.",
       "url": "https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Heaven (Feat. Sam Kim)",
-      "url": "https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/4stu4P8xHdm8ywpX1YpdFJ"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
-        "name": "IS ANYBODY OUT THERE?",
-        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
     },
     {
       "added_at": "2024-07-23 02:39:49",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 219428,
       "name": "Let off steam",
       "url": "https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2024-07-23 02:39:49",
@@ -507,6 +507,42 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
+        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
         "name": "WHY YOU?",
         "url": "https://open.spotify.com/album/29OG07EpYadviilDMVEgd4"
       },
@@ -539,22 +575,6 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
         "name": "Akita",
         "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 224293,
       "name": "Akita (Feat. hartts) (Prod. OBSN)",
       "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
-        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
     },
     {
       "added_at": "2024-07-23 02:39:49",
@@ -639,22 +639,6 @@
       "duration_ms": 158200,
       "name": "Night Fog",
       "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2024-07-23 02:39:49",
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
         "name": "BOYCOLD",
         "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
       },
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
+      },
+      "artists": [
+        {
+          "name": "imzoo",
+          "url": "https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y"
+        }
+      ],
+      "duration_ms": 188749,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
+    },
+    {
+      "added_at": "2024-07-23 02:39:49",
+      "album": {
         "name": "RAL 9002",
         "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
+        "name": "Good Luck To You, Girl Scout!",
+        "url": "https://open.spotify.com/album/48qQ8g6uVnNPM5vTn2xCHI"
       },
       "artists": [
         {
-          "name": "imzoo",
-          "url": "https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y"
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
         }
       ],
-      "duration_ms": 188749,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
+      "duration_ms": 115518,
+      "name": "Kleenex",
+      "url": "https://open.spotify.com/track/33aFcnhTtspzVAsf6OQv8W"
     },
     {
       "added_at": "2024-07-23 02:39:49",
@@ -791,22 +807,6 @@
       "duration_ms": 214922,
       "name": "midnight",
       "url": "https://open.spotify.com/track/6SuEgkFfiESo1pMLSyAbl3"
-    },
-    {
-      "added_at": "2024-07-23 02:39:49",
-      "album": {
-        "name": "Good Luck To You, Girl Scout!",
-        "url": "https://open.spotify.com/album/48qQ8g6uVnNPM5vTn2xCHI"
-      },
-      "artists": [
-        {
-          "name": "The Black Skirts",
-          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
-        }
-      ],
-      "duration_ms": 115518,
-      "name": "Kleenex",
-      "url": "https://open.spotify.com/track/33aFcnhTtspzVAsf6OQv8W"
     },
     {
       "added_at": "2024-07-23 02:39:49",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-07-23 02:39:49",
       "album": {
-        "name": "MOONLIGHT SUNRISE",
-        "url": "https://open.spotify.com/album/50TaFniZBXGztHHvNEHeFR"
+        "name": "Good Luck To You, Girl Scout!",
+        "url": "https://open.spotify.com/album/48qQ8g6uVnNPM5vTn2xCHI"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
         }
       ],
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/2foowdvesE4yiiuxH25D6q"
+      "duration_ms": 237129,
+      "name": "Girl Scout!",
+      "url": "https://open.spotify.com/track/63rtBJ1S3Rf8OhID4BEoxq"
     }
   ],
   "unique_name": "d r e a m l i k e \u3132 \u315c \u3141",

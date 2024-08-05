@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,650 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,659 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 95 | [Red](https://open.spotify.com/track/1f0miAfqJX7hImBDcJO8CD) | [Linéa](https://open.spotify.com/artist/2hywbSL8p7zNftO3bFd7SP) | [Red](https://open.spotify.com/album/0BdDN2FkvxDOi8A0sRUbUv) | 3:36 |
 | 96 | [Hush!](https://open.spotify.com/track/0M8I1hV0bqeDtNpi1VxPex) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [One Less Year Alive \(Deluxe\)](https://open.spotify.com/album/5SXXooH6qKeqG9iUdqY2Lc) | 2:43 |
 | 97 | [The Way She Moves](https://open.spotify.com/track/3ggpCMbp7276cdCaMj6A3q) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [The Way She Moves](https://open.spotify.com/album/3gO9oRmrXL4IyBlaxGz7KO) | 3:01 |
-| 98 | [Cares You](https://open.spotify.com/track/6OYvsgrItqLjhNUoh1awmM) | [Sanyu](https://open.spotify.com/artist/76le7pywkDxWlcafPNwaHU) | [Cares You](https://open.spotify.com/album/3QOUN3O4VT3PtcwMHzjpNX) | 4:11 |
+| 98 | [Caress You](https://open.spotify.com/track/6OYvsgrItqLjhNUoh1awmM) | [Sanyu](https://open.spotify.com/artist/76le7pywkDxWlcafPNwaHU) | [Caress You](https://open.spotify.com/album/3QOUN3O4VT3PtcwMHzjpNX) | 4:11 |
 | 99 | [Seed of a Seed](https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa) | 2:44 |
 | 100 | [TIME TO GO](https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov) | [Martine Farstad](https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC) | [TIME TO GO](https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF) | 2:36 |
 

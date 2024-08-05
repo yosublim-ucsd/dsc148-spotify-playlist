@@ -103,6 +103,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290194,
+      "name": "530",
+      "url": "https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4"
+    },
+    {
+      "album": {
         "name": "6 In the Morning (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
       },
@@ -1674,7 +1700,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 233880,
       "name": "Circle With Me",
       "url": "https://open.spotify.com/track/3FI0iAAAjmR31xpZEwbdys"
@@ -1964,7 +1990,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 165357,
       "name": "DArkSide",
       "url": "https://open.spotify.com/track/7mczLeiFeYKRb7vtiPjuMb"
@@ -2328,7 +2354,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 233731,
       "name": "DVAMATA",
       "url": "https://open.spotify.com/track/3xwNG8evnrOMelmAJ9RxJ1"
@@ -2438,7 +2464,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-05",
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
@@ -11768,7 +11794,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 170823,
       "name": "\u041b\u044f\u0442\u043e 24",
       "url": "https://open.spotify.com/track/39FfV9Kqn9b0wO9oU77yzS"

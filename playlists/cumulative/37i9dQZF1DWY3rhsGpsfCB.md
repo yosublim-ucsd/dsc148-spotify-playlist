@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-619 songs - 1 day 8 hr 12 min
+620 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 | 2024-03-15 | 2024-05-09 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-04-05 |  |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-28 | 2022-10-01 |
-| [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 |  |
+| [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 | 2024-08-05 |
 | [All Good](https://open.spotify.com/track/5jtnLmxG92vA96CuxAZ3I5) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Love Lust](https://open.spotify.com/album/4mJPHa9BSpMEROuL2oZvnP) | 3:02 | 2024-06-28 | 2024-07-05 |
 | [All In](https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [All In](https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i) | 3:32 | 2023-10-13 | 2024-05-10 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-07 | 2022-11-26 |
@@ -306,7 +306,7 @@
 | [Looking for God](https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Looking for God](https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ) | 2:24 | 2024-07-05 |  |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-09-14 | 2023-09-29 |
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-06-24 | 2022-11-26 |
-| [Lost Time](https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Time](https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X) | 2:52 | 2024-05-03 |  |
+| [Lost Time](https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Time](https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X) | 2:52 | 2024-05-03 | 2024-08-05 |
 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 | 2023-10-20 | 2024-05-09 |
 | [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 | 2024-04-05 |  |
 | [Love & Romance](https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Love & Romance](https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1) | 2:13 | 2024-07-26 |  |
@@ -424,7 +424,7 @@
 | [Please Don't Go](https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Cheekychizzy](https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1) | [Please Don't Go](https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm) | 2:28 | 2023-08-03 | 2023-09-15 |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-17 | 2023-09-15 |
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-26 | 2023-06-10 |
-| [Pressure](https://open.spotify.com/track/40koVJVPscwPtadljPKMjq) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Soul Searching](https://open.spotify.com/album/4NspnWD3q3ji5ufaeTy7Lq) | 2:54 | 2024-04-19 | 2024-04-26 |
+| [Pressure](https://open.spotify.com/track/40koVJVPscwPtadljPKMjq) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Soul Searching](https://open.spotify.com/album/4NspnWD3q3ji5ufaeTy7Lq) | 2:54 | 2024-04-19 |  |
 | [Pretty](https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Pretty](https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB) | 2:31 | 2022-10-28 | 2023-04-03 |
 | [Pretty Mind](https://open.spotify.com/track/7EsEX8tntGi25knwAAx5jA) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Pretty Mind](https://open.spotify.com/album/5X2nm4gNZnJW4BO58wY7Zs) | 3:21 | 2023-02-24 | 2023-12-12 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-24 | 2024-05-13 |
@@ -586,6 +586,7 @@
 | [Virgin Denim](https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Virgin Denim](https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS) | 3:10 | 2024-05-31 | 2024-06-15 |
 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 | 2024-05-03 |  |
 | [Wait On Me](https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Wait On Me](https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE) | 4:07 | 2022-09-02 | 2022-10-22 |
+| [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 | 2024-08-02 |  |
 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 | 2023-06-09 | 2024-05-09 |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2022-06-24 | 2022-11-26 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-28 | 2023-10-27 |

@@ -4,7 +4,7 @@
 
 > 女性ポップアイコンの名曲を一つのプレイリストに。cover: Tones And I
 
-412 songs - 21 hr 10 min
+413 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-05-16 | 2024-05-24 |
 | [FORGIVE ME](https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FORGIVE ME](https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4) | 2:23 | 2024-04-26 | 2024-05-17 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-04-26 |  |
+| [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-08-01 |  |
 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 | 2023-03-16 | 2023-04-04 |
 | [FRESH!!!](https://open.spotify.com/track/5n2EYBtPJBlWE2VbcT4UaT) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL) | [FRESH!!!](https://open.spotify.com/album/6sWI22dHER5ZzTgcVtIX7N) | 3:24 | 2024-01-10 | 2024-01-26 |
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2023-03-16 | 2023-03-31 |
@@ -148,7 +149,7 @@
 | [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-22 | 2024-01-12 |
 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-21 | 2023-09-28 |
 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-06 |  |
-| [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-07 |  |
+| [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-07 | 2024-08-05 |
 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 | 2023-03-16 | 2023-03-25 |
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-14 | 2024-05-27 |
 | [Girlfriend Is Better](https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Girlfriend Is Better](https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6) | 3:05 | 2024-04-26 | 2024-05-17 |

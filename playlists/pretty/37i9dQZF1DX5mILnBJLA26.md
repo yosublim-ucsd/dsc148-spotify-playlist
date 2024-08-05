@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=pXYksIaJS6K\_tB8DZIlinw">Kelvin Momo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,726 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,512 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

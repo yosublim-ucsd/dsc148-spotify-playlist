@@ -1,6 +1,6 @@
 {
   "description": "Embrace those happy vibes with these feel-good hits!",
-  "num_followers": 394044,
+  "num_followers": 394051,
   "original_name": "Happy Pop",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,26 @@
     {
       "added_at": "2024-08-01 18:14:54",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "added_at": "2024-08-01 18:14:54",
+      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 183440,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
-    },
-    {
-      "added_at": "2024-08-01 18:14:54",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
     },
     {
       "added_at": "2024-08-01 18:14:54",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-08-01 18:14:54",
       "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "added_at": "2024-08-01 18:14:54",
+      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2024-08-01 18:14:54",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2024-08-01 18:14:54",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-08-01 18:14:54",
       "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e"
+    },
+    {
+      "added_at": "2024-08-01 18:14:54",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2024-08-01 18:14:54",
-      "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e"
     },
     {
       "added_at": "2024-08-01 18:14:54",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-08-01 18:14:54",
       "album": {
-        "name": "Eye To The Telescope",
-        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
-      },
-      "artists": [
-        {
-          "name": "KT Tunstall",
-          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Suddenly I See",
-      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
-    },
-    {
-      "added_at": "2024-08-01 18:14:54",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2024-08-01 18:14:54",
+      "album": {
+        "name": "Eye To The Telescope",
+        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Suddenly I See",
+      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
     },
     {
       "added_at": "2024-08-01 18:14:54",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-08-01 18:14:54",
       "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
-    },
-    {
-      "added_at": "2024-08-01 18:14:54",
-      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2024-08-01 18:14:54",
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2024-08-01 18:14:54",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2024-08-01 18:14:54",
       "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 235545,
+      "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
+      "url": "https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8"
+    },
+    {
+      "added_at": "2024-08-01 18:14:54",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -1351,22 +1371,26 @@
     {
       "added_at": "2024-08-01 18:14:54",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 235545,
-      "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
-      "url": "https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8"
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     },
     {
       "added_at": "2024-08-01 18:14:54",
@@ -1391,30 +1415,6 @@
       "duration_ms": 181880,
       "name": "Starving",
       "url": "https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22"
-    },
-    {
-      "added_at": "2024-08-01 18:14:54",
-      "album": {
-        "name": "Left and Right (Feat. Jung Kook of BTS)",
-        "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 154486,
-      "name": "Left and Right (Feat. Jung Kook of BTS)",
-      "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     }
   ],
   "unique_name": "Happy Pop",

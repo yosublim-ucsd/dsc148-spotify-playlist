@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,897 songs - 10 day 21 hr 29 min
+6,898 songs - 10 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1100,7 +1100,7 @@
 | [Chopped Coriander](https://open.spotify.com/track/2ebCREZWTZhsP1l2Cxdgy9) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Chopped Coriander](https://open.spotify.com/album/3pZTq5HX11D5D2OazxpZG9) | 2:03 | 2022-06-03 | 2022-09-30 |
 | [Choppin](https://open.spotify.com/track/4ylIcwjAR2edoIU74abjJp) | [Tropical Soldiers in Paradise](https://open.spotify.com/artist/1CZ51T4mCWAc4I8jBpviXk) | [Atversailles I](https://open.spotify.com/album/6FqsPkUtwWtpBKZNgGoeqY) | 4:16 | 2022-02-25 | 2022-05-27 |
 | [choppy](https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [choppy](https://open.spotify.com/album/1GQkAyBiePE7ZJ5N8HAAPh) | 2:13 | 2023-08-25 | 2023-10-06 |
-| [Chordingly](https://open.spotify.com/track/1GlyHT01SDQM9pdH7GvrE3) | [Loop](https://open.spotify.com/artist/1YnFRLLEjnqcJRcytKBZa5) | [Chordingly](https://open.spotify.com/album/0geobmnBANt7T42h3rFJJU) | 1:45 | 2023-12-01 |  |
+| [Chordingly](https://open.spotify.com/track/1GlyHT01SDQM9pdH7GvrE3) | [Loop](https://open.spotify.com/artist/1YnFRLLEjnqcJRcytKBZa5) | [Chordingly](https://open.spotify.com/album/0geobmnBANt7T42h3rFJJU) | 1:45 | 2023-12-01 | 2024-08-05 |
 | [Chou Chou](https://open.spotify.com/track/529cTgl9WGjCd3l0Ny1wp5) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Chou Chou](https://open.spotify.com/album/6NyUkb0I5kOLuJ8Yjrw2zx) | 2:38 | 2022-09-23 | 2023-01-07 |
 | [Chromatic](https://open.spotify.com/track/7mFLyUxT9SHvYpYZOWulxo) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Chromatic](https://open.spotify.com/album/5L3QnwLPxL8D24kgMPkCpi) | 2:24 | 2020-01-08 | 2021-06-18 |
 | [Chuamato](https://open.spotify.com/track/3LZAhVqKtFYh17qqCbWwho) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Chuamato](https://open.spotify.com/album/3MB8w0vbAw19SP2kC30ENh) | 2:32 | 2023-05-03 | 2023-11-17 |
@@ -3633,6 +3633,7 @@
 | [Mango Tree](https://open.spotify.com/track/5L0gv3FIRdt90VqJkINoMv) | [Gil Wanders](https://open.spotify.com/artist/2oRIFAsZojEU4OwGL2dGH3), [Reggie San Miguel](https://open.spotify.com/artist/7wtDHn0RCPnaDITtR89uQg), [Mark Generous](https://open.spotify.com/artist/679N9KYUiZMRnJYts1xDx7) | [Mango Tree](https://open.spotify.com/album/2wNLXj7sdxs8gduCoyG9nr) | 2:23 | 2022-07-29 | 2022-11-11 |
 | [Mango Tree](https://open.spotify.com/track/697J2HJPgF7klXERmeLs4f) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Mango Tree](https://open.spotify.com/album/77Rw2U1zpOiRys3V6t5r7h) | 2:05 | 2021-11-20 | 2022-06-17 |
 | [Mangos](https://open.spotify.com/track/19Lkk1hRKKOwE4qTOL36nf) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Mangos](https://open.spotify.com/album/7GISc4x59WUJlbOapq2IHK) | 3:38 | 2021-11-05 | 2022-05-27 |
+| [mangrove](https://open.spotify.com/track/2FqfVPIZ3ogjAfB3ONFErT) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [mangrove](https://open.spotify.com/album/5k7Kzio7WMS8KmiwoXJUos) | 3:16 | 2024-07-26 |  |
 | [MANO e MANO](https://open.spotify.com/track/6t4aWUwqiicRcUHsa1qUFE) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [MANO e MANO](https://open.spotify.com/album/4MmNwxBlvr10W7MeDLXEGH) | 2:36 | 2021-12-03 | 2022-06-24 |
 | [Maple](https://open.spotify.com/track/1PDMa8hX7YdrGorJAJmodb) | [aimless](https://open.spotify.com/artist/5dGqZk0lZFQB6MIus08k8e) | [Hip Dozer, Vol\. 3](https://open.spotify.com/album/0KoSsP5po1jU95aGj4g14j) | 1:41 | 2021-12-17 | 2022-07-01 |
 | [Maple](https://open.spotify.com/track/5DjMNHoYuQINy59Ier6IBe) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Maple](https://open.spotify.com/album/4SzyZwLYEwvfNspPiPhD4M) | 2:13 | 2023-07-13 | 2023-10-06 |
@@ -5072,7 +5073,7 @@
 | [sand castles](https://open.spotify.com/track/5rBQIzDduJsmDbZ97gqWEW) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [corals 2](https://open.spotify.com/album/62MVvI7ZbnVde4NDB6mFhL) | 2:27 | 2019-05-26\* | 2020-05-09 |
 | [Sandalwood](https://open.spotify.com/track/6KykddnA5NxNkaip0LEpgG) | [J\. Roosevelt](https://open.spotify.com/artist/4kCBBWXeKXtikcTFHiQ2QW) | [Sandalwood](https://open.spotify.com/album/77JjJ47oJAzWqdcoPDfjzw) | 2:48 | 2019-05-29 | 2020-03-16 |
 | [Sandman](https://open.spotify.com/track/3Lncy5dZvKvAzuefbqWL5s) | [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Sandman](https://open.spotify.com/album/5bWbpiOChQf8qBoCHVvkJr) | 2:35 | 2021-12-03 | 2022-06-24 |
-| [Sandrosh](https://open.spotify.com/track/7cCi8ROppbGlZp1GPinX9e) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Sandrosh](https://open.spotify.com/album/4MuwhIsPVmVJDHwFvIZJta) | 2:15 | 2024-07-26 |  |
+| [Sandrosh](https://open.spotify.com/track/7cCi8ROppbGlZp1GPinX9e) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Sandrosh](https://open.spotify.com/album/4MuwhIsPVmVJDHwFvIZJta) | 2:15 | 2024-07-26 | 2024-08-05 |
 | [Sanduhr](https://open.spotify.com/track/7xOrraM4CMEgvOMdP5w7ah) | [Mosalla](https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C) | [Sanduhr](https://open.spotify.com/album/44qZy9u8djrrcySBihFHGw) | 2:04 | 2023-01-06 | 2023-04-24 |
 | [sandwhich beach](https://open.spotify.com/track/76tl9K8j78xxjG3lKQwvWD) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [sandwhich beach](https://open.spotify.com/album/5NaWuiShyhJ8wCblqktp6z) | 2:00 | 2023-11-10 |  |
 | [sandy shores](https://open.spotify.com/track/69laqm4AmQQbTHAauHzPfZ) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [sandy shores](https://open.spotify.com/album/2mdxRo7AMK2Ol4S6izuTpg) | 2:28 | 2022-11-25 | 2023-01-20 |
@@ -6382,7 +6383,7 @@
 | [Up](https://open.spotify.com/track/0vMZrX9RZ8yEqaNIjUmV7y) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 1: Up Down Left Right](https://open.spotify.com/album/3rF38iEMLEfEGQcS1Bb2Y5) | 2:00 | 2021-03-06 | 2022-01-14 |
 | [up and upper](https://open.spotify.com/track/5fFgCGDi9eP2A0yUM6LG7k) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [up and upper](https://open.spotify.com/album/03B0KT5nLYh9uSf33frzYk) | 2:24 | 2024-06-14 |  |
 | [Up For Debate](https://open.spotify.com/track/0RTZzUgu0MQ3h8vTGOBKVP) | [Diego Masa](https://open.spotify.com/artist/5RX5BLkadTIqJeXRBWKOSy) | [Up For Debate](https://open.spotify.com/album/5hVmYZDBbQSB4XJSG24SE1) | 2:36 | 2022-04-08 | 2022-10-07 |
-| [Up In The Air](https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Up In The Air](https://open.spotify.com/album/1Ld3X6frL6PwPcI036ltV3) | 2:23 | 2024-03-22 | 2024-08-04 |
+| [Up In The Air](https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Up In The Air](https://open.spotify.com/album/1Ld3X6frL6PwPcI036ltV3) | 2:23 | 2024-03-22 |  |
 | [Up In The Clouds Again](https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Up In The Clouds Again](https://open.spotify.com/album/5LGOpvqw4CDDEHLGlZi5Po) | 2:07 | 2024-07-19 |  |
 | [UP TO U](https://open.spotify.com/track/6thF5Uau9BJvyT1CmHYjVY) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UP TO U](https://open.spotify.com/album/6CCWR8MSJLkFPMbWxwH8ES) | 1:55 | 2019-11-08 | 2020-10-21 |
 | [Up Up](https://open.spotify.com/track/67BApmtjPdXu5gBfdCbDZ2) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L) | [Up Up](https://open.spotify.com/album/5P0zMkVSWsajg1dWXR6zCM) | 2:13 | 2023-10-06 | 2023-11-11 |

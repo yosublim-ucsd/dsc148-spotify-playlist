@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Hayes Warner Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,532 likes - 103 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,589 likes - 103 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$WING](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$wing](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 | 2023-06-01 |  |
+| [$WING](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$WING](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 | 2023-06-01 |  |
 | [\(i\)](https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [\(i\)](https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn) | 3:03 | 2023-10-05 | 2024-05-24 |
 | [70% Dead \(with Corey Taylor\)](https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [70% Dead](https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC) | 3:42 | 2024-07-11 |  |
 | [a bulleT w/ my namE On \(feat\. Underoath\)](https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:20 | 2024-05-23 |  |

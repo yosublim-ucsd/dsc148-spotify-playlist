@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kV7MLy24Ug.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Luck Ra y Chayanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,582 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,586 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

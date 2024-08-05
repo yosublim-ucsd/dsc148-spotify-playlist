@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1507590,
+  "num_followers": 1507582,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+        "name": "Gawk",
+        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
         }
       ],
-      "duration_ms": 208760,
-      "name": "Cigarette Daydreams",
-      "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
+      "duration_ms": 155933,
+      "name": "Alien Blues",
+      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Gawk",
-        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
       "artists": [
         {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 155933,
-      "name": "Alien Blues",
-      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
+      "duration_ms": 208760,
+      "name": "Cigarette Daydreams",
+      "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Can We Please Have Fun",
-        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 220584,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 206700,
       "name": "This Is Why",
       "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 220584,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 176707,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "What're We Doing Here",
+        "url": "https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 184842,
+      "name": "What're We Doing Here",
+      "url": "https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Grief Chapter",
         "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "What're We Doing Here",
-        "url": "https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 184842,
-      "name": "What're We Doing Here",
-      "url": "https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
       },
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Synchronize",
         "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
       },
@@ -1035,22 +1019,6 @@
       "duration_ms": 134117,
       "name": "Kinky",
       "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Dead Club City (Deluxe)",
-        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 183849,
-      "name": "Time :: Fate :: Karma :: God",
-      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1091,6 +1059,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Dead Club City (Deluxe)",
+        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 183849,
+      "name": "Time :: Fate :: Karma :: God",
+      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Happy Face",
-        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Happy Face",
-      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
       },
       "artists": [
         {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
         }
       ],
-      "duration_ms": 199800,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
+      "duration_ms": 169760,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "run away girl",
         "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
       },
@@ -1303,38 +1319,6 @@
       "duration_ms": 208374,
       "name": "Vandalist",
       "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "What, Me Worry?",
-        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 177397,
-      "name": "What, Me Worry?",
-      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Next Semester",
-        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Next Semester",
-      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Next Semester",
+        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "WHEN THE MUSIC STOPS",
-        "url": "https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "sail away",
         "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 179000,
       "name": "sail away",
       "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "WHEN THE MUSIC STOPS",
+        "url": "https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Beautiful People (Stay High)",
-        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 167312,
-      "name": "Beautiful People (Stay High)",
-      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Life's Been Good",
         "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 193950,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Beautiful People (Stay High)",
+        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 167312,
+      "name": "Beautiful People (Stay High)",
+      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Other Side (feat. Charlotte Sands)",
-        "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Other Side (feat. Charlotte Sands)",
-      "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Blutooth / enough 4 u",
         "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Other Side (feat. Charlotte Sands)",
+        "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Other Side (feat. Charlotte Sands)",
+      "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1977,6 +1977,30 @@
       "url": "https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r"
     },
     {
+      "added_at": "2024-07-26 15:28:34",
+      "album": {
+        "name": "Where I'm Going",
+        "url": "https://open.spotify.com/album/6lRVMQtYKpkMIeitaxqFQS"
+      },
+      "artists": [
+        {
+          "name": "DENM",
+          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
+        {
+          "name": "Kaleo Wassman",
+          "url": "https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Where I'm Going",
+      "url": "https://open.spotify.com/track/38r2iSNTTK1hsBdrLXAY8I"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "My Love",
@@ -2007,30 +2031,6 @@
       "duration_ms": 170340,
       "name": "Happy Customers",
       "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
-    },
-    {
-      "added_at": "2024-07-26 15:28:34",
-      "album": {
-        "name": "Where I'm Going",
-        "url": "https://open.spotify.com/album/6lRVMQtYKpkMIeitaxqFQS"
-      },
-      "artists": [
-        {
-          "name": "DENM",
-          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
-        },
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        },
-        {
-          "name": "Kaleo Wassman",
-          "url": "https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Where I'm Going",
-      "url": "https://open.spotify.com/track/38r2iSNTTK1hsBdrLXAY8I"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Where the Redwoods Meet the Sea",
-        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
-      },
-      "artists": [
-        {
-          "name": "Windser",
-          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Nobody (feat. dodie)",
         "url": "https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 206640,
       "name": "Nobody (feat. dodie)",
       "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Where the Redwoods Meet the Sea",
+        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7"
     }
   ],
   "unique_name": "it's alt good",

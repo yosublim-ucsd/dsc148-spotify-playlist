@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,846 likes - 70 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,996 likes - 70 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 7 | [Machuquei](https://open.spotify.com/track/6GS4LfVknh458V4z6llLRa) | [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [Dj Luizinho MPC](https://open.spotify.com/artist/7cwzNkrMN3oFVemvRcNQWW) | [Machuquei](https://open.spotify.com/album/7jIx5u4CbPvoTVJSucx86K) | 3:07 |
 | 8 | [A Barreira Vai Virar Baile](https://open.spotify.com/track/7GypINlzSk4NVBKDmv47Pf) | [MC Darlan](https://open.spotify.com/artist/4Iahu1gr6JTMb4ZD1nyTR5), [Blogueirinho da Colina](https://open.spotify.com/artist/4klYbN5wBLGbNRKMTjE4UL) | [A Barreira Vai Virar Baile](https://open.spotify.com/album/0Ph9LwdZlbMNEiae2C4nMy) | 2:21 |
 | 9 | [MTG \- BARRACO DELA LÁ](https://open.spotify.com/track/2l6YkP5Rj1w3GsrhE7cDqx) | [DJ GUIZIN DA SERRA](https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ) | [MTG \- BARRACO DELA LÁ](https://open.spotify.com/album/3ks2icfvnL1iRYzEB24w51) | 2:29 |
-| 10 | [Pensa Que É Dois](https://open.spotify.com/track/396PHB0q5c3JVE3DyJlFHW) | [MC Digu](https://open.spotify.com/artist/3vcNcwMasVwgv5jPfdUwaE), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O) | [Pensa Que É Dois](https://open.spotify.com/album/1yCiQjjUx0YdoQ4EJTk6JS) | 2:05 |
+| 10 | [Pensa Que É Dois](https://open.spotify.com/track/396PHB0q5c3JVE3DyJlFHW) | [MC Digu](https://open.spotify.com/artist/3vcNcwMasVwgv5jPfdUwaE), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [PIPOKANDO FLUXOS](https://open.spotify.com/artist/7uzI5MVEmWklRVMh9AEoyD) | [Pensa Que É Dois](https://open.spotify.com/album/1yCiQjjUx0YdoQ4EJTk6JS) | 2:05 |
 | 11 | [CHIHIRO](https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [MTG CHIHIRO](https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6) | 2:31 |
 | 12 | [Aí Aí Que Legal \- Aí Aí Que Fenomenal](https://open.spotify.com/track/5Wo7n1OpPGKSMzTvfou9s8) | [DJ Miller Oficial](https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP), [Mc Nauan](https://open.spotify.com/artist/1UisTLtsrXMrV7T5jvMcHB), [MC Digu](https://open.spotify.com/artist/3vcNcwMasVwgv5jPfdUwaE) | [Aí Aí Que Legal \- Aí Aí Que Fenomenal](https://open.spotify.com/album/0PSFi4yziwxIfoLgV7J64X) | 2:27 |
 | 13 | [Deixa Eu Ser Seu Romeu](https://open.spotify.com/track/08FbjJaapnrQ0zk36j1R9p) | [DJ CVB 011](https://open.spotify.com/artist/0av3xCloXoeMDNlOghdF5g), [MC FURI SP](https://open.spotify.com/artist/08zGM1dFzkWuPJ0rpz5Tq4), [G7 MUSIC BR](https://open.spotify.com/artist/4fPR5Tro0vdgsaMZanGjZ4) | [Deixa Eu Ser Seu Romeu](https://open.spotify.com/album/3LuexrCV0bHQQMW56Ju6I8) | 3:10 |

@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 723805,
+  "num_followers": 723891,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
-        "name": "New Me, Same Us",
-        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 207037,
-      "name": "Where You Belong",
-      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
-    },
-    {
-      "added_at": "2024-07-19 15:59:17",
-      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2024-07-19 15:59:17",
+      "album": {
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 207037,
+      "name": "Where You Belong",
+      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
     },
     {
       "added_at": "2024-07-19 15:59:17",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
-        "name": "Happy World",
-        "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 179993,
-      "name": "Happy World",
-      "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
-    },
-    {
-      "added_at": "2024-07-19 15:59:17",
-      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -679,34 +663,18 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+        "name": "Happy World",
+        "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
       },
       "artists": [
         {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
         }
       ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
-    },
-    {
-      "added_at": "2024-07-19 15:59:17",
-      "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 171897,
-      "name": "Anthony Kiedis",
-      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
+      "duration_ms": 179993,
+      "name": "Happy World",
+      "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
     },
     {
       "added_at": "2024-07-19 15:59:17",
@@ -739,6 +707,38 @@
       "duration_ms": 171756,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+    },
+    {
+      "added_at": "2024-07-19 15:59:17",
+      "album": {
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+      },
+      "artists": [
+        {
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+    },
+    {
+      "added_at": "2024-07-19 15:59:17",
+      "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 171897,
+      "name": "Anthony Kiedis",
+      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
     },
     {
       "added_at": "2024-07-19 15:59:17",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
-        "name": "Water Your Garden",
-        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
-      },
-      "artists": [
-        {
-          "name": "Magic City Hippies",
-          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
-        },
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Water Your Garden",
-      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
-    },
-    {
-      "added_at": "2024-07-19 15:59:17",
-      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "added_at": "2024-07-19 15:59:17",
+      "album": {
+        "name": "Water Your Garden",
+        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
+      },
+      "artists": [
+        {
+          "name": "Magic City Hippies",
+          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Water Your Garden",
+      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
     },
     {
       "added_at": "2024-07-19 15:59:17",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Just Go",
-      "url": "https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc"
-    },
-    {
-      "added_at": "2024-07-19 15:59:17",
-      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 202720,
       "name": "I Don't",
       "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
+    },
+    {
+      "added_at": "2024-07-19 15:59:17",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Just Go",
+      "url": "https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc"
     },
     {
       "added_at": "2024-07-19 15:59:17",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 190964,
-      "name": "Next to Normal",
-      "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
-    },
-    {
-      "added_at": "2024-07-19 15:59:17",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 303871,
       "name": "RISE",
       "url": "https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn"
+    },
+    {
+      "added_at": "2024-07-19 15:59:17",
+      "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 190964,
+      "name": "Next to Normal",
+      "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
     },
     {
       "added_at": "2024-07-19 15:59:17",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
-        "name": "People Never Change",
-        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "People Never Change - Radio Edit",
-      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
-    },
-    {
-      "added_at": "2024-07-19 15:59:17",
-      "album": {
         "name": "Dos Uvas",
         "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 232760,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+    },
+    {
+      "added_at": "2024-07-19 15:59:17",
+      "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "People Never Change - Radio Edit",
+      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
     },
     {
       "added_at": "2024-07-19 15:59:17",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
-    },
-    {
-      "added_at": "2024-07-19 15:59:17",
-      "album": {
         "name": "Base Camp",
         "url": "https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf"
       },
@@ -1787,22 +1771,18 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
-        "name": "Woman (feat. Lianne La Havas)",
-        "url": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
       },
       "artists": [
         {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 191826,
-      "name": "Woman (feat. Lianne La Havas)",
-      "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+      "duration_ms": 205053,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
     },
     {
       "added_at": "2024-07-19 15:59:17",
@@ -1823,6 +1803,26 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
+        "name": "Woman (feat. Lianne La Havas)",
+        "url": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Woman (feat. Lianne La Havas)",
+      "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+    },
+    {
+      "added_at": "2024-07-19 15:59:17",
+      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
       },
@@ -1835,6 +1835,22 @@
       "duration_ms": 275746,
       "name": "Canta",
       "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2024-07-19 15:59:17",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2024-07-19 15:59:17",
@@ -1859,22 +1875,6 @@
     {
       "added_at": "2024-07-19 15:59:17",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2024-07-19 15:59:17",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Billy Stewart",
         "url": "https://open.spotify.com/album/1xYEsHlyNrYzsr5CAldGab"
       },
@@ -1887,26 +1887,6 @@
       "duration_ms": 254866,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4qH8fQ5Ub2r6llHnrRGM3w"
-    },
-    {
-      "added_at": "2024-07-19 15:59:17",
-      "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        },
-        {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
-        }
-      ],
-      "duration_ms": 188367,
-      "name": "All The Time (feat. Muroki)",
-      "url": "https://open.spotify.com/track/3ssQwT97KP7BTUtWoQTm4x"
     },
     {
       "added_at": "2024-07-19 15:59:17",
@@ -1927,6 +1907,26 @@
       "duration_ms": 191039,
       "name": "Tenemos Todo - Taggy Matcher Remix",
       "url": "https://open.spotify.com/track/3Om6DDM2h8d5iqV37UnM5v"
+    },
+    {
+      "added_at": "2024-07-19 15:59:17",
+      "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        }
+      ],
+      "duration_ms": 188367,
+      "name": "All The Time (feat. Muroki)",
+      "url": "https://open.spotify.com/track/3ssQwT97KP7BTUtWoQTm4x"
     },
     {
       "added_at": "2024-07-19 15:59:17",

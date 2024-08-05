@@ -4,12 +4,12 @@
 
 > Afroto:غلاف .EEEEE
 
-336 songs - 16 hr 44 min
+337 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1](https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [1](https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ) | 2:13 | 2023-08-17 | 2024-06-26 |
-| [100 WAHDA](https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [2000 W KAM](https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL) | 3:00 | 2023-08-17 |  |
+| [100 WAHDA](https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [2000 W KAM](https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL) | 3:00 | 2023-08-17 | 2024-08-05 |
 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 | 2024-02-28 | 2024-05-15 |
 | [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 | 2024-07-23 |  |
 | [3andy Sahb](https://open.spotify.com/track/5wUv8kas7QKIrUeSLOfdYd) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [3andy Saheb](https://open.spotify.com/album/2HYmYflHK4DpNoInSWekSR) | 2:48 | 2024-04-18 | 2024-05-21 |
@@ -226,6 +226,7 @@
 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 | 2024-02-16 |  |
 | [PAGHIIIIIIIIIIZ](https://open.spotify.com/track/6I1Nu4OyIr7xnja8tAOBGf) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [PAGHIIIIIIIIIIZ](https://open.spotify.com/album/3MADWJj5uRlmXYzHpZMQ9X) | 2:22 | 2024-04-09 | 2024-05-25 |
 | [PARIS](https://open.spotify.com/track/535QXmpOSHUMTw46lNJkj5) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Dabl De](https://open.spotify.com/artist/5aCqsScJyvSLpNLCl9ZikA) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:50 | 2024-03-29 |  |
+| [Please](https://open.spotify.com/track/0YHNbqd916UBseBu2qv0xX) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Please](https://open.spotify.com/album/48GGUy02bmdLkROqggBbXi) | 2:19 | 2024-08-04 |  |
 | [QESA HAZENA](https://open.spotify.com/track/2mBLOKrLsZbVfFKWjKadqe) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 3:07 | 2022-05-10 | 2022-08-24 |
 | [RACORE](https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [RACORE](https://open.spotify.com/album/6JDXj7ECAHxWJ3kH3EqJ4q) | 2:56 | 2022-05-16 | 2024-02-20 |
 | [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 | 2023-09-06 |  |

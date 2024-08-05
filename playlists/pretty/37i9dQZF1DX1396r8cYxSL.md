@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2024 yazına damga vuracak şarkılar\. Kapak: Lvbel C5 x AKDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,040 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,118 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 44 | [Haydi Gel Benimle Ol](https://open.spotify.com/track/6wE2kwWJpEWuKGxlN1DMKi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Haydi Gel Benimle Ol](https://open.spotify.com/album/65Op2SMVGbXfT4FE1BuHlj) | 2:35 |
 | 45 | [MAD](https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [MAD](https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq) | 3:27 |
 | 46 | [Eyvah](https://open.spotify.com/track/4dJHOcTO4jWVTrNYiNtJmf) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Eyvah](https://open.spotify.com/album/10JevKnjSx3Oc2TAbut0MF) | 2:27 |
-| 47 | [Zombi](https://open.spotify.com/track/4mUgiufbW5HSZ24RK1yDPr) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Zombi](https://open.spotify.com/album/1ocqjiB9rtooF66uuW5jlZ) | 2:39 |
+| 47 | [NERESİ?](https://open.spotify.com/track/69j3pb1B6timV7SEEcfsQ0) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [NERESİ?](https://open.spotify.com/album/3b9rPCIjMeLjOmz4zKuhV7) | 2:50 |
 | 48 | [24/7](https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [24/7](https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY) | 3:06 |
-| 49 | [NERESİ?](https://open.spotify.com/track/69j3pb1B6timV7SEEcfsQ0) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [NERESİ?](https://open.spotify.com/album/3b9rPCIjMeLjOmz4zKuhV7) | 2:50 |
+| 49 | [Yıldızlar](https://open.spotify.com/track/2FI06fNn4wAKsHnUA7GHxF) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Summerland](https://open.spotify.com/album/7yjs2zcZUYTRTQym3gxioz) | 2:13 |
 | 50 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
 
 Snapshot ID: `ZqNpCwAAAACz0AbNyMfcdqvABd63pjV8`

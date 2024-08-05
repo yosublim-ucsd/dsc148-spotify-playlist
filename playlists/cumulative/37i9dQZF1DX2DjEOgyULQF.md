@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-191 songs - 9 hr 22 min
+192 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dream On](https://open.spotify.com/track/79U5R6G2pmBRSSGCjlJmA9) | [Isla Laine](https://open.spotify.com/artist/1MjZBlMMS2FIikJ0klCTUC) | [Dream On](https://open.spotify.com/album/2tlRlrBMx9JpcOUs2C4m4T) | 3:15 | 2023-04-28 |  |
 | [Dream River](https://open.spotify.com/track/7h55IavoXCs66iwVRoff0e) | [Slumber Pals](https://open.spotify.com/artist/7eX1arZxMWfM7B7Jx3GtJO) | [Dream River](https://open.spotify.com/album/74d432GBiGsHeEpJ5GQX5b) | 2:44 | 2023-04-28 | 2024-07-29 |
 | [Dreaming in Ripples](https://open.spotify.com/track/2zAv5GHvNjAsI4mjyoorl4) | [Waterbank](https://open.spotify.com/artist/3t3TG0tFaugTkBnweCFfYj) | [Dreaming in Ripples](https://open.spotify.com/album/2leD4uGfAO7gG3BIQczYh4) | 2:33 | 2023-04-28 | 2024-06-04 |
+| [Dreamy Elixir \(alongside Forest Birds\)](https://open.spotify.com/track/0EuxLdWhNLvdpEis08mHJI) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Circadian Wanderer](https://open.spotify.com/album/0Xd2U5Kvwo9e1tT3peqXLC) | 2:56 | 2024-07-19 |  |
 | [Early Forest Serenade](https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Majestic Light](https://open.spotify.com/album/0sQKEnZqsabnegdMu6cujB) | 2:13 | 2023-06-16 |  |
 | [Earth Song \(Brook\)](https://open.spotify.com/track/2u5SfmEplx0MJZrouALhLd) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [Earth Song](https://open.spotify.com/album/6Ped9Q9msu0Rpm7A0MjYGO) | 3:10 | 2023-04-28 |  |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2023-04-28 |  |
@@ -88,7 +89,7 @@
 | [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2023-04-28 |  |
 | [I Can See You At The Bottom Of Every River](https://open.spotify.com/track/7mNB5wjFqN2ERnNeDe1YPg) | [Le Code](https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ) | [Into The Wild](https://open.spotify.com/album/2hxfoyhB0m567fTylRTAw3) | 4:02 | 2023-04-28 | 2023-06-17 |
 | [Imitating Reflections](https://open.spotify.com/track/0SETmmxlQchBbRxvJpZTp3) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Imitating Reflections](https://open.spotify.com/album/7LmA2P6Of7fTlkqHdv9ex1) | 2:23 | 2023-04-28 |  |
-| [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 |  |
+| [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 | 2024-08-05 |
 | [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-15 | 2024-04-02 |
 | [Introspective Thoughts Gamma \(88\-176hz\)](https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Introspective Thoughts Gamma](https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3) | 2:48 | 2024-07-19 |  |
 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 | 2023-04-28 | 2024-04-02 |

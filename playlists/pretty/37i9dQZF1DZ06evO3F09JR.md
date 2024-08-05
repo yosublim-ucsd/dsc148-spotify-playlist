@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 ### [This Is Alessandro Cortini](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F09JR)
 
-> This Is Alessandro Cortini\. Los temas esenciales, todos en una lista.
+> This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,285 likes - 49 songs - 4 hr 27 min
 
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 48 | [Fonus](https://open.spotify.com/track/4JcfBaIDwUqeIQVSw8m063) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Nordic Flora Series, Pt\. 3: Gore\-Tex City](https://open.spotify.com/album/02y1isyvMiP2I0no5y14aU) | 4:26 |
 | 49 | [ECCO](https://open.spotify.com/track/37XnCTDFEs3K78dd0l722e) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 4:30 |
 
-Snapshot ID: `ZqrQAAAAAAAoqUrSx+Jv1TkWKIOpoyl/`
+Snapshot ID: `ZqrQAAAAAAB9xXJuQ7vx/0MpM35hfDxI`

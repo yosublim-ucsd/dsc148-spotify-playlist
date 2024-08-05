@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 46324,
+  "num_followers": 46331,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Umile",
-        "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
+        "name": "SOLO TUTTO",
+        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
         }
       ],
-      "duration_ms": 197027,
-      "name": "Angeli",
-      "url": "https://open.spotify.com/track/6a2WBo4YCOL0hSD0i1ruxM"
+      "duration_ms": 187431,
+      "name": "STUPIDO",
+      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -239,26 +243,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "SOLO TUTTO",
-        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "STUPIDO",
-      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "Piove Ancora",
         "url": "https://open.spotify.com/album/4YFbmYCyhx8cC8AvOVT8DO"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 192000,
       "name": "Vedova Nera",
       "url": "https://open.spotify.com/track/03f5a1nr1YqewRSSBxeB0k"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "Umile",
+        "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 197027,
+      "name": "Angeli",
+      "url": "https://open.spotify.com/track/6a2WBo4YCOL0hSD0i1ruxM"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Brutto Sogno",
-        "url": "https://open.spotify.com/album/5Hs2qAbyTo605RNTgYbdUh"
-      },
-      "artists": [
-        {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Brutto Sogno",
-      "url": "https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "DIE",
         "url": "https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D"
       },
@@ -859,6 +843,38 @@
       "duration_ms": 149538,
       "name": "Miss Guid",
       "url": "https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "Brutto Sogno",
+        "url": "https://open.spotify.com/album/5Hs2qAbyTo605RNTgYbdUh"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Brutto Sogno",
+      "url": "https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "Tu mi fai bene",
+        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 117190,
+      "name": "Tu mi fai bene",
+      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -931,38 +947,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "SPECCHIO",
-        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 91006,
-      "name": "SPECCHIO (interludio)",
-      "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "Tu mi fai bene",
-        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 117190,
-      "name": "Tu mi fai bene",
-      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "La mia stanza (Deluxe)",
         "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
       },
@@ -975,6 +959,38 @@
       "duration_ms": 162038,
       "name": "Mai come gli altri - Acoustic",
       "url": "https://open.spotify.com/track/3veCrNj8NA2tCfnPLXSOOr"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "Scusa ma",
+        "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Scusa ma",
+      "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "SPECCHIO",
+        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "duration_ms": 91006,
+      "name": "SPECCHIO (interludio)",
+      "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Tutto o niente 2",
-        "url": "https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d"
+        "name": "REBEL (Deluxe)",
+        "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
       },
       "artists": [
         {
-          "name": "gIANMARIA",
-          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
         }
       ],
-      "duration_ms": 143157,
-      "name": "Tutto o niente 2",
-      "url": "https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d"
+      "duration_ms": 220485,
+      "name": "Horror - Acoustic",
+      "url": "https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1079,8 +1095,8 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Scusa ma",
-        "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
+        "name": "La stella pi\u00f9 bella di sempre",
+        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
       },
       "artists": [
         {
@@ -1088,9 +1104,25 @@
           "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
         }
       ],
-      "duration_ms": 101818,
-      "name": "Scusa ma",
-      "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
+      "duration_ms": 126000,
+      "name": "La stella pi\u00f9 bella di sempre",
+      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "Tutto o niente 2",
+        "url": "https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d"
+      },
+      "artists": [
+        {
+          "name": "gIANMARIA",
+          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "Tutto o niente 2",
+      "url": "https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1135,22 +1167,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "REBEL (Deluxe)",
-        "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
-      },
-      "artists": [
-        {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
-        }
-      ],
-      "duration_ms": 220485,
-      "name": "Horror - Acoustic",
-      "url": "https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "cloud love",
         "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
       },
@@ -1163,26 +1179,6 @@
       "duration_ms": 89832,
       "name": "sto bene, a volte",
       "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "TauroTape3",
-        "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
-      },
-      "artists": [
-        {
-          "name": "Tauro Boys",
-          "url": "https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM"
-        },
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Xelisa2 (feat. ARIETE)",
-      "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "La stella pi\u00f9 bella di sempre",
-        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
+        "name": "TauroTape3",
+        "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
       },
       "artists": [
         {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+          "name": "Tauro Boys",
+          "url": "https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM"
+        },
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
         }
       ],
-      "duration_ms": 126000,
-      "name": "La stella pi\u00f9 bella di sempre",
-      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
+      "duration_ms": 177777,
+      "name": "Xelisa2 (feat. ARIETE)",
+      "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "PERCH\u00c9 NON TI CAPIVO",
-        "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
-      },
-      "artists": [
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        },
-        {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Frada",
-          "url": "https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY"
-        }
-      ],
-      "duration_ms": 142725,
-      "name": "PERCH\u00c9 NON TI CAPIVO",
-      "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "FOTORICORDO",
         "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
       },
@@ -1391,6 +1367,30 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
+        "name": "PERCH\u00c9 NON TI CAPIVO",
+        "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
+      },
+      "artists": [
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        },
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Frada",
+          "url": "https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY"
+        }
+      ],
+      "duration_ms": 142725,
+      "name": "PERCH\u00c9 NON TI CAPIVO",
+      "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
         "name": "CONFESSIONE",
         "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
       },
@@ -1407,26 +1407,6 @@
       "duration_ms": 144187,
       "name": "ALESSIA",
       "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "Sedato e Deluso",
-        "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Elan Rood",
-          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
-        }
-      ],
-      "duration_ms": 202744,
-      "name": "Sedato e Deluso",
-      "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1463,22 +1443,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Torner\u00f2",
-        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Torner\u00f2",
-      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "ONIRO",
         "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
@@ -1495,6 +1459,26 @@
       "duration_ms": 174720,
       "name": "DOVE SEI",
       "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "Sedato e Deluso",
+        "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Elan Rood",
+          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
+        }
+      ],
+      "duration_ms": 202744,
+      "name": "Sedato e Deluso",
+      "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
+        "name": "Torner\u00f2",
+        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Torner\u00f2",
+      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
         "name": "nostalgia liquida",
         "url": "https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0"
       },
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Shama \u00e8 buono",
-        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "Shama \u00e8 buono",
-      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "GARA 7",
         "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
       },
@@ -1583,22 +1563,6 @@
       "duration_ms": 176360,
       "name": "Freddo",
       "url": "https://open.spotify.com/track/68IqPazGKvaQRO9ZWh7cri"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1623,42 +1587,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+        "name": "Shama \u00e8 buono",
+        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
       },
       "artists": [
         {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
         },
         {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
         }
       ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "Amelie",
-        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
+      "duration_ms": 144750,
+      "name": "Shama \u00e8 buono",
+      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1679,6 +1623,62 @@
       "duration_ms": 193000,
       "name": "Ceramica",
       "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+      },
+      "artists": [
+        {
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     },
     {
       "added_at": "2024-07-01 15:44:18",

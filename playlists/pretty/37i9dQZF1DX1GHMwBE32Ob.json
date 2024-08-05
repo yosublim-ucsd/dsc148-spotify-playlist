@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Jeriq",
-  "num_followers": 60924,
+  "num_followers": 61025,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -419,22 +399,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 179485,
-      "name": "Giza (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
+      "duration_ms": 134237,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -451,6 +431,26 @@
       "duration_ms": 154455,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 179485,
+      "name": "Giza (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -535,18 +535,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+        "name": "Bust Down",
+        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
+      "duration_ms": 196363,
+      "name": "Bust Down",
+      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -567,22 +571,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Bust Down",
-        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Bust Down",
-      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -631,26 +631,6 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Ogo",
-        "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Ogo",
-      "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -739,6 +719,26 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -755,6 +755,26 @@
       "duration_ms": 187368,
       "name": "NO SLEEP $$$ (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Puff & Pass (Remix)",
+        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 161515,
+      "name": "Puff & Pass (Remix)",
+      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -787,26 +807,6 @@
       "duration_ms": 167471,
       "name": "HBP",
       "url": "https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Puff & Pass (Remix)",
-        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 161515,
-      "name": "Puff & Pass (Remix)",
-      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Wara Wara Szn",
-        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180890,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "R2 Sept 12",
         "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
       },
@@ -963,6 +943,26 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Wara Wara Szn",
+        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180890,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "The Life I Chose",
         "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
       },
@@ -975,6 +975,26 @@
       "duration_ms": 144447,
       "name": "The Life I Chose",
       "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Let There Be Light",
+      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1015,26 +1035,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "50 Billion (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Puff & Pass",
         "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
       },
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 169822,
-      "name": "Let There Be Light",
-      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
+      "duration_ms": 134482,
+      "name": "50 Billion (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
     },
     {
       "added_at": "2024-08-02 00:01:00",

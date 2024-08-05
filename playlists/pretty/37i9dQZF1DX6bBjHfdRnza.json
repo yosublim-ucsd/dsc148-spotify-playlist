@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: davey. Artwork by Rewina Beshue.",
-  "num_followers": 182018,
+  "num_followers": 182079,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAAD/rMR3RUfKOIdMhWslBiMT",
+  "snapshot_id": "Zq+7XgAAAABWohUw7IRFr0Hi/rrXTPwU",
   "tracks": [
     {
       "added_at": "2024-07-31 17:23:25",
@@ -55,6 +55,22 @@
       "duration_ms": 111483,
       "name": "NOT ANGRY",
       "url": "https://open.spotify.com/track/7h0ki5H7W4EUqrAiXm7nFJ"
+    },
+    {
+      "added_at": "2024-08-04 17:33:18",
+      "album": {
+        "name": "ok </3",
+        "url": "https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "ok </3",
+      "url": "https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1393,6 +1409,22 @@
       "url": "https://open.spotify.com/track/1Mu31xsS4kVaXByJhf9M0A"
     },
     {
+      "added_at": "2024-04-03 23:31:06",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/1Kl9pOglEGhjWgCHIoqO58"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 181904,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "HI NRG // Moments",
@@ -1439,26 +1471,6 @@
       "duration_ms": 164880,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/3cwkKqFlevUfwMSwDhnyc4"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Undertow",
-        "url": "https://open.spotify.com/album/7GUUo3tkQ4WAVqW9wr92J4"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        },
-        {
-          "name": "Marlhy",
-          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/2ptwhgvT01My7DZaeNURCt"
     },
     {
       "added_at": "2024-06-17 17:11:33",
@@ -1535,22 +1547,6 @@
       "duration_ms": 137946,
       "name": "all these little words",
       "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
-    },
-    {
-      "added_at": "2024-04-03 23:31:06",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/1Kl9pOglEGhjWgCHIoqO58"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 181904,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
     },
     {
       "added_at": "2024-06-12 18:22:48",

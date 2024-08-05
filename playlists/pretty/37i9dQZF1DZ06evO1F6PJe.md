@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 ### [This Is Joe Bonamassa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F6PJe)
 
-> This is Joe Bonamassa\. The essential tracks, all in one playlist.
+> This is Joe Bonamassa\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,178 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,188 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 49 | [Back in Black](https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Joanna Jones](https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Back in Black](https://open.spotify.com/album/736B83hbqftdlB7yewbdOF) | 3:12 |
 | 50 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
 
-Snapshot ID: `ZqrQAAAAAACMVXFULUs/coh4/mECzg0N`
+Snapshot ID: `ZqrQAAAAAAA0aaF4s7pSqxXAkVC9Yixy`

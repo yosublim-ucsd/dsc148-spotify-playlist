@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-218 songs - 12 hr 27 min
+219 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bassically](https://open.spotify.com/track/1RFxoPtr9svzsslCxIauiu) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 4:51 | 2024-05-01 |  |
 | [Bathroom Floor](https://open.spotify.com/track/1q7bdWE77gGMJuJkUE8fNr) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:31 | 2024-05-01 |  |
 | [Beach Bum Palace](https://open.spotify.com/track/2OPjttR2y0KsktacOUGt92) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:28 | 2024-05-01 |  |
+| [Beachwood House](https://open.spotify.com/track/58YlAaGyATujqf7DYJW9XR) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [From the Rafters](https://open.spotify.com/album/0lAFM1Ylrf6KLSEWJO3vb3) | 3:20 | 2024-08-04 |  |
 | [Beautiful Life](https://open.spotify.com/track/4kTdMaRfj7X032F1T6iv8o) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:50 | 2024-05-01 |  |
 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 | 2024-05-01 |  |
 | [Beauty Sleep](https://open.spotify.com/track/1BwKjdV2zKcHsZMkUO8e9O) | [AB001](https://open.spotify.com/artist/7xxxjEnWtmZeBT3A4PxnY7) | [Beauty Sleep](https://open.spotify.com/album/6D6tmzkDcU8QMAeTGRypYp) | 4:46 | 2024-05-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,494 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,544 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 33 | [Turn All The Lights On](https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Turn All The Lights On](https://open.spotify.com/album/2So8QRALJzGvefJp86htBu) | 2:17 |
 | 34 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 | 35 | [Wings \(Techno\)](https://open.spotify.com/track/0ZCFBp0el7wDgzvCLqaAWe) | [NO EMOTION](https://open.spotify.com/artist/1BgQ3C1p54I1vmG21Mhy0m) | [Wings \(Techno\)](https://open.spotify.com/album/68uw91RNTCVXWFTU3lOa9G) | 2:15 |
-| 36 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 |
-| 37 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
-| 38 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 |
-| 39 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 |
-| 40 | [Fireflies](https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Fireflies](https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM) | 2:23 |
-| 41 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 |
+| 36 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 |
+| 37 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 |
+| 38 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
+| 39 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 |
+| 40 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 |
+| 41 | [Fireflies](https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Fireflies](https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM) | 2:23 |
 | 42 | [Atmosphere](https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX) | 3:02 |
 | 43 | [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 |
 | 44 | [Superlike](https://open.spotify.com/track/3D1gyyq9jqz3lYKrL7pxrS) | [Crunkz](https://open.spotify.com/artist/4OXIfQQfNxUxqVPwoklWcv) | [Superlike](https://open.spotify.com/album/4wdzJOjPxHG20G2sa47kfk) | 2:17 |

@@ -2737,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Dee Dot See",
+        "url": "https://open.spotify.com/album/2jxh2vClBRyRGuNUZN5xzB"
+      },
+      "artists": [
+        {
+          "name": "Shimpei Watanabe",
+          "url": "https://open.spotify.com/artist/3gEWP5rg9EZl9cW6TPxB7S"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413538,
+      "name": "Cue and Nat",
+      "url": "https://open.spotify.com/track/1LObEx74alFGQzE1RKQzJV"
+    },
+    {
+      "album": {
         "name": "Cygnus Remixes",
         "url": "https://open.spotify.com/album/3f1uaUrrN25LiZVCVAyte0"
       },

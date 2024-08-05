@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Mert Çodur
 
-107 songs - 5 hr 24 min
+109 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Dayanamam](https://open.spotify.com/track/3POxcfIStVIT4mU4IZldO6) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Dayanamam](https://open.spotify.com/album/73bU2e31seQS19wOtTcv96) | 2:20 | 2024-06-27 | 2024-07-09 |
 | [Dedi Doktorum](https://open.spotify.com/track/7GV3ugDCiKfqBp7aV7MYvW) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Dedi Doktorum](https://open.spotify.com/album/7s6rCp5g4x9ZaeGmqgyexR) | 3:25 | 2024-06-27 | 2024-07-12 |
 | [Defterli](https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Defterli](https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz) | 3:56 | 2024-06-27 |  |
-| [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 |  |
+| [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 | 2024-08-05 |
 | [Dilber](https://open.spotify.com/track/6BUrQUxtozqxQkZExslTen) | [İdo Tatlıses](https://open.spotify.com/artist/2OWh9iyVeIqJm04kwcaArP) | [Dilber](https://open.spotify.com/album/4aLPDVWvyKVjnUiRPz9KBB) | 2:13 | 2024-06-27 | 2024-07-10 |
 | [DİZGİ HATASI](https://open.spotify.com/track/1aY8XeGD9zP21IxZYqeY3f) | [Keremcem](https://open.spotify.com/artist/3GfMoNg8qvtTuarY4ILTzm) | [6](https://open.spotify.com/album/0dil3PgPqEqQDSaaKfdZEb) | 3:22 | 2024-07-11 | 2024-07-24 |
 | [Dön Bana](https://open.spotify.com/track/6GvIfVA9hyg0Y6IJBlfLTA) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Dön Bana](https://open.spotify.com/album/2yBvYJQQ6tqBmUF4rki1Kw) | 3:54 | 2024-07-18 |  |
@@ -54,7 +54,7 @@
 | [Hain](https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Hain](https://open.spotify.com/album/6QQvURc9aYL6RTOEfwF1KD) | 3:21 | 2024-06-27 | 2024-08-04 |
 | [Hayat Oyunu](https://open.spotify.com/track/7kKFuo8oXLGeaYr69bNDcE) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Hayat Oyunu](https://open.spotify.com/album/615p1fQHcVD9BiDyGYmpgJ) | 3:48 | 2024-06-27 |  |
 | [Haybeden](https://open.spotify.com/track/0FHOupsqeuju8lxk8Y0zRZ) | [Gökçe Kırgız Taner](https://open.spotify.com/artist/4ByD5ORLo9bbAzCJA8PnSd) | [Kendime](https://open.spotify.com/album/2DzutanSlouqXHHxHqQ1I0) | 3:24 | 2024-07-11 | 2024-07-24 |
-| [Herhalde](https://open.spotify.com/track/6NoU0H7vKasJE29Z4jDmYA) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Herhalde](https://open.spotify.com/album/7DefHeFSXtlUoYYYNsHNWO) | 4:32 | 2024-06-27 |  |
+| [Herhalde](https://open.spotify.com/track/6NoU0H7vKasJE29Z4jDmYA) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Herhalde](https://open.spotify.com/album/7DefHeFSXtlUoYYYNsHNWO) | 4:32 | 2024-06-27 | 2024-08-05 |
 | [Hürrem](https://open.spotify.com/track/0mQxlAQVm5jVuExsofCiPM) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Hürrem](https://open.spotify.com/album/4J5VzGkcJRoo1tGKbAL4PP) | 2:15 | 2024-07-11 |  |
 | [İmdadım](https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [İmdadım](https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd) | 2:09 | 2024-06-27 |  |
 | [İmkansız Bir Aşk Denir](https://open.spotify.com/track/7oWgtgmSgC9XCRcnj7NF0r) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [İmkansız Bir Aşk Denir](https://open.spotify.com/album/0ZpK4LGEPGWmhkhPsZrj5b) | 3:17 | 2024-06-27 | 2024-07-12 |
@@ -72,8 +72,10 @@
 | [Nadide](https://open.spotify.com/track/5qhr709zn63OZeb4y73vEI) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Nadide](https://open.spotify.com/album/3j5e1mWKw37259eLdXPJYh) | 2:49 | 2024-07-04 |  |
 | [Nanik](https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [Nanik](https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG) | 2:37 | 2024-07-11 |  |
 | [Ne Gereği Var](https://open.spotify.com/track/5yKZcdCdGBfcXaMFFb0WBH) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ne Gereği Var](https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6) | 2:11 | 2024-06-27 |  |
+| [Neden Anlamadın Beni?](https://open.spotify.com/track/2Ai8HBSGn3KYyYFBemhf51) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Neden Anlamadın Beni?](https://open.spotify.com/album/2coCoZ06wAwafV4lUeJ8QO) | 2:16 | 2024-08-01 |  |
 | [Nereye Kadar](https://open.spotify.com/track/0u3u0mGeWYU0h8tWin4ZCa) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Nereye Kadar](https://open.spotify.com/album/5PYBFjQAwPNuvrsyBKNyrT) | 2:55 | 2024-06-27 | 2024-07-12 |
 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 | 2024-06-27 |  |
+| [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-08-01 |  |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-06-27 | 2024-08-02 |
 | [Salla](https://open.spotify.com/track/62Hh7prEpSyMMd8wNxsOQO) | [Kerimcan Durmaz](https://open.spotify.com/artist/6SuvCvIgTchPW2bcuXSKzM) | [Salla](https://open.spotify.com/album/3iKLt0m03n8zSm9Dkw3eY5) | 2:36 | 2024-06-27 |  |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-06-27 |  |

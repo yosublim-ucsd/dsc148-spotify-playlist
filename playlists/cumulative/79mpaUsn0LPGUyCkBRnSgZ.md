@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-719 songs - 1 day 23 hr 16 min
+722 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [A Beautiful Woman](https://open.spotify.com/track/31NVIwE4edzNpTXAZ7UyB6) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [The Expanding Flower Planet](https://open.spotify.com/album/10e1mx1PykreNOn02pFjIU) | 3:31 | 2023-03-23 |  |
 | [A Dream Goes On Forever](https://open.spotify.com/track/1CGT5LV74SNzXFnVmTdAE8) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [The Road To Hell Is Paved With Good Intentions](https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR) | 4:39 | 2024-04-05 |  |
 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 | 2022-07-31 |  |
+| [A Good Thing](https://open.spotify.com/track/4h7N08txmbfso1H5WtUkjS) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Carrier Pigeon](https://open.spotify.com/album/5ufL1kagvdUMrUNNP4FCuV) | 3:29 | 2024-08-05 |  |
 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 | 2022-04-04 |  |
 | [A Nervous Tic Motion of the Head to the Left](https://open.spotify.com/track/6SjXkEmPg9jP66HsWbK2A0) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 4:59 | 2024-03-11 |  |
 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 | 2023-01-26 |  |
@@ -373,6 +374,7 @@
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2023-11-01 |  |
 | [Lilian's Pavilion](https://open.spotify.com/track/1XbBXvgRlTJB6880Du8jlH) | [CEP](https://open.spotify.com/artist/2aooHIljVYIZhEFFNmIaEz) | [Drawing the Target Around the Arrow](https://open.spotify.com/album/1Uu3fza2uwuAM9kbn5EtBs) | 2:57 | 2023-10-17 |  |
 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 | 2023-02-18 | 2023-04-20 |
+| [Live from 54th](https://open.spotify.com/track/5UkiLo3RAeN2Y3qmtFAmG2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Los Angeles](https://open.spotify.com/album/6SbSnccPne65cY6Fovd0h7) | 1:43 | 2024-08-05 |  |
 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 | 2022-10-07 | 2023-05-27 |
 | [LMPD](https://open.spotify.com/track/0HFQJcLpqVWhBYzdUZC5xd) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Stillness in Wonderland](https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer) | 4:03 | 2022-12-15 |  |
 | [Loca Juventud](https://open.spotify.com/track/1rzJDjsaA2rNoPvBfMGifD) | [Los Reales de Cajamarca](https://open.spotify.com/artist/5bFtFHmArN3NMPSREcnun7) | [Los Reales de Cajamarca](https://open.spotify.com/album/5wUjtHs9fmIxeP48KOp263) | 2:59 | 2024-01-03 |  |
@@ -417,6 +419,7 @@
 | [Mother \- Remastered 2010](https://open.spotify.com/track/43Ud1IajwtBvw6ONj6aK2Q) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 5:36 | 2023-08-17 | 2023-12-14 |
 | [Movement 1](https://open.spotify.com/track/0QkT7SfXL9eR6tuQ7xb9ya) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 6:24 | 2024-01-12 |  |
 | [My Friend Goo](https://open.spotify.com/track/3BbPWMc572VSVDC7okGwJx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo](https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr) | 2:18 | 2024-01-17 |  |
+| [My Garage \(with Zac Brown\)](https://open.spotify.com/track/0L9aSYUIDijRCT1yzsKAsr) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Zac Brown](https://open.spotify.com/artist/2I15upWbYjmarUFHtCc6vo) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:36 | 2024-08-05 |  |
 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 | 2024-05-28 |  |
 | [My, What A Strange Day With A Swede](https://open.spotify.com/track/11R34yTJbfLMltkkDxYzsH) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [If He Is Protecting Our Nation, Then Who Will Protect Big Oil, Our Children?](https://open.spotify.com/album/2Yi1vhHk6Fe52XLRUuw5b6) | 4:11 | 2023-06-03 |  |
 | [Myrrhman](https://open.spotify.com/track/6MuYpktGeHQXZHHko0Tmvl) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 5:32 | 2024-03-26 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 79624,
+  "num_followers": 79621,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Our God",
+      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "This Is Not A Test",
         "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 302577,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Our God",
-      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 426320,
       "name": "Grace To Grace",
       "url": "https://open.spotify.com/track/6arhFMHHQFVAKUINBs8wjQ"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Until The Whole World Hears",
-        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Glorious Day (Living He Loved Me)",
-      "url": "https://open.spotify.com/track/0co8dS1eYzTanYw3N5BEvM"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
         "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 329213,
       "name": "O Praise The Name (An\u00e1stasis) - Live",
       "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Glorious Day (Living He Loved Me)",
+      "url": "https://open.spotify.com/track/0co8dS1eYzTanYw3N5BEvM"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Good News (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "Nailed To The Cross",
-      "url": "https://open.spotify.com/track/4GTkBqQwkjGpOjwgCPnabN"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Cornerstone (Live)",
         "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 409146,
       "name": "Cornerstone - Live",
       "url": "https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Good News (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "Nailed To The Cross",
+      "url": "https://open.spotify.com/track/4GTkBqQwkjGpOjwgCPnabN"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Love Revolution",
+        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 361413,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 537866,
       "name": "Your Glory / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Love Revolution",
-        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 361413,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "My Hope Secure",
+        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 256734,
+      "name": "My Hope Secure",
+      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "My Hope Secure",
-        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 256734,
-      "name": "My Hope Secure",
-      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Call on Your Name",
-        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Call on Your Name",
-      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "No One Like Our God",
         "url": "https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 249080,
       "name": "No One Like Our God",
       "url": "https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Call on Your Name",
+        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 329720,
-      "name": "The Power Of The Cross",
-      "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Valley of the Shadow",
         "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 256127,
       "name": "Glory & Grace",
       "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 329720,
+      "name": "The Power Of The Cross",
+      "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1983,26 +1983,6 @@
       "duration_ms": 201401,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Hymns For The Christian Life",
-        "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2091,6 +2071,26 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Hymns For The Christian Life",
+        "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Free To Worship",
         "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
       },
@@ -2103,22 +2103,6 @@
       "duration_ms": 289333,
       "name": "This Is The Day",
       "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 497560,
-      "name": "All Hail King Jesus",
-      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2167,6 +2151,22 @@
       "duration_ms": 244720,
       "name": "Signature of Divine (Yahweh)",
       "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 497560,
+      "name": "All Hail King Jesus",
+      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Youth Revival Acoustic",
+        "url": "https://open.spotify.com/album/2SvGDeEas6TS4QA7UQUyzP"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 325666,
+      "name": "I Love You Lord / Passion - Acoustic",
+      "url": "https://open.spotify.com/track/48LiTfePc5B8FfxzOqTqAC"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Yes He Lives",
         "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 285773,
       "name": "Yes He Lives - Live",
       "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Youth Revival Acoustic",
-        "url": "https://open.spotify.com/album/2SvGDeEas6TS4QA7UQUyzP"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 325666,
-      "name": "I Love You Lord / Passion - Acoustic",
-      "url": "https://open.spotify.com/track/48LiTfePc5B8FfxzOqTqAC"
     },
     {
       "added_at": "2024-07-02 00:52:59",

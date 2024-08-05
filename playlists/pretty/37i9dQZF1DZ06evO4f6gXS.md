@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 ### [This Is The Jones Girls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4f6gXS)
 
-> This is The Jones Girls\. The essential tracks, all in one playlist.
+> This Is The Jones Girls\. Todas as faixas essenciais numa única playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,032 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,033 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 49 | [I Can Make a Difference](https://open.spotify.com/track/6kHVUkihPT7sV5fdfb5wop) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target](https://open.spotify.com/album/4zZWFsydY5jgzszx3HeYSq) | 4:23 |
 | 50 | [Don't Be Sorry Be Careful](https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 2:48 |
 
-Snapshot ID: `ZqrQAAAAAABcXB71AYEKJz2icXH+V0Bo`
+Snapshot ID: `ZqrQAAAAAABMAwrl2iJfPH4yp8kbh9yd`

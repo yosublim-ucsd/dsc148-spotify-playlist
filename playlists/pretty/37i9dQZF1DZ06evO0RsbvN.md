@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 
 ### [This Is Ma Rainey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RsbvN)
 
-> This is Ma Rainey\. The essential tracks, all in one playlist.
+> This is Ma Rainey\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 5,771 likes - 51 songs - 2 hr 29 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 | 50 | [Traveling Blues](https://open.spotify.com/track/4Pcxzk9sLRQ6gAd6RuTV3t) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey \(1928\)](https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2) | 2:47 |
 | 51 | [Rough And Tumble Blues](https://open.spotify.com/track/4y7Z2MwXJs65yXFXUjuLp9) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 2:54 |
 
-Snapshot ID: `ZqrQAAAAAACzlW5r07loCHcLkmJeLR8L`
+Snapshot ID: `ZqrQAAAAAACdNJdjr5xZoX+aUw5YJd3L`

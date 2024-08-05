@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Charli xcx, Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,413 likes - 71 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,492 likes - 71 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

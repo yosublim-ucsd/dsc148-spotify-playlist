@@ -2,9 +2,9 @@
 
 ### [Tylko Polski Rock](https://open.spotify.com/playlist/37i9dQZF1DX4x0y4AP3Q3A)
 
-> Najlepsi i najlepiej rockujący na polskiej scenie\. Cover: Wojtek Szumański
+> Najlepsi i najlepiej rockujący na polskiej scenie\. Cover: Max Bravura
 
-139 songs - 8 hr 24 min
+142 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Mamy Problem](https://open.spotify.com/track/5UAF5S4TlidMa0vEU3qBTN) | [Sexbomba](https://open.spotify.com/artist/7v5kF4WvjKknpUcUkTPTqQ) | [Mamy Problem](https://open.spotify.com/album/3b7SO5XDdQystm6OnRwFU6) | 2:39 | 2024-06-28 | 2024-07-06 |
 | [Manifesto](https://open.spotify.com/track/27v0pS3ltAPPn3M9On8gjx) | [Big Cyc](https://open.spotify.com/artist/6zKeUUQLwOtJf15g1OovdE) | [Manifesto](https://open.spotify.com/album/7Jt9hePNuA5ZKmfsvBSUVW) | 3:16 | 2024-06-28 |  |
 | [Marta](https://open.spotify.com/track/5YZe8qUBfjYi0fp9Yr8tsB) | [Komety](https://open.spotify.com/artist/2ESBtuNHbnfEqXZVGVJZTG) | [Marta](https://open.spotify.com/album/5vb0wGchP2Y1trcHMwQs9z) | 2:27 | 2024-06-28 |  |
+| [Maska](https://open.spotify.com/track/2SxFzAu5DPeg64Ill8Srul) | [Insekt](https://open.spotify.com/artist/5ctFHtfBz9nSEJy8gbc1JG), [Insekt Orkiestra](https://open.spotify.com/artist/7mXmoNgvhwWtqeRkzPr1M9) | [Maska](https://open.spotify.com/album/2Q8nIdqeLLIBNW75vRNowd) | 3:17 | 2024-08-04 |  |
 | [Maski](https://open.spotify.com/track/5D98vgYw1mzyFnhev8tigi) | [Pablopavo i Ludziki](https://open.spotify.com/artist/5y7leUjjrhUswowWshGpCi) | [Maski](https://open.spotify.com/album/1M7PdXpHGkE9MA3PsQE0Si) | 2:58 | 2024-06-28 |  |
 | [Masz czas](https://open.spotify.com/track/33stdwj6XPzeZnWAU8rpGI) | [Happysad](https://open.spotify.com/artist/4NkE5k5xSRm6eVE7vMhqD6) | [Masz czas](https://open.spotify.com/album/3Il2nxIPCyu26bdGr8Y2aC) | 3:10 | 2024-07-26 |  |
 | [Mbappé, Supersonic](https://open.spotify.com/track/0Pp47g2mXCVFV9mKaW4jrg) | [MuuD](https://open.spotify.com/artist/6K7zd8z8pCawvA4Y8VzIRi) | [Mbappé, Supersonic](https://open.spotify.com/album/0oOAtFJauSM7YlYH944WB2) | 2:35 | 2024-06-28 | 2024-07-13 |
@@ -103,11 +104,12 @@
 | [Pył](https://open.spotify.com/track/6JEC1jbRZtaciNgG4isAkJ) | [Lekkoduch](https://open.spotify.com/artist/55HCIIhxIydvWcgelg76Br) | [Pył](https://open.spotify.com/album/3tjnF0v2Lioy4gNPLdecJp) | 3:08 | 2024-07-12 |  |
 | [Płonę](https://open.spotify.com/track/2d69V9itMzOjxhXyNge73X) | [BATNA](https://open.spotify.com/artist/7IbyWIC3ZH9EMxtRqVZouk) | [Płonę](https://open.spotify.com/album/6zez9AYcZQZD3TE0IXMr2N) | 3:54 | 2024-06-28 | 2024-07-13 |
 | [real](https://open.spotify.com/track/0Cu3OkzZO7R2p6HjfNsHzY) | [kieras](https://open.spotify.com/artist/6xwejcjlfQ9o20SQzt28Fu) | [real](https://open.spotify.com/album/7oalx1fy5YZvg4zChUc7zw) | 3:51 | 2024-06-28 |  |
+| [Roboty](https://open.spotify.com/track/5dI9OMRn37zPKmspyvY5CR) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Roboty](https://open.spotify.com/album/2jJfK3kEY9xPEv8o8XLi2w) | 2:58 | 2024-08-04 |  |
 | [RODE\-O](https://open.spotify.com/track/0exKPNWiWqlYzHyiLYiSOm) | [hage\-o](https://open.spotify.com/artist/62lJ6hETzegyVN4xXIYCop) | [PPP/CONSTRUCT.IO/RODE\-O](https://open.spotify.com/album/2S3yxwPc6vFp8y4JkQz7w8) | 2:35 | 2024-07-05 |  |
 | [Rudy 102](https://open.spotify.com/track/3JovB2iB3zXTkIl9Rkuzpp) | [Kazik & Kwartet ProForma](https://open.spotify.com/artist/6gv9OBMwrCKkZGFQIPUa73) | [Rudy 102](https://open.spotify.com/album/41faJzIXyWO9mFRTQhFcMp) | 4:44 | 2024-06-28 |  |
 | [SAM](https://open.spotify.com/track/4Za1UBr5cvDIgBKNX0nJfI) | [Ocean](https://open.spotify.com/artist/1lZjCG0tDJoAXl32AQasVv) | [SAM](https://open.spotify.com/album/5MKhs8GSZrLqagicj8po4r) | 2:22 | 2024-06-28 |  |
 | [Samo Zło](https://open.spotify.com/track/5vlNQwA8jRik5FycTqwKhh) | [Proletaryat](https://open.spotify.com/artist/0krPyzj6zmF8YkpPD1elz3) | [Samo Zło](https://open.spotify.com/album/7wUpYMJhvxchAOuqT42XJs) | 3:18 | 2024-06-28 |  |
-| [Scenariusze wszystkie złe](https://open.spotify.com/track/5VIoJhwhhx8JmIFBpVOCAG) | [zachwyt](https://open.spotify.com/artist/57F4M4L3esGKsmMwT4zt01) | [Wolniej](https://open.spotify.com/album/3MD2Rm4I6GvKoHc8ZbYhmq) | 3:25 | 2024-07-19 |  |
+| [Scenariusze wszystkie złe](https://open.spotify.com/track/5VIoJhwhhx8JmIFBpVOCAG) | [zachwyt](https://open.spotify.com/artist/57F4M4L3esGKsmMwT4zt01) | [Wolniej](https://open.spotify.com/album/3MD2Rm4I6GvKoHc8ZbYhmq) | 3:25 | 2024-07-19 | 2024-08-05 |
 | [SKATE OR DIE feat\. LEO ROS](https://open.spotify.com/track/0Ajt6e4j37t60lK6OzBMU2) | [Węże](https://open.spotify.com/artist/1HjJ1TjM0fXh0ufEpX1M9B), [Leo Ros](https://open.spotify.com/artist/1qXCTpQh1JNGdTnHRnUjtf) | [SKATE OR DIE feat\. LEO ROS](https://open.spotify.com/album/7x4BIxqd1wG5rpJ12qdgIJ) | 1:43 | 2024-07-05 |  |
 | [Skażona ziemia](https://open.spotify.com/track/33CgdIK4Nhk7GVONGHDyqA) | [Latające Biustonosze](https://open.spotify.com/artist/7h2DuQmXGqLtDbyccN9H1B) | [Z Piersi nuta](https://open.spotify.com/album/4tsoDmRGWtEs8KRaNn0X92) | 3:12 | 2024-06-28 | 2024-07-27 |
 | [Składam się](https://open.spotify.com/track/6p5DXBcSSEQJKWVI979iCb) | [Jakub Skorupa](https://open.spotify.com/artist/6T3v6RRLeCWcs4Sb47blaJ) | [Składam się](https://open.spotify.com/album/4zdWHy13liy6BhhbnfZthk) | 3:05 | 2024-06-28 |  |
@@ -119,9 +121,10 @@
 | [Superstar](https://open.spotify.com/track/1ZRqfHXZHpvglb61kt7M48) | [Sea Saw](https://open.spotify.com/artist/6dVZRovEXkQHI1ucG3D3Mc) | [Superstar](https://open.spotify.com/album/4RqJWpMLWoCmDD7VsPR40x) | 3:04 | 2024-06-28 | 2024-07-27 |
 | [Szalikowcy miłości \(bliżej bonga\)](https://open.spotify.com/track/5jjf4nRgA9eWKy5fYJ0lQn) | [Hurt](https://open.spotify.com/artist/3YKDQwFsJl1Y9oBDWeO8jh) | [Festiwal bodźców](https://open.spotify.com/album/1UURRbCOADzBrs2xOwaojM) | 3:19 | 2024-06-28 |  |
 | [Szeregowiec](https://open.spotify.com/track/03JTnirKCE2EMNJuylV6jh) | [Farben Lehre](https://open.spotify.com/artist/3O9bFJBTRddC4HOsZixhuw) | [Na zdrowie](https://open.spotify.com/album/0JHWQxgKrww4U3HFJX55fm) | 4:09 | 2024-06-28 |  |
+| [SZKLANE DOMY](https://open.spotify.com/track/6kzfzczoKHkhy3joxEPFSa) | [Katashi](https://open.spotify.com/artist/7drgpl3GzkBJNkbNeTCmPm) | [Dzieło w Klatce](https://open.spotify.com/album/6D4PxlncK91tgosac6JK9B) | 4:33 | 2024-08-04 |  |
 | [Sztandar](https://open.spotify.com/track/7r6haujZDYYy6HR31GeerU) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Sztandar](https://open.spotify.com/album/0rNqpU70noBLgotPNPrHNw) | 3:10 | 2024-06-28 |  |
 | [Słyszę o czym myślisz](https://open.spotify.com/track/2afjgIqER9xWHdaYe7LHIx) | [Kuba Kubiak](https://open.spotify.com/artist/0EqatuteZMZ8uIBDlRrv6m), [Laine](https://open.spotify.com/artist/22Q7MwXqF4rzQmcSNUKu2Y) | [Słyszę o czym myślisz](https://open.spotify.com/album/1ZNQ9MGy2dvTihZhaPEFiU) | 3:20 | 2024-07-26 |  |
-| [To chyba miłość jest](https://open.spotify.com/track/7KFoRdClZDKxW1K0YBZoF4) | [T.Love](https://open.spotify.com/artist/2L14uYIQePr3ZEutb6feZz) | [To chyba miłość jest](https://open.spotify.com/album/2JmHe6fvtdvf98lp969jyF) | 3:03 | 2024-06-28 |  |
+| [To chyba miłość jest](https://open.spotify.com/track/7KFoRdClZDKxW1K0YBZoF4) | [T.Love](https://open.spotify.com/artist/2L14uYIQePr3ZEutb6feZz) | [To chyba miłość jest](https://open.spotify.com/album/2JmHe6fvtdvf98lp969jyF) | 3:03 | 2024-06-28 | 2024-08-05 |
 | [To ja! Kąkol!](https://open.spotify.com/track/7AjR4b9m10UXdBYYKkOt9I) | [Kąkol](https://open.spotify.com/artist/2nwgOltXhIqaQXvco6edCV) | [To ja! Kąkol!](https://open.spotify.com/album/3R5mvVz6T9kFg03IeQoV4P) | 3:58 | 2024-06-28 | 2024-07-27 |
 | [to jara Cię też!](https://open.spotify.com/track/50y9rvzaMoCiDKxUCSpekj) | [Verde](https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7) | [to jara Cię też!](https://open.spotify.com/album/1suvRDCiw7fUUUNie070BV) | 2:56 | 2024-06-28 |  |
 | [To światło nigdy nie będzie zielone](https://open.spotify.com/track/7ET5DJ6fP1PGhCJirS2Fb2) | [Pretensje](https://open.spotify.com/artist/4ERcPXKRGC38uXupJTfWGC), [Imitation Zone](https://open.spotify.com/artist/4nbmVqLTMQ5urUAbCwY7zT) | [To światło nigdy nie będzie zielone](https://open.spotify.com/album/2w6DK3JtYdspjpOgMCOsAb) | 4:06 | 2024-06-28 | 2024-07-13 |
@@ -131,7 +134,7 @@
 | [Wakacyjny chill](https://open.spotify.com/track/3e6fmM4WqRpbGlN9TLH631) | [The Boars](https://open.spotify.com/artist/3YN632oQuzuUJqAMcBkXmD) | [Latami](https://open.spotify.com/album/695buMprluAUm4gZj5vce5) | 4:20 | 2024-06-28 | 2024-07-20 |
 | [Wczoraj](https://open.spotify.com/track/5RFYmGekVXhiKomsTRd3uD) | [Kolumbia](https://open.spotify.com/artist/2pErY8PZ1DoourougRvWWy) | [Wczoraj](https://open.spotify.com/album/2S5bzqDkhpV0NbtTG49JSl) | 3:00 | 2024-07-12 |  |
 | [Wieczorem](https://open.spotify.com/track/4czbhe2itgF5vd8xNOpKI8) | [ParaNoise](https://open.spotify.com/artist/1aOX4QVbzzXaUSGXlUCjQ5) | [Wieczorem](https://open.spotify.com/album/4STNVc2vBtzm16bjJ3tTEk) | 3:22 | 2024-07-26 |  |
-| [Wielki Plan](https://open.spotify.com/track/2vLBkuFMxeImptJby7bRLG) | [Jucha](https://open.spotify.com/artist/7grFJvqwCclBqOR4GQA3cz) | [Wielki Plan](https://open.spotify.com/album/7yzL3t8jRPY26ImDAFilgg) | 3:54 | 2024-07-12 |  |
+| [Wielki Plan](https://open.spotify.com/track/2vLBkuFMxeImptJby7bRLG) | [Jucha](https://open.spotify.com/artist/7grFJvqwCclBqOR4GQA3cz) | [Wielki Plan](https://open.spotify.com/album/7yzL3t8jRPY26ImDAFilgg) | 3:54 | 2024-07-12 | 2024-08-05 |
 | [Wiem](https://open.spotify.com/track/0EfwEw96rw2g9ElXKBF7Pn) | [Antagonist](https://open.spotify.com/artist/7nTITLjiZbnAGVCpZsJO00) | [Vibe](https://open.spotify.com/album/2BIcRIERwiWCkBv22QF4ru) | 3:38 | 2024-06-28 | 2024-07-20 |
 | [Wilcza](https://open.spotify.com/track/76C4soT5swrNYniatn1iYh) | [Robert Cichy](https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0), [Robert Gawlinski](https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O) | [Spacer po Warszawie](https://open.spotify.com/album/5GhrrP768IczdMuPTNHSmd) | 4:04 | 2024-07-19 |  |
 | [Wojna!](https://open.spotify.com/track/7644pTTAiZYfZZdhZRY71l) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [WAWA](https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV) | 2:45 | 2024-07-26 |  |

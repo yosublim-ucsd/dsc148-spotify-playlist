@@ -1,6 +1,6 @@
 {
   "description": "La mejor compa\u00f1\u00eda mientras llueve.",
-  "num_followers": 161753,
+  "num_followers": 161819,
   "original_name": "Lluvia y Pop",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-25 18:15:00",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
-    },
-    {
-      "added_at": "2024-07-25 18:15:00",
-      "album": {
         "name": "Destino o casualidad",
         "url": "https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85"
       },
@@ -291,6 +275,22 @@
     {
       "added_at": "2024-07-25 18:15:00",
       "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
+    },
+    {
+      "added_at": "2024-07-25 18:15:00",
+      "album": {
         "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
         "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
@@ -303,26 +303,6 @@
       "duration_ms": 243040,
       "name": "Labios Rotos - En Vivo Desde M\u00e9xico / 2010",
       "url": "https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv"
-    },
-    {
-      "added_at": "2024-07-25 18:15:00",
-      "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Cr\u00e9eme",
-      "url": "https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU"
     },
     {
       "added_at": "2024-07-25 18:15:00",
@@ -355,6 +335,26 @@
       "duration_ms": 203226,
       "name": "Noviembre Sin Ti",
       "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+    },
+    {
+      "added_at": "2024-07-25 18:15:00",
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Cr\u00e9eme",
+      "url": "https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU"
     },
     {
       "added_at": "2024-07-25 18:15:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-07-25 18:15:00",
       "album": {
-        "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
-        "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Puedes Contar Conmigo",
-      "url": "https://open.spotify.com/track/1hbWtHgRDG25DkmxE4I28V"
-    },
-    {
-      "added_at": "2024-07-25 18:15:00",
-      "album": {
         "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
         "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 226626,
       "name": "So\u00f1\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
+    },
+    {
+      "added_at": "2024-07-25 18:15:00",
+      "album": {
+        "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
+        "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Puedes Contar Conmigo",
+      "url": "https://open.spotify.com/track/1hbWtHgRDG25DkmxE4I28V"
     },
     {
       "added_at": "2024-07-25 18:15:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-25 18:15:00",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
-    },
-    {
-      "added_at": "2024-07-25 18:15:00",
-      "album": {
         "name": "Depende",
         "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2024-07-25 18:15:00",
       "album": {
-        "name": "A las Cinco en el Astoria",
-        "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
       "artists": [
         {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
-      "duration_ms": 239240,
-      "name": "Jueves",
-      "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
+      "duration_ms": 234080,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
     },
     {
       "added_at": "2024-07-25 18:15:00",
@@ -623,6 +607,38 @@
     {
       "added_at": "2024-07-25 18:15:00",
       "album": {
+        "name": "El Primer Instinto",
+        "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
+      },
+      "artists": [
+        {
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
+    },
+    {
+      "added_at": "2024-07-25 18:15:00",
+      "album": {
+        "name": "A las Cinco en el Astoria",
+        "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Jueves",
+      "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
+    },
+    {
+      "added_at": "2024-07-25 18:15:00",
+      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
-    },
-    {
-      "added_at": "2024-07-25 18:15:00",
-      "album": {
-        "name": "El Primer Instinto",
-        "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
-      },
-      "artists": [
-        {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
     },
     {
       "added_at": "2024-07-25 18:15:00",
