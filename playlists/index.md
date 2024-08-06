@@ -1,4 +1,4 @@
-## Playlists \(8118\)
+## Playlists \(8119\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7859,6 +7859,7 @@
 - [the new retro](/playlists/pretty/37i9dQZF1DWV5vqkTng2MA.md)
 - [theremin](/playlists/pretty/37i9dQZF1DX9FavclD4O50.md)
 - [tired lei](/playlists/pretty/37i9dQZF1DX2QWdoTGeQgx.md)
+- [tododeku mixtape 1](/playlists/pretty/2Ogi8MrRoeYpuFhejlg1Lq.md)
 - [tqm](/playlists/pretty/37i9dQZF1DX68lbF0lqCZV.md)
 - [traka](/playlists/pretty/37i9dQZF1DX2l07ZaEeQkJ.md)
 - [transience](/playlists/pretty/37i9dQZF1DX2a5qdpzYkGY.md)
