@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Aug 04:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Aug 22:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 233517,
       "name": "Angel Of My Dreams - The Blessed Madonna Remix",
       "url": "https://open.spotify.com/track/4RHuNJ15rehEsv1vyaBvpf"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 143317,
       "name": "Bad Bitty (Remix)",
       "url": "https://open.spotify.com/track/4O0ZqgeNiK0sxwgFOa64xv"
@@ -3758,6 +3758,24 @@
     {
       "album": {
         "name": "Butterfly",
+        "url": "https://open.spotify.com/album/184TqCB5vQl2giqvkIseXi"
+      },
+      "artists": [
+        {
+          "name": "Swervedriver",
+          "url": "https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293360,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/1cW18O15IbVkNa3oL3kP60"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
         "url": "https://open.spotify.com/album/1yImqDY0D5RKThLhZlONAH"
       },
       "artists": [
@@ -5222,7 +5240,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 170224,
       "name": "Contra",
       "url": "https://open.spotify.com/track/5dNknTci8ACjSrq1A9zdwW"
@@ -5661,7 +5679,7 @@
     },
     {
       "album": {
-        "name": "Dear Maria, Count Me In (ATL's Version)",
+        "name": "Dear Maria, Count Me In - ATL's Version",
         "url": "https://open.spotify.com/album/1pH81EVN0YItmlphDI5k6b"
       },
       "artists": [
@@ -5896,6 +5914,24 @@
       "duration_ms": 165786,
       "name": "Demolition Man",
       "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
+    },
+    {
+      "album": {
+        "name": "Demons My Darling",
+        "url": "https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t"
+      },
+      "artists": [
+        {
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188414,
+      "name": "Demons My Darling",
+      "url": "https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx"
     },
     {
       "album": {
@@ -6630,6 +6666,24 @@
       "duration_ms": 161000,
       "name": "Don't Talk",
       "url": "https://open.spotify.com/track/2rLU8BykI6sfAJohG4YeoS"
+    },
+    {
+      "album": {
+        "name": "Don't Tell My Papa",
+        "url": "https://open.spotify.com/album/2Mxm0aqGb4dFaEf6kj8kFP"
+      },
+      "artists": [
+        {
+          "name": "cacophony",
+          "url": "https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212071,
+      "name": "Don't Tell My Papa",
+      "url": "https://open.spotify.com/track/25xBTsB2GbF5ce1YgX9I1T"
     },
     {
       "album": {
@@ -8280,6 +8334,24 @@
       "duration_ms": 123508,
       "name": "Fight For The Right",
       "url": "https://open.spotify.com/track/7qfZLqQvOE35OeiT9v70kO"
+    },
+    {
+      "album": {
+        "name": "Figurine",
+        "url": "https://open.spotify.com/album/5pvsJWmAaxSogRTDUpzPO6"
+      },
+      "artists": [
+        {
+          "name": "Half Waif",
+          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251653,
+      "name": "Figurine",
+      "url": "https://open.spotify.com/track/5WQNJC3Gzh6oF0rPOWDSgW"
     },
     {
       "album": {
@@ -11132,7 +11204,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 232084,
       "name": "High Hopes (feat. Marcus King)",
       "url": "https://open.spotify.com/track/0cRpS8FK3ulhk8FJfRsuOg"
@@ -12218,6 +12290,24 @@
       "duration_ms": 188546,
       "name": "I Wanna Be Loved (Just A Little Better)",
       "url": "https://open.spotify.com/track/1KwZQmJ03PN3hye7NF4iiA"
+    },
+    {
+      "album": {
+        "name": "I Wanna Go With Dignity",
+        "url": "https://open.spotify.com/album/5HqM5quuQo2mXWC7lRx7CH"
+      },
+      "artists": [
+        {
+          "name": "Peter Perrett",
+          "url": "https://open.spotify.com/artist/1AcMngBo2RJdnnciklA9Cx"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "I Wanna Go With Dignity",
+      "url": "https://open.spotify.com/track/3DQCq5hNiKcz4BzHsKWhJC"
     },
     {
       "album": {
@@ -13716,6 +13806,24 @@
       "duration_ms": 271000,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
+    },
+    {
+      "album": {
+        "name": "Lacking The Ability To Process Empathy",
+        "url": "https://open.spotify.com/album/7d4zBQEnRPl0UUbYruOJcT"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123135,
+      "name": "Lacking The Ability To Process Empathy",
+      "url": "https://open.spotify.com/track/3kb9BsVoZ7nmkER1RC6uf2"
     },
     {
       "album": {
@@ -16718,7 +16826,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 188360,
       "name": "Never Walk Alone",
       "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
@@ -18946,7 +19054,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 143198,
       "name": "Postlude - After Seven Winters",
       "url": "https://open.spotify.com/track/4fwb3VZKAdJwqwGQXG7lNh"
@@ -20623,6 +20731,24 @@
     },
     {
       "album": {
+        "name": "Open \u266deta v6.3",
+        "url": "https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220096,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
+    },
+    {
+      "album": {
         "name": "Save Yourself",
         "url": "https://open.spotify.com/album/63Gr3hrE9VPcWJa7lRaUrT"
       },
@@ -22250,7 +22376,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 122553,
       "name": "SOS",
       "url": "https://open.spotify.com/track/1xLzlr72jRS1ZJO0JZrbeb"
@@ -22468,6 +22594,24 @@
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
+    },
+    {
+      "album": {
+        "name": "Squat",
+        "url": "https://open.spotify.com/album/3LB7rCViWkPB7fQhRNwiOR"
+      },
+      "artists": [
+        {
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160106,
+      "name": "Squat",
+      "url": "https://open.spotify.com/track/2tAxxd0meQYAe9RV41J3fJ"
     },
     {
       "album": {
@@ -23443,6 +23587,24 @@
     },
     {
       "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/2hhn24AwG16XpH7LB46maT"
+      },
+      "artists": [
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233160,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/0eVl59SHjKL1BKi1AjQB5U"
+    },
+    {
+      "album": {
         "name": "Swim Team",
         "url": "https://open.spotify.com/album/3cXWNfufTSW2A552Wv3WAY"
       },
@@ -23454,7 +23616,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 191772,
       "name": "Swim Team",
       "url": "https://open.spotify.com/track/02bspHTO5nyWnlC57g6N2K"
@@ -23834,6 +23996,24 @@
       "duration_ms": 131311,
       "name": "Teen Heartbreak",
       "url": "https://open.spotify.com/track/5Qo3V9WDGb8eqCZtCgvJMw"
+    },
+    {
+      "album": {
+        "name": "Teleport",
+        "url": "https://open.spotify.com/album/3U8uDkXEkcBwsqZeizd6No"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205683,
+      "name": "Teleport",
+      "url": "https://open.spotify.com/track/3C3nXh1MLj9dP4BYPMrzTG"
     },
     {
       "album": {
@@ -24648,7 +24828,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 240806,
       "name": "The South Atlantic",
       "url": "https://open.spotify.com/track/1eihT0cCPaJnZZON3VWLUw"
@@ -25886,7 +26066,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 254881,
       "name": "Undercurrent",
       "url": "https://open.spotify.com/track/0rPNzmwmL3cr4gFv77hRdy"
@@ -26324,6 +26504,24 @@
       "duration_ms": 173714,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8"
+    },
+    {
+      "album": {
+        "name": "Wake Up, Pass Out",
+        "url": "https://open.spotify.com/album/0jTdu9HM5JSNEvpp5GfwTz"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178357,
+      "name": "Wake Up, Pass Out",
+      "url": "https://open.spotify.com/track/0ISluANGR8RAokUJCzRygg"
     },
     {
       "album": {
@@ -26950,7 +27148,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 193788,
       "name": "Whirlpool",
       "url": "https://open.spotify.com/track/60IPtq59BYIZV286zKTPWi"

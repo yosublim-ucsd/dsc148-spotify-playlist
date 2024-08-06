@@ -1,6 +1,6 @@
 {
   "description": "V\u00e5ra spellisteredakt\u00f6rers urval av otroliga l\u00e5tar fr\u00e5n 2023 som du kanske r\u00e5kat missa? Enjoy! #SpotifyWrapped",
-  "num_followers": 848,
+  "num_followers": 849,
   "original_name": "2023: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "TIAMA l",
-        "url": "https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg"
-      },
-      "artists": [
-        {
-          "name": "Duvchi",
-          "url": "https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc"
-        }
-      ],
-      "duration_ms": 173045,
-      "name": "If You (Papapa)",
-      "url": "https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Attack On Us",
         "url": "https://open.spotify.com/album/0N4kxrPiQ8PuixSIJg2owR"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 148000,
       "name": "Attack On Us",
       "url": "https://open.spotify.com/track/4N1tF1jz1JKLpnaoUSxG9Z"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "TIAMA l",
+        "url": "https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg"
+      },
+      "artists": [
+        {
+          "name": "Duvchi",
+          "url": "https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc"
+        }
+      ],
+      "duration_ms": 173045,
+      "name": "If You (Papapa)",
+      "url": "https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh"
     },
     {
       "added_at": "2023-11-29 12:17:00",

@@ -143,6 +143,32 @@
     },
     {
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146289,
+      "name": "ENEMIES (feat. bludnymph & Shift K3Y)",
+      "url": "https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P"
+    },
+    {
+      "album": {
         "name": "FEAST",
         "url": "https://open.spotify.com/album/5vK9jIuOLfuQGyVo6HFisg"
       },

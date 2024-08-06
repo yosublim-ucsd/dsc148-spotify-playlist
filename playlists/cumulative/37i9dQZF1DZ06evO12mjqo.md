@@ -2,14 +2,15 @@
 
 ### [This Is Ghost](https://open.spotify.com/playlist/37i9dQZF1DZ06evO12mjqo)
 
-> This is Ghost\. The essential tracks, all in one playlist.
+> This is Ghost\. Todos os maiores hits em uma só playlist.
 
-85 songs - 6 hr 24 min
+86 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Absolution](https://open.spotify.com/track/55hOoPBqFhebHwepr33mak) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:50 | 2022-05-30 | 2024-05-13 |
-| [Absolution \- Live at the Forum / 2023](https://open.spotify.com/track/5AvtHfUUjQ8tAgd26ZgR7y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Absolution \(Live at the Forum / 2023\)](https://open.spotify.com/album/5YOmO8pYe4AD3KKBtZAz89) | 5:08 | 2024-05-13 |  |
+| [Absolution \- Live at the Forum / 2023](https://open.spotify.com/track/5AvtHfUUjQ8tAgd26ZgR7y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Absolution \(Live at the Forum / 2023\)](https://open.spotify.com/album/5YOmO8pYe4AD3KKBtZAz89) | 5:08 | 2024-05-13 | 2024-08-06 |
+| [Absolution \- Live at the Forum / 2023](https://open.spotify.com/track/6w9mj9geuRdcSU73mgQdoL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Rite Here Rite Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi) | 5:08 | 2024-08-06 |  |
 | [Bible](https://open.spotify.com/track/1nXzRFoBuTvgvYUifcAcus) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 6:34 | 2022-05-31 | 2022-06-07 |
 | [Bible](https://open.spotify.com/track/5HCUDC7WkyGRYgS8fuI3Wt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 6:34 | 2022-05-30 | 2023-05-23 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 | 2022-05-30 |  |

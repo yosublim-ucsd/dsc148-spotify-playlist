@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,898 songs - 10 day 21 hr 32 min
+6,900 songs - 10 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,7 +777,7 @@
 | [Botanic Vibes](https://open.spotify.com/track/04ubGSgy6ppvszuvT1Ei91) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Botanic Vibes](https://open.spotify.com/album/2gocO4QdZYv4vc9rP2MYPd) | 2:19 | 2022-10-28 | 2022-11-25 |
 | [Botanic Vibes](https://open.spotify.com/track/2zBIq5gQRhblEpXy0txLfh) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Botanic Vibes](https://open.spotify.com/album/3Gf17vTIWHXZvHZf1A4uyO) | 2:19 | 2022-11-25 | 2022-12-16 |
 | [Both of Us](https://open.spotify.com/track/4hnhSZTKf77tZjOBjzL5BM) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Raw Cuts 2](https://open.spotify.com/album/1FxqDi3bJ8tL1nyQz1MHY1) | 1:53 | 2019-06-24 | 2020-01-04 |
-| [Bougainvillea.](https://open.spotify.com/track/1sm4S7UcJEBe7qHusbRLMS) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Bougainvillea.](https://open.spotify.com/album/7EBFDm6kAJ7qiQiDQafS6k) | 2:08 | 2024-02-02 |  |
+| [Bougainvillea.](https://open.spotify.com/track/1sm4S7UcJEBe7qHusbRLMS) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Bougainvillea.](https://open.spotify.com/album/7EBFDm6kAJ7qiQiDQafS6k) | 2:08 | 2024-02-02 | 2024-08-06 |
 | [Bouncin Bags](https://open.spotify.com/track/4K3Xt5x3yNHe7hbkCfYG3K) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Bouncin Bags](https://open.spotify.com/album/2yM6ix5NsiK1Mb1wq72CsQ) | 1:50 | 2022-02-14 | 2022-07-22 |
 | [Bouncing Lemons](https://open.spotify.com/track/604c3bQGYjDmDbiYeR8aeK) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Bouncing Lemons](https://open.spotify.com/album/3SC9A5yN3tBc4KGENuXoRw) | 2:06 | 2022-01-21 | 2022-07-16 |
 | [boundaries](https://open.spotify.com/track/1usNcNgHv6QGbgElaMPaGn) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [peas and love](https://open.spotify.com/album/43PoomxI6ow9kRZL3ihXx4) | 2:06 | 2022-11-18 | 2024-02-09 |
@@ -4934,6 +4934,7 @@
 | [ridley road](https://open.spotify.com/track/4F3obAUvUPgEmPWiFIaMvi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [ridley road](https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6) | 2:24 | 2022-10-21 | 2024-04-27 |
 | [right here](https://open.spotify.com/track/0CAXwqDURV3HNIcRBo6q0H) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [right here](https://open.spotify.com/album/3556dB6cUPlexPigmPwSmi) | 2:18 | 2023-02-27 | 2023-03-25 |
 | [Right Now](https://open.spotify.com/track/6WXjgmyJpFklnDQ6k9htCg) | [Through & Through](https://open.spotify.com/artist/5KnnO1gTaru3vtpr8cn8Im) | [Frames](https://open.spotify.com/album/2LFH0EztJ4i0ChN0IjsRtB) | 1:55 | 2019-06-25 | 2020-01-04 |
+| [Right&Left](https://open.spotify.com/track/2xvcgM5or71q13LkfHiwBo) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Right&Left](https://open.spotify.com/album/2z8B6fu05BifTQmsOeQ0Cs) | 2:40 | 2024-07-26 |  |
 | [rimschak](https://open.spotify.com/track/47DfYkH6BKQQnVAQsNM9B4) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Dusty Flakes](https://open.spotify.com/album/0LPy3os38sSx8r4wZbyplQ) | 1:18 | 2022-08-05 | 2022-11-18 |
 | [Ripe](https://open.spotify.com/track/2rMqcVCkbxkXkNYGNxblze) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Ripe](https://open.spotify.com/album/23UySObXOODCrZdH7LRuM8) | 2:41 | 2020-11-05 | 2021-10-20 |
 | [Ripples Of Autumn](https://open.spotify.com/track/4qm6QmmBVo6mRJhskTubLk) | [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Ripples Of Autumn](https://open.spotify.com/album/7kVGqUbRBVOubYgLFT2XPB) | 2:03 | 2023-11-17 |  |
@@ -5293,6 +5294,7 @@
 | [sky high](https://open.spotify.com/track/6wcFYD2L2LCagM2i8qpRYs) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [sky high](https://open.spotify.com/album/4TqJqYVe8HofzsoX9WFOAi) | 2:13 | 2022-12-16 | 2023-04-06 |
 | [Sky High](https://open.spotify.com/track/5MZhfQfSV9eFyjvA5iMHw6) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Sky High](https://open.spotify.com/album/6y1J3oPwmoF7WFsL8cX9nE) | 2:13 | 2021-02-04 | 2022-01-14 |
 | [Sky Waves](https://open.spotify.com/track/7fMVi69nFB0oJaZ5w96QBT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Sky Waves](https://open.spotify.com/album/6PFHX8ut7zvTRQAJZppLZM) | 2:40 | 2023-07-13 | 2023-09-16 |
+| [Skycrossing](https://open.spotify.com/track/2iJnEx2P91IVDJRs3kErCx) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Skycrossing](https://open.spotify.com/album/6Afs1sIRAflGXM1mgiQBKB) | 2:13 | 2024-07-26 |  |
 | [Skydancer](https://open.spotify.com/track/5nD9zxsQ5C4Dh3Lc0HNf5G) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [EP IV](https://open.spotify.com/album/2oEMy6PdPZrBvj9158T7yv) | 2:11 | 2023-03-24 | 2023-10-20 |
 | [Skyhigh](https://open.spotify.com/track/77TvxMEVhaiM584C73Oh02) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Skyhigh](https://open.spotify.com/album/4PAW3fn3HCb1yXfadEYlaC) | 2:42 | 2019-12-23 | 2020-06-24 |
 | [Skyline](https://open.spotify.com/track/5BkBICccXAYEXxPpeX7Z9k) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [Skyline](https://open.spotify.com/album/3dwaVCYZqGQUC6sMfoBfwC) | 1:52 | 2022-01-14 | 2022-07-08 |
@@ -6383,7 +6385,7 @@
 | [Up](https://open.spotify.com/track/0vMZrX9RZ8yEqaNIjUmV7y) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 1: Up Down Left Right](https://open.spotify.com/album/3rF38iEMLEfEGQcS1Bb2Y5) | 2:00 | 2021-03-06 | 2022-01-14 |
 | [up and upper](https://open.spotify.com/track/5fFgCGDi9eP2A0yUM6LG7k) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [up and upper](https://open.spotify.com/album/03B0KT5nLYh9uSf33frzYk) | 2:24 | 2024-06-14 |  |
 | [Up For Debate](https://open.spotify.com/track/0RTZzUgu0MQ3h8vTGOBKVP) | [Diego Masa](https://open.spotify.com/artist/5RX5BLkadTIqJeXRBWKOSy) | [Up For Debate](https://open.spotify.com/album/5hVmYZDBbQSB4XJSG24SE1) | 2:36 | 2022-04-08 | 2022-10-07 |
-| [Up In The Air](https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Up In The Air](https://open.spotify.com/album/1Ld3X6frL6PwPcI036ltV3) | 2:23 | 2024-03-22 |  |
+| [Up In The Air](https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Up In The Air](https://open.spotify.com/album/1Ld3X6frL6PwPcI036ltV3) | 2:23 | 2024-03-22 | 2024-08-06 |
 | [Up In The Clouds Again](https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Up In The Clouds Again](https://open.spotify.com/album/5LGOpvqw4CDDEHLGlZi5Po) | 2:07 | 2024-07-19 |  |
 | [UP TO U](https://open.spotify.com/track/6thF5Uau9BJvyT1CmHYjVY) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UP TO U](https://open.spotify.com/album/6CCWR8MSJLkFPMbWxwH8ES) | 1:55 | 2019-11-08 | 2020-10-21 |
 | [Up Up](https://open.spotify.com/track/67BApmtjPdXu5gBfdCbDZ2) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L) | [Up Up](https://open.spotify.com/album/5P0zMkVSWsajg1dWXR6zCM) | 2:13 | 2023-10-06 | 2023-11-11 |

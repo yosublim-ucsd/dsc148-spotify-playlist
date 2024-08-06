@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,041 likes - 50 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,129 likes - 50 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 20 | [Recall](https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Recall](https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF) | 6:13 |
 | 21 | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:30 |
 | 22 | [So Long](https://open.spotify.com/track/2gP68X8AomYum6NvnbH4sW) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Aquatone](https://open.spotify.com/artist/657ZCz2bARTZsq9YXVjh3R) | [So Long](https://open.spotify.com/album/62iaygApaNNVrYyU7Xck2R) | 6:24 |
-| 23 | [Happy Ending \- Main Mix](https://open.spotify.com/track/7z1Aaj0TgXx7YpQOhfiDTS) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Donald Sheffey](https://open.spotify.com/artist/681WjFB6kXJEkYFL24hHdo) | [Happy Ending](https://open.spotify.com/album/5sLHd3Dha1l5Fjj8TTFNlC) | 7:15 |
-| 24 | [Breathe \- Ed\-ward Remix](https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE) | [Ethan Tait](https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT), [Sam Alaina](https://open.spotify.com/artist/2Xz7oQiDTvupkbByXVHZHB), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Breathe \(Remixes\)](https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb) | 6:42 |
+| 23 | [Breathe \- Ed\-ward Remix](https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE) | [Ethan Tait](https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT), [Sam Alaina](https://open.spotify.com/artist/2Xz7oQiDTvupkbByXVHZHB), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Breathe \(Remixes\)](https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb) | 6:42 |
+| 24 | [Happy Ending \- Main Mix](https://open.spotify.com/track/7z1Aaj0TgXx7YpQOhfiDTS) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Donald Sheffey](https://open.spotify.com/artist/681WjFB6kXJEkYFL24hHdo) | [Happy Ending](https://open.spotify.com/album/5sLHd3Dha1l5Fjj8TTFNlC) | 7:15 |
 | 25 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 |
 | 26 | [I Care \- Radio Edit](https://open.spotify.com/track/4gXBXssvHxJ9kApYt4cyWP) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [I Care](https://open.spotify.com/album/5hz2ki5HCvLLmWb28iG906) | 4:24 |
 | 27 | [Feel Good](https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Feel Good EP](https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a) | 6:32 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 46 | [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 |
 | 47 | [The Gameplan](https://open.spotify.com/track/4Fl3uu5PrliDjR8Fo4NAuJ) | [Fynn](https://open.spotify.com/artist/4MWUQj6W31jtQXUNoKYWTB) | [The Gameplan](https://open.spotify.com/album/64Y7ZbXPxGD46ik5O7GrzH) | 7:41 |
 | 48 | [Dawnlands](https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU) | [Nkaoza EP](https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg) | 6:09 |
-| 49 | [Emadongeni](https://open.spotify.com/track/4NDEwkrd6uYUS6QaQqCPrV) | [Suffocate SA](https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS), [Leko M](https://open.spotify.com/artist/6Kno2aefEwLBW9igtjCakf) | [Journey To the Making](https://open.spotify.com/album/7LQYztLMakwrD7UDMqYqvs) | 6:24 |
-| 50 | [Nades](https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF) | [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Mohaus, Vol\. 2](https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI) | 6:42 |
+| 49 | [Nades](https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF) | [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Mohaus, Vol\. 2](https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI) | 6:42 |
+| 50 | [Emadongeni](https://open.spotify.com/track/4NDEwkrd6uYUS6QaQqCPrV) | [Suffocate SA](https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS), [Leko M](https://open.spotify.com/artist/6Kno2aefEwLBW9igtjCakf) | [Journey To the Making](https://open.spotify.com/album/7LQYztLMakwrD7UDMqYqvs) | 6:24 |
 
 Snapshot ID: `ZqwoEQAAAAD1KutkjquNC2/TOnA4Yl/2`

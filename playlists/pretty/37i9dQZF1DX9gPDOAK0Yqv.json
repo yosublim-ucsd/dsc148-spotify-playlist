@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 120138,
+  "num_followers": 119842,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Nothing Ever Changes (Camelphat Remix)",
-        "url": "https://open.spotify.com/album/0SkcnpoGxDAbhHcj9LA0tk"
+        "name": "Beyond Us (Hatshepsut Version)",
+        "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
         },
         {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         }
       ],
-      "duration_ms": 258236,
-      "name": "Nothing Ever Changes - Camelphat Remix",
-      "url": "https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka"
+      "duration_ms": 234795,
+      "name": "Beyond Us - Hatshepsut Version",
+      "url": "https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1007,22 +1003,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Beyond Us (Hatshepsut Version)",
-        "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
+        "name": "Nothing Ever Changes (Camelphat Remix)",
+        "url": "https://open.spotify.com/album/0SkcnpoGxDAbhHcj9LA0tk"
       },
       "artists": [
         {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 234795,
-      "name": "Beyond Us - Hatshepsut Version",
-      "url": "https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj"
+      "duration_ms": 258236,
+      "name": "Nothing Ever Changes - Camelphat Remix",
+      "url": "https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Friends (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/3sTdQoIdHfjxVLGtb3I3FL"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 260307,
-      "name": "Friends - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/1dtNRzHMtDS3TtIzxNdyag"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Friend Of Mine",
         "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 213333,
       "name": "Friend Of Mine",
       "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Friends (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/3sTdQoIdHfjxVLGtb3I3FL"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 260307,
+      "name": "Friends - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/1dtNRzHMtDS3TtIzxNdyag"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Aran",
+        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 342626,
+      "name": "Aran",
+      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Ghosts Again (Remixes)",
         "url": "https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 402818,
       "name": "Ghosts Again - Massano Remix",
       "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Aran",
-        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 342626,
-      "name": "Aran",
-      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "The Theory EP",
-        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
-        }
-      ],
-      "duration_ms": 286451,
-      "name": "Alone ft. braev",
-      "url": "https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 194434,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "The Theory EP",
+        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 286451,
+      "name": "Alone ft. braev",
+      "url": "https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1783,18 +1783,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/4ivh5G9ja0yRD2M3KEelgJ"
+        "name": "Len\u00e7\u00f3is (Love Me) [Cassian Remix]",
+        "url": "https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b"
       },
       "artists": [
         {
-          "name": "Caroline Roxy",
-          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
         }
       ],
-      "duration_ms": 169639,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/44BOuprG538ofr0uUO7jRr"
+      "duration_ms": 254400,
+      "name": "Len\u00e7\u00f3is (Love Me) - Cassian Remix",
+      "url": "https://open.spotify.com/track/3sh22HAcptCRsS0clVlc81"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1859,38 +1863,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Len\u00e7\u00f3is (Love Me) [Cassian Remix]",
-        "url": "https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/4ivh5G9ja0yRD2M3KEelgJ"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
         }
       ],
-      "duration_ms": 254400,
-      "name": "Len\u00e7\u00f3is (Love Me) - Cassian Remix",
-      "url": "https://open.spotify.com/track/3sh22HAcptCRsS0clVlc81"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Freaks at Night",
-        "url": "https://open.spotify.com/album/7kxCqxCTpTGTLj61xXksz7"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Freaks at Night",
-      "url": "https://open.spotify.com/track/2hAIcWh147ofa7v2DXyHPn"
+      "duration_ms": 169639,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/44BOuprG538ofr0uUO7jRr"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1911,6 +1895,22 @@
       "duration_ms": 214560,
       "name": "Hear you calling",
       "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Freaks at Night",
+        "url": "https://open.spotify.com/album/7kxCqxCTpTGTLj61xXksz7"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Freaks at Night",
+      "url": "https://open.spotify.com/track/2hAIcWh147ofa7v2DXyHPn"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2015,26 +2015,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "The Point Of Living (Omnya Remix)",
-        "url": "https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "The Point Of Living (Omnya Remix)",
-      "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "See You In Dreams",
         "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
       },
@@ -2051,6 +2031,26 @@
       "duration_ms": 271519,
       "name": "See You In Dreams",
       "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "The Point Of Living (Omnya Remix)",
+        "url": "https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "The Point Of Living (Omnya Remix)",
+      "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Devon (Oliver Huntemann Remix)",
         "url": "https://open.spotify.com/album/1lRw2Qay0MuZHxFxkZQeEU"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 398268,
       "name": "Devon - Oliver Huntemann Remix",
       "url": "https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2459,22 +2459,30 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Human Aura",
-        "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
       },
       "artists": [
         {
-          "name": "Yubik",
-          "url": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
         }
       ],
-      "duration_ms": 404529,
-      "name": "Human Aura - Massano Remix",
-      "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
+      "duration_ms": 221346,
+      "name": "Save Me - K\u00f6lsch Remix",
+      "url": "https://open.spotify.com/track/1g8Ae2dCsTce1mu9yMZDAF"
     }
   ],
   "unique_name": "Melodic Techno Elements",

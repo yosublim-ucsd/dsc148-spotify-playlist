@@ -1,12 +1,12 @@
 {
-  "description": "This Is Deep Purple. Los temas esenciales, todos en una lista.",
-  "num_followers": 289340,
+  "description": "This Is Deep Purple. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 289391,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqrQAAAAAAD67ByYwKFr5R4aeItufSxl",
+  "snapshot_id": "Zq7EgAAAAADNWGAWnqamzhmYTHRdLCO+",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 239400,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw"
+      "duration_ms": 248400,
+      "name": "Old-Fangled Thing",
+      "url": "https://open.spotify.com/track/1pHuvoiuocOh1y0tC3d6Il"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Old-Fangled Thing",
-      "url": "https://open.spotify.com/track/1pHuvoiuocOh1y0tC3d6Il"
+      "duration_ms": 239400,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lazy Sod",
-        "url": "https://open.spotify.com/album/7MpBUXAl2vo4ODN9kdpVT9"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 220506,
-      "name": "Lazy Sod",
-      "url": "https://open.spotify.com/track/4HHOsyrXFH2dB3ySFGIfpf"
+      "duration_ms": 352293,
+      "name": "Sail Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+        "name": "Lazy Sod",
+        "url": "https://open.spotify.com/album/7MpBUXAl2vo4ODN9kdpVT9"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 352293,
-      "name": "Sail Away - Remastered 2004",
-      "url": "https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre"
+      "duration_ms": 220506,
+      "name": "Lazy Sod",
+      "url": "https://open.spotify.com/track/4HHOsyrXFH2dB3ySFGIfpf"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
       "duration_ms": 245400,
       "name": "The Gypsy - 2009 Digital Remaster",
       "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "You Fool No One - Remastered 2004",
-      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
     }
   ],
   "unique_name": "This Is Deep Purple",

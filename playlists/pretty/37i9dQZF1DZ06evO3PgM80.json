@@ -1,12 +1,12 @@
 {
-  "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19357,
+  "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
+  "num_followers": 19361,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqrQAAAAAAC3x+Oz028mI6lDVEcZDhLi",
+  "snapshot_id": "Zq7EgAAAAABABlywRz5oIJVeMwbZCafM",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo O Que Sou",
+        "url": "https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 270053,
+      "name": "Tudo O Que Sou",
+      "url": "https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Adentro Hacia Afuera",
         "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 296053,
       "name": "Jesus At The Center (Bonus Track) - Acoustic",
       "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo O Que Sou",
-        "url": "https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 270053,
-      "name": "Tudo O Que Sou",
-      "url": "https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE"
     },
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 532577,
+      "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pai de Amor (Heavenly Father I Appreciate You) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 421395,
       "name": "Tu \u00c9s Rei",
       "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 532577,
-      "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hambre Y Sed",
+        "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 361826,
+      "name": "Hambre Y Sed",
+      "url": "https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 281414,
       "name": "Lindo Jesus",
       "url": "https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hambre Y Sed",
-        "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 361826,
-      "name": "Hambre Y Sed",
-      "url": "https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz da Luz",
-        "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
-      },
-      "artists": [
-        {
-          "name": "Lagoinha Music",
-          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 637600,
-      "name": "Manto de Cristo",
-      "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
         "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 499742,
       "name": "Eu Canto - Ao Vivo",
       "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luz da Luz",
+        "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
+      },
+      "artists": [
+        {
+          "name": "Lagoinha Music",
+          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 637600,
+      "name": "Manto de Cristo",
+      "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
     },
     {
       "added_at": null,

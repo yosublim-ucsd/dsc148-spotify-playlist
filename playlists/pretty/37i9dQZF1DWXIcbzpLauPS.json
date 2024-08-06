@@ -1,6 +1,6 @@
 {
   "description": "metalcore at its best. Cover:Windwaker",
-  "num_followers": 931193,
+  "num_followers": 931215,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 245947,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 198521,
       "name": "I Was Alive",
       "url": "https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 245947,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "MAGNETIC",
-        "url": "https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 192729,
-      "name": "MAGNETIC",
-      "url": "https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Forgive and Forget (feat. Fit For A King)",
         "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 215057,
       "name": "Forgive And Forget (feat. Fit For A King)",
       "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "MAGNETIC",
+        "url": "https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 192729,
+      "name": "MAGNETIC",
+      "url": "https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "TOMBSTONE",
-        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "TOMBSTONE",
-      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Creature",
         "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
       },
@@ -527,6 +511,38 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Keeping Secrets",
+        "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 257798,
+      "name": "Keeping Secrets",
+      "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "TOMBSTONE",
+        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "TOMBSTONE",
+      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Below The Belt (feat. Set It Off)",
         "url": "https://open.spotify.com/album/5PpGvWHxcI2ddJ94i3KTGj"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Keeping Secrets",
-        "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 257798,
-      "name": "Keeping Secrets",
-      "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 219676,
       "name": "Divine",
       "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "look at me",
+        "url": "https://open.spotify.com/album/29rEnJyGy4yKMr0pJkhker"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 90036,
+      "name": "look at me",
+      "url": "https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -623,22 +639,6 @@
       "duration_ms": 171090,
       "name": "Blinding Faith",
       "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "look at me",
-        "url": "https://open.spotify.com/album/29rEnJyGy4yKMr0pJkhker"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 90036,
-      "name": "look at me",
-      "url": "https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 212329,
       "name": "In The Silence",
       "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Darker Colors (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "duration_ms": 198593,
+      "name": "suffer.",
+      "url": "https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
         "url": "https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Timebomb",
-        "url": "https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY"
-      },
-      "artists": [
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Timebomb",
-      "url": "https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Vol. 2",
         "url": "https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB"
       },
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Darker Colors (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB"
+        "name": "Timebomb",
+        "url": "https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY"
       },
       "artists": [
         {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
         }
       ],
-      "duration_ms": 198593,
-      "name": "suffer.",
-      "url": "https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz"
+      "duration_ms": 200097,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Better Written Villain",
+        "url": "https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6"
+      },
+      "artists": [
+        {
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+        }
+      ],
+      "duration_ms": 223297,
+      "name": "Better Written Villain",
+      "url": "https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Bl\u00fcdGod (feat. Taylor Barber)",
         "url": "https://open.spotify.com/album/3L1QV2uTt9Y0tqG2Uyv9CL"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 210156,
       "name": "Bl\u00fcdGod (feat. Taylor Barber)",
       "url": "https://open.spotify.com/track/73CqRvFzveR4Ckw9lrbG0z"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Better Written Villain",
-        "url": "https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6"
-      },
-      "artists": [
-        {
-          "name": "156/Silence",
-          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
-        }
-      ],
-      "duration_ms": 223297,
-      "name": "Better Written Villain",
-      "url": "https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 268235,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Nefarious",
         "url": "https://open.spotify.com/album/68g2t1UpqqHUPzYJzeGhZt"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 251722,
       "name": "Nefarious",
       "url": "https://open.spotify.com/track/36sawGMYzK5ZMcW0mNtuFr"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 268235,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/6wZzIejyMAWxwO9lBUmDNY"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Veil Walker",
         "url": "https://open.spotify.com/album/0D3npTMNQR9o5wFdvVZfHd"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 216002,
       "name": "Veil Walker",
       "url": "https://open.spotify.com/track/6Bvf6VZZ2AeQsZOv1qa1jt"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Enter The Wall",
+        "url": "https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1667,22 +1667,6 @@
       "duration_ms": 240000,
       "name": "Hard To Live - feat. David Benites",
       "url": "https://open.spotify.com/track/5kurhA888Fh98xOJtL7TXA"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Enter The Wall",
-        "url": "https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 143946,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1767,8 +1751,8 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/6wZzIejyMAWxwO9lBUmDNY"
       },
       "artists": [
         {
@@ -1776,9 +1760,9 @@
           "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
+      "duration_ms": 180000,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1799,22 +1783,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/3rjMJ2WhDsDeZtGRDVf5gl"
-      },
-      "artists": [
-        {
-          "name": "Our Mirage",
-          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
-        }
-      ],
-      "duration_ms": 224347,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/2edDAzLyy0m1Yt7LWRad2e"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/3ygJ8CQHYRGGD6hkESVgi3"
       },
@@ -1827,6 +1795,22 @@
       "duration_ms": 163000,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/4WNyYOoxDl97rKtmx7PAox"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/3rjMJ2WhDsDeZtGRDVf5gl"
+      },
+      "artists": [
+        {
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+        }
+      ],
+      "duration_ms": 224347,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/2edDAzLyy0m1Yt7LWRad2e"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1847,22 +1831,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "welcome2paradise",
-        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "False Divinity",
         "url": "https://open.spotify.com/album/5nkw1TYKhShOSpUtR9gbS0"
       },
@@ -1875,6 +1843,22 @@
       "duration_ms": 228778,
       "name": "False Divinity",
       "url": "https://open.spotify.com/track/6zNWFYMJdYHEdImfNorvEr"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "welcome2paradise",
+        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1895,18 +1879,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/6yEv9GYNLHZdqPRcQTg4Ew"
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
       },
       "artists": [
         {
-          "name": "Rising Insane",
-          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
         }
       ],
-      "duration_ms": 214282,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/1aHHwI79IBD4hHIWqQ7DyJ"
+      "duration_ms": 201000,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1923,6 +1907,22 @@
       "duration_ms": 193424,
       "name": "Trying to Survive",
       "url": "https://open.spotify.com/track/0h5uhIvjec46Ggg8WOJCYQ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/6yEv9GYNLHZdqPRcQTg4Ew"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        }
+      ],
+      "duration_ms": 214282,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/1aHHwI79IBD4hHIWqQ7DyJ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Buried In Thorns",
-        "url": "https://open.spotify.com/album/1WOpoJ8OkF1MdOSnyhdzOW"
-      },
-      "artists": [
-        {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
-        }
-      ],
-      "duration_ms": 206380,
-      "name": "Buried In Thorns",
-      "url": "https://open.spotify.com/track/0wqUOfb0HekBuIJAmQ3EcU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "feel something new",
         "url": "https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 204076,
       "name": "It Consumes Me",
       "url": "https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Buried In Thorns",
+        "url": "https://open.spotify.com/album/1WOpoJ8OkF1MdOSnyhdzOW"
+      },
+      "artists": [
+        {
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+        }
+      ],
+      "duration_ms": 206380,
+      "name": "Buried In Thorns",
+      "url": "https://open.spotify.com/track/0wqUOfb0HekBuIJAmQ3EcU"
     }
   ],
   "unique_name": "The Core",

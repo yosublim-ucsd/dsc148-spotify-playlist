@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-390 songs - 20 hr 9 min
+391 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Brown Noise Intelligence](https://open.spotify.com/track/3P1U0l9iwEVL1dXV1RnjAP) | [BBVB](https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP) | [Brown Noise Intelligence](https://open.spotify.com/album/7mvzkrCd5jLbkYuAJmKihl) | 3:12 | 2023-01-20 |  |
 | [Brown Noise is made of this, travel the world in your sleep](https://open.spotify.com/track/4eVqgnEzgXDNBB9OJwU9S5) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Sleep Sleep Sleep](https://open.spotify.com/album/5mLxtlBQ1Yl9wZGTySvIvK) | 3:36 | 2022-01-07 | 2022-12-17 |
 | [Brown Noise Low Pass 485Hz](https://open.spotify.com/track/0dHaGTRACQLtF0isw4dY2C) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Brown Noise Low Pass 485Hz](https://open.spotify.com/album/1WRjPpx4ECJnFPlaJEFccC) | 3:20 | 2022-10-26 |  |
+| [Brown Noise Lucid](https://open.spotify.com/track/4KbRcKlj3D82khoxe84Ech) | [Trip To Jupiter](https://open.spotify.com/artist/6l9ylPMaOkRtfo28aDYNpw) | [Brown Noise Lucid](https://open.spotify.com/album/1zdhz4RzEE9LxXRmmVLf6J) | 3:05 | 2024-07-26 |  |
 | [Brown Noise Lullaby](https://open.spotify.com/track/1KDbyLh6A4kXAfjhRO4IeQ) | [Desi Eskil](https://open.spotify.com/artist/4vDXxjHGMDyOaPyUdRXfQj) | [Brown Noise Lullaby](https://open.spotify.com/album/0HuJWuYZrVd1eP3C9Y5Ye0) | 2:14 | 2023-01-20 |  |
 | [Brown Noise Lullaby](https://open.spotify.com/track/71ky6PqalRHRYxv1KZ02C6) | [Global Ambience](https://open.spotify.com/artist/1goj961rAV1i8TIFFVKUJ8) | [Ruidos](https://open.spotify.com/album/4rDnVgEagU6v4mL6siQRSu) | 4:44 | 2022-03-04 | 2022-12-17 |
 | [Brown Noise Lullaby](https://open.spotify.com/track/1V8y7X3bRwUGJjKLnyzlbl) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Brown Noise Lullaby](https://open.spotify.com/album/4EGAs1QyIqB7tsSiHRZIbu) | 3:43 | 2022-05-05 | 2023-10-27 |
@@ -145,7 +146,7 @@
 | [Brown Noise of Autumn](https://open.spotify.com/track/100AqXdj8P1efDl4Q9rfrZ) | [Wandering Decibel](https://open.spotify.com/artist/5xmx9PoyVfm1ECDJwPlvUm) | [Brown Noise of Autumn](https://open.spotify.com/album/4TS1k3kDVGRGaosv0IR8Af) | 2:31 | 2022-12-16 | 2023-03-10 |
 | [Brown Noise Relaxation](https://open.spotify.com/track/7B2NN0WqqfO2qypdg1ygss) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Steady Brown Noise](https://open.spotify.com/album/5ovoVmC46xmJ7mjb4PN0a1) | 3:17 | 2023-10-26 |  |
 | [Brown Noise Relaxation](https://open.spotify.com/track/6LGqTES8rFuDHbn0y40iGX) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise Relaxation](https://open.spotify.com/album/03sa3kRpeh8gyYEmThUstR) | 3:43 | 2022-02-03 | 2023-10-27 |
-| [Brown Noise Relief](https://open.spotify.com/track/7drH3S1l0MqDm2UVMk9tdX) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Brown Noise Relief](https://open.spotify.com/album/5EhrB9ltapNNJaYBgShoql) | 5:45 | 2024-07-26 | 2024-08-04 |
+| [Brown Noise Relief](https://open.spotify.com/track/7drH3S1l0MqDm2UVMk9tdX) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Brown Noise Relief](https://open.spotify.com/album/5EhrB9ltapNNJaYBgShoql) | 5:45 | 2024-07-26 |  |
 | [Brown Noise REM](https://open.spotify.com/track/6i0UjMkl7g9TcP7cLGyMND) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Brown Noise Deep Sleep](https://open.spotify.com/album/1TVk7P9fQqEmHbUlDkyvWj) | 3:00 | 2022-01-07 |  |
 | [Brown Noise Reset](https://open.spotify.com/track/3NjMDNACAHB65c8iUkqbPX) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Brown Noise Reset](https://open.spotify.com/album/6NIrthzAWxcgy1mYV3DQE4) | 4:58 | 2024-07-26 |  |
 | [Brown Noise Rest](https://open.spotify.com/track/0MK7bo0qZ5f26yF8P7qfxr) | [Fix Torn](https://open.spotify.com/artist/1ocPUhME4QG6jautAL8Opl) | [Subtraction of Sound](https://open.spotify.com/album/1uEigkCG7CkDhyf1xGxibC) | 3:00 | 2022-01-07 | 2023-01-21 |
@@ -250,7 +251,7 @@
 | [Dreamy Noise](https://open.spotify.com/track/0LQ3tMSpIIfRApCC7HhYIM) | [Grey Sample Library](https://open.spotify.com/artist/6FGRVDo6EaM0lzQoq1xEFG) | [Dreamy Noise](https://open.spotify.com/album/0vxNQRXmRsc77lSPNk3OPA) | 1:43 | 2022-01-07 | 2023-06-29 |
 | [Driven filter brown noise](https://open.spotify.com/track/6hKqsJicHX06lWUBSr1MV2) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:21 | 2022-06-14 |  |
 | [Earthbound Escape \- Brown Noise](https://open.spotify.com/track/71nMqDrRcA5uvnWchBrga1) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Earthbound Escape \(Brown Noise\)](https://open.spotify.com/album/3GYwh1whAzsk7uAV0bU2Gj) | 2:44 | 2023-06-28 |  |
-| [Ease into Brown Noise](https://open.spotify.com/track/5KSGNGftdNQVeVIuBo8rzh) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Ease into Brown Noise](https://open.spotify.com/album/5pHWBm5h3lVTwauigCTJtj) | 4:37 | 2024-07-26 |  |
+| [Ease into Brown Noise](https://open.spotify.com/track/5KSGNGftdNQVeVIuBo8rzh) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Ease into Brown Noise](https://open.spotify.com/album/5pHWBm5h3lVTwauigCTJtj) | 4:37 | 2024-07-26 | 2024-08-06 |
 | [Embraced & Calmed By Brown Noise](https://open.spotify.com/track/5lTrWAYysWzbXrLTHY05ZC) | [Desi Eskil](https://open.spotify.com/artist/4vDXxjHGMDyOaPyUdRXfQj) | [Embraced & Calmed By Brown Noise](https://open.spotify.com/album/1eMek1Mb8fo05hOcbrawrr) | 2:20 | 2022-10-26 |  |
 | [Embraced by Brown Noise](https://open.spotify.com/track/4NK4LdWL7OnIRmpCZUFquY) | [Wave Function](https://open.spotify.com/artist/5TmtTvTKlNSsT3zK9c1swm) | [Embraced by Brown Noise](https://open.spotify.com/album/05KL6f0GySBUFzJVPUoznh) | 3:52 | 2022-01-07 | 2022-12-17 |
 | [Endless Brown Noise](https://open.spotify.com/track/5YJBWioj7Qc7pyjlYyqBkJ) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol II](https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j) | 2:16 | 2023-10-26 |  |
@@ -306,7 +307,7 @@
 | [Natural Brown Noise](https://open.spotify.com/track/1jKLICBM8As16eSgPP1qKg) | [Lübecker](https://open.spotify.com/artist/0dnss17AER9aBUwr90XH5o) | [Woodland Brown Noise](https://open.spotify.com/album/3o6IGYg0QZtY6mm1p242fV) | 2:13 | 2023-06-28 |  |
 | [Nature Sounds & Brown Noise](https://open.spotify.com/track/69KhM6G8FxEnZfZNGoX3NP) | [Julia Sono](https://open.spotify.com/artist/7Bbr5r0eIb5k773rp7En9q) | [Brown Noise for Relaxation](https://open.spotify.com/album/1E6F6GgZyFaMDxSXgLVZ7J) | 2:39 | 2023-01-20 |  |
 | [Nighttime Brown Noise](https://open.spotify.com/track/1fFQRjliSkgx8k58BXRc1O) | [Noise Gravity](https://open.spotify.com/artist/5Qd5aYgxNuzurvHmSbHRa5) | [Nighttime Brown Noise](https://open.spotify.com/album/7bOwzgHmf9neP2ApwS6xEO) | 2:30 | 2023-10-26 |  |
-| [Nocturnal Brown Noise Melody](https://open.spotify.com/track/3hE44GysNEICR5XacMONbH) | [Construidor](https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG) | [Nocturnal Brown Noise Melody](https://open.spotify.com/album/03dCVgBuAABJaZ57apNQAM) | 2:31 | 2024-07-26 |  |
+| [Nocturnal Brown Noise Melody](https://open.spotify.com/track/3hE44GysNEICR5XacMONbH) | [Construidor](https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG) | [Nocturnal Brown Noise Melody](https://open.spotify.com/album/03dCVgBuAABJaZ57apNQAM) | 2:31 | 2024-07-26 | 2024-08-06 |
 | [Noise Bliss 200 Hz](https://open.spotify.com/track/1PIexPfZnVlmoPMqNE6Xvu) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Noise Bliss](https://open.spotify.com/album/5lT9didrhUW3Xx4OgkzbSm) | 3:26 | 2022-01-07 | 2022-12-17 |
 | [Noise Dream](https://open.spotify.com/track/7s5bkyULE2gi9UXNWOippx) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Floating Through Brown Noise](https://open.spotify.com/album/2JrmVd9VXCLeW6z3XgUYLM) | 3:10 | 2022-10-26 |  |
 | [Ocean Dark](https://open.spotify.com/track/0PpxQLCq0ZWzhrz1YxVUXD) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Ocean Dark](https://open.spotify.com/album/7qyRUKT0JWlQaYPiyU0Iad) | 3:01 | 2022-07-29 |  |

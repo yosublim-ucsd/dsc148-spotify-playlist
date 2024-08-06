@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: DON MALIK\(던말릭\)\)
 
-1,283 songs - 2 day 21 hr 34 min
+1,284 songs - 2 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [GO!](https://open.spotify.com/track/0o4SZSFkZlsDUQr4Gf0aFI) | [Kash Bang](https://open.spotify.com/artist/4Dg0FW3kt3GShHgwPbY1bj) | [GO!](https://open.spotify.com/album/5w7VDQT9SVPvOUsoZhVrNi) | 1:51 | 2022-11-07 | 2022-11-17 |
 | [Go, dude !](https://open.spotify.com/track/1YWO7jS4KEyIW8aZvHcba2) | [ChaMane](https://open.spotify.com/artist/2jyURAEr7r2UfWMpFQDOQd) | [26](https://open.spotify.com/album/4S72a69hZrCFmoPzclt3QR) | 2:28 | 2022-04-08 | 2022-04-13 |
 | [GOAT \(feat\. Basick, G2, SAN\-E\) \(Prod By\. NUOL\)](https://open.spotify.com/track/2XDC1raB8CHcTyoCN1kkHL) | [MIC SWG](https://open.spotify.com/artist/7ugTC3yB8Jqxbtiq1BX7RO), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [MIC SWG CEO 'GOAT'](https://open.spotify.com/album/03vv3RlmumxSQZOOj16bXZ) | 3:20 | 2022-01-04 | 2022-07-06 |
+| [GOAT \(feat\. MUSHVENOM, Dynamicduo\)](https://open.spotify.com/track/2NboXwD8I8N8bWovRE6yp6) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [GOAT](https://open.spotify.com/album/7aYdzmaVEOhBXtEbEt9uyi) | 3:04 | 2024-08-05 |  |
 | [GOBLIN \(Feat\. Homies\) \(Prod\. R.Tee\)](https://open.spotify.com/track/008hCrBLW4a7BbC6c6UUBL) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 3:59 | 2022-12-25 | 2023-06-14 |
 | [God Knows \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/0EIxGX6H5bsJDAJVJ0abnH) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [ESCAPE](https://open.spotify.com/album/2i6JiVgJUwNU7Zh5PEa4FU) | 2:26 | 2024-03-26 | 2024-06-05 |
 | [God's Science \- Remix](https://open.spotify.com/track/11zGLobOQ8mseZToc54RLr) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [God's Science](https://open.spotify.com/album/3GfRA7uHVRHVjt1FDHZHgd) | 3:21 | 2022-10-06 | 2023-03-01 |

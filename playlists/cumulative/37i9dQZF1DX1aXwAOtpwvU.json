@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover:  <a href=\"spotify:artist:251W9nU4osxaBuBkU9HXT3\">Jea Mira</a>",
+  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: Daniel Godson, Jea Mira, Livka, Lotta, MAJA, Zale\u015b",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -308,6 +308,28 @@
       "duration_ms": 193552,
       "name": "BIKINI GIRLIE",
       "url": "https://open.spotify.com/track/1c7I2V9oL4JdpZN514pGMo"
+    },
+    {
+      "album": {
+        "name": "brudny moncler",
+        "url": "https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        },
+        {
+          "name": "luvpill",
+          "url": "https://open.spotify.com/artist/636Sh0pcePIBMfPNjVsNO8"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105494,
+      "name": "brudny moncler",
+      "url": "https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq"
     },
     {
       "album": {
@@ -684,7 +706,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 112694,
       "name": "Diss Na Mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek"
@@ -702,7 +724,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 193843,
       "name": "Dobra Albo Z\u0142a",
       "url": "https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff"
@@ -3316,10 +3338,32 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 172564,
       "name": "Zero Calorie Cookie",
       "url": "https://open.spotify.com/track/36nKx8IoBlJhaKE42rOcjp"
+    },
+    {
+      "album": {
+        "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
+        "url": "https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        },
+        {
+          "name": "Producent Adam",
+          "url": "https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235592,
+      "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
+      "url": "https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL"
     },
     {
       "album": {
@@ -3410,6 +3454,24 @@
       "duration_ms": 194687,
       "name": "\u0141ezki",
       "url": "https://open.spotify.com/track/1wZ6X3kcv5tm7IQ1DbducM"
+    },
+    {
+      "album": {
+        "name": "\u0457 \u0439 \u0446 \u0435 \u043d \u0435 \u0442 \u0440 \u0435 \u0431 \u0430",
+        "url": "https://open.spotify.com/album/6WbyGPso7GJeBXdX42Crdf"
+      },
+      "artists": [
+        {
+          "name": "ta Ukrainka",
+          "url": "https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206134,
+      "name": "\u0457 \u0439 \u0446 \u0435 \u043d \u0435 \u0442 \u0440 \u0435 \u0431 \u0430",
+      "url": "https://open.spotify.com/track/2GvNV5Ltz43Z7IS41cw5LO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU"

@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPy/8cKbbH7w5mmUZP+jS6gnHWIAsF",
+  "snapshot_id": "AAAPzM4XRTl0h2VXU2a7IIhqNyBncD+P",
   "tracks": [
+    {
+      "added_at": "2024-08-05 14:03:31",
+      "album": {
+        "name": "I Wanna Go With Dignity",
+        "url": "https://open.spotify.com/album/5HqM5quuQo2mXWC7lRx7CH"
+      },
+      "artists": [
+        {
+          "name": "Peter Perrett",
+          "url": "https://open.spotify.com/artist/1AcMngBo2RJdnnciklA9Cx"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "I Wanna Go With Dignity",
+      "url": "https://open.spotify.com/track/3DQCq5hNiKcz4BzHsKWhJC"
+    },
     {
       "added_at": "2024-07-31 08:36:42",
       "album": {

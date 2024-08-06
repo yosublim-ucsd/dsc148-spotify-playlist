@@ -4079,6 +4079,24 @@
     },
     {
       "album": {
+        "name": "Anything for you",
+        "url": "https://open.spotify.com/album/6mOZ1ezzVVkmgWKGX6dRaG"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Sydney",
+          "url": "https://open.spotify.com/artist/2T3HsX4fhlZ8RNGqtVSZsC"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192101,
+      "name": "Anything for you",
+      "url": "https://open.spotify.com/track/2IxgTJhO6jDEPXhIJUe7Gt"
+    },
+    {
+      "album": {
         "name": "Anything You Need",
         "url": "https://open.spotify.com/album/3DpkwCMFjK7m5vsZtZNczQ"
       },
@@ -12812,7 +12830,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 216102,
       "name": "Constant",
       "url": "https://open.spotify.com/track/0UIsy5lgENBj3zMV3HgoLJ"
@@ -24662,7 +24680,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 159477,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/5u3xlOWWnaV5W4Muo9I5hl"
@@ -27400,7 +27418,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 130642,
       "name": "Homeward Bound",
       "url": "https://open.spotify.com/track/6dzmDE4Qyo37ne5J5FjQJP"
@@ -29222,7 +29240,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 210000,
       "name": "I Think I'm In Trouble",
       "url": "https://open.spotify.com/track/5FQVl5QNJuA6GMexNFxPnz"
@@ -50006,7 +50024,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 176253,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/7xfCYqHcDYJjCtC0TILAGL"
@@ -52868,7 +52886,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 158040,
       "name": "Selfish Reason",
       "url": "https://open.spotify.com/track/6kOyif50UTuJRDLGCnRi8r"
@@ -68188,6 +68206,24 @@
       "duration_ms": 224063,
       "name": "WHO?",
       "url": "https://open.spotify.com/track/1XJqqDHjq1WEQ0cL9woHib"
+    },
+    {
+      "album": {
+        "name": "They Are All Bastards Except Us",
+        "url": "https://open.spotify.com/album/7fRGfj91fIkbSQvQC0PbE4"
+      },
+      "artists": [
+        {
+          "name": "Steady Owl",
+          "url": "https://open.spotify.com/artist/2clDwSMG0PYhQFEZdSpAyh"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216847,
+      "name": "Why California",
+      "url": "https://open.spotify.com/track/2ePIrsvT5QdVgyPuoaSdfG"
     },
     {
       "album": {

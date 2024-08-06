@@ -2,7 +2,7 @@
 
 ### [This Is Vanessa Zamora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2avZ2E)
 
-> This is Vanessa Zamora\. Todos os maiores hits em uma só playlist.
+> This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
 50 songs - 2 hr 51 min
 

@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Wazir Patar
 
-109 songs - 5 hr 19 min
+110 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [HOBBIES](https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:48 | 2023-07-31 | 2024-04-19 |
 | [Hustle Evuryday](https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:46 | 2023-05-26 | 2023-07-28 |
 | [Ice](https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-07-31 |  |
+| [IDGAF M1](https://open.spotify.com/track/5GRBhy8yYd1cDcWX4g5VW0) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Mani Sidhu](https://open.spotify.com/artist/3uxMBHiw4EJoiEwCbsoYqN) | [I.D.G.A.F](https://open.spotify.com/album/5HqvriTTVPLaWfQfZykTQz) | 4:28 | 2024-08-05 |  |
 | [Infamous](https://open.spotify.com/track/4OUI0zhbSb2nGsHARHpXHF) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Infamous](https://open.spotify.com/album/2qzB2fBbECaMwqECCIJPN0) | 2:20 | 2024-04-19 | 2024-05-16 |
 | [Iran](https://open.spotify.com/track/0hKQDXkIlbY1IomBdmFiIc) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Gurkarn Chahal](https://open.spotify.com/artist/1iX2MDndFDkTdIPAic9B1z), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [Iran](https://open.spotify.com/album/3OD1CRqD1M3ATI71zxcnmQ) | 3:12 | 2023-03-18 | 2023-08-01 |
 | [Jatt Di Pasand](https://open.spotify.com/track/6Y3WQXMeooXhysUaOq7XH3) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9) | [Champion](https://open.spotify.com/album/2irCI007oISxePEdTPmxmS) | 2:30 | 2023-04-26 |  |
@@ -102,7 +103,7 @@
 | [Shehzaada](https://open.spotify.com/track/67FzTBM17XHL8cDHMxxnom) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [NAAZ](https://open.spotify.com/artist/72PtZluO8R8nEvd36geyyo) | [Shehzaada](https://open.spotify.com/album/0jClMwcSRCzW2CpZMl0uUs) | 2:55 | 2024-04-12 | 2024-05-16 |
 | [Speedin](https://open.spotify.com/track/5VimYNGccxbDBktl7aNRCS) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M) | [Speedin](https://open.spotify.com/album/5rytu6XDOtK6JMBK1NmHWi) | 2:21 | 2023-10-11 |  |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-05-26 |  |
-| [Swing](https://open.spotify.com/track/0hK7JnRaiYq1Mc5L3zX0t3) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Al Bamania](https://open.spotify.com/artist/4pyPB6M72hmPH7Ec3LGVap) | [Colonial Mindset](https://open.spotify.com/album/3p0Bw5SSaU6CJtRr4CqmJ5) | 4:48 | 2024-06-17 |  |
+| [Swing](https://open.spotify.com/track/0hK7JnRaiYq1Mc5L3zX0t3) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Al Bamania](https://open.spotify.com/artist/4pyPB6M72hmPH7Ec3LGVap) | [Colonial Mindset](https://open.spotify.com/album/3p0Bw5SSaU6CJtRr4CqmJ5) | 4:48 | 2024-06-17 | 2024-08-06 |
 | [SWITCHIN' LANES](https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [SWITCHIN' LANES](https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl) | 2:12 | 2023-05-26 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-05-26 |  |
 | [To The Warrior](https://open.spotify.com/track/1PKw4Fu5uMCPg16fELm9Iw) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Jxgga](https://open.spotify.com/artist/5veJyCRf8zRVcbfctEBoNA) | [To The Warrior](https://open.spotify.com/album/3reOnoEISEFMSSkMBfvWFR) | 3:02 | 2023-03-18 | 2023-04-27 |

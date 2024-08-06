@@ -602,6 +602,28 @@
     {
       "album": {
         "name": "Bitrate Love",
+        "url": "https://open.spotify.com/album/13C5yZchL3RPSo1BksSBU2"
+      },
+      "artists": [
+        {
+          "name": "Love X Stereo",
+          "url": "https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp"
+        },
+        {
+          "name": "X-RL7",
+          "url": "https://open.spotify.com/artist/3oWmlF6uj2WV0m5XjovrZi"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260497,
+      "name": "Bitrate Love",
+      "url": "https://open.spotify.com/track/4RDgG8BOzRjRH1sCmspYZG"
+    },
+    {
+      "album": {
+        "name": "Bitrate Love",
         "url": "https://open.spotify.com/album/142xRWHdQLsg8y6pwaGDEo"
       },
       "artists": [

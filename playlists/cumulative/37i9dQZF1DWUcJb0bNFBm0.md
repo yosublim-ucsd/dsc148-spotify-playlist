@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️ \(Cover:  Drizzly\)
 
-105 songs - 7 hr 42 min
+107 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,9 +98,11 @@
 | [Summertime Has Come](https://open.spotify.com/track/5mUmvuw7jUcSYwa7NiGcxT) | [Lucys Meet Dopamine](https://open.spotify.com/artist/5MLCXwFSeVrl4A1aE1Z9F5) | [25​\-​35​°​C](https://open.spotify.com/album/1jo7RgR3mTETN56hjaFW9B) | 6:15 | 2024-06-27 |  |
 | [Tawdry Clip](https://open.spotify.com/track/2JV2ut3HQ7y03WKSZQpqnN) | [Manic Sheep](https://open.spotify.com/artist/6JXdjqMVpq61fvihemTbfI) | [Morning Fragment](https://open.spotify.com/album/5kojgQgmj165AIeqoJb1ow) | 3:13 | 2024-06-27 |  |
 | [The End \(Reprise\)](https://open.spotify.com/track/0dAei4tlI5toTGOfXiUHze) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [The End \(Reprise\)](https://open.spotify.com/album/4pdPfhXp77ji8oiY22U9tz) | 4:16 | 2024-06-27 |  |
+| [The River Runs slowly](https://open.spotify.com/track/085Fu95fvjitPSEyIPJcmg) | [Ferri\-Chrome](https://open.spotify.com/artist/1mQTu2sdvPrgwujzkfnpJy) | [The River Runs slowly](https://open.spotify.com/album/13XlfaVHqb3EztJyk9kFnT) | 2:38 | 2024-08-05 |  |
 | [The Sun Is In Our Eyes](https://open.spotify.com/track/0htL9fhtoeL1XMFi3mnSTm) | [UJU](https://open.spotify.com/artist/2rc8Sz5mhQYrNg9xkoYlMI) | [The Sun Is In Our Eyes](https://open.spotify.com/album/62KE5bmBpoqYtkLQYMkFJh) | 6:47 | 2024-06-27 |  |
 | [To My Love](https://open.spotify.com/track/3V6rl1l7hJT3u3NVN0g1UU) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/594eWfeyQ02c9MLYI9iLuK) | [Tears in Rain（就像泪水消逝在雨中）](https://open.spotify.com/album/6nlLIph5HfbYSJ9UquhqVM) | 4:36 | 2024-06-27 |  |
 | [UMA](https://open.spotify.com/track/2qZiHuLxK7jhLrVL5Jwf3C) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [wellwell](https://open.spotify.com/album/2cLFAGnUKisFEgjp0JVNY0) | 2:57 | 2024-06-27 |  |
+| [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/track/2zAPVUH3KupXkv2IoTkGYY) | [The Wallflower Dept.](https://open.spotify.com/artist/1ykM1fXFLT1d83l7OAw1Yv), [Ananda Yala](https://open.spotify.com/artist/79gwnl8jXCn78lRxTGD0wL) | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/album/2am7oyB1E4rdwVzMSWiohy) | 4:11 | 2024-08-05 |  |
 | [We Shine at Night](https://open.spotify.com/track/30UtvytdKLQjvLZesEaR3v) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/4PbTT54u3bIOnYKjOIvn5c) | 6:27 | 2024-06-27 |  |
 | [Whale blows rainbow](https://open.spotify.com/track/56CUFtGxKjUpOLmU9qxy5O) | [Tyrell](https://open.spotify.com/artist/6TjVmU32VkhCqd3kbqQ0jg) | [Whale blows rainbow](https://open.spotify.com/album/0blsoeRWMeUWMlFt3O7pNN) | 6:06 | 2024-06-27 |  |
 | [Why](https://open.spotify.com/track/2nKWmGyL3h8xu6dlsD7CB7) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Coming Up Roses](https://open.spotify.com/album/2r3PtUTGT3h6QmnrDSJo6X) | 5:51 | 2024-06-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158165,
+  "num_followers": 158164,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 198260,
       "name": "Cupido Querido",
       "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -771,30 +771,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Original MTK #2 - Se Voc\u00ea Vier",
-        "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
-      },
-      "artists": [
-        {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
-        },
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 264547,
-      "name": "Original MTK #2 - Se Voc\u00ea Vier",
-      "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "Alta Defini\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 123380,
       "name": "Alta Defini\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Original MTK #2 - Se Voc\u00ea Vier",
+        "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
+      },
+      "artists": [
+        {
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+        },
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 264547,
+      "name": "Original MTK #2 - Se Voc\u00ea Vier",
+      "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "Minha Mina \u00e9 Braba",
+        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Minha Mina \u00e9 Braba",
+      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "Sua Boca",
         "url": "https://open.spotify.com/album/713CT4lO8XlIET42xTkGfd"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 147692,
       "name": "Sua Boca",
       "url": "https://open.spotify.com/track/6uQBN4yMHx5RylUXXrEnfg"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "Minha Mina \u00e9 Braba",
-        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Minha Mina \u00e9 Braba",
-      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "De F\u00e9rias Com O WEY",
-        "url": "https://open.spotify.com/album/7jXxwDkJ5f63wjRuXI8d2A"
-      },
-      "artists": [
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Class A",
-          "url": "https://open.spotify.com/artist/65ZLHgyZxmEMcWFyyeNkjF"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "De F\u00e9rias Com O WEY",
-      "url": "https://open.spotify.com/track/44gLlJcTjyTRJ2KFip1I6r"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 197067,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "De F\u00e9rias Com O WEY",
+        "url": "https://open.spotify.com/album/7jXxwDkJ5f63wjRuXI8d2A"
+      },
+      "artists": [
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Class A",
+          "url": "https://open.spotify.com/artist/65ZLHgyZxmEMcWFyyeNkjF"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "De F\u00e9rias Com O WEY",
+      "url": "https://open.spotify.com/track/44gLlJcTjyTRJ2KFip1I6r"
     },
     {
       "added_at": "2024-07-26 03:03:00",

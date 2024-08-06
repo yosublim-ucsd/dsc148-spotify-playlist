@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 25862,
+  "num_followers": 25925,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqrQAAAAAADo0x6b+qETfTkDiXrjcXDI",
+  "snapshot_id": "Zq7EgAAAAACavgAzY3LXbtnRgKPxsa67",
   "tracks": [
     {
       "added_at": null,
@@ -350,15 +350,11 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 127971,
-      "name": "Paranoid (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/2l48XirhkqQ5qRqtwItNXn"
+      "duration_ms": 148760,
+      "name": "i need u",
+      "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
     },
     {
       "added_at": null,
@@ -422,11 +418,15 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 148760,
-      "name": "i need u",
-      "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
+      "duration_ms": 127971,
+      "name": "Paranoid (feat. Destroy Lonely)",
+      "url": "https://open.spotify.com/track/2l48XirhkqQ5qRqtwItNXn"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 110926,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/7cI7i7fXPWFvRf9l4eBGHX"
+      "duration_ms": 84324,
+      "name": "Fuk 12",
+      "url": "https://open.spotify.com/track/0VhL5q6JhQdD2kmbMbK0cj"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 84324,
-      "name": "Fuk 12",
-      "url": "https://open.spotify.com/track/0VhL5q6JhQdD2kmbMbK0cj"
+      "duration_ms": 110926,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/7cI7i7fXPWFvRf9l4eBGHX"
     },
     {
       "added_at": null,

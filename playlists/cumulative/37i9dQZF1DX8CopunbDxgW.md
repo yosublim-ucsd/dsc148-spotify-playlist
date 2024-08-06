@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: TOKiMONSTA
 
-1,422 songs - 3 day 16 hr 43 min
+1,423 songs - 3 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [After The Storm \(feat\. Tyler, The Creator & Bootsy Collins\)](https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:27 | 2024-04-26 | 2024-05-11 |
 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 | 2022-09-17 | 2022-10-06 |
 | [Afterimage](https://open.spotify.com/track/4IsbtqsROVspyi7kzh3Vkx) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:05 | 2024-04-26 | 2024-05-11 |
-| [afterparty](https://open.spotify.com/track/5Yqv4XWZq1w2ECf9zLuven) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [afterparty](https://open.spotify.com/album/0pFg1h3Hq9kIdOBVhMhwM5) | 2:16 | 2024-06-07 |  |
+| [afterparty](https://open.spotify.com/track/5Yqv4XWZq1w2ECf9zLuven) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [afterparty](https://open.spotify.com/album/0pFg1h3Hq9kIdOBVhMhwM5) | 2:16 | 2024-06-07 | 2024-08-06 |
 | [again, but colder](https://open.spotify.com/track/3XpROG821mTe8QLA8FSueT) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [again, but colder](https://open.spotify.com/album/3qWsjSFljhSeeqQoUgkx01) | 4:38 | 2023-01-06 | 2023-02-25 |
 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 | 2022-01-14 | 2022-01-29 |
 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 | 2024-06-07 |  |
@@ -235,6 +235,7 @@
 | [Change](https://open.spotify.com/track/6dMZduF6Qs2WiSzQs7gqk5) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Change](https://open.spotify.com/album/6h4CKrhhFHdF6ElBeF3hgE) | 3:09 | 2022-09-17 | 2022-10-06 |
 | [Changed for the Better](https://open.spotify.com/track/3XMcylC5T7qYdmg5bMcbiD) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Changed for the Better](https://open.spotify.com/album/64VdxjQutKxcZPpqxrsNrV) | 5:46 | 2021-10-01 | 2022-07-11 |
 | [Changes](https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Changes](https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk) | 3:38 | 2024-04-05 | 2024-06-22 |
+| [Chasing a Comfort](https://open.spotify.com/track/4YHAfaaYdCdcvwhOD9YcOG) | [16 Underground](https://open.spotify.com/artist/5Cs7NKdiqiINBKZnYWrBqS) | [Chasing a Comfort](https://open.spotify.com/album/373EmkGUoO2bHobyeR2RuA) | 3:35 | 2024-08-05 |  |
 | [Check up Your Head](https://open.spotify.com/track/65hmRaQv17S8tWAHfYuX90) | [Mukhtar Ramadan Idii](https://open.spotify.com/artist/4mt9SVke7R8iOlXMdNcX7B) | [Mogadisco \- Dancing Mogadishu \(Somalia 1972 \- 1991\) \[Analog Africa No.29\]](https://open.spotify.com/album/267SehTmD0zRYQJtZo9JL7) | 5:50 | 2022-01-28 | 2022-02-12 |
 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 | 2021-06-11 | 2022-04-21 |
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-21 |  |

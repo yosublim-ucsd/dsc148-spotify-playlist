@@ -1,13 +1,29 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 16344,
+  "num_followers": 16348,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqrQAAAAAABPqw+oHiFinWveMA4ML/V3",
+  "snapshot_id": "Zq7EgAAAAAAZpYQP2902LGbD28F1xyGf",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Outback Club",
+        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "Boys from the Bush - Remastered 2017",
+      "url": "https://open.spotify.com/track/5tUpijqpFAlj13CGpuWn5s"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 204000,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/6G5tFKEf5pcWwV4frnavIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Outback Club",
-        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "Boys from the Bush - Remastered 2017",
-      "url": "https://open.spotify.com/track/5tUpijqpFAlj13CGpuWn5s"
     },
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Outback Club",
+        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "High Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/0xunCI8zIlFHAWY4Qe0NOy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 182308,
       "name": "Damn Good Mates",
       "url": "https://open.spotify.com/track/2NrD87AMr1AuvjqM1R1Zjq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Outback Club",
-        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "High Country - Remastered 2017",
-      "url": "https://open.spotify.com/track/0xunCI8zIlFHAWY4Qe0NOy"
     },
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 254173,
+      "name": "Three Chain Road - Remastered 2017",
+      "url": "https://open.spotify.com/track/1G84cb9RM32J4EdOcS7w6F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirit of the Anzacs",
         "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 233293,
       "name": "Spirit of the Anzacs",
       "url": "https://open.spotify.com/track/2gxV3aK7K1RYZ50rQkfqpl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Three Chain Road - Remastered 2017",
-      "url": "https://open.spotify.com/track/1G84cb9RM32J4EdOcS7w6F"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Ute Me",
-      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backroad Nation",
         "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 169875,
       "name": "Keep on Truckin'",
       "url": "https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Ute Me",
+      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "Electric Rodeo - Remastered 2017",
-      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spirit of the Anzacs",
         "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 203746,
       "name": "We'll Take Beersheba",
       "url": "https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Electric Rodeo - Remastered 2017",
+      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
     },
     {
       "added_at": null,
@@ -823,30 +823,6 @@
       "duration_ms": 194133,
       "name": "Country Girls - Remastered 2017",
       "url": "https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Together",
-        "url": "https://open.spotify.com/album/7HFk0vESWMLtK7SAa6W7gz"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "Mitch Tambo",
-          "url": "https://open.spotify.com/artist/4lZDozMc6MjVYp3DVzaT0W"
-        },
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 251463,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd"
     },
     {
       "added_at": null,
@@ -891,18 +867,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/7HFk0vESWMLtK7SAa6W7gz"
       },
       "artists": [
         {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Mitch Tambo",
+          "url": "https://open.spotify.com/artist/4lZDozMc6MjVYp3DVzaT0W"
+        },
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
         }
       ],
-      "duration_ms": 200026,
-      "name": "Dirt - Remastered 2017",
-      "url": "https://open.spotify.com/track/6OOSAy1vCO08b3m5MjfHxo"
+      "duration_ms": 251463,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd"
     }
   ],
   "unique_name": "This Is Lee Kernaghan",

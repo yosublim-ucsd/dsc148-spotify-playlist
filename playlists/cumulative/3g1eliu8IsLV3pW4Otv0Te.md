@@ -4,7 +4,7 @@
 
 > 
 
-217 songs - 14 hr 51 min
+218 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Innocence](https://open.spotify.com/track/1HoV86Z02IGN7GMdcfVyGh) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality](https://open.spotify.com/album/7mLdDLzH8tMpan5Xi8tzB3) | 5:08 | 2017-03-18 |  |
 | [Innocent Discretion \- Original Mix](https://open.spotify.com/track/0NYWgUofAkxld6mWyMc5EM) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Born](https://open.spotify.com/album/1SOzgV3thGeetKorY0IxvG) | 4:44 | 2016-01-14 |  |
 | [Iron Heart](https://open.spotify.com/track/2JK083CksL35hs6SRfMdVv) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Netsky](https://open.spotify.com/album/5i90ZRThEcUxoiq9ihDeFA) | 5:56 | 2016-10-05 |  |
+| [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 | 2024-08-05 |  |
 | [Know It](https://open.spotify.com/track/6dQ170Bg6FaHi3ilsiXd6O) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Know It](https://open.spotify.com/album/60Clyibeblhuag7qsma9Yt) | 4:59 | 2019-09-14 |  |
 | [Last Jungle](https://open.spotify.com/track/2kDVDefTovXooa3OiLRR4H) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Sub Focus](https://open.spotify.com/album/0nNtBtAH2wMXoWh1tjThzS) | 3:39 | 2016-01-27 |  |
 | [Lava Lamp](https://open.spotify.com/track/4W64l7GktcWRZhQWHDoKaF) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Songs4u](https://open.spotify.com/album/2qNtWJtvAT9fZ77NntmnLi) | 5:08 | 2019-04-07 |  |

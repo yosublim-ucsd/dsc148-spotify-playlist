@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 220039,
+  "num_followers": 220139,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-25 16:06:27",
       "album": {
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "Pyrophobia",
+      "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
+    },
+    {
+      "added_at": "2024-07-25 16:06:27",
+      "album": {
         "name": "Wild (bullet tooth Remix)",
         "url": "https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 160000,
       "name": "Eyes On You - Burt Cope Remix",
       "url": "https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5"
-    },
-    {
-      "added_at": "2024-07-25 16:06:27",
-      "album": {
-        "name": "1:M",
-        "url": "https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "Pyrophobia",
-      "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
     },
     {
       "added_at": "2024-07-25 16:06:27",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2024-07-25 16:06:27",
       "album": {
+        "name": "Skanker",
+        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 227189,
+      "name": "Skanker",
+      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
+    },
+    {
+      "added_at": "2024-07-25 16:06:27",
+      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 118500,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp"
-    },
-    {
-      "added_at": "2024-07-25 16:06:27",
-      "album": {
-        "name": "Skanker",
-        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 227189,
-      "name": "Skanker",
-      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
     },
     {
       "added_at": "2024-07-25 16:06:27",

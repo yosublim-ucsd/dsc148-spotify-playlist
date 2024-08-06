@@ -1,12 +1,12 @@
 {
-  "description": "This Is Heroes Del Silencio. Los temas esenciales, todos en una lista.",
-  "num_followers": 189530,
+  "description": "This is Heroes Del Silencio. The essential tracks, all in one playlist.",
+  "num_followers": 189570,
   "original_name": "This Is Heroes Del Silencio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqrQAAAAAADQetO6WQHItTDslNNWBVU6",
+  "snapshot_id": "Zq7EgAAAAAAJ2d/ObNpcN6pXoAkrujRV",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 256546,
-      "name": "Con nombre de guerra",
-      "url": "https://open.spotify.com/track/2W0SOlPRDSxLLbMNR9tR7P"
+      "duration_ms": 248586,
+      "name": "Oraci\u00f3n",
+      "url": "https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 248586,
-      "name": "Oraci\u00f3n",
-      "url": "https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v"
+      "duration_ms": 256546,
+      "name": "Con nombre de guerra",
+      "url": "https://open.spotify.com/track/2W0SOlPRDSxLLbMNR9tR7P"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Esp\u00edritu del Vino-20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 36480,
-      "name": "Bendecida 2 - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/4J0HROC9pT8Wdahp2M6gHO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Senderos De Traici\u00f3n",
         "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 256253,
       "name": "Decadencia",
       "url": "https://open.spotify.com/track/5Uqw9M6tKMWka2pmMcWGoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Esp\u00edritu del Vino-20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 36480,
+      "name": "Bendecida 2 - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/4J0HROC9pT8Wdahp2M6gHO"
     },
     {
       "added_at": null,

@@ -5027,6 +5027,32 @@
     },
     {
       "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/2IKEb71soGBPtjKPwYtlkZ"
+      },
+      "artists": [
+        {
+          "name": "Kabir",
+          "url": "https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        },
+        {
+          "name": "SARRB",
+          "url": "https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Gallan Gallan",
+      "url": "https://open.spotify.com/track/0Sac6X0T2ptyr5U3sU5ayS"
+    },
+    {
+      "album": {
         "name": "Gallan Hor Hogiyan",
         "url": "https://open.spotify.com/album/1b6XCdTsom33SS8738IPw1"
       },
@@ -7676,6 +7702,10 @@
         {
           "name": "Garry Sandhu",
           "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "Daddy Beats",
+          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
         }
       ],
       "date_added": "2024-07-04",
@@ -10183,6 +10213,32 @@
     },
     {
       "album": {
+        "name": "Mombattiye",
+        "url": "https://open.spotify.com/album/590RLFrfBBcRJyZyeqvt5R"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185113,
+      "name": "Mombattiye",
+      "url": "https://open.spotify.com/track/3svJaCD1g4aeQOXGc1aOIB"
+    },
+    {
+      "album": {
         "name": "VIP",
         "url": "https://open.spotify.com/album/6rzd1ct61FJBCt9YkyJ8L3"
       },
@@ -10238,7 +10294,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 174056,
       "name": "Moon Rise",
       "url": "https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"
@@ -10862,7 +10918,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 139756,
       "name": "Nawa Nawa Pyaar",
       "url": "https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT"
@@ -14622,7 +14678,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 240638,
       "name": "Snow",
       "url": "https://open.spotify.com/track/1e5fDJPeNbiqkdbD2WIa9l"

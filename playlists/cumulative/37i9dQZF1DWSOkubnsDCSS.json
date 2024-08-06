@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keeping it 140 - Welcome to Grime Shutdown. Cover: Bashy",
+  "description": "Keeping it 140 - Welcome to Grime Shutdown. Cover: Milli Major",
   "name": "Grime Shutdown",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 196521,
       "name": "Always Gonna Be",
       "url": "https://open.spotify.com/track/7EsILPpr2EFjs63rf8Emmd"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 198857,
       "name": "Beats n Bass - Remix",
       "url": "https://open.spotify.com/track/3TYZ9NkJ4kesVhbK8SDn1N"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 221035,
       "name": "Boiling Point",
       "url": "https://open.spotify.com/track/0z02GgxKHHvIGKPPOE3QDZ"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 245142,
       "name": "Cammy Riddim Freestyle",
       "url": "https://open.spotify.com/track/1L6ZvIrNlBiFDaElEM3WdU"
@@ -898,6 +898,28 @@
       "duration_ms": 122906,
       "name": "Cash Beat AKA : Hoods Up Dub",
       "url": "https://open.spotify.com/track/0VWdSKQpWWYvwzu178BRpN"
+    },
+    {
+      "album": {
+        "name": "CHARIZARD",
+        "url": "https://open.spotify.com/album/3gRuMKrtdrDTJDPfFhPVB9"
+      },
+      "artists": [
+        {
+          "name": "Double Cup Kase",
+          "url": "https://open.spotify.com/artist/1kD83KEyxS4fpDNe8YpDH8"
+        },
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145040,
+      "name": "CHARIZARD",
+      "url": "https://open.spotify.com/track/6jOETi0FEcQY7mjQWZFWWg"
     },
     {
       "album": {
@@ -1036,6 +1058,28 @@
       "duration_ms": 139553,
       "name": "Close the App - Starkey Remix",
       "url": "https://open.spotify.com/track/3qQP2Nk7mqp5bl1t5LuhZ2"
+    },
+    {
+      "album": {
+        "name": "Come Again",
+        "url": "https://open.spotify.com/album/1bAbj2k4gBBfusTFikGQl5"
+      },
+      "artists": [
+        {
+          "name": "Rosco",
+          "url": "https://open.spotify.com/artist/2AnDtvWeSMfOqUpEk5hsOL"
+        },
+        {
+          "name": "Jonez",
+          "url": "https://open.spotify.com/artist/776fXbzQFLtgNIfvn8zeBz"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185267,
+      "name": "Come Again",
+      "url": "https://open.spotify.com/track/5E3y87coOdFtvI6ybEwnib"
     },
     {
       "album": {
@@ -1470,7 +1514,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 165300,
       "name": "DON'T TRY IT",
       "url": "https://open.spotify.com/track/5Vzjh1O4SB35pft5a1id0T"
@@ -1536,7 +1580,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 183000,
       "name": "Dumping Again",
       "url": "https://open.spotify.com/track/6bWVnf258N4eOn1NcOZFhs"
@@ -1875,6 +1919,32 @@
     },
     {
       "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH"
+      },
+      "artists": [
+        {
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Ashdunn",
+          "url": "https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118500,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp"
+    },
+    {
+      "album": {
         "name": "GOD KNOWS",
         "url": "https://open.spotify.com/album/2lc2VYm7mforIYnectYNk4"
       },
@@ -2179,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "Conspiracy",
+        "url": "https://open.spotify.com/album/65XXxc3YGVnclvdYKtotNG"
+      },
+      "artists": [
+        {
+          "name": "Remtrex",
+          "url": "https://open.spotify.com/artist/0abVZCup4kYtE8U0i5PsS3"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Its a Rap 2",
+      "url": "https://open.spotify.com/track/2dwgGniEnUHlPLJzkqNwdW"
+    },
+    {
+      "album": {
         "name": "Jeepers Creepers",
         "url": "https://open.spotify.com/album/5N1G5NBsjKu4oXih9KKc7m"
       },
@@ -2377,6 +2465,28 @@
     },
     {
       "album": {
+        "name": "LEON EDWARDS",
+        "url": "https://open.spotify.com/album/6YdwT2IMPVAuE3sVYySrvO"
+      },
+      "artists": [
+        {
+          "name": "Snowy",
+          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
+        },
+        {
+          "name": "LVNDLXRD",
+          "url": "https://open.spotify.com/artist/6ltVHi7uze6uEEZE9e8sLm"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "LEON EDWARDS",
+      "url": "https://open.spotify.com/track/3pLWehzDdINjIRI6Q9oJ70"
+    },
+    {
+      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/6aUJNPzVUAycX1hMlQVjT9"
       },
@@ -2396,7 +2506,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 145352,
       "name": "Levels",
       "url": "https://open.spotify.com/track/735ygF8cN388FC1TjjuSDP"
@@ -2606,7 +2716,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 168785,
       "name": "Man Like Me",
       "url": "https://open.spotify.com/track/3StmhrzmoP8jegyTWZQrQj"
@@ -2714,7 +2824,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 214144,
       "name": "Megazord",
       "url": "https://open.spotify.com/track/2V529vFkZRVIWBnklvs8Er"
@@ -2867,6 +2977,46 @@
     },
     {
       "album": {
+        "name": "No Going Back",
+        "url": "https://open.spotify.com/album/2ojKDtVXC3Uusb2wsbeJzt"
+      },
+      "artists": [
+        {
+          "name": "Filthy Gears",
+          "url": "https://open.spotify.com/artist/6VHpNCZP4DSe3gIoP2UtXn"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168002,
+      "name": "Mystic Energy",
+      "url": "https://open.spotify.com/track/5p4om819mf9vIQTkrUQ9xs"
+    },
+    {
+      "album": {
+        "name": "MYWAY!",
+        "url": "https://open.spotify.com/album/3USj0rjqh6CTWXY7rvD5Aq"
+      },
+      "artists": [
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        },
+        {
+          "name": "KayFaraway",
+          "url": "https://open.spotify.com/artist/0PJuk7yyhWqoTAQv0Dcw4w"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "MYWAY!",
+      "url": "https://open.spotify.com/track/7vYQzHVUT3Q6GSOk43bMvE"
+    },
+    {
+      "album": {
         "name": "Sickers the Great",
         "url": "https://open.spotify.com/album/3KJ0X6kMxWFavb2uF4XsTx"
       },
@@ -2934,6 +3084,24 @@
       "duration_ms": 238446,
       "name": "Never Invited [Mellow Mix]",
       "url": "https://open.spotify.com/track/2aqCm6NgvyjX9bkeXM5vO8"
+    },
+    {
+      "album": {
+        "name": "Next Up",
+        "url": "https://open.spotify.com/album/5TZb3zas10LuP4lVseelGC"
+      },
+      "artists": [
+        {
+          "name": "Armor",
+          "url": "https://open.spotify.com/artist/31crJgldrNa8a6numu05ZI"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Next Up",
+      "url": "https://open.spotify.com/track/5nDKhAw9vd74WBPX59qSaF"
     },
     {
       "album": {
@@ -3318,7 +3486,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 169000,
       "name": "PROPER",
       "url": "https://open.spotify.com/track/2j6jgbIAMXMDAFVdTXC5rp"
@@ -3396,6 +3564,50 @@
       "duration_ms": 153065,
       "name": "Rambunctious",
       "url": "https://open.spotify.com/track/4ydjedF1eYBuQFP6RuMrJU"
+    },
+    {
+      "album": {
+        "name": "RAVERS",
+        "url": "https://open.spotify.com/album/5NHnOQSE4T8ta7faScWQUm"
+      },
+      "artists": [
+        {
+          "name": "Sudi",
+          "url": "https://open.spotify.com/artist/0G5SEIqYrEqJMM7vuhrDGT"
+        },
+        {
+          "name": "NJRG\u00c9",
+          "url": "https://open.spotify.com/artist/0aECqAArCR7KYcDT7POLwb"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "RAVERS",
+      "url": "https://open.spotify.com/track/3RHQgyAwmc1P9qU0d8VZfv"
+    },
+    {
+      "album": {
+        "name": "Ready And Live - Deft Remix",
+        "url": "https://open.spotify.com/album/5I7ayAbyODieyQq0UvEeRQ"
+      },
+      "artists": [
+        {
+          "name": "Kruz Leone",
+          "url": "https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC"
+        },
+        {
+          "name": "Deft",
+          "url": "https://open.spotify.com/artist/43qPWPlDL5noyuCJKPKm6N"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162642,
+      "name": "Ready And Live - Deft Remix",
+      "url": "https://open.spotify.com/track/7EgR3DZr5h9iMQloTofJ2i"
     },
     {
       "album": {
@@ -3634,6 +3846,24 @@
       "duration_ms": 202515,
       "name": "Shade",
       "url": "https://open.spotify.com/track/1X1nYXRCRr4trswoE8uGhY"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6answDiA4mR0w78AjSoF5w"
+      },
+      "artists": [
+        {
+          "name": "Trillary Banks",
+          "url": "https://open.spotify.com/artist/6WX6lXXKTBrmL9kqVTztfY"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133014,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/4F9E4UkHzsqmYqdUMtrs2b"
     },
     {
       "album": {
@@ -3994,7 +4224,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 180000,
       "name": "Streets of Rage",
       "url": "https://open.spotify.com/track/1tTJgYvbI8x5ez0689qsUL"
@@ -4601,6 +4831,28 @@
     },
     {
       "album": {
+        "name": "WHAT YOU TELLING ME?",
+        "url": "https://open.spotify.com/album/7HmHfUG2YynjuSGtYE2f6G"
+      },
+      "artists": [
+        {
+          "name": "Chowerman",
+          "url": "https://open.spotify.com/artist/1h0juH599bpb0qZ8mnb6Zf"
+        },
+        {
+          "name": "Scrapper",
+          "url": "https://open.spotify.com/artist/2XAFqteLbJUmIJGmvAv6TT"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144324,
+      "name": "WHAT YOU TELLING ME?",
+      "url": "https://open.spotify.com/track/1Oc4RKCg2zVyjWOp5d5JWm"
+    },
+    {
+      "album": {
         "name": "Who's Dat",
         "url": "https://open.spotify.com/album/0MGkbQoFvtVeJkfTcmojn3"
       },
@@ -4698,7 +4950,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 155124,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/52aUPdSO9GbTmcLxGiSTnE"

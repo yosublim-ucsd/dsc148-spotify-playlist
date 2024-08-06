@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-169 songs - 15 hr 19 min
+170 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Ek Purana Mausam Lauta](https://open.spotify.com/track/1F3BM9e09myeUXSyj5czjr) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 6:16 | 2023-09-14 |  |
 | [Faasla Is Kadar](https://open.spotify.com/track/4JgzQJSWLRfKVCbnozPHB8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Zikr](https://open.spotify.com/album/2gQgk1hyNCIgaeOu4OSCZz) | 5:58 | 2021-12-01 | 2023-04-19 |
 | [Gham Chhedta Hai](https://open.spotify.com/track/5BG5xBHUxHSPv1sFzHB3tF) | [Mousumi Roy](https://open.spotify.com/artist/0vlmWDuZJ7LXD3QfJyJik8) | [Gham Chhedta Hai](https://open.spotify.com/album/7qApiKJqDmDt2I5KpNXtOR) | 6:15 | 2024-04-18 |  |
+| [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/track/36BebCxEorH48pRfeaDbbJ) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10), [Avinash Gupta](https://open.spotify.com/artist/3uhuJ2D7s3DFpvhmNSo8G7) | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/album/4onM7jTtsueZcSn5zD768G) | 3:48 | 2024-08-05 |  |
 | [Gulzar Speaks \- Khwab](https://open.spotify.com/track/33IlpTp09vVa3VSTm4A5ol) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 1:03 | 2023-09-14 |  |
 | [Gulzar Speaks \- Tarkieb](https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 0:46 | 2023-09-14 |  |
 | [Gum si meri Parchhayi](https://open.spotify.com/track/2onUkx3QJFXINeiBSGSGQR) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Gum Si Meri Parchhayi](https://open.spotify.com/album/2AeIh4w4O0pUMy7ksBjzUR) | 4:58 | 2023-09-15 | 2024-03-06 |

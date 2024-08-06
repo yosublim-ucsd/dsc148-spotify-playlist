@@ -8011,6 +8011,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Go With Dignity",
+        "url": "https://open.spotify.com/album/5HqM5quuQo2mXWC7lRx7CH"
+      },
+      "artists": [
+        {
+          "name": "Peter Perrett",
+          "url": "https://open.spotify.com/artist/1AcMngBo2RJdnnciklA9Cx"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "I Wanna Go With Dignity",
+      "url": "https://open.spotify.com/track/3DQCq5hNiKcz4BzHsKWhJC"
+    },
+    {
+      "album": {
         "name": "That Golden Time",
         "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
       },

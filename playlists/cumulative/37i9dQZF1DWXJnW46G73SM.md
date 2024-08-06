@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: شارموفرز
 
-1,086 songs - 2 day 12 hr 56 min
+1,087 songs - 2 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [3Yat El Roh](https://open.spotify.com/track/2gqjxXy3QApWAnsnOiDefX) | [Esaf](https://open.spotify.com/artist/0nwERAZbDOU5tAEW9QdbVl) | [3Yat El Roh](https://open.spotify.com/album/0UmMhPev1Q8QtTW3OhHFt5) | 3:40 | 2024-01-11 | 2024-02-10 |
 | [3YUN](https://open.spotify.com/track/3ccOgc5CTi7ojPMFEhjj4i) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh) | [3YUN](https://open.spotify.com/album/4ooVsSAZab7GwCi98j6w3j) | 2:52 | 2024-05-30 | 2024-07-19 |
 | [7 PM](https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/2dFBkn85KWOQ2JwcPuJtt2) | 2:36 | 2023-05-10 | 2023-06-28 |
+| [7agara Wara2a M2as](https://open.spotify.com/track/3UGfqoXhpu8QKyGEdcO6Vq) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [7agara Wara2a M2as](https://open.spotify.com/album/1dOV6WNImrm5N5MD8xa43J) | 4:10 | 2024-08-05 |  |
 | [7ALA](https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7ALA](https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn) | 3:01 | 2023-01-03 | 2023-02-17 |
 | [7eneely](https://open.spotify.com/track/0fwo1BAS6r2Ktn2Hl31JDL) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [7eneely](https://open.spotify.com/album/1bqyHkdwTZYoxJYPaCoaqC) | 2:21 | 2022-08-22 | 2022-11-11 |
 | [A'al Hady](https://open.spotify.com/track/5A0UZewaFMomZezPF9ueqS) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [A'al Hady](https://open.spotify.com/album/7yrfJY21d4aleDkGyiTHsz) | 3:13 | 2022-08-23 | 2022-11-18 |
@@ -989,7 +990,7 @@
 | [كلمة سلام](https://open.spotify.com/track/6Uf9GESDYUb6PaFKb0X6b7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [كلمة سلام](https://open.spotify.com/album/0i5uZH5qa0vmNWlzFymn9c) | 3:52 | 2023-05-10 | 2023-06-27 |
 | [كلمني عن نفسك](https://open.spotify.com/track/0Y52u3T0C9sroUFFtY0UQ1) | [Habiba](https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [كلمني عن نفسك](https://open.spotify.com/album/1tg6iaoch6dNDoHJ3bBk1Z) | 2:36 | 2024-07-25 |  |
 | [كنا معديين](https://open.spotify.com/track/5wylUnXUG318OTSsVfmFv8) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كنا معديين](https://open.spotify.com/album/4NrTvQ43jJ61FVrNolKWUE) | 2:55 | 2024-07-29 |  |
-| [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 | 2024-06-27 |  |
+| [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 | 2024-06-27 | 2024-08-06 |
 | [لحظة بعادك](https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [لحظة بعادك](https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd) | 3:41 | 2023-04-26 | 2023-06-02 |
 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 | 2024-03-26 | 2024-06-17 |
 | [لسه بيسألوني](https://open.spotify.com/track/45cD4cz19GJA7tU0FiLsIn) | [Walid Toufic](https://open.spotify.com/artist/3b9dx7eQwwKtA6ctUq8sd2) | [لسه بيسألوني](https://open.spotify.com/album/0OZxqCWzZum57m6MxVcpAg) | 4:30 | 2024-02-23 | 2024-06-01 |

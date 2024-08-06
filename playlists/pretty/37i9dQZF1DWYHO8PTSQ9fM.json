@@ -1,12 +1,12 @@
 {
   "description": "Tawsen et Ayoub Anbaoui en premi\u00e8re position de la playlist num\u00e9ro 1 au Maroc.",
-  "num_followers": 659230,
+  "num_followers": 659470,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwTcAAAAADzc7wvo14D1b8v84MfvlTG",
+  "snapshot_id": "ZrCkUwAAAAAgnAFDiX4gG23swdBfNoJN",
   "tracks": [
     {
       "added_at": "2024-08-01 23:00:00",
@@ -501,6 +501,30 @@
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
     },
     {
+      "added_at": "2024-08-05 10:07:15",
+      "album": {
+        "name": "DARBA 9ADIYA",
+        "url": "https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "duration_ms": 149209,
+      "name": "DARBA 9ADIYA",
+      "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
+    },
+    {
       "added_at": "2024-08-01 23:00:00",
       "album": {
         "name": "Galbi",
@@ -895,26 +919,6 @@
       "duration_ms": 181578,
       "name": "Rouhi",
       "url": "https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
-        "name": "Daba Daba",
-        "url": "https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s"
-      },
-      "artists": [
-        {
-          "name": "RYM",
-          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
-        },
-        {
-          "name": "Kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Daba Daba",
-      "url": "https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo"
     }
   ],
   "unique_name": "Hot Hits Morocco",

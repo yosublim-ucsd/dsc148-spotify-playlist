@@ -2,7 +2,7 @@
 
 ### [This Is Howlin' Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uKvcl)
 
-> This is Howlin' Wolf\. Todos os maiores hits em uma só playlist.
+> This Is Howlin' Wolf\. Les titres incontournables, réunis dans une seule et même playlist.
 
 131 songs - 7 hr 1 min
 

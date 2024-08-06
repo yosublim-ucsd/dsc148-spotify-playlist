@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Oklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,079 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,085 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 46 | [ROUBO](https://open.spotify.com/track/1B0qFaktj8fIljxwimMJqn) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [GLUVTRON: EXPER X](https://open.spotify.com/album/4QsT1o0lD8ale3RKm7WXIk) | 2:25 |
 | 47 | [PATY DE CONDOMINIO](https://open.spotify.com/track/4xDCzZ9PYmaJq5urtGbFNP) | [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3) | [PATY DE CONDOMINIO](https://open.spotify.com/album/4kZoGO7t9LDfx7QEh7G7Wp) | 2:37 |
 | 48 | [Ela joga no 7](https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 3:20 |
-| 49 | [FESTA DA TTF](https://open.spotify.com/track/2jGt0fXpvDb8Di9tyyKfB0) | [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [ML](https://open.spotify.com/artist/5Uaca69ukzue3LoQOnqXem) | [FESTA DA TTF](https://open.spotify.com/album/4gyjGynPMyzWfF27I6b69I) | 2:20 |
-| 50 | [Dialeto Delinquente](https://open.spotify.com/track/3muvegwUqYhIygF4hXfcEb) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:16 |
+| 49 | [Dialeto Delinquente](https://open.spotify.com/track/3muvegwUqYhIygF4hXfcEb) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:16 |
+| 50 | [FESTA DA TTF](https://open.spotify.com/track/2jGt0fXpvDb8Di9tyyKfB0) | [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [ML](https://open.spotify.com/artist/5Uaca69ukzue3LoQOnqXem) | [FESTA DA TTF](https://open.spotify.com/album/4gyjGynPMyzWfF27I6b69I) | 2:20 |
 
 Snapshot ID: `ZqMR5AAAAACchhBrJwbYX9hewAqzJJB3`

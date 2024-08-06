@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Oklin",
-  "num_followers": 131079,
+  "num_followers": 131085,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1335,6 +1335,30 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "Dialeto Delinquente",
+        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        },
+        {
+          "name": "otrashy",
+          "url": "https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD"
+        }
+      ],
+      "duration_ms": 136708,
+      "name": "Dialeto Delinquente",
+      "url": "https://open.spotify.com/track/3muvegwUqYhIygF4hXfcEb"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "FESTA DA TTF",
         "url": "https://open.spotify.com/album/4gyjGynPMyzWfF27I6b69I"
       },
@@ -1359,30 +1383,6 @@
       "duration_ms": 140147,
       "name": "FESTA DA TTF",
       "url": "https://open.spotify.com/track/2jGt0fXpvDb8Di9tyyKfB0"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "Dialeto Delinquente",
-        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        },
-        {
-          "name": "otrashy",
-          "url": "https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD"
-        }
-      ],
-      "duration_ms": 136708,
-      "name": "Dialeto Delinquente",
-      "url": "https://open.spotify.com/track/3muvegwUqYhIygF4hXfcEb"
     }
   ],
   "unique_name": "Cop\u00e3o na M\u00e3o",

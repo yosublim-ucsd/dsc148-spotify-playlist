@@ -5265,6 +5265,24 @@
     },
     {
       "album": {
+        "name": "Speak To Me",
+        "url": "https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142720,
+      "name": "Hymnal",
+      "url": "https://open.spotify.com/track/5YhHAIAq6sFAeqjBOe40Lc"
+    },
+    {
+      "album": {
         "name": "Opera sauvage (Remastered)",
         "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
       },

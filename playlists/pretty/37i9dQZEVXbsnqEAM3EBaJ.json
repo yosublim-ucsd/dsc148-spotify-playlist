@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACX/69c5TG/sIezN89xiOmv",
+  "snapshot_id": "AAAAAAAAAADBE2CkEQotOKG06rcAISsn",
   "tracks": [
     {
       "added_at": "2024-08-02 04:00:00",
@@ -27,18 +27,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Rock And Roll Hell",
-        "url": "https://open.spotify.com/album/5DRawetthfEySOsMJhzAkA"
+        "name": "Necessary Evil",
+        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
         }
       ],
-      "duration_ms": 198335,
-      "name": "Rock And Roll Hell",
-      "url": "https://open.spotify.com/track/7I29mrdkXOOg5G18OKKXhW"
+      "duration_ms": 176040,
+      "name": "Necessary Evil",
+      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -55,22 +55,6 @@
       "duration_ms": 207466,
       "name": "The Bard's Song - In the Forest - Revisited",
       "url": "https://open.spotify.com/track/2og2RFuX8c1iThdlLmV2RW"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Necessary Evil",
-        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Necessary Evil",
-      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -99,6 +83,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Rock And Roll Hell",
+        "url": "https://open.spotify.com/album/5DRawetthfEySOsMJhzAkA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 198335,
+      "name": "Rock And Roll Hell",
+      "url": "https://open.spotify.com/track/7I29mrdkXOOg5G18OKKXhW"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Fall Relaxing Melodies | Sleeping and Sleep",
         "url": "https://open.spotify.com/album/1QWcJ9azOoufhMdmySgpHP"
       },
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 189394,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/34cdCSNJBuctt5KKC1ch2k"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Mind Games (The Ultimate Mixes)",
         "url": "https://open.spotify.com/album/1OvM2qfi9XXUmRaJ7egwNj"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 193920,
       "name": "I'm The Greatest - Ultimate Mix",
       "url": "https://open.spotify.com/track/0CiKKYLQXZeGjsU7RkvszK"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 189394,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/34cdCSNJBuctt5KKC1ch2k"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Up In The Sky (Monnow Valley Version)",
-        "url": "https://open.spotify.com/album/2wJyPwZTIlZ4Xeespb06IV"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 297972,
-      "name": "Up In The Sky - Monnow Valley Version",
-      "url": "https://open.spotify.com/track/7mjNRaaJ9UoBabebO00JNL"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Hot Rails To Hell (Live)",
         "url": "https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 300741,
       "name": "Hot Rails To Hell - Live",
       "url": "https://open.spotify.com/track/4TbSWPR1D2y0cc01Z6lk2g"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Up In The Sky (Monnow Valley Version)",
+        "url": "https://open.spotify.com/album/2wJyPwZTIlZ4Xeespb06IV"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 297972,
+      "name": "Up In The Sky - Monnow Valley Version",
+      "url": "https://open.spotify.com/track/7mjNRaaJ9UoBabebO00JNL"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 193979,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/1Jijb30txJ6YZNe5DTu3Lb"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "One Hand Clapping \u2013 The Backyard (One Hand Clapping Sessions)",
         "url": "https://open.spotify.com/album/6YCmiTHYtzwNuW4DkgzcwI"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 154653,
       "name": "Blackbird - One Hand Clapping Sessions",
       "url": "https://open.spotify.com/track/3qfMHMt2UzbyPkePNKIYDh"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "GENESIS",
-        "url": "https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 193979,
-      "name": "GENESIS",
-      "url": "https://open.spotify.com/track/1Jijb30txJ6YZNe5DTu3Lb"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 210174,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Cypher G",
         "url": "https://open.spotify.com/album/19xrX25PPln3Xf8o0ISutp"
       },
@@ -515,26 +535,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 210174,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Shikanoko Nokonoko Koshitantan Meme",
         "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 326393,
       "name": "Shikanoko Nokonoko Koshitantan Meme",
       "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Live From The Garden Amphitheater",
+        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 285056,
+      "name": "You're Not Alone - Live",
+      "url": "https://open.spotify.com/track/4r7F2pBLRLV8qdx12kE11J"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -571,34 +587,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Live From The Garden Amphitheater",
-        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
+        "name": "And Waves of Dreams",
+        "url": "https://open.spotify.com/album/4MaeSCqaXnO0RR0r42YLXx"
       },
       "artists": [
         {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
         }
       ],
-      "duration_ms": 285056,
-      "name": "You're Not Alone - Live",
-      "url": "https://open.spotify.com/track/4r7F2pBLRLV8qdx12kE11J"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "Here I am",
-      "url": "https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9"
+      "duration_ms": 142000,
+      "name": "And Waves of Dreams",
+      "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -619,34 +619,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "And Waves of Dreams",
-        "url": "https://open.spotify.com/album/4MaeSCqaXnO0RR0r42YLXx"
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu"
       },
       "artists": [
         {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 142000,
-      "name": "And Waves of Dreams",
-      "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 175463,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE"
+      "duration_ms": 170640,
+      "name": "Here I am",
+      "url": "https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 175463,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/7a0OPrgyDJVQmlvYKwKkCS"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Bask in the Blood of Our Demons - EP",
-        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
-      },
-      "artists": [
-        {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Warrior Souls",
-      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Plays Metallica, Vol. 2",
         "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
       },
@@ -763,42 +747,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Herzblut",
-        "url": "https://open.spotify.com/album/1i2onR9f7wxakNqJF3HfBc"
+        "name": "Bask in the Blood of Our Demons - EP",
+        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
       },
       "artists": [
         {
-          "name": "dArtagnan",
-          "url": "https://open.spotify.com/artist/7Lj8CmxeAuJ2c2I6YxA6AJ"
-        },
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+          "name": "Unearth",
+          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
         }
       ],
-      "duration_ms": 185704,
-      "name": "The Riddle (feat. Visions Of Atlantis)",
-      "url": "https://open.spotify.com/track/3ucn4ytlqkm4Shw4LnGEpw"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Se\u00f1or Tiempo",
-        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        },
-        {
-          "name": "Piero",
-          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
-        }
-      ],
-      "duration_ms": 340638,
-      "name": "Se\u00f1or Tiempo",
-      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
+      "duration_ms": 185413,
+      "name": "Warrior Souls",
+      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -823,18 +783,62 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Fading Like A Rose - EP",
-        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
+        "name": "Se\u00f1or Tiempo",
+        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
         }
       ],
-      "duration_ms": 155409,
-      "name": "Fading Like A Rose (Everytime Remix)",
-      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
+      "duration_ms": 340638,
+      "name": "Se\u00f1or Tiempo",
+      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Herzblut",
+        "url": "https://open.spotify.com/album/1i2onR9f7wxakNqJF3HfBc"
+      },
+      "artists": [
+        {
+          "name": "dArtagnan",
+          "url": "https://open.spotify.com/artist/7Lj8CmxeAuJ2c2I6YxA6AJ"
+        },
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 185704,
+      "name": "The Riddle (feat. Visions Of Atlantis)",
+      "url": "https://open.spotify.com/track/3ucn4ytlqkm4Shw4LnGEpw"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -859,22 +863,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
-        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+        "name": "Fading Like A Rose - EP",
+        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 173350,
-      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
-      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
+      "duration_ms": 155409,
+      "name": "Fading Like A Rose (Everytime Remix)",
+      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
     },
     {
       "added_at": "2024-08-02 04:00:00",

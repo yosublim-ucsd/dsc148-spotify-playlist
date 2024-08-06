@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 133714,
       "name": "A Brief Tutorial On Dubstep Production - Kayzo Remix",
       "url": "https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy"
@@ -444,7 +444,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 171058,
       "name": "Always Wanna Talk",
       "url": "https://open.spotify.com/track/37WgviAL9YLn5HHCCFZLmd"
@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 139034,
       "name": "DISRESPECT",
       "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
@@ -12514,6 +12514,28 @@
       "duration_ms": 201600,
       "name": "Spirit Showdown",
       "url": "https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et"
+    },
+    {
+      "album": {
+        "name": "Spooky Riddim (Strangers Remix)",
+        "url": "https://open.spotify.com/album/2bTydbEehpUCy5mNsfJdQe"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Ghost",
+          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
+        },
+        {
+          "name": "Strangers",
+          "url": "https://open.spotify.com/artist/4dznYPyQaefZDs4mrhg22v"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Spooky Riddim - Strangers Remix",
+      "url": "https://open.spotify.com/track/1pPTGd5ccwWRkKT36QuPiN"
     },
     {
       "album": {

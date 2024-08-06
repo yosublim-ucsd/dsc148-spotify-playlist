@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Hookuo\(후쿠오\)\)
 
-196 songs - 14 hr 17 min
+197 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Blue in LED](https://open.spotify.com/track/1RuirFlIK2j9dlHoIUATWo) | [윤청미](https://open.spotify.com/artist/2ZzUbppeRa137R18Cxgj4A) | [Blue in LED](https://open.spotify.com/album/140zLUWx5AHU4b9PbDjaTI) | 3:30 | 2022-05-03 | 2022-07-29 |
 | [Blue in Led](https://open.spotify.com/track/1xZB3IMZ3LSbDoborownFf) | [윤청미](https://open.spotify.com/artist/05uzbpyy2ouCUFKFsmhiwV) | [Blue in Led](https://open.spotify.com/album/0wa11yZGqW3kCVb46jmKZD) | 3:30 | 2022-07-08 | 2023-02-08 |
 | [Bohemian](https://open.spotify.com/track/2ragyAOyclvs6CaBEE3Ouw) | [Gypsum](https://open.spotify.com/artist/6qV7FBGBGmMOuGRW8gzuP8) | [Bohemian](https://open.spotify.com/album/4yu5JDYqSwsPnO0gozaW6Q) | 4:18 | 2022-05-18 | 2023-12-13 |
+| [Bossa Nova Café](https://open.spotify.com/track/1CpFmDDFvPvKP386r04vNV) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Romantic Bossa Nova Jazz](https://open.spotify.com/album/39MI6zpDha8UnD2BTDdm3v) | 2:03 | 2024-08-05 |  |
 | [Breeze](https://open.spotify.com/track/5XhtsFFa0x6T68RU228Eql) | [sangjun kim](https://open.spotify.com/artist/5ActYrw5XC68RWkNGXrysv) | [Breeze](https://open.spotify.com/album/4cGVSpkczCuwfsbLNjbx7v) | 3:08 | 2023-07-24 | 2024-04-19 |
 | [Breeze](https://open.spotify.com/track/6CX8ZtHiupf9EulZXjXKA9) | [김상준](https://open.spotify.com/artist/1ZLe92Imu2rBDyZijS7TlZ) | [Breeze](https://open.spotify.com/album/3n9vwJ5YfbgEb6cnd6pDJS) | 3:08 | 2023-02-07 |  |
 | [Breezy Night](https://open.spotify.com/track/78ORvyLRxXyH553djGx6tx) | [Mind Nook](https://open.spotify.com/artist/3y71oigavnqzw1D3bFpuSf) | [On the Way Home](https://open.spotify.com/album/5vlDbrQPuOXA5FdGnE634D) | 2:40 | 2024-04-18 |  |

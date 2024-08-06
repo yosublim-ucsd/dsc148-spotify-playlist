@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-177 songs - 9 hr 16 min
+179 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Click Song Number One \- Mono Version](https://open.spotify.com/track/71i4tHW3VZk3Gow2SDkrQW) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:17 | 2021-12-29 |  |
 | [Come to Glory](https://open.spotify.com/track/4IScXiXpEgp2krXzAbZX9k) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Voice of Africa](https://open.spotify.com/album/2D1LiG2WIZqQduUOJB2eWo) | 2:30 | 2023-01-04 | 2023-04-19 |
 | [Darlie Kea Lemang](https://open.spotify.com/track/66x9E25mjcwA2XgXXZqFdi) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:51 | 2023-03-24 | 2024-02-08 |
-| [Djiu de Galinha](https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:08 | 2024-03-10 |  |
+| [Djiu de Galinha](https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:08 | 2024-03-10 | 2024-08-06 |
 | [Don't Break My Heart](https://open.spotify.com/track/2mVVN4Tv54Py7X9LZDgnip) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Zazzarazàz \- Uno Spettacolo D'arte Varia \(Deluxe\)](https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s) | 4:33 | 2021-12-28 |  |
 | [Down on the Corner \- Remastered](https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:33 | 2022-01-03 |  |
 | [Emabhaceni](https://open.spotify.com/track/27nFGGdYDpN2u2zI8SwUZZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 2:40 | 2021-12-28 |  |
@@ -105,6 +105,7 @@
 | [Malcolm X](https://open.spotify.com/track/2TPP0cnifrOvXNiEYHaTGP) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Live In Paris](https://open.spotify.com/album/04T1zskmLxfuglm2ynKNoC) | 3:12 | 2022-07-06 | 2022-09-30 |
 | [Mama \(Mama Been and Over\)](https://open.spotify.com/track/2tQpRhWpYj6NPreVpjFes0) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 4:17 | 2021-12-28 | 2022-10-27 |
 | [Mama Ndiyalila](https://open.spotify.com/track/1b8NKhwpWMmUOybnSmkDVq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 3:26 | 2021-12-28 |  |
+| [Mamoriri](https://open.spotify.com/track/3Cf78vnKbORIcaX92KMEp1) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Voice of Africa](https://open.spotify.com/album/2D1LiG2WIZqQduUOJB2eWo) | 1:46 | 2024-08-06 |  |
 | [Maria Fulo \- Mono Version](https://open.spotify.com/track/1to6aqYV55jNN85KDELPkz) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:36 | 2022-01-27 |  |
 | [Mas Que Nada](https://open.spotify.com/track/4ncRE1IYgkA7H6OO3hjBhp) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/5HPe4HG9qPl6ldZo8eEyoy) | 3:15 | 2021-12-29 | 2022-10-07 |
 | [Mas Que Nada](https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 3:15 | 2022-10-06 |  |
@@ -161,6 +162,7 @@
 | [The Retreat Song](https://open.spotify.com/track/4kIwxBe9M8RfGM8BlRg3Ka) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT) | 2:35 | 2022-05-11 | 2024-06-01 |
 | [The Retreat Song \(Jikele Maweni\)](https://open.spotify.com/track/4fZDvwmonzawgbtdFjezry) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 2:33 | 2022-01-22 | 2024-03-24 |
 | [Train Song \(Mbombela\)](https://open.spotify.com/track/0hKelpLf7qwEBZ0YPTOvU0) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:11 | 2021-12-28 |  |
+| [Train Song \(Mombela\) \- Remastered 2024](https://open.spotify.com/track/5ZgWu9nXwJ1cqu5LNsVeJy) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 3:10 | 2024-08-06 |  |
 | [Train Song \- Mbombela](https://open.spotify.com/track/2M9sF8yOqMRNy7UoA73ZK0) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening with Belafonte/Makeba](https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G) | 3:12 | 2022-10-01 | 2023-06-04 |
 | [Tremble](https://open.spotify.com/track/1Br4SIHreIXbzvU2oLyHfg) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [The Skylarks](https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV) | [Goodbye to Africa](https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm) | 2:24 | 2022-10-12 | 2023-07-18 |
 | [Tululu \- Remastered](https://open.spotify.com/track/1sicVeN7FJZcW8h9nNDAy0) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:13 | 2022-02-24 | 2024-03-27 |
@@ -184,6 +186,6 @@
 | [Woza](https://open.spotify.com/track/32EJhcW8VmGQmvq7l0bbQJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Makeba Sings!](https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs) | 2:56 | 2021-12-28 | 2022-11-18 |
 | [Xica da Silva](https://open.spotify.com/track/5T6KniOzIj3Bh7DDNzrGhJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:19 | 2021-12-28 |  |
 | [Yetentu Tizaleny \- Mono Version](https://open.spotify.com/track/1EUh45Yap9LpQ7kLbCaTSw) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:51 | 2021-12-30 | 2024-07-23 |
-| [Zenizenabo \- Remastered 2024](https://open.spotify.com/track/3DHjBTlygFzg6nyxqueFK8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 1:21 | 2024-06-26 |  |
+| [Zenizenabo \- Remastered 2024](https://open.spotify.com/track/3DHjBTlygFzg6nyxqueFK8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 1:21 | 2024-06-26 | 2024-08-06 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

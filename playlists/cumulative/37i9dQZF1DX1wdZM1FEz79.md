@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Kim Feelsun\(김필선\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Lee Yerin\(이예린\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-514 songs - 1 day 6 hr 36 min
+516 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,10 +238,11 @@
 | [Like Us](https://open.spotify.com/track/5HvwHlHx4eyYh7cmI8xr64) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:30 | 2021-12-10 | 2022-05-09 |
 | [Like you](https://open.spotify.com/track/1QSkVgau9cQJ4OgrLoDpi1) | [Gavy NJ](https://open.spotify.com/artist/6Iyc2IvCGBNStXUmPa8hmu) | [People said break it up](https://open.spotify.com/album/0uyQDNFg7AdQ25hznC9UD5) | 3:46 | 2022-03-31 | 2022-04-19 |
 | [Little By Little](https://open.spotify.com/track/1CuwvRM23gfdvfz4Dpn6Ua) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Begin Again Open MIC EPISODE\. 14](https://open.spotify.com/album/6LNVvZVEtWbVy6PfhaqKwQ) | 3:12 | 2022-01-13 | 2022-04-08 |
-| [Little Star](https://open.spotify.com/track/1buWeRRCx5QBOrCEvnPtgv) | [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Little Star](https://open.spotify.com/album/0YOo4g8SBSVyq7BTKMtiVO) | 2:26 | 2024-07-23 |  |
+| [Little Star](https://open.spotify.com/track/1buWeRRCx5QBOrCEvnPtgv) | [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Little Star](https://open.spotify.com/album/0YOo4g8SBSVyq7BTKMtiVO) | 2:26 | 2024-07-23 | 2024-08-06 |
 | [LONG SLEEP](https://open.spotify.com/track/4ceMxOgJSdfHT2Tehd6L0w) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BUSY DOING NOTHING](https://open.spotify.com/album/04MdUslmkxO6q1SHeqBYx2) | 3:25 | 2022-02-10 | 2022-05-02 |
 | [Look Into My Eyes \(Remastered\) \- Acoustic ver.](https://open.spotify.com/track/3UWNyBuUMt3P5tuc9winH2) | [2LSON](https://open.spotify.com/artist/2AMTVJeuaSJHOatQS448YY), [위니](https://open.spotify.com/artist/4eo2biU3CCldDqzniAjife) | [모나리자](https://open.spotify.com/album/1aLi5QiDr36lS7pe9wVhaK) | 2:51 | 2022-03-31 | 2022-06-25 |
 | [Looking at you](https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ) | [JUNGHEUM BAND](https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a) | [The Interest of Love \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID) | 2:35 | 2023-01-25 | 2023-04-11 |
+| [Love is Strange \- 2024 Ver.](https://open.spotify.com/track/32weX7nGizR7hwUArWu2lD) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Love is Strange \(2024 Ver.\)](https://open.spotify.com/album/0InIhRC767qCTVqsTrQvw5) | 3:05 | 2024-08-05 |  |
 | [Love me](https://open.spotify.com/track/1ewt1JR6dMET5S7CBFp7IH) | [A Ryun](https://open.spotify.com/artist/5gqQWX4PzkGSDG54UeA1Hh) | [Love me](https://open.spotify.com/album/5In36LpLXoQ56LmJReMcER) | 3:21 | 2024-06-07 | 2024-07-17 |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-12-10 |  |
 | [love me only](https://open.spotify.com/track/5pIB8r2aa5tHBXUYZFWT0p) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [love me only](https://open.spotify.com/album/02HlmAqrwEu8OmD1nYzL1q) | 3:01 | 2022-06-18 | 2022-07-05 |
@@ -411,7 +412,7 @@
 | [The Sound Of Rain \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [The Acoustic Forest](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 | 2021-12-10 | 2022-04-18 |
 | [The Trace 흔적](https://open.spotify.com/track/1I0RITCAFgFS5EJXU7WPEU) | [KIM DONG EUN 김동은](https://open.spotify.com/artist/0XP7AmvKXYVFsTx7CtCK0b) | [The Trace 흔적](https://open.spotify.com/album/1o9Es6i5BIIpQgiFQCuE8X) | 4:34 | 2022-03-31 | 2022-04-19 |
 | [These Walls](https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [These Walls](https://open.spotify.com/album/2m4ekwYIbphT3mENFLouhK) | 3:40 | 2021-12-10 | 2022-07-29 |
-| [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 | 2024-07-16 |  |
+| [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 | 2024-07-16 | 2024-08-06 |
 | [They're Gonna Say We're Right \(@leekangseung111\)](https://open.spotify.com/track/4o79zBj46P7i3cqWudJ4v0) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Remake 1.0](https://open.spotify.com/album/6VKe4jcpcrCpBWGVTwiK2J) | 3:29 | 2023-02-07 | 2023-04-03 |
 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 | 2021-12-10 | 2022-07-22 |
 | [This Love](https://open.spotify.com/track/7iIonwGw62P7Cg82PwNBqz) | [Cha So Yeon](https://open.spotify.com/artist/3OmSRBBbXUGwj7MsMsgJpk) | [This Love](https://open.spotify.com/album/1FjXRR4fRodEIfOklIyDKI) | 4:04 | 2022-03-31 | 2022-04-19 |
@@ -455,6 +456,7 @@
 | [What I want to say \(feat\. Kyoung Mi Choi\)](https://open.spotify.com/track/5s4fDRk47TQynFOTS09dJU) | [Hozee](https://open.spotify.com/artist/0UuQPB2dNkEpProkJuixZo), [Kyoung Mi Choi](https://open.spotify.com/artist/1fbb9GhUL4UNeh7x7NApJE) | [What I want to say](https://open.spotify.com/album/6Hf7qNGWOADauTKMPhokdq) | 2:38 | 2022-03-31 | 2022-04-19 |
 | [What Shall I Do?](https://open.spotify.com/track/5EifmUIMkCqnayTDAWwTfx) | [12DAL](https://open.spotify.com/artist/6Y2UFKStWOiUYxIDE5QFKn) | [What Shall I Do?](https://open.spotify.com/album/32QOWg3l9smEZU2VUtJlFp) | 3:41 | 2022-03-31 | 2022-04-16 |
 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 | 2022-07-08 | 2022-07-29 |
+| [What's Not To Love](https://open.spotify.com/track/45HfDac3XJkRZMqgS103Ih) | [L \(INFINITE\)](https://open.spotify.com/artist/2Vm2JJpUJzLoBEYQEVrmdV) | [24/7](https://open.spotify.com/album/6MuCnZXw3dRrXfUvUjsPn6) | 3:26 | 2024-08-05 |  |
 | [When did we \(Feat\. Park\-GunHoo\)](https://open.spotify.com/track/1DoYvQS9wXyjt7jUb9csph) | [INNERLAW](https://open.spotify.com/artist/2MpJZ5KF4fbEDXUU9IWZgP), [Park GunHoo](https://open.spotify.com/artist/2GZYi0jVL4PBJCVGhrHIOb) | [When did we \(Feat\. Park\-GunHoo\)](https://open.spotify.com/album/4ZGVfpHvr4j7IdlSRvpkqx) | 3:43 | 2022-03-31 | 2022-04-18 |
 | [when the dawn comes](https://open.spotify.com/track/2tscQs2pvCjOUwJM9FNwD5) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [when the dawn comes](https://open.spotify.com/album/3NJP5JyWrfAYiTEseYvyrm) | 3:11 | 2024-02-07 | 2024-03-07 |
 | [When The Violets Bloom](https://open.spotify.com/track/0xkcVMY9UtGIJdrfKXrJ8J) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [When The Violets Bloom](https://open.spotify.com/album/6ZOsvgDaX45IYl7xmaMGf6) | 3:18 | 2022-05-02 | 2022-05-12 |

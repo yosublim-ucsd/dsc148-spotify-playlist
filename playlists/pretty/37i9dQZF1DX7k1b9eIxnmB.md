@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 
 > Here comes the Maestro with his best of 90s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,270 likes - 98 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,295 likes - 98 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 | 20 | [Azhagaana Manjappura](https://open.spotify.com/track/5pcdZmguBhFc74y7K69ED9) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:58 |
 | 21 | [Siva Rathiri](https://open.spotify.com/track/2gd9VDfthon1cPj4OPivQk) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Michael Madana Kama Rajan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0szS55YRSZwrfNQrD1FoGs) | 5:10 |
 | 22 | [Deepangal Pesum](https://open.spotify.com/track/4GieeqxAyuXrzLM8ugxyBF) | [Sandhya](https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Devadai](https://open.spotify.com/album/0BSb0V9tdDtEMjVFHDSTKn) | 5:01 |
-| 23 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |
+| 23 | [Isaiyil Thodanguthamma](https://open.spotify.com/track/6XiS8yu1y46NMi41XYkNt4) | [Ajai Chakravarthi](https://open.spotify.com/artist/1etgORzoAgtq9tNDGRMXBi) | [Heyram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii) | 5:44 |
 | 24 | [Maalayil Yaro Manathodu](https://open.spotify.com/track/2o74yd2eqvGyF0RByJSQne) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Chatriyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4mFPKnYF5EXwWpzzN87SiH) | 5:31 |
-| 25 | [Isaiyil Thodanguthamma](https://open.spotify.com/track/6XiS8yu1y46NMi41XYkNt4) | [Ajai Chakravarthi](https://open.spotify.com/artist/1etgORzoAgtq9tNDGRMXBi) | [Heyram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii) | 5:44 |
+| 25 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |
 | 26 | [Annan Enna Thambi Enna](https://open.spotify.com/track/62AFtKJzjOxGx27oXM0z2i) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Dharma Durai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OAKyz8gLqbQcz9KHETsoB) | 5:00 |
 | 27 | [Oru Sandhana Kaattukkulle](https://open.spotify.com/track/7KHwJb4xt1Q1t6tTFqD6Yj) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 5:26 |
 | 28 | [En Mana Vaanil](https://open.spotify.com/track/1AKvEngTr5h7XLNgjeXNTQ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Kaasi](https://open.spotify.com/album/2XnITBsPXdedwMdxBZAJCL) | 5:38 |

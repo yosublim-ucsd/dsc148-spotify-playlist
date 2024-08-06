@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "7agara Wara2a M2as",
+        "url": "https://open.spotify.com/album/1dOV6WNImrm5N5MD8xa43J"
+      },
+      "artists": [
+        {
+          "name": "Samar Tarik",
+          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250515,
+      "name": "7agara Wara2a M2as",
+      "url": "https://open.spotify.com/track/3UGfqoXhpu8QKyGEdcO6Vq"
+    },
+    {
+      "album": {
         "name": "7ALA",
         "url": "https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn"
       },
@@ -18574,7 +18592,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 174231,
       "name": "\u0644\u0627 \u0623\u0628\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X"

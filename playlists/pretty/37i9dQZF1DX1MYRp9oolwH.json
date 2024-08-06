@@ -1,37 +1,13 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Mr. Bachchan",
-  "num_followers": 131302,
+  "description": "Bringing out the best of latest love tracks\nCover : Saripodhaa Sanivaaram",
+  "num_followers": 131351,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqzIZwAAAAAD3ZFSUsnshatV4yA7gdGT",
+  "snapshot_id": "ZrDAdAAAAADT9lcMpNsFMkjYzIc8OLTu",
   "tracks": [
-    {
-      "added_at": "2024-08-02 11:50:49",
-      "album": {
-        "name": "Jikki (From \"Mr. Bachchan\")",
-        "url": "https://open.spotify.com/album/0LZ5LX0Wvl1Z3TzF5OhVs5"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Ramya Behara",
-          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
-        },
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        }
-      ],
-      "duration_ms": 209185,
-      "name": "Jikki (From \"Mr. Bachchan\")",
-      "url": "https://open.spotify.com/track/3jt4l32RiZhupMWal5rRyk"
-    },
     {
       "added_at": "2024-07-14 04:20:52",
       "album": {
@@ -55,6 +31,54 @@
       "duration_ms": 282000,
       "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
       "url": "https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c"
+    },
+    {
+      "added_at": "2024-08-05 12:07:16",
+      "album": {
+        "name": "Chuttamalle (From \"Devara Part 1\")",
+        "url": "https://open.spotify.com/album/77bk7awXNSGEQkZTcTp2Gj"
+      },
+      "artists": [
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 222063,
+      "name": "Chuttamalle (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
+    },
+    {
+      "added_at": "2024-08-02 11:50:49",
+      "album": {
+        "name": "Jikki (From \"Mr. Bachchan\")",
+        "url": "https://open.spotify.com/album/0LZ5LX0Wvl1Z3TzF5OhVs5"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        }
+      ],
+      "duration_ms": 209185,
+      "name": "Jikki (From \"Mr. Bachchan\")",
+      "url": "https://open.spotify.com/track/3jt4l32RiZhupMWal5rRyk"
     },
     {
       "added_at": "2024-07-30 09:25:14",
@@ -1111,34 +1135,6 @@
       "duration_ms": 205215,
       "name": "Chanuvuga Chusina (From \"Peddha Kapu - 1\")",
       "url": "https://open.spotify.com/track/1YNYLzGKSezeI7U1cyTmPN"
-    },
-    {
-      "added_at": "2023-07-03 06:36:52",
-      "album": {
-        "name": "Samajavaragamana",
-        "url": "https://open.spotify.com/album/0vYWeWvhip93WkwleOx566"
-      },
-      "artists": [
-        {
-          "name": "Gopi Sundar",
-          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
-        },
-        {
-          "name": "J.V. Sudhanshu",
-          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
-        },
-        {
-          "name": "Sony Komanduri",
-          "url": "https://open.spotify.com/artist/6wjRMnOpf2jN6VsNn3SkPW"
-        },
-        {
-          "name": "Shree Mani",
-          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
-        }
-      ],
-      "duration_ms": 277274,
-      "name": "Holare Hola",
-      "url": "https://open.spotify.com/track/0a9bofyF3tSrYRCu2uVVkI"
     },
     {
       "added_at": "2023-07-31 05:50:48",

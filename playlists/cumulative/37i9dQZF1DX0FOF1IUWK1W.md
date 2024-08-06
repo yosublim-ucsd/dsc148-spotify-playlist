@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Manu, Guilherme & Benuto e os maiores hits do país\. O que tá bombando tá aqui.
+> Pabllo Vittar, Sevdaliza, Yseult e os maiores hits do país\. O que tá bombando tá aqui.
 
 426 songs - 21 hr 24 min
 
@@ -396,7 +396,7 @@
 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 | 2022-12-30 | 2023-03-18 |
 | [Toma Toma Vapo Vapo](https://open.spotify.com/track/5VTjBl3ddZEiG2LrH4VzyR) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Toma Toma Vapo Vapo](https://open.spotify.com/album/4rRER0lWzXFbuYFvxQBEen) | 2:36 | 2022-01-17 | 2022-05-13 |
 | [Torce o Olho \- Ao Vivo](https://open.spotify.com/track/6PXyRQ9Q0eNlLGsI6GxiYX) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Torce o Olho \(Ao Vivo\)](https://open.spotify.com/album/4iDEMrwkGMQ6LpdbdTnLGy) | 2:47 | 2024-01-04 | 2024-01-11 |
-| [Torre Eiffel \- Ao Vivo](https://open.spotify.com/track/54UGdW621lBINbfMWJmmSO) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Torre Eiffel \(Ao Vivo\)](https://open.spotify.com/album/0bqJ8OprnMh9bSwEWmrvh4) | 3:22 | 2024-03-28 |  |
+| [Torre Eiffel \- Ao Vivo](https://open.spotify.com/track/54UGdW621lBINbfMWJmmSO) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Torre Eiffel \(Ao Vivo\)](https://open.spotify.com/album/0bqJ8OprnMh9bSwEWmrvh4) | 3:22 | 2024-03-28 | 2024-08-06 |
 | [Traumatizei \- Ao Vivo Em Brasília](https://open.spotify.com/track/0JIYoXtJfORxI6gRpHv6ZW) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP1\)](https://open.spotify.com/album/7Gg88I2AY86RasStaV0rWW) | 2:52 | 2023-02-10 | 2023-11-10 |
 | [Trava na Pose, Chama no Zoom, Dá um Close \(feat\. Mc Rennan\)](https://open.spotify.com/track/0DsPj89zlY3Us7xb5cXK5h) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Dj Olliver](https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy), [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS) | [Trava na Pose, Chama no Zoom, Dá um Close \(feat\. Mc Rennan\)](https://open.spotify.com/album/0Om1PwKKwmPRPhlZrUf0KJ) | 3:34 | 2022-01-17 | 2022-01-21 |
 | [Triplex \- Ao Vivo](https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Triplex \(Ao Vivo\)](https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3) | 2:58 | 2024-06-27 |  |

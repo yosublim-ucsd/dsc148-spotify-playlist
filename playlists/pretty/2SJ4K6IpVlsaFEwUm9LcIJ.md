@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,746 likes - 43 songs - 2 hr 29 min
+[margeaux](https://open.spotify.com/user/1220511975) - 20,755 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 38 | [There's That Grin](https://open.spotify.com/track/2rV6guDDixTkeYco2wJSST) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 3:18 |
 | 39 | [The European Female \(In Celebration Of\)](https://open.spotify.com/track/5OCtkcIWYCJ8OTCixDREZh) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Feline](https://open.spotify.com/album/7zLCiI9gWYWyn9E0SNWVki) | 4:00 |
 | 40 | [Mario's Flaming Whiskers III](https://open.spotify.com/track/3Bktyrnmrdw05133ofR9Dl) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 2:30 |
-| 41 | [Glad and Sorry](https://open.spotify.com/track/0NtyuUILV22rjcc7JiSFfA) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:06 |
-| 42 | [Does Love Last Forever?](https://open.spotify.com/track/3oZjGlG2QP22zqhT0G3rHU) | [Brighter](https://open.spotify.com/artist/0A4i4n0dws4gJWhdg1OWJu) | [Disney & Other Singles](https://open.spotify.com/album/0D1f2vDRkveLgO8N5hWjtG) | 2:32 |
-| 43 | [Bizarre Love Triangle \- Remastered](https://open.spotify.com/track/3AJ7w7Un7IIMyRJ6PJ2pOJ) | [Even As We Speak](https://open.spotify.com/artist/76TkEBFTqaVNF4KWwaQudW) | [Blue Suburban Skies \(1987 Remastered\)](https://open.spotify.com/album/55mptKYNpfe7yjIdAlXK2H) | 2:02 |
+| 41 | [Yr Broom](https://open.spotify.com/track/7vtvaC8cBykfsBGoSfUB7N) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ) | 1:37 |
+| 42 | [Glad and Sorry](https://open.spotify.com/track/0NtyuUILV22rjcc7JiSFfA) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:06 |
+| 43 | [Does Love Last Forever?](https://open.spotify.com/track/3oZjGlG2QP22zqhT0G3rHU) | [Brighter](https://open.spotify.com/artist/0A4i4n0dws4gJWhdg1OWJu) | [Disney & Other Singles](https://open.spotify.com/album/0D1f2vDRkveLgO8N5hWjtG) | 2:32 |
+| 44 | [Bizarre Love Triangle \- Remastered](https://open.spotify.com/track/3AJ7w7Un7IIMyRJ6PJ2pOJ) | [Even As We Speak](https://open.spotify.com/artist/76TkEBFTqaVNF4KWwaQudW) | [Blue Suburban Skies \(1987 Remastered\)](https://open.spotify.com/album/55mptKYNpfe7yjIdAlXK2H) | 2:02 |
+| 45 | [Twee](https://open.spotify.com/track/54JWqjwNUiAOI5lLzUX9IQ) | [Tullycraft](https://open.spotify.com/artist/3KtOvpYuKClAuYxJqdITm6) | [Beat Surf Fun](https://open.spotify.com/album/6AN7guo4oFxMb5OU3pAe3m) | 3:21 |
 
-Snapshot ID: `AAAK2uYv9+iaFXDsmVMeYSVFNusPwVPt`
+Snapshot ID: `AAAK3UJ9tEAQyts+izIsV6/0o4u35vZ1`

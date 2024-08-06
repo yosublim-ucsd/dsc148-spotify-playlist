@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
+  "description": "This Is El de La Guitarra. Los temas esenciales, todos en una lista.",
   "name": "This Is El de La Guitarra",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 144764,
       "name": "Al Millon Ando Yo",
       "url": "https://open.spotify.com/track/6NvAr4wSu5QmZjv141KRoZ"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 150360,
       "name": "Cookies En Las Pipas",
       "url": "https://open.spotify.com/track/5LeqwOYzwZZZCz7ftzpUYS"

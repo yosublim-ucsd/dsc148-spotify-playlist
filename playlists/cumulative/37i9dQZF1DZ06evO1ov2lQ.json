@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 169280,
       "name": "Florian\u00b4s Flute",
       "url": "https://open.spotify.com/track/2J0O7r3f6THs06qJwjgVyj"
@@ -1164,6 +1164,28 @@
       "duration_ms": 296092,
       "name": "Heat Leak",
       "url": "https://open.spotify.com/track/0WgbqjvVFSYLHWtDYJ1hgj"
+    },
+    {
+      "album": {
+        "name": "Compilation 1991-2004",
+        "url": "https://open.spotify.com/album/3O1xREyGJreUViSlNijDsZ"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        },
+        {
+          "name": "Jony Easterby",
+          "url": "https://open.spotify.com/artist/5n941pBjjRc0Binlhj3pYB"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648626,
+      "name": "Heights of the Depths",
+      "url": "https://open.spotify.com/track/3B9oLKhef3KJnzoGU9QYte"
     },
     {
       "album": {
@@ -1778,7 +1800,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 318577,
       "name": "Mir",
       "url": "https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j"
@@ -2102,7 +2124,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 103721,
       "name": "Qual Linea Al Centro",
       "url": "https://open.spotify.com/track/33VVSLjvt7d7Eq7n9lclPD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Våra spellisteredaktörers urval av otroliga låtar från 2023 som du kanske råkat missa? Enjoy! \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 848 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 849 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 81 | [Nekad på klubben](https://open.spotify.com/track/1GD0U35f73Qk3rfLx0wRo8) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Nekad på klubben](https://open.spotify.com/album/1raUpMAzD2pUxLPeUk7Jvj) | 3:23 |
 | 82 | [\~HÄR\~](https://open.spotify.com/track/1kIoQ1Rir3L6XbKY0ZAUQh) | [OG Bella](https://open.spotify.com/artist/1G3wxkbnecGA5KszB3wmB6), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw), [Broder John](https://open.spotify.com/artist/66iUd3sGrtkATTS7FHWPe4), [JËLLY](https://open.spotify.com/artist/6mqTQZ0Cz6MAeGNHfaseMX) | [MELLAN TVIVEL & TILLIT](https://open.spotify.com/album/6rTpIQjX1HZHQtlYQCZ3Y0) | 4:01 |
 | 83 | [Young](https://open.spotify.com/track/0KYiuNWDyw9G08164XTCdS) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [YOUNG](https://open.spotify.com/album/4T7DIdvs8FB3yObNPG6dY3) | 2:28 |
-| 84 | [If You \(Papapa\)](https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [TIAMA l](https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg) | 2:53 |
-| 85 | [Attack On Us](https://open.spotify.com/track/4N1tF1jz1JKLpnaoUSxG9Z) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Attack On Us](https://open.spotify.com/album/0N4kxrPiQ8PuixSIJg2owR) | 2:28 |
+| 84 | [Attack On Us](https://open.spotify.com/track/4N1tF1jz1JKLpnaoUSxG9Z) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Attack On Us](https://open.spotify.com/album/0N4kxrPiQ8PuixSIJg2owR) | 2:28 |
+| 85 | [If You \(Papapa\)](https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [TIAMA l](https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg) | 2:53 |
 | 86 | [Nomad](https://open.spotify.com/track/3y8s3BTRrVZS6z38L4U6kQ) | [Botaii](https://open.spotify.com/artist/0FsuDCPtrx3MQka05c0rWv) | [Nomad](https://open.spotify.com/album/4mmQ7sXnL4jB1J4rn0dTs6) | 2:29 |
 | 87 | [Spirit](https://open.spotify.com/track/7JbPqvmxTO7o0hWYkYUN1a) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Daghem](https://open.spotify.com/album/10t35xGOekaWJBOGVuQ0so) | 3:53 |
 | 88 | [Gråt, gråt, gråt](https://open.spotify.com/track/2XrjVzi8zZYLhqioB2OwoY) | [Llojd](https://open.spotify.com/artist/04Axa6ilD95HIZIx5zUg6W) | [Gråt, gråt, gråt](https://open.spotify.com/album/5wLqkxwXm4o3JauQDiSXtf) | 3:28 |

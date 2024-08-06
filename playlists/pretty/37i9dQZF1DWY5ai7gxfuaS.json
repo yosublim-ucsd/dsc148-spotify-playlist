@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 292073,
+  "num_followers": 292161,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "It's Supposed To Hurt",
-        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 212086,
-      "name": "It's Supposed To Hurt",
-      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "HIGHER POWER",
         "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 163413,
       "name": "HIGHER POWER",
       "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "It's Supposed To Hurt",
+        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 212086,
+      "name": "It's Supposed To Hurt",
+      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 202105,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "saw BONES",
-        "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
-      },
-      "artists": [
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "saw BONES",
-      "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Don't Wait",
         "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "saw BONES",
+        "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
+      },
+      "artists": [
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "saw BONES",
+      "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "What's The Holy (Nobel) Today?",
-        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
-      },
-      "artists": [
-        {
-          "name": "Voice of Baceprot",
-          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
-        }
-      ],
-      "duration_ms": 226712,
-      "name": "What's The Holy (Nobel) Today?",
-      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 228000,
       "name": "The Sniffing Accountant",
       "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "What's The Holy (Nobel) Today?",
+        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "duration_ms": 226712,
+      "name": "What's The Holy (Nobel) Today?",
+      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "open water",
-        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 126912,
-      "name": "open water",
-      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "ABYSS",
         "url": "https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Nowhere Now Here",
-        "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
+        "name": "open water",
+        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
       },
       "artists": [
         {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
         }
       ],
-      "duration_ms": 336513,
-      "name": "After You Comes the Flood",
-      "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
+      "duration_ms": 126912,
+      "name": "open water",
+      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1699,6 +1683,22 @@
       "duration_ms": 218503,
       "name": "The Future Says Thank You",
       "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Nowhere Now Here",
+        "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
+        }
+      ],
+      "duration_ms": 336513,
+      "name": "After You Comes the Flood",
+      "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
     },
     {
       "added_at": "2024-07-19 10:51:43",

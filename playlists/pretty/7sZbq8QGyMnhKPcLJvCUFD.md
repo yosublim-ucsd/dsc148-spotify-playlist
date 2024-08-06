@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NoCopyrightSounds](https://open.spotify.com/user/nocopyrightsounds) - 733,321 likes - 109 songs - 5 hr 23 min
+[NoCopyrightSounds](https://open.spotify.com/user/nocopyrightsounds) - 733,300 likes - 109 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,15 +15,15 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 5 | [Puzzle \- 2024 Edit](https://open.spotify.com/track/7FyXbLwHkDF0HZl36wvRqV) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Puzzle \(2024 Edit\)](https://open.spotify.com/album/65PUjwgG91udnF5gpXroOn) | 2:53 |
 | 6 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
 | 7 | [Nostalgia](https://open.spotify.com/track/1CeWw5m1PvJOAxtO6x9fD4) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Nostalgia](https://open.spotify.com/album/1Ft5RQT1Yqwy4KNRR57Ack) | 2:56 |
-| 8 | [Warzone](https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Warzone](https://open.spotify.com/album/5aRklPNMfncol1femV9Meq) | 2:42 |
+| 8 | [Worship](https://open.spotify.com/track/3UL3mFsWBtRUZWRu0qAD46) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Worship](https://open.spotify.com/album/4uSfrfa4EdUa1PgwpaxZkx) | 4:05 |
 | 9 | [Time Is Eating](https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Time Is Eating](https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3) | 3:04 |
 | 10 | [Overdose](https://open.spotify.com/track/7pEO3MdT6X2MRUHzeLH2XR) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Overdose](https://open.spotify.com/album/2Vd2ZArU5bvDhmhjYEqJQY) | 2:51 |
 | 11 | [Pushing On](https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Pushing On](https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG) | 2:28 |
 | 12 | [Taking It Slow](https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Taking It Slow](https://open.spotify.com/album/6ndnVrxgFH5zjvzjhIxA2r) | 2:40 |
 | 13 | [Overdose \- Tatsunoshin Remix](https://open.spotify.com/track/0iQCOjsrWC7JL7dQSUH1FH) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Overdose \(Remixes\)](https://open.spotify.com/album/4p3dVr8xYrBj1Mo0tVFD7t) | 2:50 |
 | 14 | [Without You](https://open.spotify.com/track/6jgW1FXQvfdGVcOKiL9T57) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Without You](https://open.spotify.com/album/1RuC8GhdatGI2Yfwk7gkm1) | 3:08 |
-| 15 | [Worship](https://open.spotify.com/track/3UL3mFsWBtRUZWRu0qAD46) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Worship](https://open.spotify.com/album/4uSfrfa4EdUa1PgwpaxZkx) | 4:05 |
-| 16 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 |
+| 15 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 |
+| 16 | [Warzone](https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Warzone](https://open.spotify.com/album/5aRklPNMfncol1femV9Meq) | 2:42 |
 | 17 | [Different Eyes](https://open.spotify.com/track/1oilJqWTB17JjNSQ6mU0O3) | [MVSTAFA](https://open.spotify.com/artist/6Z7B1Ns8xEu05hFDCCwE1f), [ANIZYZ](https://open.spotify.com/artist/2MWaA6CZ9Rf8tDDuoMjZJq) | [Different Eyes](https://open.spotify.com/album/70998LAhRJkFW5W7cg3G5P) | 1:54 |
 | 18 | [Rally Up!](https://open.spotify.com/track/0FqOa0eycFePycgxkwBUyE) | [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [XI$OW](https://open.spotify.com/artist/7K0qGLCOb8pvUumHWsYSjF) | [Rally Up!](https://open.spotify.com/album/3gK2I4lWiSuhgH9nuhO8SW) | 1:33 |
 | 19 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 108 | [Love U](https://open.spotify.com/track/7qKXidnk1oaOl0DKAobGib) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Keep](https://open.spotify.com/album/11gPSu8vh1e4velnMh8VOr) | 3:58 |
 | 109 | [Done Better](https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Done Better](https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh) | 2:50 |
 
-Snapshot ID: `AAAW6SAjAMayszDDXhlqie+jKsCeTh7J`
+Snapshot ID: `AAAW7f15FcooL9vwTsmp6LNE23n9EQ7u`

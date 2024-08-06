@@ -10725,6 +10725,28 @@
     },
     {
       "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "ZARA",
+          "url": "https://open.spotify.com/artist/1gHswNMOQFlGi8yA8quKNn"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157235,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope (Expanded Edition)",
         "url": "https://open.spotify.com/album/1WdKL5liAeq4NazlZ5u14N"
       },

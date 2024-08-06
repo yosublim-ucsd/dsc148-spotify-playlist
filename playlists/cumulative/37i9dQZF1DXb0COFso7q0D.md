@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras\. Cover: Tito Double P & Neton Vega
+> The playlist sin fronteras powered by  <a href="spotify:genre:0JQ5DAqbMKFJ1bGfuFbFuR">La Tierra de Música Mexicana</a> \. Cover: Tito Double P & Neton Vega
 
 668 songs - 1 day 10 hr 42 min
 

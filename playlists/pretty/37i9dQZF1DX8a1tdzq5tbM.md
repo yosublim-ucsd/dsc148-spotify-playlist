@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,595,551 likes - 120 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,595,786 likes - 120 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 85 | [Dance4Life \(feat\. Maxi Jazz\) \- Radio Edit](https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Maxi Jazz](https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq) | [Dance4Life \(feat\. Maxi Jazz\)](https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5) | 3:33 |
 | 86 | [Heartbroken \- Edit](https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru) | 2:58 |
 | 87 | [Call On Me \- Radio Edit](https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu) | 2:51 |
-| 88 | [Release Me](https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Release Me](https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b) | 4:14 |
-| 89 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |
+| 88 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |
+| 89 | [Release Me](https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Release Me](https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b) | 4:14 |
 | 90 | [Everything \(feat\. JES\)](https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Elements of Life](https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is) | 7:00 |
 | 91 | [Freed from Desire](https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life \(10th Anniversary\)](https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag) | 3:33 |
 | 92 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:31 |

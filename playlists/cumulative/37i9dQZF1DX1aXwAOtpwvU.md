@@ -2,9 +2,9 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:251W9nU4osxaBuBkU9HXT3">Jea Mira</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover: Daniel Godson, Jea Mira, Livka, Lotta, MAJA, Zaleś
 
-178 songs - 8 hr 37 min
+181 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [BIG BIG GIRL](https://open.spotify.com/track/05AMRlm1cjHSKGPkDdTsw2) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [BIG BIG GIRL / KARATE KID](https://open.spotify.com/album/0wMT5TwEqLwYdOWVo1YNnv) | 2:19 | 2023-11-10 | 2024-02-03 |
 | [bigos](https://open.spotify.com/track/3td5D76Hdk8kL7nfw2w4TM) | [Albo Inaczej](https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh) | [bigos](https://open.spotify.com/album/5IG3GK7rfwsspwoVgT7cml) | 3:15 | 2023-05-16 | 2024-07-16 |
 | [BIKINI GIRLIE](https://open.spotify.com/track/1c7I2V9oL4JdpZN514pGMo) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [BIKINI GIRLIE](https://open.spotify.com/album/6lzibP8Md36JIkVAn5A2mf) | 3:13 | 2023-09-15 | 2024-02-03 |
+| [brudny moncler](https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT), [luvpill](https://open.spotify.com/artist/636Sh0pcePIBMfPNjVsNO8) | [brudny moncler](https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm) | 1:45 | 2024-08-05 |  |
 | [California Boy \(jjjerk\)](https://open.spotify.com/track/1c7pvFD8j9li7nmJwbAfr2) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [California Boy \(jjjerk\)](https://open.spotify.com/album/5V1dFAKY2wxhJajPfBItjz) | 2:21 | 2023-05-16 | 2024-05-04 |
 | [Carrie](https://open.spotify.com/track/4dg06owZapY09INYbaFH0j) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Carrie](https://open.spotify.com/album/2jTw2ZkjGsIAIRJtS4UaDe) | 2:46 | 2023-07-31 | 2024-02-03 |
 | [Central Park](https://open.spotify.com/track/1GjLHBLJNn7RxAtVt7k8NP) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 2:47 | 2023-11-10 | 2024-06-19 |
@@ -42,8 +43,8 @@
 | [Diament](https://open.spotify.com/track/4snpPHFGYvqvAywbtGTk61) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Diament](https://open.spotify.com/album/0hcPWow9eAkb1iUxhj65aQ) | 3:08 | 2023-09-01 |  |
 | [Dinozaury](https://open.spotify.com/track/5XAFPMqtAlO4uKKAwgdw7z) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm) | [Polska Floryda](https://open.spotify.com/album/76Tg6vW5sCt2x6vLawvHsc) | 3:44 | 2022-08-26 |  |
 | [Diss Na Miłość](https://open.spotify.com/track/0m8NvsR8kHzXSrHPyxaXc2) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/4QtxlIxlyH5czaqJyayPwM) | 1:52 | 2024-02-02 | 2024-04-19 |
-| [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 | 2023-05-16 |  |
-| [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 | 2023-07-31 |  |
+| [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 | 2023-05-16 | 2024-08-06 |
+| [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 | 2023-07-31 | 2024-08-06 |
 | [Duch](https://open.spotify.com/track/6YHsgC9zWTgjuqVgc1IIH5) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Duch](https://open.spotify.com/album/2AU8LM1soAwmbearqrb60K) | 4:01 | 2022-08-26 | 2023-03-14 |
 | [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 | 2024-07-18 |  |
 | [dziwne dzieciaki z klasy](https://open.spotify.com/track/4P2HJdPFSEIdTlwEd46s18) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [dziwne dzieciaki z klasy](https://open.spotify.com/album/6Vils2GYNmXvjQyWPhBwlB) | 1:51 | 2024-06-18 |  |
@@ -180,11 +181,13 @@
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-18 |  |
 | [Zapomnieli](https://open.spotify.com/track/00NRXYw9q24APKKfHK7Z4w) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Zapomnieli](https://open.spotify.com/album/6rsxb4mxMY0lnALsVO2fnw) | 2:24 | 2023-03-13 | 2023-08-01 |
 | [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 | 2022-08-26 | 2024-06-19 |
-| [Zero Calorie Cookie](https://open.spotify.com/track/36nKx8IoBlJhaKE42rOcjp) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [Cafe Mari](https://open.spotify.com/album/6B5digt716RUW1T9tSicWz) | 2:52 | 2024-06-18 |  |
+| [Zero Calorie Cookie](https://open.spotify.com/track/36nKx8IoBlJhaKE42rOcjp) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [Cafe Mari](https://open.spotify.com/album/6B5digt716RUW1T9tSicWz) | 2:52 | 2024-06-18 | 2024-08-06 |
+| [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM) | 3:55 | 2024-08-05 |  |
 | [Zgiełk](https://open.spotify.com/track/5aNYiszdl6gFgg8MAzbj4X) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Zgiełk](https://open.spotify.com/album/1rZ696lpMnNWJs58ICTWMQ) | 3:25 | 2023-09-01 | 2024-06-19 |
 | [znowu sam](https://open.spotify.com/track/3LsWDZo1SpXNAzwQX35gPh) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [znowu sam](https://open.spotify.com/album/5kPIe6YX1PrxG91Axzhmfd) | 2:40 | 2024-03-11 |  |
 | [Złudzenia](https://open.spotify.com/track/2n5jDzn5XWO90vc6C7zRAs) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Złudzenia](https://open.spotify.com/album/2ISFdvufeOH0wtRUfF39RZ) | 3:29 | 2023-05-16 | 2023-11-11 |
 | [Złudzenia](https://open.spotify.com/track/0xechEr9xpwHY6eP2wrQud) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 3:31 | 2024-02-02 | 2024-06-21 |
 | [Łezki](https://open.spotify.com/track/1wZ6X3kcv5tm7IQ1DbducM) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Łezki](https://open.spotify.com/album/27be3kNoeONlByK8LPKwCk) | 3:14 | 2022-08-26 | 2023-02-07 |
+| [ї й ц е н е т р е б а](https://open.spotify.com/track/2GvNV5Ltz43Z7IS41cw5LO) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [ї й ц е н е т р е б а](https://open.spotify.com/album/6WbyGPso7GJeBXdX42Crdf) | 3:26 | 2024-08-05 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

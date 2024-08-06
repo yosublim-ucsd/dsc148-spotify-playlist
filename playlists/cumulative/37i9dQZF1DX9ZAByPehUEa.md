@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-427 songs - 1 day 2 hr 39 min
+428 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Kto Ty \- Original Mix](https://open.spotify.com/track/3NUvI0vs4zkfQWDxHtLhbY) | [Cream Soda](https://open.spotify.com/artist/0QTO0QZDjoyXxRtIgAU4GY) | [Electric City, Vol\. 31](https://open.spotify.com/album/3Cgi2A6EucbtnyvBeYFDbD) | 4:53 | 2022-04-06 | 2022-04-19 |
 | [Kunafa King](https://open.spotify.com/track/67Do8TlrqHxuiIcHTlQuLs) | [Moving Still](https://open.spotify.com/artist/4VVwqrM50CuVgB7yKHkl8Q) | [Kunafa King](https://open.spotify.com/album/6qtjLtPlebdQ5j8QmXDVyf) | 4:08 | 2022-10-29 | 2022-11-15 |
 | [L'Amore L'Amore \- twocolors Remix](https://open.spotify.com/track/68SdHRt8OdPCskCANCL6TD) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [L'Amore L'Amore \(twocolors Remix\)](https://open.spotify.com/album/7LDS311IOBt6mGKjEt6InG) | 2:58 | 2022-06-09 | 2022-09-03 |
-| [La La Tune](https://open.spotify.com/track/6Rm7tXHh6pxquIYNyN5yqy) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [La La Tune](https://open.spotify.com/album/2L7tsx9kIWyPJ1ok4gkk1N) | 4:33 | 2024-05-24 |  |
+| [La La Tune](https://open.spotify.com/track/6Rm7tXHh6pxquIYNyN5yqy) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [La La Tune](https://open.spotify.com/album/2L7tsx9kIWyPJ1ok4gkk1N) | 4:33 | 2024-05-24 | 2024-08-06 |
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2lM5HZRi3mlxbFnmQ2oDXe) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [Lady / Music Sounds Better With You](https://open.spotify.com/album/30sqXAoM99GhQik4QC7kpN) | 6:08 | 2022-01-14 | 2022-07-28 |
 | [Laguna](https://open.spotify.com/track/3351bIhasJGEk0yn5A9uLW) | [Antenna!](https://open.spotify.com/artist/1M1JqfU36s2CCNGNCw6Gh4) | [Laguna](https://open.spotify.com/album/3BQBl1X24eqrxABaYhwXQH) | 3:29 | 2022-01-14 | 2022-07-19 |
 | [Last Night on Earth](https://open.spotify.com/track/1aO1ifT6pyc4u2AwgdFaZo) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Goshfather](https://open.spotify.com/artist/2g7WWQ12c4FLTtdk0z5mwI) | [Last Night on Earth](https://open.spotify.com/album/3AL7rMed7nMhgMUcjZP511) | 2:28 | 2024-07-05 |  |
@@ -394,6 +394,7 @@
 | [Summer of Love \- Jean Tonique Remix](https://open.spotify.com/track/2sSedmGMNVV84hIRUbmykd) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Summer of Love \(Jean Tonique Remix\)](https://open.spotify.com/album/5UC13W4kwtAZZbC3q8AKD1) | 3:22 | 2022-01-14 | 2022-07-18 |
 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 | 2022-05-10 | 2023-06-05 |
 | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC) | 3:57 | 2022-01-14 | 2023-06-10 |
+| [Susannah](https://open.spotify.com/track/2ggtoA4Y5VbdFwcEApWXGs) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [Susannah](https://open.spotify.com/album/3fdR5UojHAPXGs404YUSJc) | 3:07 | 2024-08-05 |  |
 | [Take Off](https://open.spotify.com/track/2KQe7XhWh4T8Ui8StfTrdw) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Take Off](https://open.spotify.com/album/5znFxew4XASdoEPlX0swGz) | 2:24 | 2024-05-03 | 2024-06-05 |
 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 | 2022-04-06 |  |
 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 | 2024-07-12 |  |

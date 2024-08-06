@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 240004,
       "name": "Bambi - h4rdy Remix",
       "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Business Man",
+        "url": "https://open.spotify.com/album/41LT0FtbmpSFpnAZ37mEoz"
+      },
+      "artists": [
+        {
+          "name": "AEILO",
+          "url": "https://open.spotify.com/artist/2OC4EQktpfmvqoCTeFi0gZ"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Business Man",
+      "url": "https://open.spotify.com/track/0P2DSaj99Qmq1ZtuTIdvCV"
+    },
+    {
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/31mGG6ijRDvh5CccbgO8wT"
       },
@@ -1040,6 +1058,28 @@
       "duration_ms": 225962,
       "name": "DEEP - h4rdy Remix",
       "url": "https://open.spotify.com/track/32ublq72W447prf0jOntiJ"
+    },
+    {
+      "album": {
+        "name": "City Lights (The Mini Album)",
+        "url": "https://open.spotify.com/album/3fCyde4soVFdmuQTMFTKkL"
+      },
+      "artists": [
+        {
+          "name": "Taeha",
+          "url": "https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw"
+        },
+        {
+          "name": "Miami Nights 1984",
+          "url": "https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265714,
+      "name": "Dive in Love (Miami Nights 1984 Remix)",
+      "url": "https://open.spotify.com/track/26xz5aqtwl9CMBcN5gHToU"
     },
     {
       "album": {
@@ -1978,7 +2018,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 200826,
       "name": "Kind of Love (feat. Ina Bravo)",
       "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"

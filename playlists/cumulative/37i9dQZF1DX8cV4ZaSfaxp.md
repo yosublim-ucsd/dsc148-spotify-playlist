@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-332 songs - 20 hr 33 min
+333 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Haru](https://open.spotify.com/track/12mRAMsizxyLBIqiQj6Kog) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 3:43 | 2022-05-11 | 2022-07-29 |
 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 | 2022-07-22 | 2024-04-19 |
 | [Headlight](https://open.spotify.com/track/0sphzVqEctdSudjBFLQLEA) | [KIMSAN 김산](https://open.spotify.com/artist/4PiqWnfbWGcCFT2UDxKCf1) | [Headlights](https://open.spotify.com/album/1AwebtVTQvVFyp8goceZOS) | 3:43 | 2022-05-11 | 2022-07-27 |
+| [Here, This Moment](https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0) | [ARTLOVEU](https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO) | [Here, This Moment](https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl) | 3:46 | 2024-08-05 |  |
 | [Highteen \(Feat\. Lee Won Seok of Daybreak\)](https://open.spotify.com/track/0nw4fbuu6af0WA36f0IHiX) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [OCEAN WAVE](https://open.spotify.com/album/06jDTVrUOYysEijXi9eKOQ) | 4:20 | 2022-08-12 | 2022-09-28 |
 | [Highteen \(Feat\. Lee Won Seok of Daybreak\)](https://open.spotify.com/track/72quUKjITH4txudAUZKXpi) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [OCEAN WAVE](https://open.spotify.com/album/2xA63q65mFlkG3ICY6BPS4) | 4:20 | 2022-09-05 | 2022-10-05 |
 | [Hope](https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:28 | 2022-05-11 |  |
@@ -295,7 +296,7 @@
 | [Thinking About You](https://open.spotify.com/track/78Oao6HSlF71skOa8vgV4e) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/3lZQCdHYJ94Icv6OWeqh76) | 3:29 | 2022-05-11 | 2022-07-29 |
 | [Thinking About You \(feat\. SUMIN\)](https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN) | 3:29 | 2023-05-05 | 2024-04-19 |
 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 | 2022-05-11 |  |
-| [Timing](https://open.spotify.com/track/5hHHF4wzTc2K5PP6gpOTEr) | [Kim eun young](https://open.spotify.com/artist/49XEW1qNZPAeucXHu8zIeg) | [Timing](https://open.spotify.com/album/73VK4w06GJ37zySHOyTUoy) | 3:57 | 2024-04-19 |  |
+| [Timing](https://open.spotify.com/track/5hHHF4wzTc2K5PP6gpOTEr) | [Kim eun young](https://open.spotify.com/artist/49XEW1qNZPAeucXHu8zIeg) | [Timing](https://open.spotify.com/album/73VK4w06GJ37zySHOyTUoy) | 3:57 | 2024-04-19 | 2024-08-06 |
 | [Tonight](https://open.spotify.com/track/7sO5L1MHG4Rgwg6ARMS7GD) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Tonight](https://open.spotify.com/album/2nEXBIArDYdR0CtfN6XXWM) | 3:55 | 2022-05-11 | 2022-07-27 |
 | [Upgrader](https://open.spotify.com/track/2kB1R4QcWMQFeElVzOHvTO) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Simple Mind](https://open.spotify.com/album/1eFLEjmPn7qdHprS4v1O52) | 4:13 | 2022-05-11 | 2022-07-29 |
 | [Venus](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 | 2022-07-22 | 2023-06-03 |

@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 107988,
+  "num_followers": 108017,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -511,30 +511,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Brahms: Symphony No. 3 / Haydn Variations",
-        "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Marin Alsop",
-          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
-        }
-      ],
-      "duration_ms": 518853,
-      "name": "Symphony No. 3 in F Major, Op. 90: IV. Allegro",
-      "url": "https://open.spotify.com/track/1c8IN6nSj9W7Orwb7XSDu8"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Brahms: Double Concerto, Op. 102 & Clarinet Quintet, Op. 115",
         "url": "https://open.spotify.com/album/7sWossih935oGlyNqT9Mgv"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 1085706,
       "name": "Brahms: Double Concerto for Violin and Cello in A Minor, Op. 102: I. Allegro",
       "url": "https://open.spotify.com/track/7rgtw2xfq32vD35ZZ6r05U"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Brahms: Symphony No. 3 / Haydn Variations",
+        "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "duration_ms": 518853,
+      "name": "Symphony No. 3 in F Major, Op. 90: IV. Allegro",
+      "url": "https://open.spotify.com/track/1c8IN6nSj9W7Orwb7XSDu8"
     },
     {
       "added_at": "2022-09-30 04:00:00",

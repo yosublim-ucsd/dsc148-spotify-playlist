@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: The BONEZ",
-  "num_followers": 45410,
+  "num_followers": 45416,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "gg\u71e6\u7136",
-        "url": "https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR"
+        "name": "NEW DAWN",
+        "url": "https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 149839,
-      "name": "gg\u71e6\u7136",
-      "url": "https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB"
+      "duration_ms": 212745,
+      "name": "NEW DAWN",
+      "url": "https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "NEW DAWN",
-        "url": "https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8"
+        "name": "gg\u71e6\u7136",
+        "url": "https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR"
       },
       "artists": [
         {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
         }
       ],
-      "duration_ms": 212745,
-      "name": "NEW DAWN",
-      "url": "https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG"
+      "duration_ms": 149839,
+      "name": "gg\u71e6\u7136",
+      "url": "https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/244u3mXBG8CnwawYKawCsw"
-      },
-      "artists": [
-        {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
-        }
-      ],
-      "duration_ms": 215428,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/4tyZPsmQnmb3A7R1EJpYD3"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "\u30e1\u30bf\u308a\uff01\uff01 (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/5ZuHwoWf9rMyj5F1DsexIt"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/2CpgOP94gBLcx93uqJnJGU"
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/244u3mXBG8CnwawYKawCsw"
       },
       "artists": [
         {
-          "name": "Sable Hills",
-          "url": "https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn"
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
         }
       ],
-      "duration_ms": 159230,
-      "name": "Misfortune",
-      "url": "https://open.spotify.com/track/1cBYQGzX0JKMS4KhbM10s4"
+      "duration_ms": 215428,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/4tyZPsmQnmb3A7R1EJpYD3"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1515,6 +1499,38 @@
       "duration_ms": 212413,
       "name": "error",
       "url": "https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2CpgOP94gBLcx93uqJnJGU"
+      },
+      "artists": [
+        {
+          "name": "Sable Hills",
+          "url": "https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Misfortune",
+      "url": "https://open.spotify.com/track/1cBYQGzX0JKMS4KhbM10s4"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u8f1d\u304f\u3082\u306e\u5929\u3088\u308a\u5815\u3061",
+        "url": "https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK"
+      },
+      "artists": [
+        {
+          "name": "PK shampoo",
+          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+        }
+      ],
+      "duration_ms": 144653,
+      "name": "\u3072\u3068\u3064\u306e\u66f2\u304c\u3067\u304d\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u8f1d\u304f\u3082\u306e\u5929\u3088\u308a\u5815\u3061",
-        "url": "https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK"
+        "name": "JUNGLE BUN DEM",
+        "url": "https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe"
       },
       "artists": [
         {
-          "name": "PK shampoo",
-          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+          "name": "SPARK!!SOUND!!SHOW!!",
+          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
         }
       ],
-      "duration_ms": 144653,
-      "name": "\u3072\u3068\u3064\u306e\u66f2\u304c\u3067\u304d\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y"
+      "duration_ms": 193520,
+      "name": "JUNGLE BUN DEM",
+      "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 247500,
       "name": "LEAVE IT ALL BEHIND",
       "url": "https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "JUNGLE BUN DEM",
-        "url": "https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe"
-      },
-      "artists": [
-        {
-          "name": "SPARK!!SOUND!!SHOW!!",
-          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "JUNGLE BUN DEM",
-      "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
     },
     {
       "added_at": "2024-07-30 15:00:00",

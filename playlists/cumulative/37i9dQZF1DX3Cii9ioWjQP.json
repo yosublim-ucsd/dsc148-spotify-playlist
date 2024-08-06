@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Romantic Bossa Nova Jazz",
+        "url": "https://open.spotify.com/album/39MI6zpDha8UnD2BTDdm3v"
+      },
+      "artists": [
+        {
+          "name": "LeoSky",
+          "url": "https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123039,
+      "name": "Bossa Nova Caf\u00e9",
+      "url": "https://open.spotify.com/track/1CpFmDDFvPvKP386r04vNV"
+    },
+    {
+      "album": {
         "name": "Breeze",
         "url": "https://open.spotify.com/album/4cGVSpkczCuwfsbLNjbx7v"
       },

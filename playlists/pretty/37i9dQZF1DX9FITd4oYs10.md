@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,930 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,933 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 56 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 |
 | 57 | [Veneza](https://open.spotify.com/track/4V1GX6kcU1ehDP1d1GopGb) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Veneza](https://open.spotify.com/album/2ybuI6MYKrfxLbtYRUp1Cx) | 4:44 |
 | 58 | [NDDN](https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [No Dia dos Nossos](https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu) | 2:44 |
-| 59 | [Poetas no Topo 2](https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Ducon](https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP) | [Poetas no Topo 2](https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb) | 8:43 |
-| 60 | [Lágrimas do Palhaço](https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | ["...Entre..."](https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX) | 3:54 |
+| 59 | [Lágrimas do Palhaço](https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | ["...Entre..."](https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX) | 3:54 |
+| 60 | [Flo Jo](https://open.spotify.com/track/6RhaUcDOtoYg8xz8SM4wSy) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 3:54 |
 
 Snapshot ID: `ZdjdPQAAAAD888dLZwR4wICGkSyHVgUn`

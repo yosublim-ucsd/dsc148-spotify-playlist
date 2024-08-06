@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ＆TEAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,612 likes - 102 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,605 likes - 102 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 13 | [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 |
 | 14 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
 | 15 | [Here I am](https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu) | 2:50 |
-| 16 | [I Do I Do \- Japanese Version](https://open.spotify.com/track/7ieTdDiAhrSzD1HjQ3Jg07) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [I Do I Do \(Japanese Version\)](https://open.spotify.com/album/7EAmwkFwXlhZAc7IWQpSGs) | 3:16 |
+| 16 | [I Do I Do \- Japanese Version](https://open.spotify.com/track/7ieTdDiAhrSzD1HjQ3Jg07) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [I Do I Do \- Japanese Version](https://open.spotify.com/album/7EAmwkFwXlhZAc7IWQpSGs) | 3:16 |
 | 17 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 |
 | 18 | [PANDA](https://open.spotify.com/track/2QeuakrxtOESvNyROxyN1G) | [Celest1a](https://open.spotify.com/artist/7hMOFPZVD8QWoAXtaYWXld) | [PANDA](https://open.spotify.com/album/14bpdzXr1wJ7AnvNgM2Ij4) | 3:06 |
 | 19 | [Shout it out](https://open.spotify.com/track/0LVZgEoVis1hCRKTHTCJ1Z) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Gibberish](https://open.spotify.com/album/5pZFs7Yt5xDHQW6gXSFtqm) | 4:30 |

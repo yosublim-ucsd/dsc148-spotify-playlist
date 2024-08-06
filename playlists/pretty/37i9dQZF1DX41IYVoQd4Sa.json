@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 29942,
+  "num_followers": 29955,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-01 21:00:00",
       "album": {
-        "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
-        "url": "https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR"
-      },
-      "artists": [
-        {
-          "name": "Jenny Penkin",
-          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
-      "url": "https://open.spotify.com/track/116GDev72vb3hj162mjDGX"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
         "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 229362,
       "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
+    },
+    {
+      "added_at": "2024-08-01 21:00:00",
+      "album": {
+        "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
+        "url": "https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR"
+      },
+      "artists": [
+        {
+          "name": "Jenny Penkin",
+          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
+      "url": "https://open.spotify.com/track/116GDev72vb3hj162mjDGX"
     },
     {
       "added_at": "2024-08-01 21:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-08-01 21:00:00",
       "album": {
+        "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
+        "url": "https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6"
+      },
+      "artists": [
+        {
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
+      "url": "https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI"
+    },
+    {
+      "added_at": "2024-08-01 21:00:00",
+      "album": {
         "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 208000,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
-        "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
-        "url": "https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6"
-      },
-      "artists": [
-        {
-          "name": "The Backyard",
-          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
-      "url": "https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI"
     },
     {
       "added_at": "2024-08-01 21:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-08-01 21:00:00",
       "album": {
-        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
-        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
-      },
-      "artists": [
-        {
-          "name": "Ilan Peled",
-          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
-      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 183331,
       "name": "Goodbye Mary",
       "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
+    },
+    {
+      "added_at": "2024-08-01 21:00:00",
+      "album": {
+        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
+      },
+      "artists": [
+        {
+          "name": "Ilan Peled",
+          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

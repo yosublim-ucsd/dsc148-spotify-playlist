@@ -4400,7 +4400,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 118104,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
@@ -4476,6 +4476,24 @@
       "duration_ms": 114887,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/6d41Qcxk0r5zJFzG683NRt"
+    },
+    {
+      "album": {
+        "name": "Dale Don Dale",
+        "url": "https://open.spotify.com/album/37ncChnHhgIZjm3L9yEkm3"
+      },
+      "artists": [
+        {
+          "name": "Resital",
+          "url": "https://open.spotify.com/artist/1Q8EE2MKIF3VHZxPdHE1bs"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114939,
+      "name": "Dale Don Dale",
+      "url": "https://open.spotify.com/track/0r7Z4UhoyynuMZcDF1VUTf"
     },
     {
       "album": {
@@ -12966,10 +12984,28 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 144000,
       "name": "OF OF OF",
       "url": "https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW"
+    },
+    {
+      "album": {
+        "name": "OF OF OF",
+        "url": "https://open.spotify.com/album/7hHkMo9TZlVTNnTOdrcbZv"
+      },
+      "artists": [
+        {
+          "name": "iwhinky nora birkan",
+          "url": "https://open.spotify.com/artist/70wpcwKXvsGKe1HqwVe58y"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "OF OF OF",
+      "url": "https://open.spotify.com/track/2TboIe90FL9Pc7I7Qf11UV"
     },
     {
       "album": {

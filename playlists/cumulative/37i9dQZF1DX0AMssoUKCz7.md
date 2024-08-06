@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-719 songs - 1 day 12 hr 22 min
+720 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 | 2022-04-01 |  |
 | [Bloom \(Brendan Mills Remix\)](https://open.spotify.com/track/18IP0JyVbV7ignrEW0HyNR) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE) | [Bloom \(Brendan Mills Remix\)](https://open.spotify.com/album/1n4ehWqCzUM2BVAjIXydCe) | 2:36 | 2024-04-05 |  |
 | [Blossom](https://open.spotify.com/track/4SgjQcULlbOSQQqdpPQyHW) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Blossom](https://open.spotify.com/album/5e33ZdqLTi4rBv0yVlSQfO) | 2:10 | 2024-03-01 |  |
-| [Blue](https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Sensei Schön](https://open.spotify.com/artist/1ukxakPI5ZQkXoeOpze1oc) | [Blue](https://open.spotify.com/album/34fPX3fiT4dzVc29CosY9r) | 3:55 | 2022-06-17 |  |
+| [Blue](https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Sensei Schön](https://open.spotify.com/artist/1ukxakPI5ZQkXoeOpze1oc) | [Blue](https://open.spotify.com/album/34fPX3fiT4dzVc29CosY9r) | 3:55 | 2022-06-17 | 2024-08-06 |
 | [Blue Lagoon](https://open.spotify.com/track/6aQtasf3Q6JZIBHCWXsyej) | [LVSN](https://open.spotify.com/artist/6FU8aRDlZ8zAMjmi5PvT35), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Finn Kleffmann](https://open.spotify.com/artist/6FnTIb3jf0VUbOIFgxO3he) | [Blue Lagoon](https://open.spotify.com/album/57nS0f2WiZk3m0RwLQxtWi) | 3:08 | 2022-01-14 | 2023-05-13 |
 | [Blue Moon](https://open.spotify.com/track/72p4bX3wUsqySOtUBvVIXp) | [Tippy Ro](https://open.spotify.com/artist/7sgxEpfnodusFKzUSTSFIY) | [Blue Moon](https://open.spotify.com/album/48TAtMtx4aogZtbU9w9svQ) | 4:12 | 2022-04-01 | 2022-07-23 |
 | [Body to Body](https://open.spotify.com/track/3qyeNnFY67zX6VmmIbzPsL) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [Body to Body](https://open.spotify.com/album/4nCftrm5v7amR0TGNVrB2F) | 2:58 | 2022-02-18 | 2022-04-02 |
@@ -565,6 +565,7 @@
 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good to Me \(Radio Edit\)](https://open.spotify.com/album/5z6aqbVipcLm2KtFLYMhfj) | 3:46 | 2022-01-14 | 2024-07-19 |
 | [Sober](https://open.spotify.com/track/623LXv9UubijvwS7FBjiVh) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Sober](https://open.spotify.com/album/7p1RDJXlQRetuFhUOk3Byn) | 2:48 | 2023-02-10 | 2023-09-13 |
 | [Sober](https://open.spotify.com/track/7AaaVPT66ppeUh2dhhbUz0) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Sober](https://open.spotify.com/album/7IY5brRxmhOk0DrxQ37YPF) | 2:48 | 2022-01-14 | 2023-02-06 |
+| [Some Day](https://open.spotify.com/track/58FS4rjjq7wK0diVmuBnCp) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Some Day](https://open.spotify.com/album/4UEuk5CqCZjJsTqOfB3fNf) | 2:43 | 2024-08-02 |  |
 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 | 2022-01-14 | 2022-09-03 |
 | [Someone You Loved](https://open.spotify.com/track/1acOxwadqwCMqSTho4Vh0B) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Justin Rhodes](https://open.spotify.com/artist/1UnFIMbh19hkqi7kAUXEXt) | [Someone You Loved](https://open.spotify.com/album/3hZU2fpkYh4RSzx62pdDDk) | 2:34 | 2022-09-09 |  |
 | [Something Good \- Radio Edit](https://open.spotify.com/track/0BGsenauCQGUHZrJ6SDXEm) | [MOUNT & Nicolas Haelg](https://open.spotify.com/artist/26WCL5eJDbWBeI7IHtn9sG) | [Something Good \(Radio Edit\)](https://open.spotify.com/album/3XUfXVEft5AgWoYuQ4CF3G) | 2:58 | 2022-01-14 | 2022-04-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Dale! Hit the dance floor with Dolly Parton and Pitbull! ",
+  "description": "Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus",
   "name": "Country Club",
   "tracks": [
     {
@@ -4302,6 +4302,28 @@
       "duration_ms": 186980,
       "name": "Wildfire - Talegate Remix",
       "url": "https://open.spotify.com/track/2UkreilNoKlrqe6VdXV0uq"
+    },
+    {
+      "album": {
+        "name": "Wildflowers and Wild Horses (Remix)",
+        "url": "https://open.spotify.com/album/7LSlBPrtlUU7Ip0keE5emb"
+      },
+      "artists": [
+        {
+          "name": "Brandi Cyrus",
+          "url": "https://open.spotify.com/artist/0Derlvisw6ty4fMjauZh9A"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Wildflowers and Wild Horses (Remix)",
+      "url": "https://open.spotify.com/track/40WlYQ6Vv0cwmJi4lVQARo"
     },
     {
       "album": {

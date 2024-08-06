@@ -1,6 +1,6 @@
 {
   "description": "Latin songs you love like you've never heard before. Cover: Natanael Cano",
-  "num_followers": 5157,
+  "num_followers": 5159,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
@@ -632,6 +632,22 @@
       "added_at": "2024-01-30 23:00:20",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Ambar Bossa Nova - Spotify Singles",
+      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
+    },
+    {
+      "added_at": "2024-01-30 23:00:20",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
       },
       "artists": [
@@ -647,22 +663,6 @@
       "duration_ms": 204734,
       "name": "Un Vuelo A La (feat. Jessie Reyez) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ"
-    },
-    {
-      "added_at": "2024-01-30 23:00:20",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Ambar Bossa Nova - Spotify Singles",
-      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
     },
     {
       "added_at": "2024-01-30 23:00:20",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-01-30 23:00:20",
       "album": {
-        "name": "Da Maior Import\u00e2ncia - Spotify Singles",
-        "url": "https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "Da Maior Import\u00e2ncia - Spotify Singles",
-      "url": "https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i"
-    },
-    {
-      "added_at": "2024-01-30 23:00:20",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 258937,
       "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
+    },
+    {
+      "added_at": "2024-01-30 23:00:20",
+      "album": {
+        "name": "Da Maior Import\u00e2ncia - Spotify Singles",
+        "url": "https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 301714,
+      "name": "Da Maior Import\u00e2ncia - Spotify Singles",
+      "url": "https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i"
     },
     {
       "added_at": "2024-01-30 23:00:20",

@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 142759,
       "name": "Before",
       "url": "https://open.spotify.com/track/29v3pHTKuYzcCvW1Y6Dgp3"
@@ -8323,6 +8323,28 @@
     },
     {
       "album": {
+        "name": "keepsakeFM",
+        "url": "https://open.spotify.com/album/360zxWjheLBzqwv5hVm7QD"
+      },
+      "artists": [
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        },
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "keepsakeFM",
+      "url": "https://open.spotify.com/track/66ic3WTFVUyXNGItFa7o6E"
+    },
+    {
+      "album": {
         "name": "Gray Instrument, Vol. 2",
         "url": "https://open.spotify.com/album/3UQxLmOATVuciip9vTl4rJ"
       },
@@ -8916,6 +8938,28 @@
       "duration_ms": 340658,
       "name": "Lies",
       "url": "https://open.spotify.com/track/3ITz7EuikyRkS8FL9dVJoB"
+    },
+    {
+      "album": {
+        "name": "It's Always Been You",
+        "url": "https://open.spotify.com/album/6R8qor0kjDehlzVXCCgvJ2"
+      },
+      "artists": [
+        {
+          "name": "Estle",
+          "url": "https://open.spotify.com/artist/7t1AOe4bZv5UFEd0LtVqND"
+        },
+        {
+          "name": "Ari Liloia",
+          "url": "https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214734,
+      "name": "Life In Superposition",
+      "url": "https://open.spotify.com/track/0IUyjp9h2UhcbvbdwgzcgE"
     },
     {
       "album": {
@@ -12330,7 +12374,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 334589,
       "name": "Ray",
       "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
@@ -13444,7 +13488,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 355061,
       "name": "Seven",
       "url": "https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci"
@@ -14337,6 +14381,24 @@
     },
     {
       "album": {
+        "name": "HEAD RUSH",
+        "url": "https://open.spotify.com/album/7GZ7FkFUEPdICv4kzWp9Wg"
+      },
+      "artists": [
+        {
+          "name": "TUNA DISPLAY",
+          "url": "https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204440,
+      "name": "SPELLBOUND",
+      "url": "https://open.spotify.com/track/4HnWzzLIaJoaTzxjZgPO7k"
+    },
+    {
+      "album": {
         "name": "Spike",
         "url": "https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs"
       },
@@ -15221,6 +15283,24 @@
     },
     {
       "album": {
+        "name": "carepackage",
+        "url": "https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN"
+      },
+      "artists": [
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "tadpoles lullaby",
+      "url": "https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT"
+    },
+    {
+      "album": {
         "name": "Take Them",
         "url": "https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp"
       },
@@ -15642,7 +15722,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 297009,
       "name": "the family we find",
       "url": "https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ"

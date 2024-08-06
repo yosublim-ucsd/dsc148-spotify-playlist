@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "BAILALO",
+        "url": "https://open.spotify.com/album/3kU7bagZ1WwiGuwisNGzCN"
+      },
+      "artists": [
+        {
+          "name": "Fumaratto",
+          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "BAILALO",
+      "url": "https://open.spotify.com/track/7e6q8pnMh7AExUcwSJRiqU"
+    },
+    {
+      "album": {
         "name": "Bailame",
         "url": "https://open.spotify.com/album/7reELDsMhzX80cJants71P"
       },
@@ -848,7 +866,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 185287,
       "name": "Gocemonos la Vida",
       "url": "https://open.spotify.com/track/1f2jW4xPtm9UUxM2d0PPBD"

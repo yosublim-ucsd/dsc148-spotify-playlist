@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: bbno$
 
-712 songs - 1 day 14 hr 57 min
+713 songs - 1 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-11 | 2022-04-29 |
 | [Dance 2 The Beat](https://open.spotify.com/track/3sP5Qa52HgEZUpbJtNJKs0) | [HeyMcFly!](https://open.spotify.com/artist/65lYK1dU8mQjVthSTNtJS2) | [Dance 2 The Beat](https://open.spotify.com/album/6qwyUm3xT0G3C0acI1jlPY) | 3:36 | 2022-07-08 | 2022-08-06 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 | 2023-10-27 |  |
-| [Danger \- REAPER Remix](https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Danger \(REAPER Remix\)](https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2) | 3:07 | 2024-04-19 |  |
+| [Danger \- REAPER Remix](https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Danger \(REAPER Remix\)](https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2) | 3:07 | 2024-04-19 | 2024-08-06 |
 | [Dani Girl](https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Dani Girl](https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa) | 3:54 | 2022-02-25 | 2022-07-16 |
 | [Dark & Danger](https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Dark & Danger](https://open.spotify.com/album/52on97V2vFf9FfCGziCmox) | 2:43 | 2023-07-21 | 2024-01-13 |
 | [Deep Inside Of Me](https://open.spotify.com/track/7j5eg5Mb7n5iapdqY1T74A) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Deep Inside Of Me](https://open.spotify.com/album/5RVbXqlePWY6CrEIWnGpUX) | 3:01 | 2022-07-29 | 2022-08-27 |
@@ -370,6 +370,7 @@
 | [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 | 2022-09-09 | 2022-10-08 |
 | [Lifting](https://open.spotify.com/track/63KKZeGwmcSev8UWpvP3g3) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Lifting](https://open.spotify.com/album/6VVQDWR3d19iSujcegzH3T) | 2:51 | 2022-01-14 | 2022-02-12 |
 | [Light of Mine](https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jimorrow](https://open.spotify.com/artist/06qfSjDnOB1ZMdkynif9lv) | [Light of Mine](https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc) | 2:30 | 2022-01-14 | 2022-03-12 |
+| [Lights On](https://open.spotify.com/track/6D5a5CV8ARtijH5pLUKEuK) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Lights On](https://open.spotify.com/album/3FjIckpnCLd0sfOb6GQ4fD) | 3:13 | 2024-08-02 |  |
 | [Lights Out](https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Lights Out](https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB) | 3:38 | 2024-05-10 |  |
 | [Lights Out](https://open.spotify.com/track/10PrnkYAVa90S27nMDPps9) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Lights Out](https://open.spotify.com/album/3WUZRq9I8ki4hQGh95wpSv) | 4:39 | 2022-10-07 | 2022-12-10 |
 | [Lightspeed](https://open.spotify.com/track/5gITmjpV05xxyylbHccLvS) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Lightspeed](https://open.spotify.com/album/5A56BDZ9UIoDkYpC6dLk2z) | 2:52 | 2022-01-14 | 2022-03-12 |

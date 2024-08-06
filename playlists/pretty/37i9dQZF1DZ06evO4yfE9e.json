@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 1459,
+  "num_followers": 1464,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqrQAAAAAABIi1NT4ni2OcYIT8/C3AAO",
+  "snapshot_id": "Zq7EgAAAAACVJSVoi3Gj7jiUxwfIkA1E",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 146289,
+      "name": "ENEMIES (feat. bludnymph & Shift K3Y)",
+      "url": "https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SEX MACHINA",
         "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
       },
@@ -127,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mozart",
-        "url": "https://open.spotify.com/album/4dWzLbeZF84liXgNUEJiRn"
+        "name": "Deserve Each Other",
+        "url": "https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd"
       },
       "artists": [
         {
@@ -136,9 +160,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 97272,
-      "name": "Mozart",
-      "url": "https://open.spotify.com/track/3MMDi1qBwOB8Zq6l5Hbhdh"
+      "duration_ms": 167650,
+      "name": "Deserve Each Other",
+      "url": "https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM"
     },
     {
       "added_at": null,
@@ -159,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deserve Each Other",
-        "url": "https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd"
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/4dWzLbeZF84liXgNUEJiRn"
       },
       "artists": [
         {
@@ -168,9 +192,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 167650,
-      "name": "Deserve Each Other",
-      "url": "https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM"
+      "duration_ms": 97272,
+      "name": "Mozart",
+      "url": "https://open.spotify.com/track/3MMDi1qBwOB8Zq6l5Hbhdh"
     },
     {
       "added_at": null,

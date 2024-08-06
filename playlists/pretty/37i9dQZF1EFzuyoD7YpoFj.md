@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305 likes - 401 songs - 21 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 401 songs - 21 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 36 | [Façamos \(Vamos Amar\)](https://open.spotify.com/track/7y6vnVnkRzcxUZMdoCaksh) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Do Cóccix Até o Pescoço](https://open.spotify.com/album/1jPumMqSdJBEfhZyRUrDfR) | 5:53 |
 | 37 | [I've Got You Under My Skin](https://open.spotify.com/track/1eBKL70QNc5b1cGLSG3FZ3) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Sinatra](https://open.spotify.com/album/1gPgrV9ISZzujHyTbNTaxK) | 3:29 |
 | 38 | [Leave It To Me](https://open.spotify.com/track/3ADaOcwiMPW3QSBJMBEoXs) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Brian & Tony Gold](https://open.spotify.com/artist/0hXfXDhsiayeNFG98qOPHs) | [Hot Shot](https://open.spotify.com/album/210xxpSUNwaVdWEKIjO52n) | 3:37 |
-| 39 | [Someone To Watch Over Me](https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 5:57 |
-| 40 | [Fujiyama Mama \- Remastered](https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:14 |
+| 39 | [Fujiyama Mama \- Remastered](https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:14 |
+| 40 | [Someone To Watch Over Me](https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 5:57 |
 | 41 | [Wunderbar](https://open.spotify.com/track/4WXJe3LkTLQaLy3QfB9EEk) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 2:49 |
 | 42 | [I Love Paris](https://open.spotify.com/track/1oWzJpxMSPWiUvedmfsKWQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 4:59 |
 | 43 | [I've Got You Under My Skin](https://open.spotify.com/track/5JfYrlqAHAY7ZYMoEua53B) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 2:43 |
@@ -263,8 +263,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 253 | [Say It with Gin](https://open.spotify.com/track/6YPVMDDOUbWY0FrnG5Q2TW) | [The New Yorkers 2017 Encores! Male Ensemble](https://open.spotify.com/artist/4l5H86RbfkVm1dWLoyLN2V), [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter's The New Yorkers \(2017 Encores! Cast Recording\)](https://open.spotify.com/album/6yWoHW2MUkfK2BJXViduHi) | 1:40 |
 | 254 | [Please Don't Make Me Be Good](https://open.spotify.com/track/6CmuOb8XjR7ZvWaM13m3zj) | [Robyn Hurder](https://open.spotify.com/artist/1saEviAIhddEAjIOvZEeDi), [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter's The New Yorkers \(2017 Encores! Cast Recording\)](https://open.spotify.com/album/6yWoHW2MUkfK2BJXViduHi) | 3:22 |
 | 255 | [You Might Be](https://open.spotify.com/track/1POqDpmhzmqX0q6SIrKSnd) | [Bit Riot](https://open.spotify.com/artist/4g83Kk0qKY55Cs5OUoYoDk), [Tupreme](https://open.spotify.com/artist/4jXA5QTCivCbCzGn0c4jCb) | [You Might Be](https://open.spotify.com/album/1MeI84axh1pQ1SP28BP5xM) | 4:00 |
-| 256 | [When Love Beckoned](https://open.spotify.com/track/0HWc6ey66jIHdOhIiRAm2A) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad), [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Sweet & Simple \(Vol\. 2\)](https://open.spotify.com/album/59nEZFLagAvkQvLfVDAlb5) | 3:14 |
-| 257 | [Gardener's Suite](https://open.spotify.com/track/1s5978mrmuDE6dI7jm4jUf) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:18 |
+| 256 | [Gardener's Suite](https://open.spotify.com/track/1s5978mrmuDE6dI7jm4jUf) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:18 |
+| 257 | [When Love Beckoned](https://open.spotify.com/track/0HWc6ey66jIHdOhIiRAm2A) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad), [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Sweet & Simple \(Vol\. 2\)](https://open.spotify.com/album/59nEZFLagAvkQvLfVDAlb5) | 3:14 |
 | 258 | [Baby Lets Dance](https://open.spotify.com/track/1kAngNI7qc6qb1W00LHUPg) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [All Kinds of Tough](https://open.spotify.com/album/6GJF2GAd7BSw43TnMqzZbu) | 3:51 |
 | 259 | [Silk Stockings](https://open.spotify.com/track/1gPgwdyN9t8b3cVJgBX8sG) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 4:29 |
 | 260 | [Veneno para el Corazón](https://open.spotify.com/track/6EzYRxUF3dZfYb6TtF96i7) | [Orquesta Music Hall](https://open.spotify.com/artist/5qtF6rU7NySy0pLtNAU2GM) | [Emociones](https://open.spotify.com/album/24vzu4AEvkGUmBYjleFPcD) | 3:38 |
@@ -410,4 +410,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 400 | [Fish](https://open.spotify.com/track/31XMjn25vt3WReCJLzJvas) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 3:10 |
 | 401 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbYjOAAAAADR2wnWTWSGD/XPJhbX6j98`
+Snapshot ID: `AbYo2AAAAADOh6va3q5hYjrUOWgp3Mnv`

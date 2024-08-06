@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap. Cover: Control Freak",
-  "num_followers": 887266,
+  "num_followers": 886922,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "My Mind",
-        "url": "https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3"
-      },
-      "artists": [
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 152651,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "LOYAL",
         "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 255882,
       "name": "LOYAL",
       "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 152651,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 207964,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Uh Uh",
         "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 193098,
       "name": "Uh Uh",
       "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 207964,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1763,30 +1763,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "For The Love Of Bounce",
-        "url": "https://open.spotify.com/album/0JVygXqxUp7sIyDrFDiRvB"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "UK Ting",
-      "url": "https://open.spotify.com/track/3PuTUAsUTR7D3PnYtW1yj4"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Cyanide",
         "url": "https://open.spotify.com/album/0PjSvHusBgifniYJcyBsBp"
       },
@@ -1811,6 +1787,30 @@
       "duration_ms": 185285,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/3iFJjgV27J4vDs9N7RAAKs"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "For The Love Of Bounce",
+        "url": "https://open.spotify.com/album/0JVygXqxUp7sIyDrFDiRvB"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "UK Ting",
+      "url": "https://open.spotify.com/track/3PuTUAsUTR7D3PnYtW1yj4"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1903,22 +1903,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Makin Moves",
-        "url": "https://open.spotify.com/album/0KiLaRhGNQYN0j94MVjKhN"
+        "name": "In The Sky",
+        "url": "https://open.spotify.com/album/0JHdqE1akiFDDTcWM7oJAw"
       },
       "artists": [
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Mr. Carmack",
-          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Makin Moves",
-      "url": "https://open.spotify.com/track/3QwYSJpsLN0qannLsQqdVE"
+      "duration_ms": 233142,
+      "name": "In The Sky",
+      "url": "https://open.spotify.com/track/3Z0aVXkpXQhpYosTStTu4t"
     }
   ],
   "unique_name": "Trap Mojito",

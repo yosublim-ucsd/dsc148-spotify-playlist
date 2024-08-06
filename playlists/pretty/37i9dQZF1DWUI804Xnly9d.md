@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,718 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,733 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 6 | [Laazmi](https://open.spotify.com/track/3tT3fyLD98cL19jyPbzn77) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Laazmi](https://open.spotify.com/album/6To7c9IW2w6NbXKLxRDFQg) | 2:54 |
 | 7 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 | 8 | [Khabar](https://open.spotify.com/track/08M1HqLsOYeWetO7WYNrIf) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Khabar](https://open.spotify.com/album/37fNvMhuiO1O2F4EdCCKqq) | 3:33 |
-| 9 | [Haule Haule](https://open.spotify.com/track/3hvTLFgfNFm4AuXJOYfoIu) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautial](https://open.spotify.com/artist/1HBiKH7YLG076A5gqo1Wcz), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 3:32 |
+| 9 | [Haule Haule](https://open.spotify.com/track/3hvTLFgfNFm4AuXJOYfoIu) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 3:32 |
 | 10 | [Zariya](https://open.spotify.com/track/7BCYStgTZ3clAJ7UkNPqBX) | [Isht](https://open.spotify.com/artist/0Yo4hE8v9rxzOz4xPZToyA) | [Zariya](https://open.spotify.com/album/1KZSSJxCBAo1yTYeMqeUwb) | 3:17 |
 | 11 | [Dil Besabar](https://open.spotify.com/track/5LV90I2HKJFJ8GMNaS75ZA) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Dil Besabar](https://open.spotify.com/album/7bstmsZGHaiZfupqDfk9NA) | 3:10 |
 | 12 | [Ho Savera](https://open.spotify.com/track/5ENhWLxHCaUP5EVh1I1Bbn) | [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo), [Suvankar Chatterjee](https://open.spotify.com/artist/5KCVOltmLBQLofTjn8kSYo) | [Ho Savera](https://open.spotify.com/album/690vcyjxcrzMMgi54ulMkz) | 3:08 |

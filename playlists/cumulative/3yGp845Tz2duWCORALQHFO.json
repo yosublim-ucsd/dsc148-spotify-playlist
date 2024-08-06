@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Bass, Lights, Disco!",
+        "url": "https://open.spotify.com/album/1jcLBLc4HUf8GdjcigaPay"
+      },
+      "artists": [
+        {
+          "name": "Mala'kai",
+          "url": "https://open.spotify.com/artist/5yrQaGtBMRudJctcPQtTE5"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289655,
+      "name": "Bass, Lights, Disco!",
+      "url": "https://open.spotify.com/track/2KovjxHUPtxdrtlQ3rLn5K"
+    },
+    {
+      "album": {
         "name": "Be As One",
         "url": "https://open.spotify.com/album/41908SUGbE1gef0aBlyblN"
       },
@@ -2236,6 +2254,28 @@
       "duration_ms": 185196,
       "name": "Dame Mas",
       "url": "https://open.spotify.com/track/2TtR1AKiyJho8gZDVr5SX2"
+    },
+    {
+      "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/33LZLzreaqhagXPWvQZX0b"
+      },
+      "artists": [
+        {
+          "name": "Kallaghan",
+          "url": "https://open.spotify.com/artist/3JUhLQVscB3juawfNkohf7"
+        },
+        {
+          "name": "Emmi K.",
+          "url": "https://open.spotify.com/artist/6wMMXhndhXrFBpID88JU8x"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/3cW6yVk7W6AYk5zVJY4jnP"
     },
     {
       "album": {
@@ -12492,6 +12532,24 @@
       "duration_ms": 180329,
       "name": "The Showdown",
       "url": "https://open.spotify.com/track/0GMhPWb7ljKYBpJ8iEqInL"
+    },
+    {
+      "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/2Vsv3rYooQ8dTocNIKJ7F6"
+      },
+      "artists": [
+        {
+          "name": "Aspirin",
+          "url": "https://open.spotify.com/artist/5hY7AfoaAPsONSegTBnxjw"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221102,
+      "name": "The Time Is Now",
+      "url": "https://open.spotify.com/track/2Fydhl0XXeTkWJigMN00Ga"
     },
     {
       "album": {

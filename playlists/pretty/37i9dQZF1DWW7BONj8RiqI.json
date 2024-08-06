@@ -1,15 +1,15 @@
 {
-  "description": "The Soca hits we all love from back then til right now. Cover: Problem Child",
-  "num_followers": 209939,
+  "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
+  "num_followers": 210003,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqFAxwAAAADljxd7SiB3ED1VgyG4JHdY",
+  "snapshot_id": "ZrEwDwAAAADhbDaCGTPj9E+gxJNOmV6c",
   "tracks": [
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Black Keys Riddim",
         "url": "https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Carnival Contract",
         "url": "https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Fast Wine",
+        "url": "https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 204828,
+      "name": "Fast Wine",
+      "url": "https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Turn Me On (Online Music)",
         "url": "https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Soca Gold 2003",
         "url": "https://open.spotify.com/album/5Eg7rfQh9NtDvffZ1yyyyP"
@@ -81,23 +97,7 @@
       "url": "https://open.spotify.com/track/0ENQCg0FziqV4VB9U2xTf5"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Folklore Riddim",
-        "url": "https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "We Muzik: Soca 2014 Trinidad and Tobago Carnival, Vol. 5 (Updated Version)",
         "url": "https://open.spotify.com/album/1QNplVKE3Z1O8XixHBMjRD"
@@ -117,23 +117,23 @@
       "url": "https://open.spotify.com/track/0K7hNWyNpG4PuYKpXEulAl"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Too Real",
-        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
+        "name": "Folklore Riddim",
+        "url": "https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm"
       },
       "artists": [
         {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Too Real",
-      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
+      "duration_ms": 198857,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "D N A",
         "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
@@ -149,7 +149,39 @@
       "url": "https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Too Real",
+        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Too Real",
+      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
@@ -173,23 +205,27 @@
       "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+        "name": "Hot Granny Riddim",
+        "url": "https://open.spotify.com/album/7gQWX5rAl2e9Vy9LhM7HRP"
       },
       "artists": [
         {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+          "name": "Hot Granny Riddim",
+          "url": "https://open.spotify.com/artist/4MsyVNMiaF1HFeLXSpQtI8"
+        },
+        {
+          "name": "Tionne Hernandez",
+          "url": "https://open.spotify.com/artist/1fP3b2tIAcjgAxVYvsagSR"
         }
       ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+      "duration_ms": 97600,
+      "name": "Starta Pack",
+      "url": "https://open.spotify.com/track/7i8JuawAdNrMR14qpwvaHi"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Mind My Business",
         "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
@@ -213,27 +249,7 @@
       "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Hot Granny Riddim",
-        "url": "https://open.spotify.com/album/7gQWX5rAl2e9Vy9LhM7HRP"
-      },
-      "artists": [
-        {
-          "name": "Hot Granny Riddim",
-          "url": "https://open.spotify.com/artist/4MsyVNMiaF1HFeLXSpQtI8"
-        },
-        {
-          "name": "Tionne Hernandez",
-          "url": "https://open.spotify.com/artist/1fP3b2tIAcjgAxVYvsagSR"
-        }
-      ],
-      "duration_ms": 97600,
-      "name": "Starta Pack",
-      "url": "https://open.spotify.com/track/7i8JuawAdNrMR14qpwvaHi"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Savannah Grass",
         "url": "https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0"
@@ -249,7 +265,27 @@
       "url": "https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Shockwave Riddim",
+        "url": "https://open.spotify.com/album/4dLcAsqcq5hFJKb1bPwIGe"
+      },
+      "artists": [
+        {
+          "name": "Quane",
+          "url": "https://open.spotify.com/artist/1vXDnxEDIaiPXl7uPtrJh0"
+        },
+        {
+          "name": "Triple Swaggg",
+          "url": "https://open.spotify.com/artist/0we9rq52Epe2kW6RX6GX8w"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bubble Up",
+      "url": "https://open.spotify.com/track/7lzzzjC3NJS2Oe6x8RTp3b"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Bicycle Ride (Soca Remix) - Single",
         "url": "https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2"
@@ -273,27 +309,7 @@
       "url": "https://open.spotify.com/track/3iGfDrCxEu5PLayUTF9OMX"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Shockwave Riddim",
-        "url": "https://open.spotify.com/album/4dLcAsqcq5hFJKb1bPwIGe"
-      },
-      "artists": [
-        {
-          "name": "Quane",
-          "url": "https://open.spotify.com/artist/1vXDnxEDIaiPXl7uPtrJh0"
-        },
-        {
-          "name": "Triple Swaggg",
-          "url": "https://open.spotify.com/artist/0we9rq52Epe2kW6RX6GX8w"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bubble Up",
-      "url": "https://open.spotify.com/track/7lzzzjC3NJS2Oe6x8RTp3b"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Like Yuh Self",
         "url": "https://open.spotify.com/album/3CRTmP0iyWPAsG54CkxUO5"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/1gzoAtrRQlcrRHgRc9K4OC"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Overdue",
         "url": "https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "1 On 1",
         "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
@@ -345,23 +361,27 @@
       "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+        "name": "Soca Universe 2024",
+        "url": "https://open.spotify.com/album/40ffYQSB27EKrBNaZ0g3jj"
       },
       "artists": [
         {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+          "name": "Nessa Preppy",
+          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
         }
       ],
-      "duration_ms": 238493,
-      "name": "Roll It Gal",
-      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
+      "duration_ms": 150508,
+      "name": "To My Ex",
+      "url": "https://open.spotify.com/track/65tYC4ksMoiJYnFhqOyDzZ"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Practice",
         "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
@@ -377,39 +397,23 @@
       "url": "https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "iShal",
-        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
       },
       "artists": [
         {
-          "name": "Shal Marshall",
-          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
         }
       ],
-      "duration_ms": 216405,
-      "name": "Splinters",
-      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
+      "duration_ms": 238493,
+      "name": "Roll It Gal",
+      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "The A List",
-        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
-      },
-      "artists": [
-        {
-          "name": "Pumpa",
-          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
-        }
-      ],
-      "duration_ms": 217913,
-      "name": "The A List",
-      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Tack Back",
         "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
@@ -429,7 +433,39 @@
       "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "iShal",
+        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "duration_ms": 216405,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "The A List",
+        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
+      },
+      "artists": [
+        {
+          "name": "Pumpa",
+          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
+        }
+      ],
+      "duration_ms": 217913,
+      "name": "The A List",
+      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Hard Fete",
         "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "No Apology",
         "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Bakanation",
         "url": "https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd"
@@ -477,7 +513,7 @@
       "url": "https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Shake The Place",
         "url": "https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm"
@@ -497,7 +533,7 @@
       "url": "https://open.spotify.com/track/6UrcpxooHisuiZHZUa6cwU"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
@@ -513,7 +549,7 @@
       "url": "https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Vent",
         "url": "https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc"
@@ -533,39 +569,7 @@
       "url": "https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Studio B Presents Crop Over Hits 2014",
-        "url": "https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt"
-      },
-      "artists": [
-        {
-          "name": "Fadda Fox",
-          "url": "https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK"
-        }
-      ],
-      "duration_ms": 233563,
-      "name": "Ducking",
-      "url": "https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Workout (feat. Nailah Blackman)",
         "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
@@ -585,7 +589,39 @@
       "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Studio B Presents Crop Over Hits 2014",
+        "url": "https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt"
+      },
+      "artists": [
+        {
+          "name": "Fadda Fox",
+          "url": "https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK"
+        }
+      ],
+      "duration_ms": 233563,
+      "name": "Ducking",
+      "url": "https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Hooked on Soca",
         "url": "https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd"
@@ -601,7 +637,7 @@
       "url": "https://open.spotify.com/track/5ZAKzjJeCTHnK3cGw1PzXa"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Dear Promoter",
         "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Mood (feat. Kes)",
         "url": "https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf"
@@ -641,7 +677,7 @@
       "url": "https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Turn Up",
         "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
@@ -657,7 +693,7 @@
       "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Funky Business",
         "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Give It to Ya",
         "url": "https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc"
@@ -689,7 +725,7 @@
       "url": "https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Ultimate Party - Pump Me Up",
         "url": "https://open.spotify.com/album/5Js10UyFFBh7Zpiw8pWzy3"
@@ -705,7 +741,23 @@
       "url": "https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "King Bubba Mashup Volume 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
@@ -725,7 +777,7 @@
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "How She Like It",
         "url": "https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC"
@@ -741,23 +793,7 @@
       "url": "https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Face Beat",
         "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
@@ -773,7 +809,7 @@
       "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Engine Room",
         "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
@@ -789,7 +825,7 @@
       "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Spanish Fly Riddim",
         "url": "https://open.spotify.com/album/1DlfMapYkUFtvl1WliOjHH"
@@ -805,7 +841,7 @@
       "url": "https://open.spotify.com/track/5AH8FUXusa1sUfLzqIRImU"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "In the Water",
         "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
@@ -825,7 +861,7 @@
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7"
@@ -845,7 +881,7 @@
       "url": "https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Run Wid It",
         "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
@@ -861,7 +897,7 @@
       "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
@@ -877,7 +913,7 @@
       "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Back Bend (Remix)",
         "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
@@ -897,7 +933,7 @@
       "url": "https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Born Wit It (Bumpa Riddim)",
         "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
@@ -913,7 +949,7 @@
       "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
@@ -933,7 +969,7 @@
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "No Behavior Shell Down",
         "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
@@ -949,7 +985,7 @@
       "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "The Queen of Bacchanal",
         "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
@@ -965,7 +1001,7 @@
       "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Differentology",
         "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
@@ -981,7 +1017,7 @@
       "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Pop's Guitar Riddim",
         "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
@@ -997,7 +1033,7 @@
       "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Search Party",
         "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
@@ -1013,7 +1049,7 @@
       "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Long Live Soca",
         "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
@@ -1029,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Happy Daze Riddim",
         "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
@@ -1045,7 +1081,7 @@
       "url": "https://open.spotify.com/track/5RuFeFXb4fmGiNyxedd34J"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Caution Riddim",
         "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
@@ -1061,7 +1097,7 @@
       "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
@@ -1077,7 +1113,7 @@
       "url": "https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "YAGO",
         "url": "https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa"
@@ -1097,23 +1133,7 @@
       "url": "https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Retro Fete Riddim",
-        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "Party Nice",
-      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Soca Gold 2007",
         "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
@@ -1129,7 +1149,23 @@
       "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Retro Fete Riddim",
+        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "Party Nice",
+      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Soca Queen",
         "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
@@ -1145,23 +1181,7 @@
       "url": "https://open.spotify.com/track/0jIiX4Vb30zGHX9aLOHhIR"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Tight Squeeze Riddim",
         "url": "https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3"
@@ -1177,7 +1197,23 @@
       "url": "https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP"
@@ -1197,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Down Dey",
         "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
@@ -1217,7 +1253,7 @@
       "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Soca Gold 2007",
         "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
@@ -1233,7 +1269,23 @@
       "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
+        }
+      ],
+      "duration_ms": 238032,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF"
@@ -1253,23 +1305,7 @@
       "url": "https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Vagabond",
-        "url": "https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
-        }
-      ],
-      "duration_ms": 238032,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Mas",
         "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
@@ -1289,39 +1325,7 @@
       "url": "https://open.spotify.com/track/31pjhmSv0FaqsgmDA4MUYM"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Happy Daze Riddim",
-        "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 230543,
-      "name": "Bless This Party",
-      "url": "https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Dutty Dutty Riddim",
         "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
@@ -1341,7 +1345,7 @@
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Get Soca 2018",
         "url": "https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc"
@@ -1357,7 +1361,39 @@
       "url": "https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Happy Daze Riddim",
+        "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 230543,
+      "name": "Bless This Party",
+      "url": "https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Soca Queen",
         "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
@@ -1373,7 +1409,7 @@
       "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Out and Bad",
         "url": "https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ"
@@ -1389,23 +1425,7 @@
       "url": "https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "How ah Livin",
-        "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
-      },
-      "artists": [
-        {
-          "name": "Farmer Nappy",
-          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
-        }
-      ],
-      "duration_ms": 229458,
-      "name": "How ah Livin",
-      "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Sit on My Face",
         "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
@@ -1421,7 +1441,23 @@
       "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "How ah Livin",
+        "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
+      },
+      "artists": [
+        {
+          "name": "Farmer Nappy",
+          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+        }
+      ],
+      "duration_ms": 229458,
+      "name": "How ah Livin",
+      "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Spirit Of Carnival Project",
         "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
@@ -1437,7 +1473,7 @@
       "url": "https://open.spotify.com/track/6mbYbtYsmCRQmeHuJJpgr4"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Dig",
         "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
@@ -1453,107 +1489,7 @@
       "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "Hall of Fame",
-      "url": "https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
-      },
-      "artists": [
-        {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Trini 2 De Bone",
-      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 196557,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Soca Future Riddim",
-        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
-      },
-      "artists": [
-        {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
-        }
-      ],
-      "duration_ms": 203358,
-      "name": "Leh Go",
-      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Rocket Fuel Riddim",
-        "url": "https://open.spotify.com/album/5PeYzJOmVq0ZAo7s8FcUWz"
-      },
-      "artists": [
-        {
-          "name": "King Bubba Fm",
-          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 177741,
-      "name": "Mechanic",
-      "url": "https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Allez",
-        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 218932,
-      "name": "Allez",
-      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Dingolay",
         "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
@@ -1573,7 +1509,71 @@
       "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Soca Future Riddim",
+        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 203358,
+      "name": "Leh Go",
+      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
+      },
+      "artists": [
+        {
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Trini 2 De Bone",
+      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 196557,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Allez",
+        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 218932,
+      "name": "Allez",
+      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Red, White, Black",
         "url": "https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc"
@@ -1593,7 +1593,27 @@
       "url": "https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Rocket Fuel Riddim",
+        "url": "https://open.spotify.com/album/5PeYzJOmVq0ZAo7s8FcUWz"
+      },
+      "artists": [
+        {
+          "name": "King Bubba Fm",
+          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 177741,
+      "name": "Mechanic",
+      "url": "https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
@@ -1609,7 +1629,7 @@
       "url": "https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Soak It Good",
         "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
@@ -1625,7 +1645,23 @@
       "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Project 5 Riddim",
         "url": "https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b"
@@ -1641,7 +1677,27 @@
       "url": "https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/04DGHo6RKxLuTz3bBgj4rH"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        },
+        {
+          "name": "Karlie Redd",
+          "url": "https://open.spotify.com/artist/0oPdBO6Dh9AgHDRLjpDJpz"
+        }
+      ],
+      "duration_ms": 126720,
+      "name": "Bumper Heavy",
+      "url": "https://open.spotify.com/track/2PBhZtDV5NNpTdqaU4lSzq"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Soca Savage",
         "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
@@ -1657,7 +1713,23 @@
       "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
     },
     {
-      "added_at": "2024-07-24 17:58:31",
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Front Yard Wet",
+        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 171885,
+      "name": "Front Yard Wet",
+      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
       "album": {
         "name": "Kool Under Fire",
         "url": "https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp"
@@ -1679,74 +1751,6 @@
       "duration_ms": 263693,
       "name": "Sak Pas\u00e9",
       "url": "https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Unchained",
-        "url": "https://open.spotify.com/album/04DGHo6RKxLuTz3bBgj4rH"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        },
-        {
-          "name": "Karlie Redd",
-          "url": "https://open.spotify.com/artist/0oPdBO6Dh9AgHDRLjpDJpz"
-        }
-      ],
-      "duration_ms": 126720,
-      "name": "Bumper Heavy",
-      "url": "https://open.spotify.com/track/2PBhZtDV5NNpTdqaU4lSzq"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "King Bubba Mashup Volume 1",
-        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
-      },
-      "artists": [
-        {
-          "name": "King Bubba Fm",
-          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "Who Drinking Rum?",
-      "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Front Yard Wet",
-        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 171885,
-      "name": "Front Yard Wet",
-      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
-    },
-    {
-      "added_at": "2024-07-24 17:58:31",
-      "album": {
-        "name": "Forever Vol.1",
-        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
-      },
-      "artists": [
-        {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
-        }
-      ],
-      "duration_ms": 365240,
-      "name": "Sugar Bum Bum",
-      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
     }
   ],
   "unique_name": "Massive Soca Hits",

@@ -4456,7 +4456,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -6630,7 +6630,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
@@ -8367,6 +8367,24 @@
     },
     {
       "album": {
+        "name": "Partido en Dos",
+        "url": "https://open.spotify.com/album/0VvEI9QLW53R92glTG6jzu"
+      },
+      "artists": [
+        {
+          "name": "Banda Tava'i Oficial",
+          "url": "https://open.spotify.com/artist/3exLluFM1Apoq5gnsdagNj"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204456,
+      "name": "Partido en Dos",
+      "url": "https://open.spotify.com/track/5TMlAr7B0vwDc8QG6OY2uN"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -9192,7 +9210,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"

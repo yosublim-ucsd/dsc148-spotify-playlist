@@ -10029,6 +10029,24 @@
     },
     {
       "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Stick Talk",
+      "url": "https://open.spotify.com/track/20fAoPjfYltmd3K3bO7gbt"
+    },
+    {
+      "album": {
         "name": "STICK UP",
         "url": "https://open.spotify.com/album/6TfHbTUh4cNo04EBA1Pwqa"
       },

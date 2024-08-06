@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Perdidos De Sinaloa. Los temas esenciales, todos en una lista.",
+  "description": "This Is Perdidos De Sinaloa. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
   "name": "This Is Perdidos De Sinaloa",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 148302,
       "name": "Carta Abierta - En Vivo",
       "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 216372,
       "name": "Cuando Se Ama a Una Mujer",
       "url": "https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9"
@@ -566,6 +566,24 @@
       "duration_ms": 249789,
       "name": "El Signo Libra",
       "url": "https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7"
+    },
+    {
+      "album": {
+        "name": "El Viej\u00f3n",
+        "url": "https://open.spotify.com/album/2P7d2DZU9Po5AnCzjEIybA"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "El Viej\u00f3n",
+      "url": "https://open.spotify.com/track/34GAoi7sp1UWnY94buABzg"
     },
     {
       "album": {
@@ -874,7 +892,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 171897,
       "name": "Las ciudades",
       "url": "https://open.spotify.com/track/2Io0LtuRg1m2AjHLTsaIJ5"

@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 74329,
+  "num_followers": 74349,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Gremlins",
-        "url": "https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ"
-      },
-      "artists": [
-        {
-          "name": "F. Noize",
-          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
-        },
-        {
-          "name": "S-KILL",
-          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Gremlins",
-      "url": "https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "Furious Anger",
         "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 205647,
       "name": "Furious Anger",
       "url": "https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "Gremlins",
+        "url": "https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ"
+      },
+      "artists": [
+        {
+          "name": "F. Noize",
+          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
+        },
+        {
+          "name": "S-KILL",
+          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Gremlins",
+      "url": "https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1867,22 +1867,26 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "RTC is the legacy",
-        "url": "https://open.spotify.com/album/6Vs6Cu9JpivGvsLsdkkB5b"
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/4bMvupucD3bY4SIEZ9pBE7"
       },
       "artists": [
         {
-          "name": "Rotterdam Terror Corps",
-          "url": "https://open.spotify.com/artist/5vivlUC65oZCNqFxTue8rM"
+          "name": "Vandal!sm",
+          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
         },
         {
-          "name": "G-Town Madness",
-          "url": "https://open.spotify.com/artist/4vxLy9lWDO7KlaKiwJ8Mjp"
+          "name": "TukkerTempo",
+          "url": "https://open.spotify.com/artist/1hP1BT3aK40lWagFTrvLLN"
+        },
+        {
+          "name": "Darkside Unleashed",
+          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
         }
       ],
-      "duration_ms": 372982,
-      "name": "Nobody Harder (2019 Remaster) - G-Town Madness Remix",
-      "url": "https://open.spotify.com/track/2SbHD97inSP7eEXkJUpUCk"
+      "duration_ms": 201600,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

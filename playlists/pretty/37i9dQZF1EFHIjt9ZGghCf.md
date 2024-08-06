@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 130 | [Same God / Gratitude](https://open.spotify.com/track/64JqwulYn1A0vhK28NbDAE) | [Kayla Berry](https://open.spotify.com/artist/5wfxEJWKJuT5rUc0o32Q9o) | [Same God / Gratitude](https://open.spotify.com/album/4CSmLNS9eEgBp1umuFIf5X) | 5:03 |
 | 131 | [Champion/Gratitude \- Live](https://open.spotify.com/track/4L7EfoJTqBiGJlHde4zncx) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/1geSpbhN3fFFhDCkkq385b) | 10:46 |
 
-Snapshot ID: `AbYjPgAAAAD7BrxzQG1Mu6pt4iRNVRgl`
+Snapshot ID: `AbYo3gAAAABpsSx2YsIe94y3sjhsqAEi`

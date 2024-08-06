@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 112897,
+  "num_followers": 112910,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Der Weg zu zweit",
-        "url": "https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1"
+        "name": "zwei bier (la la la)",
+        "url": "https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa"
       },
       "artists": [
         {
-          "name": "Frittenbude",
-          "url": "https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk"
+          "name": "Leftovers",
+          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
         }
       ],
-      "duration_ms": 152101,
-      "name": "Der Weg zu zweit",
-      "url": "https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r"
+      "duration_ms": 209000,
+      "name": "zwei bier (la la la)",
+      "url": "https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "zwei bier (la la la)",
-        "url": "https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa"
+        "name": "Der Weg zu zweit",
+        "url": "https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1"
       },
       "artists": [
         {
-          "name": "Leftovers",
-          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
+          "name": "Frittenbude",
+          "url": "https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk"
         }
       ],
-      "duration_ms": 209000,
-      "name": "zwei bier (la la la)",
-      "url": "https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI"
+      "duration_ms": 152101,
+      "name": "Der Weg zu zweit",
+      "url": "https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Santorin",
-        "url": "https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 224414,
-      "name": "Santorin",
-      "url": "https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Leere Flaschen",
         "url": "https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 173090,
       "name": "Leere Flaschen",
       "url": "https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Marmelade Und Himbeereis",
+        "url": "https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di"
+      },
+      "artists": [
+        {
+          "name": "Leftovers",
+          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Marmelade Und Himbeereis",
+      "url": "https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -583,6 +583,22 @@
       "duration_ms": 159157,
       "name": "die fabrik",
       "url": "https://open.spotify.com/track/228FnXbEKe9zjCVPAI4qbA"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Santorin",
+        "url": "https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 224414,
+      "name": "Santorin",
+      "url": "https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Muttertag",
-        "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
-      },
-      "artists": [
-        {
-          "name": "Antilopen Gang",
-          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
-        }
-      ],
-      "duration_ms": 66209,
-      "name": "Muttertag",
-      "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Mensch am Mond",
         "url": "https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 185250,
       "name": "Mensch am Mond",
       "url": "https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Muttertag",
+        "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
+      },
+      "artists": [
+        {
+          "name": "Antilopen Gang",
+          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
+        }
+      ],
+      "duration_ms": 66209,
+      "name": "Muttertag",
+      "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -779,18 +795,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Die Hitze ist hei\u00df",
-        "url": "https://open.spotify.com/album/1gtzF9NqsPorWOxmICuHSr"
+        "name": "All meine Angst",
+        "url": "https://open.spotify.com/album/2QDzccyAFESmxf8ZdWPHfk"
       },
       "artists": [
         {
-          "name": "Tropikel Ltd",
-          "url": "https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x"
+          "name": "vian",
+          "url": "https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N"
         }
       ],
-      "duration_ms": 154773,
-      "name": "Die Hitze ist hei\u00df",
-      "url": "https://open.spotify.com/track/4AbH6roYbLNcjZmZEkkbtw"
+      "duration_ms": 137826,
+      "name": "All meine Angst",
+      "url": "https://open.spotify.com/track/0rE6YPbzad41mlswdKI43l"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -811,24 +827,8 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "All meine Angst",
-        "url": "https://open.spotify.com/album/2QDzccyAFESmxf8ZdWPHfk"
-      },
-      "artists": [
-        {
-          "name": "vian",
-          "url": "https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "All meine Angst",
-      "url": "https://open.spotify.com/track/0rE6YPbzad41mlswdKI43l"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Marmelade Und Himbeereis",
-        "url": "https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di"
+        "name": "Rauschen",
+        "url": "https://open.spotify.com/album/0Sx5N6NuOe2ppew7q44JH1"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Marmelade Und Himbeereis",
-      "url": "https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH"
+      "duration_ms": 189500,
+      "name": "Rauschen",
+      "url": "https://open.spotify.com/track/64VIlUSEMejKt2LUpxA06y"
     }
   ],
   "unique_name": "Gegen den Strom",

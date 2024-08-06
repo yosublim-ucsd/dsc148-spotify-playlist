@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 717,
+  "num_followers": 719,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -719,38 +719,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Miss Patylu Vol. 2",
-        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 152198,
-      "name": "Sana Sana",
-      "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
-        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Canci\u00f3n de las Brujas - Remasterizado",
-      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Violetta",
         "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
       },
@@ -787,6 +755,38 @@
       "duration_ms": 177346,
       "name": "Juntos Somos Mas",
       "url": "https://open.spotify.com/track/1pJia6Nw9TNRs71V2R7fKT"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Canci\u00f3n de las Brujas - Remasterizado",
+      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Miss Patylu Vol. 2",
+        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 152198,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
     },
     {
       "added_at": "2020-04-27 15:43:16",

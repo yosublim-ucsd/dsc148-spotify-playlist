@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-391 songs - 21 hr 4 min
+392 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,8 +329,9 @@
 | [Sun Came Up](https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Sun Came Up](https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i) | 3:22 | 2022-05-10 | 2024-05-25 |
 | [Sun Came Up](https://open.spotify.com/track/4OssNR8i2CZHzIBJDxRh2e) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 3:23 | 2023-11-22 | 2024-04-19 |
 | [Sun Goes Down](https://open.spotify.com/track/28cF5QOu0CWdyTt6lYxIeA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sun Goes Down](https://open.spotify.com/album/1vbX5xsy8Dz96qmskVY8SI) | 2:34 | 2021-07-09 | 2022-05-04 |
-| [Sunglasses](https://open.spotify.com/track/1Ump2Izmbp9bdEJtkTClgl) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunglasses](https://open.spotify.com/album/69iTohGWGa451agVzIFJbC) | 3:03 | 2024-06-14 |  |
+| [Sunglasses](https://open.spotify.com/track/1Ump2Izmbp9bdEJtkTClgl) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunglasses](https://open.spotify.com/album/69iTohGWGa451agVzIFJbC) | 3:03 | 2024-06-14 | 2024-08-06 |
 | [Sunshine](https://open.spotify.com/track/0EAUdSBW9ORNl65la2O1CF) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Sunshine](https://open.spotify.com/album/5NhHcumFShNPu1RtNRUKvq) | 2:42 | 2024-07-05 |  |
+| [Sunshine](https://open.spotify.com/track/3VXkclvJkQQ3UjGpfP8ceZ) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x) | [Sunshine](https://open.spotify.com/album/59WhNZGVeVT6FFypPFU2GV) | 3:26 | 2024-08-02 |  |
 | [Sunshine \- Wookie Main Mix](https://open.spotify.com/track/5q1hpdlf8ncJUhKLyjHoHB) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Rise](https://open.spotify.com/album/2R6V1HDBBgRxfu469y6V6R) | 4:26 | 2021-07-09 | 2022-05-11 |
 | [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-20 | 2022-07-07 |
 | [Sweet Devotion \- Edit](https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 3:27 | 2024-06-14 |  |

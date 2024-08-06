@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with NAV, Doechii, A$AP Rocky and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,698 likes - 59 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,692 likes - 59 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney hits, including songs from The Lion King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,372,073 likes - 109 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,372,531 likes - 109 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

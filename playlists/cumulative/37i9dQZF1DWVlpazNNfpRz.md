@@ -4,7 +4,7 @@
 
 > When the beat drops, that's Guaracha.
 
-120 songs - 7 hr 1 min
+121 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bad Gyal](https://open.spotify.com/track/4u8oymVILNB27h7fhI9vpv) | [Manguito DJ](https://open.spotify.com/artist/0yc4gso86blxv1vjjv8qOJ), [Lion Fiah](https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN), [Sergio Acosta](https://open.spotify.com/artist/76yOiYbsm9mQ9cPFUKWNFw) | [Bad Gyal](https://open.spotify.com/album/4rheZH7lVNEmh5VQSrV2li) | 2:53 | 2023-08-11 |  |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2023-08-11 |  |
 | [Bailalo](https://open.spotify.com/track/0Igd371jQ2prEGGCc9FmmE) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Massianello](https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7), [MRSAX](https://open.spotify.com/artist/2HLeLKNPf0OmoZikqg6omJ), [KATH HERRERA](https://open.spotify.com/artist/74hpXfY56qzwZvvGsZfWP7) | [Bailalo](https://open.spotify.com/album/0Up5mRPVydD8WGYQydwboR) | 4:05 | 2023-08-11 |  |
+| [BAILALO](https://open.spotify.com/track/7e6q8pnMh7AExUcwSJRiqU) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [BAILALO](https://open.spotify.com/album/3kU7bagZ1WwiGuwisNGzCN) | 3:07 | 2024-08-05 |  |
 | [Bailame](https://open.spotify.com/track/7omD0weGgQdnJ56hgvBacG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [BESKO DEEJAYS](https://open.spotify.com/artist/4agBzHY8Dx7XsUeZxtSpzP), [Yexenia](https://open.spotify.com/artist/2Vi39DnBYR2mhriXctjGkK) | [Bailame](https://open.spotify.com/album/7reELDsMhzX80cJants71P) | 2:50 | 2023-08-11 |  |
 | [Bailar Contigo \- Leeb Remix](https://open.spotify.com/track/0otkSHy1PB1Ycymx0wOrBk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Bailar Contigo \(Leeb Remix\)](https://open.spotify.com/album/43iOlqaQpedw7iO8xbKBrv) | 4:22 | 2023-08-11 |  |
 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 | 2023-08-11 |  |
@@ -46,7 +47,7 @@
 | [Estamos Melos](https://open.spotify.com/track/4tLmwT4ROfj9lhfZk6ky3f) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Raulito Fabregas](https://open.spotify.com/artist/23Qf2vgfc9GpE9ARjqoVME), [Mauricio Palacio](https://open.spotify.com/artist/167JIg1eJCyrDs0tYqToiY), [Kairy](https://open.spotify.com/artist/7gOyXV1syW81D8WcEZCMmM) | [Estamos Melos](https://open.spotify.com/album/2wFJF1vsU1M4yFEISRvTkh) | 3:24 | 2023-08-11 |  |
 | [Exotico](https://open.spotify.com/track/2ni9aHvsUsW7M1ZNfIuJij) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD) | [Exotico](https://open.spotify.com/album/0S2SV7T6OmFNvKh6XBA3j3) | 3:37 | 2023-08-11 |  |
 | [Fuego](https://open.spotify.com/track/1wF5Nc5kqmt8ST1lxKY4Xr) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl), [Marco Acevedo](https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC) | [Fuego](https://open.spotify.com/album/7gixXVmtds5G97SUoOyOaE) | 3:07 | 2023-08-11 | 2023-11-11 |
-| [Gocemonos la Vida](https://open.spotify.com/track/1f2jW4xPtm9UUxM2d0PPBD) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Kairy](https://open.spotify.com/artist/7gOyXV1syW81D8WcEZCMmM), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Gocemonos la Vida](https://open.spotify.com/album/1JJAyZJzbjnBnkDv3ymTzK) | 3:05 | 2023-08-11 |  |
+| [Gocemonos la Vida](https://open.spotify.com/track/1f2jW4xPtm9UUxM2d0PPBD) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Kairy](https://open.spotify.com/artist/7gOyXV1syW81D8WcEZCMmM), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Gocemonos la Vida](https://open.spotify.com/album/1JJAyZJzbjnBnkDv3ymTzK) | 3:05 | 2023-08-11 | 2024-08-06 |
 | [Guaracha](https://open.spotify.com/track/4McFFaQW5LSmkeSVMLCGFN) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Anny Sepulveda](https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m) | [Guaracha](https://open.spotify.com/album/1diVgZyGrvpj44T1Znoaj0) | 3:40 | 2023-11-10 |  |
 | [Guaracha](https://open.spotify.com/track/4V8WtF4PfuDKjzVapsI3X7) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Anny Sepulveda](https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m) | [Guaracha](https://open.spotify.com/album/2RSY4lVnU9bIXlXwWn6oYo) | 3:40 | 2023-08-11 | 2024-04-19 |
 | [Guaracha Con Ñejo](https://open.spotify.com/track/6pAgwmKrBsZvDtlQ2lniK3) | [Marco Acevedo](https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Guaracha Con Ñejo](https://open.spotify.com/album/4IO5DGuCyaO1iYOKtHkfM9) | 3:33 | 2023-08-11 |  |

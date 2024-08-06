@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: RIIZE\)
 
-457 songs - 1 day 0 hr 28 min
+458 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Good Girl](https://open.spotify.com/track/60g4aWGlvFq9riY0jrTdtZ) | [Candy Shop](https://open.spotify.com/artist/47bUCJh3LXBeQtrTnWEwXn) | [Hashtag\#](https://open.spotify.com/album/6QQIkAdIkRtvu8G2kzcyaB) | 2:38 | 2024-03-28 | 2024-06-05 |
 | [GOT'YA](https://open.spotify.com/track/4aLsggi5JL0YD8AmaSENHU) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [GOT'YA](https://open.spotify.com/album/4phVHu6OqTgmLD9C14NAU3) | 3:18 | 2021-12-30 | 2022-01-07 |
 | [GRAVITY](https://open.spotify.com/track/1idY5rVWAM5JTTOfNP7Ipm) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [GRAVITY](https://open.spotify.com/album/1Rqrzkqe56mPHfdEbF3rXt) | 3:42 | 2023-01-31 | 2024-01-03 |
+| [Grown up man](https://open.spotify.com/track/3ZZ2qqLij5dxYBR4D1np2c) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Grown up man](https://open.spotify.com/album/06o31SH5UNDDpnRNYIcqWa) | 3:22 | 2024-08-05 |  |
 | [Gummy Bear \(feat\. BIGONE\)](https://open.spotify.com/track/4OPgqi6IPWuntmy7woOKaA) | [DOHANSE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Gummy Bear](https://open.spotify.com/album/1Br49yy12uY6vswyCcZg5S) | 2:22 | 2023-10-29 | 2024-03-22 |
 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 | 2024-05-30 | 2024-08-02 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-30 | 2023-02-16 |
@@ -301,7 +302,7 @@
 | [Pop Punk \(feat\. Dive & DOHANSE\)](https://open.spotify.com/track/5Uqs10dUsDatta7CchMpKc) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX), [DOHANSE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd) | [Pop Punk \(feat\. Dive & DOHANSE\)](https://open.spotify.com/album/5do5FKUcTK7BbnLcCj1xSB) | 3:08 | 2023-08-23 | 2023-10-30 |
 | [POWER OF LOVE](https://open.spotify.com/track/37aWSOZ4Oihn2bfMiD5neP) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [POWER OF LOVE](https://open.spotify.com/album/2wKTTgsFgEdOKiyFEOlbNs) | 3:41 | 2022-05-05 | 2022-09-06 |
 | [PRESENTE](https://open.spotify.com/track/1oaVw7Y6RnvZlneLjAMLic) | [777 \(Triple Seven\)](https://open.spotify.com/artist/1Y5rgGFlx3ws6zMNoqxa4G) | [PRESENTE](https://open.spotify.com/album/4ZLRadM9Wi5L4mCEHGi4Xt) | 3:14 | 2021-12-30 | 2022-04-21 |
-| [Pretty mob](https://open.spotify.com/track/5hyGp7V6Kg5C6oAmCUzXNr) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [L’heure Bleue : Prologue](https://open.spotify.com/album/15vGU4bRzm1QzfE65nIAb4) | 2:26 | 2024-06-17 |  |
+| [Pretty mob](https://open.spotify.com/track/5hyGp7V6Kg5C6oAmCUzXNr) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [L’heure Bleue : Prologue](https://open.spotify.com/album/15vGU4bRzm1QzfE65nIAb4) | 2:26 | 2024-06-17 | 2024-08-06 |
 | [Pricey Hangover](https://open.spotify.com/track/2KNiJbce5AFLO5B2dzV0EQ) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Pricey Hangover](https://open.spotify.com/album/4nL0tmcbgdh8ivz77MWgzQ) | 3:00 | 2023-01-11 | 2023-05-02 |
 | [Pseudoscience \(feat\. Chang Kiha\)](https://open.spotify.com/track/4ivKqBkDfSRYc3H2DBdBW3) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Pseudoscience \(feat\. Chang Kiha\)](https://open.spotify.com/album/3leNJ19xRMO5HyTccjA5ce) | 3:48 | 2022-07-04 | 2023-02-01 |
 | [QUEEN](https://open.spotify.com/track/5qA0Ks0QbF95BLz5QegTQR) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [QUEEN](https://open.spotify.com/album/5WUYatYzBqFfWBdTlaCvYs) | 3:38 | 2023-10-29 | 2024-04-24 |

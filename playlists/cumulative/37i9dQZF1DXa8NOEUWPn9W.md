@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Gordo
 
-934 songs - 2 day 7 hr 23 min
+935 songs - 2 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-04-21 | 2023-07-08 |
 | [Ghetto](https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Ghetto EP](https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev) | 3:34 | 2024-04-12 | 2024-06-28 |
 | [Ghost in Me \- Lemon & Herb Remix](https://open.spotify.com/track/4BWZpIcAteH7rbQL0Ze6Eh) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T), [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w) | [Ghost in Me \(Lemon & Herb Remix\)](https://open.spotify.com/album/09ECvrPllTFts2w5Q0ad9h) | 5:58 | 2021-03-27\* | 2021-04-24 |
-| [Ghosts](https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Ghosts](https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw) | 2:56 | 2024-03-29 |  |
+| [Ghosts](https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Ghosts](https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw) | 2:56 | 2024-03-29 | 2024-08-06 |
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-01-31 | 2023-07-08 |
 | [Giodisco](https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Giodisco](https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD) | 2:43 | 2023-06-30 | 2023-10-26 |
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-07 |  |
@@ -824,6 +824,7 @@
 | [The Hymn](https://open.spotify.com/track/6SoGQrTkJ8YyC5UBeahOJh) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [The Hymn](https://open.spotify.com/album/6Vg5gS8vNJ2a9QalAwIOSE) | 3:20 | 2021-08-14 | 2022-07-28 |
 | [The Judge](https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [The Judge](https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9) | 3:40 | 2022-05-20 | 2022-08-07 |
 | [The Loop](https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK) | [The Loop](https://open.spotify.com/album/4yn1R7xr2O30X7H3kgto2h) | 3:01 | 2023-07-21 | 2023-09-11 |
+| [The Moment](https://open.spotify.com/track/6bHW86YhNTcHuZyum3pzvA) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [The Moment](https://open.spotify.com/album/706hpyftFGBJO4EONLTjrI) | 3:30 | 2024-08-02 |  |
 | [The Music](https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [The Music](https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj) | 2:26 | 2021-05-15 | 2022-09-10 |
 | [The Music Began To Play](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [The Music Began To Play](https://open.spotify.com/album/1RPFQ2LTLiHL7hxRwL8RZc) | 2:25 | 2022-08-12 | 2023-05-20 |
 | [The Night \(feat\. Purple Velvet Curtains\)](https://open.spotify.com/track/1O5aDl6qjgN80CJJ9JHDgw) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [The Night \(feat\. Purple Velvet Curtains\)](https://open.spotify.com/album/1tSCObOP13tkgT4d3QqQOa) | 2:51 | 2021-11-23 | 2022-07-15 |

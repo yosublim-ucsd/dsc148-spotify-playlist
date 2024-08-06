@@ -6929,6 +6929,24 @@
     },
     {
       "album": {
+        "name": "Bloquinho da agonia 2.0",
+        "url": "https://open.spotify.com/album/45rVLH5Ow5Qvlkzd41A3Bm"
+      },
+      "artists": [
+        {
+          "name": "Oh Malvad\u00e3oo",
+          "url": "https://open.spotify.com/artist/5sPVrlMHaCypOJbU8rgA7i"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282774,
+      "name": "Bloquinho da Agonia 2.0",
+      "url": "https://open.spotify.com/track/0iAPI0M8NlROE4cOk6Kl5f"
+    },
+    {
+      "album": {
         "name": "Bloquinho da Putaria 1.0",
         "url": "https://open.spotify.com/album/6sc5tfIJey5qTv3xOSt9w4"
       },
@@ -11280,6 +11298,24 @@
       "duration_ms": 225864,
       "name": "Cosmic",
       "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
+    },
+    {
+      "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225864,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/2H7euNHOF7uADN6dfsWoZa"
     },
     {
       "album": {
@@ -35064,7 +35100,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 305373,
       "name": "N\u00e3o Sei Dan\u00e7ar",
       "url": "https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt"
@@ -36632,7 +36668,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 123000,
       "name": "Oq c\u00ea fez?",
       "url": "https://open.spotify.com/track/2739WNF0lAMaNQt78wIC7p"
@@ -44740,7 +44776,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 324986,
       "name": "Set da Menorzinha 1.0",
       "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
@@ -46062,7 +46098,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 103444,
       "name": "Soco Soco Bate Bate",
       "url": "https://open.spotify.com/track/1R0MxdP1i0vkiNTihhYErZ"
@@ -53150,7 +53186,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 197903,
       "name": "Vidigal",
       "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
@@ -54446,6 +54482,24 @@
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
+    },
+    {
+      "album": {
+        "name": "WHINE IN BRAZIL FUNK",
+        "url": "https://open.spotify.com/album/6tuTOSJX2SjH8JBsh5uM30"
+      },
+      "artists": [
+        {
+          "name": "Ichiss",
+          "url": "https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107971,
+      "name": "WHINE IN BRAZIL FUNK",
+      "url": "https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q"
     },
     {
       "album": {

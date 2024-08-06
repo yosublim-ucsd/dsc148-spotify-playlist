@@ -6,7 +6,7 @@
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAHvB7HyiR+9ldfxIQiyM1PFjIQ7Doe",
+  "snapshot_id": "AAAHvcWLxseTm6wC1B84YHVwcFOPRToO",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -2009,26 +2009,6 @@
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
     },
     {
-      "added_at": "2024-03-08 11:28:03",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/6bI1fZTRhAksKESoFrwK2N"
-      },
-      "artists": [
-        {
-          "name": "Luxor",
-          "url": "https://open.spotify.com/artist/2sGP16uyA0hFA8Q3bGLhAU"
-        },
-        {
-          "name": "UnderWater Project",
-          "url": "https://open.spotify.com/artist/3GT3gnZ90UuW5Cs0AJopzb"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/21Hx7LnM8oN6cwTdZiw7bd"
-    },
-    {
       "added_at": "2024-06-17 00:41:06",
       "album": {
         "name": "Bouquet",
@@ -2049,22 +2029,6 @@
       "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
     },
     {
-      "added_at": "2024-05-08 00:38:06",
-      "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/5XXS1AeuX563jVZQaudTXA"
-      },
-      "artists": [
-        {
-          "name": "Dj Aaron Kennedy",
-          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1A4w0HHmTE1kzIjNH51D3O"
-    },
-    {
       "added_at": "2024-08-03 00:46:04",
       "album": {
         "name": "Heaven On My Mind (with Sigala)",
@@ -2083,6 +2047,42 @@
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+    },
+    {
+      "added_at": "2024-05-08 00:38:06",
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/5XXS1AeuX563jVZQaudTXA"
+      },
+      "artists": [
+        {
+          "name": "Dj Aaron Kennedy",
+          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1A4w0HHmTE1kzIjNH51D3O"
+    },
+    {
+      "added_at": "2024-08-06 00:41:04",
+      "album": {
+        "name": "All My Friends (Eden Prince Remix)",
+        "url": "https://open.spotify.com/album/4lXBBbiEgwTzcfAkqdXJV1"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        },
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "All My Friends - Eden Prince Remix",
+      "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
     }
   ],
   "unique_name": "EDM Top 100",

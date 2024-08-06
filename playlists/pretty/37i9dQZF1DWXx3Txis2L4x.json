@@ -1,6 +1,6 @@
 {
   "description": "These shoes are not made for running, they just look nice for the playlist cover.",
-  "num_followers": 616200,
+  "num_followers": 616227,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-27 20:14:18",
       "album": {
-        "name": "Handwritten (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
-    },
-    {
-      "added_at": "2024-05-27 20:14:18",
-      "album": {
         "name": "Imaginary Enemy",
         "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 210133,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL"
+    },
+    {
+      "added_at": "2024-05-27 20:14:18",
+      "album": {
+        "name": "Handwritten (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
     },
     {
       "added_at": "2024-05-27 20:14:18",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-05-27 20:14:18",
       "album": {
-        "name": "Bored of Being Sad",
-        "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 200660,
-      "name": "Bored of Being Sad",
-      "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
-    },
-    {
-      "added_at": "2024-05-27 20:14:18",
-      "album": {
         "name": "The Mindsweep",
         "url": "https://open.spotify.com/album/3q8PS1Zkx3a0Zo6Ld2L1d7"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 222520,
       "name": "The Last Garrison",
       "url": "https://open.spotify.com/track/5zZ79IgPs6vOWf7NRwC1d2"
+    },
+    {
+      "added_at": "2024-05-27 20:14:18",
+      "album": {
+        "name": "Bored of Being Sad",
+        "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 200660,
+      "name": "Bored of Being Sad",
+      "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
     },
     {
       "added_at": "2024-05-27 20:14:18",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-27 20:14:18",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy"
-      },
-      "artists": [
-        {
-          "name": "Young Guns",
-          "url": "https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb"
-    },
-    {
-      "added_at": "2024-05-27 20:14:18",
-      "album": {
         "name": "Freak of Nature",
         "url": "https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 202889,
       "name": "Freak Of Nature",
       "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
+    },
+    {
+      "added_at": "2024-05-27 20:14:18",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy"
+      },
+      "artists": [
+        {
+          "name": "Young Guns",
+          "url": "https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb"
     },
     {
       "added_at": "2024-05-27 20:14:18",

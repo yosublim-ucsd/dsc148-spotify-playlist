@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Kemilly Santos. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
   "name": "This Is Kemilly Santos",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 258880,
       "name": "A Porta do meu Quarto - Ao Vivo",
       "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"

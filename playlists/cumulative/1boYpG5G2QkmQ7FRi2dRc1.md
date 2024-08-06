@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-1,577 songs - 4 day 2 hr 46 min
+1,578 songs - 4 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Gabo's Last Resort](https://open.spotify.com/track/1MYQbVNaZrAxj4NW7RDXHG) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [MOONSHOTS](https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53) | 3:48 | 2023-06-30 | 2023-07-08 |
 | [Garden Plaza](https://open.spotify.com/track/3Y0Gg3BMHJq09Afi8g6BhS) | [Valentino](https://open.spotify.com/artist/3wahfqLrbSHbC1kK8CUVz2) | [Garden Plaza](https://open.spotify.com/album/3nEBAsxKBNKtEc8Cvrgdoc) | 2:06 | 2024-07-19 |  |
 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 | 2024-07-19 |  |
+| [GEMINI](https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [ZARA](https://open.spotify.com/artist/1gHswNMOQFlGi8yA8quKNn) | [GEMINI](https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme) | 2:37 | 2024-08-05 |  |
 | [Get Along With You \- Bump & Flex Radio Edit](https://open.spotify.com/track/3hCbGcdWbB2hMZVNmpIVM8) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [Kaleidoscope \(Expanded Edition\)](https://open.spotify.com/album/1WdKL5liAeq4NazlZ5u14N) | 3:54 | 2024-01-21 | 2024-02-11 |
 | [Get Down](https://open.spotify.com/track/3sFkO2PDRIiZhqR0ZtRzuw) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Get Down EP](https://open.spotify.com/album/1GiStB0oGRElP49xAQo2A3) | 5:08 | 2024-02-10 | 2024-02-17 |
 | [Get Down \- Mark Knight Remix](https://open.spotify.com/track/7MxKs6eVfrueHpH6N0uqzE) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Stush](https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT), [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Get Down \(Mark Knight Remix\)](https://open.spotify.com/album/5pXdnM7WliDR9IbmqG0F3u) | 3:15 | 2024-04-07 | 2024-04-13 |

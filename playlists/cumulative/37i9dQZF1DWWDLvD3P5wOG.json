@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Ragga Ragga Ragga 2011 (Explicit Version)",
+        "url": "https://open.spotify.com/album/1U5D9QrLf64GVzkEL5nEUz"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Benz Punany",
+      "url": "https://open.spotify.com/track/3zhbuPvV9RpW3RiV1s8nsb"
+    },
+    {
+      "album": {
         "name": "Dancehall Hero Raw: Deluxe",
         "url": "https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 161041,
       "name": "Gyal Bruk Out",
       "url": "https://open.spotify.com/track/3oeicU1vhOHoySeNBhSUFv"
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 258059,
       "name": "Likes",
       "url": "https://open.spotify.com/track/0u8OSg2ooosvr7wW6jgYYk"
@@ -3314,6 +3332,24 @@
       "duration_ms": 145776,
       "name": "Walk Like a Dog",
       "url": "https://open.spotify.com/track/4w8PtJqCBiggVmXyIgv3u8"
+    },
+    {
+      "album": {
+        "name": "Strictly The Best Vol. 8",
+        "url": "https://open.spotify.com/album/3MEKqrHNfcKZe3pjmyNXzU"
+      },
+      "artists": [
+        {
+          "name": "Singing Sweet",
+          "url": "https://open.spotify.com/artist/1ABKdHci1opQWv1GLXH0Na"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "When I See You Smile",
+      "url": "https://open.spotify.com/track/1bBrHWTSVZM963zzJQvUtD"
     },
     {
       "album": {

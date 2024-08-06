@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,199 songs - 6 day 16 hr 18 min
+4,200 songs - 6 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [Bright Nights](https://open.spotify.com/track/00R0qA40OIfPnRdxfT5Oab) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Bright Nights](https://open.spotify.com/album/0TYKFLKzySAXjQduGbewiC) | 2:00 | 2020-05-20 | 2020-07-31 |
 | [Bright Vibe](https://open.spotify.com/track/2r2wiGOIo44ggXw9f9Znfu) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Bright Vibe](https://open.spotify.com/album/2YMx3drHfpwPqrgz9crbfu) | 2:28 | 2020-10-30 | 2021-01-04 |
 | [Brighter Days](https://open.spotify.com/track/114GXUgTtjmq5f95HIvxzQ) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Brighter Days](https://open.spotify.com/album/5XOKLWlXhSNzxU2SWRQ5fX) | 2:09 | 2021-05-07 | 2023-01-27 |
+| [Brightly](https://open.spotify.com/track/3yxSrw45IzjWwz70XqUV8j) | [Lowkey](https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Brightly](https://open.spotify.com/album/7o2bLQeYIf86HGtCn5KaBT) | 1:45 | 2024-08-01 |  |
 | [Brisa](https://open.spotify.com/track/1WTEmKXl7MAfgFaKQSVaDj) | [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Brisa](https://open.spotify.com/album/1YIwJeWvyvCIVzwHvDag5s) | 2:09 | 2021-08-27 | 2022-03-18 |
 | [Broadway](https://open.spotify.com/track/5uMO7gj1q6B98f0d0Uj5Gs) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Broadway](https://open.spotify.com/album/3NV9XaxRcwUdtDUuoiPxWx) | 1:10 | 2021-07-09 | 2021-08-27 |
 | [broadway street](https://open.spotify.com/track/6s2CxU2BJQuBdPYmLbjkHQ) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [broadway street](https://open.spotify.com/album/4IhniXCMvcdi8lK2wdu2i3) | 2:26 | 2021-12-08 | 2022-07-08 |
@@ -4035,7 +4036,7 @@
 | [Wavy](https://open.spotify.com/track/7oT7NDlXx5xpteinixhpQo) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Wavy](https://open.spotify.com/album/2u9XgbMHjorMCmKW0H8kqQ) | 3:24 | 2023-02-23 | 2023-04-14 |
 | [Wax](https://open.spotify.com/track/3Zcyk6cGjOpIhWceeSJnPv) | [A S T R O](https://open.spotify.com/artist/35iqidtNbi2CzifmDD4URB) | [Wax](https://open.spotify.com/album/1dKOZDInIO3mK551bp0XdU) | 2:00 | 2019-05-26\* | 2019-08-17 |
 | [Way Back When](https://open.spotify.com/track/57B4YiWoBYdlfaoqhXUx0s) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Way Back When](https://open.spotify.com/album/0iqgkhHvnqVIJHuocun8kU) | 1:56 | 2021-03-14 | 2021-08-19 |
-| [way home](https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [way home](https://open.spotify.com/album/4wt7dpPKyWzgNcLIwEgvFS) | 2:01 | 2024-08-01 |  |
+| [way home](https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [way home](https://open.spotify.com/album/4wt7dpPKyWzgNcLIwEgvFS) | 2:01 | 2024-08-01 | 2024-08-06 |
 | [Way Too Much](https://open.spotify.com/track/4Mcx4sqOg4HgUahsmyF2Z6) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc), [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Way Too Much](https://open.spotify.com/album/34p5m3u2O645MSOAs8pBbG) | 2:28 | 2021-09-10 | 2021-09-11 |
 | [We Callin'](https://open.spotify.com/track/57UoXJs8Fab3J1buHiXi0j) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo) | [We Callin'](https://open.spotify.com/album/3WGlGmdIUN6INBwN5l9ARi) | 2:34 | 2020-07-28 | 2020-12-11 |
 | [We Lost Ourselves For No Reason](https://open.spotify.com/track/6bcWlANzUtlBb1bnPIgsCw) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Latenite Joints 012](https://open.spotify.com/album/2cUqKhaVa68Uu9xZ4zJAM9) | 2:16 | 2021-03-19 | 2021-04-02 |

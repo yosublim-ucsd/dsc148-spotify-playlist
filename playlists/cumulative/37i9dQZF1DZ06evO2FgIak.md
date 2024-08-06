@@ -2,7 +2,7 @@
 
 ### [This Is Muddy Waters](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FgIak)
 
-> This is Muddy Waters\. Todos os maiores hits em uma só playlist.
+> This is Muddy Waters\. The essential tracks, all in one playlist.
 
 139 songs - 9 hr 27 min
 
@@ -80,7 +80,7 @@
 | [Long Distance Call](https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 9:14 | 2022-08-05 | 2024-07-24 |
 | [Long Distance Call](https://open.spotify.com/track/21SJZoN35oJCD2MS6PRgvd) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:41 | 2024-01-19 |  |
 | [Louisiana Blues](https://open.spotify.com/track/2nbV8brWogyKVqRhypvzJS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:54 | 2022-08-07 | 2024-07-23 |
-| [Mad Love \(I Want You To Love Me\) \- Single Version](https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:03 | 2022-09-02 | 2024-07-27 |
+| [Mad Love \(I Want You To Love Me\) \- Single Version](https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:03 | 2022-09-02 |  |
 | [Mama Talk to Your Daughter](https://open.spotify.com/track/0x6atsBlhX2PPBgCF4MjfN) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Breakin' It Up, Breakin' It Down](https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl) | 5:53 | 2022-08-06 | 2022-09-21 |
 | [Mannish Boy](https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:21 | 2022-08-05 |  |
 | [Mannish Boy \(feat\. Muddy Waters\) \- Concert Version](https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 6:40 | 2022-10-12 |  |
@@ -106,7 +106,7 @@
 | [She's Alright](https://open.spotify.com/track/7mkH6cbNwZZtGNUmqhEG1r) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 6:31 | 2022-08-05 | 2024-07-04 |
 | [She's Nineteen Years Old](https://open.spotify.com/track/30A9AnKtDJVZY1tzRauhSx) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:18 | 2024-05-12 | 2024-05-13 |
 | [Short Dress Woman](https://open.spotify.com/track/5JoNCSJaHppA9EXDhYHmIY) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 2:49 | 2022-08-05 |  |
-| [Slow Blues Instrumental \- Muddy Intros Band \- Live Boston August 22nd.1972 \- Restauración 2024](https://open.spotify.com/track/03cst32QZ3HCmpBhQ0p5sh) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Live Boston August 22nd\. 1972 \(Restauración 2024\)](https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx) | 4:32 | 2024-07-18 |  |
+| [Slow Blues Instrumental \- Muddy Intros Band \- Live Boston August 22nd.1972 \- Restauración 2024](https://open.spotify.com/track/03cst32QZ3HCmpBhQ0p5sh) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Live Boston August 22nd\. 1972 \(Restauración 2024\)](https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx) | 4:32 | 2024-07-18 | 2024-08-06 |
 | [Soon Forgotten \- Live At Newport Jazz Festival/1960](https://open.spotify.com/track/0y4UCDBgCMGwJKmjC8Hnnw) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters At Newport 1960](https://open.spotify.com/album/7gTcPv1bE0THbjuvDbK1gq) | 4:17 | 2022-08-06 | 2022-10-12 |
 | [Soul Fever Blues](https://open.spotify.com/track/3Ui7cdWASapLaUp2RHym7q) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Burning Spider](https://open.spotify.com/album/7fstnHfNoKfBJQpvY5VuEk) | 3:04 | 2022-08-05 |  |
 | [Southbound Train](https://open.spotify.com/track/7syNRB7WNZ6jwEs0cM7OaA) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:53 | 2023-04-29 | 2023-05-01 |

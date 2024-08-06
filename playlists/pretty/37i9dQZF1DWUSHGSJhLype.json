@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: Mc Daniel",
-  "num_followers": 532371,
+  "num_followers": 532510,
   "original_name": "PURO SUCO DO BRASIL",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Torre Eiffel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0bqJ8OprnMh9bSwEWmrvh4"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 202678,
+      "name": "Torre Eiffel - Ao Vivo",
+      "url": "https://open.spotify.com/track/54UGdW621lBINbfMWJmmSO"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "MTG QUEM N\u00c3O QUER SOU EU",
         "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 123692,
       "name": "MTG QUEM N\u00c3O QUER SOU EU",
       "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Torre Eiffel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0bqJ8OprnMh9bSwEWmrvh4"
-      },
-      "artists": [
-        {
-          "name": "Manu",
-          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
-        },
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 202678,
-      "name": "Torre Eiffel - Ao Vivo",
-      "url": "https://open.spotify.com/track/54UGdW621lBINbfMWJmmSO"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "POCPOC",
+        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "POCPOC",
+      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "RAM TCHUM",
         "url": "https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 129418,
       "name": "RAM TCHUM",
       "url": "https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "POCPOC",
-        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "POCPOC",
-      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1115,26 +1115,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "MTG DADINHO",
-        "url": "https://open.spotify.com/album/4pubhzFcOW99l8r4OEXwKw"
+        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
       },
       "artists": [
         {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "Davi Kneip",
-          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
         }
       ],
-      "duration_ms": 149817,
-      "name": "MTG DADINHO",
-      "url": "https://open.spotify.com/track/40x7EaBgfqNDvGbhR2cfB4"
+      "duration_ms": 202411,
+      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1155,18 +1147,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+        "name": "MTG DADINHO",
+        "url": "https://open.spotify.com/album/4pubhzFcOW99l8r4OEXwKw"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Davi Kneip",
+          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 202411,
-      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
+      "duration_ms": 149817,
+      "name": "MTG DADINHO",
+      "url": "https://open.spotify.com/track/40x7EaBgfqNDvGbhR2cfB4"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1367,30 +1367,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
-        "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
+        "name": "Ao After e Al\u00e9m, Pt.2",
+        "url": "https://open.spotify.com/album/34eaUTnAMJMnniGG1mOlJu"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
-          "name": "Chic\u00e3o do Piseiro",
-          "url": "https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG"
+          "name": "Mc Sapinha",
+          "url": "https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM"
         },
         {
-          "name": "Roni Bruno",
-          "url": "https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1"
-        },
-        {
-          "name": "Mts No Beat",
-          "url": "https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7"
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
         }
       ],
-      "duration_ms": 135892,
-      "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
-      "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
+      "duration_ms": 245538,
+      "name": "Medleys Dos Medleys - O Barraco Dela L\u00e1 / Eu Vou Pro Baile Eu Vou Pro Bega / Ela N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/1S1WZmrwbmmOwDRaw95eno"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1415,26 +1411,30 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Ao After e Al\u00e9m, Pt.2",
-        "url": "https://open.spotify.com/album/34eaUTnAMJMnniGG1mOlJu"
+        "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
+        "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
       },
       "artists": [
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         },
         {
-          "name": "Mc Sapinha",
-          "url": "https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM"
+          "name": "Chic\u00e3o do Piseiro",
+          "url": "https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG"
         },
         {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+          "name": "Roni Bruno",
+          "url": "https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1"
+        },
+        {
+          "name": "Mts No Beat",
+          "url": "https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7"
         }
       ],
-      "duration_ms": 245538,
-      "name": "Medleys Dos Medleys - O Barraco Dela L\u00e1 / Eu Vou Pro Baile Eu Vou Pro Bega / Ela N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/1S1WZmrwbmmOwDRaw95eno"
+      "duration_ms": 135892,
+      "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
+      "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
     },
     {
       "added_at": "2024-08-02 03:00:00",

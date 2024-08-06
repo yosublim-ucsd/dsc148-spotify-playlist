@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Dillon Francis &amp; longstoryshort
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,573 likes - 10 songs - 30 min 22 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,571 likes - 14 songs - 47 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,5 +18,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 8 | [Moonwalk Season](https://open.spotify.com/track/4VspZ79KeIv7Ls0QYPDMeS) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Moonwalk Season](https://open.spotify.com/album/6zFZhzZoz1Nn98xYJm0bFo) | 2:41 |
 | 9 | [Malfunction](https://open.spotify.com/track/5VurwBt2WaKjPGOagoVH92) | [JustLuke](https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh) | [Malfunction](https://open.spotify.com/album/5oAzm3nqxqr7lJp2TWPUWy) | 2:36 |
 | 10 | [Gonna Kill My Way](https://open.spotify.com/track/3IpWLISMLR0JMuLgXtm8nG) | [Eddy Black](https://open.spotify.com/artist/5XCoXE7RaDvuyMCghkdmxK) | [Gonna Kill My Way](https://open.spotify.com/album/0ZUeNzry9q22SNXQ88xIgD) | 3:50 |
+| 11 | [Church](https://open.spotify.com/track/13omEuVGVe0b1JN867nBkl) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Church](https://open.spotify.com/album/3w8xzrogRGShyK4PzW3LgH) | 2:58 |
+| 12 | [No Guest List \(JADED Remix\)](https://open.spotify.com/track/3Xfm77Umzbn9ZsKgJS77Ri) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [No Guest List \(Deluxe\)](https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ) | 3:48 |
+| 13 | [Don't Touch That](https://open.spotify.com/track/6V7zbpWcKouASI9seW5t5j) | [Jordi Owen](https://open.spotify.com/artist/7trp5UlbDIZyNoYbeeLOoy) | [Don't Touch That](https://open.spotify.com/album/7cI8TNUIADCXeBqugLdrPS) | 6:39 |
+| 14 | [Larry](https://open.spotify.com/track/0TwaNFcKHIFxezKakWIGm4) | [Bakkis](https://open.spotify.com/artist/4gKuT9rOlvCpHJUkWp4JFv) | [Larry](https://open.spotify.com/album/5aEeVj9bdZLVy1GV8gBULn) | 3:14 |
 
-Snapshot ID: `AAAq5bL2cLxsjhbkyr2jwomuweboIGxB`
+Snapshot ID: `AAAq6DVRENzVG0W4qqNwby7HG7Ito6vh`

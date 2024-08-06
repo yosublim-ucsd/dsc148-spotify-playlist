@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-560 songs - 1 day 10 hr 0 min
+561 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Never Knew](https://open.spotify.com/track/6cxVFEPXZO3ZamTANto61h) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Living High in the Brass Empire](https://open.spotify.com/album/7CN9Tvp3Wsi1ISL1D0brzB) | 3:14 | 2023-04-07 | 2024-04-19 |
 | [Never Knew](https://open.spotify.com/track/6fAud0gWfZQVQ7UuC94UNG) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Never Knew](https://open.spotify.com/album/4JEwt51uUJfpUGJASLyt65) | 3:14 | 2023-04-07 | 2023-05-20 |
 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 | 2022-09-16 | 2023-04-29 |
-| [No Lie](https://open.spotify.com/track/7k9EZESFOvZavFZ3xFPsh2) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [VANTABLACK](https://open.spotify.com/album/2OObNk2YheZrtE1YYZLhD7) | 4:29 | 2024-06-14 |  |
+| [No Lie](https://open.spotify.com/track/7k9EZESFOvZavFZ3xFPsh2) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [VANTABLACK](https://open.spotify.com/album/2OObNk2YheZrtE1YYZLhD7) | 4:29 | 2024-06-14 | 2024-08-06 |
 | [No Particulars](https://open.spotify.com/track/3wF0M5BsOWABoOV4vr3wCr) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Didda Joe](https://open.spotify.com/artist/6RiH4it36bTUNBvUjPH2DP), [August Rose](https://open.spotify.com/artist/4cGbWF0MMhak6Ws9ROGC44) | [So Gold](https://open.spotify.com/album/2n8xGkaNui2V7g59g9EAjC) | 4:23 | 2023-06-09 | 2023-09-02 |
 | [no spine](https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 3:02 | 2023-09-01 |  |
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2022-01-28 | 2022-09-10 |
@@ -552,6 +552,7 @@
 | [When You're Lonely](https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Son of Zeus](https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN) | 2:36 | 2024-03-08 |  |
 | [Where Do We Go](https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Where Do We Go](https://open.spotify.com/album/3hitxecfhBZ4UFBgDdRCLi) | 4:59 | 2024-01-19 |  |
 | [Where Have I Been?](https://open.spotify.com/track/7LJDu7j29gWGyM1R2c224J) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Where Have I Been?](https://open.spotify.com/album/5ARvrX3Ec7G4vMp5cpeNoH) | 3:44 | 2024-03-01 | 2024-04-06 |
+| [Whippedlashed](https://open.spotify.com/track/1f6AmSEPyeytGkXAAcjafv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 1:01 | 2024-08-02 |  |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2022-11-04 |  |
 | [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79) | 4:53 | 2023-08-25 | 2023-11-06 |
 | [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/4Itbv26vt7dWj8cdGcxvq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/4mAaeqc5N8tso7xNVbQjHF) | 4:53 | 2023-08-25 | 2024-03-04 |

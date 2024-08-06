@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover：VIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,148 likes - 348 songs - 21 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,149 likes - 348 songs - 21 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

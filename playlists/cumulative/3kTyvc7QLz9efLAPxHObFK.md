@@ -4,7 +4,7 @@
 
 > 
 
-1,563 songs - 3 day 12 hr 49 min
+1,564 songs - 3 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,6 @@
 | [Came 2 Rave!](https://open.spotify.com/track/6aEcdWLLt3xI0CJqWs1WTV) | [Al Storm](https://open.spotify.com/artist/12CfGGtVpvaQVgoQaFy7kM), [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7) | [Came 2 Rave!](https://open.spotify.com/album/0iDIWMl1uMDpU5F5bhPVGz) | 4:18 | 2023-09-22 |  |
 | [Can you feel it](https://open.spotify.com/track/7jsyzjSEtReYLuuAcargSY) | [Raw System](https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4) | [Can you feel it EP](https://open.spotify.com/album/30BWqw4BKd5cB7UTlhTaeA) | 3:00 | 2024-05-22 |  |
 | [Can You Feel The Love \- Radio Edit](https://open.spotify.com/track/0IV3rPb3TebEgigzfcY5Vd) | [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs), [Krayze](https://open.spotify.com/artist/4q1ag2CrQMOL87AkSNtvOA) | [Can You Feel The Love](https://open.spotify.com/album/6FiB3syZRasiVDz1mWDSPV) | 3:58 | 2023-09-22 |  |
-| [CAN YOU MAKE IT HARDER?](https://open.spotify.com/track/1X7WYFxcE7SW0JPyAt2jYC) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN) | [CAN YOU MAKE IT HARDER?](https://open.spotify.com/album/2nfFxigPlhMyUFIoPi8IwG) | 2:36 | 2023-10-09 |  |
 | [Can't Get Enough](https://open.spotify.com/track/2u1lguaUTOLMMSt1Sxvrbw) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Can't Get Enough](https://open.spotify.com/album/6oyYnHZNdp5oEqE1fqLC1R) | 3:12 | 2024-07-26 |  |
 | [Can't Get You Outta My Head](https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Can't Get You Outta My Head](https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ) | 2:36 | 2024-04-09 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6DYf6xNgm9ICquH8W0bd8I) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Nicole Alexa Choo](https://open.spotify.com/artist/5XSnwCQ3t9cTAg5BqchS4W) | [Can't Help Falling In Love](https://open.spotify.com/album/3auD6CFKlMPcCZtL1Szvhk) | 4:00 | 2023-02-13 |  |
@@ -434,6 +433,7 @@
 | [Evolve Rerise](https://open.spotify.com/track/1OTdjQoSOX78UBKpkk4eIQ) | [nora2r](https://open.spotify.com/artist/2w6fOiIppkVrA659vJN89h) | [Evolve Rerise](https://open.spotify.com/album/4f6wwMWCfRhmIRBFgZSAH2) | 2:03 | 2024-04-09 |  |
 | [Execute](https://open.spotify.com/track/3ibmBtsJoIDbiNY0ibsS4O) | [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Execute](https://open.spotify.com/album/2jioYBhDvVDq6m9uKwUDbI) | 2:26 | 2023-05-20 |  |
 | [Execute \- INVADE Remix](https://open.spotify.com/track/4L2fzotymdHZ2QadB8bge4) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [Execute \(INVADE Remix\)](https://open.spotify.com/album/6gwA2eaGVUBwguLb7i4m60) | 4:20 | 2023-06-02 |  |
+| [EY YO IXPER CAN YOU MAKE IT HARDER?](https://open.spotify.com/track/1X7WYFxcE7SW0JPyAt2jYC) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN) | [EY YO IXPER CAN YOU MAKE IT HARDER?](https://open.spotify.com/album/2nfFxigPlhMyUFIoPi8IwG) | 2:36 | 2023-10-09 |  |
 | [F THE SYSTEM](https://open.spotify.com/track/6sumgDtmDdwxwbN9ZBZ5hm) | [Project Core](https://open.spotify.com/artist/16cCEbmSAybTJMb5epEDoL), [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [F THE SYSTEM](https://open.spotify.com/album/4fdZUpz17Mz9OY4gVFdAbX) | 3:07 | 2023-03-02 |  |
 | [F.R.N.](https://open.spotify.com/track/29WXMR8m8zj3VQPOzR2h1j) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [BREVKIN](https://open.spotify.com/album/3Elsd1dMiZfACBTZieeJXJ) | 3:19 | 2023-05-20 |  |
 | [Face Of Chaos \- Luminite Remix](https://open.spotify.com/track/5ea5bznm32Y9VZ8qFlhZ3E) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Face Of Chaos \(Luminite Remix\)](https://open.spotify.com/album/6Kf4PF4uTxI4iARE73OYyY) | 2:18 | 2023-06-24 |  |
@@ -1202,6 +1202,7 @@
 | [Shockwave](https://open.spotify.com/track/7jEHdn446rOCOuJiL9OjR9) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Shockwave](https://open.spotify.com/album/3j7zpz12akF07kxcciSf5E) | 4:19 | 2022-09-22 |  |
 | [Shooting Star](https://open.spotify.com/track/06kcnJeXXaNpBStBduk1rD) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Shooting Star](https://open.spotify.com/album/0zjQZ22vVVkDBAQhjfuyrP) | 2:49 | 2024-07-26 |  |
 | [Shooting Stars](https://open.spotify.com/track/4XIob709mZn9KTLKNxEKDP) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [Shooting Stars](https://open.spotify.com/album/5q8UHxGTLqBtZrpTuVSkgd) | 2:09 | 2023-03-05 |  |
+| [Short D!Ck](https://open.spotify.com/track/1EMhKu8rINYnXYmebvLq9s) | [Wrong Sequence](https://open.spotify.com/artist/600ZzvXe79KqVNCVrCG53W), [Hollow](https://open.spotify.com/artist/39z1fY2k7pqtv63oZUIO1M) | [Short D!Ck](https://open.spotify.com/album/6N6OSP5C3TI7J7O1OThz4j) | 3:06 | 2024-08-05 |  |
 | [Shot Me](https://open.spotify.com/track/0iyysJlfl1uBwoh4GxMzyv) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Shot Me](https://open.spotify.com/album/2J4s2W2BCnh4MsWBtUgXDI) | 2:16 | 2024-05-24 |  |
 | [Shout](https://open.spotify.com/track/5DXOZpg1kgYat7meZMRZmQ) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Pie Star](https://open.spotify.com/artist/5nUXeLjAJBxQvOe2xuBMGy) | [Shout](https://open.spotify.com/album/091I19r7uDRereR4VADK7I) | 3:01 | 2024-03-29 |  |
 | [Signal](https://open.spotify.com/track/2oaXAbSxNPuUVZZyJeesiY) | [rejection](https://open.spotify.com/artist/0S23vj2YyvxsVlhqqSohrk), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [Beyond core EVANGELIX 01](https://open.spotify.com/album/5mFg1Tms9cKuoG2LsnIn1V) | 5:15 | 2022-02-22 |  |

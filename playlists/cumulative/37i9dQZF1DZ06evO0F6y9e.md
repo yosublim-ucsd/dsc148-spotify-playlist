@@ -2,7 +2,7 @@
 
 ### [This Is Grupo Firme](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0F6y9e)
 
-> This is Grupo Firme\. De viktigaste låtarna samlade i en spellista.
+> This Is Grupo Firme\. Los temas esenciales, todos en una lista.
 
 91 songs - 5 hr 17 min
 

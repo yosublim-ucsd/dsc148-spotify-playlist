@@ -1,6 +1,6 @@
 {
   "description": "The best in new alternative pop. Cover: Pixey",
-  "num_followers": 45657,
+  "num_followers": 45660,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "a bit of a mad one",
-        "url": "https://open.spotify.com/album/0SW2LQdzynFLJ05WzVYSJq"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 131271,
-      "name": "god is dead",
-      "url": "https://open.spotify.com/track/5oRnhpl1cQN0zxwsV4K2m5"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
         "name": "Traumatic Livelihood",
         "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 206039,
       "name": "Shit Show",
       "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "a bit of a mad one",
+        "url": "https://open.spotify.com/album/0SW2LQdzynFLJ05WzVYSJq"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 131271,
+      "name": "god is dead",
+      "url": "https://open.spotify.com/track/5oRnhpl1cQN0zxwsV4K2m5"
     },
     {
       "added_at": "2024-08-01 23:00:00",

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: Alex Izenberg
 
-1,007 songs - 2 day 21 hr 19 min
+1,008 songs - 2 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [I Play My Bass Loud](https://open.spotify.com/track/2tdLhnzLh9zknYf8bjIN93) | [Gina Birch](https://open.spotify.com/artist/6Uf8GS97rZbMv6vUFKhWft) | [I Play My Bass Loud](https://open.spotify.com/album/7DQY6bwfrs58VTGKQh4MGg) | 4:27 | 2023-02-01 | 2023-03-09 |
 | [I Remember \- Richard X Dub Remix](https://open.spotify.com/track/5oCpMam8qvuMLVaMGlCZ1s) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Richard x](https://open.spotify.com/artist/1U3sbewNFRq4oyhUWZinMi) | [I Forget \(Richard X Remixes\)](https://open.spotify.com/album/1FYt31PDTU0mBGnRbwIJC2) | 7:41 | 2024-05-15 | 2024-06-13 |
 | [I Saw You](https://open.spotify.com/track/15NpCPY8rbRALzaNl6hY7p) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Love Is Yours](https://open.spotify.com/album/5dDZ1oTb2lW1TXCogqbIJO) | 3:05 | 2022-06-17 | 2022-08-11 |
+| [I Wanna Go With Dignity](https://open.spotify.com/track/3DQCq5hNiKcz4BzHsKWhJC) | [Peter Perrett](https://open.spotify.com/artist/1AcMngBo2RJdnnciklA9Cx) | [I Wanna Go With Dignity](https://open.spotify.com/album/5HqM5quuQo2mXWC7lRx7CH) | 3:24 | 2024-08-05 |  |
 | [I Want What I Don't Need](https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey) | 3:35 | 2024-05-15 | 2024-06-27 |
 | [I Want What I Don't Need](https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [I Want What I Don't Need](https://open.spotify.com/album/4jFyRkvMztF94lz28UCX4S) | 3:35 | 2024-05-07 | 2024-05-16 |
 | [I Was There](https://open.spotify.com/track/6paWaql392oLnJRPa75nck) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC), [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU) | [I Was There](https://open.spotify.com/album/0HT5XoirMNKI8h7jlddNHc) | 3:20 | 2023-11-01 | 2023-12-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 309095,
+  "num_followers": 309135,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/46JwWkm9rEycvh5mI4lpCx"
     },
     {
-      "added_at": "2024-01-26 00:52:30",
-      "album": {
-        "name": "Heaven Sent (Between Heavens B-Sides)",
-        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
-      },
-      "artists": [
-        {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Nadine",
-      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Songs",
@@ -711,22 +695,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 400037,
-      "name": "Earth To Sea",
-      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Cellar",
         "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
       },
@@ -741,20 +709,36 @@
       "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
     },
     {
-      "added_at": "2024-02-21 11:35:46",
+      "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "baby's out of luck again",
-        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
       "artists": [
         {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 149443,
-      "name": "baby\u2019s out of luck again",
-      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
+      "duration_ms": 400037,
+      "name": "Earth To Sea",
+      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+    },
+    {
+      "added_at": "2024-01-26 00:52:30",
+      "album": {
+        "name": "Heaven Sent (Between Heavens B-Sides)",
+        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -771,6 +755,22 @@
       "duration_ms": 159032,
       "name": "number own",
       "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+    },
+    {
+      "added_at": "2024-02-21 11:35:46",
+      "album": {
+        "name": "baby's out of luck again",
+        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "baby\u2019s out of luck again",
+      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "If I Come Home",
-        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
-      },
-      "artists": [
-        {
-          "name": "rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
-        }
-      ],
-      "duration_ms": 216145,
-      "name": "If I Come Home",
-      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "James",
         "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 269268,
       "name": "James",
       "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "If I Come Home",
+        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
+      },
+      "artists": [
+        {
+          "name": "rozey",
+          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
+        }
+      ],
+      "duration_ms": 216145,
+      "name": "If I Come Home",
+      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
     },
     {
       "added_at": "2024-01-26 00:52:30",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Hyper-normal",
-        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
-      },
-      "artists": [
-        {
-          "name": "GRAZER",
-          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
-        }
-      ],
-      "duration_ms": 195691,
-      "name": "Hyper-normal",
-      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Make Me Wanna",
         "url": "https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Hyper-normal",
+        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
+      },
+      "artists": [
+        {
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
+        }
+      ],
+      "duration_ms": 195691,
+      "name": "Hyper-normal",
+      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Zero Division Error",
-        "url": "https://open.spotify.com/album/47UZcR4qvPMLF6mXkEFcPk"
-      },
-      "artists": [
-        {
-          "name": "Parks, Squares and Alleys",
-          "url": "https://open.spotify.com/artist/0botW5W7KGHTm8BkLemEH8"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Alliance",
-      "url": "https://open.spotify.com/track/20SJytWf5uMDM5IR8SyIpv"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "what if love isn't enough",
         "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 228522,
       "name": "what if love isn't enough",
       "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Zero Division Error",
+        "url": "https://open.spotify.com/album/47UZcR4qvPMLF6mXkEFcPk"
+      },
+      "artists": [
+        {
+          "name": "Parks, Squares and Alleys",
+          "url": "https://open.spotify.com/artist/0botW5W7KGHTm8BkLemEH8"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Alliance",
+      "url": "https://open.spotify.com/track/20SJytWf5uMDM5IR8SyIpv"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Cassette",
-        "url": "https://open.spotify.com/album/0CAblx2b8lHRCRndUxVFgR"
-      },
-      "artists": [
-        {
-          "name": "Swiss Portrait",
-          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
-        }
-      ],
-      "duration_ms": 218450,
-      "name": "Cassette",
-      "url": "https://open.spotify.com/track/5EdpixfJpL4XF4tB8fSYn7"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Heathers",
         "url": "https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 194947,
       "name": "Ohio Blue Tips",
       "url": "https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Cassette",
+        "url": "https://open.spotify.com/album/0CAblx2b8lHRCRndUxVFgR"
+      },
+      "artists": [
+        {
+          "name": "Swiss Portrait",
+          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
+        }
+      ],
+      "duration_ms": 218450,
+      "name": "Cassette",
+      "url": "https://open.spotify.com/track/5EdpixfJpL4XF4tB8fSYn7"
     },
     {
       "added_at": "2023-07-21 10:37:28",

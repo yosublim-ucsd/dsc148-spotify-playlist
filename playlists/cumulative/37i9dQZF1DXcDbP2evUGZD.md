@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2024</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2024 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-344 songs - 21 hr 58 min
+345 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Big Fuss](https://open.spotify.com/track/0lASCJzmI19z5nKRzc8Vl2) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [Dance Pop](https://open.spotify.com/album/1SVDPzcelHebVKQ1TFsf45) | 3:47 | 2022-09-27 | 2023-07-13 |
 | [BIG NINE, Let's Go](https://open.spotify.com/track/7sxfzl7oiuE5GgblbPe38h) | [Drinking Boys and Girls Choir](https://open.spotify.com/artist/1ZBsXLFV4kdFa0yqqNy9kx) | [BIG NINE, Let's go](https://open.spotify.com/album/0WRJzyTaxSVUV4gpMV82aq) | 2:30 | 2022-09-27 | 2024-07-13 |
 | [Birds Fly Like Ashes](https://open.spotify.com/track/6o8k2sm6IWq5RShUP2NJM0) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [Lee Joo Young](https://open.spotify.com/album/5i44nq2EwgaL9MCmZhKDHb) | 5:53 | 2022-09-27 | 2022-12-03 |
+| [Bitrate Love](https://open.spotify.com/track/4RDgG8BOzRjRH1sCmspYZG) | [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp), [X\-RL7](https://open.spotify.com/artist/3oWmlF6uj2WV0m5XjovrZi) | [Bitrate Love](https://open.spotify.com/album/13C5yZchL3RPSo1BksSBU2) | 4:20 | 2024-08-05 |  |
 | [Bitrate Love](https://open.spotify.com/track/5LGefLdfBAByaRbInNSiOD) | [X\-RL7](https://open.spotify.com/artist/3oWmlF6uj2WV0m5XjovrZi), [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Bitrate Love](https://open.spotify.com/album/142xRWHdQLsg8y6pwaGDEo) | 4:20 | 2024-07-15 | 2024-07-18 |
 | [Blossom](https://open.spotify.com/track/34f6JDNuJZfRt2Mrd1w00K) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [Blossom](https://open.spotify.com/album/5W8EKu6OvTWD8V9mt86wc0) | 4:33 | 2023-07-12 | 2024-07-13 |
 | [Blue Christmas](https://open.spotify.com/track/3tJ3SoGhyGmg7B4QI7HTRS) | [Tasty Shop](https://open.spotify.com/artist/7k7nMvpCsouxOy1U4XIGr3) | [Blue Christmas](https://open.spotify.com/album/3sqcFOSdayuv9jZVvbaYi2) | 3:26 | 2022-09-27 | 2023-07-13 |

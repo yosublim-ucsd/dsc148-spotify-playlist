@@ -1,6 +1,6 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 205653,
+  "num_followers": 205646,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Regalo de Reyes",
-        "url": "https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo"
+        "name": "La Ni\u00f1a del Tambor",
+        "url": "https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Regalo de Reyes",
-      "url": "https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps"
+      "duration_ms": 266808,
+      "name": "Jes\u00fas",
+      "url": "https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -263,34 +263,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "La Ni\u00f1a del Tambor",
-        "url": "https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu"
+        "name": "Regalo de Reyes",
+        "url": "https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 266808,
-      "name": "Jes\u00fas",
-      "url": "https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
-        "name": "Eterna Navidad",
-        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
-      },
-      "artists": [
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU"
+      "duration_ms": 169600,
+      "name": "Regalo de Reyes",
+      "url": "https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -307,6 +291,22 @@
       "duration_ms": 176523,
       "name": "El Tamborilero",
       "url": "https://open.spotify.com/track/3Vrn9BAwRqcMh1jgNzgSNf"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Eterna Navidad",
+        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
+      },
+      "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Feliz Christmas (Vol.1)",
-        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Noche de Paz",
         "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 221302,
       "name": "Noche de Paz",
       "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Feliz Christmas (Vol.1)",
+        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Posada",
-        "url": "https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Adeste Fideles",
-      "url": "https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 148740,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Posada",
+        "url": "https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku"
     },
     {
       "added_at": "2023-12-20 18:10:37",

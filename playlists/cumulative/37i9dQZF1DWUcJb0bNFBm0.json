@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "The River Runs slowly",
+        "url": "https://open.spotify.com/album/13XlfaVHqb3EztJyk9kFnT"
+      },
+      "artists": [
+        {
+          "name": "Ferri-Chrome",
+          "url": "https://open.spotify.com/artist/1mQTu2sdvPrgwujzkfnpJy"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158124,
+      "name": "The River Runs slowly",
+      "url": "https://open.spotify.com/track/085Fu95fvjitPSEyIPJcmg"
+    },
+    {
+      "album": {
         "name": "The Sun Is In Our Eyes",
         "url": "https://open.spotify.com/album/62KE5bmBpoqYtkLQYMkFJh"
       },
@@ -1700,6 +1718,28 @@
       "duration_ms": 177104,
       "name": "UMA",
       "url": "https://open.spotify.com/track/2qZiHuLxK7jhLrVL5Jwf3C"
+    },
+    {
+      "album": {
+        "name": "Watching K-Drama (Without Subtitles)",
+        "url": "https://open.spotify.com/album/2am7oyB1E4rdwVzMSWiohy"
+      },
+      "artists": [
+        {
+          "name": "The Wallflower Dept.",
+          "url": "https://open.spotify.com/artist/1ykM1fXFLT1d83l7OAw1Yv"
+        },
+        {
+          "name": "Ananda Yala",
+          "url": "https://open.spotify.com/artist/79gwnl8jXCn78lRxTGD0wL"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Watching K-Drama (Without Subtitles)",
+      "url": "https://open.spotify.com/track/2zAPVUH3KupXkv2IoTkGYY"
     },
     {
       "album": {

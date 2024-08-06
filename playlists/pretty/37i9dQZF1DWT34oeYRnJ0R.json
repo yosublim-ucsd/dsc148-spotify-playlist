@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Boza & ELENA ROSE",
-  "num_followers": 665338,
+  "num_followers": 665341,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
+        "name": "COSAS QUE NO TE DIJE",
+        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "COSAS QUE NO TE DIJE",
+      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
         "name": "Los Gangsters Tambien Lloran",
         "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 221714,
       "name": "Gitana (feat. Bryartz)",
       "url": "https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
-        "name": "COSAS QUE NO TE DIJE",
-        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "COSAS QUE NO TE DIJE",
-      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -1811,18 +1811,26 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "Ganamos",
-        "url": "https://open.spotify.com/album/3lsdIWYVrtuWPdp1siBohA"
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/7fxoiLhdWnKxOniIaN1IPn"
       },
       "artists": [
         {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
         }
       ],
-      "duration_ms": 161111,
-      "name": "Ganamos",
-      "url": "https://open.spotify.com/track/75rRbBs3E52UMSUXbwkbzz"
+      "duration_ms": 194666,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -1883,26 +1891,18 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "Madrid",
-        "url": "https://open.spotify.com/album/7fxoiLhdWnKxOniIaN1IPn"
+        "name": "Ganamos",
+        "url": "https://open.spotify.com/album/3lsdIWYVrtuWPdp1siBohA"
       },
       "artists": [
         {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
-        },
-        {
-          "name": "The Prodigiez",
-          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk"
+      "duration_ms": 161111,
+      "name": "Ganamos",
+      "url": "https://open.spotify.com/track/75rRbBs3E52UMSUXbwkbzz"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -2231,6 +2231,26 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
+        "name": "roadhead",
+        "url": "https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "roadhead",
+      "url": "https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
         "name": "Merry Remix",
         "url": "https://open.spotify.com/album/0Lg66u1y0YsFw4O6GkAVzg"
       },
@@ -2255,26 +2275,6 @@
       "duration_ms": 282346,
       "name": "Merry Remix",
       "url": "https://open.spotify.com/track/5fEL5j5BeLYP3gmKCH5RoP"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
-        "name": "roadhead",
-        "url": "https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "roadhead",
-      "url": "https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -2435,26 +2435,6 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "Himalaya",
-        "url": "https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 168871,
-      "name": "Himalaya",
-      "url": "https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
         "name": "Y Qu\u00e9",
         "url": "https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ"
       },
@@ -2471,6 +2451,26 @@
       "duration_ms": 168979,
       "name": "Y Qu\u00e9",
       "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 168871,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw"
     },
     {
       "added_at": "2024-07-19 08:30:01",

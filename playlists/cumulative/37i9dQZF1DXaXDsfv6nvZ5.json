@@ -6968,7 +6968,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 269046,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/7k9EZESFOvZavFZ3xFPsh2"
@@ -10798,6 +10798,24 @@
       "duration_ms": 224040,
       "name": "Where Have I Been?",
       "url": "https://open.spotify.com/track/7LJDu7j29gWGyM1R2c224J"
+    },
+    {
+      "album": {
+        "name": "Sophcore",
+        "url": "https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61920,
+      "name": "Whippedlashed",
+      "url": "https://open.spotify.com/track/1f6AmSEPyeytGkXAAcjafv"
     },
     {
       "album": {

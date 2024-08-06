@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,329 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,349 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 66 | [Uit M'n Naad!](https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Uit M'n Naad!](https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx) | 3:22 |
 | 67 | [Wake Up Now](https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk) | [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Wake Up Now](https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7) | 3:22 |
 | 68 | [Mutilate](https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE) | [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab), [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Mutilate](https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b) | 3:50 |
-| 69 | [Gremlins](https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Gremlins](https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ) | 3:37 |
-| 70 | [Furious Anger](https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Furious Anger](https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR) | 3:25 |
+| 69 | [Furious Anger](https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Furious Anger](https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR) | 3:25 |
+| 70 | [Gremlins](https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Gremlins](https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ) | 3:37 |
 | 71 | [The Roots \- Official Harmony of Hardcore 2023 Anthem](https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4), [Dave Revan](https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ) | [The Roots \(Official Harmony of Hardcore 2023 Anthem\)](https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA) | 3:55 |
 | 72 | [SIUU!](https://open.spotify.com/track/2OWCrAs7CVXECZax6Qhuuc) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Dopameme](https://open.spotify.com/album/7mrKtXt92sGdK4IIkBJNO0) | 3:37 |
 | 73 | [Force Of Salvation \- Official Masters of Hardcore Austria 2023 Anthem](https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Force Of Salvation \(Official Masters of Hardcore Austria 2023 Anthem\)](https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY) | 5:22 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 97 | [BE LOUDER](https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [BE LOUDER](https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg) | 2:51 |
 | 98 | [Slaves To The Darkness](https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2), [Lin was here](https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf) | [Slaves To The Darkness](https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3) | 3:18 |
 | 99 | [Made it to Thunderdome](https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe) | [Nightshift](https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Made it to Thunderdome](https://open.spotify.com/album/51RFeHthhnta86KQO92uyY) | 3:47 |
-| 100 | [Nobody Harder \(2019 Remaster\) \- G\-Town Madness Remix](https://open.spotify.com/track/2SbHD97inSP7eEXkJUpUCk) | [Rotterdam Terror Corps](https://open.spotify.com/artist/5vivlUC65oZCNqFxTue8rM), [G\-Town Madness](https://open.spotify.com/artist/4vxLy9lWDO7KlaKiwJ8Mjp) | [RTC is the legacy](https://open.spotify.com/album/6Vs6Cu9JpivGvsLsdkkB5b) | 6:12 |
+| 100 | [Enemy](https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4), [TukkerTempo](https://open.spotify.com/artist/1hP1BT3aK40lWagFTrvLLN), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Enemy](https://open.spotify.com/album/4bMvupucD3bY4SIEZ9pBE7) | 3:21 |
 
 Snapshot ID: `ZqyBvwAAAAArm7FZ9EePsg05cEAkY+9K`

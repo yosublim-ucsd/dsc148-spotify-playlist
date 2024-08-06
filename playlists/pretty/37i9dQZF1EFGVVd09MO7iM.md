@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,607 likes - 406 songs - 1 day 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,609 likes - 406 songs - 1 day 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -311,8 +311,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 301 | [Angel](https://open.spotify.com/track/4WHQH9TRMCtR7nqnTjKaty) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 2:44 |
 | 302 | [Why Should I Be Sad](https://open.spotify.com/track/05ysmI6jXcCYLNPCOu9vnQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:10 |
 | 303 | [Let's Take A Ride](https://open.spotify.com/track/1EEwfP7Trp1E52C40kCWcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:44 |
-| 304 | [Good Stuff](https://open.spotify.com/track/6E2K2I89maFIMR7Zqx57aE) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Terrar](https://open.spotify.com/artist/0HQWgrzmyxoSYMVWQ70EJW) | [Kaleidoscope](https://open.spotify.com/album/33viW1sFm3sCCmzs7FZ9MI) | 3:52 |
-| 305 | [Değmen Benim Gamlı Yaslı Gönlüme](https://open.spotify.com/track/1QG9Rm1xK9uWH8BpS4hw5H) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [Avuntu \(Ağıt\)](https://open.spotify.com/album/7lPEGPskSm5d1wzcclIS0k) | 3:45 |
+| 304 | [Değmen Benim Gamlı Yaslı Gönlüme](https://open.spotify.com/track/1QG9Rm1xK9uWH8BpS4hw5H) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [Avuntu \(Ağıt\)](https://open.spotify.com/album/7lPEGPskSm5d1wzcclIS0k) | 3:45 |
+| 305 | [Good Stuff](https://open.spotify.com/track/6E2K2I89maFIMR7Zqx57aE) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Terrar](https://open.spotify.com/artist/0HQWgrzmyxoSYMVWQ70EJW) | [Kaleidoscope](https://open.spotify.com/album/33viW1sFm3sCCmzs7FZ9MI) | 3:52 |
 | 306 | [The Good Life](https://open.spotify.com/track/4MQsMfVxJtu79nUHwWD2WQ) | [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU) | [The Preview](https://open.spotify.com/album/0BfzIrlViS9devVRvpf4tw) | 2:56 |
 | 307 | [Maybe](https://open.spotify.com/track/3nrGG3qYHIhjnHOx1lnMNx) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 4:23 |
 | 308 | [Candy \(Drippin' Like Water\) \- Final Album Version \(Explicit\)](https://open.spotify.com/track/0E1NCpOWUweGB674Hhu7sc) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X), [Goldie Loc](https://open.spotify.com/artist/6kEwu0twnfzngQt3Gy8taP), [Daz](https://open.spotify.com/artist/5MQIo1YqabUyOjWBzRqPSA), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 4:48 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 405 | [Ghetto Children](https://open.spotify.com/track/52XCA6ZanL2yEHBmJogIUk) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Marc Dorsey](https://open.spotify.com/artist/7A9mIAVm7NGceBFJkbb612) | [Kaleidoscope](https://open.spotify.com/album/2QFua4q4idl0jgRavneYZ9) | 4:48 |
 | 406 | [If](https://open.spotify.com/track/68deyvfivX8kzvFfxJ0BdL) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Da Derrty Versions: The Re\-invention](https://open.spotify.com/album/3cSUd7H22DtZzvSUJkBIlM) | 3:38 |
 
-Snapshot ID: `AbYjDAAAAAAacVzH2YOzZ2Urlg22OtT1`
+Snapshot ID: `AbYorAAAAADrAQb75biSvGUipnCvPHGU`

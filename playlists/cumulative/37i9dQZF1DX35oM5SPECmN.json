@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0mqEfZEXRTGAqGSAhn9RkK"
+      },
+      "artists": [
+        {
+          "name": "Motel Radio",
+          "url": "https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263706,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3TbdbnsJ7MRhyqayI7s17O"
+    },
+    {
+      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR"
       },
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 228346,
       "name": "Options Open",
       "url": "https://open.spotify.com/track/4v9GgfhZAlC3cx2zjKtr51"

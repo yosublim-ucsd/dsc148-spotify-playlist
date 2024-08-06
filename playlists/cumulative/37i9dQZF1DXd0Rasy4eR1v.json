@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "Freshest Pakistani discoveries. Cover - bitrees",
+  "description": "Freshest Pakistani discoveries. Cover - Essa Barlas",
   "name": "Fresh Finds Pakistan",
   "tracks": [
     {
@@ -278,6 +278,28 @@
       "duration_ms": 234293,
       "name": "Aa Ve Bana",
       "url": "https://open.spotify.com/track/1jQBEkRNhivU1kOaWMBtP1"
+    },
+    {
+      "album": {
+        "name": "NO SURNAME, VOL.1",
+        "url": "https://open.spotify.com/album/4AOUPFyMss6vja70cIMyHH"
+      },
+      "artists": [
+        {
+          "name": "Hassan.",
+          "url": "https://open.spotify.com/artist/6dxicpXbkI5BGxvrNjjaoD"
+        },
+        {
+          "name": "Haiderr",
+          "url": "https://open.spotify.com/artist/6x6G7ENcjS2dxPPlUvyO7O"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159713,
+      "name": "aaj kal",
+      "url": "https://open.spotify.com/track/32uKkDluNJm2JumXB2OUFQ"
     },
     {
       "album": {
@@ -989,6 +1011,28 @@
     },
     {
       "album": {
+        "name": "Andaaz-e-Guftagoo (From \"Acoustic Station\")",
+        "url": "https://open.spotify.com/album/3L9q0nmmCjvLvttbAlHxUl"
+      },
+      "artists": [
+        {
+          "name": "Chand Tara Orchestra",
+          "url": "https://open.spotify.com/artist/4l3l1A9UpJVYOYvZUIUCqs"
+        },
+        {
+          "name": "Kashan Admani",
+          "url": "https://open.spotify.com/artist/2MNgnCdZlDyxEfoTRQNEGE"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238421,
+      "name": "Andaaz-e-Guftagoo (From \"Acoustic Station\")",
+      "url": "https://open.spotify.com/track/6T6EsCyCpXQY7SI74Ly4Vi"
+    },
+    {
+      "album": {
         "name": "Andhairay",
         "url": "https://open.spotify.com/album/6QEaDSIygAflBxHVnMXe2E"
       },
@@ -1358,6 +1402,24 @@
       "duration_ms": 152497,
       "name": "Baari (Female Version)",
       "url": "https://open.spotify.com/track/0DLGYY6WzHgaRqGKQUJDOm"
+    },
+    {
+      "album": {
+        "name": "Baarish Kay Mausam",
+        "url": "https://open.spotify.com/album/6b9Qwnh1gfUEvTRbLTEqv7"
+      },
+      "artists": [
+        {
+          "name": "Anzela Abbasi",
+          "url": "https://open.spotify.com/artist/3hcFhUkdCCHxvXN7BDAlqL"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Baarish Kay Mausam",
+      "url": "https://open.spotify.com/track/2zwitI49iNI6aqJKLsrIfu"
     },
     {
       "album": {
@@ -1998,6 +2060,24 @@
       "duration_ms": 166400,
       "name": "Bend Sis",
       "url": "https://open.spotify.com/track/0zcB8DyX4WRnNxkwfvwbgc"
+    },
+    {
+      "album": {
+        "name": "Beparwah",
+        "url": "https://open.spotify.com/album/170sTOBezM3wkLFIw2YVn1"
+      },
+      "artists": [
+        {
+          "name": "Sehar Gul Khan",
+          "url": "https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244556,
+      "name": "Beparwah",
+      "url": "https://open.spotify.com/track/6gdGhEiXYFFJJ2Dm3cMdIk"
     },
     {
       "album": {
@@ -2911,6 +2991,28 @@
     },
     {
       "album": {
+        "name": "CHOKE UPAR",
+        "url": "https://open.spotify.com/album/6ky1x3ydntfTL4W8HumkOd"
+      },
+      "artists": [
+        {
+          "name": "HMZA",
+          "url": "https://open.spotify.com/artist/4LdI2fO9eezNkONfEa6Owi"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191190,
+      "name": "CHOKE UPAR",
+      "url": "https://open.spotify.com/track/1jYcruDRv7a4y9ZFlRnJNu"
+    },
+    {
+      "album": {
         "name": "Chor Jaane De",
         "url": "https://open.spotify.com/album/287NZJCiVHKoIibRx8fbtL"
       },
@@ -3386,7 +3488,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 285413,
       "name": "DAWN",
       "url": "https://open.spotify.com/track/7g77CvSDGOk1gwrJRv447l"
@@ -3700,6 +3802,24 @@
       "duration_ms": 160798,
       "name": "DIFFERENT",
       "url": "https://open.spotify.com/track/3SSFL50rhG0JosTZnTMnmL"
+    },
+    {
+      "album": {
+        "name": "Dil",
+        "url": "https://open.spotify.com/album/4xc9Jw6FDRtZVh5s9hQHMP"
+      },
+      "artists": [
+        {
+          "name": "Essa Barlas",
+          "url": "https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316129,
+      "name": "Dil",
+      "url": "https://open.spotify.com/track/217RKf20iJrFLvfCoZnLQt"
     },
     {
       "album": {
@@ -4296,6 +4416,28 @@
       "duration_ms": 191698,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2GSx7lg0nsV4fCOj7uZrgh"
+    },
+    {
+      "album": {
+        "name": "DRIFT AWAY",
+        "url": "https://open.spotify.com/album/46Va766pfit3WkkaT9FNBd"
+      },
+      "artists": [
+        {
+          "name": "rizvye",
+          "url": "https://open.spotify.com/artist/0MTMRFf0JEdHdVEwrWnrIU"
+        },
+        {
+          "name": "Karina Naime",
+          "url": "https://open.spotify.com/artist/3afIEbDOvmuCvUBRmtGokv"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "DRIFT AWAY",
+      "url": "https://open.spotify.com/track/5w0IfIgTLQYekbRhR8PmYk"
     },
     {
       "album": {
@@ -6477,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Ishaq Dariya",
+        "url": "https://open.spotify.com/album/0STzN92xfNnz3Sn3ZjQFMJ"
+      },
+      "artists": [
+        {
+          "name": "Nirmala Maghani",
+          "url": "https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441720,
+      "name": "Ishaq Dariya",
+      "url": "https://open.spotify.com/track/35K5S2L2A4CPT4kn8iVCWx"
+    },
+    {
+      "album": {
         "name": "Ishi Bahanay (Acoustic)",
         "url": "https://open.spotify.com/album/7efS7ZyuCGhfllfulMzoDv"
       },
@@ -7396,7 +7556,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 232929,
       "name": "Kaisay Kahoon",
       "url": "https://open.spotify.com/track/7JHJIanGb1J0ZkUNsS0r0o"
@@ -8604,6 +8764,28 @@
       "duration_ms": 115000,
       "name": "Lighters",
       "url": "https://open.spotify.com/track/3hMqn7yq5loaLRe3Y2Yk1M"
+    },
+    {
+      "album": {
+        "name": "Like I Do",
+        "url": "https://open.spotify.com/album/5p4jANIEc8TPPiczaIZnNV"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Sohail",
+          "url": "https://open.spotify.com/artist/7J8OrVC7fcmcjPnsZEh1pP"
+        },
+        {
+          "name": "R2 koozie",
+          "url": "https://open.spotify.com/artist/6idRGicLkBXZ7xzBZDWYTo"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235909,
+      "name": "Like I Do",
+      "url": "https://open.spotify.com/track/6o6UnSpx0WPWMUTv6DY8nY"
     },
     {
       "album": {
@@ -12963,6 +13145,28 @@
     },
     {
       "album": {
+        "name": "Sargoshiyaan (Original Soundtrack from Dil Ka Kya Karein)",
+        "url": "https://open.spotify.com/album/1rzzCjVG2InrWjgKhcGtdP"
+      },
+      "artists": [
+        {
+          "name": "Haddi Uppa",
+          "url": "https://open.spotify.com/artist/0O39pWWsIawWqCrk3AlGXq"
+        },
+        {
+          "name": "Nirmal Roy",
+          "url": "https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157823,
+      "name": "Sargoshiyaan - Original Soundtrack from Dil Ka Kya Karein",
+      "url": "https://open.spotify.com/track/2qsc593MfQ00XWjefDhRoT"
+    },
+    {
+      "album": {
         "name": "Sawali",
         "url": "https://open.spotify.com/album/0GGC9THHEpm59IhL4doe6l"
       },
@@ -13094,6 +13298,24 @@
       "duration_ms": 193920,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/5p0Ww07C6UlcIJ1QkTLMi3"
+    },
+    {
+      "album": {
+        "name": "Seedha Insan",
+        "url": "https://open.spotify.com/album/6ej8fYCgK1Lu3NjKgg12S6"
+      },
+      "artists": [
+        {
+          "name": "Fahad Saleem",
+          "url": "https://open.spotify.com/artist/72HfaKptMXszEpM9dgxxGo"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259389,
+      "name": "Seedha Insan",
+      "url": "https://open.spotify.com/track/311nCunXwoIn4RMErrI0Wj"
     },
     {
       "album": {
@@ -16458,6 +16680,28 @@
       "duration_ms": 109931,
       "name": "Yeh Dil",
       "url": "https://open.spotify.com/track/1kAUQU4bP9acpKbnHlnyJt"
+    },
+    {
+      "album": {
+        "name": "Yeh Sama",
+        "url": "https://open.spotify.com/album/2BB8L99SyLH9n84r1YLSUA"
+      },
+      "artists": [
+        {
+          "name": "Zohaib Kazi",
+          "url": "https://open.spotify.com/artist/6KLLWcERsoHPN3Mu0Z20ci"
+        },
+        {
+          "name": "Zara Madani",
+          "url": "https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Yeh Sama",
+      "url": "https://open.spotify.com/track/20BCJ3k9SQYj5EPhsxYh29"
     },
     {
       "album": {

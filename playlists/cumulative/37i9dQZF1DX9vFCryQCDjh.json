@@ -348,6 +348,24 @@
     {
       "album": {
         "name": "2016 Re-ALBUM",
+        "url": "https://open.spotify.com/album/55snZFBh39SeUPhBYRixIl"
+      },
+      "artists": [
+        {
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246486,
+      "name": "COUPLE (2016)",
+      "url": "https://open.spotify.com/track/1ZERPWdUxl3h88WBRoZKLz"
+    },
+    {
+      "album": {
+        "name": "2016 Re-ALBUM",
         "url": "https://open.spotify.com/album/3RLZMnWVAtvQPy0G4FvRGs"
       },
       "artists": [
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 210893,
       "name": "Returned Break up",
       "url": "https://open.spotify.com/track/20pRpdvWh7BLIKpRZVLhMF"
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 242093,
       "name": "To Be Continued",
       "url": "https://open.spotify.com/track/7L4fxoCYiWzFWepXU3yv9m"
@@ -1980,10 +1998,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 224840,
       "name": "\u1109\u1161\u1105\u1161\u11bc\u110b\u1173\u11af \u110b\u1161\u110c\u1175\u11a8\u1103\u1169 \u1102\u1161\u11ab I Don't Know Love",
       "url": "https://open.spotify.com/track/1lilimwLEAWFlImqjke27f"
+    },
+    {
+      "album": {
+        "name": "Chapter 3",
+        "url": "https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242333,
+      "name": "\uac70\uc9d3\ub9d0",
+      "url": "https://open.spotify.com/track/2E0J4UAg9q1HaUV6NCJfmt"
     },
     {
       "album": {
@@ -2056,6 +2092,24 @@
       "duration_ms": 210076,
       "name": "\uadf8\ub798",
       "url": "https://open.spotify.com/track/3z6VUjAfvYveNtr31Mxe4V"
+    },
+    {
+      "album": {
+        "name": "Chapter 4",
+        "url": "https://open.spotify.com/album/03yUw5B1fIbGHBp2FWGQlh"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226040,
+      "name": "\uae38",
+      "url": "https://open.spotify.com/track/7aui07GfHIS7fe1vx0ejzl"
     },
     {
       "album": {
@@ -2340,7 +2394,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 222982,
       "name": "\ub9e8\ubc1c\uc758 \uccad\ucd98",
       "url": "https://open.spotify.com/track/0JytKNtWz1sBQIlB4qwKwL"
@@ -2617,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "Chapter 2",
+        "url": "https://open.spotify.com/album/6qyK6jVYnjx9lX6ywivZ9D"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262293,
+      "name": "\uc0ac\ub791\ud574 \uadf8\ub9ac\uace0 \uae30\uc5b5\ud574",
+      "url": "https://open.spotify.com/track/2bN0Tq1vniINc5rinlITKL"
+    },
+    {
+      "album": {
         "name": "Psy From The Psycho World",
         "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
       },
@@ -2682,7 +2754,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 234640,
       "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
       "url": "https://open.spotify.com/track/0Ss2xN0mwOnIpzWjG7gwf7"
@@ -3017,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Chapter 3",
+        "url": "https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "\ucd1b\ubd88\ud558\ub098",
+      "url": "https://open.spotify.com/track/2APM0MB4txhD5Oir3Ahae2"
+    },
+    {
+      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -3050,7 +3140,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 250618,
       "name": "\ud0c0\uc778",
       "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
@@ -3126,6 +3216,24 @@
       "duration_ms": 226667,
       "name": "\ud504\ub85c\uc640 \uc544\ub9c8\uce04\uc5b4",
       "url": "https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp"
+    },
+    {
+      "album": {
+        "name": "Chapter 3",
+        "url": "https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217146,
+      "name": "\ud558\ub298\uc0c9 \ud48d\uc120",
+      "url": "https://open.spotify.com/track/0xcKE4dQ8wL8EnRFhA6ahc"
     },
     {
       "album": {

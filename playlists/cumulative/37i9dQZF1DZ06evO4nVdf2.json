@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-27",
-  "description": "This Is Ximena Sari\u00f1ana. Los temas esenciales, todos en una lista.",
+  "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
   "name": "This Is Ximena Sari\u00f1ana",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 274601,
       "name": "La Calle de las Sirenas",
       "url": "https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L"
@@ -704,6 +704,24 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "album": {
+        "name": "No Soy Tuya (M\u00fasica Original de \u201cLas Azules\u201d de Apple TV+) [Main Title]",
+        "url": "https://open.spotify.com/album/3nwgEgEjPZqqLthxVEr5Uw"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191389,
+      "name": "No Soy Tuya - Main Title",
+      "url": "https://open.spotify.com/track/6soVui0dpsnaFegcclSdAg"
     },
     {
       "album": {

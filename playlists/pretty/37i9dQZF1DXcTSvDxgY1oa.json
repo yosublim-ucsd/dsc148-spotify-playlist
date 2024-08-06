@@ -1,6 +1,6 @@
 {
   "description": "geosy op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1685,
+  "num_followers": 1686,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Verrassing",
-        "url": "https://open.spotify.com/album/6qfMiCG2E4fWvYt1tWFSFS"
-      },
-      "artists": [
-        {
-          "name": "Aarde aan Daan",
-          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
-        }
-      ],
-      "duration_ms": 192010,
-      "name": "Verrassing",
-      "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 142386,
       "name": "Payback",
       "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Verrassing",
+        "url": "https://open.spotify.com/album/6qfMiCG2E4fWvYt1tWFSFS"
+      },
+      "artists": [
+        {
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+        }
+      ],
+      "duration_ms": 192010,
+      "name": "Verrassing",
+      "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "A Cure for My Feels",
-        "url": "https://open.spotify.com/album/1TM9Q3z1AUgxJH8BALQzHg"
-      },
-      "artists": [
-        {
-          "name": "Simpleton",
-          "url": "https://open.spotify.com/artist/0VIAQ58CoZMyakFwkC7w6Z"
-        }
-      ],
-      "duration_ms": 197917,
-      "name": "A Cure for My Feels",
-      "url": "https://open.spotify.com/track/6ZlJabigzSaJz2iMMta2QF"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Zoete Verleiding",
         "url": "https://open.spotify.com/album/1XbhxmewR0fZfncqBARZTD"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 159100,
       "name": "Zoete Verleiding",
       "url": "https://open.spotify.com/track/7bYmSmshiAPYhrYrZMfywU"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "A Cure for My Feels",
+        "url": "https://open.spotify.com/album/1TM9Q3z1AUgxJH8BALQzHg"
+      },
+      "artists": [
+        {
+          "name": "Simpleton",
+          "url": "https://open.spotify.com/artist/0VIAQ58CoZMyakFwkC7w6Z"
+        }
+      ],
+      "duration_ms": 197917,
+      "name": "A Cure for My Feels",
+      "url": "https://open.spotify.com/track/6ZlJabigzSaJz2iMMta2QF"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "FUEGO",
-        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
-      },
-      "artists": [
-        {
-          "name": "QUANZA",
-          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
-        }
-      ],
-      "duration_ms": 220068,
-      "name": "FUEGO",
-      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Waiting for You",
         "url": "https://open.spotify.com/album/4qWy88xzbtgneQ3USXZWLh"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 236080,
       "name": "Waiting for You - Edit",
       "url": "https://open.spotify.com/track/26qMH9vOtdcXcNywg1tpJ7"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
+      },
+      "artists": [
+        {
+          "name": "QUANZA",
+          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
+        }
+      ],
+      "duration_ms": 220068,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Godless",
-        "url": "https://open.spotify.com/album/5vrfRIjLT9WjGKS5oXBOJW"
-      },
-      "artists": [
-        {
-          "name": "BRACES",
-          "url": "https://open.spotify.com/artist/1oZBET0PBRusndmvbnlz9W"
-        }
-      ],
-      "duration_ms": 221692,
-      "name": "Godless",
-      "url": "https://open.spotify.com/track/3j9ZIIAVBeKZ4wL477j78n"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Isaak's Marble",
         "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Godless",
+        "url": "https://open.spotify.com/album/5vrfRIjLT9WjGKS5oXBOJW"
+      },
+      "artists": [
+        {
+          "name": "BRACES",
+          "url": "https://open.spotify.com/artist/1oZBET0PBRusndmvbnlz9W"
+        }
+      ],
+      "duration_ms": 221692,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/3j9ZIIAVBeKZ4wL477j78n"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "High Wire",
         "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 126000,
       "name": "High Wire",
       "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Niks Doen",
+        "url": "https://open.spotify.com/album/4F6tgYvqXPDj6r5eQmhEkZ"
+      },
+      "artists": [
+        {
+          "name": "Gijsjaradijsja",
+          "url": "https://open.spotify.com/artist/7JOfgcKsCDFyGrgIOFDxZZ"
+        }
+      ],
+      "duration_ms": 128821,
+      "name": "Niks Doen",
+      "url": "https://open.spotify.com/track/1Np2YDk3Ti4DnMV3tTrSOJ"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Niks Doen",
-        "url": "https://open.spotify.com/album/4F6tgYvqXPDj6r5eQmhEkZ"
+        "name": "Then You Know",
+        "url": "https://open.spotify.com/album/33szRZCRaCeSIPXhmzsEn2"
       },
       "artists": [
         {
-          "name": "Gijsjaradijsja",
-          "url": "https://open.spotify.com/artist/7JOfgcKsCDFyGrgIOFDxZZ"
+          "name": "Jacob Drescher",
+          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
         }
       ],
-      "duration_ms": 128821,
-      "name": "Niks Doen",
-      "url": "https://open.spotify.com/track/1Np2YDk3Ti4DnMV3tTrSOJ"
+      "duration_ms": 287179,
+      "name": "Then You Know",
+      "url": "https://open.spotify.com/track/3wloUn32vK3P5sX0VV5wxj"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Then You Know",
-        "url": "https://open.spotify.com/album/33szRZCRaCeSIPXhmzsEn2"
-      },
-      "artists": [
-        {
-          "name": "Jacob Drescher",
-          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
-        }
-      ],
-      "duration_ms": 287179,
-      "name": "Then You Know",
-      "url": "https://open.spotify.com/track/3wloUn32vK3P5sX0VV5wxj"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Haya",
         "url": "https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 175264,
       "name": "Haya",
       "url": "https://open.spotify.com/track/653F68ka124m6JdlhwFWzU"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Melanotan - Detonate",
-        "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
-      },
-      "artists": [
-        {
-          "name": "Cardigan Inn",
-          "url": "https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2"
-        }
-      ],
-      "duration_ms": 142734,
-      "name": "Melanotan",
-      "url": "https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Flat Caps And Rain Macs",
-        "url": "https://open.spotify.com/album/5aCa25kATuBbnqu10kG8rw"
+        "name": "Melanotan - Detonate",
+        "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
       },
       "artists": [
         {
-          "name": "Lorem Ipsum",
-          "url": "https://open.spotify.com/artist/58ovPqbyZ6LZD3kpE2lOlT"
+          "name": "Cardigan Inn",
+          "url": "https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Flat Caps And Rain Macs",
-      "url": "https://open.spotify.com/track/6gEAJOiTe9Gp55wLUulb6D"
+      "duration_ms": 142734,
+      "name": "Melanotan",
+      "url": "https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1063,6 +1047,22 @@
       "duration_ms": 167476,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/125SWXIRRlJ8bvXt4ASu5D"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Flat Caps And Rain Macs",
+        "url": "https://open.spotify.com/album/5aCa25kATuBbnqu10kG8rw"
+      },
+      "artists": [
+        {
+          "name": "Lorem Ipsum",
+          "url": "https://open.spotify.com/artist/58ovPqbyZ6LZD3kpE2lOlT"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Flat Caps And Rain Macs",
+      "url": "https://open.spotify.com/track/6gEAJOiTe9Gp55wLUulb6D"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Los Anarquistitas",
-        "url": "https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2"
+        "name": "met de beste intenties",
+        "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
       },
       "artists": [
         {
-          "name": "shoom",
-          "url": "https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw"
+          "name": "Jean Jacques",
+          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
         }
       ],
-      "duration_ms": 395966,
-      "name": "Los Anarquistitas",
-      "url": "https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8"
+      "duration_ms": 159669,
+      "name": "beste intenties",
+      "url": "https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "met de beste intenties",
-        "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
+        "name": "Los Anarquistitas",
+        "url": "https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2"
       },
       "artists": [
         {
-          "name": "Jean Jacques",
-          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
+          "name": "shoom",
+          "url": "https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw"
         }
       ],
-      "duration_ms": 159669,
-      "name": "beste intenties",
-      "url": "https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP"
+      "duration_ms": 395966,
+      "name": "Los Anarquistitas",
+      "url": "https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/7xWofDr8zQrH2EZzjMApiZ"
-      },
-      "artists": [
-        {
-          "name": "PXRPLE JAZZ",
-          "url": "https://open.spotify.com/artist/4b3ke64kqHkuOMPtuEZIvZ"
-        }
-      ],
-      "duration_ms": 145570,
-      "name": "PONCHO",
-      "url": "https://open.spotify.com/track/19FXmyBwozudmHoagcDNXC"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Order Of Operations",
         "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 431600,
       "name": "Order Of Operations",
       "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/7xWofDr8zQrH2EZzjMApiZ"
+      },
+      "artists": [
+        {
+          "name": "PXRPLE JAZZ",
+          "url": "https://open.spotify.com/artist/4b3ke64kqHkuOMPtuEZIvZ"
+        }
+      ],
+      "duration_ms": 145570,
+      "name": "PONCHO",
+      "url": "https://open.spotify.com/track/19FXmyBwozudmHoagcDNXC"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "A Place Called Home (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6BMXEHWe34KWrKe857K2lb"
-      },
-      "artists": [
-        {
-          "name": "Eveline Ypma",
-          "url": "https://open.spotify.com/artist/3NYVdezO3RWbm4512vhoPH"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Home Is Not a Place",
-      "url": "https://open.spotify.com/track/4pmBo4y4Ri0ZxAxers3Ixa"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Les Heures du Jour",
         "url": "https://open.spotify.com/album/4QyIqQYLvj7AXXBiZQ2Mzg"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 182784,
       "name": "\u00c9clat du Jour (Brightness of Day)",
       "url": "https://open.spotify.com/track/09U0q9Nriba5j8HlcoI3vH"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "A Place Called Home (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6BMXEHWe34KWrKe857K2lb"
+      },
+      "artists": [
+        {
+          "name": "Eveline Ypma",
+          "url": "https://open.spotify.com/artist/3NYVdezO3RWbm4512vhoPH"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Home Is Not a Place",
+      "url": "https://open.spotify.com/track/4pmBo4y4Ri0ZxAxers3Ixa"
     },
     {
       "added_at": "2024-07-01 08:44:42",

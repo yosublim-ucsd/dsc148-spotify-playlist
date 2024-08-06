@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Charlie xcx, Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,820 likes - 91 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,858 likes - 91 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

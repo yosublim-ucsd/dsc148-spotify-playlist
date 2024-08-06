@@ -3347,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "DESIRE",
+        "url": "https://open.spotify.com/album/5dQaplWsYS1xh6LRUAq6GW"
+      },
+      "artists": [
+        {
+          "name": "Jane B",
+          "url": "https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164215,
+      "name": "In My Place",
+      "url": "https://open.spotify.com/track/3YpqXTPxHMazmpUf34XTr7"
+    },
+    {
+      "album": {
         "name": "IN the mood",
         "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
       },
@@ -5692,6 +5710,24 @@
       "duration_ms": 189426,
       "name": "Spi-cy (feat. Soo-Yeony)",
       "url": "https://open.spotify.com/track/0UaFnYtyBYf1DX6oiVtG3n"
+    },
+    {
+      "album": {
+        "name": "Squat",
+        "url": "https://open.spotify.com/album/3LB7rCViWkPB7fQhRNwiOR"
+      },
+      "artists": [
+        {
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160106,
+      "name": "Squat",
+      "url": "https://open.spotify.com/track/2tAxxd0meQYAe9RV41J3fJ"
     },
     {
       "album": {

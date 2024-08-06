@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Blumengarten
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,494 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,511 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Liebe teilen](https://open.spotify.com/track/7bjgHa1cCjMMU9FQw13iti) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v), [Tim Tautorat](https://open.spotify.com/artist/04F7sUgAvncSBIiZZ1B1Re) | [Liebe teilen](https://open.spotify.com/album/23g5h7YWjIUQtJL1uGqRWx) | 3:40 |
 | 2 | [Ich liebe dich für immer](https://open.spotify.com/track/3IWtxinpzdLpRxtqIEtffR) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Ich liebe dich für immer](https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R) | 2:43 |
-| 3 | [VERSPRICH, DASS DU IMMER ALLES SAGST](https://open.spotify.com/track/2G5HtTYmtKEdGCqtqxtmUJ) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [VERSPRICH, DASS DU IMMER ALLES SAGST](https://open.spotify.com/album/3SCZUpTIMUzi3mu9wvfy83) | 3:23 |
-| 4 | [Kopfsache](https://open.spotify.com/track/44dnpEV3ALSX36p64J8cIb) | [FRISO](https://open.spotify.com/artist/4xAMTJFCMfH1AZNQexkYEt) | [Kopfsache](https://open.spotify.com/album/3Scp6YcbAfkFJ2gJVEyECG) | 3:12 |
-| 5 | [Extra](https://open.spotify.com/track/3b4bdikLKNTNrhcRpKWmg4) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/64Fi0s4pMS4SkHx9Ok7Yfd) | 2:53 |
-| 6 | [so schön](https://open.spotify.com/track/6y8VFRPbnCmABVPNtPwExr) | [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [so schön](https://open.spotify.com/album/2GqqkLYujTpLrM0rPwgMmx) | 2:22 |
-| 7 | [Sommerregen](https://open.spotify.com/track/1o4ENECnv5rZILIq8piPdJ) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Sommerregen](https://open.spotify.com/album/0GuyFmQ0A7LCwvQXfryIGg) | 2:34 |
-| 8 | [Laut](https://open.spotify.com/track/17HBDMUjurx0O6nhPZZVWZ) | [Jette Sorgenfrey](https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT) | [Laut](https://open.spotify.com/album/18IVylSgC4mu28fBEAQVxg) | 2:28 |
-| 9 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 |
-| 10 | [36°C](https://open.spotify.com/track/5IpyN23pbujzW3eMzIfPcL) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [36°C](https://open.spotify.com/album/640HnQfReS1Y3DBts3jPAh) | 2:21 |
+| 3 | [Sommerregen](https://open.spotify.com/track/1o4ENECnv5rZILIq8piPdJ) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Sommerregen](https://open.spotify.com/album/0GuyFmQ0A7LCwvQXfryIGg) | 2:34 |
+| 4 | [VERSPRICH, DASS DU IMMER ALLES SAGST](https://open.spotify.com/track/2G5HtTYmtKEdGCqtqxtmUJ) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [VERSPRICH, DASS DU IMMER ALLES SAGST](https://open.spotify.com/album/3SCZUpTIMUzi3mu9wvfy83) | 3:23 |
+| 5 | [Kopfsache](https://open.spotify.com/track/44dnpEV3ALSX36p64J8cIb) | [FRISO](https://open.spotify.com/artist/4xAMTJFCMfH1AZNQexkYEt) | [Kopfsache](https://open.spotify.com/album/3Scp6YcbAfkFJ2gJVEyECG) | 3:12 |
+| 6 | [Laut](https://open.spotify.com/track/17HBDMUjurx0O6nhPZZVWZ) | [Jette Sorgenfrey](https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT) | [Laut](https://open.spotify.com/album/18IVylSgC4mu28fBEAQVxg) | 2:28 |
+| 7 | [so schön](https://open.spotify.com/track/6y8VFRPbnCmABVPNtPwExr) | [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [so schön](https://open.spotify.com/album/2GqqkLYujTpLrM0rPwgMmx) | 2:22 |
+| 8 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 |
+| 9 | [36°C](https://open.spotify.com/track/5IpyN23pbujzW3eMzIfPcL) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [36°C](https://open.spotify.com/album/640HnQfReS1Y3DBts3jPAh) | 2:21 |
+| 10 | [Extra](https://open.spotify.com/track/3b4bdikLKNTNrhcRpKWmg4) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/64Fi0s4pMS4SkHx9Ok7Yfd) | 2:53 |
 | 11 | [Fallen](https://open.spotify.com/track/7x8yoh4fgdDqGWM75W4CMZ) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Fallen](https://open.spotify.com/album/0LxGPGeOv4WEM4m3js7Muq) | 2:25 |
 | 12 | [Nazis erschiessen](https://open.spotify.com/track/5Bh3fCer3pZp49sBNL5130) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Nazis erschiessen](https://open.spotify.com/album/7C7n3Viy7sds2WZ8y0a0Su) | 2:51 |
 | 13 | [gästeliste](https://open.spotify.com/track/1GRNmHpcVobOQpU4sTotMm) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [gästeliste](https://open.spotify.com/album/6DagEYiLogzejjAebrffI8) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wisch&Tipp](https://open.spotify.com/track/2UkCafENd1PZfIaLd27NVi) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Wisch&Tipp](https://open.spotify.com/album/1B8KFbuADSLOhj6Johj5Vj) | 3:00 |
 | 75 | [zu gut](https://open.spotify.com/track/5TM9lVAjcGNYqaGFqIoAJS) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [zu gut](https://open.spotify.com/album/7eejjvjAKOZgGYd2DQXxZ9) | 2:33 |
 
-Snapshot ID: `ZqwFYAAAAACCrRUYFFXmHAr1AFqcN4K0`
+Snapshot ID: `ZrC8nQAAAAD2UieNBoczXiVtcBs8jyhp`

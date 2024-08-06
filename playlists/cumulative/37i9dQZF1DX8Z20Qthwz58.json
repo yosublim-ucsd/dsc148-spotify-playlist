@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 171866,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
@@ -118,6 +118,24 @@
       "duration_ms": 189946,
       "name": "Ballroom Extravaganza",
       "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+    },
+    {
+      "album": {
+        "name": "Be",
+        "url": "https://open.spotify.com/album/2hJebRkn9Z3PpLSDgODtDE"
+      },
+      "artists": [
+        {
+          "name": "DoBeat",
+          "url": "https://open.spotify.com/artist/2nujFuydbIGyhalGKHMYb6"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200437,
+      "name": "Be",
+      "url": "https://open.spotify.com/track/47d52vNfgM4z0Us5QmP4TZ"
     },
     {
       "album": {
@@ -208,7 +226,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 231401,
       "name": "Choppy (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/4G8TWNnmtE3xuszp0esWLC"
@@ -266,7 +284,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 170400,
       "name": "COOL (Your rainbow)",
       "url": "https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA"
@@ -324,7 +342,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 190287,
       "name": "Diver",
       "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
@@ -407,6 +425,24 @@
     },
     {
       "album": {
+        "name": "FALLING",
+        "url": "https://open.spotify.com/album/7GuHK5TQvgC2ud3IPfp1rh"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "FALLING (Prod. by DPR CREAM)",
+      "url": "https://open.spotify.com/track/7juTYHp1dyt6nTZkoTDDGz"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW"
       },
@@ -425,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/3s9tviPOi7o3KUV2JHTqz2"
+      },
+      "artists": [
+        {
+          "name": "KAIAVANT",
+          "url": "https://open.spotify.com/artist/2xTSAzEj9nYkoVr2nptxFe"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220324,
+      "name": "Filll up the glass",
+      "url": "https://open.spotify.com/track/2iBya25xIpYzYsOhQgQayt"
+    },
+    {
+      "album": {
         "name": "B side",
         "url": "https://open.spotify.com/album/42FrH2HstVRabB6hWQjuxT"
       },
@@ -440,7 +494,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 197750,
       "name": "Flicker (feat. Car, the garden)",
       "url": "https://open.spotify.com/track/1c1AzkIEm7n4D8QiIfZLiD"
@@ -480,7 +534,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Fond",
       "url": "https://open.spotify.com/track/7lVbB0vEwm4eQiafyktZ1y"
@@ -588,7 +642,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 227500,
       "name": "Go Back \uc9d1\uc5d0",
       "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
@@ -610,7 +664,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 190457,
       "name": "GOOD BYE SONG",
       "url": "https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W"
@@ -628,7 +682,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/22TruoFI39QbtdjeLMyCZE"
@@ -646,7 +700,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 165385,
       "name": "Hangang Chillin'",
       "url": "https://open.spotify.com/track/2z4Q58WhE8OC5F38R3hCGd"
@@ -664,7 +718,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 173880,
       "name": "Happy Tears",
       "url": "https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF"
@@ -758,7 +812,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 244809,
       "name": "In other season",
       "url": "https://open.spotify.com/track/6Mwlui0zUBumPzXg0paLxN"
@@ -776,7 +830,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 188689,
       "name": "Into You",
       "url": "https://open.spotify.com/track/6BWj5TuwDnHyyvLii4T6R4"
@@ -906,7 +960,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 203732,
       "name": "Lost in the City",
       "url": "https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd"
@@ -978,7 +1032,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
@@ -1014,7 +1068,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 253637,
       "name": "Melody",
       "url": "https://open.spotify.com/track/05gYK3Q5t0VHs9kK7sPTcW"
@@ -1104,7 +1158,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 180320,
       "name": "MOONLIGHT SUNRISE",
       "url": "https://open.spotify.com/track/2foowdvesE4yiiuxH25D6q"
@@ -1144,6 +1198,24 @@
       "duration_ms": 180320,
       "name": "MOONLIGHT SUNRISE",
       "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
+    },
+    {
+      "album": {
+        "name": "movie",
+        "url": "https://open.spotify.com/album/36OnG0nTb9bw3QBQuylYPn"
+      },
+      "artists": [
+        {
+          "name": "IT\u2019S",
+          "url": "https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229054,
+      "name": "movie",
+      "url": "https://open.spotify.com/track/0gNQjJJgXvAG9ZgNaQdNCN"
     },
     {
       "album": {
@@ -1194,7 +1266,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 289500,
       "name": "New Youth",
       "url": "https://open.spotify.com/track/5bZh97EswRz053YzhNQI9P"
@@ -1234,7 +1306,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 197293,
       "name": "Non sweet song (Feat. nov)",
       "url": "https://open.spotify.com/track/1NpebdfxCXA3hZcsA0BQZI"
@@ -1270,7 +1342,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 370659,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc"
@@ -1433,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "SEOUL CITY POP [A-Side]",
+        "url": "https://open.spotify.com/album/1iGX1LXCxtFyhskgXcx1qs"
+      },
+      "artists": [
+        {
+          "name": "IHYA",
+          "url": "https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202218,
+      "name": "SEOUL CITY POP",
+      "url": "https://open.spotify.com/track/3CtGzaZ6XGzDDRQi3QbaoC"
+    },
+    {
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -1488,7 +1578,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 178500,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ"
@@ -1510,6 +1600,24 @@
       "duration_ms": 218532,
       "name": "starstarstar",
       "url": "https://open.spotify.com/track/2rkLmJD9UfISCouYBukvCP"
+    },
+    {
+      "album": {
+        "name": "dosii",
+        "url": "https://open.spotify.com/album/3sa814wrHO77FkSycZwhNf"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218532,
+      "name": "starstarstar",
+      "url": "https://open.spotify.com/track/503KMAmGqO2iOkyao4S1bx"
     },
     {
       "album": {
@@ -1576,6 +1684,24 @@
     {
       "album": {
         "name": "Undo",
+        "url": "https://open.spotify.com/album/3IP8bM4YvYaGRfORvHesFJ"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134026,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/534RlWkfq6IGSFslE9kmXh"
+    },
+    {
+      "album": {
+        "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
@@ -1630,7 +1756,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 220740,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/67XpbqJITroMaEVclBEAW5"
@@ -1648,7 +1774,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 188500,
       "name": "Venus",
       "url": "https://open.spotify.com/track/5dX9TNpjvYtBgdVfyKcSkH"
@@ -1670,7 +1796,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 198186,
       "name": "walk to the moon (feat. kim seungyoon)",
       "url": "https://open.spotify.com/track/3jXJmRPGuCkkq3P6D9apMT"
@@ -1695,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Wash",
+        "url": "https://open.spotify.com/album/3iMGl6NVCPcDO5tCa7vHE5"
+      },
+      "artists": [
+        {
+          "name": "Cherry Coke",
+          "url": "https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Wash",
+      "url": "https://open.spotify.com/track/5Ng8a8sqJKQPOSyFLHDmsc"
+    },
+    {
+      "album": {
         "name": "We`re like a movie stars",
         "url": "https://open.spotify.com/album/5IVJ4MPPvsZyRIaCCe5xiS"
       },
@@ -1706,7 +1850,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 165826,
       "name": "We`re like a movie stars",
       "url": "https://open.spotify.com/track/2L2xEoZAaDgR0PpnbdnP37"
@@ -1724,7 +1868,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 179999,
       "name": "What if we met at another place ?",
       "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
@@ -1760,7 +1904,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Winded",
       "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
@@ -1782,9 +1926,9 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 176750,
-      "name": "You know, I..",
+      "name": "You know, I.. (feat. Sue Museum)",
       "url": "https://open.spotify.com/track/6kkFS4iHPPDvmoIElvJgO6"
     },
     {
@@ -1800,7 +1944,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 232751,
       "name": "You\u2019re mine, You!",
       "url": "https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd"
@@ -1873,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "\ub098\ub294 \ub0b4\uac00 \uc815\ub9d0 \ubb34\uc0ac\ud788 \ub3c4\ucc29\ud558\uae38 \ubc14\ub77c",
+        "url": "https://open.spotify.com/album/6ywJh5N1WfqAQ5HAuJvohk"
+      },
+      "artists": [
+        {
+          "name": "Dasutt",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "\ub098\ub294 \ub0b4\uac00 \uc815\ub9d0 \ubb34\uc0ac\ud788 \ub3c4\ucc29\ud558\uae38 \ubc14\ub77c",
+      "url": "https://open.spotify.com/track/3piwqVj20tNee8yH6C8CE7"
+    },
+    {
+      "album": {
         "name": "\ubaa9\uc695\ud574",
         "url": "https://open.spotify.com/album/4NUMVg27eQ6OScjETNP5Ra"
       },
@@ -1888,6 +2050,24 @@
       "duration_ms": 181333,
       "name": "\ubaa9\uc695\ud574",
       "url": "https://open.spotify.com/track/7vvakctfHY7xQB3kKAz2B9"
+    },
+    {
+      "album": {
+        "name": "Love Part 1",
+        "url": "https://open.spotify.com/album/2g4L424iyiQschBO6pHL8i"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "\uc0ac\ub791\ud574 (I fxxking love you)",
+      "url": "https://open.spotify.com/track/7gZAuUm64XpDNAiwvekaSl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8Z20Qthwz58"

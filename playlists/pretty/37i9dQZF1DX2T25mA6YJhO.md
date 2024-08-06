@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Barry B, Carolina Durante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,464 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,465 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 54 | [Sin Hablar](https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Repion](https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R) | 3:25 |
 | 55 | [Puñales](https://open.spotify.com/track/7fYvRL7RWPduTzrEcOgKlS) | [La Culpa](https://open.spotify.com/artist/677roxlr69mbWMLY6MMGnx) | [Puñales](https://open.spotify.com/album/5rQunDenYk2OKE9Fuzxa0O) | 1:44 |
 | 56 | [Que arda Madriz](https://open.spotify.com/track/6kiSbGU14JU9wgcWqQhQAn) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Que arda Madriz](https://open.spotify.com/album/6DbaSRHWCIjvzXvFLg3IYC) | 3:54 |
-| 57 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 |
-| 58 | [Angel Genetics](https://open.spotify.com/track/27JBVGR4cIeWEzU39zIRJl) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Angel Genetics](https://open.spotify.com/album/2RlMCybg9FBNhmXYotqmyM) | 5:04 |
+| 57 | [Angel Genetics](https://open.spotify.com/track/27JBVGR4cIeWEzU39zIRJl) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Angel Genetics](https://open.spotify.com/album/2RlMCybg9FBNhmXYotqmyM) | 5:04 |
+| 58 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 |
 | 59 | [No me devuelvas la palabra](https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [No me devuelvas la palabra](https://open.spotify.com/album/0zjMHavVCHz9n5vuMwEUbl) | 3:03 |
 | 60 | [Salgo A La Calle](https://open.spotify.com/track/6MP1xqm69oNPvIHWaX6Pd8) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Salgo A La Calle](https://open.spotify.com/album/3aDNLr7buEFPuiYsh4YEbd) | 3:13 |
 | 61 | [Vino el Amor](https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Esta historia ya no está disponible](https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O) | 2:36 |
@@ -85,18 +85,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 75 | [Patrón de las causas imposibles](https://open.spotify.com/track/6opK17p2ZFqidUkLqlsCl4) | [María Jesús Y Su Hijo](https://open.spotify.com/artist/6u6tjnHJ5CGecNVi2Wfwx9) | [Patrón de las causas imposibles](https://open.spotify.com/album/2fiz7SgjkMp3JNVDCV0tVN) | 5:29 |
 | 76 | [Madrid Nos Pertenece](https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [Madrid Nos Pertenece](https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6) | 3:41 |
 | 77 | [Sin Más](https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Sin Más](https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ) | 3:18 |
-| 78 | [La Carretera Nocturna](https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [La Carretera Nocturna](https://open.spotify.com/album/0y63H2mHzKyQJnTR8sGkD9) | 3:24 |
-| 79 | [p0pper](https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [p0pper](https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl) | 3:33 |
+| 78 | [Piensa en mí](https://open.spotify.com/track/5C1mVFpqXdnCpDUtDgpije) | [Sueño Xanadú](https://open.spotify.com/artist/0EEtOnJrRGSEFHKAGJ7wPn) | [Piensa en mí](https://open.spotify.com/album/2T2lkQCc9FzfG1r5ERUkqx) | 2:34 |
+| 79 | [La Carretera Nocturna](https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [La Carretera Nocturna](https://open.spotify.com/album/0y63H2mHzKyQJnTR8sGkD9) | 3:24 |
 | 80 | [O Todos o Ninguno](https://open.spotify.com/track/1yXB3vkiBKhOMYIIbStiP8) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [O Todos o Ninguno](https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB) | 3:49 |
-| 81 | [Piensa en mí](https://open.spotify.com/track/5C1mVFpqXdnCpDUtDgpije) | [Sueño Xanadú](https://open.spotify.com/artist/0EEtOnJrRGSEFHKAGJ7wPn) | [Piensa en mí](https://open.spotify.com/album/2T2lkQCc9FzfG1r5ERUkqx) | 2:34 |
+| 81 | [p0pper](https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [p0pper](https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl) | 3:33 |
 | 82 | [Adelante](https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Adelante](https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ) | 4:00 |
-| 83 | [Hago lo que quiero](https://open.spotify.com/track/3ovVn2nRqhzrIIUJsUnDl8) | [Los Vinagres](https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS) | [Hago lo que quiero](https://open.spotify.com/album/6tGbYLMLltcvrohfxWayvp) | 2:52 |
-| 84 | [Nuestro Mejor Momento](https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Reconciliación](https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA) | 2:34 |
+| 83 | [Nuestro Mejor Momento](https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Reconciliación](https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA) | 2:34 |
+| 84 | [Hago lo que quiero](https://open.spotify.com/track/3ovVn2nRqhzrIIUJsUnDl8) | [Los Vinagres](https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS) | [Hago lo que quiero](https://open.spotify.com/album/6tGbYLMLltcvrohfxWayvp) | 2:52 |
 | 85 | [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 |
 | 86 | [Finales Alternativos](https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ) | [Airbag](https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal), [J \(Los Planetas\)](https://open.spotify.com/artist/4rZQYggyATv0COs3Ku167l) | [Finales Alternativos](https://open.spotify.com/album/3MMD6gPBZiceeybqsTPUOj) | 2:24 |
 | 87 | [Barrio](https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL) | [Impacto Vudu](https://open.spotify.com/artist/4q9S9g5IA3WQtjeNa11obo) | [Barrio](https://open.spotify.com/album/0ltN0HsRNUxEB1OsFuiH93) | 3:05 |
-| 88 | [La Bachata](https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [La Bachata](https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt) | 3:01 |
-| 89 | [Al Final](https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Al Final](https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa) | 3:04 |
+| 88 | [Al Final](https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Al Final](https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa) | 3:04 |
+| 89 | [La Bachata](https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [La Bachata](https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt) | 3:01 |
 | 90 | [Si Piensas en Mí](https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Si Piensas En Mí](https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ) | 4:04 |
 | 91 | [Vámonos](https://open.spotify.com/track/1ZD4PRGZC7HyPLxncinlt4) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Vámonos](https://open.spotify.com/album/26m3HonKZaNY2mr5dyfpDz) | 4:08 |
 | 92 | [La Persiana](https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Persiana](https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU) | 2:06 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 95 | [Formigal](https://open.spotify.com/track/24HJLq3JqAZYEgNINk7kiJ) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Formigal](https://open.spotify.com/album/31ppFEmznUBBKpXRkcERws) | 1:54 |
 | 96 | [Fin de Semana](https://open.spotify.com/track/5yxMN1xhn6zH2HCjOEecGH) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Fin de Semana](https://open.spotify.com/album/7eqUFhcdJMROi1LdAq73gK) | 3:47 |
 | 97 | [Los Muertos](https://open.spotify.com/track/0DofQePTXespQrIKQfLXuc) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Bohemian Rhapsody 2](https://open.spotify.com/album/1WS2BvZ4C1tt7s7PTYYx8e) | 2:50 |
-| 98 | [Lo de siempre](https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Lo de siempre](https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac) | 3:31 |
-| 99 | [Mi vecino](https://open.spotify.com/track/0HCDbkncaw8CJ4ZGXDGKX7) | [Cumpleaños Un Martes](https://open.spotify.com/artist/2up9boIYhnzyJMXtrHRc7Q) | [Mi vecino](https://open.spotify.com/album/4NRgvc0LkXuOWQAhvhxJHi) | 2:48 |
+| 98 | [Mi vecino](https://open.spotify.com/track/0HCDbkncaw8CJ4ZGXDGKX7) | [Cumpleaños Un Martes](https://open.spotify.com/artist/2up9boIYhnzyJMXtrHRc7Q) | [Mi vecino](https://open.spotify.com/album/4NRgvc0LkXuOWQAhvhxJHi) | 2:48 |
+| 99 | [Lo de siempre](https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Lo de siempre](https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac) | 3:31 |
 | 100 | [Un viento de amnesia](https://open.spotify.com/track/4GWcRyNfjTawfSSNF1nBOd) | [Vermú](https://open.spotify.com/artist/7cXnpdXUUN67Vr3niD2dAi) | [Un viento de amnesia](https://open.spotify.com/album/79e0Cbkt1dWXUWEYoSKZTN) | 3:31 |
 
 Snapshot ID: `ZqwFYAAAAABS5x1HdJY0y+UAqrrNO9ah`

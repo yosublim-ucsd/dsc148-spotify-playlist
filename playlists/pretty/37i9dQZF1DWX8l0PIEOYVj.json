@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: CloZee and LSDREAM",
-  "num_followers": 474594,
+  "num_followers": 474573,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2024-08-02 18:11:20",
       "album": {
+        "name": "Meant To Be Lonely",
+        "url": "https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Meant To Be Lonely",
+      "url": "https://open.spotify.com/track/2VaOJEHR9U3Q6SlG8TZN5j"
+    },
+    {
+      "added_at": "2024-08-02 18:11:20",
+      "album": {
         "name": "Heavy Heart",
         "url": "https://open.spotify.com/album/6W3jyRwWtdd7ZIOATdzkOt"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 205333,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/2Cg5nw3PsrHYudEux8IBcT"
-    },
-    {
-      "added_at": "2024-08-02 18:11:20",
-      "album": {
-        "name": "Meant To Be Lonely",
-        "url": "https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        },
-        {
-          "name": "Donna Tella",
-          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Meant To Be Lonely",
-      "url": "https://open.spotify.com/track/2VaOJEHR9U3Q6SlG8TZN5j"
     },
     {
       "added_at": "2024-08-02 18:11:20",
@@ -1967,26 +1967,42 @@
     {
       "added_at": "2024-08-02 18:11:20",
       "album": {
-        "name": "Under Pressure",
-        "url": "https://open.spotify.com/album/4dBYQY3XWW4txP7EyMoSEE"
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2FffB4voVDZ7T2EeLFPs44"
       },
       "artists": [
         {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
         },
         {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "DZMA",
+          "url": "https://open.spotify.com/artist/60h475nikrqMsOWGBmH36V"
         }
       ],
-      "duration_ms": 226882,
-      "name": "Under Pressure",
-      "url": "https://open.spotify.com/track/0pts9b6iz93rMS6XKhri0V"
+      "duration_ms": 245404,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/44533l23WUXBT18jjfO5wf"
+    },
+    {
+      "added_at": "2024-08-02 18:11:20",
+      "album": {
+        "name": "Pyroclastic",
+        "url": "https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Pyroclastic",
+      "url": "https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB"
     },
     {
       "added_at": "2024-08-02 18:11:20",
@@ -2015,22 +2031,26 @@
     {
       "added_at": "2024-08-02 18:11:20",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2FffB4voVDZ7T2EeLFPs44"
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/4dBYQY3XWW4txP7EyMoSEE"
       },
       "artists": [
         {
-          "name": "Nytrix",
-          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
         },
         {
-          "name": "DZMA",
-          "url": "https://open.spotify.com/artist/60h475nikrqMsOWGBmH36V"
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 245404,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/44533l23WUXBT18jjfO5wf"
+      "duration_ms": 226882,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/0pts9b6iz93rMS6XKhri0V"
     },
     {
       "added_at": "2024-08-02 18:11:20",
@@ -2051,26 +2071,6 @@
       "duration_ms": 187034,
       "name": "IT ISN'T ME",
       "url": "https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK"
-    },
-    {
-      "added_at": "2024-08-02 18:11:20",
-      "album": {
-        "name": "Pyroclastic",
-        "url": "https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39"
-      },
-      "artists": [
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        },
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Pyroclastic",
-      "url": "https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB"
     },
     {
       "added_at": "2024-08-02 18:11:20",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-08-02 18:11:20",
       "album": {
-        "name": "With Or Without",
-        "url": "https://open.spotify.com/album/4wGeavaJF8hxmfSIzdNywd"
-      },
-      "artists": [
-        {
-          "name": "Haywyre",
-          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "With Or Without",
-      "url": "https://open.spotify.com/track/00gAMKnttfhle0s8FYz7IM"
-    },
-    {
-      "added_at": "2024-08-02 18:11:20",
-      "album": {
         "name": "Made For",
         "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 200869,
       "name": "Made For",
       "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
+    },
+    {
+      "added_at": "2024-08-02 18:11:20",
+      "album": {
+        "name": "With Or Without",
+        "url": "https://open.spotify.com/album/4wGeavaJF8hxmfSIzdNywd"
+      },
+      "artists": [
+        {
+          "name": "Haywyre",
+          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "With Or Without",
+      "url": "https://open.spotify.com/track/00gAMKnttfhle0s8FYz7IM"
     },
     {
       "added_at": "2024-08-02 18:11:20",
@@ -2495,26 +2495,22 @@
     {
       "added_at": "2024-08-02 18:11:20",
       "album": {
-        "name": "The Call",
-        "url": "https://open.spotify.com/album/1sVOjksWKAB963CfPAi36A"
+        "name": "Violet Sky (feat. Sarah de Warren)",
+        "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
       },
       "artists": [
         {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
         },
         {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        },
-        {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 201931,
-      "name": "The Call",
-      "url": "https://open.spotify.com/track/6eqma9IlfnFFxpZFDooc3z"
+      "duration_ms": 228333,
+      "name": "Violet Sky (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
     },
     {
       "added_at": "2024-08-02 18:11:20",
@@ -2535,26 +2531,6 @@
       "duration_ms": 209600,
       "name": "Lost (Meant To Be)",
       "url": "https://open.spotify.com/track/7HPMTFu90wrp31dNAQ7EgF"
-    },
-    {
-      "added_at": "2024-08-02 18:11:20",
-      "album": {
-        "name": "Violet Sky (feat. Sarah de Warren)",
-        "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
-      },
-      "artists": [
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Violet Sky (feat. Sarah de Warren)",
-      "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
     },
     {
       "added_at": "2024-08-02 18:11:20",
@@ -2595,6 +2571,30 @@
       "duration_ms": 288000,
       "name": "Empty Space",
       "url": "https://open.spotify.com/track/7xT99lphDyMw4UCkKquxf9"
+    },
+    {
+      "added_at": "2024-08-02 18:11:20",
+      "album": {
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/1sVOjksWKAB963CfPAi36A"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/6eqma9IlfnFFxpZFDooc3z"
     },
     {
       "added_at": "2024-08-02 18:11:20",
@@ -2983,26 +2983,6 @@
     {
       "added_at": "2024-08-02 18:11:20",
       "album": {
-        "name": "Back to Me",
-        "url": "https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
-    },
-    {
-      "added_at": "2024-08-02 18:11:20",
-      "album": {
         "name": "Phantom Love",
         "url": "https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi"
       },
@@ -3019,6 +2999,26 @@
       "duration_ms": 259315,
       "name": "Phantom Love",
       "url": "https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m"
+    },
+    {
+      "added_at": "2024-08-02 18:11:20",
+      "album": {
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Back to Me",
+      "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
     },
     {
       "added_at": "2024-08-02 18:11:20",
@@ -3135,18 +3135,22 @@
     {
       "added_at": "2024-08-02 18:11:20",
       "album": {
-        "name": "Heavyweight",
-        "url": "https://open.spotify.com/album/7ICVdwlhoyj8l3qGNGxHm8"
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN"
       },
       "artists": [
         {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
         }
       ],
-      "duration_ms": 159309,
-      "name": "Heavyweight",
-      "url": "https://open.spotify.com/track/3fTRhDnOTFnO1vvpqJ8G2n"
+      "duration_ms": 248275,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
     }
   ],
   "unique_name": "Bass Lounge",

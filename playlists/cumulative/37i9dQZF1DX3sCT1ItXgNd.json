@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "13 razones",
+        "url": "https://open.spotify.com/album/47ftJA3tmztIhoA6ipcgaw"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272767,
+      "name": "13 razones",
+      "url": "https://open.spotify.com/track/5yACzWnsBAV4BPQAhudnSC"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
       },
@@ -4612,7 +4630,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 191931,
       "name": "La Reina Del Baile",
       "url": "https://open.spotify.com/track/4YYp45N7TiPexvtzKZrFDm"
@@ -8158,7 +8176,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
@@ -9744,6 +9762,24 @@
       "duration_ms": 154551,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "album": {
+        "name": "T\u00fa de qui\u00e9n eres",
+        "url": "https://open.spotify.com/album/5KDitJgmVlT4ghopaY5kBs"
+      },
+      "artists": [
+        {
+          "name": "De Rancho",
+          "url": "https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215517,
+      "name": "T\u00fa de qui\u00e9n eres",
+      "url": "https://open.spotify.com/track/4F7NE5JKr2JyTdlrHvJw45"
     },
     {
       "album": {

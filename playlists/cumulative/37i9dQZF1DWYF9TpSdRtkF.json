@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 311466,
       "name": "Arrive You \uff5e\u305d\u308c\u304c\u904b\u547d\u3067\u3082\uff5e",
       "url": "https://open.spotify.com/track/15bnvXKZYELjdZctyfy34X"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 293000,
       "name": "Clover Days",
       "url": "https://open.spotify.com/track/2Sr5PN3zTM0tgQydeMeCQ7"
@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 04",
+        "url": "https://open.spotify.com/album/7fbgOJKABo75Cjpa529vgU"
+      },
+      "artists": [
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271120,
+      "name": "ENTER PLEASURE",
+      "url": "https://open.spotify.com/track/02qhpRpoQwUC4wI2VOM7Tq"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON",
         "url": "https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6"
       },
@@ -2084,7 +2102,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 222106,
       "name": "Happy Darling",
       "url": "https://open.spotify.com/track/2XtJmTYix03kYitaCa4DCZ"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 190333,
       "name": "KING of SPADE",
       "url": "https://open.spotify.com/track/2Z1BbYVuMtUjaLwnPCOl0D"
@@ -2668,7 +2686,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 248800,
       "name": "LOVE is GAME",
       "url": "https://open.spotify.com/track/28JdMWZlK5qsUmqX3ytdnJ"
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 263186,
       "name": "Melty Fantasia",
       "url": "https://open.spotify.com/track/1bxWvoS6ILmvh0BWZ8atgV"
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 210480,
       "name": "Raise the FLAG",
       "url": "https://open.spotify.com/track/4DiglNq5mWTAjbAvLqd0e6"
@@ -5030,7 +5048,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 291026,
       "name": "\u30b8\u30e3\u30f3\u30b0\u30eb \u30d1\u30fc\u30c6\u30a3\u30fc",
       "url": "https://open.spotify.com/track/6LfDlhyY59TjZvA8lgTZsV"
@@ -5390,7 +5408,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 193000,
       "name": "\u30d5\u30a7\u30b9\u30bf\u30fb\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/4SgY4ttJOw7jPFCqcrUcV1"
@@ -5452,7 +5470,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 332573,
       "name": "\u30d7\u30ea\u30e0\u30e9",
       "url": "https://open.spotify.com/track/5EcKVziZkwQNtvfTBlaEva"
@@ -5526,7 +5544,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-28",
+      "date_removed": null,
       "duration_ms": 271240,
       "name": "\u30df\u30e9\u30fc\u30b8\u30e5\u30fb\u30df\u30e9\u30fc",
       "url": "https://open.spotify.com/track/0Ui0Pvm3V1UuyRarO79IiX"
@@ -5768,7 +5786,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 142586,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30fb\u30a2\u30b9\u30ec\u30c1\u30c3\u30af\u30fbCOOK-KING \uff5e\u52dd\u8005\u5fc5\u98df\uff01\uff1f \u30b9\u30dd\u98df\u306e\u79cb\uff5e",
       "url": "https://open.spotify.com/track/6AUxT14NdUJzRIubTQOKuN"
@@ -6512,7 +6530,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 289213,
       "name": "\u7a7a\u306b\u624b\u304c\u89e6\u308c\u308b\u5834\u6240",
       "url": "https://open.spotify.com/track/2tCyPUyugrIjVn8oI9qaoR"

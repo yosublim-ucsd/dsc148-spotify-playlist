@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 44296,
+  "num_followers": 44316,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "Que Corran",
+      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "Que Corran",
-      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "Noches de Insomnio",
-      "url": "https://open.spotify.com/track/4oXBULwcvNC1KlZn80oWXp"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Polos",
         "url": "https://open.spotify.com/album/4zd88TW1Vxi35LLUOWjKZ4"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 267440,
       "name": "En Redondel",
       "url": "https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "Noches de Insomnio",
+      "url": "https://open.spotify.com/track/4oXBULwcvNC1KlZn80oWXp"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "An\u0303os Luz",
-      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Parque De Depresiones",
         "url": "https://open.spotify.com/album/3RhgCYHq0Jae6cH6rNCbBC"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 217359,
       "name": "Me est\u00e1s tratando mal",
       "url": "https://open.spotify.com/track/4wGecpdpXwzaFPgZDecKka"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "An\u0303os Luz",
+      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -919,22 +919,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Destilar",
-        "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 260523,
-      "name": "La Luna de Neuqu\u00e9n",
-      "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
+      "duration_ms": 215626,
+      "name": "Aunque No Quiero",
+      "url": "https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -955,18 +951,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+        "name": "Destilar",
+        "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
         }
       ],
-      "duration_ms": 215626,
-      "name": "Aunque No Quiero",
-      "url": "https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2"
+      "duration_ms": 260523,
+      "name": "La Luna de Neuqu\u00e9n",
+      "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "\u00c9rase",
+        "url": "https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 195240,
+      "name": "Ves",
+      "url": "https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Cabildo y Juramento",
         "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "\u00c9rase",
-        "url": "https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "Ves",
-      "url": "https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Hasta el Final",
         "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Ringo",
-        "url": "https://open.spotify.com/album/2oA488dFvimoJ6PHIw2ytg"
-      },
-      "artists": [
-        {
-          "name": "Massacre",
-          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
-        }
-      ],
-      "duration_ms": 167984,
-      "name": "Tanto amor",
-      "url": "https://open.spotify.com/track/2Q0Aem12iTNPibzcokgiUz"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Feroza",
         "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Ringo",
+        "url": "https://open.spotify.com/album/2oA488dFvimoJ6PHIw2ytg"
+      },
+      "artists": [
+        {
+          "name": "Massacre",
+          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
+        }
+      ],
+      "duration_ms": 167984,
+      "name": "Tanto amor",
+      "url": "https://open.spotify.com/track/2Q0Aem12iTNPibzcokgiUz"
     },
     {
       "added_at": "2024-06-12 22:23:25",

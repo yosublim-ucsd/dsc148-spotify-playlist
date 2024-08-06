@@ -1,12 +1,12 @@
 {
   "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
-  "num_followers": 426687,
+  "num_followers": 426757,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqrQAAAAAABloJLxagK8fMUjYcdINpGP",
+  "snapshot_id": "Zq7EgAAAAAAGI70Pwssvc5uhIMzHmi/n",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 234453,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/0F6ajDDUlAepkLFIyBLS0W"
+      "duration_ms": 169600,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Ni Dada La Quiero",
-      "url": "https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4"
+      "duration_ms": 234453,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/0F6ajDDUlAepkLFIyBLS0W"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 184306,
       "name": "Mi Gusto Es - En Vivo Desde Delfos, Guadalajara/2002",
       "url": "https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Vete Con \u00c9l",
-      "url": "https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 172413,
       "name": "118 Balazos",
       "url": "https://open.spotify.com/track/1x7w8NuVvmSP4r65576eUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Vete Con \u00c9l",
+      "url": "https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [El Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWVOLXBOylBUZ)
 
-> Latinoamérica baila al ritmo de Producto Sin Corte y Ozuna.
+> Latinoamérica baila al ritmo de Mora.
 
 998 songs - 2 day 4 hr 40 min
 
@@ -951,7 +951,7 @@
 | [Vibra](https://open.spotify.com/track/0DU150UuvrIsqOzAoeB2Zv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 2:33 | 2022-12-09 | 2023-12-08 |
 | [Vida](https://open.spotify.com/track/7qUv2Tq895aJc6g4O1F6Zs) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 2:32 | 2022-10-07 | 2023-02-17 |
 | [Viendo el Techo](https://open.spotify.com/track/0iWxrdjwEGOrTC9AszgAJk) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Viendo el Techo](https://open.spotify.com/album/4ikugcbfJKooYlQACL2MUN) | 3:08 | 2022-01-07 | 2022-04-02 |
-| [Vinito y Música](https://open.spotify.com/track/6hXqVE268sb9KoiLEtouM3) | [Producto Sin Corte](https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Vinito y Música](https://open.spotify.com/album/0vGnfMBi3GUlTv8F5H1lnY) | 2:42 | 2024-08-02 |  |
+| [Vinito y Música](https://open.spotify.com/track/6hXqVE268sb9KoiLEtouM3) | [Producto Sin Corte](https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Vinito y Música](https://open.spotify.com/album/0vGnfMBi3GUlTv8F5H1lnY) | 2:42 | 2024-08-02 | 2024-08-06 |
 | [VISTA AL MAR](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [VISTA AL MAR](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2022-09-08 | 2023-01-14 |
 | [VITAMINA D](https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [VITAMINA D](https://open.spotify.com/album/4psggAblmOxpE19d4XoDsw) | 3:11 | 2023-10-13 | 2024-02-03 |
 | [VIÑA: \)](https://open.spotify.com/track/6XzNsaC7JMiXPNeBrrdmdH) | [Daiko 02](https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T) | [Viña:\)](https://open.spotify.com/album/0PJeA5n8llp2bBArnWSXm1) | 3:03 | 2024-02-23 | 2024-04-27 |

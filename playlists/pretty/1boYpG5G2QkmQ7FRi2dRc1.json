@@ -1,12 +1,12 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 291823,
+  "num_followers": 291811,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAIBxak2RbyaTCZzm8EzBXcQw824nw7",
+  "snapshot_id": "AAAICWZl5ScAzc0xW5nvrSQuyZUKEKBr",
   "tracks": [
     {
       "added_at": "2024-07-19 10:49:57",
@@ -27,6 +27,26 @@
       "duration_ms": 192963,
       "name": "Smile (feat. Carolina Liar)",
       "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
+    },
+    {
+      "added_at": "2024-08-05 14:57:11",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "ZARA",
+          "url": "https://open.spotify.com/artist/1gHswNMOQFlGi8yA8quKNn"
+        }
+      ],
+      "duration_ms": 157235,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc"
     },
     {
       "added_at": "2024-07-19 10:49:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,245 likes - 111 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,246 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 81 | [Top Off](https://open.spotify.com/track/2jWVQdbJ2bCNlBRBATYQl7) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [Ugly God](https://open.spotify.com/artist/3Fdm9TFJQCLmC3AWMuGExi) | [Top Off](https://open.spotify.com/album/6LtcX6WFzp6mrRzL7bBZRL) | 2:08 |
 | 82 | [Miseducation \(feat\. Lil Wayne\)](https://open.spotify.com/track/26jblnixKDcidyOQV2UYi4) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Miseducation \(feat\. Lil Wayne\)](https://open.spotify.com/album/7LkyxPOg9v13qCJMAyaW7o) | 3:07 |
 | 83 | [Contagious](https://open.spotify.com/track/2A3rpB8ZDbBG7ecVUDIcsE) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:30 |
-| 84 | [The Uber Song](https://open.spotify.com/track/5aUmQKLTmVHwPMoyhgrd8p) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [The Uber Song](https://open.spotify.com/album/0ZGvbOurEuFF3nqbGwoaa9) | 3:54 |
-| 85 | [BIG DAWG](https://open.spotify.com/track/28wtiGfwWVdxbZDW52S3kz) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 1:45 |
+| 84 | [BIG DAWG](https://open.spotify.com/track/28wtiGfwWVdxbZDW52S3kz) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 1:45 |
+| 85 | [The Uber Song](https://open.spotify.com/track/5aUmQKLTmVHwPMoyhgrd8p) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [The Uber Song](https://open.spotify.com/album/0ZGvbOurEuFF3nqbGwoaa9) | 3:54 |
 | 86 | [GET THE FUCK OUT](https://open.spotify.com/track/3DCe9Tj1KsZ1K9iQh8uNQF) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 1:49 |
 | 87 | [Crumbs \(feat\. Playboi Carti\)](https://open.spotify.com/track/2nA9k5r4tGS720wHL8W6Ip) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 2:36 |
 | 88 | [HOP OUT THE VAN](https://open.spotify.com/track/6Ez0uo35BcJ7TaknGDnH5v) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:00 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 110 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 111 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `AbYjQgAAAADZ+xGgABH33mA8PTVhFjp5`
+Snapshot ID: `AbYo4gAAAADwGDaRRqNCAnOjZrtdoraf`

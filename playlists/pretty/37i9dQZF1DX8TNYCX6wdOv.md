@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TNYCX6wdOv.md) - [plain]
 
 > Editor's picks of Rising 65 this year\. Cover: OHMYMEITING, Marcus Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

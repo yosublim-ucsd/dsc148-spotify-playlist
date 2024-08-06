@@ -2,9 +2,9 @@
 
 ### [Massive Soca Hits](https://open.spotify.com/playlist/37i9dQZF1DWW7BONj8RiqI)
 
-> The Soca hits we all love from back then til right now\. Cover: Problem Child
+> The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-348 songs - 19 hr 4 min
+349 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 | 2023-02-21 |  |
 | [Far from Finished](https://open.spotify.com/track/7b2eOI6RKPPcqqdMnCOcQR) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Get Soca 2017](https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG) | 3:51 | 2021-08-26 | 2022-02-25 |
 | [Fast Wine](https://open.spotify.com/track/2RQ2CwHD5mJBox0Hc6HYRc) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/1mlDPzy4l8LhGVqNEiopIN) | 3:24 | 2023-02-21 | 2024-07-25 |
-| [Fast Wine](https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH) | 3:24 | 2023-08-11 | 2024-04-19 |
+| [Fast Wine](https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH) | 3:24 | 2023-08-11 |  |
 | [Fattt](https://open.spotify.com/track/1gdjPy3aUqN0K1q5sXpdAZ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11) | 3:13 | 2022-08-18 | 2022-10-05 |
 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 | 2022-08-18 |  |
 | [Feel It](https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Optimus Productionstt](https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1) | [Feel It](https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF) | 3:00 | 2023-05-15 |  |
@@ -295,7 +295,7 @@
 | [Starta Pack](https://open.spotify.com/track/7i8JuawAdNrMR14qpwvaHi) | [Hot Granny Riddim](https://open.spotify.com/artist/4MsyVNMiaF1HFeLXSpQtI8), [Tionne Hernandez](https://open.spotify.com/artist/1fP3b2tIAcjgAxVYvsagSR) | [Hot Granny Riddim](https://open.spotify.com/album/7gQWX5rAl2e9Vy9LhM7HRP) | 1:37 | 2024-07-24 |  |
 | [Stink Behavior](https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T) | 3:31 | 2022-08-18 | 2022-12-20 |
 | [Stink Behavior](https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8) | 3:31 | 2022-08-18 | 2023-02-22 |
-| [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 | 2021-08-26 |  |
+| [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 | 2021-08-26 | 2024-08-06 |
 | [Sugar Daddy](https://open.spotify.com/track/10MtiXMthr7GxRTU95q6pR) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Sugar Daddy](https://open.spotify.com/album/5FDNeTkYaUhcYqlzQ43j8G) | 3:01 | 2021-08-26 | 2022-10-05 |
 | [Sugar Daddy](https://open.spotify.com/track/2uvf8lluCCoW5byQlC0HWb) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Sugar Daddy](https://open.spotify.com/album/4HlIvkeKFTjNahgxOFsVEW) | 3:01 | 2022-08-18 | 2022-11-13 |
 | [Sugar Daddy](https://open.spotify.com/track/0uKXGesFKOcJtwN5Pa6tjg) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:01 | 2022-08-18 | 2023-02-22 |
@@ -316,6 +316,7 @@
 | [Ting Go Nice Again](https://open.spotify.com/track/3kAGfsY1IsWM7FZZbPz1NN) | [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Ting Go Nice Again](https://open.spotify.com/album/4lRghnOCeOBFQyfuOkANAi) | 2:59 | 2022-08-18 | 2022-10-05 |
 | [Ting Go Nice Again](https://open.spotify.com/track/6M9gzAXBcelYzploNJz6TB) | [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Ting Go Nice Again](https://open.spotify.com/album/4JnpZTXMXoXpLcfWQz8r7W) | 2:59 | 2022-08-18 | 2023-02-22 |
 | [To Meh Heart](https://open.spotify.com/track/5SKGB4ozReXVg5vFPfAsil) | [5 Star Akil](https://open.spotify.com/artist/6eECKqQYMlTtRHFGP1VFBu) | [Soca Gold 2014](https://open.spotify.com/album/7nFToQzOcaR2FDaCPdPL6j) | 3:43 | 2023-02-21 | 2023-05-16 |
+| [To My Ex](https://open.spotify.com/track/65tYC4ksMoiJYnFhqOyDzZ) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Soca Universe 2024](https://open.spotify.com/album/40ffYQSB27EKrBNaZ0g3jj) | 2:30 | 2024-08-05 |  |
 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 | 2023-05-15 |  |
 | [Tombstone](https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2) | [Mandella Linkz](https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm) | [Mandrakes Riddim](https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7) | 3:50 | 2023-07-11 | 2024-07-25 |
 | [Too Real](https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [Too Real](https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR) | 3:06 | 2021-08-26 |  |
@@ -346,7 +347,7 @@
 | [What I Want](https://open.spotify.com/track/7c53MoaEd6aRU7omlRnKgP) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fireball](https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg) | [Soundz of Freedom \(My Ultimate Summer of Love Mix\)](https://open.spotify.com/album/6gnHb4btc0NLg0otP1H30f) | 3:53 | 2023-02-21 | 2023-07-12 |
 | [Whine & Jumping \(feat\. Patrice Roberts\)](https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [In The Mood](https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0) | 2:29 | 2023-05-15 | 2023-07-12 |
 | [Whining Parish](https://open.spotify.com/track/6dV6nfALHtFTBDYnmfbwbq) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w) | [Whining Parish](https://open.spotify.com/album/63hP3ExO7vgGzLDwbpxfAN) | 3:26 | 2023-08-11 | 2024-07-25 |
-| [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 | 2023-02-21 |  |
+| [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 | 2023-02-21 | 2024-08-06 |
 | [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 | 2023-02-21 |  |
 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 | 2023-02-21 |  |
 | [Work](https://open.spotify.com/track/7nZLPs5WXYiIrJEp7nV1CJ) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0), [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [Rich Boy Riddim](https://open.spotify.com/album/1SmHncG7JMI4siXksfCbII) | 3:07 | 2023-02-21 | 2023-05-16 |

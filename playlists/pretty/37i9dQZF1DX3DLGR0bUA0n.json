@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 61836,
+  "num_followers": 61879,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Mi Presencia Cuenta",
-        "url": "https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 148122,
-      "name": "Mi Presencia Cuenta",
-      "url": "https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Homenaje al Rey Pobre",
         "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 172714,
       "name": "Carta de Luto",
       "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Mi Presencia Cuenta",
+        "url": "https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 148122,
+      "name": "Mi Presencia Cuenta",
+      "url": "https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1179,38 +1179,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Camionero",
-        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
-      },
-      "artists": [
-        {
-          "name": "Los Kapsi",
-          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "El Camionero",
-      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Somos Mas Americanos",
-        "url": "https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 210092,
-      "name": "Se Termino Lo Nuestro",
-      "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Al 100 y Pasadito",
         "url": "https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 212040,
       "name": "El Rey Pobre",
       "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Camionero",
+        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
+      },
+      "artists": [
+        {
+          "name": "Los Kapsi",
+          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "El Camionero",
+      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Somos Mas Americanos",
+        "url": "https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT"
+      },
+      "artists": [
+        {
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+        }
+      ],
+      "duration_ms": 210092,
+      "name": "Se Termino Lo Nuestro",
+      "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Como Diablos Te Olvido",
-        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Vida de Rancho (Zapateado)",
-      "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Cu\u00e9ntale a la Gente (feat. La Leyenda De Servando Montalva)",
         "url": "https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Como Diablos Te Olvido",
+        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
+      },
+      "artists": [
+        {
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Vida de Rancho (Zapateado)",
+      "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Guerra De Corridos",
         "url": "https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 149054,
-      "name": "Amor a la Ligera",
-      "url": "https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Puras Pa'Pistear (Septima Tanda) (En Vivo)",
         "url": "https://open.spotify.com/album/4sE5tPuqvrytzBUVdQzLZ5"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 203828,
       "name": "El Tarasco (En Vivo)",
       "url": "https://open.spotify.com/track/6zjCfifyl34i1LBv59sk9g"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "duration_ms": 149054,
+      "name": "Amor a la Ligera",
+      "url": "https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1439,38 +1439,6 @@
       "duration_ms": 213866,
       "name": "Si Tengo A Mi Madre",
       "url": "https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Inspirados por Ti",
-        "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 256671,
-      "name": "La Ultima Copa",
-      "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "\u00bfComo Le Hiciste?",
-        "url": "https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6"
-      },
-      "artists": [
-        {
-          "name": "Banda los Coste\u00f1os",
-          "url": "https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ"
-        }
-      ],
-      "duration_ms": 207925,
-      "name": "\u00bfComo Le Hiciste?",
-      "url": "https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1511,6 +1479,38 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "\u00bfComo Le Hiciste?",
+        "url": "https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6"
+      },
+      "artists": [
+        {
+          "name": "Banda los Coste\u00f1os",
+          "url": "https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ"
+        }
+      ],
+      "duration_ms": 207925,
+      "name": "\u00bfComo Le Hiciste?",
+      "url": "https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Inspirados por Ti",
+        "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
+      },
+      "artists": [
+        {
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+        }
+      ],
+      "duration_ms": 256671,
+      "name": "La Ultima Copa",
+      "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Al\u00e9jate",
         "url": "https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ"
       },
@@ -1527,38 +1527,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "2 Cruces",
-        "url": "https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL"
-      },
-      "artists": [
-        {
-          "name": "Joaquin el Guache",
-          "url": "https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677"
-        }
-      ],
-      "duration_ms": 187637,
-      "name": "2 Cruces",
-      "url": "https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Como Diablos Te Olvido",
-        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 141870,
-      "name": "Mujer, Mujer",
-      "url": "https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M"
       },
@@ -1571,6 +1539,22 @@
       "duration_ms": 202083,
       "name": "Inolvidables",
       "url": "https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "2 Cruces",
+        "url": "https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL"
+      },
+      "artists": [
+        {
+          "name": "Joaquin el Guache",
+          "url": "https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677"
+        }
+      ],
+      "duration_ms": 187637,
+      "name": "2 Cruces",
+      "url": "https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1619,6 +1603,22 @@
       "duration_ms": 189703,
       "name": "Estar\u00e9 Bien",
       "url": "https://open.spotify.com/track/4lqJTJl6I8FK6nTnnWSKVM"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Como Diablos Te Olvido",
+        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
+      },
+      "artists": [
+        {
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+        }
+      ],
+      "duration_ms": 141870,
+      "name": "Mujer, Mujer",
+      "url": "https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU"
     },
     {
       "added_at": "2024-06-07 06:00:00",

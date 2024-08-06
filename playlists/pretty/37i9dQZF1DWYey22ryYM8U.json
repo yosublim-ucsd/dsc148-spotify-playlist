@@ -1,6 +1,6 @@
 {
   "description": "Hits con sabor. Cover: KAROL G",
-  "num_followers": 686930,
+  "num_followers": 686918,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-08-02 02:35:36",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2024-08-02 02:35:36",
+      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 209492,
       "name": "POR QU\u00c9 SER\u00c1",
       "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
-    },
-    {
-      "added_at": "2024-08-02 02:35:36",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2024-08-02 02:35:36",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-08-02 02:35:36",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 279320,
+      "name": "Talento De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "added_at": "2024-08-02 02:35:36",
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2024-08-02 02:35:36",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 279320,
-      "name": "Talento De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
     },
     {
       "added_at": "2024-08-02 02:35:36",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-08-02 02:35:36",
       "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
+    },
+    {
+      "added_at": "2024-08-02 02:35:36",
+      "album": {
         "name": "LOS DOS",
         "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 214735,
       "name": "LOS DOS",
       "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
-    },
-    {
-      "added_at": "2024-08-02 02:35:36",
-      "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2024-08-02 02:35:36",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-08-02 02:35:36",
       "album": {
+        "name": "Punta Cana",
+        "url": "https://open.spotify.com/album/55851CfWJef6CzkdeJPpIu"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Punta Cana",
+      "url": "https://open.spotify.com/track/6tFXzOTZCTZ8t62NiLjC5z"
+    },
+    {
+      "added_at": "2024-08-02 02:35:36",
+      "album": {
         "name": "Marbella",
         "url": "https://open.spotify.com/album/5rvK3RAW4zTo0h8ZTFF6Rq"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 153506,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6"
-    },
-    {
-      "added_at": "2024-08-02 02:35:36",
-      "album": {
-        "name": "Punta Cana",
-        "url": "https://open.spotify.com/album/55851CfWJef6CzkdeJPpIu"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Punta Cana",
-      "url": "https://open.spotify.com/track/6tFXzOTZCTZ8t62NiLjC5z"
     },
     {
       "added_at": "2024-08-02 02:35:36",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-08-02 02:35:36",
       "album": {
-        "name": "No Vas a Encontrar",
-        "url": "https://open.spotify.com/album/7LEOqYU7W9dFTLwq7xoBd0"
-      },
-      "artists": [
-        {
-          "name": "Jalil Lopez",
-          "url": "https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN"
-        },
-        {
-          "name": "R.K.M.",
-          "url": "https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu"
-        }
-      ],
-      "duration_ms": 192253,
-      "name": "No Vas a Encontrar",
-      "url": "https://open.spotify.com/track/1GGpgUDxD5bjEq0OSEDTvc"
-    },
-    {
-      "added_at": "2024-08-02 02:35:36",
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2024-08-02 02:35:36",
+      "album": {
+        "name": "No Vas a Encontrar",
+        "url": "https://open.spotify.com/album/7LEOqYU7W9dFTLwq7xoBd0"
+      },
+      "artists": [
+        {
+          "name": "Jalil Lopez",
+          "url": "https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN"
+        },
+        {
+          "name": "R.K.M.",
+          "url": "https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu"
+        }
+      ],
+      "duration_ms": 192253,
+      "name": "No Vas a Encontrar",
+      "url": "https://open.spotify.com/track/1GGpgUDxD5bjEq0OSEDTvc"
     },
     {
       "added_at": "2024-08-02 02:35:36",

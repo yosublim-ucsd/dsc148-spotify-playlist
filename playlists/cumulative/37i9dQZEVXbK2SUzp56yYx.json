@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 64629,
       "name": "first bebra",
       "url": "https://open.spotify.com/track/69FVWCAdCWFaI36gSBadoN"
@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 135880,
       "name": "icantbelieveiletyougetaway",
       "url": "https://open.spotify.com/track/2F4vgXgGEZPCnBNBfqXhmH"
@@ -4205,6 +4205,32 @@
     },
     {
       "album": {
+        "name": "MONTAGEM VOZES PROFUNDAS (TikTok Version)",
+        "url": "https://open.spotify.com/album/58Uel2jPuFAf4bRiWHLYVz"
+      },
+      "artists": [
+        {
+          "name": "DJ MAXZZ",
+          "url": "https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T"
+        },
+        {
+          "name": "DJ JL3 DA ZN",
+          "url": "https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu"
+        },
+        {
+          "name": "DJ CD 011",
+          "url": "https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54308,
+      "name": "MONTAGEM VOZES PROFUNDAS - TikTok Version",
+      "url": "https://open.spotify.com/track/6gXzRzLtdNSbsJVg72J3AA"
+    },
+    {
+      "album": {
         "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
         "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
       },
@@ -4818,7 +4844,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 120240,
       "name": "O Melhor no Que Faz 3.0",
       "url": "https://open.spotify.com/track/6AYTqLO7dw1h212u5zqjPz"
@@ -7082,6 +7108,24 @@
       "duration_ms": 193560,
       "name": "wutiwant",
       "url": "https://open.spotify.com/track/2dsLbTJoca1o1U1FxYmcxj"
+    },
+    {
+      "album": {
+        "name": "wutiwant",
+        "url": "https://open.spotify.com/album/4ny0usBTGuaFOInWTG0vIh"
+      },
+      "artists": [
+        {
+          "name": "saraunh0ly",
+          "url": "https://open.spotify.com/artist/5oaT0solvjTR1SeiTNXfo3"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193560,
+      "name": "wutiwant",
+      "url": "https://open.spotify.com/track/7rFuDe8cSl2XXiW2ox08NR"
     },
     {
       "album": {
@@ -9486,7 +9530,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 152916,
       "name": "\u043b\u0430\u0437\u0438\u0442\u044c \u043f\u043e \u0441\u0442\u0435\u043d\u0430\u043c",
       "url": "https://open.spotify.com/track/2AdkFRwv71XuXPo1TGy13S"
@@ -9866,6 +9910,24 @@
       "duration_ms": 141017,
       "name": "\u041c\u0443\u0437\u044b\u043a\u0430 \u0421\u0444\u0435\u0440 - \u041c\u0443\u0437\u044b\u043a\u0430 \u043a \u0444\u0438\u043b\u044c\u043c\u0443 \u00ab\u041c\u0430\u0439\u043e\u0440 \u0413\u0440\u043e\u043c: \u0418\u0433\u0440\u0430\u00bb",
       "url": "https://open.spotify.com/track/7cDUhWJ5TVjx3sSryc5dG8"
+    },
+    {
+      "album": {
+        "name": "\u041c\u044b \u043d\u0435 \u0431\u0443\u0434\u0435\u043c \u0441\u043f\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/5HjCYP6IIBDHmxXWnB5rIz"
+      },
+      "artists": [
+        {
+          "name": "Xolidayboy",
+          "url": "https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138596,
+      "name": "\u041c\u044b \u043d\u0435 \u0431\u0443\u0434\u0435\u043c \u0441\u043f\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/4E89os2iqr1mxwO4joDH6p"
     },
     {
       "album": {
@@ -10680,7 +10742,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 179540,
       "name": "\u041f\u043e\u0435\u0437\u0434\u0430",
       "url": "https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS"

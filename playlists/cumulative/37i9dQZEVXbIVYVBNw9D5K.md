@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-975 songs - 2 day 0 hr 30 min
+977 songs - 2 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,11 +234,12 @@
 | [DACIA X YATIYA \- Remix](https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [DACIA X YATIYA \(Remix\)](https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG) | 2:38 | 2024-02-27 |  |
 | [Daima](https://open.spotify.com/track/1u61m2yf7AaeGjASOpOOqR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Daima](https://open.spotify.com/album/4R1bXGAqz7bizLhnIaZm8p) | 3:24 | 2022-04-30 | 2022-08-01 |
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
-| [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-05-18 |  |
+| [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-05-18 | 2024-08-06 |
 | [Dale Don Dale](https://open.spotify.com/track/1aJUj5Vt8vPCyuuUwz6mOv) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Dale Don Dale](https://open.spotify.com/album/3Wf3GzXz37AdsYn0D9yq81) | 1:54 | 2024-06-15 | 2024-06-21 |
 | [Dale Don Dale](https://open.spotify.com/track/3OO1tH1VlH6T5vmLUi5coZ) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Dale Don Dale](https://open.spotify.com/album/263aBWwylDaIo3WzSUc3mR) | 1:54 | 2024-06-23 | 2024-06-29 |
 | [Dale Don Dale](https://open.spotify.com/track/5tBHtUUQl7pLRECyg6lBr7) | [Kerocan](https://open.spotify.com/artist/4ELjOm6SCtwJAs1Gq6T1pO) | [farukerem](https://open.spotify.com/album/6F4Eb8IrX1JU7ePTuLyZ8e) | 1:54 | 2024-07-14 | 2024-07-17 |
 | [Dale Don Dale](https://open.spotify.com/track/6d41Qcxk0r5zJFzG683NRt) | [lonut cercel](https://open.spotify.com/artist/65WOws0UU3UN2ZcFlLVcV1) | [Dale Don Dale](https://open.spotify.com/album/7hU5rw9Ey5PdD6gJbf21El) | 1:54 | 2024-06-12 | 2024-06-15 |
+| [Dale Don Dale](https://open.spotify.com/track/0r7Z4UhoyynuMZcDF1VUTf) | [Resital](https://open.spotify.com/artist/1Q8EE2MKIF3VHZxPdHE1bs) | [Dale Don Dale](https://open.spotify.com/album/37ncChnHhgIZjm3L9yEkm3) | 1:54 | 2024-08-05 |  |
 | [Dale Don Dale](https://open.spotify.com/track/12emtTdD2N7bGcS11Z1yKs) | [servis gosevilde alihan](https://open.spotify.com/artist/1SAn01yqnPpDnuUzcPiag8) | [Dale Don Dale](https://open.spotify.com/album/57Cp4stHR5TxADinMDv5E9) | 1:54 | 2024-06-28 | 2024-07-04 |
 | [Dale Don Dale](https://open.spotify.com/track/6izC8wfAtnH8R4pfhte2jj) | [servis gosevilde alihan](https://open.spotify.com/artist/1SAn01yqnPpDnuUzcPiag8) | [Dale Don Dale](https://open.spotify.com/album/1zWymHb5xYb9YceolWwEUL) | 1:54 | 2024-07-08 | 2024-07-10 |
 | [dale don dale](https://open.spotify.com/track/0j6z5XTfoOkXY5as8ZKeSH) | [Shamoryo](https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq) | [dale don dale](https://open.spotify.com/album/3PD5UhQ99mhsikFUgIjfBv) | 1:54 | 2024-08-01 | 2024-08-03 |
@@ -669,7 +670,8 @@
 | [O \- CHORBA](https://open.spotify.com/track/0vhDm5t8sVsqPh9JOKTvaQ) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:57 | 2022-10-15 | 2022-10-20 |
 | [O LA LA](https://open.spotify.com/track/1qi3oAU3QDe3dPdGEY09dr) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [O LA LA](https://open.spotify.com/album/0uBZmFQB35RUrwevBBc9dM) | 3:35 | 2021-10-10 | 2021-10-17 |
 | [O Yeterdi Aslında](https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [O Yeterdi Aslında](https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF) | 3:07 | 2023-02-04 | 2023-03-19 |
-| [OF OF OF](https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [OF OF OF](https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav) | 2:24 | 2024-07-29 |  |
+| [OF OF OF](https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [OF OF OF](https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav) | 2:24 | 2024-07-29 | 2024-08-06 |
+| [OF OF OF](https://open.spotify.com/track/2TboIe90FL9Pc7I7Qf11UV) | [iwhinky nora birkan](https://open.spotify.com/artist/70wpcwKXvsGKe1HqwVe58y) | [OF OF OF](https://open.spotify.com/album/7hHkMo9TZlVTNnTOdrcbZv) | 2:25 | 2024-08-05 |  |
 | [OHA Remix \(feat\. Luciano\)](https://open.spotify.com/track/6XxDxfDeSl1IPlt1h77ZlY) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [OHA Remix \(feat\. Luciano\)](https://open.spotify.com/album/4Bf4YbkcmXRxMlELeoJVzz) | 3:15 | 2021-09-14 | 2021-10-04 |
 | [OKYANUS](https://open.spotify.com/track/3MVFApkSoJ2v3q86f0FYlQ) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [OKYANUS](https://open.spotify.com/album/42dc5NUDn98uL08HK6ig9E) | 2:58 | 2022-02-19 | 2022-02-25 |
 | [Olamam İflah](https://open.spotify.com/track/2PW6hfd7Dhz5Eo3voCCdXr) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:18 | 2021-05-30 | 2021-06-28 |

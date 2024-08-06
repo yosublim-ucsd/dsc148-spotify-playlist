@@ -159,6 +159,32 @@
     },
     {
       "album": {
+        "name": "Feral",
+        "url": "https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        },
+        {
+          "name": "$teven Cannon",
+          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134543,
+      "name": "All Black",
+      "url": "https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB"
+    },
+    {
+      "album": {
         "name": "All I Need (VIP)",
         "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
       },
@@ -7782,7 +7808,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 156800,
       "name": "WARFARE",
       "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"

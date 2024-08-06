@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
+  "description": "This Is Liran' Roll. Los temas esenciales, todos en una lista.",
   "name": "This Is Liran' Roll",
   "tracks": [
     {
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258438,
+      "name": "No Puedo So\u00f1ar",
+      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
+    },
+    {
+      "album": {
         "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
         "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
       },
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 158267,
       "name": "Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/5UGbVlpbOP666CxjZ1ma5A"

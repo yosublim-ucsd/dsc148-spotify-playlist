@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 58245,
+  "num_followers": 58257,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq3/PgAAAADUh0QJ8M3htIxpYFogSKCJ",
+  "snapshot_id": "ZrCDAAAAAACaMnKPg76cQUdYLve742BH",
   "tracks": [
     {
       "added_at": "2024-07-26 08:56:15",
@@ -27,6 +27,26 @@
       "duration_ms": 150320,
       "name": "Parapancha Gama Gama (From \"Powder\")",
       "url": "https://open.spotify.com/track/6QuKhsfpCh54jrPphwdGyV"
+    },
+    {
+      "added_at": "2024-08-05 07:45:04",
+      "album": {
+        "name": "Nagunaguta Edebadita (From \"Tenant\") (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1p9Ypde4bd9P3AeeuOspbB"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "Nagunaguta Edebadita (From \"Tenant\") (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/59nurG5HKf5mWx5jn2JuZi"
     },
     {
       "added_at": "2024-07-29 04:55:35",
@@ -53,6 +73,30 @@
       "url": "https://open.spotify.com/track/20TE5yIQQXnxp3qxTh1SwM"
     },
     {
+      "added_at": "2024-08-05 07:31:59",
+      "album": {
+        "name": "Vidyarthi Vidyarthiniyare Rap (From \"Vidyarthi Vidyarthiniyare\")",
+        "url": "https://open.spotify.com/album/5erpWVd807RDawUUlvY5hd"
+      },
+      "artists": [
+        {
+          "name": "Chirayu",
+          "url": "https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ"
+        },
+        {
+          "name": "Harshith Shetty",
+          "url": "https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN"
+        },
+        {
+          "name": "Vijeth Krishna",
+          "url": "https://open.spotify.com/artist/5bqjClcwNAPtn90N8wSdoy"
+        }
+      ],
+      "duration_ms": 64106,
+      "name": "Vidyarthi Vidyarthiniyare Rap (From \"Vidyarthi Vidyarthiniyare\")",
+      "url": "https://open.spotify.com/track/7xMgUdnPySspcAnKTTIK49"
+    },
+    {
       "added_at": "2024-07-26 08:57:01",
       "album": {
         "name": "Aho Vikramaarka(Title Track)(From \"Aho Vikramaarka\")(Kannada)",
@@ -77,30 +121,6 @@
       "url": "https://open.spotify.com/track/2ZuFo6MalxRN86fpQM2ire"
     },
     {
-      "added_at": "2024-07-12 10:14:02",
-      "album": {
-        "name": "Sadaa Neene (From \"Ibbani Tabbida Ileyali\")",
-        "url": "https://open.spotify.com/album/41RkrCKuHU0uO2O58mLMq2"
-      },
-      "artists": [
-        {
-          "name": "Gagan Baderiya",
-          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/6y0fX1VsvikMf62did3WY1"
-        },
-        {
-          "name": "Arun Kamath",
-          "url": "https://open.spotify.com/artist/1LhVMgynbTBbaAAExyqjFa"
-        }
-      ],
-      "duration_ms": 226975,
-      "name": "Sadaa Neene (From \"Ibbani Tabbida Ileyali\")",
-      "url": "https://open.spotify.com/track/0LNLgN8Prqzm7OsMO88e3L"
-    },
-    {
       "added_at": "2024-05-28 10:34:47",
       "album": {
         "name": "My Marriage is Fixed (From \"Krishnam Pranaya Sakhi\")",
@@ -123,6 +143,30 @@
       "duration_ms": 200374,
       "name": "My Marriage is Fixed (From \"Krishnam Pranaya Sakhi\")",
       "url": "https://open.spotify.com/track/06dfByjLibFeOmhFAy6hLr"
+    },
+    {
+      "added_at": "2024-07-12 10:14:02",
+      "album": {
+        "name": "Sadaa Neene (From \"Ibbani Tabbida Ileyali\")",
+        "url": "https://open.spotify.com/album/41RkrCKuHU0uO2O58mLMq2"
+      },
+      "artists": [
+        {
+          "name": "Gagan Baderiya",
+          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/6y0fX1VsvikMf62did3WY1"
+        },
+        {
+          "name": "Arun Kamath",
+          "url": "https://open.spotify.com/artist/1LhVMgynbTBbaAAExyqjFa"
+        }
+      ],
+      "duration_ms": 226975,
+      "name": "Sadaa Neene (From \"Ibbani Tabbida Ileyali\")",
+      "url": "https://open.spotify.com/track/0LNLgN8Prqzm7OsMO88e3L"
     },
     {
       "added_at": "2024-08-03 09:57:32",
@@ -1779,54 +1823,6 @@
       "duration_ms": 244094,
       "name": "Beedhi Naayi (From \"Chilli Chicken\")",
       "url": "https://open.spotify.com/track/3ufcjao8FIR9hSFtHpp4yY"
-    },
-    {
-      "added_at": "2024-05-28 10:35:35",
-      "album": {
-        "name": "Dollu Vadhya Tamate (From \"Sambhavami Yuge Yuge\")",
-        "url": "https://open.spotify.com/album/2SkkuDFX4FUe9SOGz0UABp"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Sparsha",
-          "url": "https://open.spotify.com/artist/3KvE7gDcYvmTFOZhzMvpM3"
-        },
-        {
-          "name": "Puran Shettigaar",
-          "url": "https://open.spotify.com/artist/1H57nTqeH3QL2sa4abWwzQ"
-        },
-        {
-          "name": "Arasu Anthare",
-          "url": "https://open.spotify.com/artist/0g7RzAVhQCg5PnqSGbybHl"
-        }
-      ],
-      "duration_ms": 211368,
-      "name": "Dollu Vadhya Tamate (From \"Sambhavami Yuge Yuge\")",
-      "url": "https://open.spotify.com/track/0uERQX8xkT9lerS3h2N7fO"
-    },
-    {
-      "added_at": "2024-05-31 11:53:22",
-      "album": {
-        "name": "Denna Dennana (From \"Aarata\")",
-        "url": "https://open.spotify.com/album/7KZsZD2dIObSdCBmcwP4AM"
-      },
-      "artists": [
-        {
-          "name": "Shameer Mudipu",
-          "url": "https://open.spotify.com/artist/7ey1yG4zjWT6QvVl6PiMHN"
-        },
-        {
-          "name": "Yogish",
-          "url": "https://open.spotify.com/artist/6mGMMEFhLF0XMMlkeeFwNj"
-        }
-      ],
-      "duration_ms": 230021,
-      "name": "Denna Dennana (From \"Aarata\")",
-      "url": "https://open.spotify.com/track/288JtZxeZO5E3Fz09qophV"
     }
   ],
   "unique_name": "Latest Kannada",

@@ -1,13 +1,157 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Aug 04:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Aug 22:02 UTC.",
   "num_followers": 81,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAKKjDGRc74YNOz7BQ8XVOiAVTmFLYi",
+  "snapshot_id": "AAAKMkAHbh6H+Ui4OzQwt5TkKWD0JjiU",
   "tracks": [
+    {
+      "added_at": "2024-08-05 04:03:04",
+      "album": {
+        "name": "Teleport",
+        "url": "https://open.spotify.com/album/3U8uDkXEkcBwsqZeizd6No"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 205683,
+      "name": "Teleport",
+      "url": "https://open.spotify.com/track/3C3nXh1MLj9dP4BYPMrzTG"
+    },
+    {
+      "added_at": "2024-08-05 10:03:02",
+      "album": {
+        "name": "Open \u266deta v6.3",
+        "url": "https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
+    },
+    {
+      "added_at": "2024-08-05 04:03:04",
+      "album": {
+        "name": "Lacking The Ability To Process Empathy",
+        "url": "https://open.spotify.com/album/7d4zBQEnRPl0UUbYruOJcT"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "duration_ms": 123135,
+      "name": "Lacking The Ability To Process Empathy",
+      "url": "https://open.spotify.com/track/3kb9BsVoZ7nmkER1RC6uf2"
+    },
+    {
+      "added_at": "2024-08-05 22:02:50",
+      "album": {
+        "name": "Wake Up, Pass Out",
+        "url": "https://open.spotify.com/album/0jTdu9HM5JSNEvpp5GfwTz"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "duration_ms": 178357,
+      "name": "Wake Up, Pass Out",
+      "url": "https://open.spotify.com/track/0ISluANGR8RAokUJCzRygg"
+    },
+    {
+      "added_at": "2024-08-05 04:03:04",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/184TqCB5vQl2giqvkIseXi"
+      },
+      "artists": [
+        {
+          "name": "Swervedriver",
+          "url": "https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu"
+        }
+      ],
+      "duration_ms": 293360,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/1cW18O15IbVkNa3oL3kP60"
+    },
+    {
+      "added_at": "2024-08-05 16:03:06",
+      "album": {
+        "name": "Figurine",
+        "url": "https://open.spotify.com/album/5pvsJWmAaxSogRTDUpzPO6"
+      },
+      "artists": [
+        {
+          "name": "Half Waif",
+          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Figurine",
+      "url": "https://open.spotify.com/track/5WQNJC3Gzh6oF0rPOWDSgW"
+    },
+    {
+      "added_at": "2024-08-05 16:03:06",
+      "album": {
+        "name": "Demons My Darling",
+        "url": "https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t"
+      },
+      "artists": [
+        {
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
+        }
+      ],
+      "duration_ms": 188414,
+      "name": "Demons My Darling",
+      "url": "https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx"
+    },
+    {
+      "added_at": "2024-08-05 10:03:02",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/2hhn24AwG16XpH7LB46maT"
+      },
+      "artists": [
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/0eVl59SHjKL1BKi1AjQB5U"
+    },
+    {
+      "added_at": "2024-08-05 16:03:06",
+      "album": {
+        "name": "I Wanna Go With Dignity",
+        "url": "https://open.spotify.com/album/5HqM5quuQo2mXWC7lRx7CH"
+      },
+      "artists": [
+        {
+          "name": "Peter Perrett",
+          "url": "https://open.spotify.com/artist/1AcMngBo2RJdnnciklA9Cx"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "I Wanna Go With Dignity",
+      "url": "https://open.spotify.com/track/3DQCq5hNiKcz4BzHsKWhJC"
+    },
     {
       "added_at": "2024-08-04 04:02:41",
       "album": {
@@ -23,6 +167,38 @@
       "duration_ms": 132666,
       "name": "GUILT (INTERLUDE)",
       "url": "https://open.spotify.com/track/0Xue33evzs23fiHffWy2c3"
+    },
+    {
+      "added_at": "2024-08-05 16:03:06",
+      "album": {
+        "name": "Squat",
+        "url": "https://open.spotify.com/album/3LB7rCViWkPB7fQhRNwiOR"
+      },
+      "artists": [
+        {
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Squat",
+      "url": "https://open.spotify.com/track/2tAxxd0meQYAe9RV41J3fJ"
+    },
+    {
+      "added_at": "2024-08-05 04:03:04",
+      "album": {
+        "name": "Don't Tell My Papa",
+        "url": "https://open.spotify.com/album/2Mxm0aqGb4dFaEf6kj8kFP"
+      },
+      "artists": [
+        {
+          "name": "cacophony",
+          "url": "https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9"
+        }
+      ],
+      "duration_ms": 212071,
+      "name": "Don't Tell My Papa",
+      "url": "https://open.spotify.com/track/25xBTsB2GbF5ce1YgX9I1T"
     },
     {
       "added_at": "2024-08-03 10:03:23",
@@ -49,22 +225,6 @@
       "url": "https://open.spotify.com/track/2NSW4qmlIH579VojzLlPdE"
     },
     {
-      "added_at": "2024-08-04 04:02:41",
-      "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/06uoX3aAmIFypUIblVoQnp"
-      },
-      "artists": [
-        {
-          "name": "Chauncey666",
-          "url": "https://open.spotify.com/artist/2RrDgEA06BdjYXlzCHRmUh"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/0JEBGDE606MtNgI4BZinFH"
-    },
-    {
       "added_at": "2024-08-03 10:03:23",
       "album": {
         "name": "EENIE MINEY MOE",
@@ -83,6 +243,22 @@
       "duration_ms": 142200,
       "name": "EENIE MINEY MOE",
       "url": "https://open.spotify.com/track/0NrlymF1upG5Ebz8RCbVkg"
+    },
+    {
+      "added_at": "2024-08-04 04:02:41",
+      "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/06uoX3aAmIFypUIblVoQnp"
+      },
+      "artists": [
+        {
+          "name": "Chauncey666",
+          "url": "https://open.spotify.com/artist/2RrDgEA06BdjYXlzCHRmUh"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/0JEBGDE606MtNgI4BZinFH"
     },
     {
       "added_at": "2024-08-03 16:02:14",
@@ -399,7 +575,7 @@
     {
       "added_at": "2024-08-02 16:03:12",
       "album": {
-        "name": "Dear Maria, Count Me In (ATL's Version)",
+        "name": "Dear Maria, Count Me In - ATL's Version",
         "url": "https://open.spotify.com/album/1pH81EVN0YItmlphDI5k6b"
       },
       "artists": [
@@ -683,210 +859,6 @@
       "duration_ms": 120000,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/715uuFtch4RORmQHXT6w6Y"
-    },
-    {
-      "added_at": "2024-08-02 04:04:27",
-      "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/1waexo4uVIgajbWqw7QWs9"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        }
-      ],
-      "duration_ms": 254881,
-      "name": "Undercurrent",
-      "url": "https://open.spotify.com/track/0rPNzmwmL3cr4gFv77hRdy"
-    },
-    {
-      "added_at": "2024-08-02 04:04:27",
-      "album": {
-        "name": "High Hopes (feat. Marcus King)",
-        "url": "https://open.spotify.com/album/4B2TU5PQf1ZZvmRxgWKf9A"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 232084,
-      "name": "High Hopes (feat. Marcus King)",
-      "url": "https://open.spotify.com/track/0cRpS8FK3ulhk8FJfRsuOg"
-    },
-    {
-      "added_at": "2024-08-02 22:02:42",
-      "album": {
-        "name": "Postlude (After Seven Winters)",
-        "url": "https://open.spotify.com/album/7BrgpyCBplIu31RaQkaqZm"
-      },
-      "artists": [
-        {
-          "name": "Tigran Hamasyan",
-          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
-        }
-      ],
-      "duration_ms": 143198,
-      "name": "Postlude - After Seven Winters",
-      "url": "https://open.spotify.com/track/4fwb3VZKAdJwqwGQXG7lNh"
-    },
-    {
-      "added_at": "2024-08-02 04:04:27",
-      "album": {
-        "name": "The South Atlantic",
-        "url": "https://open.spotify.com/album/4sDP7b2EZYKVjLfooyXXzn"
-      },
-      "artists": [
-        {
-          "name": "Public Service Broadcasting",
-          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
-        },
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 240806,
-      "name": "The South Atlantic",
-      "url": "https://open.spotify.com/track/1eihT0cCPaJnZZON3VWLUw"
-    },
-    {
-      "added_at": "2024-08-02 04:04:27",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0BN0TP6joQ4n47Vx8u4gyU"
-      },
-      "artists": [
-        {
-          "name": "Aarne",
-          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
-        },
-        {
-          "name": "BUSHIDO ZHO",
-          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/1xLzlr72jRS1ZJO0JZrbeb"
-    },
-    {
-      "added_at": "2024-08-02 04:04:27",
-      "album": {
-        "name": "Swim Team",
-        "url": "https://open.spotify.com/album/3cXWNfufTSW2A552Wv3WAY"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 191772,
-      "name": "Swim Team",
-      "url": "https://open.spotify.com/track/02bspHTO5nyWnlC57g6N2K"
-    },
-    {
-      "added_at": "2024-08-02 22:02:42",
-      "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
-    },
-    {
-      "added_at": "2024-08-02 04:04:27",
-      "album": {
-        "name": "Whirlpool",
-        "url": "https://open.spotify.com/album/3u7MVQUwx8sQojdYdhDuoi"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 193788,
-      "name": "Whirlpool",
-      "url": "https://open.spotify.com/track/60IPtq59BYIZV286zKTPWi"
-    },
-    {
-      "added_at": "2024-08-02 04:04:27",
-      "album": {
-        "name": "Angel Of My Dreams (The Blessed Madonna Remix)",
-        "url": "https://open.spotify.com/album/1n8kIJGPh8kYDo7uq61nlm"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        },
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 233517,
-      "name": "Angel Of My Dreams - The Blessed Madonna Remix",
-      "url": "https://open.spotify.com/track/4RHuNJ15rehEsv1vyaBvpf"
-    },
-    {
-      "added_at": "2024-08-02 16:03:12",
-      "album": {
-        "name": "Bad Bitty (Remix)",
-        "url": "https://open.spotify.com/album/2IqdtKRnm3asGfNDy5ZC1a"
-      },
-      "artists": [
-        {
-          "name": "J.P.",
-          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 143317,
-      "name": "Bad Bitty (Remix)",
-      "url": "https://open.spotify.com/track/4O0ZqgeNiK0sxwgFOa64xv"
-    },
-    {
-      "added_at": "2024-08-03 16:02:14",
-      "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/2OHZINTKWO2VubhR1sLnQz"
-      },
-      "artists": [
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        },
-        {
-          "name": "Abhi The Nomad",
-          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
-        }
-      ],
-      "duration_ms": 170224,
-      "name": "Contra",
-      "url": "https://open.spotify.com/track/5dNknTci8ACjSrq1A9zdwW"
     }
   ],
   "unique_name": "New Singles Now",

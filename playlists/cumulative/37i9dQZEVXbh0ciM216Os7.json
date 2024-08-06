@@ -31309,6 +31309,24 @@
     },
     {
       "album": {
+        "name": "Flic ou voyou / Le Guignolo (Bandes originales des films)",
+        "url": "https://open.spotify.com/album/6wiXIJRncNaAonhEBFi6Bb"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127240,
+      "name": "Tout nou - Bande originale du film \"Flic ou voyou\"",
+      "url": "https://open.spotify.com/track/2xieSVze8QaFJ1Ghb1GQWP"
+    },
+    {
+      "album": {
         "name": "TOUT SE TRANSFORME. (Bande originale du film \u00ab Transformers : Rise of the Beasts \u00bb)",
         "url": "https://open.spotify.com/album/4942z9KXuhycjmnLLmUDjS"
       },
@@ -32160,7 +32178,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 147760,
       "name": "Variation voyou - Bande originale du film \"Flic ou voyou\"",
       "url": "https://open.spotify.com/track/1IBberkY9L1xOpLH9OOvaQ"

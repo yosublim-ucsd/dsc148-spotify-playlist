@@ -4,7 +4,7 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Gepe.
 
-113 songs - 6 hr 35 min
+114 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Loca](https://open.spotify.com/track/0OXWX6Ftyyi5XTrF4ddd1k) | [Gabo Ferro](https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT), [Edgardo Gonzalez](https://open.spotify.com/artist/3VnhYHJGJrZXNsfDtlAodX) | [Loca](https://open.spotify.com/album/76csASXSjCjWAFGT0p4BUS) | 2:58 | 2024-06-28 | 2024-08-02 |
 | [Los Ancestros](https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Los Ancestros](https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24) | 4:10 | 2024-06-28 |  |
 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2024-06-28 |  |
+| [Magia](https://open.spotify.com/track/032IsZRdgIFxxLgDZvxfwU) | [Abi González](https://open.spotify.com/artist/3ZdD1ROrESvZQwaDDEfNsV), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Magia](https://open.spotify.com/album/2P9LDrehwuTIPxyyQpTlOA) | 4:18 | 2024-08-02 |  |
 | [Malagradecida](https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Porteña](https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC) | 4:14 | 2024-06-28 |  |
 | [Manifiesto](https://open.spotify.com/track/2DriY7omaJqzaZcCdxjDxy) | [Tabaré Cardozo](https://open.spotify.com/artist/5Xm9ynJD7wkdtI5HR2ux9K), [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Manifiesto](https://open.spotify.com/album/60t1Byt25uDw3pC7EOSFb4) | 3:03 | 2024-06-28 |  |
 | [me hace bien amar\(te\)](https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [me hace bien amar\(te\)](https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2) | 3:43 | 2024-06-28 |  |
@@ -119,7 +120,7 @@
 | [Volcán](https://open.spotify.com/track/11ghPyvgElco6V1zTobhhH) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Volcán](https://open.spotify.com/album/0n0iQz8aCLM6Xod7ApHddr) | 3:04 | 2024-06-28 |  |
 | [Vuelve](https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Vuelve](https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx) | 4:35 | 2024-06-28 |  |
 | [Ya No](https://open.spotify.com/track/6dQOKFz7kc78aMWHTKNJN4) | [Idea Blanco](https://open.spotify.com/artist/2Po6ad6yuJHVPjd40q4ipt), [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Ya No](https://open.spotify.com/album/7492tJpGlwrroaV9KnT0qI) | 3:26 | 2024-06-28 |  |
-| [Ya no sigo esperando por ti](https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Ya no sigo esperando por ti](https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN) | 3:02 | 2024-06-28 |  |
+| [Ya no sigo esperando por ti](https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Ya no sigo esperando por ti](https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN) | 3:02 | 2024-06-28 | 2024-08-06 |
 | [¿A Dónde Van? \- Versión "La Memoria Infinita"](https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [¿A Dónde Van? \(Versión "La Memoria Infinita"\)](https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj) | 4:37 | 2024-06-28 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

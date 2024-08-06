@@ -2757,6 +2757,24 @@
     },
     {
       "album": {
+        "name": "Grown up man",
+        "url": "https://open.spotify.com/album/06o31SH5UNDDpnRNYIcqWa"
+      },
+      "artists": [
+        {
+          "name": "paulkyte",
+          "url": "https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "Grown up man",
+      "url": "https://open.spotify.com/track/3ZZ2qqLij5dxYBR4D1np2c"
+    },
+    {
+      "album": {
         "name": "Gummy Bear",
         "url": "https://open.spotify.com/album/1Br49yy12uY6vswyCcZg5S"
       },
@@ -5638,7 +5656,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 146893,
       "name": "Pretty mob",
       "url": "https://open.spotify.com/track/5hyGp7V6Kg5C6oAmCUzXNr"

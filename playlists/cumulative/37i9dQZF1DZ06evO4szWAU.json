@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "This Is Willie Col\u00f3n. Los temas esenciales, todos en una lista.",
+  "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
   "name": "This Is Willie Col\u00f3n",
   "tracks": [
     {
@@ -148,6 +148,28 @@
       "duration_ms": 306640,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
+    },
+    {
+      "album": {
+        "name": "Doble Energ\u00eda (Remastered 2024)",
+        "url": "https://open.spotify.com/album/4H1F0dgVi4Wf7y3UhyDeCi"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201507,
+      "name": "Bandolera - Remastered 2024",
+      "url": "https://open.spotify.com/track/4sxFq2CbgFXCPPs9cwBHTC"
     },
     {
       "album": {

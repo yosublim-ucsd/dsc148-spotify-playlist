@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Time to pull back that siren at 2024 RIIZE FAN\-CON ‘RIIZING DAY’ in Singapore\. Cover: RIIZE
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,518 likes - 11 songs - 31 min 59 sec
+[Spotify](https://open.spotify.com/user/spotify) - 63,492 likes - 11 songs - 31 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

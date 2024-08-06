@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURpudUPHCVg.md) - [plain]
 
 > Escucha a estos creadores, seleccionados por nuestro equipo editorial de podcasts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153 likes - 9 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 152 likes - 9 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

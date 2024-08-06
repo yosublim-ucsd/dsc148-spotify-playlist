@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Armenta & Calle 24
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,696 likes - 104 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,724 likes - 104 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

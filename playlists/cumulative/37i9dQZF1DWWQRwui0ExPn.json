@@ -15090,7 +15090,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 128250,
       "name": "Bougainvillea.",
       "url": "https://open.spotify.com/track/1sm4S7UcJEBe7qHusbRLMS"
@@ -96041,6 +96041,24 @@
     },
     {
       "album": {
+        "name": "Right&Left",
+        "url": "https://open.spotify.com/album/2z8B6fu05BifTQmsOeQ0Cs"
+      },
+      "artists": [
+        {
+          "name": "Hans Hu$tle",
+          "url": "https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Right&Left",
+      "url": "https://open.spotify.com/track/2xvcgM5or71q13LkfHiwBo"
+    },
+    {
+      "album": {
         "name": "Dusty Flakes",
         "url": "https://open.spotify.com/album/0LPy3os38sSx8r4wZbyplQ"
       },
@@ -102968,6 +102986,28 @@
       "duration_ms": 160384,
       "name": "Sky Waves",
       "url": "https://open.spotify.com/track/7fMVi69nFB0oJaZ5w96QBT"
+    },
+    {
+      "album": {
+        "name": "Skycrossing",
+        "url": "https://open.spotify.com/album/6Afs1sIRAflGXM1mgiQBKB"
+      },
+      "artists": [
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
+        },
+        {
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133291,
+      "name": "Skycrossing",
+      "url": "https://open.spotify.com/track/2iJnEx2P91IVDJRs3kErCx"
     },
     {
       "album": {
@@ -124202,7 +124242,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 143095,
       "name": "Up In The Air",
       "url": "https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf"

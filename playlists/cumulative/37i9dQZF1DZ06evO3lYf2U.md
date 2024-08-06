@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3lYf2U.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3lYf2U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3lYf2U)
 
-### [This Is Central Cee ነው](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lYf2U)
+### [This Is Central Cee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lYf2U)
 
-> This is Central Cee\. አስፈላጊዎቹ ሙዚቃዎች፣ ሁሉም በአንድ አጫዋች ዝርዝር ውስጥ።
+> This is Central Cee\. The essential tracks, all in one playlist.
 
 64 songs - 3 hr 19 min
 

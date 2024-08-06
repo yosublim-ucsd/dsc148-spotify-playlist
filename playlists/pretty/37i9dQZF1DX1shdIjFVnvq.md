@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 
 > Can't stop, won't stop! Cover: Ufo361
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,306 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,313 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 | 13 | [Highs & Lows](https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9), [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Highs & Lows](https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6) | 2:04 |
 | 14 | [BIG BOY MAYBACH](https://open.spotify.com/track/4UdJXVKmKAukXTYXaZU2hp) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [BIG BOY MAYBACH](https://open.spotify.com/album/5qgarwVspF0Zd43gg1BO2l) | 2:31 |
 | 15 | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7) | 2:45 |
-| 16 | [Licht aus](https://open.spotify.com/track/2ICTOUkSaXWPrdJGZhJIkS) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Licht aus](https://open.spotify.com/album/6rr25QYhr7Npg4qRfFoR7i) | 2:15 |
-| 17 | [TRAUM](https://open.spotify.com/track/2Ff2FEo4Mx1pxEooBtYRJO) | [KIDD KAWAKI](https://open.spotify.com/artist/117qzw3tdGJOdskljHEz7E), [KAI$eR](https://open.spotify.com/artist/05RavFGI8wKr5OhDc6FDiC) | [TRAUM](https://open.spotify.com/album/5rKISdAGQgtpM3S4b6mpd7) | 2:46 |
+| 16 | [TRAUM](https://open.spotify.com/track/2Ff2FEo4Mx1pxEooBtYRJO) | [KIDD KAWAKI](https://open.spotify.com/artist/117qzw3tdGJOdskljHEz7E), [KAI$eR](https://open.spotify.com/artist/05RavFGI8wKr5OhDc6FDiC) | [TRAUM](https://open.spotify.com/album/5rKISdAGQgtpM3S4b6mpd7) | 2:46 |
+| 17 | [Licht aus](https://open.spotify.com/track/2ICTOUkSaXWPrdJGZhJIkS) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Licht aus](https://open.spotify.com/album/6rr25QYhr7Npg4qRfFoR7i) | 2:15 |
 | 18 | [Went Hollywood For A Year](https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Went Hollywood For A Year](https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K) | 2:07 |
 | 19 | [444](https://open.spotify.com/track/5cBq3Gi5YAC3uHXeirULQB) | [YFG Pave](https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C) | [444](https://open.spotify.com/album/51MOG5KfpINdy199XNU9Py) | 2:28 |
 | 20 | [letzter tag](https://open.spotify.com/track/0xu6dHIkh2eaLAhMRR3da0) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [lieder vom leben](https://open.spotify.com/album/6lTnRSnWUH4ROGLZWn1cOW) | 3:09 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 | 64 | [High Price \(with Lil Tjay\)](https://open.spotify.com/track/2OvqbosjvY48JgqmySJ2l2) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [High Price \(with Lil Tjay\)](https://open.spotify.com/album/0e72MQklCxJo0IJXGmbz8Y) | 3:12 |
 | 65 | [Theorie und Praxis](https://open.spotify.com/track/3SE6QeQcTbrV4goXLIU1xm) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Theorie und Praxis](https://open.spotify.com/album/23sHEkOm49h3AwijvtsTJW) | 2:35 |
 | 66 | [Favorite Song \(with Khalid\) \[Remix\]](https://open.spotify.com/track/5f2pD2WaRRe1rmsyzQDcpl) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Favorite Song \(with Khalid\) \[Remix\]](https://open.spotify.com/album/6aq5eEl7b51s5OUYV8ve6b) | 3:43 |
-| 67 | [Bandobaby](https://open.spotify.com/track/7boObDJdYuCPRUpoWWVmrY) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Bandobaby](https://open.spotify.com/album/5tKhFf4aj7z4C9rljQsZg6) | 1:43 |
-| 68 | [KEIN BOCK](https://open.spotify.com/track/17nxI4xmWZ77QFqS6ORmXb) | [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [KEIN BOCK](https://open.spotify.com/album/7a945kLwQNKTBlheutviOK) | 3:25 |
+| 67 | [KEIN BOCK](https://open.spotify.com/track/17nxI4xmWZ77QFqS6ORmXb) | [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [KEIN BOCK](https://open.spotify.com/album/7a945kLwQNKTBlheutviOK) | 3:25 |
+| 68 | [Bandobaby](https://open.spotify.com/track/7boObDJdYuCPRUpoWWVmrY) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Bandobaby](https://open.spotify.com/album/5tKhFf4aj7z4C9rljQsZg6) | 1:43 |
 | 69 | [Fühlst du](https://open.spotify.com/track/5cHPMo64nOHGBORMiHRAHk) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Fühlst du](https://open.spotify.com/album/62GUjlJg6JvI7rKBcy8q9T) | 2:15 |
 | 70 | [Anders](https://open.spotify.com/track/4lzSnLOG22jku5KeUqHQeF) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [Anders](https://open.spotify.com/album/0q5J5FGV38y8CEHbxiEYNz) | 2:09 |
 | 71 | [Can't Get It Back](https://open.spotify.com/track/7ypWDgxhvNIsDB3RPH6FSf) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Can't Get It Back](https://open.spotify.com/album/47St3rJPe4fEEd6fUPPTs8) | 2:47 |

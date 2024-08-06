@@ -1079,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "I.D.G.A.F",
+        "url": "https://open.spotify.com/album/5HqvriTTVPLaWfQfZykTQz"
+      },
+      "artists": [
+        {
+          "name": "Bob.B Randhawa",
+          "url": "https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC"
+        },
+        {
+          "name": "Mani Sidhu",
+          "url": "https://open.spotify.com/artist/3uxMBHiw4EJoiEwCbsoYqN"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268467,
+      "name": "IDGAF M1",
+      "url": "https://open.spotify.com/track/5GRBhy8yYd1cDcWX4g5VW0"
+    },
+    {
+      "album": {
         "name": "Infamous",
         "url": "https://open.spotify.com/album/2qzB2fBbECaMwqECCIJPN0"
       },
@@ -2080,7 +2102,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 288486,
       "name": "Swing",
       "url": "https://open.spotify.com/track/0hK7JnRaiYq1Mc5L3zX0t3"

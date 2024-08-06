@@ -4,7 +4,7 @@
 
 > did you guess billie x charli x the dare x dylan brady?  cover: Charli xcx & Billie Eilish
 
-2,907 songs - 6 day 12 hr 58 min
+2,909 songs - 6 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,7 +636,7 @@
 | [Deadbeat Summer](https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Psychic Chasms](https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF) | 4:02 | 2024-05-03 | 2024-06-01 |
 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [DEAR MISS HOLLOWAY](https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU) | 3:29 | 2022-05-27 | 2022-08-04 |
 | [Dear Prudence](https://open.spotify.com/track/2zpd0M5FkvGrMgOTVOlEMW) | [Dana Fuchs](https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB), [Jim Sturgess](https://open.spotify.com/artist/15cfE4nzURJUvrUyqsrMuF), [Evan Rachel Wood](https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v), [T.V\. Carpio](https://open.spotify.com/artist/1a99hRwEKy7OTVTjzHOExM) | [Across The Universe](https://open.spotify.com/album/0wk2LEg0xFuuRq35UuLoNz) | 5:18 | 2020-10-09 | 2020-10-20 |
-| [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-05-31 |  |
+| [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-05-31 | 2024-08-06 |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2020-02-11 | 2020-07-01 |
 | [death wish](https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE) | 3:17 | 2021-04-10 | 2021-05-19 |
 | [DEATHWISH](https://open.spotify.com/track/1OwAfrgAN5H0PVF3OSPY6I) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [i think there's something wrong with joshy](https://open.spotify.com/album/1iero6O9P7g7IFkY96TGU4) | 2:30 | 2023-02-03 | 2023-03-07 |
@@ -1307,6 +1307,7 @@
 | [imperfect for you \- acoustic](https://open.spotify.com/track/0blfewz7XXrjsZd5WnHwgE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 3:03 | 2024-03-13 | 2024-07-27 |
 | [Impress You](https://open.spotify.com/track/1ErdywFnm0dfwqzVwvtZ9O) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Impress You](https://open.spotify.com/album/7LoFWSATc3Vpu8Uv49D4oP) | 3:13 | 2020-09-10 | 2020-11-11 |
 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-17 | 2023-04-20 |
+| [In & Out of Time](https://open.spotify.com/track/04HUqn66kaoDpNHmgCTUEm) | [Casino Hearts](https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z) | [In & Out of Time](https://open.spotify.com/album/6L3Gfeq2jaRbWrzjSiR2MQ) | 5:20 | 2024-08-05 |  |
 | [In Between Plans](https://open.spotify.com/track/4T59PtRxilhsLFWxWabCEm) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [In Between Plans](https://open.spotify.com/album/0YdjMWhmusn8W2QrDYYuAz) | 3:46 | 2019-07-30\* | 2019-10-11 |
 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 | 2023-03-24 | 2023-07-12 |
 | [In My Head](https://open.spotify.com/track/1tT55K6VEyO6XFDxK4lDQe) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/1Ww9Yz5WDGdxBhS5FlVy6Y) | 3:34 | 2019-07-30\* | 2019-10-03 |
@@ -2406,6 +2407,7 @@
 | [Summa](https://open.spotify.com/track/2FvCf9lhKJLTWv41CZFV8W) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Summa](https://open.spotify.com/album/1Wuau6PiAXVPTwKlZKEskG) | 2:39 | 2019-08-02 | 2019-11-14 |
 | [Summa Glo](https://open.spotify.com/track/2iAKOeAInq4myXRXSwalRI) | [Apricot Ink](https://open.spotify.com/artist/1G1wiJFW17GKtPfxUNLPhJ) | [Summa Glo](https://open.spotify.com/album/2C7pH4yGqHN7ol7C4BZr2D) | 3:05 | 2023-04-14 | 2023-04-25 |
 | [Summer](https://open.spotify.com/track/3YmTTULju4GaSlnkizJPrq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/1YHlj5gp5YYLcBscSxBNHA) | 4:02 | 2020-06-29 | 2020-08-21 |
+| [Summer 2000 Baby](https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Summer 2000 Baby / Take a Trip](https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4) | 4:02 | 2024-08-05 |  |
 | [Summer Child](https://open.spotify.com/track/17XgSTOKbdWHtMsHKFUWYp) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/7FC09mQFRxQnKhNXDikU6p) | 2:59 | 2022-06-24 | 2022-08-13 |
 | [Summer Fade \(feat\. Anna of the North\)](https://open.spotify.com/track/3UIGE2FXaUUcYWA31Og0XO) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Summer Fade \(feat\. Anna of the North\)](https://open.spotify.com/album/5bB44dDIsNlLs2vRUMsrWd) | 3:24 | 2019-08-30 | 2020-01-10 |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2019-08-02 | 2019-09-27 |

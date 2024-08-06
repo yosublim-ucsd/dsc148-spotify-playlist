@@ -9847,6 +9847,32 @@
     },
     {
       "album": {
+        "name": "Brightly",
+        "url": "https://open.spotify.com/album/7o2bLQeYIf86HGtCn5KaBT"
+      },
+      "artists": [
+        {
+          "name": "Lowkey",
+          "url": "https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO"
+        },
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        },
+        {
+          "name": "Mononome",
+          "url": "https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105542,
+      "name": "Brightly",
+      "url": "https://open.spotify.com/track/3yxSrw45IzjWwz70XqUV8j"
+    },
+    {
+      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/1YIwJeWvyvCIVzwHvDag5s"
       },
@@ -81278,7 +81304,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-06",
       "duration_ms": 121558,
       "name": "way home",
       "url": "https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR"

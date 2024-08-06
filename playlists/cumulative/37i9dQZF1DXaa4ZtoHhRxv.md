@@ -2,9 +2,9 @@
 
 ### [Country Club](https://open.spotify.com/playlist/37i9dQZF1DXaa4ZtoHhRxv)
 
-> Dale! Hit the dance floor with Dolly Parton and Pitbull!
+> Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-206 songs - 11 hr 7 min
+207 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [When It Rains It Pours](https://open.spotify.com/track/3hKjUWneThtWscAoDLwvfT) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK) | [When It Rains It Pours](https://open.spotify.com/album/1AWyoDW2cHPNx50Hs6uHpC) | 4:00 | 2023-05-19 |  |
 | [Whiskey On You \- MOTi Remix](https://open.spotify.com/track/71lK60jidcsiwpbajRFVYX) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Whiskey On You \(MOTi Remix\)](https://open.spotify.com/album/6cfd4vhDiISxkUnPIjWztR) | 3:06 | 2023-01-27 |  |
 | [Wildfire \- Talegate Remix](https://open.spotify.com/track/2UkreilNoKlrqe6VdXV0uq) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Talegate](https://open.spotify.com/artist/00IczxaF2dh2W68AutGoC6) | [Wildfire \(Talegate Remix\)](https://open.spotify.com/album/1IKEWDplIqMd1mVslUmasc) | 3:06 | 2021-12-10 |  |
+| [Wildflowers and Wild Horses \(Remix\)](https://open.spotify.com/track/40WlYQ6Vv0cwmJi4lVQARo) | [Brandi Cyrus](https://open.spotify.com/artist/0Derlvisw6ty4fMjauZh9A), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses \(Remix\)](https://open.spotify.com/album/7LSlBPrtlUU7Ip0keE5emb) | 3:06 | 2024-08-05 |  |
 | [Willing To Let You Go \(feat\. Anella Herim & Abby Anderson\)](https://open.spotify.com/track/1ZZaOAx86pHrZR7Kb0RbKM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Diplo Presents Thomas Wesley: The Mixtape](https://open.spotify.com/album/2YEVAviqPGlcnc2ruyXcPE) | 3:12 | 2024-04-26 |  |
 | [World on Fire \- VAVO Remix](https://open.spotify.com/track/7uzhzMMLvN8GKb0JhBs1uc) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [World on Fire \(VAVO Remix\)](https://open.spotify.com/album/55hKzA1ahojcAZL1ukmRmB) | 2:33 | 2023-12-08 |  |
 | [Wrong Side Of Love \(with Darius Rucker\)](https://open.spotify.com/track/41j9A7KuBLcRfO0IKmAYcc) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Wrong Side Of Love](https://open.spotify.com/album/22JimFUaCr4DaWx7b6FWoJ) | 3:49 | 2021-12-10 |  |
